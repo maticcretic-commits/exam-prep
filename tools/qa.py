@@ -22,6 +22,12 @@ ROOT = Path(__file__).resolve().parent.parent
 # legacy counts established via the page's real parse path (node eval)
 EXPECTED = {
     "ssc": {"questions": 826, "oneliners": 400, "capsules": 366},
+    "pte": {"questions": 574, "oneliners": 0, "capsules": 0},
+    "toefl": {"questions": 653, "oneliners": 0, "capsules": 0},
+    "gre": {"questions": 576, "oneliners": 0, "capsules": 0},
+    "gmat": {"questions": 583, "oneliners": 0, "capsules": 0},
+    "sat": {"questions": 593, "oneliners": 0, "capsules": 0},
+    "ielts": {"questions": 601, "oneliners": 0, "capsules": 0},
 }
 
 FAILURES = []
