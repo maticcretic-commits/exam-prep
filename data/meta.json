@@ -56,6 +56,38 @@
    "color": "#8bc34a",
    "description": "IELTS Academic + General Training prep — Listening, Reading, Writing, Speaking, Grammar and Vocabulary with explained practice questions and 100 curated resources.",
    "keywords": "IELTS, IELTS mock test, IELTS Academic, IELTS General Training, IELTS practice questions"
+  },
+  {
+   "slug": "railways",
+   "short": "Railways",
+   "title": "Railways Preparation",
+   "color": "#0d7a5f",
+   "description": "RRB NTPC, Group D & ALP prep — Railway GK, Maths, Reasoning, Physics/Chemistry/Biology plus railways current affairs, with explained MCQs and a practice test.",
+   "keywords": "RRB NTPC, RRB Group D, RRB ALP, railway exam mock test, railway GK questions"
+  },
+  {
+   "slug": "law",
+   "short": "Law",
+   "title": "Law Entrance Preparation",
+   "color": "#8e24aa",
+   "description": "CLAT & AILET 2027 prep — legal reasoning, Constitution, legal maxims, English, logical reasoning and legal current affairs, with MCQs, one-liners and capsules.",
+   "keywords": "CLAT preparation, AILET, law entrance exam, legal reasoning MCQs, CLAT mock test"
+  },
+  {
+   "slug": "neet",
+   "short": "NEET",
+   "title": "NEET Preparation",
+   "color": "#2e7d32",
+   "description": "NEET-UG prep — Physics, Chemistry, Botany, Zoology MCQs mapped to NCERT modules with explanations, plus revision one-liners.",
+   "keywords": "NEET preparation, NEET mock test, NEET biology questions, NEET physics chemistry MCQs"
+  },
+  {
+   "slug": "bpsc",
+   "short": "BPSC",
+   "title": "BPSC Preparation",
+   "color": "#d84315",
+   "description": "BPSC/Bihar PSC prep — Bihar Special, Polity, History, Geography, Economy, Science with 1,900+ explained MCQs, one-liners and current-affairs capsules.",
+   "keywords": "BPSC preparation, BPSC mock test, Bihar PSC, BPSC current affairs, Bihar special GK"
   }
  ],
  "platform": "ExamPrep",
