@@ -41,6 +41,7 @@ EXPECTED = {
     "software-ai-tech": {"questions": 803, "oneliners": 392, "capsules": 0},
     "teaching": {"questions": 748, "oneliners": 0, "capsules": 3},
     "ca": {"questions": 880, "oneliners": 0, "capsules": 0},
+    "sarkari-vacancies": {"questions": 0, "oneliners": 0, "capsules": 0, "videos": 0, "listings": 106},
 }
 
 FAILURES = []
