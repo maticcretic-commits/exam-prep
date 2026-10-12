@@ -1,0 +1,29 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+<meta name="color-scheme" content="light dark">
+<title>{{TITLE}} — ExamPrep</title>
+<meta name="description" content="{{DESCRIPTION}}">
+<meta name="question-count" content="{{QCOUNT}}">
+<meta name="oneliner-count" content="{{OLCOUNT}}">
+<meta name="capsule-count" content="{{CAPCOUNT}}">
+<link rel="stylesheet" href="../../assets/style.css?v={{ENGINE_VERSION}}">
+</head>
+<body data-exam="{{SLUG}}">
+<header class="hero">
+  <div class="wrap">
+    <a class="home" href="../../">← All exams</a>
+    <h1 id="examTitle">{{TITLE}}</h1>
+    <p id="examSub"></p>
+  </div>
+</header>
+<main class="wrap">
+  <nav class="tabs" id="tabs" aria-label="Sections"></nav>
+  <div id="tabBody"><p class="empty">Loading question bank…</p></div>
+</main>
+<footer class="site">ExamPrep · free practice for aspirants · content refreshed regularly</footer>
+<script src="../../assets/engine.js?v={{ENGINE_VERSION}}"></script>
+</body>
+</html>
