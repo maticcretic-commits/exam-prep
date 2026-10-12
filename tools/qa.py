@@ -27,12 +27,12 @@ EXPECTED = {
     "gre": {"questions": 576, "oneliners": 0, "capsules": 0},
     "gmat": {"questions": 583, "oneliners": 0, "capsules": 0},
     "sat": {"questions": 593, "oneliners": 0, "capsules": 0},
-    "ielts": {"questions": 601, "oneliners": 0, "capsules": 0},
+    "ielts": {"questions": 601, "oneliners": 0, "capsules": 0, "resources": 100},
     "railways": {"questions": 929, "oneliners": 0, "capsules": 0},
     "law": {"questions": 745, "oneliners": 300, "capsules": 169},
     "neet": {"questions": 1026, "oneliners": 409, "capsules": 0},
     "bpsc": {"questions": 1926, "oneliners": 907, "capsules": 987},
-    "banking-certs": {"questions": 2119, "oneliners": 1097, "capsules": 292},
+    "banking-certs": {"questions": 2119, "oneliners": 1097, "capsules": 292, "videos": 48},
     "upsc": {"questions": 997, "oneliners": 0, "capsules": 0},
     "jee": {"questions": 1114, "oneliners": 350, "capsules": 0},
     "banking": {"questions": 861, "oneliners": 0, "capsules": 35},
@@ -101,6 +101,47 @@ def check_oneliner(o: dict, i: int, seen: set):
         fail(f"{tag}: empty text")
 
 
+def check_video(v: dict, i: int, seen: set):
+    tag = f"videos[{i}]"
+    if v.get("id") in seen:
+        fail(f"{tag}: duplicate id {v.get('id')}")
+    seen.add(v.get("id"))
+    if not re.fullmatch(r"[A-Za-z0-9_-]{11}", v.get("youtube_id") or ""):
+        fail(f"{tag}: bad youtube_id {v.get('youtube_id')!r}")
+    if not (v.get("title") or "").strip():
+        fail(f"{tag}: empty title")
+    if not isinstance(v.get("subject"), str):
+        fail(f"{tag}: subject must be string")
+
+
+def check_listing(l: dict, i: int, seen: set):
+    tag = f"listings[{i}]"
+    if not isinstance(l.get("id"), str) or not l["id"]:
+        fail(f"{tag}: bad id {l.get('id')!r}")
+    if l.get("id") in seen:
+        fail(f"{tag}: duplicate id {l.get('id')}")
+    seen.add(l.get("id"))
+    if not (l.get("title") or "").strip():
+        fail(f"{tag}: empty title")
+    if not (l.get("org") or "").strip():
+        fail(f"{tag}: empty org")
+    if l.get("deadline") and not re.fullmatch(r"\d{4}-\d{2}-\d{2}", l["deadline"]):
+        fail(f"{tag}: bad deadline {l.get('deadline')!r}")
+
+
+def check_resource(r: dict, i: int, seen: set):
+    tag = f"resources[{i}]"
+    if r.get("id") in seen:
+        fail(f"{tag}: duplicate id {r.get('id')}")
+    seen.add(r.get("id"))
+    if not isinstance(r.get("subject"), str):
+        fail(f"{tag}: subject must be string")
+    if not (r.get("title") or "").strip():
+        fail(f"{tag}: empty title")
+    if not (r.get("body") or "").strip():
+        fail(f"{tag}: empty body")
+
+
 def main() -> int:
     print("== gate 1: data files parse ==")
     try:
@@ -134,18 +175,27 @@ def main() -> int:
         for k in ("exam", "title", "updated"):
             if not isinstance(b.get(k), str) or not b[k]:
                 fail(f"{slug}: top-level {k} missing/empty")
-        for k in ("questions", "capsules", "oneliners", "videos", "listings"):
+        for k in ("questions", "capsules", "oneliners", "videos"):
             if not isinstance(b.get(k), list):
                 fail(f"{slug}: top-level {k} must be a list")
-        sq, sc, so = set(), set(), set()
+        for k in ("listings", "resources", "pipeline", "directory"):
+            if k in b and not isinstance(b[k], list):
+                fail(f"{slug}: top-level {k} must be a list")
+        sq, sc, so, sv, sl, sr = set(), set(), set(), set(), set(), set()
         for i, q in enumerate(b.get("questions", [])):
             check_question(q, i, sq)
         for i, c in enumerate(b.get("capsules", [])):
             check_capsule(c, i, sc)
         for i, o in enumerate(b.get("oneliners", [])):
             check_oneliner(o, i, so)
+        for i, v in enumerate(b.get("videos", [])):
+            check_video(v, i, sv)
+        for i, l in enumerate(b.get("listings", [])):
+            check_listing(l, i, sl)
+        for i, r in enumerate(b.get("resources", [])):
+            check_resource(r, i, sr)
         if not any(f.startswith("questions[") or f.startswith("capsules[") or f.startswith("oneliners[") for f in FAILURES):
-            ok(f"{slug}: all {len(b['questions'])}q/{len(b['oneliners'])}ol/{len(b['capsules'])}cap items valid")
+            ok(f"{slug}: all {len(b['questions'])}q/{len(b['oneliners'])}ol/{len(b['capsules'])}cap/{len(b.get('videos', []))}vid/{len(b.get('listings', []))}list/{len(b.get('resources', []))}res items valid")
 
     print("== gate 4: render check (generated pages) ==")
     for slug, b in banks.items():
@@ -162,6 +212,13 @@ def main() -> int:
             fail(f"exam/{slug}: meta question-count {m.group(1) if m else None} != data {len(b['questions'])}")
         else:
             ok(f"exam/{slug}/index.html references assets + count meta matches data ({m.group(1)})")
+        for mname, dkey in (("video-count", "videos"), ("listing-count", "listings"), ("resource-count", "resources")):
+            mm = re.search(r'<meta name="' + mname + r'" content="(\d+)">', html)
+            want = len(b.get(dkey, []))
+            if not mm or int(mm.group(1)) != want:
+                fail(f"exam/{slug}: meta {mname} {mm.group(1) if mm else None} != data {want}")
+            else:
+                ok(f"exam/{slug}: meta {mname} matches data ({want})")
         eng = (ROOT / "assets" / "engine.js").read_text()
         if "'../../data/'" not in eng or ".json" not in eng or "fetch(" not in eng:
             fail("engine.js does not fetch the per-exam data JSON")
