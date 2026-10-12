@@ -35,6 +35,12 @@ EXPECTED = {
     "banking-certs": {"questions": 2119, "oneliners": 1097, "capsules": 292},
     "upsc": {"questions": 997, "oneliners": 0, "capsules": 0},
     "jee": {"questions": 1114, "oneliners": 350, "capsules": 0},
+    "banking": {"questions": 861, "oneliners": 0, "capsules": 35},
+    "defence": {"questions": 993, "oneliners": 0, "capsules": 0},
+    "current-affairs": {"questions": 751, "oneliners": 0, "capsules": 0},
+    "software-ai-tech": {"questions": 803, "oneliners": 392, "capsules": 0},
+    "teaching": {"questions": 748, "oneliners": 0, "capsules": 3},
+    "ca": {"questions": 880, "oneliners": 0, "capsules": 0},
 }
 
 FAILURES = []
