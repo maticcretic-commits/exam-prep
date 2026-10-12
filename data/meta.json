@@ -1,168 +1,168 @@
 {
- "engine_version": "1.0.0",
- "exams": [
-  {
-   "color": "#1a73e8",
-   "description": "Staff Selection Commission exams — CGL, CHSL, MTS, GD Constable. Topic-wise MCQs, one-liners and revision capsules with instant explanations.",
-   "keywords": "SSC CGL, SSC CHSL, SSC MTS, SSC GD, ssc mock test, ssc previous year questions",
-   "short": "SSC",
-   "slug": "ssc",
-   "title": "SSC Preparation"
-  },
-  {
-   "slug": "pte",
-   "short": "PTE",
-   "title": "PTE Academic Preparation",
-   "color": "#00a5e3",
-   "description": "PTE Academic prep — Read Aloud, Repeat Sentence, Writing, Reading, Listening with explained practice questions and scoring strategy.",
-   "keywords": "PTE Academic, PTE mock test, PTE practice questions, Pearson PTE"
-  },
-  {
-   "slug": "toefl",
-   "short": "TOEFL",
-   "title": "TOEFL iBT Preparation",
-   "color": "#c8102e",
-   "description": "TOEFL iBT (2026 format) prep — Reading, Listening, Vocabulary, Grammar and Writing with explained practice questions.",
-   "keywords": "TOEFL iBT, TOEFL mock test, TOEFL practice questions, TOEFL 2026 format"
-  },
-  {
-   "slug": "gre",
-   "short": "GRE",
-   "title": "GRE Preparation",
-   "color": "#6a1b9a",
-   "description": "GRE General Test prep — Verbal Reasoning, Quantitative Reasoning (Arithmetic, Algebra, Geometry, Data Analysis) and AWA with explained practice questions.",
-   "keywords": "GRE, GRE mock test, GRE quant, GRE verbal, GRE practice questions"
-  },
-  {
-   "slug": "gmat",
-   "short": "GMAT",
-   "title": "GMAT Focus Preparation",
-   "color": "#005eb8",
-   "description": "GMAT Focus prep — Quantitative Reasoning, Verbal Reasoning, Data Insights (incl. Data Sufficiency) and test strategy with explained practice questions.",
-   "keywords": "GMAT Focus, GMAT mock test, GMAT data sufficiency, GMAT practice questions"
-  },
-  {
-   "slug": "sat",
-   "short": "SAT",
-   "title": "Digital SAT Preparation",
-   "color": "#e87722",
-   "description": "Digital SAT prep — Reading & Writing (Craft & Structure, Conventions, Expression of Ideas) and Math (Algebra, Advanced Math, PSDA, Geometry) with Desmos strategy and explained questions.",
-   "keywords": "Digital SAT, SAT mock test, SAT math, SAT reading writing, SAT practice questions"
-  },
-  {
-   "slug": "ielts",
-   "short": "IELTS",
-   "title": "IELTS Preparation",
-   "color": "#8bc34a",
-   "description": "IELTS Academic + General Training prep — Listening, Reading, Writing, Speaking, Grammar and Vocabulary with explained practice questions and 100 curated resources.",
-   "keywords": "IELTS, IELTS mock test, IELTS Academic, IELTS General Training, IELTS practice questions"
-  },
-  {
-   "slug": "railways",
-   "short": "Railways",
-   "title": "Railways Preparation",
-   "color": "#0d7a5f",
-   "description": "RRB NTPC, Group D & ALP prep — Railway GK, Maths, Reasoning, Physics/Chemistry/Biology plus railways current affairs, with explained MCQs and a practice test.",
-   "keywords": "RRB NTPC, RRB Group D, RRB ALP, railway exam mock test, railway GK questions"
-  },
-  {
-   "slug": "law",
-   "short": "Law",
-   "title": "Law Entrance Preparation",
-   "color": "#8e24aa",
-   "description": "CLAT & AILET 2027 prep — legal reasoning, Constitution, legal maxims, English, logical reasoning and legal current affairs, with MCQs, one-liners and capsules.",
-   "keywords": "CLAT preparation, AILET, law entrance exam, legal reasoning MCQs, CLAT mock test"
-  },
-  {
-   "slug": "neet",
-   "short": "NEET",
-   "title": "NEET Preparation",
-   "color": "#2e7d32",
-   "description": "NEET-UG prep — Physics, Chemistry, Botany, Zoology MCQs mapped to NCERT modules with explanations, plus revision one-liners.",
-   "keywords": "NEET preparation, NEET mock test, NEET biology questions, NEET physics chemistry MCQs"
-  },
-  {
-   "slug": "bpsc",
-   "short": "BPSC",
-   "title": "BPSC Preparation",
-   "color": "#d84315",
-   "description": "BPSC/Bihar PSC prep — Bihar Special, Polity, History, Geography, Economy, Science with 1,900+ explained MCQs, one-liners and current-affairs capsules.",
-   "keywords": "BPSC preparation, BPSC mock test, Bihar PSC, BPSC current affairs, Bihar special GK"
-  },
-  {
-   "slug": "banking-certs",
-   "short": "Banking Certs",
-   "title": "Banking Certifications",
-   "color": "#f59e0b",
-   "description": "JAIIB, CAIIB, DBF, AML/KYC, CISB and more — 2,119 MCQs, 1,097 one-liners, dated capsules and YouTube video embeds in one integrated IIBF course.",
-   "keywords": "JAIIB, CAIIB, DBF, IIBF exam, banking certification, AML KYC, CISB"
-  },
-  {
-   "slug": "upsc",
-   "short": "UPSC",
-   "title": "UPSC Civil Services",
-   "color": "#7c3aed",
-   "description": "997 UPSC CSE practice questions across Polity, History, Geography, Economy, Environment, Sci-Tech and more — plus two full 50-question practice papers.",
-   "keywords": "UPSC, IAS, CSE prelims, UPSC mock test, civil services"
-  },
-  {
-   "slug": "jee",
-   "short": "JEE",
-   "title": "JEE Main + Advanced",
-   "color": "#455a64",
-   "description": "1,114 JEE practice questions — Physics, Chemistry, Maths topic banks, 350 rapid-recall one-liners and two full Main-pattern mock papers.",
-   "keywords": "JEE Main, JEE Advanced, IIT JEE mock test, physics chemistry maths"
-  },
-  {
-   "slug": "banking",
-   "short": "Banking",
-   "title": "Banking Preparation",
-   "color": "#0d47a1",
-   "description": "Banking exam prep — IBPS/SBI/RBI/insurance: Banking & Economy, RBI, Markets, Quant, Reasoning, English MCQs with explanations plus revision capsules.",
-   "keywords": "banking exams, IBPS PO, SBI PO, RBI Grade B, banking awareness, bank mock test"
-  },
-  {
-   "slug": "defence",
-   "short": "Defence",
-   "title": "Defence Preparation",
-   "color": "#37474f",
-   "description": "Defence exams — NDA, CDS, AFCAT, Agniveer: topic-wise practice banks, current-affairs MCQs and full mock papers with explanations.",
-   "keywords": "NDA preparation, CDS exam, AFCAT, Agniveer, defence mock test"
-  },
-  {
-   "slug": "current-affairs",
-   "short": "Current Affairs",
-   "title": "Current Affairs",
-   "color": "#f9a825",
-   "description": "Daily current affairs MCQs — Economy, Polity, Science, Sports, Awards, Environment and more, each with a crisp explanation.",
-   "keywords": "current affairs 2026, daily current affairs quiz, CA MCQs, competitive exam current affairs"
-  },
-  {
-   "slug": "software-ai-tech",
-   "short": "Tech",
-   "title": "Software, AI & Tech Preparation",
-   "color": "#ad1457",
-   "description": "Software, AI & tech prep — DSA, AI/ML, Logical Reasoning: 700+ explained practice MCQs, rapid-fire one-liners and topic libraries.",
-   "keywords": "DSA practice, AI ML quiz, software interview prep, tech MCQs, one-liners"
-  },
-  {
-   "slug": "teaching",
-   "short": "Teaching",
-   "title": "Teaching Preparation",
-   "color": "#00838f",
-   "description": "Teaching exams — CTET, BPSC TRE: Child Development, Pedagogy, Languages, EVS and current-affairs MCQs with explanations plus exam-pattern guides.",
-   "keywords": "CTET preparation, BPSC TRE, teaching exams, pedagogy MCQs, CTET mock test"
-  },
-  {
-   "slug": "ca",
-   "short": "CA",
-   "title": "CA Preparation",
-   "color": "#4e342e",
-   "description": "CA Foundation prep — Accounting, Business Laws, Quantitative Aptitude, Business Economics: 750+ explained MCQs plus topic libraries and mock papers.",
-   "keywords": "CA Foundation, CA Foundation mock test, accounting MCQs, CA Foundation question bank"
-  }
- ],
- "platform": "ExamPrep",
- "tagline": "One platform. Every exam. Practice that counts.",
- "updated": "2026-10-12"
+  "engine_version": "1.1.0",
+  "exams": [
+    {
+      "color": "#1a73e8",
+      "description": "Staff Selection Commission exams — CGL, CHSL, MTS, GD Constable. Topic-wise MCQs, one-liners and revision capsules with instant explanations.",
+      "keywords": "SSC CGL, SSC CHSL, SSC MTS, SSC GD, ssc mock test, ssc previous year questions",
+      "short": "SSC",
+      "slug": "ssc",
+      "title": "SSC Preparation"
+    },
+    {
+      "slug": "pte",
+      "short": "PTE",
+      "title": "PTE Academic Preparation",
+      "color": "#00a5e3",
+      "description": "PTE Academic prep — Read Aloud, Repeat Sentence, Writing, Reading, Listening with explained practice questions and scoring strategy.",
+      "keywords": "PTE Academic, PTE mock test, PTE practice questions, Pearson PTE"
+    },
+    {
+      "slug": "toefl",
+      "short": "TOEFL",
+      "title": "TOEFL iBT Preparation",
+      "color": "#c8102e",
+      "description": "TOEFL iBT (2026 format) prep — Reading, Listening, Vocabulary, Grammar and Writing with explained practice questions.",
+      "keywords": "TOEFL iBT, TOEFL mock test, TOEFL practice questions, TOEFL 2026 format"
+    },
+    {
+      "slug": "gre",
+      "short": "GRE",
+      "title": "GRE Preparation",
+      "color": "#6a1b9a",
+      "description": "GRE General Test prep — Verbal Reasoning, Quantitative Reasoning (Arithmetic, Algebra, Geometry, Data Analysis) and AWA with explained practice questions.",
+      "keywords": "GRE, GRE mock test, GRE quant, GRE verbal, GRE practice questions"
+    },
+    {
+      "slug": "gmat",
+      "short": "GMAT",
+      "title": "GMAT Focus Preparation",
+      "color": "#005eb8",
+      "description": "GMAT Focus prep — Quantitative Reasoning, Verbal Reasoning, Data Insights (incl. Data Sufficiency) and test strategy with explained practice questions.",
+      "keywords": "GMAT Focus, GMAT mock test, GMAT data sufficiency, GMAT practice questions"
+    },
+    {
+      "slug": "sat",
+      "short": "SAT",
+      "title": "Digital SAT Preparation",
+      "color": "#e87722",
+      "description": "Digital SAT prep — Reading & Writing (Craft & Structure, Conventions, Expression of Ideas) and Math (Algebra, Advanced Math, PSDA, Geometry) with Desmos strategy and explained questions.",
+      "keywords": "Digital SAT, SAT mock test, SAT math, SAT reading writing, SAT practice questions"
+    },
+    {
+      "slug": "ielts",
+      "short": "IELTS",
+      "title": "IELTS Preparation",
+      "color": "#8bc34a",
+      "description": "IELTS Academic + General Training prep — Listening, Reading, Writing, Speaking, Grammar and Vocabulary with explained practice questions and 100 curated resources.",
+      "keywords": "IELTS, IELTS mock test, IELTS Academic, IELTS General Training, IELTS practice questions"
+    },
+    {
+      "slug": "railways",
+      "short": "Railways",
+      "title": "Railways Preparation",
+      "color": "#0d7a5f",
+      "description": "RRB NTPC, Group D & ALP prep — Railway GK, Maths, Reasoning, Physics/Chemistry/Biology plus railways current affairs, with explained MCQs and a practice test.",
+      "keywords": "RRB NTPC, RRB Group D, RRB ALP, railway exam mock test, railway GK questions"
+    },
+    {
+      "slug": "law",
+      "short": "Law",
+      "title": "Law Entrance Preparation",
+      "color": "#8e24aa",
+      "description": "CLAT & AILET 2027 prep — legal reasoning, Constitution, legal maxims, English, logical reasoning and legal current affairs, with MCQs, one-liners and capsules.",
+      "keywords": "CLAT preparation, AILET, law entrance exam, legal reasoning MCQs, CLAT mock test"
+    },
+    {
+      "slug": "neet",
+      "short": "NEET",
+      "title": "NEET Preparation",
+      "color": "#2e7d32",
+      "description": "NEET-UG prep — Physics, Chemistry, Botany, Zoology MCQs mapped to NCERT modules with explanations, plus revision one-liners.",
+      "keywords": "NEET preparation, NEET mock test, NEET biology questions, NEET physics chemistry MCQs"
+    },
+    {
+      "slug": "bpsc",
+      "short": "BPSC",
+      "title": "BPSC Preparation",
+      "color": "#d84315",
+      "description": "BPSC/Bihar PSC prep — Bihar Special, Polity, History, Geography, Economy, Science with 1,900+ explained MCQs, one-liners and current-affairs capsules.",
+      "keywords": "BPSC preparation, BPSC mock test, Bihar PSC, BPSC current affairs, Bihar special GK"
+    },
+    {
+      "slug": "banking-certs",
+      "short": "Banking Certs",
+      "title": "Banking Certifications",
+      "color": "#f59e0b",
+      "description": "JAIIB, CAIIB, DBF, AML/KYC, CISB and more — 2,119 MCQs, 1,097 one-liners, dated capsules and YouTube video embeds in one integrated IIBF course.",
+      "keywords": "JAIIB, CAIIB, DBF, IIBF exam, banking certification, AML KYC, CISB"
+    },
+    {
+      "slug": "upsc",
+      "short": "UPSC",
+      "title": "UPSC Civil Services",
+      "color": "#7c3aed",
+      "description": "997 UPSC CSE practice questions across Polity, History, Geography, Economy, Environment, Sci-Tech and more — plus two full 50-question practice papers.",
+      "keywords": "UPSC, IAS, CSE prelims, UPSC mock test, civil services"
+    },
+    {
+      "slug": "jee",
+      "short": "JEE",
+      "title": "JEE Main + Advanced",
+      "color": "#455a64",
+      "description": "1,114 JEE practice questions — Physics, Chemistry, Maths topic banks, 350 rapid-recall one-liners and two full Main-pattern mock papers.",
+      "keywords": "JEE Main, JEE Advanced, IIT JEE mock test, physics chemistry maths"
+    },
+    {
+      "slug": "banking",
+      "short": "Banking",
+      "title": "Banking Preparation",
+      "color": "#0d47a1",
+      "description": "Banking exam prep — IBPS/SBI/RBI/insurance: Banking & Economy, RBI, Markets, Quant, Reasoning, English MCQs with explanations plus revision capsules.",
+      "keywords": "banking exams, IBPS PO, SBI PO, RBI Grade B, banking awareness, bank mock test"
+    },
+    {
+      "slug": "defence",
+      "short": "Defence",
+      "title": "Defence Preparation",
+      "color": "#37474f",
+      "description": "Defence exams — NDA, CDS, AFCAT, Agniveer: topic-wise practice banks, current-affairs MCQs and full mock papers with explanations.",
+      "keywords": "NDA preparation, CDS exam, AFCAT, Agniveer, defence mock test"
+    },
+    {
+      "slug": "current-affairs",
+      "short": "Current Affairs",
+      "title": "Current Affairs",
+      "color": "#f9a825",
+      "description": "Daily current affairs MCQs — Economy, Polity, Science, Sports, Awards, Environment and more, each with a crisp explanation.",
+      "keywords": "current affairs 2026, daily current affairs quiz, CA MCQs, competitive exam current affairs"
+    },
+    {
+      "slug": "software-ai-tech",
+      "short": "Tech",
+      "title": "Software, AI & Tech Preparation",
+      "color": "#ad1457",
+      "description": "Software, AI & tech prep — DSA, AI/ML, Logical Reasoning: 700+ explained practice MCQs, rapid-fire one-liners and topic libraries.",
+      "keywords": "DSA practice, AI ML quiz, software interview prep, tech MCQs, one-liners"
+    },
+    {
+      "slug": "teaching",
+      "short": "Teaching",
+      "title": "Teaching Preparation",
+      "color": "#00838f",
+      "description": "Teaching exams — CTET, BPSC TRE: Child Development, Pedagogy, Languages, EVS and current-affairs MCQs with explanations plus exam-pattern guides.",
+      "keywords": "CTET preparation, BPSC TRE, teaching exams, pedagogy MCQs, CTET mock test"
+    },
+    {
+      "slug": "ca",
+      "short": "CA",
+      "title": "CA Preparation",
+      "color": "#4e342e",
+      "description": "CA Foundation prep — Accounting, Business Laws, Quantitative Aptitude, Business Economics: 750+ explained MCQs plus topic libraries and mock papers.",
+      "keywords": "CA Foundation, CA Foundation mock test, accounting MCQs, CA Foundation question bank"
+    }
+  ],
+  "platform": "ExamPrep",
+  "tagline": "One platform. Every exam. Practice that counts.",
+  "updated": "2026-10-12"
 }
