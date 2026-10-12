@@ -88,6 +88,30 @@
    "color": "#d84315",
    "description": "BPSC/Bihar PSC prep — Bihar Special, Polity, History, Geography, Economy, Science with 1,900+ explained MCQs, one-liners and current-affairs capsules.",
    "keywords": "BPSC preparation, BPSC mock test, Bihar PSC, BPSC current affairs, Bihar special GK"
+  },
+  {
+   "slug": "banking-certs",
+   "short": "Banking Certs",
+   "title": "Banking Certifications",
+   "color": "#f59e0b",
+   "description": "JAIIB, CAIIB, DBF, AML/KYC, CISB and more — 2,119 MCQs, 1,097 one-liners, dated capsules and YouTube video embeds in one integrated IIBF course.",
+   "keywords": "JAIIB, CAIIB, DBF, IIBF exam, banking certification, AML KYC, CISB"
+  },
+  {
+   "slug": "upsc",
+   "short": "UPSC",
+   "title": "UPSC Civil Services",
+   "color": "#7c3aed",
+   "description": "997 UPSC CSE practice questions across Polity, History, Geography, Economy, Environment, Sci-Tech and more — plus two full 50-question practice papers.",
+   "keywords": "UPSC, IAS, CSE prelims, UPSC mock test, civil services"
+  },
+  {
+   "slug": "jee",
+   "short": "JEE",
+   "title": "JEE Main + Advanced",
+   "color": "#455a64",
+   "description": "1,114 JEE practice questions — Physics, Chemistry, Maths topic banks, 350 rapid-recall one-liners and two full Main-pattern mock papers.",
+   "keywords": "JEE Main, JEE Advanced, IIT JEE mock test, physics chemistry maths"
   }
  ],
  "platform": "ExamPrep",
