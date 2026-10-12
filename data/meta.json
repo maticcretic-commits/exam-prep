@@ -1,1 +1,64 @@
-{"engine_version":"1.0.0","exams":[{"color":"#1a73e8","description":"Staff Selection Commission exams — CGL, CHSL, MTS, GD Constable. Topic-wise MCQs, one-liners and revision capsules with instant explanations.","keywords":"SSC CGL, SSC CHSL, SSC MTS, SSC GD, ssc mock test, ssc previous year questions","short":"SSC","slug":"ssc","title":"SSC Preparation"}],"platform":"ExamPrep","tagline":"One platform. Every exam. Practice that counts.","updated":"2026-10-12"}
+{
+ "engine_version": "1.0.0",
+ "exams": [
+  {
+   "color": "#1a73e8",
+   "description": "Staff Selection Commission exams — CGL, CHSL, MTS, GD Constable. Topic-wise MCQs, one-liners and revision capsules with instant explanations.",
+   "keywords": "SSC CGL, SSC CHSL, SSC MTS, SSC GD, ssc mock test, ssc previous year questions",
+   "short": "SSC",
+   "slug": "ssc",
+   "title": "SSC Preparation"
+  },
+  {
+   "slug": "pte",
+   "short": "PTE",
+   "title": "PTE Academic Preparation",
+   "color": "#00a5e3",
+   "description": "PTE Academic prep — Read Aloud, Repeat Sentence, Writing, Reading, Listening with explained practice questions and scoring strategy.",
+   "keywords": "PTE Academic, PTE mock test, PTE practice questions, Pearson PTE"
+  },
+  {
+   "slug": "toefl",
+   "short": "TOEFL",
+   "title": "TOEFL iBT Preparation",
+   "color": "#c8102e",
+   "description": "TOEFL iBT (2026 format) prep — Reading, Listening, Vocabulary, Grammar and Writing with explained practice questions.",
+   "keywords": "TOEFL iBT, TOEFL mock test, TOEFL practice questions, TOEFL 2026 format"
+  },
+  {
+   "slug": "gre",
+   "short": "GRE",
+   "title": "GRE Preparation",
+   "color": "#6a1b9a",
+   "description": "GRE General Test prep — Verbal Reasoning, Quantitative Reasoning (Arithmetic, Algebra, Geometry, Data Analysis) and AWA with explained practice questions.",
+   "keywords": "GRE, GRE mock test, GRE quant, GRE verbal, GRE practice questions"
+  },
+  {
+   "slug": "gmat",
+   "short": "GMAT",
+   "title": "GMAT Focus Preparation",
+   "color": "#005eb8",
+   "description": "GMAT Focus prep — Quantitative Reasoning, Verbal Reasoning, Data Insights (incl. Data Sufficiency) and test strategy with explained practice questions.",
+   "keywords": "GMAT Focus, GMAT mock test, GMAT data sufficiency, GMAT practice questions"
+  },
+  {
+   "slug": "sat",
+   "short": "SAT",
+   "title": "Digital SAT Preparation",
+   "color": "#e87722",
+   "description": "Digital SAT prep — Reading & Writing (Craft & Structure, Conventions, Expression of Ideas) and Math (Algebra, Advanced Math, PSDA, Geometry) with Desmos strategy and explained questions.",
+   "keywords": "Digital SAT, SAT mock test, SAT math, SAT reading writing, SAT practice questions"
+  },
+  {
+   "slug": "ielts",
+   "short": "IELTS",
+   "title": "IELTS Preparation",
+   "color": "#8bc34a",
+   "description": "IELTS Academic + General Training prep — Listening, Reading, Writing, Speaking, Grammar and Vocabulary with explained practice questions and 100 curated resources.",
+   "keywords": "IELTS, IELTS mock test, IELTS Academic, IELTS General Training, IELTS practice questions"
+  }
+ ],
+ "platform": "ExamPrep",
+ "tagline": "One platform. Every exam. Practice that counts.",
+ "updated": "2026-10-12"
+}
