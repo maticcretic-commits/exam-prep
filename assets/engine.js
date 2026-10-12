@@ -200,7 +200,11 @@
       if (key === 'org') return (a.org || '').localeCompare(b.org || '');
       if (key === 'title') return (a.title || '').localeCompare(b.title || '');
       if (key === 'verified') return (b.verifyNote || '').localeCompare(a.verifyNote || '');
+      // deadline: open soonest first; closed and dateless sink to the bottom
       var da = daysLeft(a.deadline), db = daysLeft(b.deadline);
+      var ca = (da === null || da < 0), cb = (db === null || db < 0);
+      if (ca && !cb) return 1;
+      if (!ca && cb) return -1;
       if (da === null && db === null) return 0;
       if (da === null) return 1;
       if (db === null) return -1;
