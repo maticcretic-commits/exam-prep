@@ -160,6 +160,14 @@
       "color": "#4e342e",
       "description": "CA Foundation prep — Accounting, Business Laws, Quantitative Aptitude, Business Economics: 750+ explained MCQs plus topic libraries and mock papers.",
       "keywords": "CA Foundation, CA Foundation mock test, accounting MCQs, CA Foundation question bank"
+    },
+    {
+      "slug": "sarkari-vacancies",
+      "title": "Sarkari Job Vacancies",
+      "short": "Sarkari",
+      "description": "Government job notifications across India — verified vacancy counts, last dates, eligibility and apply links, plus the official source directory.",
+      "keywords": "sarkari naukri, govt jobs 2026, sarkari vacancy, government jobs india",
+      "color": "#0d7a5f"
     }
   ],
   "platform": "ExamPrep",
