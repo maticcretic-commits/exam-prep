@@ -28,6 +28,10 @@ EXPECTED = {
     "gmat": {"questions": 583, "oneliners": 0, "capsules": 0},
     "sat": {"questions": 593, "oneliners": 0, "capsules": 0},
     "ielts": {"questions": 601, "oneliners": 0, "capsules": 0},
+    "railways": {"questions": 929, "oneliners": 0, "capsules": 0},
+    "law": {"questions": 745, "oneliners": 300, "capsules": 169},
+    "neet": {"questions": 1026, "oneliners": 409, "capsules": 0},
+    "bpsc": {"questions": 1926, "oneliners": 907, "capsules": 987},
 }
 
 FAILURES = []
