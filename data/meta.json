@@ -112,6 +112,54 @@
    "color": "#455a64",
    "description": "1,114 JEE practice questions — Physics, Chemistry, Maths topic banks, 350 rapid-recall one-liners and two full Main-pattern mock papers.",
    "keywords": "JEE Main, JEE Advanced, IIT JEE mock test, physics chemistry maths"
+  },
+  {
+   "slug": "banking",
+   "short": "Banking",
+   "title": "Banking Preparation",
+   "color": "#0d47a1",
+   "description": "Banking exam prep — IBPS/SBI/RBI/insurance: Banking & Economy, RBI, Markets, Quant, Reasoning, English MCQs with explanations plus revision capsules.",
+   "keywords": "banking exams, IBPS PO, SBI PO, RBI Grade B, banking awareness, bank mock test"
+  },
+  {
+   "slug": "defence",
+   "short": "Defence",
+   "title": "Defence Preparation",
+   "color": "#37474f",
+   "description": "Defence exams — NDA, CDS, AFCAT, Agniveer: topic-wise practice banks, current-affairs MCQs and full mock papers with explanations.",
+   "keywords": "NDA preparation, CDS exam, AFCAT, Agniveer, defence mock test"
+  },
+  {
+   "slug": "current-affairs",
+   "short": "Current Affairs",
+   "title": "Current Affairs",
+   "color": "#f9a825",
+   "description": "Daily current affairs MCQs — Economy, Polity, Science, Sports, Awards, Environment and more, each with a crisp explanation.",
+   "keywords": "current affairs 2026, daily current affairs quiz, CA MCQs, competitive exam current affairs"
+  },
+  {
+   "slug": "software-ai-tech",
+   "short": "Tech",
+   "title": "Software, AI & Tech Preparation",
+   "color": "#ad1457",
+   "description": "Software, AI & tech prep — DSA, AI/ML, Logical Reasoning: 700+ explained practice MCQs, rapid-fire one-liners and topic libraries.",
+   "keywords": "DSA practice, AI ML quiz, software interview prep, tech MCQs, one-liners"
+  },
+  {
+   "slug": "teaching",
+   "short": "Teaching",
+   "title": "Teaching Preparation",
+   "color": "#00838f",
+   "description": "Teaching exams — CTET, BPSC TRE: Child Development, Pedagogy, Languages, EVS and current-affairs MCQs with explanations plus exam-pattern guides.",
+   "keywords": "CTET preparation, BPSC TRE, teaching exams, pedagogy MCQs, CTET mock test"
+  },
+  {
+   "slug": "ca",
+   "short": "CA",
+   "title": "CA Preparation",
+   "color": "#4e342e",
+   "description": "CA Foundation prep — Accounting, Business Laws, Quantitative Aptitude, Business Economics: 750+ explained MCQs plus topic libraries and mock papers.",
+   "keywords": "CA Foundation, CA Foundation mock test, accounting MCQs, CA Foundation question bank"
   }
  ],
  "platform": "ExamPrep",
