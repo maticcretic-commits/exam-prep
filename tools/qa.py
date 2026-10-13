@@ -22,9 +22,9 @@ ROOT = Path(__file__).resolve().parent.parent
 # legacy counts established via the page's real parse path (node eval)
 EXPECTED = {
     "ssc": {
-        "questions": 830,
+        "questions": 835,
         "oneliners": 408,
-        "capsules": 366
+        "capsules": 369
     },
     "pte": {
         "questions": 576,
@@ -58,72 +58,74 @@ EXPECTED = {
         "resources": 100
     },
     "railways": {
-        "questions": 931,
-        "capsules": 1
+        "questions": 935,
+        "capsules": 3
     },
     "law": {
-        "questions": 748,
-        "capsules": 172,
+        "questions": 753,
+        "capsules": 175,
         "oneliners": 300
     },
     "neet": {
-        "questions": 1030,
-        "oneliners": 411
+        "questions": 1034,
+        "oneliners": 411,
+        "capsules": 1
     },
     "bpsc": {
-        "questions": 1929,
-        "capsules": 987,
+        "questions": 1934,
+        "capsules": 990,
         "oneliners": 909
     },
     "banking-certs": {
-        "questions": 2122,
+        "questions": 2126,
         "oneliners": 1097,
-        "capsules": 292,
+        "capsules": 294,
         "videos": 48
     },
     "upsc": {
-        "questions": 1000,
+        "questions": 1005,
         "oneliners": 0,
-        "capsules": 0
-    },
-    "jee": {
-        "questions": 1118,
-        "oneliners": 350,
-        "capsules": 0
-    },
-    "banking": {
-        "questions": 865,
-        "capsules": 36
-    },
-    "defence": {
-        "questions": 997,
-        "capsules": 1
-    },
-    "current-affairs": {
-        "questions": 757,
-        "oneliners": 4,
-        "capsules": 5
-    },
-    "software-ai-tech": {
-        "questions": 806,
-        "oneliners": 392,
-        "capsules": 0
-    },
-    "teaching": {
-        "questions": 750,
         "capsules": 4
     },
+    "jee": {
+        "questions": 1122,
+        "oneliners": 350,
+        "capsules": 2
+    },
+    "banking": {
+        "questions": 870,
+        "capsules": 38,
+        "oneliners": 1
+    },
+    "defence": {
+        "questions": 1002,
+        "capsules": 3
+    },
+    "current-affairs": {
+        "questions": 762,
+        "oneliners": 6,
+        "capsules": 10
+    },
+    "software-ai-tech": {
+        "questions": 810,
+        "oneliners": 392,
+        "capsules": 2
+    },
+    "teaching": {
+        "questions": 754,
+        "capsules": 6
+    },
     "ca": {
-        "questions": 883,
+        "questions": 887,
         "oneliners": 0,
-        "capsules": 0
+        "capsules": 2
     },
     "sarkari-vacancies": {
         "questions": 0,
         "oneliners": 0,
-        "capsules": 0,
+        "capsules": 3,
         "videos": 0,
-        "listings": 112
+        "listings": 115
     }
 }
 
