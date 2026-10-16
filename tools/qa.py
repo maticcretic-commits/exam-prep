@@ -22,8 +22,8 @@ ROOT = Path(__file__).resolve().parent.parent
 # legacy counts established via the page's real parse path (node eval)
 EXPECTED = {
     "ssc": {
-        "questions": 857,
-        "oneliners": 421,
+        "questions": 861,
+        "oneliners": 424,
         "capsules": 380
     },
     "pte": {
@@ -52,20 +52,20 @@ EXPECTED = {
         "capsules": 2
     },
     "ielts": {
-        "questions": 621,
+        "questions": 624,
         "oneliners": 5,
         "capsules": 3,
         "resources": 100
     },
     "railways": {
-        "questions": 955,
+        "questions": 957,
         "capsules": 12,
-        "oneliners": 10
+        "oneliners": 12
     },
     "law": {
-        "questions": 773,
+        "questions": 775,
         "capsules": 187,
-        "oneliners": 308
+        "oneliners": 309
     },
     "neet": {
         "questions": 1053,
@@ -73,19 +73,19 @@ EXPECTED = {
         "capsules": 12
     },
     "bpsc": {
-        "questions": 1954,
+        "questions": 1956,
         "capsules": 1002,
-        "oneliners": 920
+        "oneliners": 923
     },
     "banking-certs": {
-        "questions": 2139,
-        "oneliners": 1104,
+        "questions": 2141,
+        "oneliners": 1106,
         "capsules": 301,
         "videos": 48
     },
     "upsc": {
-        "questions": 1026,
-        "oneliners": 11,
+        "questions": 1029,
+        "oneliners": 14,
         "capsules": 17
     },
     "jee": {
@@ -94,23 +94,23 @@ EXPECTED = {
         "capsules": 10
     },
     "banking": {
-        "questions": 893,
+        "questions": 896,
         "capsules": 50,
-        "oneliners": 13
+        "oneliners": 16
     },
     "defence": {
-        "questions": 1022,
+        "questions": 1024,
         "capsules": 15,
-        "oneliners": 7
+        "oneliners": 9
     },
     "current-affairs": {
-        "questions": 790,
-        "oneliners": 29,
-        "capsules": 31
+        "questions": 798,
+        "oneliners": 34,
+        "capsules": 32
     },
     "software-ai-tech": {
-        "questions": 831,
-        "oneliners": 401,
+        "questions": 832,
+        "oneliners": 403,
         "capsules": 13
     },
     "teaching": {
@@ -119,8 +119,8 @@ EXPECTED = {
         "oneliners": 10
     },
     "ca": {
-        "questions": 908,
-        "oneliners": 10,
+        "questions": 911,
+        "oneliners": 12,
         "capsules": 13
     },
     "sarkari-vacancies": {
