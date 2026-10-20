@@ -142,6 +142,59 @@
     ],
     "answer_index": 3
    }
+  },
+  {
+   "episode": 36,
+   "video_hi": "MDbctPSZPoQ",
+   "video_hinglish": "SvXSh1GXkxI",
+   "capsules": [
+    {
+     "id": "ca-ep36-s1",
+     "headline_hi": "अमेरिकी विदेश मंत्री भारत में",
+     "headline_hinglish": "Rubio arrives in India",
+     "detail_hi": "अमेरिका के विदेश मंत्री मार्को रुबियो बीस अक्टूबर को भारत पहुंचे; मुंबई में विदेश मंत्री जयशंकर से व्यापार, ऊर्जा, रक्षा और तकनीक पर बातचीत होगी।",
+     "detail_hinglish": "US Secretary of State Marco Rubio arrived in India on 20 October; talks with EAM Jaishankar in Mumbai cover trade, energy, defence and tech.",
+     "category_hi": "विदेश नीति",
+     "category_en": "International"
+    },
+    {
+     "id": "ca-ep36-s2",
+     "headline_hi": "भारत-UAE रिश्ते मज़बूत",
+     "headline_hinglish": "India-UAE ties deepen",
+     "detail_hi": "संयुक्त अरब अमीरात के विदेश मंत्री अब्दुल्ला बिन जायद ने मुंबई में जयशंकर से मुलाकात की; व्यापक रणनीतिक साझेदारी को और गहरा करने पर चर्चा हुई।",
+     "detail_hinglish": "UAE Foreign Minister Sheikh Abdullah bin Zayed met Jaishankar in Mumbai to deepen the Comprehensive Strategic Partnership and CEPA ties.",
+     "category_hi": "विदेश नीति",
+     "category_en": "International"
+    },
+    {
+     "id": "ca-ep36-s3",
+     "headline_hi": "जंक फूड पर सख्त नियम?",
+     "headline_hinglish": "Keralam wants junk-food rules",
+     "detail_hi": "केरलम सरकार ने केंद्र से HFSS खाद्य नियमों पर स्पष्टता मांगी; बच्चों के खानपान में वसा, चीनी और नमक की सीमा तय होगी।",
+     "detail_hinglish": "Keralam asked the Centre for clarity on HFSS food rules defining high fat, salt and sugar limits to curb unhealthy diets among children.",
+     "category_hi": "स्वास्थ्य",
+     "category_en": "Health"
+    },
+    {
+     "id": "ca-ep36-s4",
+     "headline_hi": "अक्साई चिन का नाम बदले?",
+     "headline_hinglish": "'Aksai Hind' demand",
+     "detail_hi": "लद्दाख के नेता ने चीन के कब्ज़े वाले क्षेत्र अक्साई चिन का नाम अक्साई हिंद रखने की मांग की; कहा — लद्दाख हमेशा भारत का हिस्सा रहा।",
+     "detail_hinglish": "A Ladakh leader demanded renaming China-occupied Aksai Chin as Aksai Hind, saying Ladakh has always been an integral part of India.",
+     "category_hi": "भूगोल",
+     "category_en": "National"
+    },
+    {
+     "id": "ca-ep36-s5",
+     "headline_hi": "तमिलनाडु में रोज़गार बढ़ा",
+     "headline_hinglish": "TN adds rural work days",
+     "detail_hi": "तमिलनाडु सरकार ने वीबी-जी राम जी योजना के तहत पच्चीस दिन अतिरिक्त सशुल्क रोज़गार जोड़ा; ग्रामीण मज़दूरों को साल भर और काम मिलेगा।",
+     "detail_hinglish": "Tamil Nadu added 25 days of paid work under the VB-G RAM G scheme, giving rural labourers more guaranteed employment this year.",
+     "category_hi": "अर्थव्यवस्था",
+     "category_en": "Economy"
+    }
+   ],
+   "mcq": null
   }
  ]
 }
