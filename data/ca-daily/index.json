@@ -1,0 +1,124 @@
+{
+ "generated": "2026-10-20T06:54:14.857141",
+ "source": "Daily Current Affairs Shorts (YouTube @DailyCurrentAffairs-s1p)",
+ "days": [
+  {
+   "date": "2026-10-12",
+   "date_hi": "12 अक्टूबर 2026",
+   "date_en": "12 October 2026",
+   "episodes": [
+    2,
+    3,
+    4,
+    5
+   ],
+   "capsules": 20,
+   "mcqs": 4
+  },
+  {
+   "date": "2026-10-13",
+   "date_hi": "13 अक्टूबर 2026",
+   "date_en": "13 October 2026",
+   "episodes": [
+    6,
+    7,
+    8,
+    9
+   ],
+   "capsules": 20,
+   "mcqs": 4
+  },
+  {
+   "date": "2026-10-14",
+   "date_hi": "14 अक्टूबर 2026",
+   "date_en": "14 October 2026",
+   "episodes": [
+    10,
+    11,
+    12,
+    13
+   ],
+   "capsules": 20,
+   "mcqs": 4
+  },
+  {
+   "date": "2026-10-15",
+   "date_hi": "15 अक्टूबर 2026",
+   "date_en": "15 October 2026",
+   "episodes": [
+    14,
+    15,
+    16,
+    17
+   ],
+   "capsules": 20,
+   "mcqs": 4
+  },
+  {
+   "date": "2026-10-16",
+   "date_hi": "16 अक्टूबर 2026",
+   "date_en": "16 October 2026",
+   "episodes": [
+    18,
+    19,
+    20,
+    21
+   ],
+   "capsules": 20,
+   "mcqs": 4
+  },
+  {
+   "date": "2026-10-17",
+   "date_hi": "17 अक्टूबर 2026",
+   "date_en": "17 October 2026",
+   "episodes": [
+    22,
+    23,
+    24,
+    25
+   ],
+   "capsules": 19,
+   "mcqs": 3
+  },
+  {
+   "date": "2026-10-18",
+   "date_hi": "18 अक्टूबर 2026",
+   "date_en": "18 October 2026",
+   "episodes": [
+    26,
+    27,
+    28,
+    29
+   ],
+   "capsules": 20,
+   "mcqs": 3
+  },
+  {
+   "date": "2026-10-19",
+   "date_hi": "19 अक्टूबर 2026",
+   "date_en": "19 October 2026",
+   "episodes": [
+    30,
+    31,
+    32,
+    33
+   ],
+   "capsules": 20,
+   "mcqs": 4
+  },
+  {
+   "date": "2026-10-20",
+   "date_hi": "20 अक्टूबर 2026",
+   "date_en": "20 October 2026",
+   "episodes": [
+    34,
+    35
+   ],
+   "capsules": 10,
+   "mcqs": 2
+  }
+ ],
+ "total_days": 9,
+ "total_capsules": 169,
+ "total_mcqs": 32
+}
