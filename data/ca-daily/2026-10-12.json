@@ -1,0 +1,287 @@
+{
+ "date": "2026-10-12",
+ "date_hi": "12 अक्टूबर 2026",
+ "date_en": "12 October 2026",
+ "episodes": [
+  {
+   "episode": 2,
+   "video_hi": "BnXReBcffWU",
+   "video_hinglish": "xd9DRelB0hA",
+   "capsules": [
+    {
+     "id": "ca-ep2-s1",
+     "headline_hi": "RBI: 16 अक्टूबर से daily CRR 99%",
+     "headline_hinglish": "RBI: 16 October se daily CRR 99%",
+     "detail_hi": "बैंकों को 16 अक्टूबर से रोजाना CRR का 99% रखना होगा, पहले 90% था — कुल CRR 3% अपरिवर्तित",
+     "detail_hinglish": "16 October se banks ko rozana CRR ka 99% maintain karna hoga, pehle 90% tha — total CRR 3% unchanged",
+     "category_hi": "अर्थव्यवस्था",
+     "category_en": "Economy"
+    },
+    {
+     "id": "ca-ep2-s2",
+     "headline_hi": "सुप्रीम कोर्ट की रविवार को ऐतिहासिक सुनवाई",
+     "headline_hinglish": "Supreme Court ki Sunday ko historic sunvai",
+     "detail_hi": "दिल्ली में मुक्त आवागमन का निर्देश, अवैध हिरासत पर रोक — लेकिन सार्वजनिक व्यवस्था के अधीन",
+     "detail_hinglish": "Delhi me free movement ka order, illegal detention par rok — lekin public order ke adheen",
+     "category_hi": "राजव्यवस्था",
+     "category_en": "Polity"
+    },
+    {
+     "id": "ca-ep2-s3",
+     "headline_hi": "Green Energy Corridor Phase-3 मंज़ूर",
+     "headline_hinglish": "Green Energy Corridor Phase-3 manzoor",
+     "detail_hi": "₹1,86,405 करोड़ से 135 GW अक्षय ऊर्जा और 50 GWh बैटरी स्टोरेज — लक्ष्य वित्त वर्ष 2033",
+     "detail_hinglish": "₹1,86,405 crore se 135 GW renewable energy aur 50 GWh battery storage — target FY 2033",
+     "category_hi": "ऊर्जा",
+     "category_en": "Energy"
+    },
+    {
+     "id": "ca-ep2-s4",
+     "headline_hi": "अहमदाबाद में BRICS Sports Games 12-13 अक्टूबर",
+     "headline_hinglish": "Ahmedabad me BRICS Sports Games 12-13 October",
+     "detail_hi": "पारंपरिक और स्वदेशी खेलों का प्रदर्शन, केंद्रीय खेल मंत्री मंडाविया करेंगे उद्घाटन",
+     "detail_hinglish": "Traditional aur indigenous sports ka pradarshan, Sports Minister Mandaviya karenge udghatan",
+     "category_hi": "खेल",
+     "category_en": "Sports"
+    },
+    {
+     "id": "ca-ep2-s5",
+     "headline_hi": "Critical Minerals Stockpile नीति एक महीने में",
+     "headline_hinglish": "Critical Minerals Stockpile policy ek mahine me",
+     "detail_hi": "रक्षा, एयरोस्पेस और ऊर्जा जैसे रणनीतिक क्षेत्रों के लिए खनिज भंडारण नीति की घोषणा जल्द",
+     "detail_hinglish": "Raksha, aerospace aur energy jaise strategic sectors ke liye mineral stockpile policy jald",
+     "category_hi": "अर्थव्यवस्था",
+     "category_en": "Economy"
+    }
+   ],
+   "mcq": {
+    "id": "ca-ep2-mcq",
+    "q_hi": "16 अक्टूबर 2026 से बैंकों के लिए daily CRR maintenance कितना होगा?",
+    "q_hinglish": "16 October 2026 se banks ke liye daily CRR maintenance kitna hoga?",
+    "options_hi": [
+     "100%",
+     "95%",
+     "99%",
+     "90%"
+    ],
+    "options_hinglish": [
+     "100%",
+     "95%",
+     "99%",
+     "90%"
+    ],
+    "answer_index": 2
+   }
+  },
+  {
+   "episode": 3,
+   "video_hi": "nlKLSGerMKk",
+   "video_hinglish": "QI_po9tsK4o",
+   "capsules": [
+    {
+     "id": "ca-ep3-s1",
+     "headline_hi": "SIR पर सुप्रीम कोर्ट तक INDIA गठबंधन का मार्च",
+     "headline_hinglish": "INDIA Bloc Ka Supreme Court Tak March, CEC Ke Istife Ki Maang",
+     "detail_hi": "राहुल गांधी के नेतृत्व में आज दिल्ली में मार्च, CEC ज्ञानेश कुमार के इस्तीफ़े की मांग; CJI सूर्य कांत ने बैठक का अनुरोध अस्वीकार किया; 6 मेट्रो स्टेशन सुबह 6 से शाम 4 बजे तक बंद",
+     "detail_hinglish": "Rahul Gandhi ke netrutv me aaj Delhi me march, CEC Gyanesh Kumar ke istife ki maang; CJI Surya Kant ne meeting request decline ki; 6 metro station subah 6 se shaam 4 baje tak band",
+     "category_hi": "राजव्यवस्था",
+     "category_en": "Polity"
+    },
+    {
+     "id": "ca-ep3-s2",
+     "headline_hi": "भारत 2-1 से आगे, अभिषेक शर्मा का विश्व रिकॉर्ड",
+     "headline_hinglish": "India 2-1 Se Aage, Abhishek Sharma Ka World Record",
+     "detail_hi": "इंदौर में वेस्टइंडीज़ पर 14 रन से जीत, 5 मैचों की सीरीज़ में 2-1 की बढ़त; अभिषेक शर्मा सिर्फ 1024 गेंदों में 2000 T20I रन — सूर्य कुमार यादव का 1164 गेंदों का रिकॉर्ड टूटा",
+     "detail_hinglish": "Indore me West Indies par 14 run se jeet, 5-match series me 2-1 ki badhat; Abhishek Sharma ne sirf 1024 gendon me 2000 T20I run banaye — Suryakumar Yadav ka 1164 gendon ka record toota",
+     "category_hi": "खेल",
+     "category_en": "Sports"
+    },
+    {
+     "id": "ca-ep3-s3",
+     "headline_hi": "PM मोदी ने तमिलनाडु को ₹13,000 करोड़ की सौगात",
+     "headline_hinglish": "PM Modi Ne Tamil Nadu Ko 13,000 Crore Ki Saugaat Di",
+     "detail_hi": "चेन्नई में रविवार को डिजिटल कनेक्टिविटी, औद्योगिक विकास और व्यापार पर केंद्रित परियोजनाओं का उद्घाटन और शिलान्यास",
+     "detail_hinglish": "Chennai me Ravivaar ko digital connectivity, industrial growth aur trade par focus projects ka udghatan aur shilanyas",
+     "category_hi": "अर्थव्यवस्था",
+     "category_en": "Economy"
+    },
+    {
+     "id": "ca-ep3-s4",
+     "headline_hi": "Keylong में ICMR हाई-एल्टीट्यूड मेडिसिन सेंटर",
+     "headline_hinglish": "Keylong Me ICMR High-Altitude Medicine Centre",
+     "detail_hi": "केंद्रीय स्वास्थ्य मंत्री नड्डा आज हिमाचल प्रदेश के केलोंग में रखेंगे आधारशिला — हिमालयी क्षेत्र में बायोमेडिकल रिसर्च को मज़बूती",
+     "detail_hinglish": "Health Minister Nadda aaj Himachal ke Keylong me rakhenge foundation stone — Himalayan region me biomedical research ko mazbooti",
+     "category_hi": "विज्ञान",
+     "category_en": "Science"
+    },
+    {
+     "id": "ca-ep3-s5",
+     "headline_hi": "U-17 महिला फुटबॉल: मलेशिया को 4-0 से हराया",
+     "headline_hinglish": "U-17 Mahila Football: Malaysia Ko 4-0 Se Haraaya",
+     "detail_hi": "चीन में 2027 महिला एशिया कप के लिए लगातार दूसरी बार क्वालीफाई; अनुष्का कुमारी ने अभियान में 8 गोल किए",
+     "detail_hinglish": "China me 2027 Women's Asia Cup ke liye lagaatar dusri baar qualify; Anushka Kumari ne campaign me 8 goal kiye",
+     "category_hi": "खेल",
+     "category_en": "Sports"
+    }
+   ],
+   "mcq": {
+    "id": "ca-ep3-mcq",
+    "q_hi": "अभिषेक शर्मा ने 2000 T20I रन का रिकॉर्ड कितनी गेंदों में बनाया?",
+    "q_hinglish": "Abhishek Sharma ne 2000 T20I run ka record kitni gendon me banaaya?",
+    "options_hi": [
+     "1164",
+     "1024",
+     "1100",
+     "1050"
+    ],
+    "options_hinglish": [
+     "1164",
+     "1024",
+     "1100",
+     "1050"
+    ],
+    "answer_index": 1
+   }
+  },
+  {
+   "episode": 4,
+   "video_hi": "tmnlK37Rx0o",
+   "video_hinglish": "WFGcx16xTyE",
+   "capsules": [
+    {
+     "id": "ca-ep4-s1",
+     "headline_hi": "SC का निर्देश: शांतिपूर्ण प्रदर्शन पर रोक नहीं",
+     "headline_hinglish": "SC ka nirdesh: shantipurna pradarshan par rok nahi",
+     "detail_hi": "सुप्रीम कोर्ट ने प्रदर्शन के दौरान परिवहन और इंटरनेट सेवाएं नियमित रखने और शांतिपूर्ण प्रदर्शनकारियों को अकारण हिरासत में न लेने का निर्देश दिया; भारत ने संयुक्त राष्ट्र मानवाधिकार कार्यालय की चिंता को 'अनुचित हस्तक्षेप' बताया",
+     "detail_hinglish": "Supreme Court ne pradarshan ke dauraan transport aur internet services niyamit rakhne aur shantipurna pradarshankariyon ko akaaran hirasat me na lene ka nirdesh diya; India ne UN human rights office ki chinta ko 'unwarranted interference' bataya",
+     "category_hi": "राजव्यवस्था",
+     "category_en": "Polity"
+    },
+    {
+     "id": "ca-ep4-s2",
+     "headline_hi": "नाशिक में भूजल में कैंसरकारी टॉक्सिन",
+     "headline_hinglish": "Nashik me groundwater me cancer-linked toxin",
+     "detail_hi": "नाशिक के अंबड में कुंभ स्थल के पास भूजल में हेक्सावैलेंट क्रोमियम सुरक्षा सीमा से 1000 गुना अधिक — SANDRP की लैब जांच में खुलासा",
+     "detail_hinglish": "Nashik ke Ambad me Kumbh sthal ke paas groundwater me hexavalent chromium safety limit se 1,000 guna adhik — SANDRP ki lab jaanch me khulasa",
+     "category_hi": "पर्यावरण",
+     "category_en": "Environment"
+    },
+    {
+     "id": "ca-ep4-s3",
+     "headline_hi": "हूती विद्रोहियों ने रियाद एयरपोर्ट पर किया हमला",
+     "headline_hinglish": "Houthi rebels ne Riyadh airport par kiya hamla",
+     "detail_hi": "12 लोगों की मौत वाले मिसाइल हमले के एक दिन बाद रियाद हवाई अड्डे के यात्री टर्मिनल पर फिर हमला, कई घायल",
+     "detail_hinglish": "12 logon ki maut wale missile attack ke ek din baad Riyadh airport ke passenger terminal par phir hamla, kai ghayal",
+     "category_hi": "अंतरराष्ट्रीय",
+     "category_en": "International"
+    },
+    {
+     "id": "ca-ep4-s4",
+     "headline_hi": "इंडिगो उड़ान में पावर बैंक से आग",
+     "headline_hinglish": "IndiGo flight me power bank se aag",
+     "detail_hi": "दिल्ली–चेन्नई इंडिगो उड़ान में पावर बैंक से आग लगने पर विमान हैदराबाद डायवर्ट; DGCA नियम — पावर बैंक केवल केबिन बैगेज में ले जाएं",
+     "detail_hinglish": "Delhi-Chennai IndiGo flight me power bank se aag lagne par vimaan Hyderabad divert; DGCA rule — power bank sirf cabin baggage me le jaayen",
+     "category_hi": "सुरक्षा",
+     "category_en": "Defence"
+    },
+    {
+     "id": "ca-ep4-s5",
+     "headline_hi": "कच्चे तेल में नरमी, Q2 नतीजों का सीज़न",
+     "headline_hinglish": "Crude me narmi, Q2 earnings season shuru",
+     "detail_hi": "ब्रेंट क्रूड 1.36% गिरकर 103.35 डॉलर प्रति बैरल, WTI 90.42 डॉलर; HCL टेक, DMart, अडानी ग्रीन और बैंकिंग शेयरों पर नज़र",
+     "detail_hinglish": "Brent crude 1.36% girkar $103.35 per barrel, WTI $90.42; HCL Tech, DMart, Adani Green aur banking stocks par nazar",
+     "category_hi": "अर्थव्यवस्था",
+     "category_en": "Economy"
+    }
+   ],
+   "mcq": {
+    "id": "ca-ep4-mcq",
+    "q_hi": "DGCA नियमों के अनुसार पावर बैंक कहां ले जाना अनिवार्य है?",
+    "q_hinglish": "DGCA rules ke anusaar power bank kahan le jaana anivarya hai?",
+    "options_hi": [
+     "केवल चेक-इन बैगेज में",
+     "कोई प्रतिबंध नहीं",
+     "केवल केबिन बैगेज में",
+     "दोनों बैगेज में"
+    ],
+    "options_hinglish": [
+     "Sirf checked baggage me",
+     "Koi pratibandh nahi",
+     "Sirf cabin baggage me",
+     "Dono baggage me"
+    ],
+    "answer_index": 2
+   }
+  },
+  {
+   "episode": 5,
+   "video_hi": "4og0zjrAZbk",
+   "video_hinglish": "HP-oG7qJrGw",
+   "capsules": [
+    {
+     "id": "ca-ep5-s1",
+     "headline_hi": "विपक्ष का SC मार्च: CEC के इस्तीफे की मांग",
+     "headline_hinglish": "Virodh ka SC march: CEC ke istife ki maang",
+     "detail_hi": "राहुल गांधी के नेतृत्व में इंडिया ब्लॉक ने मुख्य चुनाव आयुक्त ज्ञानेश कुमार के खिलाफ याचिका दायर की; CJI सूर्य कांत ने मुलाकात से इनकार किया, छह मेट्रो स्टेशनों की एंट्री-एग्जिट बंद रही",
+     "detail_hinglish": "Rahul Gandhi ke netritva me INDIA bloc ne Chief Election Commissioner Gyanesh Kumar ke khilaf petition file ki; CJI Surya Kant ne mulaqat se inkar kiya, chhah metro stations ki entry-exit band rahi",
+     "category_hi": "राजव्यवस्था",
+     "category_en": "Polity"
+    },
+    {
+     "id": "ca-ep5-s2",
+     "headline_hi": "नोबेल अर्थशास्त्र पुरस्कार 2026: हॉल और वुडफोर्ड",
+     "headline_hinglish": "Nobel Economics Prize 2026: Hall aur Woodford",
+     "detail_hi": "स्टैनफोर्ड के रॉबर्ट हॉल और कोलंबिया के माइकल वुडफोर्ड को 'आर्थिक स्थिरीकरण की सूक्ष्मआर्थिक नींव' के लिए नोबेल; शांति नोबेल दक्षिण अफ्रीका की नवी पिल्लै को",
+     "detail_hinglish": "Stanford ke Robert Hall aur Columbia ke Michael Woodford ko 'microeconomic foundations of macroeconomic stabilisation' ke liye Nobel; Peace Nobel South Africa ki Navi Pillay ko",
+     "category_hi": "अंतरराष्ट्रीय",
+     "category_en": "International"
+    },
+    {
+     "id": "ca-ep5-s3",
+     "headline_hi": "सितंबर में खुदरा महंगाई 5.54%, RBI ने बढ़ाई रेपो दर",
+     "headline_hinglish": "September me retail inflation 5.54%, RBI ne badhai repo rate",
+     "detail_hi": "NSO के अनुसार सितंबर में CPI महंगाई अगस्त के 4.83% से बढ़कर 5.54% — खाद्य महंगाई 7.74%; RBI ने रेपो दर 25 बेसिस पॉइंट बढ़ाकर 5.50% की",
+     "detail_hinglish": "NSO ke anusaar September me CPI inflation August ke 4.83% se badhkar 5.54% — food inflation 7.74%; RBI ne repo rate 25 basis points badhakar 5.50% ki",
+     "category_hi": "अर्थव्यवस्था",
+     "category_en": "Economy"
+    },
+    {
+     "id": "ca-ep5-s4",
+     "headline_hi": "रुपए को थामने RBI के कदम: तेल कंपनियों पर रोक",
+     "headline_hinglish": "Rupee ko thaamne RBI ke kadam: oil companies par rok",
+     "detail_hi": "RBI ने तेल कंपनियों की स्पॉट मार्केट से डॉलर खरीद पर अंकुश और हेजिंग नियम सख्त किए; रुपया 95.76 प्रति डॉलर पर — शुक्रवार के 96.73 से मजबूत",
+     "detail_hinglish": "RBI ne oil companies ki spot market se dollar khareed par ankush lagaya aur hedging rules sakht kiye; rupee 95.76 per dollar par — Shukravaar ke 96.73 se majboot",
+     "category_hi": "बैंकिंग",
+     "category_en": "Banking"
+    },
+    {
+     "id": "ca-ep5-s5",
+     "headline_hi": "तीसरे T20 में भारत की वेस्टइंडीज पर 14 रन से जीत",
+     "headline_hinglish": "Teesre T20 me India ki West Indies par 14 run se jeet",
+     "detail_hi": "इंदौर में भारत ने वेस्टइंडीज को 14 रन से हराकर सीरीज़ में 2-1 की बढ़त ली; अर्शदीप सिंह (3 विकेट) प्लेयर ऑफ द मैच",
+     "detail_hinglish": "Indore me India ne West Indies ko 14 run se harakar series me 2-1 ki badhat li; Arshdeep Singh (3 wickets) Player of the Match",
+     "category_hi": "खेल",
+     "category_en": "Sports"
+    }
+   ],
+   "mcq": {
+    "id": "ca-ep5-mcq",
+    "q_hi": "सितंबर 2026 में भारत की खुदरा (CPI) महंगाई दर क्या रही?",
+    "q_hinglish": "September 2026 me India ki retail (CPI) inflation rate kya rahi?",
+    "options_hi": [
+     "6.08%",
+     "4.83%",
+     "7.74%",
+     "5.54%"
+    ],
+    "options_hinglish": [
+     "6.08%",
+     "4.83%",
+     "7.74%",
+     "5.54%"
+    ],
+    "answer_index": 3
+   }
+  }
+ ]
+}
