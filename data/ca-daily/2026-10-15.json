@@ -1,0 +1,287 @@
+{
+ "date": "2026-10-15",
+ "date_hi": "15 अक्टूबर 2026",
+ "date_en": "15 October 2026",
+ "episodes": [
+  {
+   "episode": 14,
+   "video_hi": "Lp-GnuvmzAg",
+   "video_hinglish": "OjN3J2FDrEs",
+   "capsules": [
+    {
+     "id": "ca-ep14-s1",
+     "headline_hi": "सभी ट्रेन टिकटों पर बीमा अनिवार्य: सुप्रीम कोर्ट",
+     "headline_hinglish": "Supreme Court: insurance mandatory on all train tickets",
+     "detail_hi": "सुप्रीम कोर्ट ने भारतीय रेलवे को 27 अक्टूबर 2026 से ऑफलाइन टिकट खरीदने वाले सभी यात्रियों को बीमा देने का निर्देश दिया; रेलवे बोर्ड को आदेश के क्रियान्वयन की निगरानी करनी होगी।",
+     "detail_hinglish": "The Supreme Court has directed Indian Railways to provide insurance to all passengers buying tickets offline from 27 October 2026; the Railway Board must ensure the order is implemented",
+     "category_hi": "रेलवे",
+     "category_en": "Railways"
+    },
+    {
+     "id": "ca-ep14-s2",
+     "headline_hi": "IDBI बैंक में 60.72% हिस्सेदारी बिकेगी: ₹52,878 करोड़ की डील",
+     "headline_hinglish": "60.72% IDBI Bank stake sale to Fairfax for Rs 52,878 crore",
+     "detail_hi": "केंद्र ने IDBI बैंक की 60.72% हिस्सेदारी कनाडा की फेयरफैक्स को ₹52,878 करोड़ में बेचने को मंजूरी दी — वित्तीय क्षेत्र में अब तक का सबसे बड़ा विदेशी निवेश; सरकार की हिस्सेदारी 15% और LIC की 19% रह जाएगी।",
+     "detail_hinglish": "The Centre has approved selling 60.72% of IDBI Bank to Canada's Fairfax for Rs 52,878 crore — the largest-ever foreign investment in India's financial sector; government stake falls to 15% and LIC's to 19%",
+     "category_hi": "बैंकिंग",
+     "category_en": "Banking"
+    },
+    {
+     "id": "ca-ep14-s3",
+     "headline_hi": "IMF ने भारत की ग्रोथ का अनुमान बढ़ाकर 7% किया",
+     "headline_hinglish": "IMF raises India's growth forecast to 7%",
+     "detail_hi": "अंतरराष्ट्रीय मुद्रा कोष ने अनिश्चित वैश्विक अर्थव्यवस्था के बावजूद भारत के आर्थिक विकास का पूर्वानुमान बढ़ाकर सात प्रतिशत कर दिया है।",
+     "detail_hinglish": "The International Monetary Fund has raised India's economic growth forecast to seven percent despite an uncertain global economy",
+     "category_hi": "अर्थव्यवस्था",
+     "category_en": "Economy"
+    },
+    {
+     "id": "ca-ep14-s4",
+     "headline_hi": "ओमान बना भारत का सबसे बड़ा LNG आपूर्तिकर्ता",
+     "headline_hinglish": "Oman becomes India's biggest LNG supplier",
+     "detail_hi": "ओमान ने अमेरिका को पीछे छोड़कर भारत का सबसे बड़ा तरलीकृत प्राकृतिक गैस (LNG) आपूर्तिकर्ता बनने का स्थान हासिल किया — ऊर्जा व्यापार में बड़ा बदलाव।",
+     "detail_hinglish": "Oman has overtaken the US to become India's biggest supplier of liquefied natural gas — a major shift in energy trade",
+     "category_hi": "ऊर्जा व्यापार",
+     "category_en": "Energy"
+    },
+    {
+     "id": "ca-ep14-s5",
+     "headline_hi": "दिवाली के बाद ₹2,000 से ऊपर UPI पर मर्चेंट शुल्क संभव",
+     "headline_hinglish": "Merchant fee likely on UPI payments above Rs 2,000 after Diwali",
+     "detail_hi": "दिवाली के बाद दो हज़ार रुपये से अधिक के UPI भुगतान पर व्यापारियों से छोटा शुल्क लिया जा सकता है — डिजिटल भुगतान नियमों में बदलाव की तैयारी।",
+     "detail_hinglish": "Payments above two thousand rupees on UPI may attract a small charge on merchants after Diwali — new digital payment rules in the works",
+     "category_hi": "डिजिटल बैंकिंग",
+     "category_en": "Banking"
+    }
+   ],
+   "mcq": {
+    "id": "ca-ep14-mcq",
+    "q_hi": "IMF ने 2026 में भारत की GDP ग्रोथ का अनुमान कितना रखा है?",
+    "q_hinglish": "What GDP growth forecast has the IMF set for India in 2026?",
+    "options_hi": [
+     "7.5%",
+     "7%",
+     "8%",
+     "6.5%"
+    ],
+    "options_hinglish": [
+     "7.5%",
+     "7%",
+     "8%",
+     "6.5%"
+    ],
+    "answer_index": 1
+   }
+  },
+  {
+   "episode": 15,
+   "video_hi": "L63bkn_-zlM",
+   "video_hinglish": "Wjvl7olWPIQ",
+   "capsules": [
+    {
+     "id": "ca-ep15-s1",
+     "headline_hi": "जियो प्लेटफॉर्म्स का IPO: 21 अक्टूबर को खुलेगा, एंकर बिडिंग 19 से",
+     "headline_hinglish": "Jio Platforms IPO: opens 21 Oct, anchor bidding from 19 Oct",
+     "detail_hi": "जियो प्लेटफॉर्म्स का IPO इक्कीस अक्टूबर को खुलेगा, तेईस को बंद होगा। एंकर बिडिंग उन्नीस अक्टूबर से; कर्मचारी व RIL शेयरधारकों के लिए शेयर आरक्षित।",
+     "detail_hinglish": "Jio Platforms ka IPO 21 October ko khulega, 23 ko band hoga. Anchor bidding 19 October se; employees aur RIL shareholders ke liye shares reserved.",
+     "category_hi": "IPO",
+     "category_en": "Economy"
+    },
+    {
+     "id": "ca-ep15-s2",
+     "headline_hi": "चीन की आपत्ति ठुकराई: लद्दाख भारत का अभिन्न हिस्सा",
+     "headline_hinglish": "India rejects China's objection: Ladakh is integral part of India",
+     "detail_hi": "विदेश मंत्रालय ने लद्दाख में अट्ठाईस स्थलों के नामों के मानकीकरण पर चीन की आपत्ति ठुकराई — दोहराया: लद्दाख भारत का अभिन्न हिस्सा है।",
+     "detail_hinglish": "MEA ne Ladakh mein 28 locations ke naam standardise karne par China ki objection reject ki — Ladakh Bharat ka integral part hai.",
+     "category_hi": "अंतरराष्ट्रीय",
+     "category_en": "International"
+    },
+    {
+     "id": "ca-ep15-s3",
+     "headline_hi": "भारत-मॉरीशस टैक्स संधि में बड़ा बदलाव, PPT लागू",
+     "headline_hinglish": "India-Mauritius tax treaty amended: PPT introduced",
+     "detail_hi": "वित्त मंत्रालय ने भारत-मॉरीशस कर संधि में प्रिंसिपल पर्पस टेस्ट जोड़ा — संधि के दुरुपयोग पर रोक। एक अप्रैल 2017 से पहले के निवेश बाहर।",
+     "detail_hinglish": "Finance Ministry ne India-Mauritius treaty mein Principal Purpose Test joda — treaty abuse par rok. 1 April 2017 se pehle ke investments bahar.",
+     "category_hi": "अर्थव्यवस्था",
+     "category_en": "Economy"
+    },
+    {
+     "id": "ca-ep15-s4",
+     "headline_hi": "अमेरिकी विदेश मंत्री रूबियो का भारत दौरा: मुंबई-जामनगर, दिल्ली नहीं",
+     "headline_hinglish": "Rubio's India visit: Mumbai-Jamnagar, skipping Delhi",
+     "detail_hi": "अमेरिका के विदेश मंत्री मार्को रूबियो उन्नीस से बाईस अक्टूबर तक मुंबई और जामनगर जाएंगे। ऊर्जा और व्यापार एजेंडे पर; दिल्ली नहीं जाएंगे।",
+     "detail_hinglish": "US Secretary of State Marco Rubio 19-22 October tak Mumbai aur Jamnagar jayenge. Energy aur trade agenda par; Delhi nahi jayenge.",
+     "category_hi": "कूटनीति",
+     "category_en": "International"
+    },
+    {
+     "id": "ca-ep15-s5",
+     "headline_hi": "अप्रैल 2029 से BS-VII उत्सर्जन मानदंड लागू करेगा केंद्र",
+     "headline_hinglish": "Centre plans BS-VII emission norms from April 2029",
+     "detail_hi": "केंद्र अप्रैल दो हजार उनतीस से नई कारों और SUV के लिए सख्त बीएस-सात उत्सर्जन मानदंड लागू करेगा — प्रदूषण पर बड़ी रोक।",
+     "detail_hinglish": "Centre April 2029 se new cars aur SUVs ke liye stricter BS-VII emission norms layega — vehicular pollution par badi rok.",
+     "category_hi": "पर्यावरण",
+     "category_en": "Environment"
+    }
+   ],
+   "mcq": {
+    "id": "ca-ep15-mcq",
+    "q_hi": "जियो प्लेटफॉर्म्स IPO की एंकर बिडिंग कब शुरू होगी?",
+    "q_hinglish": "Jio Platforms IPO ki anchor bidding kab shuru hogi?",
+    "options_hi": [
+     "19 अक्टूबर",
+     "20 अक्टूबर",
+     "21 अक्टूबर",
+     "23 अक्टूबर"
+    ],
+    "options_hinglish": [
+     "19 October",
+     "20 October",
+     "21 October",
+     "23 October"
+    ],
+    "answer_index": 0
+   }
+  },
+  {
+   "episode": 16,
+   "video_hi": "Pzwnv1eVRw0",
+   "video_hinglish": "hoI6TuwByZI",
+   "capsules": [
+    {
+     "id": "ca-ep16-s1",
+     "headline_hi": "IDBI बैंक: 60.72% हिस्सेदारी फेयरफैक्स को, ₹52,878 करोड़ में",
+     "headline_hinglish": "Cabinet clears IDBI Bank sale: 60.72% stake to Fairfax at Rs 52,878 crore",
+     "detail_hi": "कैबिनेट ने IDBI बैंक की 60.72% हिस्सेदारी फेयरफैक्स को ₹52,878 करोड़ में बेचने को मंजूरी दी।",
+     "detail_hinglish": "Cabinet ne IDBI Bank ki 60.72% hissedari Fairfax ko Rs 52,878 crore mein bechne ko manzoori de di.",
+     "category_hi": "बैंकिंग",
+     "category_en": "Banking"
+    },
+    {
+     "id": "ca-ep16-s2",
+     "headline_hi": "RBI ने रेपो रेट बढ़ाकर 5.50% किया: 2023 के बाद पहली बार",
+     "headline_hinglish": "RBI hikes repo rate to 5.50%: first hike since Feb 2023",
+     "detail_hi": "RBI ने रेपो रेट 25 बेसिस पॉइंट बढ़ाकर 5.50% किया — फरवरी 2023 के बाद पहली बढ़ोतरी; रुख अब 'कैलिब्रेटेड टाइटनिंग'।",
+     "detail_hinglish": "RBI ne repo rate 25 basis points badhakar 5.50% kar diya — February 2023 ke baad pehli badhotri; stance ab 'calibrated tightening'.",
+     "category_hi": "अर्थव्यवस्था",
+     "category_en": "Economy"
+    },
+    {
+     "id": "ca-ep16-s3",
+     "headline_hi": "NSAP जारी रहेगा: ₹53,428 करोड़, 2026-27 से 2030-31 तक",
+     "headline_hinglish": "NSAP continued: Rs 53,428 crore for 2026-27 to 2030-31",
+     "detail_hi": "कैबिनेट ने राष्ट्रीय सामाजिक सहायता कार्यक्रम 2026-27 से 2030-31 तक जारी रखा — कुल ₹53,428 करोड़ का प्रावधान।",
+     "detail_hinglish": "Cabinet ne National Social Assistance Programme ko 2026-27 se 2030-31 tak jaari rakha — kul Rs 53,428 crore ka provision.",
+     "category_hi": "गवर्नेंस",
+     "category_en": "Polity"
+    },
+    {
+     "id": "ca-ep16-s4",
+     "headline_hi": "लक्षद्वीप शत-प्रतिशत साक्षर: ULLAS अभियान की उपलब्धि",
+     "headline_hinglish": "Lakshadweep declared 100% literate under ULLAS",
+     "detail_hi": "उल्लास अभियान के तहत लक्षद्वीप को शत-प्रतिशत साक्षर घोषित किया गया।",
+     "detail_hinglish": "ULLAS abhiyaan ke tehat Lakshadweep ko shat-pratishat sakshar ghoshit kar diya gaya.",
+     "category_hi": "शिक्षा",
+     "category_en": "Education"
+    },
+    {
+     "id": "ca-ep16-s5",
+     "headline_hi": "किगाली संशोधन के 10 वर्ष: HFC चरणबद्ध कटौती",
+     "headline_hinglish": "Kigali Amendment turns 10: HFC phase-down milestone",
+     "detail_hi": "आज किगाली संशोधन की दसवीं वर्षगांठ — मॉन्ट्रियल प्रोटोकॉल का संशोधन, HFC गैसों को चरणबद्ध घटाएगा।",
+     "detail_hinglish": "Aaj Kigali Amendment ki dasvin varshgaanth hai — Montreal Protocol ka sanshodhan jo HFC gases ko phase-down karta hai.",
+     "category_hi": "पर्यावरण",
+     "category_en": "Environment"
+    }
+   ],
+   "mcq": {
+    "id": "ca-ep16-mcq",
+    "q_hi": "किगाली संशोधन किस संधि का संशोधन है?",
+    "q_hinglish": "Kigali Amendment kis sandhi ka sanshodhan hai?",
+    "options_hi": [
+     "क्योटो प्रोटोकॉल",
+     "पेरिस समझौता",
+     "मॉन्ट्रियल प्रोटोकॉल",
+     "बासल सम्मेलन"
+    ],
+    "options_hinglish": [
+     "Kyoto Protocol",
+     "Paris Agreement",
+     "Montreal Protocol",
+     "Basel Convention"
+    ],
+    "answer_index": 2
+   }
+  },
+  {
+   "episode": 17,
+   "video_hi": "xMYZdakF_7E",
+   "video_hinglish": "jz-2QkVAxyk",
+   "capsules": [
+    {
+     "id": "ca-ep17-s1",
+     "headline_hi": "Jio Platforms IPO: 21 अक्टूबर को खुलेगा, एंकर बोली 19 को",
+     "headline_hinglish": "Jio Platforms IPO opens 21 October; anchor bidding on 19th",
+     "detail_hi": "Jio Platforms का IPO 21 से 23 अक्टूबर तक खुलेगा; कर्मचारियों के लिए ₹500 करोड़ और RIL शेयरधारकों के लिए ₹2,500 करोड़ के शेयर आरक्षित।",
+     "detail_hinglish": "Jio Platforms ka IPO 21 se 23 October tak khulega; employees ke liye Rs 500 crore aur RIL shareholders ke liye Rs 2,500 crore ke shares reserved.",
+     "category_hi": "बाज़ार",
+     "category_en": "Economy"
+    },
+    {
+     "id": "ca-ep17-s2",
+     "headline_hi": "भारत-मॉरीशस कर संधि में संशोधन: प्रिंसिपल पर्पज़ टेस्ट लागू",
+     "headline_hinglish": "India-Mauritius tax treaty amended: Principal Purpose Test added",
+     "detail_hi": "वित्त मंत्रालय ने संधि-दुरुपयोग रोकने के लिए कर संधि में Principal Purpose Test जोड़ा; 1 अप्रैल 2017 से पहले के निवेश दायरे से बाहर।",
+     "detail_hinglish": "Finance Ministry ne treaty abuse rokne ke liye tax treaty mein Principal Purpose Test joda; 1 April 2017 se pehle ke investments bahar.",
+     "category_hi": "अर्थव्यवस्था",
+     "category_en": "Economy"
+    },
+    {
+     "id": "ca-ep17-s3",
+     "headline_hi": "SC आज SIR याचिका सुनेगा: 13 करोड़ मतदाता सूची से हटे",
+     "headline_hinglish": "SC to hear SIR plea today: 13 crore voters deleted",
+     "detail_hi": "सुप्रीम कोर्ट आज EC की विशेष गहन पुनरीक्षण (SIR) के खिलाफ याचिका सुनेगा — अब तक देशभर में करीब 13 करोड़ मतदाता हटाए गए।",
+     "detail_hinglish": "Supreme Court aaj EC ke Special Intensive Revision (SIR) ke khilaf plea sunega — desh bhar mein ab tak kareeb 13 crore voters hataye gaye.",
+     "category_hi": "राजनीति",
+     "category_en": "Polity"
+    },
+    {
+     "id": "ca-ep17-s4",
+     "headline_hi": "अमेरिकी विदेश मंत्री रूबियो 19-22 अक्टूबर को भारत आएंगे",
+     "headline_hinglish": "US Secretary of State Rubio to visit India 19-22 October",
+     "detail_hi": "मार्को रूबियो मुंबई और जामनगर जाएंगे, दिल्ली नहीं; ऊर्जा और व्यापार एजेंडे पर — समरकंद क्षेत्रीय सम्मेलन के बाद आएंगे।",
+     "detail_hinglish": "Marco Rubio Mumbai aur Jamnagar jayenge, Delhi nahi; energy aur trade agenda par — Samarkand regional conference ke baad aayenge.",
+     "category_hi": "अंतरराष्ट्रीय",
+     "category_en": "International"
+    },
+    {
+     "id": "ca-ep17-s5",
+     "headline_hi": "राष्ट्रपति ने L मुरुगन का मंत्री पद से इस्तीफा स्वीकार किया",
+     "headline_hinglish": "President accepts L Murugan's resignation from Union Council",
+     "detail_hi": "प्रधानमंत्री की सलाह पर अनुच्छेद 75(2) के तहत राष्ट्रपति द्रौपदी मुर्मू ने डॉ. L मुरुगन का केंद्रीय मंत्रिपरिषद से इस्तीफा स्वीकार किया।",
+     "detail_hinglish": "PM ki salah par Article 75(2) ke tehat President Droupadi Murmu ne Dr L Murugan ka Union Council of Ministers se isteefa sweekar kiya.",
+     "category_hi": "राजनीति",
+     "category_en": "Polity"
+    }
+   ],
+   "mcq": {
+    "id": "ca-ep17-mcq",
+    "q_hi": "भारत-मॉरीशस कर संधि में संधि-दुरुपयोग रोकने के लिए कौन-सा प्रावधान जोड़ा गया?",
+    "q_hinglish": "India-Mauritius tax treaty mein treaty abuse rokne ke liye kaunsa provision joda gaya?",
+    "options_hi": [
+     "प्रिंसिपल पर्पज़ टेस्ट",
+     "लिमिटेशन ऑफ बेनिफिट्स क्लॉज़",
+     "स्रोत-देश कराधान नियम",
+     "दोहरा कराधान छूट"
+    ],
+    "options_hinglish": [
+     "Principal Purpose Test",
+     "Limitation of Benefits clause",
+     "Source-country taxation rule",
+     "Double taxation exemption"
+    ],
+    "answer_index": 0
+   }
+  }
+ ]
+}
