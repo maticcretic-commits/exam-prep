@@ -1,0 +1,77 @@
+{
+ "date": "2026-10-21",
+ "date_hi": "21 अक्टूबर 2026",
+ "date_en": "21 October 2026",
+ "episodes": [
+  {
+   "episode": 38,
+   "video_hi": "V_CVcepAQTg",
+   "video_hinglish": "OoAHW76ay4w",
+   "capsules": [
+    {
+     "id": "ca-ep38-s1",
+     "headline_hi": "जियो प्लेटफॉर्म्स का आईपीओ",
+     "headline_hinglish": "Jio Platforms IPO",
+     "detail_hi": "इक्कीस अक्टूबर से जियो प्लेटफॉर्म्स का आईपीओ खुला — तीन अरब डॉलर से अधिक का भारत का सबसे बड़ा पब्लिक इश्यू; शेयर अट्ठाईस को लिस्ट।",
+     "detail_hinglish": "Jio Platforms IPO opens from October 21 — India's biggest-ever public issue at over 3 billion dollars; shares list on October 28.",
+     "category_hi": "अर्थव्यवस्था",
+     "category_en": "Economy"
+    },
+    {
+     "id": "ca-ep38-s2",
+     "headline_hi": "पोलैंड PM का भारत दौरा",
+     "headline_hinglish": "Poland PM in India",
+     "detail_hi": "पोलैंड के प्रधानमंत्री डोनाल्ड टस्क इक्कीस से तेईस अक्टूबर तक भारत दौरे पर; रक्षा निर्यात और औद्योगिक साझेदारी एजेंडे में शीर्ष पर।",
+     "detail_hinglish": "Polish PM Donald Tusk on India visit from October 21 to 23; defence exports and industrial partnerships top the agenda.",
+     "category_hi": "अंतरराष्ट्रीय",
+     "category_en": "International"
+    },
+    {
+     "id": "ca-ep38-s3",
+     "headline_hi": "मार्को रूबियो भारत में",
+     "headline_hinglish": "Marco Rubio in India",
+     "detail_hi": "अमेरिकी विदेश मंत्री मार्को रूबियो ने मुंबई में एस जयशंकर से मुलाकात की; व्यापार, ऊर्जा, रक्षा सहयोग और त्रिपक्षीय ऊर्जा वार्ता पर चर्चा।",
+     "detail_hinglish": "US Secretary of State Marco Rubio met S Jaishankar in Mumbai; talks on trade, energy, defence cooperation and a trilateral energy dialogue.",
+     "category_hi": "अंतरराष्ट्रीय",
+     "category_en": "International"
+    },
+    {
+     "id": "ca-ep38-s4",
+     "headline_hi": "कैंसर दवाएं सस्ती होंगी",
+     "headline_hinglish": "Cancer drugs cheaper",
+     "detail_hi": "सरकार ने एक सौ सैंतीस कैंसर दवाओं पर व्यापार मार्जिन तीस प्रतिशत तक सीमित किया; नौ नवंबर से कीमतें सत्तर प्रतिशत तक घटेंगी।",
+     "detail_hinglish": "Government caps trade margins on 137 cancer medicines at 30 percent; prices may fall up to 70 percent from November 9.",
+     "category_hi": "स्वास्थ्य",
+     "category_en": "Health"
+    },
+    {
+     "id": "ca-ep38-s5",
+     "headline_hi": "सिरपुर UNESCO सूची में",
+     "headline_hinglish": "Sirpur in UNESCO list",
+     "detail_hi": "छत्तीसगढ़ का प्राचीन सिरपुर UNESCO की टेंटेटिव विश्व धरोहर सूची में; महानदी किनारे स्थित स्थल का इतिहास पांचवीं से बारहवीं शताब्दी तक।",
+     "detail_hinglish": "Ancient Sirpur in Chhattisgarh joins UNESCO's tentative World Heritage list; the Mahanadi-site's history spans the 5th to 12th century CE.",
+     "category_hi": "संस्कृति",
+     "category_en": "National"
+    }
+   ],
+   "mcq": {
+    "id": "ca-ep38-mcq",
+    "q_hi": "छत्तीसगढ़ का सिरपुर किस सूची में शामिल हुआ है?",
+    "q_hinglish": "Chhattisgarh ka Sirpur kis list mein shaamil hua hai?",
+    "options_hi": [
+     "ए) स्थायी विश्व धरोहर स्थल",
+     "बी) UNESCO टेंटेटिव सूची",
+     "सी) रामसर स्थल",
+     "डी) ब्लू फ्लैग समुद्र तट"
+    ],
+    "options_hinglish": [
+     "World Heritage Site (permanent)",
+     "UNESCO tentative list",
+     "Ramsar site",
+     "Blue Flag beach"
+    ],
+    "answer_index": 1
+   }
+  }
+ ]
+}
