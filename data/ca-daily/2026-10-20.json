@@ -1,0 +1,147 @@
+{
+ "date": "2026-10-20",
+ "date_hi": "20 अक्टूबर 2026",
+ "date_en": "20 October 2026",
+ "episodes": [
+  {
+   "episode": 34,
+   "video_hi": "BxomQQaKuls",
+   "video_hinglish": "VudNcp8u9fg",
+   "capsules": [
+    {
+     "id": "ca-ep34-s1",
+     "headline_hi": "भारत-न्यूजीलैंड FTA लागू",
+     "headline_hinglish": "Bharat-New Zealand FTA lagu",
+     "detail_hi": "भारत-न्यूजीलैंड मुक्त व्यापार समझौता आज से लागू। भारतीय निर्यात को शून्य शुल्क, बीस तीस तक व्यापार दोगुना; NZ पंद्रह साल में बीस अरब डॉलर निवेश करेगा।",
+     "detail_hinglish": "Bharat-New Zealand mukt vyaapaar samjhauta aaj se lagu. Bharatiya niryaat ko shoonya shulk, bees tees tak vyaapaar doguna; NZ pandrah saal mein bees arab dollar nivesh karega.",
+     "category_hi": "अर्थव्यवस्था",
+     "category_en": "Economy"
+    },
+    {
+     "id": "ca-ep34-s2",
+     "headline_hi": "पोलैंड PM की भारत यात्रा",
+     "headline_hinglish": "Poland PM ki Bharat yatra",
+     "detail_hi": "PM मोदी के निमंत्रण पर पोलैंड के PM डोनाल्ड टस्क इक्कीस से तेईस अक्टूबर को आधिकारिक यात्रा पर भारत आ रहे हैं; वित्त मंत्री व व्यापारिक प्रतिनिधिमंडल साथ।",
+     "detail_hinglish": "PM Modi ke nimantran par Poland ke PM Donald Tusk ikkees se tees October ko aadhikarik yatra par Bharat aa rahe hain; vitt mantri v vyaapaarik pratinidhimandal saath.",
+     "category_hi": "अंतरराष्ट्रीय",
+     "category_en": "International"
+    },
+    {
+     "id": "ca-ep34-s3",
+     "headline_hi": "सुप्रीम कोर्ट का बड़ा फैसला",
+     "headline_hinglish": "Supreme Court ka bada faisla",
+     "detail_hi": "सुप्रीम कोर्ट ने तमिलनाडु के तिरुवल्लूर में जल-निकाय वाली जमीन की रैयतवारी पट्टा रद्द की; बीस फ्लैट मालिकों को छह महीने में वैकल्पिक जगह मिलेगी।",
+     "detail_hinglish": "Supreme Court ne Tamil Nadu ke Tiruvallur mein jal-nikaay wali zameen ki ryotwari patta radd ki; bees flat malikon ko chhah mahine mein vaikalpik jagah milegi.",
+     "category_hi": "राजव्यवस्था",
+     "category_en": "Polity"
+    },
+    {
+     "id": "ca-ep34-s4",
+     "headline_hi": "पुलिस स्मृति दिवस 21 अक्टूबर",
+     "headline_hinglish": "Police Smriti Diwas 21 October",
+     "detail_hi": "इक्कीस अक्टूबर को पुलिस स्मृति दिवस पर गृह मंत्री अमित शाह राष्ट्रीय पुलिस स्मारक पर शहीदों को श्रद्धांजलि देंगे; बाइक रैली को हरी झंडी।",
+     "detail_hinglish": "Ikkees October ko Police Smriti Diwas par Grih Mantri Amit Shah Rashtriya Police Smarak par shaheedon ko shraddhaanjali denge; bike rally ko hari jhandi.",
+     "category_hi": "सुरक्षा",
+     "category_en": "Defence"
+    },
+    {
+     "id": "ca-ep34-s5",
+     "headline_hi": "ऑरंगुटन बच्चा घर लौटा",
+     "headline_hinglish": "Orangutan bachcha ghar lauta",
+     "detail_hi": "दो हजार चौबीस में भारत में बचाया गया सुमात्रा का ऑरंगुटन बच्चा लगभग दो साल बाद इंडोनेशिया को प्रत्यावर्तित किया गया।",
+     "detail_hinglish": "Do hazaar chaubees mein Bharat mein bachaaya gaya Sumatra ka orangutan bachcha lagbhag do saal baad Indonesia ko pratyaavartit kiya gaya.",
+     "category_hi": "पर्यावरण",
+     "category_en": "Environment"
+    }
+   ],
+   "mcq": {
+    "id": "ca-ep34-mcq",
+    "q_hi": "India–New Zealand FTA कब लागू हुआ?",
+    "q_hinglish": "Bharat-New Zealand FTA kab lagu hua?",
+    "options_hi": [
+     "बी) 20 अक्टूबर 2026",
+     "ए) 27 अप्रैल 2026",
+     "सी) 21 अक्टूबर 2026",
+     "डी) 1 जनवरी 2026"
+    ],
+    "options_hinglish": [
+     "20 October 2026",
+     "27 April 2026",
+     "21 October 2026",
+     "1 January 2026"
+    ],
+    "answer_index": 0
+   }
+  },
+  {
+   "episode": 35,
+   "video_hi": "Twbao_PvnXo",
+   "video_hinglish": "2gGad5Bbggk",
+   "capsules": [
+    {
+     "id": "ca-ep35-s1",
+     "headline_hi": "IDBI बैंक की हिस्सेदारी Fairfax को",
+     "headline_hinglish": "IDBI Bank ki hissedaari Fairfax ko",
+     "detail_hi": "कैबिनेट ने IDBI बैंक की साठ दशमलव बहत्तर प्रतिशत हिस्सेदारी कनाडा की Fairfax को तिरपन हजार करोड़ में बेचने की मंजूरी दी; RBI की मंजूरी बाकी।",
+     "detail_hinglish": "Cabinet ne IDBI Bank ki saath dashamlav bahattar pratishat hissedaari Canada ki Fairfax ko tirpan hazaar crore mein bechne ki manzoori di; RBI ki manzoori baaki.",
+     "category_hi": "अर्थव्यवस्था",
+     "category_en": "Economy"
+    },
+    {
+     "id": "ca-ep35-s2",
+     "headline_hi": "कैंसर की दवाएं सस्ती",
+     "headline_hinglish": "Cancer ki davaayein sasti",
+     "detail_hi": "NPPA ने एक सौ सैंतीस कैंसर दवाओं पर व्यापार मार्जिन तीस प्रतिशत तय किया; नौ नवंबर से MRP सत्तर प्रतिशत तक घटेगी।",
+     "detail_hinglish": "NPPA ne ek sau saintees cancer davaon par vyaapaar margin tees pratishat tay kiya; nau November se MRP sattar pratishat tak ghategi.",
+     "category_hi": "स्वास्थ्य",
+     "category_en": "Health"
+    },
+    {
+     "id": "ca-ep35-s3",
+     "headline_hi": "पैरा एशियाई खेलों में दोहरा धमाका",
+     "headline_hinglish": "Para Asian Games mein dohra dhamaka",
+     "detail_hi": "नागोया पैरा एशियाई खेलों में मोना अग्रवाल ने स्वर्ण और अवनी लेखरा ने रजत जीता; दस मीटर एयर राइफल SH1 में खेलों का नया रिकॉर्ड।",
+     "detail_hinglish": "Nagoya Para Asian Games mein Mona Agarwal ne swarn aur Avani Lekhara ne rajat jeeta; das meter air rifle SH1 mein khelon ka naya record.",
+     "category_hi": "खेल",
+     "category_en": "Sports"
+    },
+    {
+     "id": "ca-ep35-s4",
+     "headline_hi": "चलो यमुना अभियान",
+     "headline_hinglish": "Chalo Yamuna abhiyaan",
+     "detail_hi": "अठारह अक्टूबर को पैंतीस हजार लोगों ने सत्तर घाटों की सफाई की; बाईस अक्टूबर को अमित शाह आठ हजार नौ सौ इकतालीस करोड़ की जल परियोजनाएं देंगे।",
+     "detail_hinglish": "Attharah October ko paintees hazaar logon ne sattar ghaton ki safai ki; bais October ko Amit Shah aath hazaar nau sau iktaalis crore ki jal pariyojnaayein denge.",
+     "category_hi": "पर्यावरण",
+     "category_en": "Environment"
+    },
+    {
+     "id": "ca-ep35-s5",
+     "headline_hi": "CNAP: कॉलर का नाम दिखेगा",
+     "headline_hinglish": "CNAP: caller ka naam dikhega",
+     "detail_hi": "दूरसंचार विभाग ने पहली नवंबर से CNAP अनिवार्य किया; 4G/5G पर अनजान नंबर के साथ KYC में दर्ज नाम स्क्रीन पर दिखेगा।",
+     "detail_hinglish": "Doorsanchar vibhag ne pehli November se CNAP anivaarya kiya; 4G/5G par anjaan number ke saath KYC mein darj naam screen par dikhega.",
+     "category_hi": "प्रौद्योगिकी",
+     "category_en": "Technology"
+    }
+   ],
+   "mcq": {
+    "id": "ca-ep35-mcq",
+    "q_hi": "IDBI बैंक में Fairfax को कितनी हिस्सेदारी बेचने की मंजूरी मिली?",
+    "q_hinglish": "IDBI Bank ke kitne pratishat share Fairfax ko beche jaayenge?",
+    "options_hi": [
+     "ए) 30.48%",
+     "सी) 51%",
+     "डी) 74%",
+     "बी) 60.72%"
+    ],
+    "options_hinglish": [
+     "30.48%",
+     "51%",
+     "74%",
+     "60.72%"
+    ],
+    "answer_index": 3
+   }
+  }
+ ]
+}
