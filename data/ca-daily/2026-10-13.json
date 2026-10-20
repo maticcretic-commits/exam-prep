@@ -1,0 +1,287 @@
+{
+ "date": "2026-10-13",
+ "date_hi": "13 अक्टूबर 2026",
+ "date_en": "13 October 2026",
+ "episodes": [
+  {
+   "episode": 6,
+   "video_hi": "Oc0yWMnNTmU",
+   "video_hinglish": "Z0IfQtS6ol0",
+   "capsules": [
+    {
+     "id": "ca-ep6-s1",
+     "headline_hi": "जंतर मंतर अब धरना-प्रदर्शन स्थल नहीं",
+     "headline_hinglish": "Jantar Mantar ab protest site nahi",
+     "detail_hi": "केंद्रीय गृह मंत्रालय की समिति की सिफारिश पर दिल्ली पुलिस ने जंतर मंतर को अधिकृत धरना स्थलों की सूची से हटाया; रामलीला ग्राउंड, बुराड़ी ग्राउंड और पूर्वी दिल्ली के CBD ग्राउंड को वैकल्पिक स्थल घोषित किया गया",
+     "detail_hinglish": "Union Home Ministry ki committee ki sifarish par Delhi Police ne Jantar Mantar ko protest venues ki official list se hataaya; Ramlila Ground, Burari Ground aur East Delhi ke CBD Ground ko alternative venue ghoshit kiya gaya",
+     "category_hi": "राजव्यवस्था",
+     "category_en": "Polity"
+    },
+    {
+     "id": "ca-ep6-s2",
+     "headline_hi": "छह राज्यों में नए राज्यपालों की नियुक्ति",
+     "headline_hinglish": "6 states me naye Governors ki niyukti",
+     "detail_hi": "राष्ट्रपति द्रौपदी मुर्मू ने छह राज्यों में राज्यपाल नियुक्त किए — राजेंद्र विश्वनाथ अर्लेकर तमिलनाडु के पूर्णकालिक राज्यपाल, सिक्किम के ओम प्रकाश माथुर केरलम के राज्यपाल; दुष्यंत गौतम सिक्किम, ब्रज मोहन राम ओडिशा, सुधा यादव कर्नाटक और धल सिंह बिसेन उत्तराखंड के राज्यपाल बने",
+     "detail_hinglish": "Rashtrapati Droupadi Murmu ne chhah states me Governors appoint kiye — Rajendra Vishwanath Arlekar Tamil Nadu ke full-time Governor, Sikkim ke Om Prakash Mathur Keralam ke Governor; Dushyant Gautam Sikkim, Braj Mohan Ram Odisha, Sudha Yadav Karnataka aur Dhal Singh Bisen Uttarakhand ke Governor bane",
+     "category_hi": "राजव्यवस्था",
+     "category_en": "Polity"
+    },
+    {
+     "id": "ca-ep6-s3",
+     "headline_hi": "GST का दायरा बढ़ाने डेटा एनालिटिक्स का सहारा",
+     "headline_hinglish": "GST ka daayra badhane data analytics ka sahara",
+     "detail_hi": "केंद्र ने राज्यों से कहा — डेटा एनालिटिक्स और तकनीक से टैक्स आधार बढ़ाएं, नकद टैक्स न चुकाने वालों पर नजर रखें; वर्तमान में लगभग एक करोड़ अड़सठ लाख पंजीकृत करदाता; बी-टू-सी ई-इनवॉयसिंग एक अप्रैल 2027 से लागू होगी",
+     "detail_hinglish": "Centre ne states se kaha — data analytics aur technology se taxpayer base badhaayein, cash tax na chukaane walo par nazar rakhein; filhaal lagbhag 1 crore 68 lakh registered taxpayers; B2C e-invoicing 1 April 2027 se lagu hogi",
+     "category_hi": "अर्थव्यवस्था",
+     "category_en": "Economy"
+    },
+    {
+     "id": "ca-ep6-s4",
+     "headline_hi": "उत्तर कोरिया ने फिर दागी बैलिस्टिक मिसाइलें",
+     "headline_hinglish": "North Korea ne phir daagi ballistic missiles",
+     "detail_hi": "दक्षिण कोरिया की सेना के अनुसार प्योंगयांग के पास से पूर्वी तट की ओर कई बैलिस्टिक मिसाइलें दागी गईं; एक मिसाइल ने नौ सौ किलोमीटर से अधिक दूरी तय की — यह महीने में चौथा परीक्षण, दक्षिण कोरिया के हाइपरसोनिक मिसाइल परीक्षण के बाद",
+     "detail_hinglish": "South Korea ki sena ke anusaar Pyongyang ke paas se east coast ki or kai ballistic missiles fire ki gayi; ek missile ne 900 km se zyada doori tay ki — ye mahine ka chautha test, South Korea ke hypersonic missile test ke baad",
+     "category_hi": "अंतरराष्ट्रीय",
+     "category_en": "International"
+    },
+    {
+     "id": "ca-ep6-s5",
+     "headline_hi": "बुलेट ट्रेन: वडोदरा में 14 पोर्टल बीम तैयार",
+     "headline_hinglish": "Bullet train: Vadodara me 14 portal beams taiyaar",
+     "detail_hi": "मुंबई-अहमदाबाद हाई स्पीड रेल परियोजना में बड़ी उपलब्धि — वडोदरा में दिल्ली-मुंबई राजधानी लाइन पर सभी चौदह पोर्टल बीम का काम पूरा; अब चालीस मीटर लंबे कंपोज़िट गर्डर बिछाए जाएंगे, ऊंचा ट्रैक बनेगा",
+     "detail_hinglish": "Mumbai-Ahmedabad High Speed Rail project me badi uplabdhi — Vadodara me Delhi-Mumbai Rajdhani line par saare 14 portal beams ka kaam poora; ab 40 metre lambe composite girders bichhaye jayenge, elevated viaduct banega",
+     "category_hi": "बुनियादी ढांचा",
+     "category_en": "Infrastructure"
+    }
+   ],
+   "mcq": {
+    "id": "ca-ep6-mcq",
+    "q_hi": "भारतीय संविधान के किस अनुच्छेद के तहत राज्यपाल की नियुक्ति होती है?",
+    "q_hinglish": "Bhartiya Samvidhan ke kis Article ke tehat Governor ki niyukti hoti hai?",
+    "options_hi": [
+     "153",
+     "154",
+     "155",
+     "156"
+    ],
+    "options_hinglish": [
+     "153",
+     "154",
+     "155",
+     "156"
+    ],
+    "answer_index": 2
+   }
+  },
+  {
+   "episode": 7,
+   "video_hi": "I37Vi5x6R9o",
+   "video_hinglish": "NO_5_FSqe_M",
+   "capsules": [
+    {
+     "id": "ca-ep7-s1",
+     "headline_hi": "2026 का अर्थशास्त्र नोबेल: हॉल और वुडफोर्ड को",
+     "headline_hinglish": "Economics Nobel 2026: Hall aur Woodford ko",
+     "detail_hi": "अमेरिकी अर्थशास्त्रियों रॉबर्ट ई. हॉल और माइकल वुडफोर्ड को मैक्रोइकॉनॉमिक स्थिरीकरण के माइक्रोइकॉनॉमिक आधार पर काम के लिए 2026 का अर्थशास्त्र का नोबेल पुरस्कार मिला; पुरस्कार राशि एक करोड़ बीस लाख स्वीडिश क्रोनर है",
+     "detail_hinglish": "American economists Robert E. Hall aur Michael Woodford ko 2026 ka Economics Nobel Prize mila — macroeconomic stabilisation ke microeconomic foundations par unke kaam ke liye; prize money ek crore bees lakh Swedish kronor hai",
+     "category_hi": "पुरस्कार",
+     "category_en": "Awards"
+    },
+    {
+     "id": "ca-ep7-s2",
+     "headline_hi": "महंगाई 21 महीने के उच्चतम स्तर पर",
+     "headline_hinglish": "Mehngai 21 mahine ke uchhatam star par",
+     "detail_hi": "राष्ट्रीय सांख्यिकी कार्यालय के अनुसार सितंबर में खुदरा महंगाई दर पाँच दशमलव पाँच चार प्रतिशत रही — इक्कीस महीने का उच्चतम स्तर; खाद्य महंगाई सात दशमलव सात चार प्रतिशत; आंकड़े नए आधार वर्ष दो हजार चौबीस पर जारी",
+     "detail_hinglish": "National Statistics Office ke mutabik September me retail mehngai paanch dasham lav paanch chaar percent rahi — ikkees mahine ka sabse uncha star; khadya mehngai saat dasham lav saat chaar percent; aankde naye base year do hazaar chaubees par jaari",
+     "category_hi": "अर्थव्यवस्था",
+     "category_en": "Economy"
+    },
+    {
+     "id": "ca-ep7-s3",
+     "headline_hi": "अनमोल खरब का अंतरराष्ट्रीय बैडमिंटन खिताब",
+     "headline_hinglish": "Anmol Kharb ka international badminton title",
+     "detail_hi": "भारतीय शटलर अनमोल खरब ने अंतरराष्ट्रीय बैडमिंटन खिताब जीता — फाइनल में जीत के साथ विश्व रैंकिंग में बड़ा उछाल तय; एशिया टीम चैंपियनशिप में भारत को पहला खिताब दिलाने वाली स्टार का यह नया कारनामा",
+     "detail_hinglish": "Bharatiya shuttler Anmol Kharb ne international badminton title jeeta — final me jeet ke saath world ranking me bada uchhal tay; Asia Team Championships me Bharat ko pehla title dilane wali star ka yeh naya karnama",
+     "category_hi": "खेल",
+     "category_en": "Sports"
+    },
+    {
+     "id": "ca-ep7-s4",
+     "headline_hi": "प्रधानमंत्री धन-धान्य कृषि योजना की समीक्षा",
+     "headline_hinglish": "PM Dhan-Dhaanya Krishi Yojana ki sameeksha",
+     "detail_hi": "प्रधानमंत्री धन-धान्य कृषि योजना की प्रथम वर्षगांठ पर समीक्षा — कृषि योजनाओं के उद्देश्य, क्रियान्वयन डिज़ाइन और किसान हितलाभ परीक्षा की दृष्टि से अत्यंत महत्वपूर्ण; कृषि योजनाएं UPSC और SSC दोनों में नियमित पूछी जाती हैं",
+     "detail_hinglish": "Pradhan Mantri Dhan-Dhaanya Krishi Yojana ki pratham varshgaanth par sameeksha — krishi yojnaon ke uddeshya, implementation design aur kisan hitlaabh pariksha ki drishti se atyant mahatvapurna; krishi yojnaayein UPSC aur SSC dono me niyamit poochi jaati hain",
+     "category_hi": "योजना",
+     "category_en": "Schemes"
+    },
+    {
+     "id": "ca-ep7-s5",
+     "headline_hi": "होरमुज़ हमले पर डोभाल की ईरान NSA से बात",
+     "headline_hinglish": "Hormuz hamle par Doval ki Iran NSA se baat",
+     "detail_hi": "राष्ट्रीय सुरक्षा सलाहकार अजीत डोभाल ने ईरान के NSA मोहसिन रजाई से बात की; होरमुज़ जलडमरूमध्य में भारतीय चालक दल वाले दो व्यापारिक जहाजों पर हमले के बाद तनाव बढ़ा — अंतरराष्ट्रीय संबंध प्रश्नों के लिए अहम घटना",
+     "detail_hinglish": "Rashtriya Suraksha Salahkaar Ajit Doval ne Iran ke NSA Mohsin Rezaei se baat ki; Hormuz strait me Bharatiya crew wale do vyaapaarik jahaazon par hamle ke baad tanaav badha — international relations prashnon ke liye ahem ghatna",
+     "category_hi": "अंतरराष्ट्रीय",
+     "category_en": "International"
+    }
+   ],
+   "mcq": {
+    "id": "ca-ep7-mcq",
+    "q_hi": "2026 का अर्थशास्त्र का नोबेल पुरस्कार किन्हें मिला?",
+    "q_hinglish": "2026 ka Economics ka Nobel Prize kinhein mila?",
+    "options_hi": [
+     "बेन बर्नानके और पॉल क्रुगमैन",
+     "रॉबर्ट ई. हॉल और माइकल वुडफोर्ड",
+     "अमर्त्य सेन और एस्थर डुफलो",
+     "जोसेफ स्टिग्लिट्ज़ और जेनेट येलेन"
+    ],
+    "options_hinglish": [
+     "Ben Bernanke aur Paul Krugman",
+     "Robert E. Hall aur Michael Woodford",
+     "Amartya Sen aur Esther Duflo",
+     "Joseph Stiglitz aur Janet Yellen"
+    ],
+    "answer_index": 1
+   }
+  },
+  {
+   "episode": 8,
+   "video_hi": "OEK60bAXl24",
+   "video_hinglish": "H4uxJ-z-Vzw",
+   "capsules": [
+    {
+     "id": "ca-ep8-s1",
+     "headline_hi": "नई दिल्ली में पहली बिम्सटेक गृह मंत्रियों की बैठक",
+     "headline_hinglish": "New Delhi me pehli BIMSTEC Home Ministers ki baithak",
+     "detail_hi": "गृह मंत्री अमित शाह ने 13 अक्टूबर को बैठक का उद्घाटन किया; सात सदस्य देशों के बीच आतंकवाद, नार्को-तस्करी, साइबर खतरों और समुद्री तस्करी से निपटने हेतु संस्थागत क्षेत्रीय सुरक्षा तंत्र स्थापित",
+     "detail_hinglish": "Home Minister Amit Shah ne 13 October ko baithak ka udghaatan kiya; saat sadasya deshon ke beech aatankvaad, narco-tasari, cyber khatron aur samudri tasari se nipatne hetu sansthagat kshetriya suraksha tantra sthaapit",
+     "category_hi": "अंतरराष्ट्रीय",
+     "category_en": "International"
+    },
+    {
+     "id": "ca-ep8-s2",
+     "headline_hi": "डीआरडीओ का समतापमंडलीय एयरशिप उड़ान परीक्षण",
+     "headline_hinglish": "DRDO ka stratospheric airship udaan pareekshan",
+     "detail_hi": "रक्षा अनुसंधान एवं विकास संगठन ने समतापमंडलीय एयरशिप का सफल उड़ान परीक्षण किया — निगरानी और संचार के लिए उच्च-ऊंचाई प्लेटफॉर्म की दिशा में अहम कदम",
+     "detail_hinglish": "Raksha Anusandhaan evam Vikaas Sangathan ne stratospheric airship ka safal udaan pareekshan kiya — nigrani aur sanchaar ke liye uchch-oonchaai platform ki disha me ahem kadam",
+     "category_hi": "रक्षा",
+     "category_en": "Defence"
+    },
+    {
+     "id": "ca-ep8-s3",
+     "headline_hi": "विजयवाड़ा में राष्ट्रीय सरस मेला 2026 शुरू",
+     "headline_hinglish": "Vijayawada me National SARAS Mela 2026 shuru",
+     "detail_hi": "13 से 31 अक्टूबर तक पुन्नमी घाट पर आयोजन; 30 से अधिक राज्यों की 1500 से ज्यादा महिला उद्यमी; दीनदयाल अंत्योदय योजना के तहत 2029 तक छह करोड़ लखपति दीदी का लक्ष्य",
+     "detail_hinglish": "13 se 31 October tak Punnami Ghat par aayojan; 30 se adhik rajyon ki 1500 se zyada mahila udyami; Deendayal Antyodaya Yojana ke tehat 2029 tak chhah crore Lakhpati Didi ka lakshya",
+     "category_hi": "योजना",
+     "category_en": "Schemes"
+    },
+    {
+     "id": "ca-ep8-s4",
+     "headline_hi": "CAPF अधिनियम 2026 लागू",
+     "headline_hinglish": "CAPF Adhiniyam 2026 laagoo",
+     "detail_hi": "8 अक्टूबर से प्रभावी; सीआरपीएफ, बीएसएफ, सीआईएसएफ, आईटीबीपी, एसएसबी में भर्ती-पदोन्नति के नए नियम; आईजी के 50% पद आईपीएस प्रतिनियुक्ति हेतु आरक्षित — वैधता सुप्रीम कोर्ट में चुनौती के अधीन",
+     "detail_hinglish": "8 October se prabhaavi; CRPF, BSF, CISF, ITBP, SSB me bharti-padonnati ke naye niyam; IG ke 50% pad IPS pratiniyukti hetu aarakshit — vaidhata Supreme Court me chunauti ke adheen",
+     "category_hi": "राजव्यवस्था",
+     "category_en": "Polity"
+    },
+    {
+     "id": "ca-ep8-s5",
+     "headline_hi": "स्मृति मंधाना बनीं यूनिसेफ इंडिया एडवोकेट",
+     "headline_hinglish": "Smriti Mandhana bani UNICEF India advocate",
+     "detail_hi": "भारतीय महिला क्रिकेट स्टार स्मृति मंधाना को यूनिसेफ इंडिया ने सेलिब्रिटी एडवोकेट नामित किया — बच्चों के अधिकारों और शिक्षा के लिए अभियान चलाएंगी",
+     "detail_hinglish": "Bharatiya mahila cricket star Smriti Mandhana ko UNICEF India ne celebrity advocate naamit kiya — bachchon ke adhikaaron aur shiksha ke liye abhiyaan chalaayengi",
+     "category_hi": "खेल",
+     "category_en": "Sports"
+    }
+   ],
+   "mcq": {
+    "id": "ca-ep8-mcq",
+    "q_hi": "पहली बिम्सटेक गृह मंत्रियों की बैठक किस शहर में आयोजित हुई?",
+    "q_hinglish": "Pehli BIMSTEC Home Ministers ki baithak kis shahar me aayojit hui?",
+    "options_hi": [
+     "ढाका",
+     "काठमांडू",
+     "बैंकॉक",
+     "नई दिल्ली"
+    ],
+    "options_hinglish": [
+     "Dhaka",
+     "Kathmandu",
+     "Bangkok",
+     "New Delhi"
+    ],
+    "answer_index": 3
+   }
+  },
+  {
+   "episode": 9,
+   "video_hi": "t174IeeOeG0",
+   "video_hinglish": "tyPN0EQtka0",
+   "capsules": [
+    {
+     "id": "ca-ep9-s1",
+     "headline_hi": "Paytm Payments Bank अब अनुसूचित बैंक नहीं",
+     "headline_hinglish": "Paytm Payments Bank ab scheduled bank nahi",
+     "detail_hi": "RBI ने 7 अक्टूबर को पेटीएम पेमेंट्स बैंक को RBI अधिनियम 1934 की दूसरी अनुसूची से हटा दिया; अप्रैल 2026 में बैंकिंग लाइसेंस रद्द होने और दिल्ली हाई कोर्ट द्वारा वाइंड-अप आदेश के बाद यह औपचारिक कदम उठाया गया",
+     "detail_hinglish": "RBI ne 7 October ko Paytm Payments Bank ko RBI Act 1934 ki Second Schedule se hata diya; April 2026 me banking licence cancel hone aur Delhi High Court ke wind-up order ke baad ye formal kadam uthaya gaya",
+     "category_hi": "बैंकिंग",
+     "category_en": "Banking"
+    },
+    {
+     "id": "ca-ep9-s2",
+     "headline_hi": "एल. मुरुगन ने कैबिनेट और राज्यसभा से इस्तीफा दिया",
+     "headline_hinglish": "L. Murugan ne Cabinet aur Rajya Sabha se istifa diya",
+     "detail_hi": "13 अक्टूबर को केंद्रीय राज्य मंत्री (सूचना-प्रसारण और संसदीय कार्य) एल. मुरुगन ने प्रधानमंत्री को पत्र लिखकर दोनों पद छोड़ दिए; 2029 लोकसभा चुनाव से पहले तमिलनाडु में भाजपा संगठन को मजबूत करने पर अब उनका पूरा ध्यान रहेगा",
+     "detail_hinglish": "13 October ko Union MoS (Information-Broadcasting aur Parliamentary Affairs) L. Murugan ne PM ko letter likhkar dono pad chhod diye; 2029 Lok Sabha elections se pehle Tamil Nadu me BJP organisation ko mazboot karne par ab unka poora focus rahega",
+     "category_hi": "राजव्यवस्था",
+     "category_en": "Polity"
+    },
+    {
+     "id": "ca-ep9-s3",
+     "headline_hi": "UPI MDR अब दिवाली के बाद: NPCI ने टाला फैसला",
+     "headline_hinglish": "UPI MDR ab Diwali ke baad: NPCI ne tala faisla",
+     "detail_hi": "NPCI ने 2000 रुपये से ऊपर के चुनिंदा P2M UPI लेनदेन पर 0.4 प्रतिशत मर्चेंट डिस्काउंट दर को दिवाली के तुरंत बाद तक टाल दिया; पहले यह 15 अक्टूबर से लागू होनी थी — त्योहारी सीजन को देखते हुए यह फैसला लिया गया",
+     "detail_hinglish": "NPCI ne Rs 2,000 se upar ke select P2M UPI transactions par 0.4% Merchant Discount Rate ko Diwali ke turant baad tak taal diya; pehle ye 15 October se lagu honi thi — festive season ko dekhte hue ye faisla liya gaya",
+     "category_hi": "डिजिटल अर्थव्यवस्था",
+     "category_en": "Economy"
+    },
+    {
+     "id": "ca-ep9-s4",
+     "headline_hi": "तटरक्षक बल ने डीजल तस्करी की नाव पकड़ी",
+     "headline_hinglish": "Coast Guard ne diesel smuggling ki boat pakdi",
+     "detail_hi": "भारतीय तटरक्षक बल ने मुंबई तट पर समुद्र में डीजल तस्करी के संदेह में भारतीय मछली पकड़ने वाली नाव 'हरिद्वार कृपा' को हिरासत में लिया; समुद्री सुरक्षा अभियान में तेज कार्रवाई की गई",
+     "detail_hinglish": "Indian Coast Guard ne Mumbai coast par mid-sea diesel smuggling ke sandeh me Indian fishing boat 'Haridwar Krupa' ko pakda; maritime security operation me tez action liya gaya",
+     "category_hi": "रक्षा",
+     "category_en": "Defence"
+    },
+    {
+     "id": "ca-ep9-s5",
+     "headline_hi": "टीबी मुक्त भारत के लिए JOSH टीमें लॉन्च",
+     "headline_hinglish": "TB Mukt Bharat ke liye JOSH teams launch",
+     "detail_hi": "केंद्रीय स्वास्थ्य मंत्री जे.पी. नड्डा ने भारत मंडपम से JOSH (जॉइंट स्क्वॉड फॉर हेल्थ) टीमों का शुभारंभ किया; प्रत्येक टीम में 5 MY भारत स्वयंसेवक और 5 NCC कैडेट होंगे — पहले चरण में 11 राज्यों/केंद्र शासित प्रदेशों के 55 जिलों को कवर किया जाएगा",
+     "detail_hinglish": "Health Minister J.P. Nadda ne Bharat Mandapam se JOSH (Joint Squad for Health) teams ka shubharambh kiya; har team me 5 MY Bharat volunteers aur 5 NCC cadets honge — pehle phase me 11 states/UTs ke 55 districts cover kiye jayenge",
+     "category_hi": "स्वास्थ्य",
+     "category_en": "Health"
+    }
+   ],
+   "mcq": {
+    "id": "ca-ep9-mcq",
+    "q_hi": "Paytm Payments Bank को RBI अधिनियम की किस अनुसूची से हटाया गया?",
+    "q_hinglish": "Paytm Payments Bank ko RBI Act ki kis Schedule se hataya gaya?",
+    "options_hi": [
+     "पहली अनुसूची",
+     "पांचवीं अनुसूची",
+     "दूसरी अनुसूची",
+     "तीसरी अनुसूची"
+    ],
+    "options_hinglish": [
+     "First Schedule",
+     "Fifth Schedule",
+     "Second Schedule",
+     "Third Schedule"
+    ],
+    "answer_index": 2
+   }
+  }
+ ]
+}
