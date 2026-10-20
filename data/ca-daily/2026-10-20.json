@@ -194,7 +194,24 @@
      "category_en": "Economy"
     }
    ],
-   "mcq": null
+   "mcq": {
+    "id": "ca-ep36-mcq",
+    "q_hi": "अक्टूबर 2026 में अमेरिकी विदेश मंत्री मार्को रुबियो भारत के किस शहर में पहुंचे?",
+    "q_hinglish": "Which city did US Secretary of State Marco Rubio visit in India in October 2026?",
+    "options_hi": [
+     "दिल्ली",
+     "मुंबई",
+     "बेंगलुरु",
+     "चेन्नई"
+    ],
+    "options_hinglish": [
+     "Delhi",
+     "Mumbai",
+     "Bengaluru",
+     "Chennai"
+    ],
+    "answer_index": 1
+   }
   }
  ]
 }
