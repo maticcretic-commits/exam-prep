@@ -1,0 +1,287 @@
+{
+ "date": "2026-10-16",
+ "date_hi": "16 अक्टूबर 2026",
+ "date_en": "16 October 2026",
+ "episodes": [
+  {
+   "episode": 18,
+   "video_hi": "5F96rju8ccU",
+   "video_hinglish": "7R_S9I3wqWU",
+   "capsules": [
+    {
+     "id": "ca-ep18-s1",
+     "headline_hi": "17 राज्यों में मतदाता सूची का विशेष पुनरीक्षण",
+     "headline_hinglish": "EC announces Special Summary Revision in 17 states/UTs",
+     "detail_hi": "चुनाव आयोग ने 17 राज्यों/केंद्र शासित प्रदेशों में मतदाता सूची के विशेष संक्षिप्त पुनरीक्षण की घोषणा की — इनमें अगले वर्ष विधानसभा चुनाव वाले राज्य भी शामिल हैं।",
+     "detail_hinglish": "Election Commission ne 17 states/UTs mein electoral rolls ke Special Summary Revision ka announcement kiya — inmein agle saal assembly polls wale states bhi shaamil.",
+     "category_hi": "राजनीति",
+     "category_en": "Polity"
+    },
+    {
+     "id": "ca-ep18-s2",
+     "headline_hi": "IDBI बैंक निजीकरण: 60.72% हिस्सेदारी ₹52,878 करोड़ में बिकी",
+     "headline_hinglish": "IDBI Bank privatisation: 60.72% stake sold for Rs 52,878 crore",
+     "detail_hi": "केंद्रीय कैबिनेट ने IDBI बैंक की 60.72% हिस्सेदारी Fairfax Financial को ₹52,878 करोड़ में बेचने की मंजूरी दी — बैंक निजीकरण में बड़ा कदम।",
+     "detail_hinglish": "Union Cabinet ne IDBI Bank ki 60.72% stake Fairfax Financial ko Rs 52,878 crore mein bechne ki manjuri di — bank privatisation mein bada kadam.",
+     "category_hi": "बैंकिंग",
+     "category_en": "Banking"
+    },
+    {
+     "id": "ca-ep18-s3",
+     "headline_hi": "भारत-अमेरिका व्यापार समझौते का पहला चरण तय",
+     "headline_hinglish": "India-US trade deal: first tranche finalised",
+     "detail_hi": "अमेरिकी दूत के अनुसार 'बड़े मुद्दे सुलझ गए', दोनों पक्ष समझौते के बेहद करीब; पहला चरण तय, ड्राफ्ट जल्द जारी होगा।",
+     "detail_hinglish": "US envoy ke anusar 'big items done', dono paksh deal ke behad kareeb; pehla tranche final, draft jald jari hoga.",
+     "category_hi": "अंतरराष्ट्रीय",
+     "category_en": "International"
+    },
+    {
+     "id": "ca-ep18-s4",
+     "headline_hi": "NEET-PG 2026: आंसर-की पारदर्शिता पर SC का केंद्र से जवाब तलब",
+     "headline_hinglish": "SC asks Centre on NEET-PG 2026 answer-key transparency",
+     "detail_hi": "सुप्रीम कोर्ट ने NEET-PG 2026 की आंसर-की और रिस्पॉन्स शीट सार्वजनिक करने की मांग वाली याचिका पर केंद्र से जवाब मांगा।",
+     "detail_hinglish": "Supreme Court ne NEET-PG 2026 ki answer-key aur response sheet public karne ki plea par Centre se jawab manga.",
+     "category_hi": "शिक्षा",
+     "category_en": "Education"
+    },
+    {
+     "id": "ca-ep18-s5",
+     "headline_hi": "रेलवे कर्मियों को 78 दिन का बोनस, 4 नई ट्रेनें",
+     "headline_hinglish": "Railway staff get 78-day bonus; 4 new trains approved",
+     "detail_hi": "रेलवे ने 4 नई ट्रेनें और मौजूदा रूटों पर अतिरिक्त ठहराव मंजूर किए; रेल कर्मियों को 78 दिन के वेतन के बराबर उत्पादकता बोनस मिलेगा।",
+     "detail_hinglish": "Railways ne 4 nayi trains aur additional stoppages approve kiye; railway staff ko 78 din ke vetan ke barabar productivity bonus milega.",
+     "category_hi": "रेलवे",
+     "category_en": "Railways"
+    }
+   ],
+   "mcq": {
+    "id": "ca-ep18-mcq",
+    "q_hi": "चुनाव आयोग ने कितने राज्यों/केंद्र शासित प्रदेशों में मतदाता सूची के विशेष संक्षिप्त पुनरीक्षण की घोषणा की है?",
+    "q_hinglish": "Election Commission ne kitne states/UTs mein electoral rolls ke Special Summary Revision ka announcement kiya?",
+    "options_hi": [
+     "17",
+     "20",
+     "12",
+     "15"
+    ],
+    "options_hinglish": [
+     "17",
+     "20",
+     "12",
+     "15"
+    ],
+    "answer_index": 0
+   }
+  },
+  {
+   "episode": 19,
+   "video_hi": "hb3L0B82C-E",
+   "video_hinglish": "c6EAXPBwIC4",
+   "capsules": [
+    {
+     "id": "ca-ep19-s1",
+     "headline_hi": "SC ने YES Bank के AT-1 बॉन्ड राइट-ऑफ को अवैध ठहराया",
+     "headline_hinglish": "SC ne YES Bank ke AT-1 bond write-off ko avaidh bataya",
+     "detail_hi": "सुप्रीम कोर्ट ने 2020 के ₹8,400 करोड़ AT-1 बॉन्ड राइट-ऑफ को अवैध और मनमाना करार दिया — बॉन्डधारकों को राहत, बैंक के शेयरों में गिरावट।",
+     "detail_hinglish": "Supreme Court ne 2020 ke ₹8,400 crore AT-1 bond write-off ko avaidh aur manmana karara diya — bondholders ko rahat, shares gire.",
+     "category_hi": "बैंकिंग",
+     "category_en": "Banking"
+    },
+    {
+     "id": "ca-ep19-s2",
+     "headline_hi": "पेट्रोल निर्यात कर बढ़ा, डीज़ल पर कटा",
+     "headline_hinglish": "Petrol export tax badha, diesel par kata",
+     "detail_hi": "सरकार ने पेट्रोल पर निर्यात शुल्क पचास पैसे से बढ़ाकर ढाई रुपये प्रति लीटर किया, डीज़ल पर सोलह से घटाकर साढ़े आठ रुपये — आज से लागू।",
+     "detail_hinglish": "Sarkar ne petrol par export duty pachaas paise se badhaakar dhaai rupaye prati litre ki, diesel par solah se ghataakar saade aath rupaye — aaj se lagu.",
+     "category_hi": "अर्थव्यवस्था",
+     "category_en": "Economy"
+    },
+    {
+     "id": "ca-ep19-s3",
+     "headline_hi": "लद्दाख में ₹3,350 करोड़ की 5 परियोजनाएं",
+     "headline_hinglish": "Ladakh mein ₹3,350 crore ki 5 projects",
+     "detail_hi": "PM मोदी ने लद्दाख में 5 परियोजनाओं का उद्घाटन किया — नए एयरपोर्ट टर्मिनल से रणनीतिक सड़क तक, ₹3,350 करोड़ की लागत।",
+     "detail_hinglish": "PM Modi ne Ladakh mein 5 projects ka udghatan kiya — naye airport terminal se strategic road tak, ₹3,350 crore ki lagat.",
+     "category_hi": "बुनियादी ढांचा",
+     "category_en": "Infrastructure"
+    },
+    {
+     "id": "ca-ep19-s4",
+     "headline_hi": "ISRO का सेमी-क्रायोजेनिक इंजन हॉट टेस्ट सफल",
+     "headline_hinglish": "ISRO ka semi-cryogenic engine hot test safal",
+     "detail_hi": "ISRO ने सेमी-क्रायोजेनिक इंजन के प्री-बर्नर का हॉट टेस्ट सफलतापूर्वक किया — अगली पीढ़ी के रॉकेट विकास में बड़ी छलांग।",
+     "detail_hinglish": "ISRO ne semi-cryogenic engine ke pre-burner ka hot test safaltapurvak kiya — next-gen rockets ke vikas mein badi chhalaang.",
+     "category_hi": "विज्ञान-तकनीक",
+     "category_en": "Science"
+    },
+    {
+     "id": "ca-ep19-s5",
+     "headline_hi": "विश्वजीत मोरे ने जीता ग्रीको-रोमन रजत",
+     "headline_hinglish": "Vishvajit More ne jeeta Greco-Roman silver",
+     "detail_hi": "अंडर-23 विश्व कुश्ती चैंपियनशिप में विश्वजीत मोरे ने ऐतिहासिक ग्रीको-रोमन रजत पदक जीता — भारत के लिए बड़ी उपलब्धि।",
+     "detail_hinglish": "U23 World Wrestling Championship mein Vishvajit More ne aitihasik Greco-Roman silver jeeta — Bharat ke liye badi uplabdhi.",
+     "category_hi": "खेल",
+     "category_en": "Sports"
+    }
+   ],
+   "mcq": {
+    "id": "ca-ep19-mcq",
+    "q_hi": "सुप्रीम कोर्ट ने YES Bank के ₹8,400 करोड़ AT-1 बॉन्ड राइट-ऑफ (2020) को क्या करार दिया?",
+    "q_hinglish": "Supreme Court ne YES Bank ke ₹8,400 crore AT-1 bond write-off (2020) ko kya karara diya?",
+    "options_hi": [
+     "कानूनी और वैध",
+     "बैंक पर जुर्माना",
+     "अवैध और मनमाना",
+     "जांच का आदेश"
+    ],
+    "options_hinglish": [
+     "Kanooni aur vaidh",
+     "Bank par jurmana",
+     "Avaidh aur manmana",
+     "Jaanch ka aadesh"
+    ],
+    "answer_index": 2
+   }
+  },
+  {
+   "episode": 20,
+   "video_hi": "YRgfeHAYL3I",
+   "video_hinglish": "WWHdPiWXbg8",
+   "capsules": [
+    {
+     "id": "ca-ep20-s1",
+     "headline_hi": "NSAP का नया नाम: PMSSY — 2030-31 तक ₹53,428 करोड़",
+     "headline_hinglish": "NSAP renamed PMSSY: Rs 53,428 crore till 2030-31",
+     "detail_hi": "केंद्रीय मंत्रिमंडल ने NSAP को 2030-31 तक बढ़ाया — नया नाम PMSSY। 3.20 करोड़ लाभार्थियों के लिए 53,428 करोड़ रुपये आवंटित।",
+     "detail_hinglish": "Cabinet ne NSAP ko 2030-31 tak badhaya — naya naam PMSSY. 3.20 crore beneficiaries ke liye 53,428 crore ka allocation.",
+     "category_hi": "योजनाएँ",
+     "category_en": "Schemes"
+    },
+    {
+     "id": "ca-ep20-s2",
+     "headline_hi": "सितंबर में निर्यात 23% उछला: 44.4 अरब डॉलर",
+     "headline_hinglish": "September exports jump 23%: $44.4 billion",
+     "detail_hi": "सितंबर 2026 में भारत का माल निर्यात 23% बढ़कर 44.4 अरब डॉलर — मैन्युफैक्चरिंग और पेट्रोलियम की मज़बूत मांग से व्यापार घाटा घटा।",
+     "detail_hinglish": "September 2026 me India ka merchandise export 23% badhkar $44.4 billion hua — manufacturing aur petroleum ki strong demand se deficit ghata.",
+     "category_hi": "अर्थव्यवस्था",
+     "category_en": "Economy"
+    },
+    {
+     "id": "ca-ep20-s3",
+     "headline_hi": "नौसेना में शामिल हुआ 'समर्थक' — पहला स्वदेशी मल्टी-पर्पस वेसल",
+     "headline_hinglish": "INS Samarthak commissioned — Navy's first MPV",
+     "detail_hi": "उपराष्ट्रपति राधाकृष्णन ने आज करवार में INS समर्थक नौसेना में शामिल किया — L&T द्वारा निर्मित चार जहाज़ों की श्रृंखला का पहला मल्टी-पर्पस वेसल।",
+     "detail_hinglish": "Vice President CP Radhakrishnan ne aaj Karwar me INS Samarthak commission kiya — L&T-built, chaar jahazon ki series ka pehla MPV.",
+     "category_hi": "रक्षा",
+     "category_en": "Defence"
+    },
+    {
+     "id": "ca-ep20-s4",
+     "headline_hi": "रामसर स्थलों की संख्या बढ़कर हुई 103",
+     "headline_hinglish": "India's Ramsar sites now 103",
+     "detail_hi": "चंडीगढ़ की सुखना वेटलैंड और उत्तर प्रदेश की सौज झील रामसर सूची में शामिल — भारत के रामसर स्थल अब 103। पर्यावरण मंत्री भूपेंद्र यादव ने घोषणा की।",
+     "detail_hinglish": "Chandigarh ki Sukhna Wetland aur UP ki Sauj Jheel Ramsar list me — total ab 103. Bhupender Yadav ne announcement kiya; Tamil Nadu me sabse zyada.",
+     "category_hi": "पर्यावरण",
+     "category_en": "Environment"
+    },
+    {
+     "id": "ca-ep20-s5",
+     "headline_hi": "प्रत्यक्ष कर संग्रह 13% बढ़ा: ₹13.38 लाख करोड़",
+     "headline_hinglish": "Direct tax collection up 13%: Rs 13.38 lakh crore",
+     "detail_hi": "14 अक्टूबर तक शुद्ध प्रत्यक्ष कर संग्रह 13% बढ़कर 13.38 लाख करोड़ रुपये — CBDT: व्यक्तिगत आयकर और कॉर्पोरेशन टैक्स दोनों में तेज़ वृद्धि।",
+     "detail_hinglish": "14 October tak FY 2026-27 me net direct tax 13% badhkar 13.38 lakh crore — CBDT: personal aur corporate tax dono me tez badhotri.",
+     "category_hi": "अर्थव्यवस्था",
+     "category_en": "Economy"
+    }
+   ],
+   "mcq": {
+    "id": "ca-ep20-mcq",
+    "q_hi": "दो नए स्थलों के जुड़ने के बाद भारत में रामसर स्थलों की कुल संख्या कितनी हो गई?",
+    "q_hinglish": "Do naye Ramsar additions ke baad India me kul Ramsar sites kitne hue?",
+    "options_hi": [
+     "101",
+     "103",
+     "107",
+     "105"
+    ],
+    "options_hinglish": [
+     "101",
+     "103",
+     "107",
+     "105"
+    ],
+    "answer_index": 1
+   }
+  },
+  {
+   "episode": 21,
+   "video_hi": "qT6xFJFRv64",
+   "video_hinglish": "Dz6YLjRwo-k",
+   "capsules": [
+    {
+     "id": "ca-ep21-s1",
+     "headline_hi": "IDBI बैंक की बिक्री वित्त वर्ष अंत तक पूरी होगी",
+     "headline_hinglish": "IDBI Bank sale to close by fiscal end",
+     "detail_hi": "DIPAM सचिव: RBI की मंज़ूरी के बाद इस वित्त वर्ष के अंत तक IDBI बैंक की बिक्री पूरी होगी — कर्मचारियों और पेंशनभोगियों के हित पूरी तरह सुरक्षित।",
+     "detail_hinglish": "DIPAM Secretary: IDBI Bank ki bikri RBI clearance ke baad is fiscal year ke end tak poori hogi — employees aur pensioners ke interests poori tarah safe.",
+     "category_hi": "बैंकिंग",
+     "category_en": "Banking"
+    },
+    {
+     "id": "ca-ep21-s2",
+     "headline_hi": "विश्व खाद्य दिवस 2026: 16 अक्टूबर",
+     "headline_hinglish": "World Food Day 2026: 16 October",
+     "detail_hi": "हर साल 16 अक्टूबर को FAO की स्थापना (1945) की याद में विश्व खाद्य दिवस — इस बार का फोकस: सतत कृषि-खाद्य प्रणाली और श्री अन्न (मिलेट्स)।",
+     "detail_hinglish": "Har saal 16 October ko FAO ki sthaapna (1945) ki yaad me World Food Day — is baar focus: sustainable agri-food systems aur Shree Anna (millets).",
+     "category_hi": "महत्वपूर्ण दिवस",
+     "category_en": "Important Days"
+    },
+    {
+     "id": "ca-ep21-s3",
+     "headline_hi": "बैडमिंटन: जंगशेर सिंह का विश्व जूनियर पदक पक्का",
+     "headline_hinglish": "Badminton: Jangsher Singh assures World Junior medal",
+     "detail_hi": "पंजाब के जंगशेर सिंह खांगुर्रा ने काहिरा में BWF विश्व जूनियर चैंपियनशिप में चीनी ताइपे के युआन-स्युए जुआंग को हराकर सेमीफाइनल में प्रवेश किया।",
+     "detail_hinglish": "Punjab ke Jangsher Singh Khangurra ne Cairo me BWF World Junior Championships me Chinese Taipei ke Yuan-Syue Jhuang ko haraakar semifinal me entry ki.",
+     "category_hi": "खेल",
+     "category_en": "Sports"
+    },
+    {
+     "id": "ca-ep21-s4",
+     "headline_hi": "डेटा सेंटर मूल्यांकन फ्रेमवर्क जारी",
+     "headline_hinglish": "Data Centre Evaluation Framework released",
+     "detail_hi": "नीति आयोग के फ्रंटियर टेक हब ने डेटा सेंटर इवैल्यूएशन फ्रेमवर्क जारी किया — MeitY, ऊर्जा मंत्रालय और DPIIT के सहयोग से राज्यों की योजना को मदद मिलेगी।",
+     "detail_hinglish": "NITI Aayog ke Frontier Tech Hub ne Data Centre Evaluation Framework release kiya — MeitY, Power Ministry aur DPIIT ke support se states ki planning ko madad.",
+     "category_hi": "प्रौद्योगिकी",
+     "category_en": "Technology"
+    },
+    {
+     "id": "ca-ep21-s5",
+     "headline_hi": "कौमाराकॉन 2026: नई दिल्ली में आयुर्वेद बाल-चिकित्सा सम्मेलन",
+     "headline_hinglish": "KAUMARACON 2026: Ayurveda paediatrics meet in Delhi",
+     "detail_hi": "आयुष मंत्रालय के अखिल भारतीय आयुर्वेद संस्थान ने 15-16 अक्टूबर को कौमाराकॉन 2026 आयोजित किया — आयुर्वेद बाल-चिकित्सा पर अंतरराष्ट्रीय सम्मेलन, 14 देशों के विशेषज्ञ।",
+     "detail_hinglish": "Ayush Ministry ke All India Institute of Ayurveda ne 15-16 October ko KAUMARACON 2026 organize kiya — Ayurveda paediatrics par international conference, 14 deshon ke experts.",
+     "category_hi": "स्वास्थ्य",
+     "category_en": "Health"
+    }
+   ],
+   "mcq": {
+    "id": "ca-ep21-mcq",
+    "q_hi": "विश्व खाद्य दिवस हर साल किस तारीख को मनाया जाता है?",
+    "q_hinglish": "World Food Day har saal kis date ko manaya jaata hai?",
+    "options_hi": [
+     "15 अक्टूबर",
+     "16 अक्टूबर",
+     "14 अक्टूबर",
+     "20 अक्टूबर"
+    ],
+    "options_hinglish": [
+     "15 October",
+     "16 October",
+     "14 October",
+     "20 October"
+    ],
+    "answer_index": 1
+   }
+  }
+ ]
+}
