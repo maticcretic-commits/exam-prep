@@ -1,0 +1,287 @@
+{
+ "date": "2026-10-14",
+ "date_hi": "14 अक्टूबर 2026",
+ "date_en": "14 October 2026",
+ "episodes": [
+  {
+   "episode": 10,
+   "video_hi": "1LvqU8Ny84A",
+   "video_hinglish": "V3zn-790b5Q",
+   "capsules": [
+    {
+     "id": "ca-ep10-s1",
+     "headline_hi": "2026 का अर्थशास्त्र नोबेल: हॉल और वुडफोर्ड को सम्मान",
+     "headline_hinglish": "2026 ka Economics Nobel: Hall aur Woodford ko sammaan",
+     "detail_hi": "12 अक्टूबर को अमेरिकी अर्थशास्त्रियों रॉबर्ट ई. हॉल (स्टैनफोर्ड) और माइकल वुडफोर्ड (कोलंबिया) को 2026 का अर्थशास्त्र नोबेल मिला; मैक्रोइकॉनॉमिक स्थिरीकरण की सूक्ष्मआर्थिक नींव पर शोध के लिए यह सम्मान — पुरस्कार राशि 12 मिलियन स्वीडिश क्रोनर (लगभग 1.2 मिलियन डॉलर)",
+     "detail_hinglish": "12 October ko American economists Robert E. Hall (Stanford) aur Michael Woodford (Columbia) ko 2026 ka Economics Nobel mila; 'microeconomic foundations of macroeconomic stabilisation' par research ke liye ye sammaan — prize money 12 million Swedish kronor (lagbhag $1.2 million)",
+     "category_hi": "पुरस्कार",
+     "category_en": "Awards"
+    },
+    {
+     "id": "ca-ep10-s2",
+     "headline_hi": "छह राज्यों में नए राज्यपाल नियुक्त",
+     "headline_hinglish": "Chhah rajyon me naye Governors niyukt",
+     "detail_hi": "12 अक्टूबर को राष्ट्रपति द्रौपदी मुर्मू ने छह राज्यों में राज्यपाल नियुक्त किए — ओम प्रकाश माथुर सिक्किम से केरल, राजेंद्र विश्वनाथ आर्लेकर केरल से तमिलनाडु; ब्रज मोहन राम ओडिशा, सुधा यादव कर्नाटक, धाल सिंह बिसेन उत्तराखंड और दुष्यंत गौतम सिक्किम के राज्यपाल बने",
+     "detail_hinglish": "12 October ko President Droupadi Murmu ne chhah rajyon me Governors niyukt kiye — Om Prakash Mathur Sikkim se Kerala, Rajendra Vishwanath Arlekar Kerala se Tamil Nadu; Braj Mohan Ram Odisha, Sudha Yadav Karnataka, Dhal Singh Bisen Uttarakhand aur Dushyant Gautam Sikkim ke Governor bane",
+     "category_hi": "राजव्यवस्था",
+     "category_en": "Polity"
+    },
+    {
+     "id": "ca-ep10-s3",
+     "headline_hi": "IMF ने भारत की GDP वृद्धि दर बढ़ाकर 7% की",
+     "headline_hinglish": "IMF ne Bharat ki GDP growth badhakar 7% ki",
+     "detail_hi": "IMF ने 2026-27 के लिए भारत की GDP वृद्धि का अनुमान 6.4% से बढ़ाकर 7% कर दिया; मजबूत घरेलू मांग और सेवा क्षेत्र की सक्रियता का हवाला दिया गया",
+     "detail_hinglish": "IMF ne 2026-27 ke liye Bharat ki GDP growth ka estimate 6.4% se badhakar 7% kar diya; strong domestic demand aur services sector activity ka hawala diya gaya",
+     "category_hi": "अर्थव्यवस्था",
+     "category_en": "Economy"
+    },
+    {
+     "id": "ca-ep10-s4",
+     "headline_hi": "भारत करेगा पहली BIMSTEC गृह मंत्रियों की बैठक की मेजबानी",
+     "headline_hinglish": "Bharat karega pehli BIMSTEC Home Ministers meeting ki mezbani",
+     "detail_hi": "भारत नई दिल्ली में पहली BIMSTEC गृह मंत्रियों की बैठक की मेजबानी करेगा; आतंकवाद, मानव तस्करी और साइबर अपराध पर फोकस रहेगा — गृह मंत्री अमित शाह ने आतंकवाद और नशीली दवाओं की तस्करी से निपटने के लिए मजबूत क्षेत्रीय सहयोग का आह्वान किया",
+     "detail_hinglish": "Bharat New Delhi me pehli BIMSTEC Home Ministers meeting host karega; terrorism, human trafficking aur cybercrime par focus rahega — Home Minister Amit Shah ne terrorism aur drug smuggling se nipatne ke liye strong regional cooperation ka aahvaan kiya",
+     "category_hi": "विदेश नीति",
+     "category_en": "International"
+    },
+    {
+     "id": "ca-ep10-s5",
+     "headline_hi": "नासा के पर्सिवियरेंस रोवर ने बनाया रिकॉर्ड",
+     "headline_hinglish": "NASA ke Perseverance rover ne banaya record",
+     "detail_hi": "नासा का पर्सिवियरेंस रोवर मंगल पर 45.2 किलोमीटर चलकर पृथ्वी से परे सबसे लंबी दूरी तय करने वाला रोवर बन गया",
+     "detail_hinglish": "NASA ka Perseverance rover Mars par 45.2 km chalkar Earth se pare sabse lambi doori tay karne wala rover ban gaya",
+     "category_hi": "विज्ञान",
+     "category_en": "Science"
+    }
+   ],
+   "mcq": {
+    "id": "ca-ep10-mcq",
+    "q_hi": "2026 का अर्थशास्त्र का नोबेल पुरस्कार किन्हें मिला?",
+    "q_hinglish": "2026 ka Economics ka Nobel Prize kinhe mila?",
+    "options_hi": [
+     "जोएल मोकिर, फिलिप एगियन और पीटर हॉविट",
+     "अभिजीत बनर्जी और एस्थर डुफ्लो",
+     "रॉबर्ट ई. हॉल और माइकल वुडफोर्ड",
+     "क्लॉडिया गोल्डिन"
+    ],
+    "options_hinglish": [
+     "Joel Mokyr, Philippe Aghion aur Peter Howitt",
+     "Abhijit Banerjee aur Esther Duflo",
+     "Robert E. Hall aur Michael Woodford",
+     "Claudia Goldin"
+    ],
+    "answer_index": 2
+   }
+  },
+  {
+   "episode": 11,
+   "video_hi": "dqNLimyxBWc",
+   "video_hinglish": "u4C97dbQ8Hc",
+   "capsules": [
+    {
+     "id": "ca-ep11-s1",
+     "headline_hi": "वैशाली नाव हादसा: गंगा में नाव पलटने से 13 बच्चों की मौत",
+     "headline_hinglish": "Vaishali Boat Tragedy: 13 bachchon ki maut",
+     "detail_hi": "13 अक्टूबर की रात बिहार के वैशाली जिले के रघोपुर में गंगा नदी में नाव पलट गई; नाव में सवार ग्रामीण एक भोज में शामिल होने जा रहे थे — कम से कम 13 बच्चों की मौत",
+     "detail_hinglish": "13 October ki raat Bihar ke Vaishali zila ke Raghopur mein Ganga nadi mein naav palat gayi; naav mein savaar graameen ek bhoj mein shaamil hone ja rahe the — kam se kam 13 bachchon ki maut",
+     "category_hi": "आपदा",
+     "category_en": "National"
+    },
+    {
+     "id": "ca-ep11-s2",
+     "headline_hi": "UPI MDR शुल्क दिवाली के बाद तक टला",
+     "headline_hinglish": "UPI MDR charge Diwali ke baad tak taala",
+     "detail_hi": "NPCI ने दो हजार रुपये से ऊपर के चुनिंदा UPI मर्चेंट लेनदेन पर मर्चेंट डिस्काउंट रेट शुल्क दिवाली के बाद तक टाल दिया; त्योहारी सीजन में व्यापारियों को राहत, चार्ज कब लगेगा अभी स्पष्ट नहीं",
+     "detail_hinglish": "NPCI ne do hazaar rupaye se upar ke chuninda UPI merchant lenden par Merchant Discount Rate charge Diwali ke baad tak taal diya; tyohari season mein vyapariyon ko rahat, charge kab lagega abhi spasht nahi",
+     "category_hi": "अर्थव्यवस्था",
+     "category_en": "Economy"
+    },
+    {
+     "id": "ca-ep11-s3",
+     "headline_hi": "लद्दाख नामकरण: भारत ने चीन की आपत्ति खारिज की",
+     "headline_hinglish": "Ladakh naming: Bharat ne China ki aapatti kharij ki",
+     "detail_hi": "भारत ने लद्दाख में 28 सामरिक स्थानों के नामकरण पर चीन की आपत्ति को खारिज कर दिया; सीमा पर भारत की संप्रभुता का स्पष्ट संदेश",
+     "detail_hinglish": "Bharat ne Ladakh mein 28 saamarik sthaanon ke naamkaran par China ki aapatti ko kharij kar diya; seema par Bharat ki samprabhuta ka spasht sandesh",
+     "category_hi": "सीमा-नीति",
+     "category_en": "Defence"
+    },
+    {
+     "id": "ca-ep11-s4",
+     "headline_hi": "मोदी-कार्नी वार्ता: जल्द होगा भारत-कनाडा व्यापार समझौता",
+     "headline_hinglish": "Modi-Carney baatchit: jald hoga Bharat-Canada trade deal",
+     "detail_hi": "प्रधानमंत्री नरेंद्र मोदी ने कनाडा के प्रधानमंत्री मार्क कार्नी से बात की; दोनों नेता जल्द व्यापार समझौता पूरा करने पर सहमत — स्थिर और समृद्ध दुनिया के लिए मिलकर काम करेंगे",
+     "detail_hinglish": "Pradhan Mantri Narendra Modi ne Canada ke Pradhan Mantri Mark Carney se baat ki; dono neta jald trade agreement poora karne par sahmat — sthir aur samriddh duniya ke liye milkar kaam karenge",
+     "category_hi": "अंतरराष्ट्रीय",
+     "category_en": "International"
+    },
+    {
+     "id": "ca-ep11-s5",
+     "headline_hi": "पेपर लीक पर नीलकणी टास्क फोर्स का बड़ा सुझाव",
+     "headline_hinglish": "Paper leak par Nilekani task force ka bada sujhaav",
+     "detail_hi": "नंदन नीलकणी के नेतृत्व वाली टास्क फोर्स पेपर लीक रोकने के लिए आखिरी समय में क्वेश्चन पेपर बनाने और कंप्यूटर-आधारित परीक्षा केंद्र बढ़ाने का सुझाव देगी — NEET जैसी परीक्षाएं भी दायरे में",
+     "detail_hinglish": "Nandan Nilekani ke netritva wali task force paper leak rokne ke liye aakhiri samay mein question paper banaane aur computer-based exam centre badhaane ka sujhaav degi — NEET jaisi pareekshaen bhi daayre mein",
+     "category_hi": "शिक्षा",
+     "category_en": "Education"
+    }
+   ],
+   "mcq": {
+    "id": "ca-ep11-mcq",
+    "q_hi": "2000 रुपये से ऊपर के UPI लेनदेन पर MDR शुल्क कब से लागू होगा?",
+    "q_hinglish": "2000 rupaye se upar ke UPI lenden par MDR charge kab se lagu hoga?",
+    "options_hi": [
+     "1 जनवरी 2027 से",
+     "कभी नहीं",
+     "तुरंत प्रभाव से",
+     "दिवाली के बाद"
+    ],
+    "options_hinglish": [
+     "1 January 2027 se",
+     "Kabhi nahi",
+     "Turant prabhaav se",
+     "Diwali ke baad"
+    ],
+    "answer_index": 3
+   }
+  },
+  {
+   "episode": 12,
+   "video_hi": "_Tum_YnvFXA",
+   "video_hinglish": "VVvDX1Tl02w",
+   "capsules": [
+    {
+     "id": "ca-ep12-s1",
+     "headline_hi": "गति शक्ति मास्टर प्लान के पाँच साल पूरे",
+     "headline_hinglish": "Gati Shakti Master Plan completes 5 years",
+     "detail_hi": "2021 में शुरू हुआ पीएम गति शक्ति नेशनल मास्टर प्लान — सड़क, रेल, बंदरगाह समेत सभी इंफ्रास्ट्रक्चर प्रोजेक्ट की एकीकृत प्लानिंग के पाँच साल",
+     "detail_hinglish": "Launched in 2021 — PM Gati Shakti National Master Plan marks five years of integrated planning across roads, rail, ports and all infra projects",
+     "category_hi": "इंफ्रास्ट्रक्चर",
+     "category_en": "Infrastructure"
+    },
+    {
+     "id": "ca-ep12-s2",
+     "headline_hi": "डॉक्टर सुधा यादव कर्नाटक की नई राज्यपाल",
+     "headline_hinglish": "Dr Sudha Yadav is new Governor of Karnataka",
+     "detail_hi": "राष्ट्रपति द्रौपदी मुर्मू ने 12 अक्टूबर को नियुक्त किया — वे थावर चंद गहलोत की जगह लेंगी, जिनका पाँच साल का कार्यकाल पूरा हुआ",
+     "detail_hinglish": "Appointed by President Droupadi Murmu on 12 October — succeeds Thawar Chand Gehlot, whose five-year term has ended",
+     "category_hi": "राजव्यवस्था",
+     "category_en": "Polity"
+    },
+    {
+     "id": "ca-ep12-s3",
+     "headline_hi": "लक्षद्वीप बना देश का पहला शत-प्रतिशत साक्षर UT",
+     "headline_hinglish": "Lakshadweep becomes India's first 100% literate UT",
+     "detail_hi": "ULLAS योजना के तहत लक्षद्वीप भारत का पहला पूर्ण साक्षर केंद्र शासित प्रदेश घोषित — शिक्षा और वयस्क साक्षरता की बड़ी उपलब्धि",
+     "detail_hinglish": "Declared fully literate under the ULLAS scheme — a landmark achievement in adult literacy and education",
+     "category_hi": "शिक्षा",
+     "category_en": "Education"
+    },
+    {
+     "id": "ca-ep12-s4",
+     "headline_hi": "IMF ने भारत की वृद्धि दर का अनुमान बढ़ाकर 7% किया",
+     "headline_hinglish": "IMF raises India's growth forecast to 7%",
+     "detail_hi": "अंतरराष्ट्रीय मुद्रा कोष ने वित्त वर्ष 2027 के लिए भारत की GDP वृद्धि का अनुमान सात प्रतिशत तक बढ़ाया; वैश्विक वृद्धि का अनुमान भी ऊपर",
+     "detail_hinglish": "International Monetary Fund lifts India's FY27 GDP growth estimate to seven percent; global growth outlook also raised",
+     "category_hi": "अर्थव्यवस्था",
+     "category_en": "Economy"
+    },
+    {
+     "id": "ca-ep12-s5",
+     "headline_hi": "पहले बिम्सटेक गृह मंत्री सम्मेलन में दिल्ली घोषणा",
+     "headline_hinglish": "Delhi Declaration at first BIMSTEC Home Ministers' meet",
+     "detail_hi": "नई दिल्ली में अमित शाह की अध्यक्षता में सातों सदस्य देशों के मंत्रियों ने आतंकवाद-विरोधी खुफिया साझेदारी और संयुक्त सीमा पुलिसिंग पर सहमति जताई",
+     "detail_hinglish": "Chaired by Amit Shah in New Delhi — all seven member states adopt counter-terror intelligence sharing and joint border policing charter",
+     "category_hi": "अंतरराष्ट्रीय",
+     "category_en": "International"
+    }
+   ],
+   "mcq": {
+    "id": "ca-ep12-mcq",
+    "q_hi": "2026 में हुए पहले बिम्सटेक गृह मंत्री सम्मेलन में अपनाए गए घोषणा पत्र का नाम क्या है?",
+    "q_hinglish": "What is the name of the declaration adopted at the first BIMSTEC Home Ministers' meeting in 2026?",
+    "options_hi": [
+     "दिल्ली घोषणा",
+     "बैंकॉक घोषणा",
+     "ढाका घोषणा",
+     "काठमांडू घोषणा"
+    ],
+    "options_hinglish": [
+     "Delhi Declaration",
+     "Bangkok Declaration",
+     "Dhaka Declaration",
+     "Kathmandu Declaration"
+    ],
+    "answer_index": 0
+   }
+  },
+  {
+   "episode": 13,
+   "video_hi": "hzv3f9DptVo",
+   "video_hinglish": "DzeMQuZvYUk",
+   "capsules": [
+    {
+     "id": "ca-ep13-s1",
+     "headline_hi": "एल. मुरुगन ने केंद्रीय मंत्री पद और राज्यसभा से इस्तीफा दिया",
+     "headline_hinglish": "L. Murugan resigns as Union MoS and Rajya Sabha MP",
+     "detail_hi": "सूचना-प्रसारण और संसदीय कार्य राज्यमंत्री डॉ. एल. मुरुगन ने मंत्रिमंडल और मध्य प्रदेश की राज्यसभा सीट छोड़ी; अब तमिलनाडु में भाजपा संगठन को मजबूत करेंगे — मंत्रिमंडल फेरबदल की अटकलें तेज़",
+     "detail_hinglish": "MoS for Information & Broadcasting and Parliamentary Affairs Dr L. Murugan quits the Council of Ministers and his Madhya Pradesh Rajya Sabha seat; returns to Tamil Nadu to strengthen the BJP — cabinet reshuffle buzz grows",
+     "category_hi": "राजनीति",
+     "category_en": "Polity"
+    },
+    {
+     "id": "ca-ep13-s2",
+     "headline_hi": "दिल्ली SIR: सुप्रीम कोर्ट करेगा ECI के कदम की निगरानी",
+     "headline_hinglish": "Delhi SIR: Supreme Court to watch over ECI's restoration move",
+     "detail_hi": "चुनाव आयोग हटाए गए मतदाताओं से फॉर्म 6 भरकर 'नए मतदाता' के रूप में दोबारा आवेदन माँग रहा है; सुप्रीम कोर्ट ने कहा — इस कदम का 'ख्याल' रखेंगे",
+     "detail_hinglish": "ECI is asking deleted voters to fill Form 6 and re-apply as fresh voters; the Supreme Court said it will 'take care of' this move",
+     "category_hi": "चुनाव सुधार",
+     "category_en": "Polity"
+    },
+    {
+     "id": "ca-ep13-s3",
+     "headline_hi": "पीएम धन-धान्य कृषि योजना को एक साल पूरे",
+     "headline_hinglish": "PM Dhan-Dhaanya Krishi Yojana completes one year",
+     "detail_hi": "2025 में शुरू हुई प्रधानमंत्री धन-धान्य कृषि योजना ने पहला वर्ष पूरा किया; किसानों की आय और कृषि विकास की प्रमुख केंद्र योजना",
+     "detail_hinglish": "Launched in 2025, the PM Dhan-Dhaanya Krishi Yojana completes its first year — a flagship scheme for farmer income and agricultural development",
+     "category_hi": "कृषि योजना",
+     "category_en": "Schemes"
+    },
+    {
+     "id": "ca-ep13-s4",
+     "headline_hi": "अमेरिकी विदेश मंत्री मार्को रुबियो का भारत दौरा",
+     "headline_hinglish": "US Secretary of State Marco Rubio to visit India",
+     "detail_hi": "17 से 22 अक्टूबर तक अमेरिका के विदेश मंत्री भारत और उज़बेकिस्तान की यात्रा पर; भारत-अमेरिका व्यापार समझौते पर बातचीत की उम्मीद",
+     "detail_hinglish": "Marco Rubio visits India and Uzbekistan from October 17 to 22; India-US trade agreement talks expected",
+     "category_hi": "अंतरराष्ट्रीय संबंध",
+     "category_en": "International"
+    },
+    {
+     "id": "ca-ep13-s5",
+     "headline_hi": "प्रकाश राजपुरोहित बने उप चुनाव आयुक्त",
+     "headline_hinglish": "Prakash Rajpurohit appointed Deputy Election Commissioner",
+     "detail_hi": "2010 बैच के राजस्थान कैडर IAS अधिकारी प्रकाश राजपुरोहित 8 अप्रैल 2030 तक उप चुनाव आयुक्त; केंद्र ने संयुक्त सचिव स्तर पर 27 नियुक्तियाँ मंज़ूर कीं",
+     "detail_hinglish": "2010-batch Rajasthan-cadre IAS officer Prakash Rajpurohit named Deputy Election Commissioner till April 8, 2030; Centre approves 27 joint secretary-level appointments",
+     "category_hi": "शासन",
+     "category_en": "Polity"
+    }
+   ],
+   "mcq": {
+    "id": "ca-ep13-mcq",
+    "q_hi": "दिल्ली SIR में हटाए गए मतदाताओं की बहाली के लिए ECI कौन-सा फॉर्म भरने को कह रहा है?",
+    "q_hinglish": "Which form is the ECI asking deleted Delhi SIR voters to fill for restoration?",
+    "options_hi": [
+     "फॉर्म 6",
+     "फॉर्म 7",
+     "फॉर्म 8",
+     "फॉर्म 8A"
+    ],
+    "options_hinglish": [
+     "Form 6",
+     "Form 7",
+     "Form 8",
+     "Form 8A"
+    ],
+    "answer_index": 0
+   }
+  }
+ ]
+}
