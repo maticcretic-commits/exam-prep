@@ -1,0 +1,55 @@
+<!doctype html>
+<html lang="hi">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+<meta name="color-scheme" content="light dark">
+<title>Daily Current Affairs — ExamPrep</title>
+<meta name="description" content="Top 5 current affairs every day: watch the 60-second Short, read the story cards, test yourself with the daily MCQ. Hindi and Hinglish. Free for UPSC, SSC, Banking and all competitive exams.">
+<link rel="stylesheet" href="../assets/style.css?v=1.1.0">
+<link rel="stylesheet" href="ca.css?v=1.0.0">
+</head>
+<body>
+<header class="hero">
+  <div class="wrap">
+    <a class="home" href="../">← All exams</a>
+    <h1>Daily Current Affairs</h1>
+    <p>Top 5 stories of the day — Watch the Short, read the cards, take the test. A 10-minute daily mission.</p>
+    <div class="langtoggle" role="group" aria-label="Language">
+      <button id="langHi" type="button">हिंदी</button>
+      <button id="langHg" type="button">Hinglish</button>
+    </div>
+  </div>
+</header>
+<main class="wrap">
+  <div class="datebar">
+    <button id="prevDay" class="navbtn" type="button" aria-label="Previous day">◀</button>
+    <button id="dateLabel" class="datelabel" type="button" aria-label="Pick a date">Loading…</button>
+    <button id="nextDay" class="navbtn" type="button" aria-label="Next day">▶</button>
+  </div>
+  <div id="freshBadge" class="fresh" hidden></div>
+  <div id="calDrawer" class="caldrawer" hidden></div>
+
+  <section class="card mission" id="mission" hidden>
+    <h2 class="missiontitle">🎯 10-Minute Daily Mission</h2>
+    <div class="steps">
+      <div class="step" id="stepWatch"><span class="stepdot">1</span> Watch <small>3–5 min</small></div>
+      <div class="step" id="stepRead"><span class="stepdot">2</span> Read <small>3 min</small></div>
+      <div class="step" id="stepTest"><span class="stepdot">3</span> Test <small>2 min</small></div>
+    </div>
+    <p class="missionmsg" id="missionMsg"></p>
+  </section>
+
+  <section id="revisionBox" hidden>
+    <h2 class="sectitle">🔁 Revision due today</h2>
+    <p class="revnote">Questions you missed earlier come back after 1 day, 3 days and 7 days — that's how they stick.</p>
+    <div id="revisionList"></div>
+  </section>
+
+  <div class="tabs" id="catChips" aria-label="Categories"></div>
+  <div id="dayBody"><p class="empty">Loading today's current affairs…</p></div>
+</main>
+<footer class="site">ExamPrep · Daily Current Affairs · new Shorts every 6 hours on YouTube @DailyCurrentAffairs-s1p</footer>
+<script src="ca.js?v=1.0.0"></script>
+</body>
+</html>
