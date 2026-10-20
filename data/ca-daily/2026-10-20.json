@@ -212,6 +212,76 @@
     ],
     "answer_index": 1
    }
+  },
+  {
+   "episode": 37,
+   "video_hi": "sARLoFu__yA",
+   "video_hinglish": "fU7ZDUZ42Ac",
+   "capsules": [
+    {
+     "id": "ca-ep37-s1",
+     "headline_hi": "भारत-NZ व्यापार समझौता",
+     "headline_hinglish": "India-NZ Trade Deal",
+     "detail_hi": "बीस अक्टूबर से भारत-न्यूज़ीलैंड मुक्त व्यापार समझौता लागू; भारतीय निर्यात को सौ प्रतिशत शून्य-शुल्क बाज़ार, बीस अरब डॉलर निवेश की प्रतिबद्धता।",
+     "detail_hinglish": "India-New Zealand free trade agreement in force from October 20; 100 percent zero-duty access for Indian exports, 20 billion dollar investment commitment.",
+     "category_hi": "अर्थव्यवस्था",
+     "category_en": "Economy"
+    },
+    {
+     "id": "ca-ep37-s2",
+     "headline_hi": "पहला डेंगू टीकाकरण",
+     "headline_hinglish": "First Dengue Vaccination",
+     "detail_hi": "तमिलनाडु के तेंकासी जिले के कदयानल्लूर में भारत का पहला पायलट डेंगू टीकाकरण शुरू; क्यूडेंगा टीके की दो खुराक अस्सी प्रतिशत सुरक्षा देगी।",
+     "detail_hinglish": "India's first pilot dengue vaccination drive begins at Kadayanallur in Tamil Nadu's Tenkasi district; two doses of Qdenga vaccine give 80 percent protection.",
+     "category_hi": "स्वास्थ्य",
+     "category_en": "Health"
+    },
+    {
+     "id": "ca-ep37-s3",
+     "headline_hi": "मणिपुर में बंद",
+     "headline_hinglish": "Manipur Shutdown",
+     "detail_hi": "खोंगबाल तांगखुल में हमले में तीन लोगों की मौत के बाद मणिपुर में पूर्ण बंद; सशस्त्र समूहों पर निर्णायक सुरक्षा कार्रवाई की मांग।",
+     "detail_hinglish": "Statewide shutdown in Manipur after three people were killed in an attack at Khongbal Tangkhul; demand for decisive security action against armed groups.",
+     "category_hi": "राजनीति",
+     "category_en": "Polity"
+    },
+    {
+     "id": "ca-ep37-s4",
+     "headline_hi": "विजयादशमी उत्सव",
+     "headline_hinglish": "Vijayadashami Utsav",
+     "detail_hi": "नागपुर में आरएसएस विजयादशमी उत्सव में मोहन भागवत ने शस्त्र पूजा की; विविधता में एकता और सामाजिक सद्भाव पर जोर दिया।",
+     "detail_hinglish": "At the RSS Vijayadashami Utsav in Nagpur, Mohan Bhagwat performed shastra puja; stressed unity in diversity and social harmony.",
+     "category_hi": "संस्कृति",
+     "category_en": "National"
+    },
+    {
+     "id": "ca-ep37-s5",
+     "headline_hi": "मौसम अलर्ट",
+     "headline_hinglish": "Weather Alert",
+     "detail_hi": "आईएमडी का पूर्वानुमान — तमिलनाडु और केरल में भारी बारिश संभव, दिल्ली-एनसीआर में प्रदूषण बढ़ा; सतर्कता की सलाह।",
+     "detail_hinglish": "IMD forecast: heavy rain likely in Tamil Nadu and Kerala, pollution rising in Delhi-NCR; advisory to stay alert.",
+     "category_hi": "पर्यावरण",
+     "category_en": "Environment"
+    }
+   ],
+   "mcq": {
+    "id": "ca-ep37-mcq",
+    "q_hi": "भारत का पहला पायलट डेंगू टीकाकरण अभियान कहाँ शुरू हुआ?",
+    "q_hinglish": "India ka pehla pilot dengue vaccination drive kahan shuru hua?",
+    "options_hi": [
+     "ए) चेन्नई, तमिलनाडु",
+     "बी) कोच्चि, केरल",
+     "सी) कदयानल्लूर, तेंकासी (तमिलनाडु)",
+     "डी) जयपुर, राजस्थान"
+    ],
+    "options_hinglish": [
+     "Chennai, Tamil Nadu",
+     "Kochi, Kerala",
+     "Kadayanallur, Tenkasi (Tamil Nadu)",
+     "Jaipur, Rajasthan"
+    ],
+    "answer_index": 2
+   }
   }
  ]
 }
