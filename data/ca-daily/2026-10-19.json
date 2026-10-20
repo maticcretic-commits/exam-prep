@@ -1,0 +1,287 @@
+{
+ "date": "2026-10-19",
+ "date_hi": "19 अक्टूबर 2026",
+ "date_en": "19 October 2026",
+ "episodes": [
+  {
+   "episode": 30,
+   "video_hi": "-3mV75q5ni0",
+   "video_hinglish": "-4nMzURGuG0",
+   "capsules": [
+    {
+     "id": "ca-ep30-s1",
+     "headline_hi": "रेपो रेट पर RBI का कड़ा रुख",
+     "headline_hinglish": "Repo rate par RBI ka kadak rukh",
+     "detail_hi": "एसबीआई म्यूचुअल फंड का अनुमान — महंगाई रोकने के लिए रेपो रेट छह दशमलव दो पांच प्रतिशत तक जा सकता है; आरबीआई ने इस महीने दर बढ़ाकर पांच दशमलव पांच प्रतिशत किया।",
+     "detail_hinglish": "SBI Mutual Fund ka anumaan — mehengaai rokne ke liye repo rate chhah dashamlav do paanch pratishat tak ja sakta hai; RBI ne is mahine dar badhaakar paanch dashamlav paanch pratishat kiya.",
+     "category_hi": "अर्थव्यवस्था",
+     "category_en": "Economy"
+    },
+    {
+     "id": "ca-ep30-s2",
+     "headline_hi": "मुंबई में जयशंकर–रुबियो वार्ता",
+     "headline_hinglish": "Mumbai mein Jaishankar–Rubio vaarta",
+     "detail_hi": "विदेश मंत्री जयशंकर उन्नीस–बीस अक्टूबर को मुंबई में संयुक्त अरब अमीरात के उपप्रधानमंत्री की मेजबानी करेंगे; बीस अक्टूबर को अमेरिकी विदेश मंत्री मार्को रुबियो से ऊर्जा, व्यापार और रक्षा पर वार्ता।",
+     "detail_hinglish": "Videsh Mantri Jaishankar unnees–bees October ko Mumbai mein UAE ke Up-Pradhan Mantri ki mezbaani karenge; bees October ko Amriki Videsh Mantri Marco Rubio se oorja, vyaapaar aur raksha par vaarta.",
+     "category_hi": "अंतरराष्ट्रीय",
+     "category_en": "International"
+    },
+    {
+     "id": "ca-ep30-s3",
+     "headline_hi": "SCO बैठक में राजनाथ सिंह",
+     "headline_hinglish": "SCO baithak mein Rajnath Singh",
+     "detail_hi": "रक्षा मंत्री राजनाथ सिंह उन्नीस–बीस अक्टूबर को ताजिकिस्तान के दुशान्बे में शंघाई सहयोग संगठन के सरकार प्रमुखों की पच्चीसवीं बैठक में भारत का प्रतिनिधित्व करेंगे।",
+     "detail_hinglish": "Raksha Mantri Rajnath Singh unnees–bees October ko Tajikistan ke Dushanbe mein Shanghai Sahyog Sangathan ke sarkaar pramukhon ki pachcheesveen baithak mein Bharat ka pratinidhitv karenge.",
+     "category_hi": "अंतरराष्ट्रीय",
+     "category_en": "International"
+    },
+    {
+     "id": "ca-ep30-s4",
+     "headline_hi": "कैंसर दवाओं पर मार्जिन कैप",
+     "headline_hinglish": "Cancer davaon par margin cap",
+     "detail_hi": "केंद्र ने एक सौ सैंतीस कैंसर रोधी दवाओं पर ट्रेड मार्जिन तीस प्रतिशत पर सीमित कर दिया — दामों पर लगाम, मरीजों को सीधी राहत।",
+     "detail_hinglish": "Kendra ne ek sau saintis cancer rodhi davaon par trade margin tees pratishat par seemit kar diya — daamon par lagaam, mareezon ko seedhi raahat.",
+     "category_hi": "स्वास्थ्य",
+     "category_en": "Health"
+    },
+    {
+     "id": "ca-ep30-s5",
+     "headline_hi": "साबरमती–वैष्णो देवी सीधी ट्रेन",
+     "headline_hinglish": "Sabarmati–Vaishno Devi seedhi train",
+     "detail_hi": "भारतीय रेलवे ने गुजरात के साबरमती से श्री माता वैष्णो देवी कटरा तक सीधी ट्रेन सेवा शुरू की — करीब तैंतीस घंटे का सफर, श्रद्धालुओं को बड़ी राहत।",
+     "detail_hinglish": "Bharatiya Railway ne Gujarat ke Sabarmati se Shri Mata Vaishno Devi Katra tak seedhi train seva shuru ki — kareeb taintees ghante ka safar, shraddhaaluon ko badi raahat.",
+     "category_hi": "राष्ट्रीय",
+     "category_en": "National"
+    }
+   ],
+   "mcq": {
+    "id": "ca-ep30-mcq",
+    "q_hi": "अक्टूबर दो हजार छब्बीस में RBI ने रेपो रेट बढ़ाकर कितना कर दिया?",
+    "q_hinglish": "October do hazaar chhabbis mein RBI ne repo rate badhaakar kitna kar diya?",
+    "options_hi": [
+     "डी) छह दशमलव दो पांच प्रतिशत",
+     "सी) पांच दशमलव सात पांच प्रतिशत",
+     "ए) पांच दशमलव दो पांच प्रतिशत",
+     "बी) पांच दशमलव पांच प्रतिशत"
+    ],
+    "options_hinglish": [
+     "Chhah dashamlav do paanch pratishat",
+     "Paanch dashamlav pachhattar pratishat",
+     "Paanch dashamlav do paanch pratishat",
+     "Paanch dashamlav paanch pratishat"
+    ],
+    "answer_index": 3
+   }
+  },
+  {
+   "episode": 31,
+   "video_hi": "v2DINiEQadY",
+   "video_hinglish": "lvrqbNeMvEI",
+   "capsules": [
+    {
+     "id": "ca-ep31-s1",
+     "headline_hi": "पासपोर्ट इंडेक्स में भारत 84वां",
+     "headline_hinglish": "Passport Index mein Bharat 84vaan",
+     "detail_hi": "हेनले पासपोर्ट इंडेक्स दो हजार छब्बीस में सिंगापुर दुनिया का सबसे शक्तिशाली पासपोर्ट; भारत चौरासीवें स्थान पर — वैश्विक यात्रा स्वतंत्रता का मानक।",
+     "detail_hinglish": "Henley Passport Index do hazaar chhabbis mein Singapore duniya ka sabse shaktishaali passport; Bharat chauraseevein sthaan par — vaishvik yaatra svatantrata ka maanak.",
+     "category_hi": "रैंकिंग",
+     "category_en": "National"
+    },
+    {
+     "id": "ca-ep31-s2",
+     "headline_hi": "आईएनएस समर्थक नौसेना में शामिल",
+     "headline_hinglish": "INS Samarthak nausena mein shaamil",
+     "detail_hi": "उपराष्ट्रपति सी. पी. राधाकृष्णन ने कारवार में भारत के पहले स्वदेशी बहुउद्देशीय जहाज आईएनएस समर्थक का जलावतरण किया — स्वदेशी रक्षा में बड़ी छलांग।",
+     "detail_hinglish": "Uprashtrapati C. P. Radhakrishnan ne Karwar mein Bharat ke pehle swadeshi bahuuddesheeya jahaaz INS Samarthak ka jalaavatran kiya — swadeshi raksha mein badi chhalaang.",
+     "category_hi": "रक्षा",
+     "category_en": "Defence"
+    },
+    {
+     "id": "ca-ep31-s3",
+     "headline_hi": "गगनयान की बड़ी परीक्षण सफलता",
+     "headline_hinglish": "Gaganyaan ki badi pareekshan safalta",
+     "detail_hi": "इसरो ने गगनयान के मॉड्यूल सेपरेशन परीक्षण सफलतापूर्वक पूरे किए — दो हजार छब्बीस में पहले मानव-रहित मिशन जी-वन की उड़ान के एक कदम और करीब।",
+     "detail_hinglish": "ISRO ne Gaganyaan ke module separation pareekshan safaltapoorvak poore kiye — do hazaar chhabbis mein pehle maanav-rahit mission G-1 ki udaan ke ek kadam aur kareeb.",
+     "category_hi": "विज्ञान",
+     "category_en": "Science"
+    },
+    {
+     "id": "ca-ep31-s4",
+     "headline_hi": "RBI ने बैंक विलय को मंजूरी दी",
+     "headline_hinglish": "RBI ne bank vilay ko manzoori di",
+     "detail_hi": "रिज़र्व बैंक ने एमिरेट्स एनबीडी की भारतीय शाखाओं का आरबीएल बैंक में विलय मंजूर किया — बैंकिंग परीक्षा के लिए प्रासंगिक बड़ी खबर।",
+     "detail_hinglish": "Reserve Bank ne Emirates NBD ki Bharatiya shaakhaon ka RBL Bank mein vilay manzoor kiya — banking pareeksha ke liye praasangik badi khabar.",
+     "category_hi": "बैंकिंग",
+     "category_en": "Banking"
+    },
+    {
+     "id": "ca-ep31-s5",
+     "headline_hi": "आईआईटी कानपुर का ड्रोन हब",
+     "headline_hinglish": "IIT Kanpur ka drone hub",
+     "detail_hi": "आईआईटी कानपुर ने रक्षा ड्रोन हब और एक अरब डॉलर के अनुसंधान अभियान का खाका पेश किया — स्वदेशी रक्षा तकनीक को नया बढ़ावा।",
+     "detail_hinglish": "IIT Kanpur ne raksha drone hub aur ek arab dollar ke anusandhaan abhiyaan ka khaaka pesh kiya — swadeshi raksha takneek ko naya badhaava.",
+     "category_hi": "तकनीक",
+     "category_en": "Technology"
+    }
+   ],
+   "mcq": {
+    "id": "ca-ep31-mcq",
+    "q_hi": "हेनले पासपोर्ट इंडेक्स दो हजार छब्बीस में भारत का स्थान क्या है?",
+    "q_hinglish": "Henley Passport Index do hazaar chhabbis mein Bharat ka sthaan kya hai?",
+    "options_hi": [
+     "ए) अस्सीवां",
+     "सी) छियासीवां",
+     "डी) नब्बेवां",
+     "बी) चौरासीवां"
+    ],
+    "options_hinglish": [
+     "Asseevaan",
+     "Chhiyaaseevaan",
+     "Nabbevaan",
+     "Chauraseevaan"
+    ],
+    "answer_index": 3
+   }
+  },
+  {
+   "episode": 32,
+   "video_hi": "TABfhQJwj54",
+   "video_hinglish": "jwQfpeKALsM",
+   "capsules": [
+    {
+     "id": "ca-ep32-s1",
+     "headline_hi": "कैंसर दवाओं पर मार्जिन सीमा",
+     "headline_hinglish": "Cancer davaon par margin seema",
+     "detail_hi": "केंद्र ने एक सौ सैंतीस कैंसर दवाओं पर ट्रेड मार्जिन की सीमा तीस प्रतिशत तय की है — नई कीमतें नौ नवंबर से लागू होंगी।",
+     "detail_hinglish": "Kendra ne ek sau saintees cancer davaon par trade margin ki seema tees pratishat tay ki hai — nayi keematein nau November se laagoo hongi.",
+     "category_hi": "स्वास्थ्य",
+     "category_en": "Health"
+    },
+    {
+     "id": "ca-ep32-s2",
+     "headline_hi": "आईडीबीआई बैंक की बिक्री",
+     "headline_hinglish": "IDBI Bank ki bikri",
+     "detail_hi": "केंद्र ने आईडीबीआई बैंक की करीब इक्सठ प्रतिशत हिस्सेदारी बावन हजार आठ सौ अठहत्तर करोड़ रुपये में फ़ेयरफ़ैक्स को बेचने की मंजूरी दी।",
+     "detail_hinglish": "Kendra ne IDBI Bank ki kareeb iksatth pratishat hissedaari baavan hazaar aath sau athhattar crore rupaye mein Fairfax ko bechne ki manzoori di.",
+     "category_hi": "बैंकिंग",
+     "category_en": "Banking"
+    },
+    {
+     "id": "ca-ep32-s3",
+     "headline_hi": "विदेशी मुद्रा भंडार की मजबूती",
+     "headline_hinglish": "Videshi mudra bhandaar ki mazbooti",
+     "detail_hi": "नौ अक्टूबर को भारत का विदेशी मुद्रा भंडार सात सौ छब्बीस अरब डॉलर से अधिक रहा; बैंक जमा आठ दशमलव तीन प्रतिशत और कर्ज सात दशमलव सात प्रतिशत बढ़ा।",
+     "detail_hinglish": "Nau October ko Bharat ka videshi mudra bhandaar saat sau chhabbis arab dollar se adhik raha; bank jama aath dashmalav teen pratishat aur karz saat dashmalav saat pratishat badha.",
+     "category_hi": "अर्थव्यवस्था",
+     "category_en": "Economy"
+    },
+    {
+     "id": "ca-ep32-s4",
+     "headline_hi": "बीएस-सात उत्सर्जन मानक",
+     "headline_hinglish": "BS-Saat utsarjan maanak",
+     "detail_hi": "केंद्र अप्रैल दो हजार उनतीस से अप्रैल दो हजार पैंतीस तक चरणबद्ध तरीके से बीएस-सात उत्सर्जन मानक लागू करने की योजना बना रहा है।",
+     "detail_hinglish": "Kendra April do hazaar untees se April do hazaar paintees tak charanbaddh tareeke se BS-Saat utsarjan maanak laagoo karne ki yojana bana raha hai.",
+     "category_hi": "पर्यावरण",
+     "category_en": "Environment"
+    },
+    {
+     "id": "ca-ep32-s5",
+     "headline_hi": "लद्दाख का आठवां जिला",
+     "headline_hinglish": "Ladakh ka aathvaan jila",
+     "detail_hi": "लद्दाख में संकू नया जिला बना — अब कुल आठ जिले; संकू को अलग पहाड़ी परिषद भी मिलेगी। केंद्रशासित प्रदेश के प्रशासन में बड़ा बदलाव।",
+     "detail_hinglish": "Ladakh mein Sankoo naya jila bana — ab kul aath jile; Sankoo ko alag pahadi parishad bhi milegi. Kendra shaasit pradesh ke prashaasan mein bada badlaav.",
+     "category_hi": "राजव्यवस्था",
+     "category_en": "Polity"
+    }
+   ],
+   "mcq": {
+    "id": "ca-ep32-mcq",
+    "q_hi": "एक सौ सैंतीस कैंसर दवाओं पर ट्रेड मार्जिन की सीमा क्या तय की गई है?",
+    "q_hinglish": "Ek sau saintees cancer davaon par trade margin ki seema kya tay ki gayi hai?",
+    "options_hi": [
+     "सी) तीस प्रतिशत",
+     "बी) पच्चीस प्रतिशत",
+     "डी) चालीस प्रतिशत",
+     "ए) बीस प्रतिशत"
+    ],
+    "options_hinglish": [
+     "Tees pratishat",
+     "Pachchees pratishat",
+     "Chaalees pratishat",
+     "Bees pratishat"
+    ],
+    "answer_index": 0
+   }
+  },
+  {
+   "episode": 33,
+   "video_hi": "5uV-G-5tr7U",
+   "video_hinglish": "MvRanw9Aguk",
+   "capsules": [
+    {
+     "id": "ca-ep33-s1",
+     "headline_hi": "पोलैंड के प्रधानमंत्री की भारत यात्रा",
+     "headline_hinglish": "Poland PM ki Bharat yatra",
+     "detail_hi": "प्रधानमंत्री नरेंद्र मोदी के निमंत्रण पर पोलैंड के प्रधानमंत्री डोनाल्ड टस्क इक्कीस से तेईस अक्टूबर तक भारत की आधिकारिक यात्रा पर आ रहे हैं।",
+     "detail_hinglish": "Poland ke PM Donald Tusk ikkees se tees October tak Bharat ki aadhikarik yatra par aa rahe hain. Vyaapaar aur raksha sambandhon par charcha hogi.",
+     "category_hi": "अंतरराष्ट्रीय",
+     "category_en": "International"
+    },
+    {
+     "id": "ca-ep33-s2",
+     "headline_hi": "सुप्रीम कोर्ट का बड़ा फैसला",
+     "headline_hinglish": "Supreme Court ka bada faisla",
+     "detail_hi": "सुप्रीम कोर्ट ने तमिलनाडु के तिरुवल्लूर में जल-निकाय वाली जमीन की रैयतवारी पट्टा रद्द की; बीस फ्लैट मालिकों को छह महीने में वैकल्पिक जगह मिलेगी।",
+     "detail_hinglish": "Supreme Court ne Tiruvallur mein jal-nikaay wali zameen ki ryotwari patta radd ki; bees flat malikon ko chhah mahine mein vaikalpik jagah milegi.",
+     "category_hi": "राजव्यवस्था",
+     "category_en": "Polity"
+    },
+    {
+     "id": "ca-ep33-s3",
+     "headline_hi": "चीनी-इथेनॉल पर रोक",
+     "headline_hinglish": "Cheeni-ethanol par rok",
+     "detail_hi": "तेल कंपनियों ने दो हजार छब्बीस-सत्ताईस के टेंडर में गन्ने के रस वाले इथेनॉल पर रोक लगाई; करीब ग्यारह अरब लीटर इथेनॉल के लिए बोलियां मांगी गईं।",
+     "detail_hinglish": "Tel companies ne 2026-27 ke tender mein ganne ke ras wale ethanol par rok lagai; gyaarah arab litre ethanol ke liye boliyaan maangi gayin.",
+     "category_hi": "अर्थव्यवस्था",
+     "category_en": "Economy"
+    },
+    {
+     "id": "ca-ep33-s4",
+     "headline_hi": "साबरमती-कटरा सीधी ट्रेन",
+     "headline_hinglish": "Sabarmati-Katra seedhi train",
+     "detail_hi": "रेलवे ने साबरमती से कटरा तक सीधी ट्रेन शुरू की; वैष्णो देवी के लाखों श्रद्धालुओं को फायदा मिलेगा, सफर करीब तैंतीस घंटे में पूरा होगा।",
+     "detail_hinglish": "Railway ne Sabarmati se Katra tak seedhi train shuru ki; Vaishno Devi shraddhaaluon ko fayda milega, safar taintees ghante ka hoga.",
+     "category_hi": "रेलवे",
+     "category_en": "Railways"
+    },
+    {
+     "id": "ca-ep33-s5",
+     "headline_hi": "एशियाई पैरा खेलों में भारत",
+     "headline_hinglish": "Asian Para Games mein Bharat",
+     "detail_hi": "आईची-नागोया में पांचवें एशियाई पैरा खेल शुरू; भारत के एक सौ अड़सठ खिलाड़ी ग्यारह खेलों में उतरेंगे। प्रमोद भगत, भाविना पटेल ध्वजवाहक।",
+     "detail_hinglish": "Aichi-Nagoya mein paanchven Asian Para Games shuru; Bharat ke 168 khilaadi 11 khelon mein utrenge. Pramod Bhagat, Bhavina Patel dhvajvaahak.",
+     "category_hi": "खेल",
+     "category_en": "Sports"
+    }
+   ],
+   "mcq": {
+    "id": "ca-ep33-mcq",
+    "q_hi": "दो हजार छब्बीस-सत्ताईस के इथेनॉल टेंडर में कितने अरब लीटर इथेनॉल के लिए बोलियां मांगी गई हैं?",
+    "q_hinglish": "Do hazaar chhabbees-sattaees ke ethanol tender mein kitne arab litre ethanol ke liye boliyaan maangi gayi hain?",
+    "options_hi": [
+     "ए) पांच अरब लीटर",
+     "बी) आठ अरब लीटर",
+     "डी) पंद्रह अरब लीटर",
+     "सी) ग्यारह अरब लीटर"
+    ],
+    "options_hinglish": [
+     "Paanch arab litre",
+     "Aath arab litre",
+     "Pandrah arab litre",
+     "Gyaarah arab litre"
+    ],
+    "answer_index": 3
+   }
+  }
+ ]
+}
