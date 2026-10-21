@@ -212,6 +212,76 @@
     ],
     "answer_index": 1
    }
+  },
+  {
+   "episode": 41,
+   "video_hi": "Vvj3kJF3iwQ",
+   "video_hinglish": null,
+   "capsules": [
+    {
+     "id": "ca-ep41-s1",
+     "headline_hi": "RBI ने रेपो रेट बढ़ाया: 5.50%",
+     "headline_hinglish": "RBI ne repo rate badhaya: 5.50%",
+     "detail_hi": "अक्टूबर MPC कार्यवृत्त जारी — रेपो रेट 25 बेसिस पॉइंट बढ़ाकर 5.50%। FY27 जीडीपी अनुमान 7.1%, दर कटौती निकट भविष्य में नहीं।",
+     "detail_hinglish": "October MPC minutes jaari — repo rate 25 basis point badhakar 5.50%. FY27 GDP anumaan 7.1%, dar katauti nikat bhavishya mein nahin.",
+     "category_hi": "अर्थव्यवस्था",
+     "category_en": "Economy"
+    },
+    {
+     "id": "ca-ep41-s2",
+     "headline_hi": "उड़ान योजना के 10 वर्ष पूरे",
+     "headline_hinglish": "UDAN yojana ke 10 varsh poore",
+     "detail_hi": "2016 में शुरू योजना के 10 साल — 687 मार्ग, 95 हवाईअड्डे सक्रिय; 1.72 करोड़ यात्रियों ने सफर किया। अगला चरण ₹28,840 करोड़।",
+     "detail_hinglish": "2016 mein shuru yojana ke 10 saal — 687 route, 95 hawai adde sakriya; 1.72 karod yatriyon ne safar kiya. Agla charan ₹28,840 karod.",
+     "category_hi": "योजना",
+     "category_en": "Schemes"
+    },
+    {
+     "id": "ca-ep41-s3",
+     "headline_hi": "पोलैंड के PM तुस्क भारत दौरे पर",
+     "headline_hinglish": "Poland ke PM Tusk Bharat daure par",
+     "detail_hi": "डोनाल्ड तुस्क 21 से 23 अक्टूबर तक भारत में; 22 को मोदी से वार्ता, रक्षा-तकनीक सहयोग एजेंडे में।",
+     "detail_hinglish": "Donald Tusk 21 se 23 October tak Bharat mein; 22 ko Modi se vaarta, raksha-tech sahyog agenda mein.",
+     "category_hi": "अंतरराष्ट्रीय",
+     "category_en": "International"
+    },
+    {
+     "id": "ca-ep41-s4",
+     "headline_hi": "भारत-अमेरिका व्यापार समझौता करीब",
+     "headline_hinglish": "Bharat-America vyaapaar samjhauta kareeb",
+     "detail_hi": "रुबियो मुंबई में जयशंकर से मिले — समझौता 'हस्ताक्षर के बेहद करीब'। क्वाड शिखर सम्मेलन अगले माह फिलीपींस में।",
+     "detail_hinglish": "Rubio Mumbai mein Jaishankar se mile — samjhauta 'hastakshar ke behad kareeb'. Quad sammelan agle mah Philippines mein.",
+     "category_hi": "अंतरराष्ट्रीय",
+     "category_en": "International"
+    },
+    {
+     "id": "ca-ep41-s5",
+     "headline_hi": "SBI: ग्राहक डेटा डार्क वेब पर",
+     "headline_hinglish": "SBI: graahak data dark web par",
+     "detail_hi": "सबसे बड़े बैंक ने शेयर बाज़ार को सूचित किया — साइबर एजेंसियों की चेतावनी के बाद डेटा रिसाव की जांच शुरू।",
+     "detail_hinglish": "Sabse bade bank ne share bazaar ko soochit kiya — cyber agencies ki chetaavni ke baad data leak ki jaanch shuru.",
+     "category_hi": "बैंकिंग",
+     "category_en": "Banking"
+    }
+   ],
+   "mcq": {
+    "id": "ca-ep41-mcq",
+    "q_hi": "उड़ान योजना का पूरा नाम क्या है?",
+    "q_hinglish": "UDAN yojana ka poora naam kya hai?",
+    "options_hi": [
+     "ए) उदय भारत का आर्थिक नवजीवन",
+     "बी) उड़ान दर निर्धारण प्राधिकरण",
+     "सी) उड़े देश का आम नागरिक",
+     "डी) उद्योग विकास आर्थिक नियम"
+    ],
+    "options_hinglish": [
+     "Uday Bharat ka Aarthik Navjeevan",
+     "Udaan Dar Nirdharan Pradhikaran",
+     "Ude Desh ka Aam Nagrik",
+     "Udyog Vikas Aarthik Niyam"
+    ],
+    "answer_index": 2
+   }
   }
  ]
 }
