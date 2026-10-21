@@ -72,6 +72,76 @@
     ],
     "answer_index": 1
    }
+  },
+  {
+   "episode": 39,
+   "video_hi": "UsKAytQdTFM",
+   "video_hinglish": "6LydbiSjCIs",
+   "capsules": [
+    {
+     "id": "ca-ep39-s1",
+     "headline_hi": "महिला आरक्षण विधेयक पर आम सहमति",
+     "headline_hinglish": "Mahila Aarakshan Bill par aam sahamati",
+     "detail_hi": "प्रधानमंत्री नरेंद्र मोदी ने सभी दलों से राष्ट्रहित में एकजुट होने का आह्वान किया; परिसीमन से जुड़े महिला आरक्षण विधेयक पर आम सहमति बनाने की कोशिश।",
+     "detail_hinglish": "Pradhan Mantri Narendra Modi ne sabhi dalon se rashtrahit mein ekjut hone ka aahvaan kiya; pariseeman se jude Mahila Aarakshan Vidheyak par aam sahamati banane ki koshish.",
+     "category_hi": "राजनीति",
+     "category_en": "Polity"
+    },
+    {
+     "id": "ca-ep39-s2",
+     "headline_hi": "एसबीआई में एआई अफसरों की भर्ती",
+     "headline_hinglish": "SBI mein AI officers ki bharti",
+     "detail_hi": "एसबीआई छह स्पेशलिस्ट कैडर अफसर नियुक्त करेगा — जीएम और चीफ एआई ऑफिसर, तीन डीजीएम, दो आर्किटेक्ट; आवेदन उन्नीस अक्टूबर से नौ नवंबर तक, सीटीसी डेढ़ करोड़ रुपये से अधिक।",
+     "detail_hinglish": "SBI chhah specialist cadre officer niyukt karega — GM aur Chief AI Officer, teen DGM, do architect; aavedan unnees October se nau November tak, CTC dedh crore rupaye se adhik.",
+     "category_hi": "बैंकिंग",
+     "category_en": "Banking"
+    },
+    {
+     "id": "ca-ep39-s3",
+     "headline_hi": "झोटा हत्याकांड: सीबीआई जांच",
+     "headline_hinglish": "Jhota hatyakand: CBI jaanch",
+     "detail_hi": "पंजाब के मानसा में नशा-विरोधी कार्यकर्ता परविंदर सिंह झोटा की हत्या की जांच सीबीआई को; परिवार की मांग पर केंद्र ने मामला अपने हाथ लिया।",
+     "detail_hinglish": "Punjab ke Mansa mein nasha-virodhi karyakarta Parvinder Singh Jhota ki hatya ki jaanch CBI ko; parivaar ki maang par kendra ne mamla apne haath liya.",
+     "category_hi": "प्रशासन",
+     "category_en": "National"
+    },
+    {
+     "id": "ca-ep39-s4",
+     "headline_hi": "पैरा खेलों में भारत का धमाका",
+     "headline_hinglish": "Para khelon mein Bharat ka dhamaka",
+     "detail_hi": "जापान में एशियाई पैरा खेलों में निषाद कुमार ने दो स्वर्ण जीते; एथलेटिक्स में भारत के चौदह पदक — सौम्या और शूटिंग में मनीष नरवाल भी चमके।",
+     "detail_hinglish": "Japan mein Asian Para Games mein Nishad Kumar ne do swarna jeete; athletics mein Bharat ke chaudah padak — Soumya aur shooting mein Manish Narwal bhi chamke.",
+     "category_hi": "खेल",
+     "category_en": "Sports"
+    },
+    {
+     "id": "ca-ep39-s5",
+     "headline_hi": "एससीओ सभ्यता संवाद फोरम",
+     "headline_hinglish": "SCO Sabhyata Samvaad Forum",
+     "detail_hi": "रक्षा मंत्री राजनाथ सिंह की घोषणा — वर्ष अंत तक भारत में पहला एससीओ सभ्यता संवाद फोरम; दुशांबे बैठक में सदस्य देशों को निमंत्रण।",
+     "detail_hinglish": "Raksha Mantri Rajnath Singh ki ghoshna — varsh ant tak Bharat mein pehla SCO Sabhyata Samvaad Forum; Dushanbe baithak mein sadasya deshon ko nimantran.",
+     "category_hi": "अंतरराष्ट्रीय",
+     "category_en": "International"
+    }
+   ],
+   "mcq": {
+    "id": "ca-ep39-mcq",
+    "q_hi": "नारी शक्ति वंदन अधिनियम, 2023 के तहत लोकसभा और विधानसभाओं में महिलाओं के लिए कितने प्रतिशत सीटें आरक्षित होंगी?",
+    "q_hinglish": "Nari Shakti Vandan Adhiniyam, 2023 ke tahat Lok Sabha aur vidhansabhaon mein mahilaon ke liye kitne pratishat seetein aarakshit hongi?",
+    "options_hi": [
+     "ए) पच्चीस प्रतिशत",
+     "बी) पचास प्रतिशत",
+     "सी) दस प्रतिशत",
+     "डी) तैंतीस प्रतिशत"
+    ],
+    "options_hinglish": [
+     "25 pratishat",
+     "50 pratishat",
+     "10 pratishat",
+     "33 pratishat"
+    ],
+    "answer_index": 3
+   }
   }
  ]
 }
