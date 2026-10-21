@@ -142,6 +142,76 @@
     ],
     "answer_index": 3
    }
+  },
+  {
+   "episode": 40,
+   "video_hi": "qLS3aSflBgw",
+   "video_hinglish": "AqZ097a7Kxo",
+   "capsules": [
+    {
+     "id": "ca-ep40-s1",
+     "headline_hi": "पोलैंड के PM तुस्क भारत दौरे पर",
+     "headline_hinglish": "Poland ke PM Tusk Bharat daure par",
+     "detail_hi": "पोलैंड के प्रधानमंत्री डोनाल्ड तुस्क 21 से 23 अक्टूबर तक भारत में; 22 अक्टूबर को मोदी से वार्ता, 2024 में रणनीतिक साझेदारी बनी।",
+     "detail_hinglish": "Poland ke Pradhan Mantri Donald Tusk 21 se 23 October tak Bharat mein; 22 October ko Modi se vaarta, 2024 mein strategic partnership bani.",
+     "category_hi": "अंतरराष्ट्रीय",
+     "category_en": "International"
+    },
+    {
+     "id": "ca-ep40-s2",
+     "headline_hi": "उड़ान योजना के 10 वर्ष पूरे",
+     "headline_hinglish": "UDAN yojana ke 10 saal poore",
+     "detail_hi": "21 अक्टूबर 2016 को शुरू उड़ान से 687 रूट और 95 हवाईअड्डे सक्रिय; 1.72 करोड़ यात्रियों ने सफर किया, नया चरण ₹28,840 करोड़ का।",
+     "detail_hinglish": "21 October 2016 ko shuru UDAN se 687 routes aur 95 hawai adde sakriya; 1.72 crore yatriyon ne safar kiya, naya charan 28,840 crore rupaye ka.",
+     "category_hi": "अर्थव्यवस्था",
+     "category_en": "Economy"
+    },
+    {
+     "id": "ca-ep40-s3",
+     "headline_hi": "भारत-न्यूज़ीलैंड व्यापार समझौता लागू",
+     "headline_hinglish": "Bharat-New Zealand vyapar samjhauta lagu",
+     "detail_hi": "नई व्यापार संधि से श्रम-प्रधान क्षेत्रों समेत कई भारतीय उत्पादों को न्यूज़ीलैंड में शुल्क-मुक्त पहुंच मिलेगी।",
+     "detail_hinglish": "Nai vyapar sandhi se shram-pradhan kshetron samet kai Bhartiya utpadon ko New Zealand mein shulk-mukt pahunch milegi.",
+     "category_hi": "व्यापार",
+     "category_en": "National"
+    },
+    {
+     "id": "ca-ep40-s4",
+     "headline_hi": "सिरपुर यूनेस्को सूची में",
+     "headline_hinglish": "Sirpur UNESCO suchi mein",
+     "detail_hi": "छत्तीसगढ़ का सिरपुर पुरातात्विक स्थल यूनेस्को की अस्थायी विश्व धरोहर सूची में; महानदी किनारे पांचवीं से बारहवीं सदी का इतिहास।",
+     "detail_hinglish": "Chhattisgarh ka Sirpur puratatvik sthal UNESCO ki tentative World Heritage suchi mein; Mahanadi kinare paanchvin se baarahvin sadi ka itihaas.",
+     "category_hi": "संस्कृति",
+     "category_en": "National"
+    },
+    {
+     "id": "ca-ep40-s5",
+     "headline_hi": "ऑस्ट्राहिंद सैन्य अभ्यास शुरू",
+     "headline_hinglish": "AustraHind sainya abhyas shuru",
+     "detail_hi": "भारत-ऑस्ट्रेलिया संयुक्त सैन्य अभ्यास ऑस्ट्राहिंद का पांचवां संस्करण केरल में शुरू; द्विपक्षीय रक्षा सहयोग मजबूत होगा।",
+     "detail_hinglish": "Bharat-Australia sanyukt sainya abhyas AustraHind ka paanchva sanskaran Kerala mein shuru; dvipakshiya raksha sahyog majboot hoga.",
+     "category_hi": "रक्षा",
+     "category_en": "Defence"
+    }
+   ],
+   "mcq": {
+    "id": "ca-ep40-mcq",
+    "q_hi": "यूनेस्को की अस्थायी विश्व धरोहर सूची में शामिल छत्तीसगढ़ का पुरातात्विक स्थल कौन-सा है?",
+    "q_hinglish": "UNESCO ki tentative World Heritage suchi mein shamil Chhattisgarh ka puratatvik sthal kaun-sa hai?",
+    "options_hi": [
+     "ए) भीमबेटका",
+     "बी) सिरपुर",
+     "सी) धोलावीरा",
+     "डी) खजुराहो"
+    ],
+    "options_hinglish": [
+     "Bhimbetka",
+     "Sirpur",
+     "Dholavira",
+     "Khajuraho"
+    ],
+    "answer_index": 1
+   }
   }
  ]
 }
