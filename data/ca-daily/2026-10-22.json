@@ -142,6 +142,76 @@
     ],
     "answer_index": 0
    }
+  },
+  {
+   "episode": 44,
+   "video_hi": "wY8uQCGt5Mg",
+   "video_hinglish": "ST3J7Ea4EvA",
+   "capsules": [
+    {
+     "id": "ca-ep44-s1",
+     "headline_hi": "मोदी-तुस्क वार्ता: रक्षा, अंतरिक्ष, परमाणु में गहरा होगा सहयोग",
+     "headline_hinglish": "Modi–Tusk talks: deeper cooperation in defence, space, nuclear",
+     "detail_hi": "पोलैंड के प्रधानमंत्री की सोलह साल बाद पहली भारत यात्रा; द्विपक्षीय रणनीतिक साझेदारी बढ़ाने पर कई निर्णय।",
+     "detail_hinglish": "Polish PM's first India visit in sixteen years; several decisions to expand the India-Poland strategic partnership.",
+     "category_hi": "अंतरराष्ट्रीय",
+     "category_en": "International"
+    },
+    {
+     "id": "ca-ep44-s2",
+     "headline_hi": "दिल्ली-NCR में GRAP का पहला चरण लागू",
+     "headline_hinglish": "GRAP Stage One invoked in Delhi-NCR",
+     "detail_hi": "वायु गुणवत्ता बिगड़ने पर GRAP-1; धूल रोकथाम, निर्माण नियमों और ट्रक प्रवेश पर नियंत्रण लागू।",
+     "detail_hinglish": "Invoked as air quality worsened; dust control, construction norms and truck-entry curbs now in force.",
+     "category_hi": "पर्यावरण",
+     "category_en": "Environment"
+    },
+    {
+     "id": "ca-ep44-s3",
+     "headline_hi": "एकता दिवस परेड: नक्सल प्रभावित जिलों से दो हज़ार कलाकार",
+     "headline_hinglish": "Ekta Diwas parade: two thousand artists from Naxal-hit districts",
+     "detail_hi": "31 अक्टूबर को सरदार पटेल जयंती पर एकता दिवस; 126 नक्सल-प्रभावित जिलों के कलाकार भाग लेंगे।",
+     "detail_hinglish": "National Unity Day on Oct 31, Sardar Patel's birth anniversary; artists from 126 Naxal-affected districts to perform.",
+     "category_hi": "राष्ट्रीय",
+     "category_en": "National"
+    },
+    {
+     "id": "ca-ep44-s4",
+     "headline_hi": "फेसबुक प्राइवेसी मामले में मेटा पर 25 अरब डॉलर का जुर्माना",
+     "headline_hinglish": "Meta fined USD 25 billion in Facebook privacy case",
+     "detail_hi": "न्यू मैक्सिको अदालत का आदेश; यूज़र्स को फेसबुक प्राइवेसी को लेकर गुमराह करने का मामला।",
+     "detail_hinglish": "New Mexico court order over deceiving users on Facebook privacy.",
+     "category_hi": "तकनीकी",
+     "category_en": "National"
+    },
+    {
+     "id": "ca-ep44-s5",
+     "headline_hi": "गोयल की जर्मनी-नीदरलैंड यात्रा 22 से 27 अक्टूबर",
+     "headline_hinglish": "Goyal's Germany-Netherlands visit, Oct 22 to 27",
+     "detail_hi": "व्यापार और निवेश पर वार्ता; भारत-ईयू मुक्त व्यापार समझौते को मजबूती मिलने की उम्मीद।",
+     "detail_hinglish": "Trade and investment talks; expected to strengthen the India-EU free-trade agreement push.",
+     "category_hi": "अर्थव्यवस्था",
+     "category_en": "Economy"
+    }
+   ],
+   "mcq": {
+    "id": "ca-ep44-mcq",
+    "q_hi": "राष्ट्रीय एकता दिवस किसकी जयंती पर मनाया जाता है?",
+    "q_hinglish": "Rashtriya Ekta Diwas is celebrated on the birth anniversary of?",
+    "options_hi": [
+     "महात्मा गांधी",
+     "जवाहरलाल नेहरू",
+     "डॉ. भीमराव आंबेडकर",
+     "सरदार वल्लभभाई पटेल"
+    ],
+    "options_hinglish": [
+     "Mahatma Gandhi",
+     "Jawaharlal Nehru",
+     "Dr. B. R. Ambedkar",
+     "Sardar Vallabhbhai Patel"
+    ],
+    "answer_index": 3
+   }
   }
  ]
 }
