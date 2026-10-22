@@ -1,0 +1,77 @@
+{
+ "date": "2026-10-23",
+ "date_hi": "23 अक्टूबर 2026",
+ "date_en": "23 October 2026",
+ "episodes": [
+  {
+   "episode": 46,
+   "video_hi": "lAMWfEjRdlg",
+   "video_hinglish": "Pt6Yuy0HEIo",
+   "capsules": [
+    {
+     "id": "ca-ep46-s1",
+     "headline_hi": "DeepSeek ने जुटाए 15 अरब डॉलर",
+     "headline_hinglish": "DeepSeek raises $15 billion in mega funding round",
+     "detail_hi": "चीनी AI स्टार्टअप ने 100 अरब युआन जुटाए; CATL और Tencent सबसे बड़े निवेशक।",
+     "detail_hinglish": "Chinese AI startup DeepSeek ne 100 billion yuan jutaye; CATL aur Tencent sabse bade niveshak.",
+     "category_hi": "प्रौद्योगिकी",
+     "category_en": "Technology"
+    },
+    {
+     "id": "ca-ep46-s2",
+     "headline_hi": "पहले T20I में भारत ने NZ को 4 विकेट से हराया",
+     "headline_hinglish": "India beat NZ by 4 wickets in 1st T20I",
+     "detail_hi": "226 रन के लक्ष्य का पीछा; संजू सैमसन के 67 और नमन धीर के नाबाद 42 रन।",
+     "detail_hinglish": "226 run ke lakshya ka peecha; Sanju Samson ke 67 aur Naman Dhir ke nabad 42 run.",
+     "category_hi": "खेल",
+     "category_en": "Sports"
+    },
+    {
+     "id": "ca-ep46-s3",
+     "headline_hi": "मध्य प्रदेश से राज्यसभा उपचुनाव 12 नवंबर को",
+     "headline_hinglish": "Rajya Sabha bypoll in Madhya Pradesh on November 12",
+     "detail_hi": "एल. मुरुगन के इस्तीफे से खाली सीट; नामांकन 26 अक्टूबर से 2 नवंबर तक।",
+     "detail_hinglish": "L. Murugan ke isteefe se khaali seat; namankan 26 October se 2 November tak.",
+     "category_hi": "राजनीति",
+     "category_en": "Polity"
+    },
+    {
+     "id": "ca-ep46-s4",
+     "headline_hi": "NSAP अब 'प्रधानमंत्री सामाजिक सहायता योजना'",
+     "headline_hinglish": "NSAP renamed 'Pradhan Mantri Samajik Sahayata Yojana'",
+     "detail_hi": "5 साल के लिए विस्तार, 53,428 करोड़ रुपये का प्रावधान; दिव्यांग पेंशन बढ़ेगी।",
+     "detail_hinglish": "5 saal ke liye vistaar, 53,428 crore rupaye ka pravdhan; divyang pension badhegi.",
+     "category_hi": "योजना",
+     "category_en": "Schemes"
+    },
+    {
+     "id": "ca-ep46-s5",
+     "headline_hi": "दिल्ली में GRAP का पहला चरण लागू",
+     "headline_hinglish": "GRAP Stage 1 invoked in Delhi",
+     "detail_hi": "सीजन का पहला 'खराब' वायु गुणवत्ता दिन; AQI 226 के पार पहुंचा।",
+     "detail_hinglish": "Season ka pehla 'kharab' vayu gunvatta din; AQI 226 ke paar pahuncha.",
+     "category_hi": "पर्यावरण",
+     "category_en": "Environment"
+    }
+   ],
+   "mcq": {
+    "id": "ca-ep46-mcq",
+    "q_hi": "चीनी AI स्टार्टअप DeepSeek ने अपनी ताज़ा फंडिंग राउंड में कितनी राशि जुटाई?",
+    "q_hinglish": "Chinese AI startup DeepSeek ne apni taaza funding round mein kitni rashi jutai?",
+    "options_hi": [
+     "5 अरब डॉलर",
+     "25 अरब डॉलर",
+     "7 अरब डॉलर",
+     "15 अरब डॉलर"
+    ],
+    "options_hinglish": [
+     "$5 billion",
+     "$25 billion",
+     "$7 billion",
+     "$15 billion"
+    ],
+    "answer_index": 3
+   }
+  }
+ ]
+}
