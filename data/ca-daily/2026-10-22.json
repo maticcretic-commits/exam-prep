@@ -212,6 +212,76 @@
     ],
     "answer_index": 3
    }
+  },
+  {
+   "episode": 45,
+   "video_hi": "rjXak2QzQFQ",
+   "video_hinglish": "34GOJHOzvvw",
+   "capsules": [
+    {
+     "id": "ca-ep45-s1",
+     "headline_hi": "सऊदी में हौथी हमले की भारत ने निंदा की",
+     "headline_hinglish": "India condemns Houthi strikes in Saudi Arabia",
+     "detail_hi": "दमाम हवाई अड्डे पर हमले में एक भारतीय नागरिक की मौत; पश्चिम एशिया में शांति की जल्द बहाली का आह्वान।",
+     "detail_hinglish": "An Indian national was killed in the Dammam airport strike; India urged early restoration of peace in West Asia.",
+     "category_hi": "अंतरराष्ट्रीय",
+     "category_en": "International"
+    },
+    {
+     "id": "ca-ep45-s2",
+     "headline_hi": "जियो IPO: सिर्फ़ 100 मिनट में पूरी तरह सब्सक्राइब",
+     "headline_hinglish": "Jio IPO fully subscribed in just 100 minutes",
+     "detail_hi": "बोलियों की कुल क़ीमत उनहत्तर हज़ार आठ सौ करोड़ रुपये; पूंजी बाज़ार में ऐतिहासिक प्रतिक्रिया।",
+     "detail_hinglish": "Bids worth Rs 69,800 crore poured in; a historic response in the capital market.",
+     "category_hi": "अर्थव्यवस्था",
+     "category_en": "Economy"
+    },
+    {
+     "id": "ca-ep45-s3",
+     "headline_hi": "भारत-सिंगापुर का 33वां समुद्री अभ्यास विशाखापत्तनम में",
+     "headline_hinglish": "India-Singapore 33rd bilateral maritime exercise begins in Visakhapatnam",
+     "detail_hi": "दोनों देशों की नौसेनाओं के बीच द्विपक्षीय अभ्यास शुरू; समुद्री सुरक्षा सहयोग और मज़बूत होगा।",
+     "detail_hinglish": "The two navies kicked off the bilateral drill; maritime security cooperation set to deepen.",
+     "category_hi": "रक्षा",
+     "category_en": "Defence"
+    },
+    {
+     "id": "ca-ep45-s4",
+     "headline_hi": "एशियाई पैरा खेलों में सचिन खिलारी ने जीता स्वर्ण",
+     "headline_hinglish": "Sachin Khilari wins gold at Asian Para Games",
+     "detail_hi": "शॉट पुट F46 स्पर्धा में स्वर्ण पदक; भारत के पैरा खिलाड़ियों की शानदार उपलब्धि।",
+     "detail_hinglish": "Gold in the shot put F46 event; another proud moment for India's para athletes.",
+     "category_hi": "खेल",
+     "category_en": "Sports"
+    },
+    {
+     "id": "ca-ep45-s5",
+     "headline_hi": "कांगो से चार अन्य देशों में फैला इबोला",
+     "headline_hinglish": "Ebola spreads from Congo to four more countries",
+     "detail_hi": "अफ्रीका में इबोला का नया प्रकोप; स्वास्थ्य एजेंसियां सतर्क, रोकथाम के प्रयास तेज़ किए गए।",
+     "detail_hinglish": "A fresh Ebola outbreak in Africa; health agencies on alert and containment efforts stepped up.",
+     "category_hi": "स्वास्थ्य",
+     "category_en": "Health"
+    }
+   ],
+   "mcq": {
+    "id": "ca-ep45-mcq",
+    "q_hi": "जियो का IPO कितने समय में पूरी तरह सब्सक्राइब हो गया?",
+    "q_hinglish": "How quickly was the Jio IPO fully subscribed?",
+    "options_hi": [
+     "30 मिनट",
+     "100 मिनट",
+     "एक दिन",
+     "एक सप्ताह"
+    ],
+    "options_hinglish": [
+     "30 minutes",
+     "100 minutes",
+     "one day",
+     "one week"
+    ],
+    "answer_index": 3
+   }
   }
  ]
 }
