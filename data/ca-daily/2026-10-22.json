@@ -1,0 +1,147 @@
+{
+ "date": "2026-10-22",
+ "date_hi": "22 अक्टूबर 2026",
+ "date_en": "22 October 2026",
+ "episodes": [
+  {
+   "episode": 42,
+   "video_hi": "UVPUpqyVOuY",
+   "video_hinglish": null,
+   "capsules": [
+    {
+     "id": "ca-ep42-s1",
+     "headline_hi": "मोदी ने मेरठ मेट्रो-नमो भारत का उद्घाटन किया",
+     "headline_hinglish": "Modi flags off Meerut Metro and Namo Bharat RRTS",
+     "detail_hi": "शताब्दी नगर से हरी झंडी; बयासी किमी दिल्ली–मेरठ कॉरिडोर से यात्रा एक घंटे से कम; ₹12,930 करोड़ की परियोजनाएं।",
+     "detail_hinglish": "Flagged off at Shatabdi Nagar; 82-km Delhi-Meerut corridor cuts travel to under an hour; Rs 12,930 crore projects unveiled.",
+     "category_hi": "इंफ्रास्ट्रक्चर",
+     "category_en": "Infrastructure"
+    },
+    {
+     "id": "ca-ep42-s2",
+     "headline_hi": "रावघाट पहली बार रेल नेटवर्क से जुड़ा",
+     "headline_hinglish": "Rowghat joins rail network for first time",
+     "detail_hi": "आज़ादी के बाद पहली बार छत्तीसगढ़ का रावघाट राष्ट्रीय रेल नेटवर्क से जुड़ा — बस्तर के विकास में मील का पत्थर।",
+     "detail_hinglish": "Chhattisgarh's Rowghat linked to the national rail network for the first time since independence — a milestone for Bastar.",
+     "category_hi": "रेलवे",
+     "category_en": "Railways"
+    },
+    {
+     "id": "ca-ep42-s3",
+     "headline_hi": "नेपाल के PM बालन शाह नवंबर में भारत आएंगे",
+     "headline_hinglish": "Nepal PM Balen Shah to visit India in November",
+     "detail_hi": "नेपाल PM नवंबर में, बांग्लादेश PM तारिक रहमान दिसंबर की शुरुआत में भारत यात्रा पर आएंगे — विदेश नीति के लिए अहम।",
+     "detail_hinglish": "Nepal PM in November, Bangladesh PM Tarique Rahman in early December — key for foreign policy watchers.",
+     "category_hi": "अंतरराष्ट्रीय",
+     "category_en": "International"
+    },
+    {
+     "id": "ca-ep42-s4",
+     "headline_hi": "दिल्ली-NCR में GRAP-1 लागू",
+     "headline_hinglish": "GRAP-1 enforced in Delhi-NCR",
+     "detail_hi": "वायु गुणवत्ता सूचकांक 245 पहुंचा; ग्रेडेड रिस्पॉन्स एक्शन प्लान का पहला चरण लागू — धूल और निर्माण पर पाबंदियां।",
+     "detail_hinglish": "AQI touched 245; first stage of the Graded Response Action Plan enforced — curbs on dust and construction.",
+     "category_hi": "पर्यावरण",
+     "category_en": "Environment"
+    },
+    {
+     "id": "ca-ep42-s5",
+     "headline_hi": "चेन्नई-कोलकाता हवाईअड्डे PPP पर देने की तैयारी",
+     "headline_hinglish": "Chennai-Kolkata airports eyed for PPP lease",
+     "detail_hi": "केंद्र सरकार दोनों हवाईअड्डों को लंबे पट्टे पर निजी कंपनियों को सौंपने पर विचार कर रही है — PPP मॉडल।",
+     "detail_hinglish": "Centre considers handing both airports to private players on long-term lease under the PPP model.",
+     "category_hi": "इंफ्रास्ट्रक्चर",
+     "category_en": "Infrastructure"
+    }
+   ],
+   "mcq": {
+    "id": "ca-ep42-mcq",
+    "q_hi": "भारत का पहला नमो भारत RRTS कॉरिडोर कौन सा है?",
+    "q_hinglish": "Which is India's first Namo Bharat RRTS corridor?",
+    "options_hi": [
+     "ए) दिल्ली–पानीपत",
+     "बी) दिल्ली–अलवर",
+     "सी) दिल्ली–मेरठ",
+     "डी) मुंबई–पुणे"
+    ],
+    "options_hinglish": [
+     "Delhi-Panipat",
+     "Delhi-Alwar",
+     "Delhi-Meerut",
+     "Mumbai-Pune"
+    ],
+    "answer_index": 2
+   }
+  },
+  {
+   "episode": 43,
+   "video_hi": null,
+   "video_hinglish": null,
+   "capsules": [
+    {
+     "id": "ca-ep43-s1",
+     "headline_hi": "भारत-सिंगापुर 33वां समुद्री अभ्यास सिमबेक्स शुरू",
+     "headline_hinglish": "India–Singapore 33rd maritime exercise SIMBEX begins",
+     "detail_hi": "विशाखापट्टनम में 33वां द्विपक्षीय समुद्री अभ्यास शुरू; दोनों नौसेनाओं की इंटरऑपरेबिलिटी बढ़ेगी।",
+     "detail_hinglish": "33rd bilateral naval exercise begins at Visakhapatnam; boosts interoperability between the two navies.",
+     "category_hi": "रक्षा",
+     "category_en": "Defence"
+    },
+    {
+     "id": "ca-ep43-s2",
+     "headline_hi": "जियो IPO 100 मिनट में पूरी तरह सब्सक्राइब",
+     "headline_hinglish": "Jio IPO fully subscribed in 100 minutes",
+     "detail_hi": "100 मिनट के भीतर ₹69,800 करोड़ की बोलियां; देश के सबसे बड़े IPO में से एक।",
+     "detail_hinglish": "Bids worth Rs 69,800 crore within 100 minutes — one of the country's largest IPOs.",
+     "category_hi": "अर्थव्यवस्था",
+     "category_en": "Economy"
+    },
+    {
+     "id": "ca-ep43-s3",
+     "headline_hi": "सचिन खिलारी ने एशियाई पैरा खेलों में स्वर्ण जीता",
+     "headline_hinglish": "Sachin Khilari bags gold at Asian Para Games",
+     "detail_hi": "शॉट पुट F46 में स्वर्ण; पेरिस पैरालंपिक के रजत विजेता खिलारी का दबदबा कायम।",
+     "detail_hinglish": "Gold in shot-put F46; Paris Paralympics silver medallist keeps India's medal tally ticking.",
+     "category_hi": "खेल",
+     "category_en": "Sports"
+    },
+    {
+     "id": "ca-ep43-s4",
+     "headline_hi": "IndiaAI फैलोशिप: UG को ₹1 लाख, PG को ₹2 लाख",
+     "headline_hinglish": "IndiaAI fellowship: Rs 1L for UG, Rs 2L for PG",
+     "detail_hi": "स्नातक छात्रों को ₹1 लाख और परास्नातक को ₹2 लाख तक; आवेदन 30 नवंबर तक खुले।",
+     "detail_hinglish": "Up to Rs 1 lakh for undergrads, Rs 2 lakh for postgrads in AI; apply by November 30.",
+     "category_hi": "शिक्षा",
+     "category_en": "Education"
+    },
+    {
+     "id": "ca-ep43-s5",
+     "headline_hi": "लक्ष्य: 2029 तक नशा-मुक्त भारत",
+     "headline_hinglish": "Target: drug-free India by 2029",
+     "detail_hi": "गृहमंत्री ने 31 दिसंबर 2029 की डेडलाइन रखी; ड्रग्स के खिलाफ जीरो टॉलरेंस।",
+     "detail_hinglish": "Home Minister sets December 31, 2029 deadline; zero tolerance against drugs.",
+     "category_hi": "राजनीति",
+     "category_en": "Polity"
+    }
+   ],
+   "mcq": {
+    "id": "ca-ep43-mcq",
+    "q_hi": "भारत-सिंगापुर के 33वें द्विपक्षीय समुद्री अभ्यास का नाम क्या है?",
+    "q_hinglish": "What is the name of the 33rd India–Singapore bilateral maritime exercise?",
+    "options_hi": [
+     "सिमबेक्स (SIMBEX)",
+     "मिलन (MILAN)",
+     "ऑसइंडेक्स (AUSINDEX)",
+     "स्लिनेक्स (SLINEX)"
+    ],
+    "options_hinglish": [
+     "SIMBEX",
+     "MILAN",
+     "AUSINDEX",
+     "SLINEX"
+    ],
+    "answer_index": 0
+   }
+  }
+ ]
+}
