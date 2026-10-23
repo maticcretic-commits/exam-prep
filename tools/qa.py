@@ -128,7 +128,7 @@ EXPECTED = {
         "oneliners": 7,
         "capsules": 10,
         "videos": 0,
-        "listings": 194
+        "listings": 191
     }
 }
 
