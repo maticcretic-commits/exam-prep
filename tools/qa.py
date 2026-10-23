@@ -24,7 +24,7 @@ EXPECTED = {
     "ssc": {
         "questions": 923,
         "oneliners": 459,
-        "capsules": 414
+        "capsules": 417
     },
     "pte": {
         "questions": 635,
@@ -54,7 +54,7 @@ EXPECTED = {
     "ielts": {
         "questions": 672,
         "oneliners": 23,
-        "capsules": 22,
+        "capsules": 23,
         "resources": 100
     },
     "railways": {
@@ -68,13 +68,13 @@ EXPECTED = {
         "oneliners": 327
     },
     "neet": {
-        "questions": 1109,
+        "questions": 1125,
         "oneliners": 439,
-        "capsules": 43
+        "capsules": 51
     },
     "bpsc": {
-        "questions": 2010,
-        "capsules": 1034,
+        "questions": 2066,
+        "capsules": 1041,
         "oneliners": 952
     },
     "banking-certs": {
@@ -86,12 +86,12 @@ EXPECTED = {
     "upsc": {
         "questions": 1096,
         "oneliners": 52,
-        "capsules": 60
+        "capsules": 61
     },
     "jee": {
         "questions": 1194,
         "oneliners": 374,
-        "capsules": 29
+        "capsules": 43
     },
     "banking": {
         "questions": 958,
@@ -111,7 +111,7 @@ EXPECTED = {
     "software-ai-tech": {
         "questions": 886,
         "oneliners": 426,
-        "capsules": 59
+        "capsules": 60
     },
     "teaching": {
         "questions": 824,
@@ -128,7 +128,7 @@ EXPECTED = {
         "oneliners": 7,
         "capsules": 10,
         "videos": 0,
-        "listings": 191
+        "listings": 193
     }
 }
 
