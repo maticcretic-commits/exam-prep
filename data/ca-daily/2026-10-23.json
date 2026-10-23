@@ -72,6 +72,76 @@
     ],
     "answer_index": 3
    }
+  },
+  {
+   "episode": 47,
+   "video_hi": "bo7s8tEvC_I",
+   "video_hinglish": "otdgYDgZYZs",
+   "capsules": [
+    {
+     "id": "ca-ep47-s1",
+     "headline_hi": "सिरपुर UNESCO की संभावित विश्व धरोहर सूची में",
+     "headline_hinglish": "Sirpur added to UNESCO's Tentative World Heritage List",
+     "detail_hi": "छत्तीसगढ़ का ऐतिहासिक पुरातात्विक स्थल सिरपुर विश्व धरोहर की संभावित सूची में शामिल।",
+     "detail_hinglish": "Chhattisgarh ka aitihasik puratatvik sthal Sirpur Vishva Dharohar ki sambhavit suchi mein shamil.",
+     "category_hi": "संस्कृति",
+     "category_en": "National"
+    },
+    {
+     "id": "ca-ep47-s2",
+     "headline_hi": "शीतल देवी ने एक ही दिन में जीते दो स्वर्ण",
+     "headline_hinglish": "Sheetal Devi wins two gold medals in one day",
+     "detail_hi": "एशियाई पैरा खेलों में भारतीय तीरंदाज़ शीतल देवी का दोहरा स्वर्णिम कमाल।",
+     "detail_hinglish": "Asian Para Games mein Bharatiya tirandaz Sheetal Devi ka dohra swarnim kamaal.",
+     "category_hi": "खेल",
+     "category_en": "Sports"
+    },
+    {
+     "id": "ca-ep47-s3",
+     "headline_hi": "30 अक्टूबर को NVS-03 का प्रक्षेपण",
+     "headline_hinglish": "ISRO to launch NVS-03 on October 30",
+     "detail_hi": "ISRO श्रीहरिकोटा से GSLV Mk II पर NVS-03 नेविगेशन उपग्रह प्रक्षेपित करेगा।",
+     "detail_hinglish": "ISRO Sriharikota se GSLV Mk II par NVS-03 navigation upgrah prakshepit karega.",
+     "category_hi": "विज्ञान",
+     "category_en": "Science"
+    },
+    {
+     "id": "ca-ep47-s4",
+     "headline_hi": "भारत-पोलैंड रक्षा संबंध और मज़बूत",
+     "headline_hinglish": "India-Poland to expand defence ties, double trade",
+     "detail_hi": "2030 तक द्विपक्षीय व्यापार दोगुना करने का लक्ष्य; पोलैंड के PM डोनाल्ड टस्क बेंगलुरु पहुंचे।",
+     "detail_hinglish": "2030 tak dvipakshiya vyapaar doguna karne ka lakshya; Poland ke PM Donald Tusk Bengaluru pahunche.",
+     "category_hi": "अंतरराष्ट्रीय",
+     "category_en": "International"
+    },
+    {
+     "id": "ca-ep47-s5",
+     "headline_hi": "Jio का IPO दो घंटे में फुल सब्सक्राइब",
+     "headline_hinglish": "Jio Platforms' Rs 30,213-cr IPO fully subscribed in 2 hours",
+     "detail_hi": "तीस हज़ार दो सौ तेरह करोड़ रुपये का IPO बोली के दूसरे दिन दो घंटों में भर गया।",
+     "detail_hinglish": "Tees hazaar do sau terah crore rupaye ka IPO boli ke doosre din do ghanton mein bhar gaya.",
+     "category_hi": "अर्थव्यवस्था",
+     "category_en": "Economy"
+    }
+   ],
+   "mcq": {
+    "id": "ca-ep47-mcq",
+    "q_hi": "NVS-03 नेविगेशन उपग्रह 30 अक्टूबर को किस रॉकेट से प्रक्षेपित होगा?",
+    "q_hinglish": "NVS-03 navigation upgrah 30 October ko kis rocket se prakshepit hoga?",
+    "options_hi": [
+     "PSLV",
+     "SSLV",
+     "LVM-3",
+     "GSLV Mk II"
+    ],
+    "options_hinglish": [
+     "PSLV",
+     "SSLV",
+     "LVM-3",
+     "GSLV Mk II"
+    ],
+    "answer_index": 3
+   }
   }
  ]
 }
