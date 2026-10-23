@@ -1,8 +1,12 @@
-/* ExamPrep shared quiz engine v1.1.0
+/* ExamPrep shared quiz engine v1.2.0
  * ONE copy serves every exam. Fix a bug here once, not N times.
  * Consumes data/<slug>.json in the unified schema. No other input.
  * v1.1.0 adds: Vacancies tab (listings[] with deadline badges, sort, filters,
  *   plus pipeline[] and directory[]) and Videos tab (click-to-play YouTube).
+ * v1.2.0 adds: per-exam alerts banner (data.alerts[], dismissible), timed
+ *   practice mode (countdown + auto-submit), post-test review panel
+ *   (attempted/correct/accuracy, subject split, weakest topics, wrong-answer
+ *   review) and the interactive typing drill used by capsules.
  */
 (function () {
   'use strict';
@@ -20,8 +24,11 @@
     score: 0,
     listSort: 'deadline',
     listCat: 'all',
-    listQuery: ''
+    listQuery: '',
+    locked: false,
+    timer: { active: false, durMin: 15, endAt: 0 }
   };
+  var tickerStarted = false;
 
   function el(id) { return document.getElementById(id); }
   function esc(s) {
@@ -69,6 +76,24 @@
     h += '<input id="fSearch" type="search" placeholder="Search questions…" value="' + esc(S.query) + '" aria-label="Search questions">';
     h += '</div>';
 
+    var answeredCount = Object.keys(S.answered).length;
+    h += '<div class="timerbar">';
+    if (S.timer.active) {
+      h += '<span class="clock">&#9201; <span id="timerClock">' + fmtClock(timerRemaining()) + '</span></span>'
+        + '<span class="dim">timed test running — answers lock when the clock ends</span>'
+        + '<button id="tFinish" class="tbtn">Finish &amp; review</button>';
+    } else if (!S.locked) {
+      h += '<label class="dim">&#9201; Timed test <select id="tDur" aria-label="Timed test duration in minutes">'
+        + [5, 10, 15, 20, 30, 45, 60].map(function (m) { return '<option value="' + m + '"' + (m === 15 ? ' selected' : '') + '>' + m + ' min</option>'; }).join('')
+        + '</select></label><button id="tStart" class="tbtn">Start</button>';
+      if (answeredCount) h += '<button id="btnReview" class="tbtn ghost">Review test (' + answeredCount + ' answered)</button>';
+    } else {
+      h += '<span class="dim">Test submitted — answers locked.</span>'
+        + '<button id="btnReview" class="tbtn">View review</button>'
+        + '<button id="btnReset" class="tbtn ghost">Reset answers</button>';
+    }
+    h += '</div>';
+
     h += '<div class="stats"><span>Answered: <b>' + Object.keys(S.answered).length + '</b></span>'
       + '<span>Correct: <b class="good">' + S.score + '</b></span>'
       + '<span>Showing ' + (start + 1) + '–' + Math.min(start + PER_PAGE, qs.length) + ' of ' + qs.length + '</span></div>';
@@ -91,7 +116,7 @@
           else cls += ' dimmed';
         }
         h += '<button class="' + cls + '" data-qid="' + esc(q.id) + '" data-oi="' + oi + '"'
-          + (chosen !== undefined ? ' disabled' : '') + '>'
+          + ((chosen !== undefined || S.locked) ? ' disabled' : '') + '>'
           + '<span class="olet">' + LETTERS[oi] + '</span><span>' + opt + '</span></button>';
       });
       h += '</div>';
@@ -117,6 +142,12 @@
       clearTimeout(deb);
       deb = setTimeout(function () { S.query = e.target.value.trim(); S.page = 0; renderPractice(); }, 250);
     });
+    var tS = el('tStart'), tF = el('tFinish'), bR = el('btnReview'), bX = el('btnReset');
+    if (tS) tS.addEventListener('click', function () { var d = el('tDur'); startTimer(d ? parseInt(d.value, 10) || 15 : 15); });
+    if (tF) tF.addEventListener('click', function () { finishTest(false); });
+    if (bR) bR.addEventListener('click', function () { renderReview(false); });
+    if (bX) bX.addEventListener('click', function () { resetAnswers(); });
+
     var pp = el('pgPrev'), pn = el('pgNext');
     if (pp) pp.addEventListener('click', function () { if (S.page > 0) { S.page--; renderPractice(); window.scrollTo(0, 0); } });
     if (pn) pn.addEventListener('click', function () { if (S.page < pages - 1) { S.page++; renderPractice(); window.scrollTo(0, 0); } });
@@ -125,7 +156,7 @@
       btn.addEventListener('click', function () {
         var qid = btn.getAttribute('data-qid');
         var oi = parseInt(btn.getAttribute('data-oi'), 10);
-        if (S.answered[qid] !== undefined) return;
+        if (S.answered[qid] !== undefined || S.locked) return;
         S.answered[qid] = oi;
         var q = null;
         S.data.questions.forEach(function (x) { if (x.id === qid) q = x; });
@@ -133,6 +164,145 @@
         renderPractice();
       });
     });
+  }
+
+  /* ---------- alerts banner (v1.2.0) ---------- */
+  function renderAlerts(data) {
+    var box = el('alerts');
+    if (!box) return;
+    var alerts = data.alerts || [];
+    var dismissed = {};
+    try {
+      (JSON.parse(localStorage.getItem('ep-dismissed-alerts') || '[]')).forEach(function (k) { dismissed[k] = 1; });
+    } catch (e) {}
+    var h = '';
+    alerts.forEach(function (a) {
+      var key = slug + ':' + (a.id || '');
+      if (dismissed[key]) return;
+      h += '<div class="alert ' + esc(a.level || 'info') + '" role="note"><div class="alertbody">'
+        + '<b>' + esc(a.title || 'Exam alert') + '</b><div>' + (a.body || '') + '</div></div>'
+        + '<button class="ax" data-akey="' + esc(key) + '" aria-label="Dismiss alert">&times;</button></div>';
+    });
+    box.innerHTML = h;
+    Array.prototype.forEach.call(box.querySelectorAll('.ax'), function (btn) {
+      btn.addEventListener('click', function () {
+        var k = btn.getAttribute('data-akey');
+        try {
+          var arr = JSON.parse(localStorage.getItem('ep-dismissed-alerts') || '[]');
+          arr.push(k);
+          localStorage.setItem('ep-dismissed-alerts', JSON.stringify(arr));
+        } catch (e) {}
+        if (btn.parentNode) btn.parentNode.remove();
+      });
+    });
+  }
+
+  /* ---------- timed practice + review (v1.2.0) ---------- */
+  function fmtClock(sec) {
+    sec = Math.max(0, Math.ceil(sec));
+    var m = Math.floor(sec / 60), ss = sec % 60;
+    return m + ':' + (ss < 10 ? '0' : '') + ss;
+  }
+  function timerRemaining() { return (S.timer.endAt - Date.now()) / 1000; }
+  function ensureTicker() {
+    if (tickerStarted) return;
+    tickerStarted = true;
+    setInterval(function () {
+      if (!S.timer.active) return;
+      var r = timerRemaining();
+      var c = el('timerClock');
+      if (c) c.textContent = fmtClock(r);
+      if (r <= 0) finishTest(true);
+    }, 500);
+  }
+  function startTimer(mins) {
+    S.timer.active = true;
+    S.timer.durMin = mins;
+    S.timer.endAt = Date.now() + mins * 60 * 1000;
+    S.locked = false;
+    ensureTicker();
+    renderPractice();
+  }
+  function finishTest(auto) {
+    S.timer.active = false;
+    S.locked = true;
+    S.tab = 'practice';
+    Array.prototype.forEach.call(document.querySelectorAll('.tabbtn'), function (b) {
+      b.classList.toggle('active', b.getAttribute('data-tab') === S.tab);
+    });
+    renderReview(auto);
+  }
+  function resetAnswers() {
+    S.answered = {};
+    S.score = 0;
+    S.locked = false;
+    S.timer.active = false;
+    renderPractice();
+  }
+  function renderReview(auto) {
+    var byId = {};
+    S.data.questions.forEach(function (q) { byId[q.id] = q; });
+    var ids = Object.keys(S.answered).filter(function (id) { return byId[id]; });
+    var correct = 0;
+    var subj = {}, topic = {}, wrong = [];
+    ids.forEach(function (id) {
+      var q = byId[id], okAns = S.answered[id] === q.a;
+      if (okAns) correct++; else wrong.push(q);
+      var sk = q.subject || 'General';
+      subj[sk] = subj[sk] || { att: 0, cor: 0 };
+      subj[sk].att++; if (okAns) subj[sk].cor++;
+      var tk = q.topic ? sk + ' · ' + q.topic : sk;
+      topic[tk] = topic[tk] || { att: 0, cor: 0 };
+      topic[tk].att++; if (okAns) topic[tk].cor++;
+    });
+    var att = ids.length;
+    var acc = att ? Math.round(100 * correct / att) : 0;
+    var h = '';
+    if (auto) h += '<div class="alert urgent"><div class="alertbody"><b>Time up — test auto-submitted.</b><div>Your answers are locked. Review your performance below, then reset to practise again.</div></div></div>';
+    h += '<h2 class="secttl">Test review</h2>';
+    h += '<div class="revgrid">'
+      + '<div class="revstat"><b>' + att + '</b><span>Attempted</span></div>'
+      + '<div class="revstat"><b class="good">' + correct + '</b><span>Correct</span></div>'
+      + '<div class="revstat"><b class="bad">' + (att - correct) + '</b><span>Wrong</span></div>'
+      + '<div class="revstat"><b>' + acc + '%</b><span>Accuracy</span></div></div>';
+    var srows = Object.keys(subj).map(function (k) { return [k, subj[k]]; })
+      .sort(function (a, b) { return b[1].att - a[1].att; });
+    if (srows.length) {
+      h += '<h3 class="secttl">Subject-wise split</h3><table class="revtable"><thead><tr><th>Subject</th><th>Attempted</th><th>Correct</th><th>Accuracy</th></tr></thead><tbody>';
+      srows.forEach(function (r) {
+        h += '<tr><td>' + esc(r[0]) + '</td><td>' + r[1].att + '</td><td>' + r[1].cor + '</td><td>' + Math.round(100 * r[1].cor / r[1].att) + '%</td></tr>';
+      });
+      h += '</tbody></table>';
+    }
+    var weak = Object.keys(topic).map(function (k) { return [k, topic[k]]; })
+      .filter(function (r) { return r[1].att >= 2; })
+      .sort(function (a, b) { return (a[1].cor / a[1].att) - (b[1].cor / b[1].att) || b[1].att - a[1].att; })
+      .slice(0, 5);
+    if (weak.length) {
+      h += '<h3 class="secttl">Weakest topics — revise these first</h3><ul class="weaklist">';
+      weak.forEach(function (r) {
+        h += '<li><b>' + esc(r[0]) + '</b> — ' + r[1].cor + '/' + r[1].att + ' correct (' + Math.round(100 * r[1].cor / r[1].att) + '%)</li>';
+      });
+      h += '</ul>';
+    }
+    if (wrong.length) {
+      h += '<h3 class="secttl">Questions you got wrong (' + wrong.length + ')</h3>';
+      wrong.forEach(function (q) {
+        h += '<article class="card"><div class="qmeta"><span class="chip">' + esc(q.subject || '') + '</span>'
+          + (q.topic ? '<span class="chip dim">' + esc(q.topic) + '</span>' : '') + '</div>'
+          + '<div class="qtext">' + q.q + '</div>'
+          + '<div class="verdict bad">Your answer: ' + (S.answered[q.id] >= 0 ? LETTERS[S.answered[q.id]] + ' — ' + esc(q.o[S.answered[q.id]]) : 'Not answered') + '</div>'
+          + '<div class="verdict good">Correct answer: ' + LETTERS[q.a] + ' — ' + esc(q.o[q.a]) + '</div>'
+          + (q.e ? '<div class="expl"><b>Explanation:</b> ' + q.e + '</div>' : '')
+          + '</article>';
+      });
+    }
+    h += '<div class="links"><button id="rvBack" class="btn">Back to practice</button>'
+      + '<button id="rvReset" class="btn ghost">Reset answers</button></div>';
+    el('tabBody').innerHTML = h;
+    el('rvBack').addEventListener('click', function () { renderPractice(); });
+    el('rvReset').addEventListener('click', function () { resetAnswers(); });
+    window.scrollTo(0, 0);
   }
 
   /* ---------- one-liners tab ---------- */
@@ -157,6 +327,68 @@
     });
     h += '</div>';
     el('tabBody').innerHTML = h;
+    wireTypingDrills();
+  }
+
+  /* ---------- typing drill (v1.2.0, used by capsules) ---------- */
+  function wireTypingDrills() {
+    Array.prototype.forEach.call(document.querySelectorAll('.typing-drill'), function (box) {
+      if (box.getAttribute('data-wired')) return;
+      var passEl = box.querySelector('.td-passage');
+      if (!passEl) return;
+      box.setAttribute('data-wired', '1');
+      var passage = passEl.textContent.replace(/\s+/g, ' ').trim();
+      var ui = document.createElement('div');
+      ui.innerHTML = '<div class="td-controls"><label>Duration <select class="td-dur">'
+        + '<option value="120">2 min (warm-up)</option><option value="300">5 min</option>'
+        + '<option value="900" selected>15 min (DEST length)</option></select></label>'
+        + '<button type="button" class="tbtn td-start">Start drill</button>'
+        + '<span class="clock td-clock"></span></div>'
+        + '<textarea class="td-ta" rows="6" placeholder="Click Start, then type the passage above exactly as shown..." disabled></textarea>'
+        + '<div class="td-stats dim">Gross WPM: <b class="td-gw">0</b> · Net WPM: <b class="td-nw">0</b> · Accuracy: <b class="td-ac">—</b> · Errors: <b class="td-er">0</b></div>'
+        + '<div class="td-result"></div>';
+      box.appendChild(ui);
+      var ta = ui.querySelector('.td-ta'), clock = ui.querySelector('.td-clock');
+      var gw = ui.querySelector('.td-gw'), nw = ui.querySelector('.td-nw'),
+          ac = ui.querySelector('.td-ac'), er = ui.querySelector('.td-er'),
+          res = ui.querySelector('.td-result');
+      var startAt = 0, durSec = 900, running = false, timer = null;
+      function stats() {
+        var typed = ta.value, correct = 0, i;
+        for (i = 0; i < typed.length; i++) { if (i < passage.length && typed[i] === passage[i]) correct++; }
+        var errors = typed.length - correct;
+        var mins = Math.max((Date.now() - startAt) / 60000, 0.01);
+        gw.textContent = Math.round((typed.length / 5) / mins);
+        nw.textContent = Math.round((correct / 5) / mins);
+        ac.textContent = typed.length ? Math.round(100 * correct / typed.length) + '%' : '—';
+        er.textContent = errors;
+        return { typed: typed.length, correct: correct, errors: errors };
+      }
+      function finish() {
+        if (!running) return;
+        running = false;
+        if (timer) clearInterval(timer);
+        ta.disabled = true;
+        var st = stats();
+        clock.textContent = 'Done';
+        res.innerHTML = '<div class="alert info"><div class="alertbody"><b>Drill complete.</b><div>You typed <b>' + st.typed
+          + ' key depressions</b> with <b>' + st.errors + ' errors</b>. SSC DEST asks for about 2,000 key depressions in 15 minutes with errors inside the permitted limit — rebuild speed only after accuracy crosses 95%.</div></div></div>';
+      }
+      ui.querySelector('.td-start').addEventListener('click', function () {
+        durSec = parseInt(ui.querySelector('.td-dur').value, 10) || 900;
+        ta.value = ''; ta.disabled = false; ta.focus();
+        res.innerHTML = ''; startAt = Date.now(); running = true;
+        if (timer) clearInterval(timer);
+        timer = setInterval(function () {
+          var left = durSec - (Date.now() - startAt) / 1000;
+          clock.textContent = fmtClock(left);
+          stats();
+          if (left <= 0) finish();
+        }, 250);
+        clock.textContent = fmtClock(durSec);
+      });
+      ta.addEventListener('input', function () { if (running) stats(); });
+    });
   }
 
   /* ---------- vacancies tab (v1.1.0) ---------- */
@@ -378,6 +610,7 @@
 
   function boot(data) {
     S.data = data;
+    renderAlerts(data);
     document.title = data.title + ' — ExamPrep';
     var ttl = el('examTitle'); if (ttl) ttl.textContent = data.title;
 
