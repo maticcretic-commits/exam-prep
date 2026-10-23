@@ -212,6 +212,76 @@
     ],
     "answer_index": 0
    }
+  },
+  {
+   "episode": 49,
+   "video_hi": "871VGpjPVFI",
+   "video_hinglish": null,
+   "capsules": [
+    {
+     "id": "ca-ep49-s1",
+     "headline_hi": "मेरठ मेट्रो + नमो भारत: ₹12,930 करोड़ की सौगात",
+     "headline_hinglish": "Meerut Metro + Namo Bharat: 12,930 crore gift",
+     "detail_hi": "82 km का दिल्ली–मेरठ कॉरिडोर; सफ़र एक घंटे से कम; मेरठ मेट्रो 21 km, 12 स्टेशन — देश की सबसे तेज़।",
+     "detail_hinglish": "82-km Delhi–Meerut corridor; safar ek ghante se kam; Meerut Metro 21 km, 12 station — desh ki sabse tez.",
+     "category_hi": "राष्ट्रीय",
+     "category_en": "National"
+    },
+    {
+     "id": "ca-ep49-s2",
+     "headline_hi": "ISI से जुड़े आतंकी मॉड्यूल पर शिकंजा",
+     "headline_hinglish": "ISI-linked terror module busted",
+     "detail_hi": "सुरक्षा एजेंसियों ने 8 संदिग्ध पकड़े; दिल्ली में चौकसी बढ़ाई गई।",
+     "detail_hinglish": "Suraksha agencies ne 8 sandigdh pakde; Delhi mein chauksi badhai gayi.",
+     "category_hi": "राष्ट्रीय सुरक्षा",
+     "category_en": "National"
+    },
+    {
+     "id": "ca-ep49-s3",
+     "headline_hi": "अरुणाचल में भारत–चीन आमने-सामने जारी",
+     "headline_hinglish": "India–China face-offs continue in Arunachal",
+     "detail_hi": "ITBP प्रमुख ने कहा — LAC पर तनाव जारी; सीमा पर कड़ी निगरानी रखी जा रही है।",
+     "detail_hinglish": "ITBP chief ne kaha — LAC par tanav jaari; seema par kadi nigrani rakhi ja rahi hai.",
+     "category_hi": "अंतरराष्ट्रीय",
+     "category_en": "International"
+    },
+    {
+     "id": "ca-ep49-s4",
+     "headline_hi": "4 राज्यों में 28 MLC सीटों पर मतदान",
+     "headline_hinglish": "Voting for 28 MLC seats in 4 states",
+     "detail_hi": "आज मतदान; अनंत सिंह बनाम नीरज कुमार की टक्कर पर सबकी नज़र।",
+     "detail_hinglish": "Aaj matdan; Anant Singh banam Neeraj Kumar ki takkar par sabki nazar.",
+     "category_hi": "राजनीति",
+     "category_en": "Polity"
+    },
+    {
+     "id": "ca-ep49-s5",
+     "headline_hi": "रुबियो–अंबानी मुलाकात: वेनेज़ुएला तेल सौदा केंद्र में",
+     "headline_hinglish": "Rubio–Ambani meet: Venezuela oil deal in focus",
+     "detail_hi": "गुजरात में अमेरिकी विदेश मंत्री और मुकेश अंबानी की बैठक; ऊर्जा सौदे पर चर्चा।",
+     "detail_hinglish": "Gujarat mein US Secretary of State aur Mukesh Ambani ki baithak; energy deal par charcha.",
+     "category_hi": "अर्थव्यवस्था",
+     "category_en": "Economy"
+    }
+   ],
+   "mcq": {
+    "id": "ca-ep49-mcq",
+    "q_hi": "दिल्ली–मेरठ नमो भारत कॉरिडोर की लंबाई कितनी है?",
+    "q_hinglish": "Delhi–Meerut Namo Bharat corridor ki lambai kitni hai?",
+    "options_hi": [
+     "इक्कीस किलोमीटर",
+     "चौंसठ किलोमीटर",
+     "बयासी किलोमीटर",
+     "एक सौ बीस किलोमीटर"
+    ],
+    "options_hinglish": [
+     "21 km",
+     "64 km",
+     "82 km",
+     "120 km"
+    ],
+    "answer_index": 2
+   }
   }
  ]
 }
