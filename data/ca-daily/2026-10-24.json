@@ -1,0 +1,77 @@
+{
+ "date": "2026-10-24",
+ "date_hi": "24 अक्टूबर 2026",
+ "date_en": "24 October 2026",
+ "episodes": [
+  {
+   "episode": 50,
+   "video_hi": "ERfPED-DR2o",
+   "video_hinglish": "j4oagR9PvBA",
+   "capsules": [
+    {
+     "id": "ca-ep50-s1",
+     "headline_hi": "जियो IPO: 9 गुना भरा, ₹4 लाख करोड़ की मांग",
+     "headline_hinglish": "Jio IPO: 9x subscribed, Rs 4 lakh crore demand",
+     "detail_hi": "तीसरे दिन कुल 9 गुना सब्सक्रिप्शन; QIB हिस्सा 20 गुना से ज़्यादा। ₹4 लाख करोड़ से अधिक की मांग।",
+     "detail_hinglish": "Day 3: total 9x subscription; QIB portion over 20x. Demand of more than Rs 4 lakh crore.",
+     "category_hi": "अर्थव्यवस्था",
+     "category_en": "Economy"
+    },
+    {
+     "id": "ca-ep50-s2",
+     "headline_hi": "IndiaAI फैलोशिप: छात्रों को ₹2 लाख तक",
+     "headline_hinglish": "IndiaAI fellowship: up to Rs 2 lakh for students",
+     "detail_hi": "ग्रेजुएट छात्रों को ₹1 लाख तक, पोस्टग्रेजुएट छात्रों को ₹2 लाख तक की फैलोशिप सहायता।",
+     "detail_hinglish": "Graduate students get up to Rs 1 lakh; postgraduate students get up to Rs 2 lakh as fellowship support.",
+     "category_hi": "शिक्षा",
+     "category_en": "Education"
+    },
+    {
+     "id": "ca-ep50-s3",
+     "headline_hi": "PMI 56.7: चार महीने की सबसे तेज़ बढ़त",
+     "headline_hinglish": "PMI 56.7: fastest growth in four months",
+     "detail_hi": "HSBC फ्लैश कम्पोज़िट PMI अक्टूबर में 56.7 — सेवाओं के दम पर बढ़त; भर्ती लगभग ठहरी।",
+     "detail_hinglish": "HSBC flash composite PMI at 56.7 in October — services-led pickup; hiring almost stalled.",
+     "category_hi": "अर्थव्यवस्था",
+     "category_en": "Economy"
+    },
+    {
+     "id": "ca-ep50-s4",
+     "headline_hi": "भारत–न्यूज़ीलैंड दूसरा T20 आज",
+     "headline_hinglish": "India vs New Zealand 2nd T20 today",
+     "detail_hi": "क्राइस्टचर्च में दूसरा टी-20; भारत सीरीज़ में 1-0 आगे — पहले मैच में 226 रन का रिकॉर्ड चेज़।",
+     "detail_hinglish": "2nd T20 in Christchurch; India lead the series 1-0 — a record 226-run chase in the opener.",
+     "category_hi": "खेल",
+     "category_en": "Sports"
+    },
+    {
+     "id": "ca-ep50-s5",
+     "headline_hi": "सिरपुर UNESCO की अस्थायी सूची में",
+     "headline_hinglish": "Sirpur enters UNESCO Tentative List",
+     "detail_hi": "छत्तीसगढ़ का प्राचीन बौद्ध-हिंदू स्थल सिरपुर Tentative World Heritage List में शामिल।",
+     "detail_hinglish": "Chhattisgarh's ancient Buddhist-Hindu site Sirpur joins the Tentative World Heritage List.",
+     "category_hi": "संस्कृति",
+     "category_en": "National"
+    }
+   ],
+   "mcq": {
+    "id": "ca-ep50-mcq",
+    "q_hi": "IndiaAI फैलोशिप में पोस्टग्रेजुएट छात्रों को अधिकतम कितनी सहायता मिलेगी?",
+    "q_hinglish": "IndiaAI fellowship mein postgraduate chhatron ko maximum kitni sahayata milegi?",
+    "options_hi": [
+     "₹50 हज़ार",
+     "₹1 लाख",
+     "₹2 लाख",
+     "₹5 लाख"
+    ],
+    "options_hinglish": [
+     "Rs 50 hazaar",
+     "Rs 1 lakh",
+     "Rs 2 lakh",
+     "Rs 5 lakh"
+    ],
+    "answer_index": 2
+   }
+  }
+ ]
+}
