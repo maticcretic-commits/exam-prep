@@ -1,5 +1,5 @@
 {
-  "engine_version": "1.1.0",
+  "engine_version": "1.2.0",
   "exams": [
     {
       "color": "#1a73e8",
@@ -134,8 +134,8 @@
       "short": "Current Affairs",
       "title": "Current Affairs",
       "color": "#f9a825",
-      "description": "Daily current affairs MCQs — Economy, Polity, Science, Sports, Awards, Environment and more, each with a crisp explanation.",
-      "keywords": "current affairs 2026, daily current affairs quiz, CA MCQs, competitive exam current affairs"
+      "description": "Daily current affairs MCQs for the 2026–27 exam season — Economy, Polity, Science, Sports, Awards, Environment and more, each with a crisp explanation.",
+      "keywords": "current affairs 2026-27, daily current affairs quiz, CA MCQs, competitive exam current affairs"
     },
     {
       "slug": "software-ai-tech",
@@ -172,5 +172,5 @@
   ],
   "platform": "ExamPrep",
   "tagline": "One platform. Every exam. Practice that counts.",
-  "updated": "2026-10-12"
+  "updated": "2026-10-23"
 }
