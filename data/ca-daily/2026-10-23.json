@@ -142,6 +142,76 @@
     ],
     "answer_index": 3
    }
+  },
+  {
+   "episode": 48,
+   "video_hi": null,
+   "video_hinglish": null,
+   "capsules": [
+    {
+     "id": "ca-ep48-s1",
+     "headline_hi": "पैरा खेलों का चौथा दिन भारत के नाम: 26 पदक",
+     "headline_hinglish": "Asian Para Games Day 4: India wins 26 medals",
+     "detail_hi": "चौथे दिन 26 पदक (7 स्वर्ण); कुल 88 पदकों के साथ भारत चौथे स्थान पर।",
+     "detail_hinglish": "Day 4 mein 26 padak (7 swarn); kul 88 padakon ke saath Bharat chauthe sthan par.",
+     "category_hi": "खेल",
+     "category_en": "Sports"
+    },
+    {
+     "id": "ca-ep48-s2",
+     "headline_hi": "यमुना सफाई: 8,941 करोड़ की 43 परियोजनाएं",
+     "headline_hinglish": "Yamuna rejuvenation: 43 projects worth Rs 8,941 crore",
+     "detail_hi": "10 का उद्घाटन, 33 की नींव; अमित शाह ने कहा — मई 2029 से पहले यमुना साफ़।",
+     "detail_hinglish": "10 ka udghatan, 33 ki neev; Amit Shah ne kaha — May 2029 se pehle Yamuna saaf.",
+     "category_hi": "राष्ट्रीय",
+     "category_en": "National"
+    },
+    {
+     "id": "ca-ep48-s3",
+     "headline_hi": "RBI का सख़्त रुख़: 'calibrated tightening'",
+     "headline_hinglish": "RBI shifts to 'calibrated tightening' stance",
+     "detail_hi": "रेपो दर बढ़कर 5.5%; रुख़ पर 4-2 मतदान, वृद्धि पर सर्वसम्मति।",
+     "detail_hinglish": "Repo rate badhkar 5.5%; rukh par 4-2 matdan, vriddhi par sarvasammati.",
+     "category_hi": "अर्थव्यवस्था",
+     "category_en": "Economy"
+    },
+    {
+     "id": "ca-ep48-s4",
+     "headline_hi": "12वां BRICS संसदीय मंच दिल्ली में",
+     "headline_hinglish": "12th BRICS Parliamentary Forum in New Delhi",
+     "detail_hi": "26-27 अक्टूबर को संविधान सदन में; PM मोदी शामिल होंगे।",
+     "detail_hinglish": "26-27 October ko Samvidhan Sadan mein; PM Modi shamil honge.",
+     "category_hi": "अंतरराष्ट्रीय",
+     "category_en": "International"
+    },
+    {
+     "id": "ca-ep48-s5",
+     "headline_hi": "NSDC का सोशल स्टॉक एक्सचेंज में पदार्पण",
+     "headline_hinglish": "NSDC debuts on NSE Social Stock Exchange",
+     "detail_hi": "पहला ZCZP जारी; नाबार्ड ने 4 करोड़ लगाए — MP के 600 OBC युवाओं को विदेश में रोज़गार।",
+     "detail_hinglish": "Pehla ZCZP jaari; NABARD ne 4 crore lagaye — MP ke 600 OBC yuvaon ko videsh mein rozgaar.",
+     "category_hi": "अर्थव्यवस्था",
+     "category_en": "Economy"
+    }
+   ],
+   "mcq": {
+    "id": "ca-ep48-mcq",
+    "q_hi": "12वां BRICS संसदीय मंच 2026 में कहाँ आयोजित होगा?",
+    "q_hinglish": "12th BRICS Parliamentary Forum 2026 mein kahan aayojit hoga?",
+    "options_hi": [
+     "नई दिल्ली",
+     "केप टाउन",
+     "मॉस्को",
+     "बीजिंग"
+    ],
+    "options_hinglish": [
+     "New Delhi",
+     "Cape Town",
+     "Moscow",
+     "Beijing"
+    ],
+    "answer_index": 0
+   }
   }
  ]
 }
