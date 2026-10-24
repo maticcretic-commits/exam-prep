@@ -72,6 +72,76 @@
     ],
     "answer_index": 2
    }
+  },
+  {
+   "episode": 53,
+   "video_hi": "NiaeGzyJVA4",
+   "video_hinglish": "NiaeGzyJVA4",
+   "capsules": [
+    {
+     "id": "ca-ep53-s1",
+     "headline_hi": "Defence Secretary ko mila ek saal ka extension",
+     "headline_hinglish": "Defence Secretary ko mila ek saal ka extension",
+     "detail_hi": "Rajesh Kumar Singh ka karyakal 31 October 2027 tak badha — 1989 batch Kerala cadre IAS adhikari, DRDO sudhaar ke liye jaane jaate hain.",
+     "detail_hinglish": "Rajesh Kumar Singh ka karyakal 31 October 2027 tak badha — 1989 batch Kerala cadre IAS adhikari, DRDO sudhaar ke liye jaane jaate hain.",
+     "category_hi": "Defence",
+     "category_en": "Defence"
+    },
+    {
+     "id": "ca-ep53-s2",
+     "headline_hi": "11 crore kisanon ko mila Farmer ID cover",
+     "headline_hinglish": "11 crore kisanon ko mila Farmer ID cover",
+     "detail_hi": "10.997 crore Farmer IDs ban chuke hain — is digital pehchaan se kisanon ko suraksha cover aur sarkari yojanaon tak aasaan pahunch milegi.",
+     "detail_hinglish": "10.997 crore Farmer IDs ban chuke hain — is digital pehchaan se kisanon ko suraksha cover aur sarkari yojanaon tak aasaan pahunch milegi.",
+     "category_hi": "Agriculture",
+     "category_en": "Agriculture"
+    },
+    {
+     "id": "ca-ep53-s3",
+     "headline_hi": "Buzurgon ke liye 764 Senior Citizen Homes",
+     "headline_hinglish": "Buzurgon ke liye 764 Senior Citizen Homes",
+     "detail_hi": "Atal Vayo Abhyuday Yojana ke tahat 764 Senior Citizen Homes, 13 Continuous Care Homes aur 17 Mobile Medicare Units ko madad mil rahi hai.",
+     "detail_hinglish": "Atal Vayo Abhyuday Yojana ke tahat 764 Senior Citizen Homes, 13 Continuous Care Homes aur 17 Mobile Medicare Units ko madad mil rahi hai.",
+     "category_hi": "Welfare",
+     "category_en": "National"
+    },
+    {
+     "id": "ca-ep53-s4",
+     "headline_hi": "Machhli utpadan: 30 million tonne ka lakshya",
+     "headline_hinglish": "Machhli utpadan: 30 million tonne ka lakshya",
+     "detail_hi": "Bhopal mein chhote paimaane ki inland fisheries ke liye National Plan of Action ka phase shuru hua — FAO framework ke tahat taiyaar plan.",
+     "detail_hinglish": "Bhopal mein chhote paimaane ki inland fisheries ke liye National Plan of Action ka phase shuru hua — FAO framework ke tahat taiyaar plan.",
+     "category_hi": "Economy",
+     "category_en": "Economy"
+    },
+    {
+     "id": "ca-ep53-s5",
+     "headline_hi": "Asian Para Games: javelin mein clean sweep",
+     "headline_hinglish": "Asian Para Games: javelin mein clean sweep",
+     "detail_hi": "Bharatiya athletes ne men's javelin throw mein teeno medal jeete — para sports mein Bharat ki badhti taqat ka ek aur praman.",
+     "detail_hinglish": "Bharatiya athletes ne men's javelin throw mein teeno medal jeete — para sports mein Bharat ki badhti taqat ka ek aur praman.",
+     "category_hi": "Sports",
+     "category_en": "Sports"
+    }
+   ],
+   "mcq": {
+    "id": "ca-ep53-mcq",
+    "q_hi": "Bharat ne agle paanch saal mein machhli utpadan ka kya lakshya rakha hai?",
+    "q_hinglish": "Bharat ne agle paanch saal mein machhli utpadan ka kya lakshya rakha hai?",
+    "options_hi": [
+     "20 million tonne",
+     "30 million tonne",
+     "40 million tonne",
+     "25 million tonne"
+    ],
+    "options_hinglish": [
+     "20 million tonne",
+     "30 million tonne",
+     "40 million tonne",
+     "25 million tonne"
+    ],
+    "answer_index": 1
+   }
   }
  ]
 }
