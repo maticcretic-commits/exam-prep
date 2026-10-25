@@ -74,6 +74,146 @@
    }
   },
   {
+   "episode": 51,
+   "video_hi": "GRlHls1QKho",
+   "video_hinglish": "GRlHls1QKho",
+   "capsules": [
+    {
+     "id": "ca-ep51-s1",
+     "headline_hi": "OpenAI ab sikhaayega 1.7 crore sarkari karmchariyon ko AI",
+     "headline_hinglish": "OpenAI ab sikhaayega 1.7 crore sarkari karmchariyon ko AI",
+     "detail_hi": "21 October ko Karmayogi Bharat aur OpenAI ne MoU sign kiya. OpenAI Academy ke courses iGOT Karmayogi platform par milenge — 1.7 crore se zyada sarkari karmchari AI skills seekh sakenge. UPSC angle: Mission Karmayogi, DoPT.",
+     "detail_hinglish": "21 October ko Karmayogi Bharat aur OpenAI ne MoU sign kiya. OpenAI Academy ke courses iGOT Karmayogi platform par milenge — 1.7 crore se zyada sarkari karmchari AI skills seekh sakenge. UPSC angle: Mission Karmayogi, DoPT.",
+     "category_hi": "Governance",
+     "category_en": "National"
+    },
+    {
+     "id": "ca-ep51-s2",
+     "headline_hi": "eMudhra certificate leak: MeitY ne banayi special jaanch team",
+     "headline_hinglish": "eMudhra certificate leak: MeitY ne banayi special jaanch team",
+     "detail_hi": "CERT-In ki warning ke baad MeitY ne 22 October ko special investigation team banayi. Aarop hai ki kuch private cryptographic keys kamzor randomness ke saath generate ki gayin thin. Digital signature ki suraksha par bada sawal.",
+     "detail_hinglish": "CERT-In ki warning ke baad MeitY ne 22 October ko special investigation team banayi. Aarop hai ki kuch private cryptographic keys kamzor randomness ke saath generate ki gayin thin. Digital signature ki suraksha par bada sawal.",
+     "category_hi": "Security",
+     "category_en": "National"
+    },
+    {
+     "id": "ca-ep51-s3",
+     "headline_hi": "AUSTRAHIND 2026: Bharat-Australia ka 5th sainya abhyaas shuru",
+     "headline_hinglish": "AUSTRAHIND 2026: Bharat-Australia ka 5th sainya abhyaas shuru",
+     "detail_hi": "Thiruvananthapuram ke Foreign Training Node mein 5th edition shuru hua. Dono deshon ki senaon ke beech interoperability badhegi — Indo-Pacific suraksha ke liye mahatvapurn abhyaas.",
+     "detail_hinglish": "Thiruvananthapuram ke Foreign Training Node mein 5th edition shuru hua. Dono deshon ki senaon ke beech interoperability badhegi — Indo-Pacific suraksha ke liye mahatvapurn abhyaas.",
+     "category_hi": "Defence",
+     "category_en": "Defence"
+    },
+    {
+     "id": "ca-ep51-s4",
+     "headline_hi": "RBI ne lagaya 20% Foreign Exchange Risk Reserve",
+     "headline_hinglish": "RBI ne lagaya 20% Foreign Exchange Risk Reserve",
+     "detail_hi": "12 October ke circular se banks ko apne rupee derivative contracts par 20% reserve RBI ke paas cash mein rakhna hoga. Girti keemat wale rupaye ko thaamne ka kadam — Banking exams ke liye high-priority topic.",
+     "detail_hinglish": "12 October ke circular se banks ko apne rupee derivative contracts par 20% reserve RBI ke paas cash mein rakhna hoga. Girti keemat wale rupaye ko thaamne ka kadam — Banking exams ke liye high-priority topic.",
+     "category_hi": "Economy",
+     "category_en": "Economy"
+    },
+    {
+     "id": "ca-ep51-s5",
+     "headline_hi": "Dushanbe SCO meeting: Raksha Mantri ne kiya Bharat ka pratinidhitva",
+     "headline_hinglish": "Dushanbe SCO meeting: Raksha Mantri ne kiya Bharat ka pratinidhitva",
+     "detail_hi": "Tajikistan ke Dushanbe mein 25th Council of Heads of Government meeting hui. Raksha Mantri Rajnath Singh ne Bharat ka pratinidhitva kiya. Regional cooperation aur security par charcha.",
+     "detail_hinglish": "Tajikistan ke Dushanbe mein 25th Council of Heads of Government meeting hui. Raksha Mantri Rajnath Singh ne Bharat ka pratinidhitva kiya. Regional cooperation aur security par charcha.",
+     "category_hi": "International",
+     "category_en": "National"
+    }
+   ],
+   "mcq": {
+    "id": "ca-ep51-mcq",
+    "q_hi": "Karmayogi Bharat ne AI training ke liye kis company ke saath MoU sign kiya?",
+    "q_hinglish": "Karmayogi Bharat ne AI training ke liye kis company ke saath MoU sign kiya?",
+    "options_hi": [
+     "Google DeepMind",
+     "Microsoft",
+     "Anthropic",
+     "OpenAI"
+    ],
+    "options_hinglish": [
+     "Google DeepMind",
+     "Microsoft",
+     "Anthropic",
+     "OpenAI"
+    ],
+    "answer_index": 3
+   }
+  },
+  {
+   "episode": 52,
+   "video_hi": null,
+   "video_hinglish": null,
+   "capsules": [
+    {
+     "id": "ca-ep52-s1",
+     "headline_hi": "NMMS app ka naya upgrade: ab nakli haziri par rok",
+     "headline_hinglish": "NMMS app ka naya upgrade: ab nakli haziri par rok",
+     "detail_hi": "23 October ko upgraded NMMS app launch hua — IIT Madras ke saath bana, AI face verification, liveness detection aur offline attendance ke saath.",
+     "detail_hinglish": "23 October ko upgraded NMMS app launch hua — IIT Madras ke saath bana, AI face verification, liveness detection aur offline attendance ke saath.",
+     "category_hi": "Governance",
+     "category_en": "National"
+    },
+    {
+     "id": "ca-ep52-s2",
+     "headline_hi": "Army degi 600 Civil Defence trainers ko training",
+     "headline_hinglish": "Army degi 600 Civil Defence trainers ko training",
+     "detail_hi": "12 rajyon ke 600 master trainers ko 3 din ki training milegi — har trainer phir 100 volunteers ko train karega, kul 60,000 volunteers taiyaar honge.",
+     "detail_hinglish": "12 rajyon ke 600 master trainers ko 3 din ki training milegi — har trainer phir 100 volunteers ko train karega, kul 60,000 volunteers taiyaar honge.",
+     "category_hi": "Defence",
+     "category_en": "Defence"
+    },
+    {
+     "id": "ca-ep52-s3",
+     "headline_hi": "Sagarmala Finance: Bharat ki pehli maritime NBFC",
+     "headline_hinglish": "Sagarmala Finance: Bharat ki pehli maritime NBFC",
+     "detail_hi": "30 September tak SMFCL ne 11,563 crore sanction aur 5,107 crore disburse kiye — FY2031 tak 60,205 crore ka lakshya rakha gaya hai.",
+     "detail_hinglish": "30 September tak SMFCL ne 11,563 crore sanction aur 5,107 crore disburse kiye — FY2031 tak 60,205 crore ka lakshya rakha gaya hai.",
+     "category_hi": "Economy",
+     "category_en": "Economy"
+    },
+    {
+     "id": "ca-ep52-s4",
+     "headline_hi": "Bharat-UAE vyapar: 2030 tak 200 billion dollar ka lakshya",
+     "headline_hinglish": "Bharat-UAE vyapar: 2030 tak 200 billion dollar ka lakshya",
+     "detail_hi": "Non-oil trade 2025 mein 76 billion dollar se zyada raha — dono desh 2030 tak 200 billion dollar ke vyapar ka lakshya lekar chal rahe hain.",
+     "detail_hinglish": "Non-oil trade 2025 mein 76 billion dollar se zyada raha — dono desh 2030 tak 200 billion dollar ke vyapar ka lakshya lekar chal rahe hain.",
+     "category_hi": "International",
+     "category_en": "National"
+    },
+    {
+     "id": "ca-ep52-s5",
+     "headline_hi": "BPCL ka Q2 munafa 21% gira, 4,863 crore raha",
+     "headline_hinglish": "BPCL ka Q2 munafa 21% gira, 4,863 crore raha",
+     "detail_hi": "BPCL ka Q2 munafa 21% girkar 4,863 crore ho gaya — zyada crude keemat ne natijon par dabaav banaya, aur share bazaar bhi kamzor raha.",
+     "detail_hinglish": "BPCL ka Q2 munafa 21% girkar 4,863 crore ho gaya — zyada crude keemat ne natijon par dabaav banaya, aur share bazaar bhi kamzor raha.",
+     "category_hi": "Business",
+     "category_en": "National"
+    }
+   ],
+   "mcq": {
+    "id": "ca-ep52-mcq",
+    "q_hi": "Bharat ki pehli dedicated maritime NBFC kaun si hai?",
+    "q_hinglish": "Bharat ki pehli dedicated maritime NBFC kaun si hai?",
+    "options_hi": [
+     "Maritime Development Fund",
+     "Sagarmala Finance Corporation",
+     "Shipping Corporation of India",
+     "National Maritime Board"
+    ],
+    "options_hinglish": [
+     "Maritime Development Fund",
+     "Sagarmala Finance Corporation",
+     "Shipping Corporation of India",
+     "National Maritime Board"
+    ],
+    "answer_index": 1
+   }
+  },
+  {
    "episode": 53,
    "video_hi": "NiaeGzyJVA4",
    "video_hinglish": "NiaeGzyJVA4",
