@@ -1,0 +1,77 @@
+{
+ "date": "2026-10-25",
+ "date_hi": "25 October 2026",
+ "date_en": "25 October 2026",
+ "episodes": [
+  {
+   "episode": 54,
+   "video_hi": "K0jQA9S-dTc",
+   "video_hinglish": "K0jQA9S-dTc",
+   "capsules": [
+    {
+     "id": "ca-ep54-s1",
+     "headline_hi": "Bangal ki Khadi mein cyclone ka khatra badha",
+     "headline_hinglish": "Bangal ki Khadi mein cyclone ka khatra badha",
+     "detail_hi": "Depression tezi se cyclonic storm ban raha hai — 27-28 October ko Coastal Andhra mein bahut bhaari baarish ki chetavni jaari.",
+     "detail_hinglish": "Depression tezi se cyclonic storm ban raha hai — 27-28 October ko Coastal Andhra mein bahut bhaari baarish ki chetavni jaari.",
+     "category_hi": "Environment",
+     "category_en": "Environment"
+    },
+    {
+     "id": "ca-ep54-s2",
+     "headline_hi": "Operation Trident: 38 jagahon par NCB ki chhapemari",
+     "headline_hinglish": "Operation Trident: 38 jagahon par NCB ki chhapemari",
+     "detail_hi": "Assam, Mizoram aur Manipur mein 18 giraftaar — 1,424 bank khaate freeze, 100 crore ka hawala network pakda gaya.",
+     "detail_hinglish": "Assam, Mizoram aur Manipur mein 18 giraftaar — 1,424 bank khaate freeze, 100 crore ka hawala network pakda gaya.",
+     "category_hi": "Security",
+     "category_en": "National"
+    },
+    {
+     "id": "ca-ep54-s3",
+     "headline_hi": "Bhubaneswar mein RBI ka Data Centre khula",
+     "headline_hinglish": "Bhubaneswar mein RBI ka Data Centre khula",
+     "detail_hi": "PM Modi ne 169 crore ka Data Centre aur Cybersecurity Training Institute udghaatit kiya — 18.55 acre campus, Jatni.",
+     "detail_hinglish": "PM Modi ne 169 crore ka Data Centre aur Cybersecurity Training Institute udghaatit kiya — 18.55 acre campus, Jatni.",
+     "category_hi": "Economy",
+     "category_en": "Economy"
+    },
+    {
+     "id": "ca-ep54-s4",
+     "headline_hi": "Navy ka swadeshi AIP system aage badha",
+     "headline_hinglish": "Navy ka swadeshi AIP system aage badha",
+     "detail_hi": "DRDO ke AIP system ka Setting to Work Phase-2 Hazira mein shuru — submarines ab zyada der paani ke neeche reh sakengi.",
+     "detail_hinglish": "DRDO ke AIP system ka Setting to Work Phase-2 Hazira mein shuru — submarines ab zyada der paani ke neeche reh sakengi.",
+     "category_hi": "Defence",
+     "category_en": "Defence"
+    },
+    {
+     "id": "ca-ep54-s5",
+     "headline_hi": "Mann Ki Baat ke 12 saal poore",
+     "headline_hinglish": "Mann Ki Baat ke 12 saal poore",
+     "detail_hi": "PM Modi ne Vocal for Local ki apeel dohrayi — organic farming, digital healthcare aur scientific research ki taareef ki.",
+     "detail_hinglish": "PM Modi ne Vocal for Local ki apeel dohrayi — organic farming, digital healthcare aur scientific research ki taareef ki.",
+     "category_hi": "Governance",
+     "category_en": "National"
+    }
+   ],
+   "mcq": {
+    "id": "ca-ep54-mcq",
+    "q_hi": "Operation Trident ke tahat NCB ne kitni jagahon par chhapemari ki?",
+    "q_hinglish": "Operation Trident ke tahat NCB ne kitni jagahon par chhapemari ki?",
+    "options_hi": [
+     "28 sthan",
+     "32 sthan",
+     "38 sthan",
+     "44 sthan"
+    ],
+    "options_hinglish": [
+     "28 sthan",
+     "32 sthan",
+     "38 sthan",
+     "44 sthan"
+    ],
+    "answer_index": 2
+   }
+  }
+ ]
+}
