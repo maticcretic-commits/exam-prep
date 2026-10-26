@@ -1,0 +1,77 @@
+{
+ "date": "2026-10-26",
+ "date_hi": "26 October 2026",
+ "date_en": "26 October 2026",
+ "episodes": [
+  {
+   "episode": 55,
+   "video_hi": "uPErjniXuUI",
+   "video_hinglish": "uPErjniXuUI",
+   "capsules": [
+    {
+     "id": "ca-ep55-s1",
+     "headline_hi": "2029 tak ISRO ke chaar launch pads",
+     "headline_hinglish": "2029 tak ISRO ke chaar launch pads",
+     "detail_hi": "ISRO chief V Narayanan ne kaha — 2029 tak desh mein chaar launch pads taiyaar honge.",
+     "detail_hinglish": "ISRO chief V Narayanan ne kaha — 2029 tak desh mein chaar launch pads taiyaar honge.",
+     "category_hi": "Science",
+     "category_en": "National"
+    },
+    {
+     "id": "ca-ep55-s2",
+     "headline_hi": "Ashoke Sen ko Oskar Klein Medal",
+     "headline_hinglish": "Ashoke Sen ko Oskar Klein Medal",
+     "detail_hi": "Ashoke Sen yeh pratishthit medal paane wale pehle Bharatiya bhautik vigyani bane.",
+     "detail_hinglish": "Ashoke Sen yeh pratishthit medal paane wale pehle Bharatiya bhautik vigyani bane.",
+     "category_hi": "Awards",
+     "category_en": "Awards"
+    },
+    {
+     "id": "ca-ep55-s3",
+     "headline_hi": "Defence Secretary ka karyakal ek saal badha",
+     "headline_hinglish": "Defence Secretary ka karyakal ek saal badha",
+     "detail_hi": "Rajesh Kumar Singh ko Defence Secretary ke pad par ek saal ka extension diya gaya.",
+     "detail_hinglish": "Rajesh Kumar Singh ko Defence Secretary ke pad par ek saal ka extension diya gaya.",
+     "category_hi": "Defence",
+     "category_en": "Defence"
+    },
+    {
+     "id": "ca-ep55-s4",
+     "headline_hi": "Zimbabwe par mahila team ki badi jeet",
+     "headline_hinglish": "Zimbabwe par mahila team ki badi jeet",
+     "detail_hi": "Doosre ODI mein Bharat ne 121 run se jeetkar teen-match series mein 2-0 ki ajay badhat le li.",
+     "detail_hinglish": "Doosre ODI mein Bharat ne 121 run se jeetkar teen-match series mein 2-0 ki ajay badhat le li.",
+     "category_hi": "Sports",
+     "category_en": "Sports"
+    },
+    {
+     "id": "ca-ep55-s5",
+     "headline_hi": "OSSSC mein 7,268 padon par bharti khuli",
+     "headline_hinglish": "OSSSC mein 7,268 padon par bharti khuli",
+     "detail_hi": "Odisha Sub-ordinate Staff Selection Commission ne below-graduate padon ke liye aavedan shuru kiye.",
+     "detail_hinglish": "Odisha Sub-ordinate Staff Selection Commission ne below-graduate padon ke liye aavedan shuru kiye.",
+     "category_hi": "Jobs",
+     "category_en": "National"
+    }
+   ],
+   "mcq": {
+    "id": "ca-ep55-mcq",
+    "q_hi": "2029 tak ISRO ke paas kul kitne launch pads honge?",
+    "q_hinglish": "2029 tak ISRO ke paas kul kitne launch pads honge?",
+    "options_hi": [
+     "2 pads",
+     "4 pads",
+     "3 pads",
+     "5 pads"
+    ],
+    "options_hinglish": [
+     "2 pads",
+     "4 pads",
+     "3 pads",
+     "5 pads"
+    ],
+    "answer_index": 1
+   }
+  }
+ ]
+}
