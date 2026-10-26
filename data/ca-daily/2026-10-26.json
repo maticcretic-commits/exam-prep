@@ -72,6 +72,76 @@
     ],
     "answer_index": 1
    }
+  },
+  {
+   "episode": 56,
+   "video_hi": "LsVFxNdSub4",
+   "video_hinglish": "LsVFxNdSub4",
+   "capsules": [
+    {
+     "id": "ca-ep56-s1",
+     "headline_hi": "Cyclone Arnab Andhra coast par 28 October",
+     "headline_hinglish": "Cyclone Arnab Andhra coast par 28 October",
+     "detail_hi": "IMD ke anusaar Arnab 28 October ko Andhra Pradesh-Yanam coast par very severe storm ke roop mein takrayega.",
+     "detail_hinglish": "IMD ke anusaar Arnab 28 October ko Andhra Pradesh-Yanam coast par very severe storm ke roop mein takrayega.",
+     "category_hi": "Disaster",
+     "category_en": "National"
+    },
+    {
+     "id": "ca-ep56-s2",
+     "headline_hi": "Jammu-Kashmir Vilay Diwas ki 79vi varshganth",
+     "headline_hinglish": "Jammu-Kashmir Vilay Diwas ki 79vi varshganth",
+     "detail_hi": "26 October 1947 ko Maharaja Hari Singh ne Instrument of Accession par hastakshar kiye the.",
+     "detail_hinglish": "26 October 1947 ko Maharaja Hari Singh ne Instrument of Accession par hastakshar kiye the.",
+     "category_hi": "History",
+     "category_en": "National"
+    },
+    {
+     "id": "ca-ep56-s3",
+     "headline_hi": "Asian Para Games mein Bharat ke 114 padak",
+     "headline_hinglish": "Asian Para Games mein Bharat ke 114 padak",
+     "detail_hi": "Aichi-Nagoya mein Bharat ne 30 gold, 35 silver aur 49 bronze ke saath record haul hasil kiya.",
+     "detail_hinglish": "Aichi-Nagoya mein Bharat ne 30 gold, 35 silver aur 49 bronze ke saath record haul hasil kiya.",
+     "category_hi": "Sports",
+     "category_en": "Sports"
+    },
+    {
+     "id": "ca-ep56-s4",
+     "headline_hi": "Jio Platforms IPO listing par 12% upar",
+     "headline_hinglish": "Jio Platforms IPO listing par 12% upar",
+     "detail_hi": "24 October ko Jio Platforms ₹1,253.40 par list hua — ₹30,213 crore ka IPO desh ka sabse bada hai.",
+     "detail_hinglish": "24 October ko Jio Platforms ₹1,253.40 par list hua — ₹30,213 crore ka IPO desh ka sabse bada hai.",
+     "category_hi": "Economy",
+     "category_en": "Economy"
+    },
+    {
+     "id": "ca-ep56-s5",
+     "headline_hi": "PM-KISAN Urban pilot baarah shehron mein",
+     "headline_hinglish": "PM-KISAN Urban pilot baarah shehron mein",
+     "detail_hi": "Shehri kisaano ko bhi saalana ₹6,000 ki madad milegi — pilot Delhi, Mumbai, Patna samet 12 cities mein.",
+     "detail_hinglish": "Shehri kisaano ko bhi saalana ₹6,000 ki madad milegi — pilot Delhi, Mumbai, Patna samet 12 cities mein.",
+     "category_hi": "Scheme",
+     "category_en": "National"
+    }
+   ],
+   "mcq": {
+    "id": "ca-ep56-mcq",
+    "q_hi": "Asian Para Games 2026 mein Bharat ne kul kitne padak jeete?",
+    "q_hinglish": "Asian Para Games 2026 mein Bharat ne kul kitne padak jeete?",
+    "options_hi": [
+     "108 padak",
+     "120 padak",
+     "114 padak",
+     "100 padak"
+    ],
+    "options_hinglish": [
+     "108 padak",
+     "120 padak",
+     "114 padak",
+     "100 padak"
+    ],
+    "answer_index": 2
+   }
   }
  ]
 }
