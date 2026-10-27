@@ -1,0 +1,77 @@
+{
+ "date": "2026-10-27",
+ "date_hi": "27 October 2026",
+ "date_en": "27 October 2026",
+ "episodes": [
+  {
+   "episode": 57,
+   "video_hi": "83z3lcdgTKU",
+   "video_hinglish": "83z3lcdgTKU",
+   "capsules": [
+    {
+     "id": "ca-ep57-s1",
+     "headline_hi": "PM Modi ne ESTIC 2026 ka udghatan kiya",
+     "headline_hinglish": "PM Modi ne ESTIC 2026 ka udghatan kiya",
+     "detail_hi": "Bharat Mandapam mein 27 se 29 October tak vigyan aur takneek par bada conclave hoga.",
+     "detail_hinglish": "Bharat Mandapam mein 27 se 29 October tak vigyan aur takneek par bada conclave hoga.",
+     "category_hi": "Science",
+     "category_en": "National"
+    },
+    {
+     "id": "ca-ep57-s2",
+     "headline_hi": "Defence ke liye 2.12 lakh crore manzoor",
+     "headline_hinglish": "Defence ke liye 2.12 lakh crore manzoor",
+     "detail_hi": "Defence Acquisition Council ne kamikaze drones aur helicopters samet bade proposals ko manzoori di.",
+     "detail_hinglish": "Defence Acquisition Council ne kamikaze drones aur helicopters samet bade proposals ko manzoori di.",
+     "category_hi": "Defence",
+     "category_en": "Defence"
+    },
+    {
+     "id": "ca-ep57-s3",
+     "headline_hi": "2030 tak debt-GDP 50% ka lakshya",
+     "headline_hinglish": "2030 tak debt-GDP 50% ka lakshya",
+     "detail_hi": "Finance Ministry ne fiscal consolidation ka rasta dohrate hue 2030 tak karz ka lakshya rakha.",
+     "detail_hinglish": "Finance Ministry ne fiscal consolidation ka rasta dohrate hue 2030 tak karz ka lakshya rakha.",
+     "category_hi": "Economy",
+     "category_en": "Economy"
+    },
+    {
+     "id": "ca-ep57-s4",
+     "headline_hi": "Kerala mein senior citizens ke liye pehla kanoon",
+     "headline_hinglish": "Kerala mein senior citizens ke liye pehla kanoon",
+     "detail_hi": "Kerala Assembly ne buzurgon ke adhikaaron ki raksha ke liye vyaapak bill sarvasammati se paas kiya.",
+     "detail_hinglish": "Kerala Assembly ne buzurgon ke adhikaaron ki raksha ke liye vyaapak bill sarvasammati se paas kiya.",
+     "category_hi": "Polity",
+     "category_en": "Polity"
+    },
+    {
+     "id": "ca-ep57-s5",
+     "headline_hi": "Delhi mein pradushan se ladai tez hui",
+     "headline_hinglish": "Delhi mein pradushan se ladai tez hui",
+     "detail_hi": "AQI moderate par raha, jabki sprinklers aur anti-smog guns se dhool par kaabu paane ki koshish hui.",
+     "detail_hinglish": "AQI moderate par raha, jabki sprinklers aur anti-smog guns se dhool par kaabu paane ki koshish hui.",
+     "category_hi": "Environment",
+     "category_en": "Environment"
+    }
+   ],
+   "mcq": {
+    "id": "ca-ep57-mcq",
+    "q_hi": "Defence Acquisition Council ne kul kitne crore ke proposals ko manzoori di?",
+    "q_hinglish": "Defence Acquisition Council ne kul kitne crore ke proposals ko manzoori di?",
+    "options_hi": [
+     "1.82 lakh crore",
+     "2.50 lakh crore",
+     "1.12 lakh crore",
+     "2.12 lakh crore"
+    ],
+    "options_hinglish": [
+     "1.82 lakh crore",
+     "2.50 lakh crore",
+     "1.12 lakh crore",
+     "2.12 lakh crore"
+    ],
+    "answer_index": 3
+   }
+  }
+ ]
+}
