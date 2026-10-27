@@ -22,111 +22,111 @@ ROOT = Path(__file__).resolve().parent.parent
 # legacy counts established via the page's real parse path (node eval)
 EXPECTED = {
     "ssc": {
-        "questions": 944,
-        "oneliners": 476,
-        "capsules": 427
+        "questions": 946,
+        "oneliners": 478,
+        "capsules": 428
     },
     "pte": {
-        "questions": 650,
+        "questions": 652,
+        "oneliners": 25,
+        "capsules": 20
+    },
+    "toefl": {
+        "questions": 741,
+        "oneliners": 31,
+        "capsules": 29
+    },
+    "gre": {
+        "questions": 657,
+        "oneliners": 21,
+        "capsules": 20
+    },
+    "gmat": {
+        "questions": 660,
+        "oneliners": 20,
+        "capsules": 18
+    },
+    "sat": {
+        "questions": 665,
         "oneliners": 23,
         "capsules": 19
     },
-    "toefl": {
-        "questions": 739,
-        "oneliners": 29,
-        "capsules": 28
-    },
-    "gre": {
-        "questions": 655,
-        "oneliners": 19,
-        "capsules": 19
-    },
-    "gmat": {
-        "questions": 658,
-        "oneliners": 18,
-        "capsules": 17
-    },
-    "sat": {
-        "questions": 664,
-        "oneliners": 21,
-        "capsules": 18
-    },
     "ielts": {
-        "questions": 689,
-        "oneliners": 34,
-        "capsules": 30,
+        "questions": 691,
+        "oneliners": 36,
+        "capsules": 31,
         "resources": 100
     },
     "railways": {
-        "questions": 1026,
-        "capsules": 48,
-        "oneliners": 49
+        "questions": 1028,
+        "capsules": 49,
+        "oneliners": 51
     },
     "law": {
-        "questions": 847,
-        "capsules": 228,
-        "oneliners": 338
+        "questions": 849,
+        "capsules": 229,
+        "oneliners": 340
     },
     "neet": {
-        "questions": 1145,
-        "oneliners": 452,
-        "capsules": 59
+        "questions": 1147,
+        "oneliners": 454,
+        "capsules": 60
     },
     "bpsc": {
-        "questions": 2086,
-        "capsules": 1051,
-        "oneliners": 969
+        "questions": 2088,
+        "capsules": 1052,
+        "oneliners": 971
     },
     "banking-certs": {
-        "questions": 2206,
-        "oneliners": 1133,
-        "capsules": 331,
+        "questions": 2208,
+        "oneliners": 1135,
+        "capsules": 332,
         "videos": 48
     },
     "upsc": {
-        "questions": 1116,
-        "oneliners": 69,
-        "capsules": 76
+        "questions": 1118,
+        "oneliners": 71,
+        "capsules": 77
     },
     "jee": {
-        "questions": 1216,
-        "oneliners": 386,
-        "capsules": 51
+        "questions": 1218,
+        "oneliners": 388,
+        "capsules": 52
     },
     "banking": {
-        "questions": 979,
-        "capsules": 102,
-        "oneliners": 68
+        "questions": 981,
+        "capsules": 103,
+        "oneliners": 70
     },
     "defence": {
-        "questions": 1102,
-        "capsules": 64,
-        "oneliners": 57
+        "questions": 1104,
+        "capsules": 65,
+        "oneliners": 59
     },
     "current-affairs": {
-        "questions": 897,
-        "oneliners": 124,
-        "capsules": 121
+        "questions": 901,
+        "oneliners": 128,
+        "capsules": 123
     },
     "software-ai-tech": {
-        "questions": 906,
-        "oneliners": 445,
-        "capsules": 72
+        "questions": 908,
+        "oneliners": 447,
+        "capsules": 73
     },
     "teaching": {
-        "questions": 843,
-        "capsules": 53,
-        "oneliners": 42
+        "questions": 845,
+        "capsules": 54,
+        "oneliners": 44
     },
     "ca": {
-        "questions": 984,
-        "oneliners": 47,
-        "capsules": 55
+        "questions": 985,
+        "oneliners": 49,
+        "capsules": 56
     },
     "sarkari-vacancies": {
-        "questions": 12,
-        "oneliners": 12,
-        "capsules": 10,
+        "questions": 14,
+        "oneliners": 14,
+        "capsules": 11,
         "videos": 0,
         "listings": 216
     }
