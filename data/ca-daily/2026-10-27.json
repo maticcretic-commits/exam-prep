@@ -72,6 +72,76 @@
     ],
     "answer_index": 3
    }
+  },
+  {
+   "episode": 58,
+   "video_hi": "9lNP9LOYAWA",
+   "video_hinglish": "9lNP9LOYAWA",
+   "capsules": [
+    {
+     "id": "ca-ep58-s1",
+     "headline_hi": "Cyclone Arnab se tat par alert",
+     "headline_hinglish": "Cyclone Arnab se tat par alert",
+     "detail_hi": "Bahut tez toofan Andhra-Odisha ki ore badh raha hai, 53 trains radd aur tatiya ilaakon se log surakshit jagah pahunchaaye gaye.",
+     "detail_hinglish": "Bahut tez toofan Andhra-Odisha ki ore badh raha hai, 53 trains radd aur tatiya ilaakon se log surakshit jagah pahunchaaye gaye.",
+     "category_hi": "Environment",
+     "category_en": "Environment"
+    },
+    {
+     "id": "ca-ep58-s2",
+     "headline_hi": "Jio Platforms IPO allotment final hua",
+     "headline_hinglish": "Jio Platforms IPO allotment final hua",
+     "detail_hi": "Allotment poora hua, shares kal list honge; desh ke sabse bade IPO mein se ek par sabki nazar hai.",
+     "detail_hinglish": "Allotment poora hua, shares kal list honge; desh ke sabse bade IPO mein se ek par sabki nazar hai.",
+     "category_hi": "Economy",
+     "category_en": "Economy"
+    },
+    {
+     "id": "ca-ep58-s3",
+     "headline_hi": "Bharat-America trade deal antim charan mein",
+     "headline_hinglish": "Bharat-America trade deal antim charan mein",
+     "detail_hi": "Mantri Goyal ne kaha adhiktar baatcheet poori, ab samjhote ko antim roop diya ja raha hai.",
+     "detail_hinglish": "Mantri Goyal ne kaha adhiktar baatcheet poori, ab samjhote ko antim roop diya ja raha hai.",
+     "category_hi": "Trade",
+     "category_en": "National"
+    },
+    {
+     "id": "ca-ep58-s4",
+     "headline_hi": "Flex-fuel gaadiyon ke liye E100 niyam",
+     "headline_hinglish": "Flex-fuel gaadiyon ke liye E100 niyam",
+     "detail_hi": "Naye niyam mein E85 ke saath E100 bhi joda gaya, sirf design ki gayi flex-fuel gaadiyon ke liye.",
+     "detail_hinglish": "Naye niyam mein E85 ke saath E100 bhi joda gaya, sirf design ki gayi flex-fuel gaadiyon ke liye.",
+     "category_hi": "Energy",
+     "category_en": "National"
+    },
+    {
+     "id": "ca-ep58-s5",
+     "headline_hi": "Ahmedabad mein 2029 Weightlifting World Championship",
+     "headline_hinglish": "Ahmedabad mein 2029 Weightlifting World Championship",
+     "detail_hi": "Bharat pehli baar senior championship ki mezbani karega; IWF ne Ningbo mein faisla sunaya.",
+     "detail_hinglish": "Bharat pehli baar senior championship ki mezbani karega; IWF ne Ningbo mein faisla sunaya.",
+     "category_hi": "Sports",
+     "category_en": "Sports"
+    }
+   ],
+   "mcq": {
+    "id": "ca-ep58-mcq",
+    "q_hi": "2029 World Weightlifting Championships kis sheher mein hoga?",
+    "q_hinglish": "2029 World Weightlifting Championships kis sheher mein hoga?",
+    "options_hi": [
+     "Mumbai",
+     "Ahmedabad",
+     "Delhi",
+     "Hyderabad"
+    ],
+    "options_hinglish": [
+     "Mumbai",
+     "Ahmedabad",
+     "Delhi",
+     "Hyderabad"
+    ],
+    "answer_index": 1
+   }
   }
  ]
 }
