@@ -1,0 +1,77 @@
+{
+ "date": "2026-10-28",
+ "date_hi": "28 October 2026",
+ "date_en": "28 October 2026",
+ "episodes": [
+  {
+   "episode": 59,
+   "video_hi": "WJC3uZMecPA",
+   "video_hinglish": "WJC3uZMecPA",
+   "capsules": [
+    {
+     "id": "ca-ep59-s1",
+     "headline_hi": "Cabinet ne DA mein 3% badhotri di",
+     "headline_hinglish": "Cabinet ne DA mein 3% badhotri di",
+     "detail_hi": "Ek crore satrah lakh karmchariyon aur pensioners ko fayda; badhotri pehli July se laagu, Diwali se pehle ghoshna hui.",
+     "detail_hinglish": "Ek crore satrah lakh karmchariyon aur pensioners ko fayda; badhotri pehli July se laagu, Diwali se pehle ghoshna hui.",
+     "category_hi": "Economy",
+     "category_en": "Economy"
+    },
+    {
+     "id": "ca-ep59-s2",
+     "headline_hi": "Cyclone Arnab tat par takraya, kamzor pada",
+     "headline_hinglish": "Cyclone Arnab tat par takraya, kamzor pada",
+     "detail_hi": "Narsapur ke paas landfall hua, teen logon ki maut; tees hazaar se zyada log surakshit jagah pahunchaaye gaye.",
+     "detail_hinglish": "Narsapur ke paas landfall hua, teen logon ki maut; tees hazaar se zyada log surakshit jagah pahunchaaye gaye.",
+     "category_hi": "Environment",
+     "category_en": "Environment"
+    },
+    {
+     "id": "ca-ep59-s3",
+     "headline_hi": "PM Modi ne ESTIC 2026 ka udghatan kiya",
+     "headline_hinglish": "PM Modi ne ESTIC 2026 ka udghatan kiya",
+     "detail_hi": "Bharat Mandapam mein vigyan conclave; PM ne kaha AI ke jawabon ko verify karna zaroori hai.",
+     "detail_hinglish": "Bharat Mandapam mein vigyan conclave; PM ne kaha AI ke jawabon ko verify karna zaroori hai.",
+     "category_hi": "Science",
+     "category_en": "National"
+    },
+    {
+     "id": "ca-ep59-s4",
+     "headline_hi": "Bharat ne Pakistan ko SCO meet par bulaya",
+     "headline_hinglish": "Bharat ne Pakistan ko SCO meet par bulaya",
+     "detail_hi": "Delhi mein SCO baithak ke liye nimantran; Operation Sindoor ke baad pehla aisa nimantran mana ja raha hai.",
+     "detail_hinglish": "Delhi mein SCO baithak ke liye nimantran; Operation Sindoor ke baad pehla aisa nimantran mana ja raha hai.",
+     "category_hi": "Diplomacy",
+     "category_en": "National"
+    },
+    {
+     "id": "ca-ep59-s5",
+     "headline_hi": "Abhishek Sharma ka 35-ball shatak, record toote",
+     "headline_hinglish": "Abhishek Sharma ka 35-ball shatak, record toote",
+     "detail_hi": "Teesre T20I mein Bharat ne team records tode; Vaibhav Suryavanshi ne bhi record pradarshan kiya.",
+     "detail_hinglish": "Teesre T20I mein Bharat ne team records tode; Vaibhav Suryavanshi ne bhi record pradarshan kiya.",
+     "category_hi": "Sports",
+     "category_en": "Sports"
+    }
+   ],
+   "mcq": {
+    "id": "ca-ep59-mcq",
+    "q_hi": "Cabinet ne dearness allowance mein kitne percent ki badhotri ko manzoori di?",
+    "q_hinglish": "Cabinet ne dearness allowance mein kitne percent ki badhotri ko manzoori di?",
+    "options_hi": [
+     "2%",
+     "4%",
+     "3%",
+     "5%"
+    ],
+    "options_hinglish": [
+     "2%",
+     "4%",
+     "3%",
+     "5%"
+    ],
+    "answer_index": 2
+   }
+  }
+ ]
+}
