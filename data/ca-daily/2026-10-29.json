@@ -142,6 +142,76 @@
     ],
     "answer_index": 2
    }
+  },
+  {
+   "episode": 62,
+   "video_hi": "C7O7fTbZppI",
+   "video_hinglish": "C7O7fTbZppI",
+   "capsules": [
+    {
+     "id": "ca-ep62-s1",
+     "headline_hi": "Arnab kamzor pada, Ganjam gaon doobe",
+     "headline_hinglish": "Arnab kamzor pada, Ganjam gaon doobe",
+     "detail_hi": "Toofan deep depression bana; 15,000 bijli khambhe gire, Ganjam ke 300 gaon doobe, airlift ki taiyari hai.",
+     "detail_hinglish": "Toofan deep depression bana; 15,000 bijli khambhe gire, Ganjam ke 300 gaon doobe, airlift ki taiyari hai.",
+     "category_hi": "Environment",
+     "category_en": "Environment"
+    },
+    {
+     "id": "ca-ep62-s2",
+     "headline_hi": "DA 63% hua, 1.17 crore ko fayda",
+     "headline_hinglish": "DA 63% hua, 1.17 crore ko fayda",
+     "detail_hi": "DA 60% se 63% hua, 1 July 2026 se lagu; 48.54 lakh karmchari aur 68.71 lakh pensioners ko fayda hoga.",
+     "detail_hinglish": "DA 60% se 63% hua, 1 July 2026 se lagu; 48.54 lakh karmchari aur 68.71 lakh pensioners ko fayda hoga.",
+     "category_hi": "Economy",
+     "category_en": "Economy"
+    },
+    {
+     "id": "ca-ep62-s3",
+     "headline_hi": "PRAGATI mein 16,000 crore projects ki sameeksha",
+     "headline_hinglish": "PRAGATI mein 16,000 crore projects ki sameeksha",
+     "detail_hi": "PM Modi ne 31 rajyon mein railway, Ekta Mall aur bulk drug park projects ki pragati ki sameeksha ki.",
+     "detail_hinglish": "PM Modi ne 31 rajyon mein railway, Ekta Mall aur bulk drug park projects ki pragati ki sameeksha ki.",
+     "category_hi": "Governance",
+     "category_en": "National"
+    },
+    {
+     "id": "ca-ep62-s4",
+     "headline_hi": "Supreme Court ne SIR par EC se sawal",
+     "headline_hinglish": "Supreme Court ne SIR par EC se sawal",
+     "detail_hi": "Court ne Delhi ke 47 lakh hate hue voters tak pahunchne ka tareeka banane ko kaha; Form 6 par sawal uthaya.",
+     "detail_hinglish": "Court ne Delhi ke 47 lakh hate hue voters tak pahunchne ka tareeka banane ko kaha; Form 6 par sawal uthaya.",
+     "category_hi": "Polity",
+     "category_en": "Polity"
+    },
+    {
+     "id": "ca-ep62-s5",
+     "headline_hi": "Viksit Gram Swaraj ko 7,395 crore mile",
+     "headline_hinglish": "Viksit Gram Swaraj ko 7,395 crore mile",
+     "detail_hi": "2.55 lakh panchayaton aur 32 lakh pratinidhiyon ki training aur yojana banane ki kshamta badhegi.",
+     "detail_hinglish": "2.55 lakh panchayaton aur 32 lakh pratinidhiyon ki training aur yojana banane ki kshamta badhegi.",
+     "category_hi": "Rural",
+     "category_en": "National"
+    }
+   ],
+   "mcq": {
+    "id": "ca-ep62-mcq",
+    "q_hi": "PM Viksit Gram Swaraj Yojana ka kul kharch kitna hai?",
+    "q_hinglish": "PM Viksit Gram Swaraj Yojana ka kul kharch kitna hai?",
+    "options_hi": [
+     "5,395 crore rupaye",
+     "7,395 crore rupaye",
+     "9,395 crore rupaye",
+     "11,395 crore rupaye"
+    ],
+    "options_hinglish": [
+     "5,395 crore rupaye",
+     "7,395 crore rupaye",
+     "9,395 crore rupaye",
+     "11,395 crore rupaye"
+    ],
+    "answer_index": 1
+   }
   }
  ]
 }
