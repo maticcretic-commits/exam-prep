@@ -72,6 +72,76 @@
     ],
     "answer_index": 1
    }
+  },
+  {
+   "episode": 61,
+   "video_hi": "3bMdyzaO4Po",
+   "video_hinglish": "3bMdyzaO4Po",
+   "capsules": [
+    {
+     "id": "ca-ep61-s1",
+     "headline_hi": "Cyclone Arnab ne Andhra tat ko hila diya",
+     "headline_hinglish": "Cyclone Arnab ne Andhra tat ko hila diya",
+     "detail_hi": "1.8 lakh se zyada log surakshit jagah gaye; fasalon aur bijli ko bhaari nuksan hua.",
+     "detail_hinglish": "1.8 lakh se zyada log surakshit jagah gaye; fasalon aur bijli ko bhaari nuksan hua.",
+     "category_hi": "Environment",
+     "category_en": "Environment"
+    },
+    {
+     "id": "ca-ep61-s2",
+     "headline_hi": "Container manufacturing ko 10,000 crore ka push",
+     "headline_hinglish": "Container manufacturing ko 10,000 crore ka push",
+     "detail_hi": "Kshamta das guna badhkar 7.5 lakh TEU hogi; 50,000 se zyada apratyaksh naukriyan banengi.",
+     "detail_hinglish": "Kshamta das guna badhkar 7.5 lakh TEU hogi; 50,000 se zyada apratyaksh naukriyan banengi.",
+     "category_hi": "Economy",
+     "category_en": "Economy"
+    },
+    {
+     "id": "ca-ep61-s3",
+     "headline_hi": "Jio Platforms bana dusra sabse bada listed",
+     "headline_hinglish": "Jio Platforms bana dusra sabse bada listed",
+     "detail_hi": "Share 1,119 se 1,358 rupaye par list hua; market cap 12.5 lakh crore se zyada hua.",
+     "detail_hinglish": "Share 1,119 se 1,358 rupaye par list hua; market cap 12.5 lakh crore se zyada hua.",
+     "category_hi": "Business",
+     "category_en": "National"
+    },
+    {
+     "id": "ca-ep61-s4",
+     "headline_hi": "India-Mexico vyapar samjhaute ki baatcheet shuru",
+     "headline_hinglish": "India-Mexico vyapar samjhaute ki baatcheet shuru",
+     "detail_hi": "PTA ke liye Terms of Reference par hastakshar; auto, pharma aur electronics par dhyaan rahega.",
+     "detail_hinglish": "PTA ke liye Terms of Reference par hastakshar; auto, pharma aur electronics par dhyaan rahega.",
+     "category_hi": "International",
+     "category_en": "National"
+    },
+    {
+     "id": "ca-ep61-s5",
+     "headline_hi": "Khel saman manufacturing ko 1,856 crore mile",
+     "headline_hinglish": "Khel saman manufacturing ko 1,856 crore mile",
+     "detail_hi": "Chaar sports goods manufacturing zone banenge; Meerut, Jalandhar-Ludhiana aur Jammu ko fayda.",
+     "detail_hinglish": "Chaar sports goods manufacturing zone banenge; Meerut, Jalandhar-Ludhiana aur Jammu ko fayda.",
+     "category_hi": "Sports",
+     "category_en": "Sports"
+    }
+   ],
+   "mcq": {
+    "id": "ca-ep61-mcq",
+    "q_hi": "PTA ka full form kya hai?",
+    "q_hinglish": "PTA ka full form kya hai?",
+    "options_hi": [
+     "Permanent Trade Alliance",
+     "Public Tariff Agreement",
+     "Preferential Trade Agreement",
+     "Pacific Trade Association"
+    ],
+    "options_hinglish": [
+     "Permanent Trade Alliance",
+     "Public Tariff Agreement",
+     "Preferential Trade Agreement",
+     "Pacific Trade Association"
+    ],
+    "answer_index": 2
+   }
   }
  ]
 }
