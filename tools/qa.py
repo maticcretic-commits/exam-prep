@@ -22,113 +22,113 @@ ROOT = Path(__file__).resolve().parent.parent
 # legacy counts established via the page's real parse path (node eval)
 EXPECTED = {
     "ssc": {
-        "questions": 956,
-        "oneliners": 485,
-        "capsules": 435
+        "questions": 961,
+        "oneliners": 488,
+        "capsules": 437
     },
     "pte": {
-        "questions": 662,
-        "oneliners": 32,
-        "capsules": 27
+        "questions": 667,
+        "oneliners": 34,
+        "capsules": 29
     },
     "toefl": {
-        "questions": 751,
-        "oneliners": 38,
-        "capsules": 36
+        "questions": 756,
+        "oneliners": 40,
+        "capsules": 38
     },
     "gre": {
-        "questions": 667,
+        "questions": 672,
+        "oneliners": 30,
+        "capsules": 29
+    },
+    "gmat": {
+        "questions": 675,
         "oneliners": 28,
         "capsules": 27
     },
-    "gmat": {
-        "questions": 670,
-        "oneliners": 26,
-        "capsules": 25
-    },
     "sat": {
-        "questions": 675,
-        "oneliners": 30,
-        "capsules": 26
+        "questions": 680,
+        "oneliners": 32,
+        "capsules": 28
     },
     "ielts": {
-        "questions": 701,
-        "oneliners": 43,
-        "capsules": 38,
+        "questions": 706,
+        "oneliners": 45,
+        "capsules": 40,
         "resources": 100
     },
     "railways": {
-        "questions": 1038,
-        "capsules": 56,
-        "oneliners": 58
+        "questions": 1042,
+        "capsules": 58,
+        "oneliners": 60
     },
     "law": {
-        "questions": 859,
-        "capsules": 236,
-        "oneliners": 347
+        "questions": 864,
+        "capsules": 238,
+        "oneliners": 349
     },
     "neet": {
-        "questions": 1157,
-        "oneliners": 461,
-        "capsules": 67
+        "questions": 1162,
+        "oneliners": 463,
+        "capsules": 69
     },
     "bpsc": {
-        "questions": 2098,
-        "capsules": 1059,
-        "oneliners": 978
+        "questions": 2103,
+        "capsules": 1061,
+        "oneliners": 980
     },
     "banking-certs": {
-        "questions": 2218,
-        "oneliners": 1142,
-        "capsules": 339,
+        "questions": 2222,
+        "oneliners": 1144,
+        "capsules": 341,
         "videos": 48
     },
     "upsc": {
-        "questions": 1128,
-        "oneliners": 78,
-        "capsules": 84
+        "questions": 1133,
+        "oneliners": 80,
+        "capsules": 87
     },
     "jee": {
-        "questions": 1228,
-        "oneliners": 395,
-        "capsules": 59
+        "questions": 1233,
+        "oneliners": 397,
+        "capsules": 61
     },
     "banking": {
-        "questions": 991,
-        "capsules": 110,
-        "oneliners": 77
+        "questions": 996,
+        "capsules": 112,
+        "oneliners": 79
     },
     "defence": {
-        "questions": 1114,
-        "capsules": 72,
-        "oneliners": 66
+        "questions": 1118,
+        "capsules": 74,
+        "oneliners": 68
     },
     "current-affairs": {
-        "questions": 912,
-        "oneliners": 135,
-        "capsules": 130
+        "questions": 917,
+        "oneliners": 138,
+        "capsules": 133
     },
     "software-ai-tech": {
-        "questions": 918,
-        "oneliners": 454,
-        "capsules": 80
+        "questions": 923,
+        "oneliners": 456,
+        "capsules": 82
     },
     "teaching": {
-        "questions": 855,
-        "capsules": 61,
-        "oneliners": 51
+        "questions": 859,
+        "capsules": 63,
+        "oneliners": 53
     },
     "ca": {
-        "questions": 995,
-        "oneliners": 56,
-        "capsules": 63
+        "questions": 999,
+        "oneliners": 58,
+        "capsules": 65
     },
     "sarkari-vacancies": {
-        "questions": 20,
-        "oneliners": 19,
-        "capsules": 16,
+        "questions": 25,
+        "oneliners": 22,
+        "capsules": 18,
         "videos": 0,
-        "listings": 221
+        "listings": 225
     }
 }
 
