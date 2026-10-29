@@ -1,0 +1,77 @@
+{
+ "date": "2026-10-30",
+ "date_hi": "30 October 2026",
+ "date_en": "30 October 2026",
+ "episodes": [
+  {
+   "episode": 63,
+   "video_hi": "bRC2aCKBYEs",
+   "video_hinglish": "bRC2aCKBYEs",
+   "capsules": [
+    {
+     "id": "ca-ep63-s1",
+     "headline_hi": "PM-Kisan: 9.34 crore kisanon ko 2,000",
+     "headline_hinglish": "PM-Kisan: 9.34 crore kisanon ko 2,000",
+     "detail_hi": "24th kist mein kul 19,000 crore rupaye seedhe bank khaaton mein bheje jayenge; PM Gujarat daure mein release karenge.",
+     "detail_hinglish": "24th kist mein kul 19,000 crore rupaye seedhe bank khaaton mein bheje jayenge; PM Gujarat daure mein release karenge.",
+     "category_hi": "Agriculture",
+     "category_en": "Agriculture"
+    },
+    {
+     "id": "ca-ep63-s2",
+     "headline_hi": "NVS-03 aaj raat NavIC ko majboot karega",
+     "headline_hinglish": "NVS-03 aaj raat NavIC ko majboot karega",
+     "detail_hi": "GSLV-F18 raat 11:51 baje Sriharikota se udega; desi atomic clock aur L1 signal ke saath 2,250 kg ka satellite hai.",
+     "detail_hinglish": "GSLV-F18 raat 11:51 baje Sriharikota se udega; desi atomic clock aur L1 signal ke saath 2,250 kg ka satellite hai.",
+     "category_hi": "Science",
+     "category_en": "National"
+    },
+    {
+     "id": "ca-ep63-s3",
+     "headline_hi": "2.88 lakh projects se Buildathon Guinness record",
+     "headline_hinglish": "2.88 lakh projects se Buildathon Guinness record",
+     "detail_hi": "10 national winners ko kul 17.5 lakh rupaye mile; Assam ke bomb-diffusing robot aur UP ki smart glasses jeete.",
+     "detail_hinglish": "10 national winners ko kul 17.5 lakh rupaye mile; Assam ke bomb-diffusing robot aur UP ki smart glasses jeete.",
+     "category_hi": "Education",
+     "category_en": "Education"
+    },
+    {
+     "id": "ca-ep63-s4",
+     "headline_hi": "Vay Vandana: 23.46 lakh buzurgo ko ilaaj",
+     "headline_hinglish": "Vay Vandana: 23.46 lakh buzurgo ko ilaaj",
+     "detail_hi": "Do saal mein 5,668.80 crore ke ilaaj hue; 70 saal se upar ke sabhi ko 5 lakh tak ka cover milta hai.",
+     "detail_hinglish": "Do saal mein 5,668.80 crore ke ilaaj hue; 70 saal se upar ke sabhi ko 5 lakh tak ka cover milta hai.",
+     "category_hi": "Health",
+     "category_en": "Health"
+    },
+    {
+     "id": "ca-ep63-s5",
+     "headline_hi": "Khelo India: sports goods ko 1,857 crore",
+     "headline_hinglish": "Khelo India: sports goods ko 1,857 crore",
+     "detail_hi": "Cabinet ne 2026 se 2033-34 tak ki scheme ko sweekar kiya; dedicated manufacturing zones banenge, export badhega.",
+     "detail_hinglish": "Cabinet ne 2026 se 2033-34 tak ki scheme ko sweekar kiya; dedicated manufacturing zones banenge, export badhega.",
+     "category_hi": "Sports",
+     "category_en": "Sports"
+    }
+   ],
+   "mcq": {
+    "id": "ca-ep63-mcq",
+    "q_hi": "NVS-03 kis navigation system ko majboot karega?",
+    "q_hinglish": "NVS-03 kis navigation system ko majboot karega?",
+    "options_hi": [
+     "GPS",
+     "GLONASS",
+     "NavIC",
+     "BeiDou"
+    ],
+    "options_hinglish": [
+     "GPS",
+     "GLONASS",
+     "NavIC",
+     "BeiDou"
+    ],
+    "answer_index": 2
+   }
+  }
+ ]
+}
