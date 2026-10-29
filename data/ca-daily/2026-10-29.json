@@ -1,0 +1,77 @@
+{
+ "date": "2026-10-29",
+ "date_hi": "29 October 2026",
+ "date_en": "29 October 2026",
+ "episodes": [
+  {
+   "episode": 60,
+   "video_hi": "RpV_74wJDq4",
+   "video_hinglish": "RpV_74wJDq4",
+   "capsules": [
+    {
+     "id": "ca-ep60-s1",
+     "headline_hi": "Supreme Court ne Delhi SIR par sawal uthaye",
+     "headline_hinglish": "Supreme Court ne Delhi SIR par sawal uthaye",
+     "detail_hi": "Draft list se laakhon naam hatne par Court ne ECI se deadline badhane aur enrolment saral karne ko kaha.",
+     "detail_hinglish": "Draft list se laakhon naam hatne par Court ne ECI se deadline badhane aur enrolment saral karne ko kaha.",
+     "category_hi": "Polity",
+     "category_en": "Polity"
+    },
+    {
+     "id": "ca-ep60-s2",
+     "headline_hi": "Toll plaza ke paas FASTag local pass",
+     "headline_hinglish": "Toll plaza ke paas FASTag local pass",
+     "detail_hi": "Pehli November se 20 km ke andar rehne walon ko saalana pass milega; fee 1,500 ya 3,000 rupaye hogi.",
+     "detail_hinglish": "Pehli November se 20 km ke andar rehne walon ko saalana pass milega; fee 1,500 ya 3,000 rupaye hogi.",
+     "category_hi": "Economy",
+     "category_en": "Economy"
+    },
+    {
+     "id": "ca-ep60-s3",
+     "headline_hi": "Lakshadweep tourism ke naye niyam jaari",
+     "headline_hinglish": "Lakshadweep tourism ke naye niyam jaari",
+     "detail_hi": "Registration anivarya hua; pehle ke operators ko chhah mahine ki chhoot, suraksha aur ecosystem par khaas dhyaan.",
+     "detail_hinglish": "Registration anivarya hua; pehle ke operators ko chhah mahine ki chhoot, suraksha aur ecosystem par khaas dhyaan.",
+     "category_hi": "Environment",
+     "category_en": "Environment"
+    },
+    {
+     "id": "ca-ep60-s4",
+     "headline_hi": "Delhi mein 1,400 se zyada Chhath ghat",
+     "headline_hinglish": "Delhi mein 1,400 se zyada Chhath ghat",
+     "detail_hi": "Chhath 13 se 16 November tak; 16 November ko chhutti, taiyari 6 November tak poori karne ke nirdesh.",
+     "detail_hinglish": "Chhath 13 se 16 November tak; 16 November ko chhutti, taiyari 6 November tak poori karne ke nirdesh.",
+     "category_hi": "Culture",
+     "category_en": "National"
+    },
+    {
+     "id": "ca-ep60-s5",
+     "headline_hi": "Kajal aur Neelam ne silver jeeta",
+     "headline_hinglish": "Kajal aur Neelam ne silver jeeta",
+     "detail_hi": "Pehli baar do Bharatiya mahila ek hi World Championship final mein; dono ne silver medal jeeta.",
+     "detail_hinglish": "Pehli baar do Bharatiya mahila ek hi World Championship final mein; dono ne silver medal jeeta.",
+     "category_hi": "Sports",
+     "category_en": "Sports"
+    }
+   ],
+   "mcq": {
+    "id": "ca-ep60-mcq",
+    "q_hi": "Form 6 kis kaam ke liye bhara jata hai?",
+    "q_hinglish": "Form 6 kis kaam ke liye bhara jata hai?",
+    "options_hi": [
+     "Naam hatane ke liye",
+     "Pehli baar matdata banne ke liye",
+     "Pata badalne ke liye",
+     "Duplicate voter ID ke liye"
+    ],
+    "options_hinglish": [
+     "Naam hatane ke liye",
+     "Pehli baar matdata banne ke liye",
+     "Pata badalne ke liye",
+     "Duplicate voter ID ke liye"
+    ],
+    "answer_index": 1
+   }
+  }
+ ]
+}
