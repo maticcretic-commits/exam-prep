@@ -72,6 +72,76 @@
     ],
     "answer_index": 2
    }
+  },
+  {
+   "episode": 64,
+   "video_hi": "Kks1BvbqdxE",
+   "video_hinglish": "Kks1BvbqdxE",
+   "capsules": [
+    {
+     "id": "ca-ep64-s1",
+     "headline_hi": "Container banane ko 10,000 crore mile",
+     "headline_hinglish": "Container banane ko 10,000 crore mile",
+     "detail_hi": "Cabinet ne scheme ko manzoori di; yeh 2027-28 se 2039-40 tak chalegi, 53,000 naukriyan degi.",
+     "detail_hinglish": "Cabinet ne scheme ko manzoori di; yeh 2027-28 se 2039-40 tak chalegi, 53,000 naukriyan degi.",
+     "category_hi": "Economy",
+     "category_en": "Economy"
+    },
+    {
+     "id": "ca-ep64-s2",
+     "headline_hi": "Digital arrest pe bank denge bharpai",
+     "headline_hinglish": "Digital arrest pe bank denge bharpai",
+     "detail_hi": "Bank ki laparwahi se fraud hua to peedit ko nuksan ke barabar muawza mile; 800 crore ka nuksan hua.",
+     "detail_hinglish": "Bank ki laparwahi se fraud hua to peedit ko nuksan ke barabar muawza mile; 800 crore ka nuksan hua.",
+     "category_hi": "Polity",
+     "category_en": "Polity"
+    },
+    {
+     "id": "ca-ep64-s3",
+     "headline_hi": "Karnataka mein doodh 8 rupaye mehnga",
+     "headline_hinglish": "Karnataka mein doodh 8 rupaye mehnga",
+     "detail_hi": "1 November se doodh 8 rupaye per litre mehnga hoga; kisano ko 7 rupaye milenge aur kul 47 rupaye per litre honge.",
+     "detail_hinglish": "1 November se doodh 8 rupaye per litre mehnga hoga; kisano ko 7 rupaye milenge aur kul 47 rupaye per litre honge.",
+     "category_hi": "Agriculture",
+     "category_en": "Agriculture"
+    },
+    {
+     "id": "ca-ep64-s4",
+     "headline_hi": "BRICS sansadon ne UN sudhar manga",
+     "headline_hinglish": "BRICS sansadon ne UN sudhar manga",
+     "detail_hi": "Forum ne joint declaration apnaya; UN sudhar aur aatankwad par sakht rukh rakha.",
+     "detail_hinglish": "Forum ne joint declaration apnaya; UN sudhar aur aatankwad par sakht rukh rakha.",
+     "category_hi": "International",
+     "category_en": "National"
+    },
+    {
+     "id": "ca-ep64-s5",
+     "headline_hi": "Punah Bharan app: bhujal recharge khoje",
+     "headline_hinglish": "Punah Bharan app: bhujal recharge khoje",
+     "detail_hi": "Jal Shakti Mantri ne app launch kiya; 3 km ke andar recharge zone aur gaon-star ke map dikhayega, BISAG-N ne banaya hai.",
+     "detail_hinglish": "Jal Shakti Mantri ne app launch kiya; 3 km ke andar recharge zone aur gaon-star ke map dikhayega, BISAG-N ne banaya hai.",
+     "category_hi": "Environment",
+     "category_en": "Environment"
+    }
+   ],
+   "mcq": {
+    "id": "ca-ep64-mcq",
+    "q_hi": "Container Manufacturing Promotion Scheme ka kul kharch kitna hai?",
+    "q_hinglish": "Container Manufacturing Promotion Scheme ka kul kharch kitna hai?",
+    "options_hi": [
+     "5,000 crore rupaye",
+     "15,000 crore rupaye",
+     "10,000 crore rupaye",
+     "20,000 crore rupaye"
+    ],
+    "options_hinglish": [
+     "5,000 crore rupaye",
+     "15,000 crore rupaye",
+     "10,000 crore rupaye",
+     "20,000 crore rupaye"
+    ],
+    "answer_index": 2
+   }
   }
  ]
 }
