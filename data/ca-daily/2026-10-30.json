@@ -142,6 +142,76 @@
     ],
     "answer_index": 2
    }
+  },
+  {
+   "episode": 65,
+   "video_hi": "dtmDfjAC4N8",
+   "video_hinglish": "dtmDfjAC4N8",
+   "capsules": [
+    {
+     "id": "ca-ep65-s1",
+     "headline_hi": "NVS-03: NavIC ko milega naya satellite",
+     "headline_hinglish": "NVS-03: NavIC ko milega naya satellite",
+     "detail_hi": "GSLV-F18 aaj raat 11:51 baje Sriharikota se udega; desi atomic clock aur L1 signal milega.",
+     "detail_hinglish": "GSLV-F18 aaj raat 11:51 baje Sriharikota se udega; desi atomic clock aur L1 signal milega.",
+     "category_hi": "Science",
+     "category_en": "National"
+    },
+    {
+     "id": "ca-ep65-s2",
+     "headline_hi": "PM-KISAN: 9.34 crore kisano ko 2,000",
+     "headline_hinglish": "PM-KISAN: 9.34 crore kisano ko 2,000",
+     "detail_hi": "24th kist mein 18,690 crore rupaye se zyada seedhe bank khaaton mein bheje gaye.",
+     "detail_hinglish": "24th kist mein 18,690 crore rupaye se zyada seedhe bank khaaton mein bheje gaye.",
+     "category_hi": "Agriculture",
+     "category_en": "Agriculture"
+    },
+    {
+     "id": "ca-ep65-s3",
+     "headline_hi": "SIR deadline badhi, Delhi ko rahat",
+     "headline_hinglish": "SIR deadline badhi, Delhi ko rahat",
+     "detail_hi": "Delhi mein daave-aapatti 25 November tak; antim voter list 22 December ko aayegi.",
+     "detail_hinglish": "Delhi mein daave-aapatti 25 November tak; antim voter list 22 December ko aayegi.",
+     "category_hi": "Polity",
+     "category_en": "Polity"
+    },
+    {
+     "id": "ca-ep65-s4",
+     "headline_hi": "Buildathon ne banaya Guinness record",
+     "headline_hinglish": "Buildathon ne banaya Guinness record",
+     "detail_hi": "2,87,967 submissions ke saath sabse bada innovation competition; 10 teams ko 17.5 lakh mile.",
+     "detail_hinglish": "2,87,967 submissions ke saath sabse bada innovation competition; 10 teams ko 17.5 lakh mile.",
+     "category_hi": "Education",
+     "category_en": "Education"
+    },
+    {
+     "id": "ca-ep65-s5",
+     "headline_hi": "Hockey: India ne China ko 5-2 haraya",
+     "headline_hinglish": "Hockey: India ne China ko 5-2 haraya",
+     "detail_hi": "Harmanpreet aur Sukhjeet ne do-do goal kiye; India do match jeetkar table top par.",
+     "detail_hinglish": "Harmanpreet aur Sukhjeet ne do-do goal kiye; India do match jeetkar table top par.",
+     "category_hi": "Sports",
+     "category_en": "Sports"
+    }
+   ],
+   "mcq": {
+    "id": "ca-ep65-mcq",
+    "q_hi": "NVS-03 kis navigation system ko mazboot karega?",
+    "q_hinglish": "NVS-03 kis navigation system ko mazboot karega?",
+    "options_hi": [
+     "GPS",
+     "NavIC",
+     "GLONASS",
+     "Galileo"
+    ],
+    "options_hinglish": [
+     "GPS",
+     "NavIC",
+     "GLONASS",
+     "Galileo"
+    ],
+    "answer_index": 1
+   }
   }
  ]
 }
