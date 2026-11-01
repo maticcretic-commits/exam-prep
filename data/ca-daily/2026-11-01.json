@@ -142,6 +142,76 @@
     ],
     "answer_index": 2
    }
+  },
+  {
+   "episode": 68,
+   "video_hi": "zqSmB3jFTkI",
+   "video_hinglish": "zqSmB3jFTkI",
+   "capsules": [
+    {
+     "id": "ca-ep68-s1",
+     "headline_hi": "GST collection 23% badhkar 2.31 lakh crore",
+     "headline_hinglish": "GST collection 23% badhkar 2.31 lakh crore",
+     "detail_hi": "October mein doosra sabse bada collection; net 2.03 lakh crore raha.",
+     "detail_hinglish": "October mein doosra sabse bada collection; net 2.03 lakh crore raha.",
+     "category_hi": "Economy",
+     "category_en": "Economy"
+    },
+    {
+     "id": "ca-ep68-s2",
+     "headline_hi": "49.6 crore log gareebi se bahar",
+     "headline_hinglish": "49.6 crore log gareebi se bahar",
+     "detail_hi": "Extreme poverty 27.1% se 2.6% hui, World Bank report mein khulasa.",
+     "detail_hinglish": "Extreme poverty 27.1% se 2.6% hui, World Bank report mein khulasa.",
+     "category_hi": "Economy",
+     "category_en": "Economy"
+    },
+    {
+     "id": "ca-ep68-s3",
+     "headline_hi": "Delhi mein INDIA bloc ki badi rally",
+     "headline_hinglish": "Delhi mein INDIA bloc ki badi rally",
+     "detail_hi": "Ramlila Maidan mein CEC ko hatane ki maang uthi, vote-chori ka aarop laga.",
+     "detail_hinglish": "Ramlila Maidan mein CEC ko hatane ki maang uthi, vote-chori ka aarop laga.",
+     "category_hi": "Polity",
+     "category_en": "Polity"
+    },
+    {
+     "id": "ca-ep68-s4",
+     "headline_hi": "Manisha: Bharat ki pehli mahila world champion",
+     "headline_hinglish": "Manisha: Bharat ki pehli mahila world champion",
+     "detail_hi": "0-6 se peeche rehkar 8-6 se jeeti; Astana mein 59kg gold mila.",
+     "detail_hinglish": "0-6 se peeche rehkar 8-6 se jeeti; Astana mein 59kg gold mila.",
+     "category_hi": "Sports",
+     "category_en": "Sports"
+    },
+    {
+     "id": "ca-ep68-s5",
+     "headline_hi": "Rajyon ko 1.09 lakh crore extra mile",
+     "headline_hinglish": "Rajyon ko 1.09 lakh crore extra mile",
+     "detail_hi": "31 October ko atirikt kist jaari hui; is saal ki doosri atirikt kist hai.",
+     "detail_hinglish": "31 October ko atirikt kist jaari hui; is saal ki doosri atirikt kist hai.",
+     "category_hi": "Governance",
+     "category_en": "National"
+    }
+   ],
+   "mcq": {
+    "id": "ca-ep68-mcq",
+    "q_hi": "October 2026 mein kul GST collection kitna raha?",
+    "q_hinglish": "October 2026 mein kul GST collection kitna raha?",
+    "options_hi": [
+     "1.87 lakh crore",
+     "2.31 lakh crore",
+     "2.43 lakh crore",
+     "1.59 lakh crore"
+    ],
+    "options_hinglish": [
+     "1.87 lakh crore",
+     "2.31 lakh crore",
+     "2.43 lakh crore",
+     "1.59 lakh crore"
+    ],
+    "answer_index": 1
+   }
   }
  ]
 }
