@@ -72,6 +72,76 @@
     ],
     "answer_index": 3
    }
+  },
+  {
+   "episode": 67,
+   "video_hi": "M8-UujvLGkE",
+   "video_hinglish": "M8-UujvLGkE",
+   "capsules": [
+    {
+     "id": "ca-ep67-s1",
+     "headline_hi": "Nashik Kumbh: 12 crore shraddhaluon ki ummeed",
+     "headline_hinglish": "Nashik Kumbh: 12 crore shraddhaluon ki ummeed",
+     "detail_hi": "Rashtrapati Murmu ne Ramkund par dhwaj chadhaya; Amrit Snan August-September 2027 mein.",
+     "detail_hinglish": "Rashtrapati Murmu ne Ramkund par dhwaj chadhaya; Amrit Snan August-September 2027 mein.",
+     "category_hi": "Culture",
+     "category_en": "National"
+    },
+    {
+     "id": "ca-ep67-s2",
+     "headline_hi": "Andhra tat par naya toofan 3 November ko",
+     "headline_hinglish": "Andhra tat par naya toofan 3 November ko",
+     "detail_hi": "IMD: Nellore se Narsapur tak 100-110 kmph hawa, Arnab ke baad doosra toofan.",
+     "detail_hinglish": "IMD: Nellore se Narsapur tak 100-110 kmph hawa, Arnab ke baad doosra toofan.",
+     "category_hi": "Geography",
+     "category_en": "National"
+    },
+    {
+     "id": "ca-ep67-s3",
+     "headline_hi": "Pensioners ko face se life certificate milega",
+     "headline_hinglish": "Pensioners ko face se life certificate milega",
+     "detail_hi": "DLC Campaign 5: 2,000 shehron mein camp, 2.30 crore certificate ka lakshya.",
+     "detail_hinglish": "DLC Campaign 5: 2,000 shehron mein camp, 2.30 crore certificate ka lakshya.",
+     "category_hi": "Governance",
+     "category_en": "National"
+    },
+    {
+     "id": "ca-ep67-s4",
+     "headline_hi": "Birsa Munda: Janjatiya Gaurav Pakhwada shuru",
+     "headline_hinglish": "Birsa Munda: Janjatiya Gaurav Pakhwada shuru",
+     "detail_hi": "1 se 15 November tak 300 se zyada pariyojanaein; 15 November Birsa jayanti.",
+     "detail_hinglish": "1 se 15 November tak 300 se zyada pariyojanaein; 15 November Birsa jayanti.",
+     "category_hi": "Polity",
+     "category_en": "Polity"
+    },
+    {
+     "id": "ca-ep67-s5",
+     "headline_hi": "15 saal ki Uma Kashvi WPL itihaas mein",
+     "headline_hinglish": "15 saal ki Uma Kashvi WPL itihaas mein",
+     "detail_hi": "Delhi Capitals ne 10 lakh mein kharida; 516 run, average 172, teen shatak.",
+     "detail_hinglish": "Delhi Capitals ne 10 lakh mein kharida; 516 run, average 172, teen shatak.",
+     "category_hi": "Sports",
+     "category_en": "Sports"
+    }
+   ],
+   "mcq": {
+    "id": "ca-ep67-mcq",
+    "q_hi": "DLC Campaign 5 ka kul lakshya kitne certificate ka hai?",
+    "q_hinglish": "DLC Campaign 5 ka kul lakshya kitne certificate ka hai?",
+    "options_hi": [
+     "1.50 crore",
+     "2.00 crore",
+     "2.30 crore",
+     "3.00 crore"
+    ],
+    "options_hinglish": [
+     "1.50 crore",
+     "2.00 crore",
+     "2.30 crore",
+     "3.00 crore"
+    ],
+    "answer_index": 2
+   }
   }
  ]
 }
