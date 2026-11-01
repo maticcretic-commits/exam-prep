@@ -1,0 +1,77 @@
+{
+ "date": "2026-11-01",
+ "date_hi": "1 November 2026",
+ "date_en": "1 November 2026",
+ "episodes": [
+  {
+   "episode": 66,
+   "video_hi": "lGm_Yphlo_E",
+   "video_hinglish": "lGm_Yphlo_E",
+   "capsules": [
+    {
+     "id": "ca-ep66-s1",
+     "headline_hi": "Ekta Diwas: Sardar Patel ki 151st jayanti",
+     "headline_hinglish": "Ekta Diwas: Sardar Patel ki 151st jayanti",
+     "detail_hi": "PM Modi ne Ekta Nagar mein Statue of Unity par shraddhanjali di; 426 crore se zyada ki 31 pariyojanaein shuru hui.",
+     "detail_hinglish": "PM Modi ne Ekta Nagar mein Statue of Unity par shraddhanjali di; 426 crore se zyada ki 31 pariyojanaein shuru hui.",
+     "category_hi": "Polity",
+     "category_en": "Polity"
+    },
+    {
+     "id": "ca-ep66-s2",
+     "headline_hi": "SEBI: FPI KYC review ab 8 saal",
+     "headline_hinglish": "SEBI: FPI KYC review ab 8 saal",
+     "detail_hi": "Category I FPI ko 1 December se 8 saal mein ek baar KYC review; kagazi bojh kam hoga.",
+     "detail_hinglish": "Category I FPI ko 1 December se 8 saal mein ek baar KYC review; kagazi bojh kam hoga.",
+     "category_hi": "Economy",
+     "category_en": "Economy"
+    },
+    {
+     "id": "ca-ep66-s3",
+     "headline_hi": "Rajyon ko 1.09 lakh crore mile",
+     "headline_hinglish": "Rajyon ko 1.09 lakh crore mile",
+     "detail_hi": "31 October ko doosri atirikt kist jaari; UP ko sabse zyada 19,208 crore mile.",
+     "detail_hinglish": "31 October ko doosri atirikt kist jaari; UP ko sabse zyada 19,208 crore mile.",
+     "category_hi": "Finance",
+     "category_en": "National"
+    },
+    {
+     "id": "ca-ep66-s4",
+     "headline_hi": "G20: Jaishankar ne navigation aazadi uthayi",
+     "headline_hinglish": "G20: Jaishankar ne navigation aazadi uthayi",
+     "detail_hi": "Atlanta mein G20 videsh mantriyon se kaha: nagrik jahazon par hamle rukein, UNCLOS ka samman ho.",
+     "detail_hinglish": "Atlanta mein G20 videsh mantriyon se kaha: nagrik jahazon par hamle rukein, UNCLOS ka samman ho.",
+     "category_hi": "World",
+     "category_en": "National"
+    },
+    {
+     "id": "ca-ep66-s5",
+     "headline_hi": "Pluto se pare naya dwarf planet ummeedvar",
+     "headline_hinglish": "Pluto se pare naya dwarf planet ummeedvar",
+     "detail_hi": "2026 ED138, 600 se 1,500 km chauda; Rubin Observatory ne 30 baar dekha, pushti baaki.",
+     "detail_hinglish": "2026 ED138, 600 se 1,500 km chauda; Rubin Observatory ne 30 baar dekha, pushti baaki.",
+     "category_hi": "Science",
+     "category_en": "National"
+    }
+   ],
+   "mcq": {
+    "id": "ca-ep66-mcq",
+    "q_hi": "Eligible FPI ka KYC review ab kitne saal mein ek baar hoga?",
+    "q_hinglish": "Eligible FPI ka KYC review ab kitne saal mein ek baar hoga?",
+    "options_hi": [
+     "2 saal",
+     "3 saal",
+     "5 saal",
+     "8 saal"
+    ],
+    "options_hinglish": [
+     "2 saal",
+     "3 saal",
+     "5 saal",
+     "8 saal"
+    ],
+    "answer_index": 3
+   }
+  }
+ ]
+}
