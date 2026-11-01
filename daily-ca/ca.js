@@ -68,7 +68,8 @@ async function loadWorld() {
     $("#worldUpdated").textContent = "Last updated " + upd + " IST · rolling last 24 hours";
     $("#worldList").innerHTML = feed.items.map((it) => {
       const t = String(it.published_ist || "").slice(11, 16);
-      let h = `<article class="card worldcard"><div class="qmeta"><span class="chip">World</span><span class="worldtime">${esc(t)} IST</span></div>` +
+      const gen = it.genuineness === "verified" ? `<span class="worldgen verified">✓ Verified · 3+ outlets</span>` : it.genuineness === "corroborated" ? `<span class="worldgen">Corroborated · 2 outlets</span>` : "";
+      let h = `<article class="card worldcard"><div class="qmeta"><span class="chip">World</span>${gen}<span class="worldtime">${esc(t)} IST</span></div>` +
         `<h4>${esc(it.headline)}</h4><p>${esc(it.detail)}</p>`;
       if (it.image) h += `<img class="worldimg" src="${esc(it.image)}" alt="" loading="lazy">` + (it.image_credit ? `<p class="worldcredit">Photo: ${esc(it.image_credit)}</p>` : "");
       if (it.exam_angle) h += `<p class="worldexam">🧠 Exam angle: ${esc(it.exam_angle)}</p>`;
