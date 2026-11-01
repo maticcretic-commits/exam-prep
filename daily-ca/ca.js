@@ -42,6 +42,7 @@ async function load() {
   const want = new URLSearchParams(location.search).get("date");
   curDate = want && dates.includes(want) ? want : dates[dates.length - 1];
   await loadDay(curDate);
+  loadWorld();
   renderRevision();
 }
 
@@ -51,6 +52,31 @@ async function loadDay(iso) {
   const res = await fetch("../data/ca-daily/" + iso + ".json", { cache: "no-cache" });
   dayData = await res.json();
   renderDay();
+}
+
+/* ---------- world hourly feed ---------- */
+/* Separate file (../data/world-hourly.json), written only by the hourly job.
+   Hinglish-only text feed. Never blocks episodes/test/calendar: any failure
+   leaves the section hidden. */
+async function loadWorld() {
+  try {
+    const res = await fetch("../data/world-hourly.json", { cache: "no-cache" });
+    if (!res.ok) return;
+    const feed = await res.json();
+    if (!feed || !Array.isArray(feed.items) || !feed.items.length) return;
+    const upd = String(feed.updated_ist || "").slice(0, 16).replace("T", " ");
+    $("#worldUpdated").textContent = "Last updated " + upd + " IST · rolling last 24 hours";
+    $("#worldList").innerHTML = feed.items.map((it) => {
+      const t = String(it.published_ist || "").slice(11, 16);
+      let h = `<article class="card worldcard"><div class="qmeta"><span class="chip">World</span><span class="worldtime">${esc(t)} IST</span></div>` +
+        `<h4>${esc(it.headline)}</h4><p>${esc(it.detail)}</p>`;
+      if (it.image) h += `<img class="worldimg" src="${esc(it.image)}" alt="" loading="lazy">` + (it.image_credit ? `<p class="worldcredit">Photo: ${esc(it.image_credit)}</p>` : "");
+      if (it.exam_angle) h += `<p class="worldexam">🧠 Exam angle: ${esc(it.exam_angle)}</p>`;
+      h += `<p class="worldsrc">Source: <a href="${esc(it.source_url || "#")}" target="_blank" rel="noopener">${esc(it.source || "—")}</a></p></article>`;
+      return h;
+    }).join("");
+    $("#worldFeed").hidden = false;
+  } catch (e) { /* feed is optional; leave hidden */ }
 }
 
 /* ---------- rendering ---------- */
