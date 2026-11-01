@@ -1,0 +1,77 @@
+{
+ "date": "2026-11-02",
+ "date_hi": "2 November 2026",
+ "date_en": "2 November 2026",
+ "episodes": [
+  {
+   "episode": 69,
+   "video_hi": "f4POwnHeBms",
+   "video_hinglish": "f4POwnHeBms",
+   "capsules": [
+    {
+     "id": "ca-ep69-s1",
+     "headline_hi": "Cyclone Murasu Andhra coast ki ore badh raha",
+     "headline_hinglish": "Cyclone Murasu Andhra coast ki ore badh raha",
+     "detail_hi": "IMD ka anuman: 3 November ko Nellore-Narsapur ke beech landfall, 100-110 kmph hawa.",
+     "detail_hinglish": "IMD ka anuman: 3 November ko Nellore-Narsapur ke beech landfall, 100-110 kmph hawa.",
+     "category_hi": "Disaster",
+     "category_en": "National"
+    },
+    {
+     "id": "ca-ep69-s2",
+     "headline_hi": "Mahadev betting kingpin Oman se Bharat laya gaya",
+     "headline_hinglish": "Mahadev betting kingpin Oman se Bharat laya gaya",
+     "detail_hi": "CBI ne Sourabh Chandrakar ko extradite kiya; 6,000 crore ke mamle mein Raipur court mein peshi hogi.",
+     "detail_hinglish": "CBI ne Sourabh Chandrakar ko extradite kiya; 6,000 crore ke mamle mein Raipur court mein peshi hogi.",
+     "category_hi": "Governance",
+     "category_en": "National"
+    },
+    {
+     "id": "ca-ep69-s3",
+     "headline_hi": "Ashutosh Dixit bane 29th Air Force chief",
+     "headline_hinglish": "Ashutosh Dixit bane 29th Air Force chief",
+     "detail_hi": "3,500 se zyada flying hours wale Dixit ne AP Singh ki jagah li.",
+     "detail_hinglish": "3,500 se zyada flying hours wale Dixit ne AP Singh ki jagah li.",
+     "category_hi": "Defence",
+     "category_en": "Defence"
+    },
+    {
+     "id": "ca-ep69-s4",
+     "headline_hi": "ISRO ka NVS-03 NavIC ko degi nayi taakat",
+     "headline_hinglish": "ISRO ka NVS-03 NavIC ko degi nayi taakat",
+     "detail_hi": "GSLV-F18 ne 30 October ko 2,250 kg ka satellite orbit mein pahunchaaya.",
+     "detail_hinglish": "GSLV-F18 ne 30 October ko 2,250 kg ka satellite orbit mein pahunchaaya.",
+     "category_hi": "Science",
+     "category_en": "National"
+    },
+    {
+     "id": "ca-ep69-s5",
+     "headline_hi": "Delhi-Guwahati bullet train corridor ko manzoori mili",
+     "headline_hinglish": "Delhi-Guwahati bullet train corridor ko manzoori mili",
+     "detail_hi": "Route Patna aur Siliguri se hokar jayega; Delhi se Agra sirf 59 minute mein.",
+     "detail_hinglish": "Route Patna aur Siliguri se hokar jayega; Delhi se Agra sirf 59 minute mein.",
+     "category_hi": "Infrastructure",
+     "category_en": "National"
+    }
+   ],
+   "mcq": {
+    "id": "ca-ep69-mcq",
+    "q_hi": "NVS-03 satellite ka vajan kitna hai?",
+    "q_hinglish": "NVS-03 satellite ka vajan kitna hai?",
+    "options_hi": [
+     "1,850 kg",
+     "2,050 kg",
+     "2,250 kg",
+     "2,450 kg"
+    ],
+    "options_hinglish": [
+     "1,850 kg",
+     "2,050 kg",
+     "2,250 kg",
+     "2,450 kg"
+    ],
+    "answer_index": 2
+   }
+  }
+ ]
+}
