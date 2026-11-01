@@ -36,6 +36,8 @@
 .worldcard h4 { margin: 0 0 6px; font-size: 1.02rem; }
 .worldcard p { margin: 0 0 6px; }
 .worldtime { color: var(--muted); font-size: .88rem; margin-left: auto; }
+.worldgen { font-size: .78rem; font-weight: 700; padding: 2px 9px; border-radius: 999px; border: 1px solid var(--line); }
+.worldgen.verified { color: var(--good); border-color: var(--good); }
 .worldimg { width: 100%; border-radius: 10px; margin: 6px 0; display: block; }
 .worldcredit { color: var(--muted); font-size: .82rem; }
 .worldexam { font-size: .92rem; }
