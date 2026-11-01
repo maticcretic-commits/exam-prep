@@ -33,5 +33,12 @@
 .capcard p { margin: 0; color: var(--ink); }
 .remember { margin-top: 10px; padding: 10px 12px; border-left: 4px solid var(--brand); background: var(--chip); border-radius: 0 10px 10px 0; font-size: .94rem; }
 .remember b { display: block; margin-bottom: 2px; }
+.worldcard h4 { margin: 0 0 6px; font-size: 1.02rem; }
+.worldcard p { margin: 0 0 6px; }
+.worldtime { color: var(--muted); font-size: .88rem; margin-left: auto; }
+.worldimg { width: 100%; border-radius: 10px; margin: 6px 0; display: block; }
+.worldcredit { color: var(--muted); font-size: .82rem; }
+.worldexam { font-size: .92rem; }
+.worldsrc { color: var(--muted); font-size: .88rem; margin-bottom: 0; }
 .watchwrap { text-align: center; }
 .watchwrap .chip { margin-bottom: 8px; }
