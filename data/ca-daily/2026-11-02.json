@@ -142,6 +142,76 @@
     ],
     "answer_index": 1
    }
+  },
+  {
+   "episode": 71,
+   "video_hi": "Uq5PoYFG2jQ",
+   "video_hinglish": "Uq5PoYFG2jQ",
+   "capsules": [
+    {
+     "id": "ca-ep71-s1",
+     "headline_hi": "Naye Air Chief ne sambhali IAF ki kamaan",
+     "headline_hinglish": "Naye Air Chief ne sambhali IAF ki kamaan",
+     "detail_hi": "31 October ko charge sambhala; VAYU priorities — Tejas aur AMCA par focus.",
+     "detail_hinglish": "31 October ko charge sambhala; VAYU priorities — Tejas aur AMCA par focus.",
+     "category_hi": "Defence",
+     "category_en": "Defence"
+    },
+    {
+     "id": "ca-ep71-s2",
+     "headline_hi": "GSLV-F18 ne NavIC ke liye NVS-03 launch kiya",
+     "headline_hinglish": "GSLV-F18 ne NavIC ke liye NVS-03 launch kiya",
+     "detail_hi": "30 October raat Sriharikota se launch; 2,250 kg ka satellite NavIC ko mazboot karega.",
+     "detail_hinglish": "30 October raat Sriharikota se launch; 2,250 kg ka satellite NavIC ko mazboot karega.",
+     "category_hi": "Science",
+     "category_en": "National"
+    },
+    {
+     "id": "ca-ep71-s3",
+     "headline_hi": "Cyclone Murasu: Andhra coast par alert jaari",
+     "headline_hinglish": "Cyclone Murasu: Andhra coast par alert jaari",
+     "detail_hi": "IMD ke anusaar 2-3 November ki raat Andhra coast cross kar sakta hai; 120 kmph tak hawa.",
+     "detail_hinglish": "IMD ke anusaar 2-3 November ki raat Andhra coast cross kar sakta hai; 120 kmph tak hawa.",
+     "category_hi": "Environment",
+     "category_en": "Environment"
+    },
+    {
+     "id": "ca-ep71-s4",
+     "headline_hi": "Bengaluru-Mumbai Vande Bharat Sleeper shuru hui",
+     "headline_hinglish": "Bengaluru-Mumbai Vande Bharat Sleeper shuru hui",
+     "detail_hi": "SMVT Bengaluru se CSMT Mumbai tak lagbhag 16 ghante; hafte mein 6 din chalegi.",
+     "detail_hinglish": "SMVT Bengaluru se CSMT Mumbai tak lagbhag 16 ghante; hafte mein 6 din chalegi.",
+     "category_hi": "Railways",
+     "category_en": "National"
+    },
+    {
+     "id": "ca-ep71-s5",
+     "headline_hi": "Naye loans par byaaj dar ghata, 8.51% hui",
+     "headline_hinglish": "Naye loans par byaaj dar ghata, 8.51% hui",
+     "detail_hi": "September mein 8.61% se girkar 8.51% hui; purane loans par rate 8.96% par sthir raha.",
+     "detail_hinglish": "September mein 8.61% se girkar 8.51% hui; purane loans par rate 8.96% par sthir raha.",
+     "category_hi": "Economy",
+     "category_en": "Economy"
+    }
+   ],
+   "mcq": {
+    "id": "ca-ep71-mcq",
+    "q_hi": "NavIC ki primary coverage India se kitne km aage tak hai?",
+    "q_hinglish": "NavIC ki primary coverage India se kitne km aage tak hai?",
+    "options_hi": [
+     "500 km",
+     "1,000 km",
+     "1,500 km",
+     "2,000 km"
+    ],
+    "options_hinglish": [
+     "500 km",
+     "1,000 km",
+     "1,500 km",
+     "2,000 km"
+    ],
+    "answer_index": 2
+   }
   }
  ]
 }
