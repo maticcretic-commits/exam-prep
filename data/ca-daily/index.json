@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-02T03:37:50.697761",
+ "generated": "2026-11-02T09:43:41.883364",
  "source": "Daily Current Affairs Shorts (YouTube @DailyCurrentAffairs-s1p)",
  "days": [
   {
@@ -255,13 +255,14 @@
    "date_en": "2 November 2026",
    "episodes": [
     69,
-    70
+    70,
+    71
    ],
-   "capsules": 10,
-   "mcqs": 2
+   "capsules": 15,
+   "mcqs": 3
   }
  ],
  "total_days": 21,
- "total_capsules": 344,
- "total_mcqs": 67
+ "total_capsules": 349,
+ "total_mcqs": 68
 }
