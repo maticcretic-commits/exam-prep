@@ -1,0 +1,77 @@
+{
+ "date": "2026-11-03",
+ "date_hi": "3 November 2026",
+ "date_en": "3 November 2026",
+ "episodes": [
+  {
+   "episode": 73,
+   "video_hi": "bgAzGjc4rds",
+   "video_hinglish": "bgAzGjc4rds",
+   "capsules": [
+    {
+     "id": "ca-ep73-s1",
+     "headline_hi": "Modi ne Renewable Energy Summit ka udghatan kiya",
+     "headline_hinglish": "Modi ne Renewable Energy Summit ka udghatan kiya",
+     "detail_hi": "Bharat ne climate lakshya 5 saal pehle haasil kiya; 500 GW green capacity ka lakshya hai.",
+     "detail_hinglish": "Bharat ne climate lakshya 5 saal pehle haasil kiya; 500 GW green capacity ka lakshya hai.",
+     "category_hi": "Energy",
+     "category_en": "National"
+    },
+    {
+     "id": "ca-ep73-s2",
+     "headline_hi": "Navy ko milengi 8 nayi next-gen corvettes",
+     "headline_hinglish": "Navy ko milengi 8 nayi next-gen corvettes",
+     "detail_hi": "Raksha Mantralaya ne 53,866 crore ke saude par hastakshar kiye; Bharat mein banengi.",
+     "detail_hinglish": "Raksha Mantralaya ne 53,866 crore ke saude par hastakshar kiye; Bharat mein banengi.",
+     "category_hi": "Defence",
+     "category_en": "Defence"
+    },
+    {
+     "id": "ca-ep73-s3",
+     "headline_hi": "GST collection 2.31 lakh crore, 23% badha",
+     "headline_hinglish": "GST collection 2.31 lakh crore, 23% badha",
+     "detail_hi": "October mein festive demand se doosri sabse badi monthly collection; net GST 2.03 lakh crore raha.",
+     "detail_hinglish": "October mein festive demand se doosri sabse badi monthly collection; net GST 2.03 lakh crore raha.",
+     "category_hi": "Economy",
+     "category_en": "Economy"
+    },
+    {
+     "id": "ca-ep73-s4",
+     "headline_hi": "Cyclone Murasu: Odisha mein 1.6 lakh surakshit",
+     "headline_hinglish": "Cyclone Murasu: Odisha mein 1.6 lakh surakshit",
+     "detail_hi": "120 kmph tak hawaon ke saath Andhra kinare takrayega; 300 se zyada rescue teams tainaat hain.",
+     "detail_hinglish": "120 kmph tak hawaon ke saath Andhra kinare takrayega; 300 se zyada rescue teams tainaat hain.",
+     "category_hi": "Disaster",
+     "category_en": "National"
+    },
+    {
+     "id": "ca-ep73-s5",
+     "headline_hi": "Sindhu-Lakshya ne Hylo Open khitaab jeete",
+     "headline_hinglish": "Sindhu-Lakshya ne Hylo Open khitaab jeete",
+     "detail_hi": "Dono ne straight games mein final jeeta; chaar saal baad Bharat ka double triumph hua.",
+     "detail_hinglish": "Dono ne straight games mein final jeeta; chaar saal baad Bharat ka double triumph hua.",
+     "category_hi": "Sports",
+     "category_en": "Sports"
+    }
+   ],
+   "mcq": {
+    "id": "ca-ep73-mcq",
+    "q_hi": "October 2026 mein kul GST collection kitna raha?",
+    "q_hinglish": "October 2026 mein kul GST collection kitna raha?",
+    "options_hi": [
+     "1.88 lakh crore",
+     "2.03 lakh crore",
+     "2.31 lakh crore",
+     "2.43 lakh crore"
+    ],
+    "options_hinglish": [
+     "1.88 lakh crore",
+     "2.03 lakh crore",
+     "2.31 lakh crore",
+     "2.43 lakh crore"
+    ],
+    "answer_index": 2
+   }
+  }
+ ]
+}
