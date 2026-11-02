@@ -72,6 +72,76 @@
     ],
     "answer_index": 2
    }
+  },
+  {
+   "episode": 70,
+   "video_hi": "AHLH60UGLbw",
+   "video_hinglish": "AHLH60UGLbw",
+   "capsules": [
+    {
+     "id": "ca-ep70-s1",
+     "headline_hi": "Ramlila Maidan mein vipaksh ki badi rally",
+     "headline_hinglish": "Ramlila Maidan mein vipaksh ki badi rally",
+     "detail_hi": "INDIA bloc ne CEC Gyanesh Kumar ke istife ki maang ki; SIR mein voter-list gadbadi ka aarop.",
+     "detail_hinglish": "INDIA bloc ne CEC Gyanesh Kumar ke istife ki maang ki; SIR mein voter-list gadbadi ka aarop.",
+     "category_hi": "Politics",
+     "category_en": "National"
+    },
+    {
+     "id": "ca-ep70-s2",
+     "headline_hi": "Project 18A: Navy ko milenge naye stealth destroyers",
+     "headline_hinglish": "Project 18A: Navy ko milenge naye stealth destroyers",
+     "detail_hi": "DAC ne siddhant roop se manzoori di; lagbhag 80,000 crore ki laagat, 75% swadeshi content.",
+     "detail_hinglish": "DAC ne siddhant roop se manzoori di; lagbhag 80,000 crore ki laagat, 75% swadeshi content.",
+     "category_hi": "Defence",
+     "category_en": "Defence"
+    },
+    {
+     "id": "ca-ep70-s3",
+     "headline_hi": "Hylo Open mein Sindhu-Lakshya ki double jeet",
+     "headline_hinglish": "Hylo Open mein Sindhu-Lakshya ki double jeet",
+     "detail_hi": "Dono ne straight games mein final jeeta — Germany ke Saarbrucken mein Bharat ka double celebration.",
+     "detail_hinglish": "Dono ne straight games mein final jeeta — Germany ke Saarbrucken mein Bharat ka double celebration.",
+     "category_hi": "Sports",
+     "category_en": "Sports"
+    },
+    {
+     "id": "ca-ep70-s4",
+     "headline_hi": "8th Pay Commission: DA 63% hua, vetan maang tez",
+     "headline_hinglish": "8th Pay Commission: DA 63% hua, vetan maang tez",
+     "detail_hi": "Cabinet ne 3% DA badhotri ko manzoori di; karmchari 6-7% saalana increment ki maang kar rahe hain.",
+     "detail_hinglish": "Cabinet ne 3% DA badhotri ko manzoori di; karmchari 6-7% saalana increment ki maang kar rahe hain.",
+     "category_hi": "Economy",
+     "category_en": "Economy"
+    },
+    {
+     "id": "ca-ep70-s5",
+     "headline_hi": "October GST collection 2.31 lakh crore par pahuncha",
+     "headline_hinglish": "October GST collection 2.31 lakh crore par pahuncha",
+     "detail_hi": "Pichhle saal se 22.9% zyada; tyohari maang aur GST 2.0 ke baad compliance behtar hua.",
+     "detail_hinglish": "Pichhle saal se 22.9% zyada; tyohari maang aur GST 2.0 ke baad compliance behtar hua.",
+     "category_hi": "Economy",
+     "category_en": "Economy"
+    }
+   ],
+   "mcq": {
+    "id": "ca-ep70-mcq",
+    "q_hi": "Project 18A ke tahat destroyers ki anumaanit laagat kitni hai?",
+    "q_hinglish": "Project 18A ke tahat destroyers ki anumaanit laagat kitni hai?",
+    "options_hi": [
+     "50,000 crore",
+     "80,000 crore",
+     "1,00,000 crore",
+     "60,000 crore"
+    ],
+    "options_hinglish": [
+     "50,000 crore",
+     "80,000 crore",
+     "1,00,000 crore",
+     "60,000 crore"
+    ],
+    "answer_index": 1
+   }
   }
  ]
 }
