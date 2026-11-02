@@ -212,6 +212,76 @@
     ],
     "answer_index": 2
    }
+  },
+  {
+   "episode": 72,
+   "video_hi": "AJxnnAE0u4M",
+   "video_hinglish": "AJxnnAE0u4M",
+   "capsules": [
+    {
+     "id": "ca-ep72-s1",
+     "headline_hi": "Delhi ki hawa 'very poor', GRAP-2 lagu",
+     "headline_hinglish": "Delhi ki hawa 'very poor', GRAP-2 lagu",
+     "detail_hi": "AQI 300 paar, pehli baar is season; CAQM ne turant pratibandh lagaye.",
+     "detail_hinglish": "AQI 300 paar, pehli baar is season; CAQM ne turant pratibandh lagaye.",
+     "category_hi": "Environment",
+     "category_en": "Environment"
+    },
+    {
+     "id": "ca-ep72-s2",
+     "headline_hi": "Sensex 1,233 points uchhla, Reliance chamka",
+     "headline_hinglish": "Sensex 1,233 points uchhla, Reliance chamka",
+     "detail_hi": "Bazaar band hote samay Sensex 75,693 par; Reliance ka munafa 29,550 crore, 33.8% zyada.",
+     "detail_hinglish": "Bazaar band hote samay Sensex 75,693 par; Reliance ka munafa 29,550 crore, 33.8% zyada.",
+     "category_hi": "Economy",
+     "category_en": "Economy"
+    },
+    {
+     "id": "ca-ep72-s3",
+     "headline_hi": "SIR ke baad 5 rajyon mein voter ghate",
+     "headline_hinglish": "SIR ke baad 5 rajyon mein voter ghate",
+     "detail_hi": "Kul 18.71 crore se 16.43 crore hue; UP mein sabse zyada 2.04 crore ki kami.",
+     "detail_hinglish": "Kul 18.71 crore se 16.43 crore hue; UP mein sabse zyada 2.04 crore ki kami.",
+     "category_hi": "Polity",
+     "category_en": "Polity"
+    },
+    {
+     "id": "ca-ep72-s4",
+     "headline_hi": "Commercial LPG mehenga, cylinder 2,820 ka",
+     "headline_hinglish": "Commercial LPG mehenga, cylinder 2,820 ka",
+     "detail_hi": "1 November se 19 kilo cylinder 10 rupaye mehenga; gharlu LPG ke daam wahi rahe.",
+     "detail_hinglish": "1 November se 19 kilo cylinder 10 rupaye mehenga; gharlu LPG ke daam wahi rahe.",
+     "category_hi": "Energy",
+     "category_en": "National"
+    },
+    {
+     "id": "ca-ep72-s5",
+     "headline_hi": "NZ ne aakhri T20 jeeta, series Bharat ki",
+     "headline_hinglish": "NZ ne aakhri T20 jeeta, series Bharat ki",
+     "detail_hi": "Seifert ke 93 aur Phillips ke 65 se NZ ne 192 chase kiya; Bharat ne 400 T20 six ka record banaya.",
+     "detail_hinglish": "Seifert ke 93 aur Phillips ke 65 se NZ ne 192 chase kiya; Bharat ne 400 T20 six ka record banaya.",
+     "category_hi": "Sports",
+     "category_en": "Sports"
+    }
+   ],
+   "mcq": {
+    "id": "ca-ep72-mcq",
+    "q_hi": "SIR ke baad paanch rajyon mein kul kitne voter kam hue?",
+    "q_hinglish": "SIR ke baad paanch rajyon mein kul kitne voter kam hue?",
+    "options_hi": [
+     "1.29 crore",
+     "2.29 crore",
+     "3.29 crore",
+     "2.04 crore"
+    ],
+    "options_hinglish": [
+     "1.29 crore",
+     "2.29 crore",
+     "3.29 crore",
+     "2.04 crore"
+    ],
+    "answer_index": 1
+   }
   }
  ]
 }
