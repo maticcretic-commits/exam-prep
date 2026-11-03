@@ -1,0 +1,77 @@
+{
+ "date": "2026-11-04",
+ "date_hi": "4 November 2026",
+ "date_en": "4 November 2026",
+ "episodes": [
+  {
+   "episode": 77,
+   "video_hi": "IS9df8OdTOk",
+   "video_hinglish": "IS9df8OdTOk",
+   "capsules": [
+    {
+     "id": "ca-ep77-s1",
+     "headline_hi": "Raksha utpadan 3 lakh crore ka lakshya",
+     "headline_hinglish": "Raksha utpadan 3 lakh crore ka lakshya",
+     "detail_hi": "2029 tak niryaat 50,000 crore; utpadan 1.78 lakh crore ke record par pahuncha.",
+     "detail_hinglish": "2029 tak niryaat 50,000 crore; utpadan 1.78 lakh crore ke record par pahuncha.",
+     "category_hi": "Defence",
+     "category_en": "Defence"
+    },
+    {
+     "id": "ca-ep77-s2",
+     "headline_hi": "Navy ne 20 crew ko bachaya",
+     "headline_hinglish": "Navy ne 20 crew ko bachaya",
+     "detail_hi": "Arabian Sea mein 3,000 km door 48 ghante ka operation; INS Kolkata ne Azini ko aazad karaya.",
+     "detail_hinglish": "Arabian Sea mein 3,000 km door 48 ghante ka operation; INS Kolkata ne Azini ko aazad karaya.",
+     "category_hi": "Security",
+     "category_en": "National"
+    },
+    {
+     "id": "ca-ep77-s3",
+     "headline_hi": "Delhi ki hawa very poor shreni mein",
+     "headline_hinglish": "Delhi ki hawa very poor shreni mein",
+     "detail_hi": "AQI 324 par GRAP Stage 2; green patakhe 7-8 November ko nirdharit samay par.",
+     "detail_hinglish": "AQI 324 par GRAP Stage 2; green patakhe 7-8 November ko nirdharit samay par.",
+     "category_hi": "Environment",
+     "category_en": "Environment"
+    },
+    {
+     "id": "ca-ep77-s4",
+     "headline_hi": "Sensex 1,225 ank chadha",
+     "headline_hinglish": "Sensex 1,225 ank chadha",
+     "detail_hi": "76,918 par band; Nifty 370 ank badhkar 23,811 par, lagatar chauthe din tezi.",
+     "detail_hinglish": "76,918 par band; Nifty 370 ank badhkar 23,811 par, lagatar chauthe din tezi.",
+     "category_hi": "Economy",
+     "category_en": "Economy"
+    },
+    {
+     "id": "ca-ep77-s5",
+     "headline_hi": "Hockey mein Bharat ne Korea ko 8-0 haraya",
+     "headline_hinglish": "Hockey mein Bharat ne Korea ko 8-0 haraya",
+     "detail_hi": "Paanch mein paanch jeet; Harmanpreet 9 goal ke saath top scorer, semi-final aaj Mohali mein.",
+     "detail_hinglish": "Paanch mein paanch jeet; Harmanpreet 9 goal ke saath top scorer, semi-final aaj Mohali mein.",
+     "category_hi": "Sports",
+     "category_en": "Sports"
+    }
+   ],
+   "mcq": {
+    "id": "ca-ep77-mcq",
+    "q_hi": "2029 tak Bharat ka raksha utpadan lakshya kitna hai?",
+    "q_hinglish": "2029 tak Bharat ka raksha utpadan lakshya kitna hai?",
+    "options_hi": [
+     "2 lakh crore",
+     "3 lakh crore",
+     "4 lakh crore",
+     "5 lakh crore"
+    ],
+    "options_hinglish": [
+     "2 lakh crore",
+     "3 lakh crore",
+     "4 lakh crore",
+     "5 lakh crore"
+    ],
+    "answer_index": 1
+   }
+  }
+ ]
+}
