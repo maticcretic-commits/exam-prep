@@ -142,6 +142,76 @@
     ],
     "answer_index": 1
    }
+  },
+  {
+   "episode": 75,
+   "video_hi": "2BuCZ8I7exo",
+   "video_hinglish": "2BuCZ8I7exo",
+   "capsules": [
+    {
+     "id": "ca-ep75-s1",
+     "headline_hi": "GST collection 2.31 lakh crore pahuncha",
+     "headline_hinglish": "GST collection 2.31 lakh crore pahuncha",
+     "detail_hi": "October mein 22.9% badhotri, dusra sabse bada monthly collection; import se 42.2% zyada revenue.",
+     "detail_hinglish": "October mein 22.9% badhotri, dusra sabse bada monthly collection; import se 42.2% zyada revenue.",
+     "category_hi": "Economy",
+     "category_en": "Economy"
+    },
+    {
+     "id": "ca-ep75-s2",
+     "headline_hi": "Navy ko milenge 8 naye corvettes",
+     "headline_hinglish": "Navy ko milenge 8 naye corvettes",
+     "detail_hi": "53,866 crore ke contract; GRSE paanch aur Goa Shipyard teen jahaz banayega, swadeshi design.",
+     "detail_hinglish": "53,866 crore ke contract; GRSE paanch aur Goa Shipyard teen jahaz banayega, swadeshi design.",
+     "category_hi": "Defence",
+     "category_en": "Defence"
+    },
+    {
+     "id": "ca-ep75-s3",
+     "headline_hi": "Sindhu-Lakshya ne Hylo Open jeeta",
+     "headline_hinglish": "Sindhu-Lakshya ne Hylo Open jeeta",
+     "detail_hi": "Sindhu ne Denmark ki Kjaersfeldt ko 21-12, 21-14 se haraya; Lakshya ne Christie ko 21-17, 21-10 se.",
+     "detail_hinglish": "Sindhu ne Denmark ki Kjaersfeldt ko 21-12, 21-14 se haraya; Lakshya ne Christie ko 21-17, 21-10 se.",
+     "category_hi": "Sports",
+     "category_en": "Sports"
+    },
+    {
+     "id": "ca-ep75-s4",
+     "headline_hi": "Navy ne 20 crew ko pirates se bachaya",
+     "headline_hinglish": "Navy ne 20 crew ko pirates se bachaya",
+     "detail_hi": "48 ghante ke operation mein Azini jahaz ko Somalia ke paas se chhudaya; koi casualty nahi.",
+     "detail_hinglish": "48 ghante ke operation mein Azini jahaz ko Somalia ke paas se chhudaya; koi casualty nahi.",
+     "category_hi": "Security",
+     "category_en": "National"
+    },
+    {
+     "id": "ca-ep75-s5",
+     "headline_hi": "Bharat Renewable Energy Summit shuru hua",
+     "headline_hinglish": "Bharat Renewable Energy Summit shuru hua",
+     "detail_hi": "PM Modi ne Bharat Mandapam mein udghatan kiya; 130 se zyada desh, 500 GW ka 2030 lakshya.",
+     "detail_hinglish": "PM Modi ne Bharat Mandapam mein udghatan kiya; 130 se zyada desh, 500 GW ka 2030 lakshya.",
+     "category_hi": "Energy",
+     "category_en": "National"
+    }
+   ],
+   "mcq": {
+    "id": "ca-ep75-mcq",
+    "q_hi": "October 2026 mein gross GST collection kitna raha?",
+    "q_hinglish": "October 2026 mein gross GST collection kitna raha?",
+    "options_hi": [
+     "1.88 lakh crore",
+     "2.03 lakh crore",
+     "2.42 lakh crore",
+     "2.31 lakh crore"
+    ],
+    "options_hinglish": [
+     "1.88 lakh crore",
+     "2.03 lakh crore",
+     "2.42 lakh crore",
+     "2.31 lakh crore"
+    ],
+    "answer_index": 3
+   }
   }
  ]
 }
