@@ -22,111 +22,111 @@ ROOT = Path(__file__).resolve().parent.parent
 # legacy counts established via the page's real parse path (node eval)
 EXPECTED = {
     "ssc": {
-        "questions": 1003,
-        "oneliners": 516,
-        "capsules": 459
+        "questions": 1007,
+        "oneliners": 519,
+        "capsules": 460
     },
     "pte": {
-        "questions": 701,
+        "questions": 704,
+        "oneliners": 60,
+        "capsules": 46
+    },
+    "toefl": {
+        "questions": 793,
+        "oneliners": 66,
+        "capsules": 56
+    },
+    "gre": {
+        "questions": 712,
+        "oneliners": 56,
+        "capsules": 46
+    },
+    "gmat": {
+        "questions": 713,
+        "oneliners": 54,
+        "capsules": 44
+    },
+    "sat": {
+        "questions": 716,
         "oneliners": 58,
         "capsules": 45
     },
-    "toefl": {
-        "questions": 790,
-        "oneliners": 64,
-        "capsules": 55
-    },
-    "gre": {
-        "questions": 709,
-        "oneliners": 54,
-        "capsules": 45
-    },
-    "gmat": {
-        "questions": 710,
-        "oneliners": 52,
-        "capsules": 43
-    },
-    "sat": {
-        "questions": 714,
-        "oneliners": 56,
-        "capsules": 44
-    },
     "ielts": {
-        "questions": 741,
-        "oneliners": 69,
-        "capsules": 57,
+        "questions": 744,
+        "oneliners": 71,
+        "capsules": 58,
         "resources": 100
     },
     "railways": {
-        "questions": 1078,
-        "capsules": 77,
-        "oneliners": 86
+        "questions": 1082,
+        "capsules": 78,
+        "oneliners": 89
     },
     "law": {
-        "questions": 903,
-        "capsules": 258,
-        "oneliners": 376
+        "questions": 907,
+        "capsules": 260,
+        "oneliners": 379
     },
     "neet": {
-        "questions": 1199,
-        "oneliners": 489,
-        "capsules": 87
+        "questions": 1203,
+        "oneliners": 492,
+        "capsules": 88
     },
     "bpsc": {
-        "questions": 2142,
-        "capsules": 1079,
-        "oneliners": 1007
+        "questions": 2146,
+        "capsules": 1080,
+        "oneliners": 1010
     },
     "banking-certs": {
-        "questions": 2262,
-        "oneliners": 1170,
-        "capsules": 359,
+        "questions": 2266,
+        "oneliners": 1173,
+        "capsules": 360,
         "videos": 48
     },
     "upsc": {
-        "questions": 1174,
-        "oneliners": 108,
-        "capsules": 109
+        "questions": 1178,
+        "oneliners": 111,
+        "capsules": 110
     },
     "jee": {
-        "questions": 1270,
-        "oneliners": 423,
-        "capsules": 78
+        "questions": 1274,
+        "oneliners": 426,
+        "capsules": 79
     },
     "banking": {
-        "questions": 1037,
-        "capsules": 131,
-        "oneliners": 107
+        "questions": 1041,
+        "capsules": 132,
+        "oneliners": 110
     },
     "defence": {
-        "questions": 1155,
-        "capsules": 93,
-        "oneliners": 94
+        "questions": 1159,
+        "capsules": 95,
+        "oneliners": 97
     },
     "current-affairs": {
-        "questions": 958,
-        "oneliners": 171,
-        "capsules": 155
+        "questions": 962,
+        "oneliners": 174,
+        "capsules": 157
     },
     "software-ai-tech": {
-        "questions": 961,
-        "oneliners": 484,
-        "capsules": 102
+        "questions": 964,
+        "oneliners": 487,
+        "capsules": 103
     },
     "teaching": {
-        "questions": 896,
-        "capsules": 80,
-        "oneliners": 80
+        "questions": 900,
+        "capsules": 81,
+        "oneliners": 83
     },
     "ca": {
-        "questions": 1036,
-        "oneliners": 83,
-        "capsules": 84
+        "questions": 1040,
+        "oneliners": 86,
+        "capsules": 85
     },
     "sarkari-vacancies": {
-        "questions": 58,
-        "oneliners": 49,
-        "capsules": 31,
+        "questions": 61,
+        "oneliners": 52,
+        "capsules": 33,
         "videos": 0,
         "listings": 251
     }
