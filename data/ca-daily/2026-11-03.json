@@ -72,6 +72,76 @@
     ],
     "answer_index": 2
    }
+  },
+  {
+   "episode": 74,
+   "video_hi": "cKjvpL_Qjng",
+   "video_hinglish": "cKjvpL_Qjng",
+   "capsules": [
+    {
+     "id": "ca-ep74-s1",
+     "headline_hi": "Cyclone Murasu Ongole kinare takraya",
+     "headline_hinglish": "Cyclone Murasu Ongole kinare takraya",
+     "detail_hi": "Subah 3:30 se 5:30 ke beech kinara paar kiya; 120 kmph tak hawayein, 19 flights cancel.",
+     "detail_hinglish": "Subah 3:30 se 5:30 ke beech kinara paar kiya; 120 kmph tak hawayein, 19 flights cancel.",
+     "category_hi": "Disaster",
+     "category_en": "National"
+    },
+    {
+     "id": "ca-ep74-s2",
+     "headline_hi": "Banking sudhaar ke liye high-level committee bani",
+     "headline_hinglish": "Banking sudhaar ke liye high-level committee bani",
+     "detail_hi": "Suresh N. Patel adhyaksh honge; 6 mahine mein Viksit Bharat 2047 ke liye sudhaar sujhayenge.",
+     "detail_hinglish": "Suresh N. Patel adhyaksh honge; 6 mahine mein Viksit Bharat 2047 ke liye sudhaar sujhayenge.",
+     "category_hi": "Banking",
+     "category_en": "Banking"
+    },
+    {
+     "id": "ca-ep74-s3",
+     "headline_hi": "Manisha Bhanwala bani pehli mahila world champion",
+     "headline_hinglish": "Manisha Bhanwala bani pehli mahila world champion",
+     "detail_hi": "59kg final mein America ki Nette ko 8-6 se haraya; 6-0 se peeche rehkar wapsi ki.",
+     "detail_hinglish": "59kg final mein America ki Nette ko 8-6 se haraya; 6-0 se peeche rehkar wapsi ki.",
+     "category_hi": "Sports",
+     "category_en": "Sports"
+    },
+    {
+     "id": "ca-ep74-s4",
+     "headline_hi": "Delhi mein GRAP Stage-II lagu, AQI 324",
+     "headline_hinglish": "Delhi mein GRAP Stage-II lagu, AQI 324",
+     "detail_hi": "Hawa 'very poor' shreni mein; 31 October ko AQI 117 se badhkar 324 ho gaya.",
+     "detail_hinglish": "Hawa 'very poor' shreni mein; 31 October ko AQI 117 se badhkar 324 ho gaya.",
+     "category_hi": "Environment",
+     "category_en": "Environment"
+    },
+    {
+     "id": "ca-ep74-s5",
+     "headline_hi": "21 lakh gharon ka bijli bill zero",
+     "headline_hinglish": "21 lakh gharon ka bijli bill zero",
+     "detail_hi": "65 lakh gharon mein rooftop solar laga; solar bijli 2.15 rupaye per unit tak sasti hui.",
+     "detail_hinglish": "65 lakh gharon mein rooftop solar laga; solar bijli 2.15 rupaye per unit tak sasti hui.",
+     "category_hi": "Energy",
+     "category_en": "National"
+    }
+   ],
+   "mcq": {
+    "id": "ca-ep74-mcq",
+    "q_hi": "Banking ke liye bani high-level committee ke adhyaksh kaun hain?",
+    "q_hinglish": "Banking ke liye bani high-level committee ke adhyaksh kaun hain?",
+    "options_hi": [
+     "Shirish Chandra Murmu",
+     "Suresh N. Patel",
+     "N. S. Vishwanathan",
+     "Padmaja Chunduru"
+    ],
+    "options_hinglish": [
+     "Shirish Chandra Murmu",
+     "Suresh N. Patel",
+     "N. S. Vishwanathan",
+     "Padmaja Chunduru"
+    ],
+    "answer_index": 1
+   }
   }
  ]
 }
