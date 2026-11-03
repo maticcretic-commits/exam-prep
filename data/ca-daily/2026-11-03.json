@@ -212,6 +212,76 @@
     ],
     "answer_index": 3
    }
+  },
+  {
+   "episode": 76,
+   "video_hi": "VeWgpdymfB4",
+   "video_hinglish": "VeWgpdymfB4",
+   "capsules": [
+    {
+     "id": "ca-ep76-s1",
+     "headline_hi": "Cyclone Murasu Andhra coast par takraya",
+     "headline_hinglish": "Cyclone Murasu Andhra coast par takraya",
+     "detail_hi": "Ongole ke paas 110-120 kmph hawa; 30,000 hectare se zyada fasal ko nuksan.",
+     "detail_hinglish": "Ongole ke paas 110-120 kmph hawa; 30,000 hectare se zyada fasal ko nuksan.",
+     "category_hi": "Environment",
+     "category_en": "Environment"
+    },
+    {
+     "id": "ca-ep76-s2",
+     "headline_hi": "Pune Metro Pink Line shuru hui",
+     "headline_hinglish": "Pune Metro Pink Line shuru hui",
+     "detail_hi": "23 km line Hinjewadi IT hub ko District Court se jodegi; Phase-II mein chaar naye corridor.",
+     "detail_hinglish": "23 km line Hinjewadi IT hub ko District Court se jodegi; Phase-II mein chaar naye corridor.",
+     "category_hi": "Infrastructure",
+     "category_en": "National"
+    },
+    {
+     "id": "ca-ep76-s3",
+     "headline_hi": "Banking reforms ke liye high-level committee",
+     "headline_hinglish": "Banking reforms ke liye high-level committee",
+     "detail_hi": "Suresh N. Patel ki adhyakshata mein committee; chhah mahine mein Viksit Bharat ke liye sujhav degi.",
+     "detail_hinglish": "Suresh N. Patel ki adhyakshata mein committee; chhah mahine mein Viksit Bharat ke liye sujhav degi.",
+     "category_hi": "Economy",
+     "category_en": "Economy"
+    },
+    {
+     "id": "ca-ep76-s4",
+     "headline_hi": "Manisha ne wrestling world title jeeta",
+     "headline_hinglish": "Manisha ne wrestling world title jeeta",
+     "detail_hi": "59kg final mein America ki Nette ko 8-6 se haraya; pehli Bharatiya mahila world champion bani.",
+     "detail_hinglish": "59kg final mein America ki Nette ko 8-6 se haraya; pehli Bharatiya mahila world champion bani.",
+     "category_hi": "Sports",
+     "category_en": "Sports"
+    },
+    {
+     "id": "ca-ep76-s5",
+     "headline_hi": "IIT Delhi QS Asia mein 66th",
+     "headline_hinglish": "IIT Delhi QS Asia mein 66th",
+     "detail_hi": "Saat sthan phisla, phir bhi Bharat ka top institute; 325 Bharatiya university ranking mein shamil.",
+     "detail_hinglish": "Saat sthan phisla, phir bhi Bharat ka top institute; 325 Bharatiya university ranking mein shamil.",
+     "category_hi": "Education",
+     "category_en": "Education"
+    }
+   ],
+   "mcq": {
+    "id": "ca-ep76-mcq",
+    "q_hi": "Pune Metro Pink Line ki lambai kitni hai?",
+    "q_hinglish": "Pune Metro Pink Line ki lambai kitni hai?",
+    "options_hi": [
+     "18 km",
+     "21 km",
+     "23 km",
+     "26 km"
+    ],
+    "options_hinglish": [
+     "18 km",
+     "21 km",
+     "23 km",
+     "26 km"
+    ],
+    "answer_index": 2
+   }
   }
  ]
 }
