@@ -88,7 +88,78 @@
       ],
       "image": null,
       "image_credit": null
+    },
+    {
+      "id": "world-20261104-0822-01",
+      "published_ist": "2026-11-04T07:46:00+05:30",
+      "headline": "Georgia: Bottoms pehli Black mahila governor",
+      "detail": "Keisha Lance Bottoms ne Rick Jackson ko harakar Georgia ki pehli mahila governor banne ka itihas rach diya; ve America mein chuni gayi pehli Black mahila governor hain.",
+      "category": "World",
+      "exam_angle": "America ki chunav vyavastha: International exams ke liye — governor chunav.",
+      "source": "Reuters",
+      "source_url": "https://www.reuters.com/world/us/keisha-lance-bottoms-wins-georgia-race-becomes-first-black-woman-elected-2026-11-04/",
+      "genuineness": "verified",
+      "outlets": [
+        "Reuters",
+        "Associated Press",
+        "The Wall Street Journal"
+      ],
+      "image": null,
+      "image_credit": null
+    },
+    {
+      "id": "world-20261104-0822-02",
+      "published_ist": "2026-11-04T07:46:00+05:30",
+      "headline": "Florida: Donalds pehle Black governor bane",
+      "detail": "Republican Byron Donalds ne Democrat David Jolly ko harakar Florida ke pehle Black governor banne ka itihas rach diya; ve DeSantis ki jagah lenge.",
+      "category": "World",
+      "exam_angle": "America ki chunav vyavastha: International exams ke liye — governor chunav.",
+      "source": "USA Today",
+      "source_url": "https://www.usatoday.com/story/news/politics/elections/2026/11/03/midterm-elections-results-updates-2026--live/91892413007/",
+      "genuineness": "corroborated",
+      "outlets": [
+        "Associated Press",
+        "USA Today"
+      ],
+      "image": null,
+      "image_credit": null
+    },
+    {
+      "id": "world-20261104-0822-03",
+      "published_ist": "2026-11-04T07:44:00+05:30",
+      "headline": "North Carolina: Cooper ne Senate seat jeeti",
+      "detail": "Poorv governor Roy Cooper ne Trump-samarthit Michael Whatley ko harakar Republican ke paas thi seat Democrats ko dilayi; yah Democrats ki pehli seat badli hai.",
+      "category": "World",
+      "exam_angle": "America ki chunav vyavastha: International exams ke liye — Senate aur midterm chunav.",
+      "source": "Reuters",
+      "source_url": "https://www.reuters.com/legal/government/democrat-roy-cooper-flips-republican-held-us-senate-seat-north-carolina-2026-11-04/",
+      "genuineness": "verified",
+      "outlets": [
+        "Reuters",
+        "Associated Press",
+        "USA Today"
+      ],
+      "image": null,
+      "image_credit": null
+    },
+    {
+      "id": "world-20261104-0822-04",
+      "published_ist": "2026-11-03T23:03:37+05:30",
+      "headline": "Greenland: America raksha samjhauta manzoor",
+      "detail": "Greenland ki sansad ne 16-0 se, saat ke vote na dene ke saath, America-Denmark raksha samjhaute ko manzoori di, jisse do naye American adde ban sakenge; Denmark 19 November ko vote karega.",
+      "category": "World",
+      "exam_angle": "Arctic aur raksha samjhaute: International exams ke liye — Greenland, Denmark aur America.",
+      "source": "BusinessDay",
+      "source_url": "https://www.businessday.co.za/world/americas/2026-11-03-greenland-ratifies-security-deal-agreed-with-trump/",
+      "genuineness": "verified",
+      "outlets": [
+        "Reuters",
+        "Agence France-Presse",
+        "WION"
+      ],
+      "image": null,
+      "image_credit": null
     }
   ],
-  "updated_ist": "2026-11-04T07:25:36+05:30"
+  "updated_ist": "2026-11-04T08:28:12+05:30"
 }
