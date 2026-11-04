@@ -1,6 +1,96 @@
 {
   "items": [
     {
+      "id": "world-20261104-1122-01",
+      "published_ist": "2026-11-04T10:57:00+05:30",
+      "headline": "Maine: Jackson ne Collins ko haraya",
+      "detail": "Democrat Troy Jackson ne paanch baar chuni gayi Senator Susan Collins ko harakar Maine ki seat palti; Collins 1996 se Senator thi aur unhone haar maan li.",
+      "category": "World",
+      "exam_angle": "America ki chunav vyavastha: International exams ke liye — Senate aur midterm chunav.",
+      "source": "Reuters",
+      "source_url": "https://www.reuters.com/world/us/democrat-troy-jackson-ousts-republican-senator-susan-collins-maine-2026-11-04/",
+      "genuineness": "verified",
+      "outlets": [
+        "Reuters",
+        "USA Today",
+        "Associated Press"
+      ],
+      "image": null,
+      "image_credit": null
+    },
+    {
+      "id": "world-20261104-1122-02",
+      "published_ist": "2026-11-04T10:01:00+05:30",
+      "headline": "Texas: Hinojosa ne Abbott ko haraya",
+      "detail": "Democrat Gina Hinojosa ne Governor Greg Abbott ko harakar Texas ki pehli Latina governor banne ka itihas racha; ve 1990 ke baad pehli Democrat governor hain.",
+      "category": "World",
+      "exam_angle": "America ki chunav vyavastha: International exams ke liye — governor chunav.",
+      "source": "Associated Press",
+      "source_url": "https://www.lanacion.com.ar/usa/democrat-gina-hinojosa-elected-texas-first-latina-governor-ousts-republican-incumbent-greg-abbott-nid04112026/",
+      "genuineness": "verified",
+      "outlets": [
+        "Associated Press",
+        "USA Today",
+        "Reuters"
+      ],
+      "image": null,
+      "image_credit": null
+    },
+    {
+      "id": "world-20261104-1122-03",
+      "published_ist": "2026-11-04T09:55:00+05:30",
+      "headline": "Ohio: Acton pehli mahila governor bani",
+      "detail": "Democrat Amy Acton ne Vivek Ramaswamy ko harakar Ohio ki pehli chuni gayi mahila governor banne ka itihas racha; ve 20 saal mein pehli Democrat governor hain.",
+      "category": "World",
+      "exam_angle": "America ki chunav vyavastha: International exams ke liye — governor chunav.",
+      "source": "Al Jazeera",
+      "source_url": "https://www.aljazeera.com/amp/news/2026/11/4/democrat-amy-acton-beats-republican-vivek-ramaswamy-in-ohio-governors-race",
+      "genuineness": "verified",
+      "outlets": [
+        "Associated Press",
+        "Al Jazeera",
+        "The Wall Street Journal"
+      ],
+      "image": null,
+      "image_credit": null
+    },
+    {
+      "id": "world-20261104-1122-04",
+      "published_ist": "2026-11-04T09:38:00+05:30",
+      "headline": "Kansas: Hamilton 1932 ke baad pehle Democrat",
+      "detail": "Democrat Adam Hamilton ne Senator Roger Marshall ko harakar 1932 ke baad Kansas se Senate jeetne wale pehle Democrat ban gaye.",
+      "category": "World",
+      "exam_angle": "America ki chunav vyavastha: International exams ke liye — Senate aur midterm chunav.",
+      "source": "The Times",
+      "source_url": "https://www.thetimes.com/us/american-politics/article/midterm-elections-live-results-2026-democrats-senate-house-latest-news-0wc80r5br",
+      "genuineness": "verified",
+      "outlets": [
+        "Associated Press",
+        "The Times",
+        "Agence France-Presse"
+      ],
+      "image": null,
+      "image_credit": null
+    },
+    {
+      "id": "world-20261104-1122-05",
+      "published_ist": "2026-11-04T03:59:00+05:30",
+      "headline": "Spain: Mantri Puente ne istifa diya",
+      "detail": "Parivahan Mantri Oscar Puente ne 69 logon ki jaan lene wale train hadse ke chhah din baad istifa de diya; saal mein yah doosra bada rail hadsa tha.",
+      "category": "World",
+      "exam_angle": "Rail suraksha aur jawabdehi: International exams ke liye — Spain mein mantri ka istifa.",
+      "source": "CNN",
+      "source_url": "https://www.cnn.com/2026/11/03/americas/spain-transport-minister-resigns-intl-latam?cid=external-feeds_iluminar_meta",
+      "genuineness": "verified",
+      "outlets": [
+        "CNN",
+        "The Times",
+        "Agence France-Presse"
+      ],
+      "image": null,
+      "image_credit": null
+    },
+    {
       "id": "world-20261104-1022-01",
       "published_ist": "2026-11-04T10:07:00+05:30",
       "headline": "America: Democrats ne Senate bhi jeeta",
@@ -336,96 +426,7 @@
       "published_ist": "2026-11-03T18:49:00+05:30",
       "source": "ANews",
       "source_url": "https://www.anews.com.tr/world/2026/11/03/uk-spy-agency-mi5-will-not-face-contempt-case-for-misleading-evidence"
-    },
-    {
-      "category": "World",
-      "detail": "4 November se wholesale diesel 1.20 rand/litre tak sasta hoga, petrol sirf 1 cent kam hoga; levy katauti ke bawjood mehenga crude aur kamzor rand ne raahat seemit rakhi.",
-      "exam_angle": "Eendhan kar aur mudra: Economy exams ke liye — fuel levy, rand aur aayat par nirbharta.",
-      "genuineness": "verified",
-      "headline": "South Africa: Diesel sasta, petrol lagbhag wahi",
-      "id": "world-20261103-2122-02",
-      "image": null,
-      "image_credit": null,
-      "outlets": [
-        "Reuters",
-        "BusinessDay",
-        "IOL"
-      ],
-      "published_ist": "2026-11-03T15:52:24+05:30",
-      "source": "Reuters",
-      "source_url": "https://www.reuters.com/world/africa/south-africas-diesel-price-drop-petrol-little-changed-after-levy-cut-2026-11-03/"
-    },
-    {
-      "category": "World",
-      "detail": "132 mein se 109 sansadon ne sanshodhit budget ke khilaf vote diya; budget ko IMF ke naye karyakram ke liye zaroori mana ja raha tha.",
-      "exam_angle": "Sansadiya vitt aur IMF: Economy exams ke liye — sanshodhit budget, IMF karyakram aur sarkar-sansad takraav.",
-      "genuineness": "corroborated",
-      "headline": "Senegal: Sansad ne sanshodhit budget kharij kiya",
-      "id": "world-20261103-1922-01",
-      "image": null,
-      "image_credit": null,
-      "outlets": [
-        "Reuters",
-        "Seneweb"
-      ],
-      "published_ist": "2026-11-03T18:05:00+05:30",
-      "source": "Reuters",
-      "source_url": "https://www.reuters.com/world/africa/senegal-parliament-votes-against-revised-budget-bill-2026-11-03/"
-    },
-    {
-      "category": "World",
-      "detail": "Amirhossein Maleki aur Amirhossein Ebrahimi ko Isfahan mein chaar policekarmiyon ki maut ke mamle mein doshi thahraya gaya tha; Fars ke mutabik Supreme Court ne saza barkarar rakhi thi.",
-      "exam_angle": "Manavadhikar aur dand: International exams ke liye — virodh, mrityudand aur nyayik prakriya.",
-      "genuineness": "verified",
-      "headline": "Iran: January virodh mamle mein do ko phansi",
-      "id": "world-20261103-1922-02",
-      "image": null,
-      "image_credit": null,
-      "outlets": [
-        "Reuters",
-        "Arab News",
-        "The National"
-      ],
-      "published_ist": "2026-11-03T11:41:00+05:30",
-      "source": "Reuters",
-      "source_url": "https://www.reuters.com/world/middle-east/two-men-executed-iran-over-killing-police-officers-during-january-protests-fars-2026-11-03/"
-    },
-    {
-      "category": "World",
-      "detail": "People's Bank of China ne kaha 15 November se videshi mudra jama reserve ratio 4% se badhkar 6% hoga; ghoshna ke baad yuan 0.4% tak kamzor pada.",
-      "exam_angle": "Mudra neeti aur videshi mudra: Economy exams ke liye — reserve ratio, yuan aur kendriya bank ke upay.",
-      "genuineness": "corroborated",
-      "headline": "China ne videshi mudra reserve ratio badhaya",
-      "id": "world-20261103-1922-03",
-      "image": null,
-      "image_credit": null,
-      "outlets": [
-        "Reuters",
-        "The Edge"
-      ],
-      "published_ist": "2026-11-03T06:25:00+05:30",
-      "source": "Reuters",
-      "source_url": "https://www.reuters.com/world/asia-pacific/china-raise-forex-deposit-reserve-ratio-6-starting-november-15-2026-11-03/"
-    },
-    {
-      "category": "World",
-      "detail": "Raat bhar ke hamle mein bijli ghar aur substation nishana bane; Kyiv aur chhah kshetron mein aapatkaaleen bijli katauti lagi, Vinnytsia, Zhytomyr aur Kharkiv mein sabse zyada asar hua.",
-      "exam_angle": "Oorja suraksha aur yuddh: International exams ke liye — bijli buniyadi dhancha, aapatkaaleen prabandhan aur nagrik asar.",
-      "genuineness": "verified",
-      "headline": "Ukraine: 10 kshetron mein oorja par hamla",
-      "id": "world-20261103-1822-01",
-      "image": null,
-      "image_credit": null,
-      "outlets": [
-        "Ukrinform",
-        "Kyiv Post",
-        "Ukrainska Pravda",
-        "Associated Press"
-      ],
-      "published_ist": "2026-11-03T15:46:00+05:30",
-      "source": "Ukrinform",
-      "source_url": "https://www.ukrinform.net/rubric-economy/4180856-russian-attack-hits-energy-infrastructure-in-10-regions-energy-ministry.html"
     }
   ],
-  "updated_ist": "2026-11-04T10:26:51+05:30"
+  "updated_ist": "2026-11-04T11:29:42+05:30"
 }
