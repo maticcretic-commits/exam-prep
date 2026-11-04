@@ -355,7 +355,60 @@
       ],
       "image": null,
       "image_credit": null
+    },
+    {
+      "id": "world-20261104-1222-01",
+      "published_ist": "2026-11-04T10:00:00+05:30",
+      "headline": "Iowa: Turek ne Hinson ko haraya",
+      "detail": "Democrat Josh Turek ne Republican Ashley Hinson ko harakar Iowa ki Senate seat palti; ve 2008 ke baad Iowa se Senate jeetne wale pehle Democrat hain.",
+      "category": "World",
+      "exam_angle": "America ki chunav vyavastha: International exams ke liye — Senate aur midterm chunav.",
+      "source": "Des Moines Register",
+      "source_url": "https://www.desmoinesregister.com/story/news/politics/elections/2026/11/03/ashley-hinson-josh-turek-iowa-senate-race-midterm-election-results/92443760007/",
+      "genuineness": "verified",
+      "outlets": [
+        "Associated Press",
+        "Des Moines Register",
+        "Nikkei Asia"
+      ],
+      "image": null,
+      "image_credit": null
+    },
+    {
+      "id": "world-20261104-1222-02",
+      "published_ist": "2026-11-04T09:40:00+05:30",
+      "headline": "Ohio: Brown Senate mein wapas aaye",
+      "detail": "Democrat Sherrod Brown ne Republican Jon Husted ko harakar Ohio ki Senate seat palti; yah vishesh chunav JD Vance ke uprashtrapati banne se khaali hui seat ke liye tha.",
+      "category": "World",
+      "exam_angle": "America ki chunav vyavastha: International exams ke liye — Senate aur midterm chunav; vishesh chunav.",
+      "source": "The Wall Street Journal",
+      "source_url": "https://www.wsj.com/livecoverage/midterm-election-results-2026-latest-updates/card/ohio-democrat-sherrod-brown-wins-battle-to-return-to-senate-0HgWxXD74TQ7dZ8sdtF9",
+      "genuineness": "corroborated",
+      "outlets": [
+        "Associated Press",
+        "The Wall Street Journal"
+      ],
+      "image": null,
+      "image_credit": null
+    },
+    {
+      "id": "world-20261104-1222-03",
+      "published_ist": "2026-11-04T09:33:00+05:30",
+      "headline": "Texas: Talarico ne Paxton ko haraya",
+      "detail": "Democrat James Talarico ne Republican Ken Paxton ko harakar Texas ki Senate seat palti; ve 1988 ke baad Texas se Senate jeetne wale pehle Democrat hain.",
+      "category": "World",
+      "exam_angle": "America ki chunav vyavastha: International exams ke liye — Senate aur midterm chunav.",
+      "source": "New York Post",
+      "source_url": "https://nypost.com/2026/11/03/us-news/james-talarico-turns-texas-blue-with-defeat-of-republican-ken-paxton/",
+      "genuineness": "verified",
+      "outlets": [
+        "Associated Press",
+        "New York Post",
+        "The Economic Times"
+      ],
+      "image": null,
+      "image_credit": null
     }
   ],
-  "updated_ist": "2026-11-04T11:29:42+05:30"
+  "updated_ist": "2026-11-04T12:27:08+05:30"
 }
