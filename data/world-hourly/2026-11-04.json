@@ -265,7 +265,97 @@
       ],
       "image": null,
       "image_credit": null
+    },
+    {
+      "id": "world-20261104-1122-01",
+      "published_ist": "2026-11-04T10:57:00+05:30",
+      "headline": "Maine: Jackson ne Collins ko haraya",
+      "detail": "Democrat Troy Jackson ne paanch baar chuni gayi Senator Susan Collins ko harakar Maine ki seat palti; Collins 1996 se Senator thi aur unhone haar maan li.",
+      "category": "World",
+      "exam_angle": "America ki chunav vyavastha: International exams ke liye — Senate aur midterm chunav.",
+      "source": "Reuters",
+      "source_url": "https://www.reuters.com/world/us/democrat-troy-jackson-ousts-republican-senator-susan-collins-maine-2026-11-04/",
+      "genuineness": "verified",
+      "outlets": [
+        "Reuters",
+        "USA Today",
+        "Associated Press"
+      ],
+      "image": null,
+      "image_credit": null
+    },
+    {
+      "id": "world-20261104-1122-02",
+      "published_ist": "2026-11-04T10:01:00+05:30",
+      "headline": "Texas: Hinojosa ne Abbott ko haraya",
+      "detail": "Democrat Gina Hinojosa ne Governor Greg Abbott ko harakar Texas ki pehli Latina governor banne ka itihas racha; ve 1990 ke baad pehli Democrat governor hain.",
+      "category": "World",
+      "exam_angle": "America ki chunav vyavastha: International exams ke liye — governor chunav.",
+      "source": "Associated Press",
+      "source_url": "https://www.lanacion.com.ar/usa/democrat-gina-hinojosa-elected-texas-first-latina-governor-ousts-republican-incumbent-greg-abbott-nid04112026/",
+      "genuineness": "verified",
+      "outlets": [
+        "Associated Press",
+        "USA Today",
+        "Reuters"
+      ],
+      "image": null,
+      "image_credit": null
+    },
+    {
+      "id": "world-20261104-1122-03",
+      "published_ist": "2026-11-04T09:55:00+05:30",
+      "headline": "Ohio: Acton pehli mahila governor bani",
+      "detail": "Democrat Amy Acton ne Vivek Ramaswamy ko harakar Ohio ki pehli chuni gayi mahila governor banne ka itihas racha; ve 20 saal mein pehli Democrat governor hain.",
+      "category": "World",
+      "exam_angle": "America ki chunav vyavastha: International exams ke liye — governor chunav.",
+      "source": "Al Jazeera",
+      "source_url": "https://www.aljazeera.com/amp/news/2026/11/4/democrat-amy-acton-beats-republican-vivek-ramaswamy-in-ohio-governors-race",
+      "genuineness": "verified",
+      "outlets": [
+        "Associated Press",
+        "Al Jazeera",
+        "The Wall Street Journal"
+      ],
+      "image": null,
+      "image_credit": null
+    },
+    {
+      "id": "world-20261104-1122-04",
+      "published_ist": "2026-11-04T09:38:00+05:30",
+      "headline": "Kansas: Hamilton 1932 ke baad pehle Democrat",
+      "detail": "Democrat Adam Hamilton ne Senator Roger Marshall ko harakar 1932 ke baad Kansas se Senate jeetne wale pehle Democrat ban gaye.",
+      "category": "World",
+      "exam_angle": "America ki chunav vyavastha: International exams ke liye — Senate aur midterm chunav.",
+      "source": "The Times",
+      "source_url": "https://www.thetimes.com/us/american-politics/article/midterm-elections-live-results-2026-democrats-senate-house-latest-news-0wc80r5br",
+      "genuineness": "verified",
+      "outlets": [
+        "Associated Press",
+        "The Times",
+        "Agence France-Presse"
+      ],
+      "image": null,
+      "image_credit": null
+    },
+    {
+      "id": "world-20261104-1122-05",
+      "published_ist": "2026-11-04T03:59:00+05:30",
+      "headline": "Spain: Mantri Puente ne istifa diya",
+      "detail": "Parivahan Mantri Oscar Puente ne 69 logon ki jaan lene wale train hadse ke chhah din baad istifa de diya; saal mein yah doosra bada rail hadsa tha.",
+      "category": "World",
+      "exam_angle": "Rail suraksha aur jawabdehi: International exams ke liye — Spain mein mantri ka istifa.",
+      "source": "CNN",
+      "source_url": "https://www.cnn.com/2026/11/03/americas/spain-transport-minister-resigns-intl-latam?cid=external-feeds_iluminar_meta",
+      "genuineness": "verified",
+      "outlets": [
+        "CNN",
+        "The Times",
+        "Agence France-Presse"
+      ],
+      "image": null,
+      "image_credit": null
     }
   ],
-  "updated_ist": "2026-11-04T10:26:51+05:30"
+  "updated_ist": "2026-11-04T11:29:42+05:30"
 }
