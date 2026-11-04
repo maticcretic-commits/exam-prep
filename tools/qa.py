@@ -22,113 +22,113 @@ ROOT = Path(__file__).resolve().parent.parent
 # legacy counts established via the page's real parse path (node eval)
 EXPECTED = {
     "ssc": {
-        "questions": 1010,
-        "oneliners": 521,
-        "capsules": 461
+        "questions": 1015,
+        "oneliners": 524,
+        "capsules": 463
     },
     "pte": {
-        "questions": 707,
+        "questions": 710,
+        "oneliners": 62,
+        "capsules": 48
+    },
+    "toefl": {
+        "questions": 800,
+        "oneliners": 68,
+        "capsules": 58
+    },
+    "gre": {
+        "questions": 719,
+        "oneliners": 59,
+        "capsules": 48
+    },
+    "gmat": {
+        "questions": 720,
+        "oneliners": 57,
+        "capsules": 46
+    },
+    "sat": {
+        "questions": 723,
         "oneliners": 61,
         "capsules": 47
     },
-    "toefl": {
-        "questions": 796,
-        "oneliners": 67,
-        "capsules": 57
-    },
-    "gre": {
-        "questions": 715,
-        "oneliners": 57,
-        "capsules": 47
-    },
-    "gmat": {
-        "questions": 716,
-        "oneliners": 55,
-        "capsules": 45
-    },
-    "sat": {
-        "questions": 719,
-        "oneliners": 59,
-        "capsules": 46
-    },
     "ielts": {
-        "questions": 747,
-        "oneliners": 72,
-        "capsules": 59,
+        "questions": 751,
+        "oneliners": 74,
+        "capsules": 60,
         "resources": 100
     },
     "railways": {
-        "questions": 1085,
-        "capsules": 79,
-        "oneliners": 90
+        "questions": 1090,
+        "capsules": 81,
+        "oneliners": 93
     },
     "law": {
-        "questions": 910,
-        "capsules": 261,
-        "oneliners": 380
+        "questions": 916,
+        "capsules": 263,
+        "oneliners": 383
     },
     "neet": {
-        "questions": 1206,
-        "oneliners": 493,
-        "capsules": 89
+        "questions": 1211,
+        "oneliners": 495,
+        "capsules": 90
     },
     "bpsc": {
-        "questions": 2149,
-        "capsules": 1081,
-        "oneliners": 1011
+        "questions": 2154,
+        "capsules": 1083,
+        "oneliners": 1014
     },
     "banking-certs": {
-        "questions": 2269,
-        "oneliners": 1174,
-        "capsules": 361,
+        "questions": 2274,
+        "oneliners": 1177,
+        "capsules": 363,
         "videos": 48
     },
     "upsc": {
-        "questions": 1181,
-        "oneliners": 113,
-        "capsules": 111
+        "questions": 1187,
+        "oneliners": 116,
+        "capsules": 114
     },
     "jee": {
-        "questions": 1277,
-        "oneliners": 427,
-        "capsules": 80
+        "questions": 1282,
+        "oneliners": 429,
+        "capsules": 81
     },
     "banking": {
-        "questions": 1044,
-        "capsules": 133,
-        "oneliners": 111
+        "questions": 1049,
+        "capsules": 135,
+        "oneliners": 114
     },
     "defence": {
-        "questions": 1162,
-        "capsules": 96,
-        "oneliners": 98
+        "questions": 1167,
+        "capsules": 98,
+        "oneliners": 101
     },
     "current-affairs": {
-        "questions": 966,
-        "oneliners": 176,
-        "capsules": 159
+        "questions": 972,
+        "oneliners": 180,
+        "capsules": 162
     },
     "software-ai-tech": {
-        "questions": 967,
-        "oneliners": 489,
-        "capsules": 104
+        "questions": 972,
+        "oneliners": 492,
+        "capsules": 106
     },
     "teaching": {
-        "questions": 903,
-        "capsules": 82,
-        "oneliners": 84
+        "questions": 908,
+        "capsules": 83,
+        "oneliners": 86
     },
     "ca": {
-        "questions": 1043,
-        "oneliners": 87,
-        "capsules": 86
+        "questions": 1048,
+        "oneliners": 89,
+        "capsules": 87
     },
     "sarkari-vacancies": {
         "questions": 64,
-        "oneliners": 53,
+        "oneliners": 54,
         "capsules": 34,
         "videos": 0,
-        "listings": 251
+        "listings": 254
     }
 }
 
