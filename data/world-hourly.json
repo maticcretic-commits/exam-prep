@@ -1,6 +1,59 @@
 {
   "items": [
     {
+      "id": "world-20261104-0922-01",
+      "published_ist": "2026-11-04T08:48:00+05:30",
+      "headline": "America: Democrats House niyantran ki ore",
+      "detail": "US media ke anumaanon ke mutabik Democrats House mein bahumat ki ore hain, jisse Trump ke agenda ko chunauti mil sakti hai; antim ginati abhi baaki hai.",
+      "category": "World",
+      "exam_angle": "America ki chunav vyavastha: International exams ke liye — House aur midterm chunav.",
+      "source": "Reuters",
+      "source_url": "https://www.reuters.com/world/us/democrats-projected-win-majority-control-us-house-us-media-project-2026-11-04/",
+      "genuineness": "verified",
+      "outlets": [
+        "Reuters",
+        "The Hindu",
+        "Times Now"
+      ],
+      "image": null,
+      "image_credit": null
+    },
+    {
+      "id": "world-20261104-0922-02",
+      "published_ist": "2026-11-04T06:33:00+05:30",
+      "headline": "UN: ICJ ke liye paanch nyayadhish chune",
+      "detail": "General Assembly aur Security Council ne nau saal ke karyakal ke liye paanch nyayadhish chune; unka karyakal 6 February 2027 se shuru hoga.",
+      "category": "World",
+      "exam_angle": "UN aur ICJ: International exams ke liye — ICJ nyayadhish chunav aur karyakal.",
+      "source": "Al Jazeera",
+      "source_url": "https://www.aljazeera.com/news/2026/11/4/un-elects-five-judges-to-international-court-of-justice-amid-record-cases",
+      "genuineness": "corroborated",
+      "outlets": [
+        "Al Jazeera",
+        "United Nations"
+      ],
+      "image": null,
+      "image_credit": null
+    },
+    {
+      "id": "world-20261104-0922-03",
+      "published_ist": "2026-11-04T08:30:00+05:30",
+      "headline": "South Carolina: Andrews ne Senate seat jeeti",
+      "detail": "Pediatrician Annie Andrews ne Republican Darline Graham ko harakar 28 saal mein pehli baar Democrats ko South Carolina ki Senate seat dilayi.",
+      "category": "World",
+      "exam_angle": "America ki chunav vyavastha: International exams ke liye — Senate aur midterm chunav.",
+      "source": "Reuters",
+      "source_url": "https://www.reuters.com/world/us/democrat-annie-andrews-wins-us-senate-seat-south-carolina-upset-2026-11-04/",
+      "genuineness": "verified",
+      "outlets": [
+        "Reuters",
+        "Associated Press",
+        "The Hindu"
+      ],
+      "image": null,
+      "image_credit": null
+    },
+    {
       "id": "world-20261104-0822-01",
       "published_ist": "2026-11-04T07:46:00+05:30",
       "headline": "Georgia: Bottoms pehli Black mahila governor",
@@ -373,62 +426,7 @@
       "published_ist": "2026-11-03T14:13:00+05:30",
       "source": "Kyiv Independent",
       "source_url": "https://kyivindependent.com/zelensky-to-visit-berlin-on-nov-3-says-german-chancellor-2/"
-    },
-    {
-      "category": "World",
-      "detail": "Videsh Mantralaya pravakta Baghaei ne kaha America ki nausainik naakabandi khatm hue bina Hormuz ko khola ya surakshit nahi kiya ja sakta; unhone kaha Iran ki maangein saaf hain aur unke poora hone par do din mein jalmarg surakshit karne ki yojana sambhav hai.",
-      "exam_angle": "Hormuz aur oorja suraksha: International exams ke liye — tel marg, naakabandi aur madhyasthata vaarta.",
-      "genuineness": "verified",
-      "headline": "Iran: Hormuz tabhi khulega, jab naaka khatm",
-      "id": "world-20261103-1722-02",
-      "image": null,
-      "image_credit": null,
-      "outlets": [
-        "Gulf News",
-        "National Herald India",
-        "Bastille Post"
-      ],
-      "published_ist": "2026-11-02T16:43:00+05:30",
-      "source": "Gulf News",
-      "source_url": "https://gulfnews.com/world/americas/middle-east-conflict-trump-threatens-iran-with-military-action-as-tehran-warns-new-war-could-last-longer-1.500732180"
-    },
-    {
-      "category": "World",
-      "detail": "Pradhan Mantri Bart De Wever ne budget vaarta tootate hi Raja Philippe ko istifa saunpa, lekin raja ne faisla rokte hue aaj se gathbandhan dalon ke netaon se paramarsh shuru karne ko kaha; De Wever se shukravar ko phir milenge.",
-      "exam_angle": "Sarkar aur budget sankat: International exams ke liye — gathbandhan sarkar, rajtantra ki bhoomika aur vittiya ghaata.",
-      "genuineness": "verified",
-      "headline": "Belgium: PM ne istifa diya, raja ne roka",
-      "id": "world-20261103-1722-03",
-      "image": null,
-      "image_credit": null,
-      "outlets": [
-        "Bangkok Post",
-        "Le Temps",
-        "Babel",
-        "Qatar Tribune"
-      ],
-      "published_ist": "2026-11-02T17:15:00+05:30",
-      "source": "Bangkok Post",
-      "source_url": "https://www.bangkokpost.com/world/3347280/belgian-pm-offers-to-quit-over-budget-impasse"
-    },
-    {
-      "category": "World",
-      "detail": "Raat bhar ke hamlo mein Kharkiv ke aspatal par hamle se 73 log ghayal hue aur 200 mareez nikale gaye; Komyshuvakha sahayata kendra par hamle mein mritak 29 hue aur 48 lapata hain.",
-      "exam_angle": "Yuddh aur manavtaya kanoon: International exams ke liye — nagrik suraksha, sahayata kendra aur shanti vaarta.",
-      "genuineness": "verified",
-      "headline": "Ukraine: Raat bhar hamle, Kharkiv aspatal",
-      "id": "world-20261103-1622-01",
-      "image": null,
-      "image_credit": null,
-      "outlets": [
-        "Agence France-Presse",
-        "Channel NewsAsia",
-        "The Hindu"
-      ],
-      "published_ist": "2026-11-03T15:38:00+05:30",
-      "source": "Channel NewsAsia",
-      "source_url": "https://www.channelnewsasia.com/world/russia-ukraine-strikes-29-killed-ceasefire-6514166"
     }
   ],
-  "updated_ist": "2026-11-04T08:28:12+05:30"
+  "updated_ist": "2026-11-04T09:24:57+05:30"
 }
