@@ -72,6 +72,76 @@
     ],
     "answer_index": 1
    }
+  },
+  {
+   "episode": 78,
+   "video_hi": "1JiLqP67CfQ",
+   "video_hinglish": "1JiLqP67CfQ",
+   "capsules": [
+    {
+     "id": "ca-ep78-s1",
+     "headline_hi": "Cyclone Murasu Andhra tat se takraya",
+     "headline_hinglish": "Cyclone Murasu Andhra tat se takraya",
+     "detail_hi": "Ongole ke paas 120 kmph ki hawa; Odisha mein 1.65 lakh log surakshit sthanon par pahunche.",
+     "detail_hinglish": "Ongole ke paas 120 kmph ki hawa; Odisha mein 1.65 lakh log surakshit sthanon par pahunche.",
+     "category_hi": "Disaster",
+     "category_en": "National"
+    },
+    {
+     "id": "ca-ep78-s2",
+     "headline_hi": "Pune Metro ki Pink Line shuru",
+     "headline_hinglish": "Pune Metro ki Pink Line shuru",
+     "detail_hi": "23 km line ka udghatan hua; 21,800 crore ki chaar nayi corridor pariyojnaon ki neev rakhi gayi.",
+     "detail_hinglish": "23 km line ka udghatan hua; 21,800 crore ki chaar nayi corridor pariyojnaon ki neev rakhi gayi.",
+     "category_hi": "Infrastructure",
+     "category_en": "National"
+    },
+    {
+     "id": "ca-ep78-s3",
+     "headline_hi": "SBI ka munafa 14% badha",
+     "headline_hinglish": "SBI ka munafa 14% badha",
+     "detail_hi": "Dusri timahi mein 23,038 crore ka shuddh labh; gross NPA ghata kar 1.39% par aaya.",
+     "detail_hinglish": "Dusri timahi mein 23,038 crore ka shuddh labh; gross NPA ghata kar 1.39% par aaya.",
+     "category_hi": "Banking",
+     "category_en": "Banking"
+    },
+    {
+     "id": "ca-ep78-s4",
+     "headline_hi": "COP31 mein Bharat ki prathmiktaayein tay",
+     "headline_hinglish": "COP31 mein Bharat ki prathmiktaayein tay",
+     "detail_hi": "9 se 20 November tak Antalya mein sammelan; climate finance aur technology transfer par zor hoga.",
+     "detail_hinglish": "9 se 20 November tak Antalya mein sammelan; climate finance aur technology transfer par zor hoga.",
+     "category_hi": "Environment",
+     "category_en": "Environment"
+    },
+    {
+     "id": "ca-ep78-s5",
+     "headline_hi": "Manisha ne kushti mein itihas racha",
+     "headline_hinglish": "Manisha ne kushti mein itihas racha",
+     "detail_hi": "0-6 se peeche rehkar 8-6 se jeeti; 59 kg mein Bharat ki pehli mahila world champion bani.",
+     "detail_hinglish": "0-6 se peeche rehkar 8-6 se jeeti; 59 kg mein Bharat ki pehli mahila world champion bani.",
+     "category_hi": "Sports",
+     "category_en": "Sports"
+    }
+   ],
+   "mcq": {
+    "id": "ca-ep78-mcq",
+    "q_hi": "Cyclone Murasu ke landfall ke samay hawa ki raftaar kitni thi?",
+    "q_hinglish": "Cyclone Murasu ke landfall ke samay hawa ki raftaar kitni thi?",
+    "options_hi": [
+     "80 kmph",
+     "100 kmph",
+     "120 kmph",
+     "140 kmph"
+    ],
+    "options_hinglish": [
+     "80 kmph",
+     "100 kmph",
+     "120 kmph",
+     "140 kmph"
+    ],
+    "answer_index": 2
+   }
   }
  ]
 }
