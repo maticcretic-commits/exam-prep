@@ -408,7 +408,61 @@
       ],
       "image": null,
       "image_credit": null
+    },
+    {
+      "id": "world-20261104-1322-01",
+      "published_ist": "2026-11-04T10:30:00+05:30",
+      "headline": "South Africa: ANC ki pariksha, matdan jaari",
+      "detail": "29.2 million matdata sthaniya chunav mein matdan kar rahe hain; ANC ke samarthan 40% se neeche jaane ka anuman hai, natije Ravivar ko aayenge.",
+      "category": "World",
+      "exam_angle": "Dakshin Africa: International exams ke liye — sthaniya chunav aur ANC.",
+      "source": "Al Jazeera",
+      "source_url": "https://www.aljazeera.com/news/2026/11/4/south-africans-vote-in-local-elections-seen-as-test-for-embattled-anc",
+      "genuineness": "verified",
+      "outlets": [
+        "Reuters",
+        "Al Jazeera",
+        "BBC"
+      ],
+      "image": null,
+      "image_credit": null
+    },
+    {
+      "id": "world-20261104-1322-02",
+      "published_ist": "2026-11-04T08:42:00+05:30",
+      "headline": "Florida: Learjet ke tukde kilometre door mile",
+      "detail": "NTSB ne kaha Learjet ka left elevator 2 se 6 kilometre door mila, isse pata chalta hai viman girne se pehle toot raha tha; nau log mare gaye, karan abhi tay nahi.",
+      "category": "World",
+      "exam_angle": null,
+      "source": "WION",
+      "source_url": "https://www.wionews.com/world/florida-crash-learjet-fragments-found-3-6km-from-crash-site-indicate-they-fell-when-plane-was-midair-1793761344301/amp",
+      "genuineness": "verified",
+      "outlets": [
+        "Associated Press",
+        "BBC",
+        "WION"
+      ],
+      "image": null,
+      "image_credit": null
+    },
+    {
+      "id": "world-20261104-1322-03",
+      "published_ist": "2026-11-04T05:40:00+05:30",
+      "headline": "Brussels: Ukraine suraksha par baatchit shuru",
+      "detail": "Ukraine, America, Europe aur NATO ke pratinidhi 4-5 November ko suraksha guarantee aur punarnirman par baatchit karenge; Abu Dhabi vaarta se pehle ki taiyari hai.",
+      "category": "World",
+      "exam_angle": null,
+      "source": "The New Voice of Ukraine",
+      "source_url": "https://english.nv.ua/nation/brussels-talks-on-security-guarantees-to-last-two-days-umerov-says-50656056.html",
+      "genuineness": "verified",
+      "outlets": [
+        "Reuters",
+        "The New Voice of Ukraine",
+        "UNN"
+      ],
+      "image": null,
+      "image_credit": null
     }
   ],
-  "updated_ist": "2026-11-04T12:27:08+05:30"
+  "updated_ist": "2026-11-04T13:27:37+05:30"
 }
