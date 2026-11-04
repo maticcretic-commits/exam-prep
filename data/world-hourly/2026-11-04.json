@@ -694,7 +694,43 @@
       ],
       "image": null,
       "image_credit": null
+    },
+    {
+      "id": "world-20261104-1822-01",
+      "published_ist": "2026-11-04T06:42:00+05:30",
+      "headline": "Europe: Freezer hamle aur deshon tak pahunche",
+      "detail": "Germany, Romania aur UK mein bhi supermarket ke freezer par cyber hamle hue; EU ne ise khadya supply chain ko bigadne ki koshish bataya, zimmedar ka pata nahi chala hai.",
+      "category": "World",
+      "exam_angle": null,
+      "source": "Malay Mail",
+      "source_url": "https://www.malaymail.com/news/world/2026/11/04/germany-romania-and-uk-hit-as-cyberattacks-on-supermarket-refrigeration-systems-spread-across-europe/241876",
+      "genuineness": "verified",
+      "outlets": [
+        "Agence France-Presse",
+        "BBC",
+        "Associated Press"
+      ],
+      "image": null,
+      "image_credit": null
+    },
+    {
+      "id": "world-20261104-1822-02",
+      "published_ist": "2026-11-04T17:01:00+05:30",
+      "headline": "Alaska: Badi dauden abhi anirnit",
+      "detail": "Alaska ki Senate, governor aur House daudon mein abhi koi vijeta ghoshit nahi hua; 50% se zyada pehli pasand na mile to ranked-choice ginati 18 November ko hogi, pramanikaran 25 November ko.",
+      "category": "World",
+      "exam_angle": "America mein ranked-choice voting: chunav vyavastha.",
+      "source": "Nacionale",
+      "source_url": "https://www.nacionale.com/en/articles/alaska-election-results-2026-not-called-ranked-choice-november-18-senate-governor-house",
+      "genuineness": "verified",
+      "outlets": [
+        "Associated Press",
+        "Anchorage Daily News",
+        "Alaska Public Media"
+      ],
+      "image": null,
+      "image_credit": null
     }
   ],
-  "updated_ist": "2026-11-04T17:25:09+05:30"
+  "updated_ist": "2026-11-04T18:25:25+05:30"
 }
