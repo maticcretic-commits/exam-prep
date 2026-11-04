@@ -1,6 +1,41 @@
 {
   "items": [
     {
+      "id": "world-20261104-1922-01",
+      "published_ist": "2026-11-04T18:56:00+05:30",
+      "headline": "Khamenei: America ki dushmani nahi badlegi",
+      "detail": "Khamenei ne kaha America ki neeti dal badalne se nahi badlegi aur dobara hamla hua to jawab aur bada hoga.",
+      "category": "World",
+      "exam_angle": "America-Iran sambandh: International exams ke liye — chunav par yuddh ka asar.",
+      "source": "Al Jazeera",
+      "source_url": "https://www.aljazeera.com/amp/news/2026/11/4/iran-hails-us-voters-rejecting-war-while-khamenei-warns-hostility-wont-end",
+      "genuineness": "verified",
+      "outlets": [
+        "Al Jazeera",
+        "News18",
+        "Telegraph India"
+      ],
+      "image": null,
+      "image_credit": null
+    },
+    {
+      "id": "world-20261104-1922-02",
+      "published_ist": "2026-11-04T10:09:00+05:30",
+      "headline": "Hormuz: Tanker tabahi ka dawa, pushti nahi",
+      "detail": "IRGC ne dawa kiya ki char tel tanker mine se takrakar jal rahe hain aur do jahaz roke gaye; is dawe ki swatantra pushti abhi nahi hui hai.",
+      "category": "World",
+      "exam_angle": "Hormuz jaladmarag: tel vyapar aur vaishvik urja suraksha.",
+      "source": "Al Jazeera",
+      "source_url": "https://www.aljazeera.com/news/2026/11/4/iran-says-us-reply-to-hormuz-plan-unconvincing-trump-confirms-strikes",
+      "genuineness": "corroborated",
+      "outlets": [
+        "Agence France-Presse",
+        "Al Jazeera"
+      ],
+      "image": null,
+      "image_credit": null
+    },
+    {
       "id": "world-20261104-1822-01",
       "published_ist": "2026-11-04T06:42:00+05:30",
       "headline": "Europe: Freezer hamle aur deshon tak pahunche",
@@ -392,43 +427,7 @@
       ],
       "image": null,
       "image_credit": null
-    },
-    {
-      "id": "world-20261104-1122-02",
-      "published_ist": "2026-11-04T10:01:00+05:30",
-      "headline": "Texas: Hinojosa ne Abbott ko haraya",
-      "detail": "Democrat Gina Hinojosa ne Governor Greg Abbott ko harakar Texas ki pehli Latina governor banne ka itihas racha; ve 1990 ke baad pehli Democrat governor hain.",
-      "category": "World",
-      "exam_angle": "America ki chunav vyavastha: International exams ke liye — governor chunav.",
-      "source": "Associated Press",
-      "source_url": "https://www.lanacion.com.ar/usa/democrat-gina-hinojosa-elected-texas-first-latina-governor-ousts-republican-incumbent-greg-abbott-nid04112026/",
-      "genuineness": "verified",
-      "outlets": [
-        "Associated Press",
-        "USA Today",
-        "Reuters"
-      ],
-      "image": null,
-      "image_credit": null
-    },
-    {
-      "id": "world-20261104-1122-03",
-      "published_ist": "2026-11-04T09:55:00+05:30",
-      "headline": "Ohio: Acton pehli mahila governor bani",
-      "detail": "Democrat Amy Acton ne Vivek Ramaswamy ko harakar Ohio ki pehli chuni gayi mahila governor banne ka itihas racha; ve 20 saal mein pehli Democrat governor hain.",
-      "category": "World",
-      "exam_angle": "America ki chunav vyavastha: International exams ke liye — governor chunav.",
-      "source": "Al Jazeera",
-      "source_url": "https://www.aljazeera.com/amp/news/2026/11/4/democrat-amy-acton-beats-republican-vivek-ramaswamy-in-ohio-governors-race",
-      "genuineness": "verified",
-      "outlets": [
-        "Associated Press",
-        "Al Jazeera",
-        "The Wall Street Journal"
-      ],
-      "image": null,
-      "image_credit": null
     }
   ],
-  "updated_ist": "2026-11-04T18:25:25+05:30"
+  "updated_ist": "2026-11-04T19:25:19+05:30"
 }
