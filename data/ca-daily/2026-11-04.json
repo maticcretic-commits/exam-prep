@@ -212,6 +212,76 @@
     ],
     "answer_index": 1
    }
+  },
+  {
+   "episode": 80,
+   "video_hi": "EdfDt1pbo1k",
+   "video_hinglish": "EdfDt1pbo1k",
+   "capsules": [
+    {
+     "id": "ca-ep80-s1",
+     "headline_hi": "Agniveeron ko do saal ka vistaar mila",
+     "headline_hinglish": "Agniveeron ko do saal ka vistaar mila",
+     "detail_hi": "75% Agniveeron ko do saal aur seva ka mauka; kul seva chhe saal tak ho sakti hai.",
+     "detail_hinglish": "75% Agniveeron ko do saal aur seva ka mauka; kul seva chhe saal tak ho sakti hai.",
+     "category_hi": "Defence",
+     "category_en": "Defence"
+    },
+    {
+     "id": "ca-ep80-s2",
+     "headline_hi": "Bharat teesri baar ISA President bana",
+     "headline_hinglish": "Bharat teesri baar ISA President bana",
+     "detail_hi": "130 deshon ke sangathan mein France phir Co-President bana; karyakal 2026-2028.",
+     "detail_hinglish": "130 deshon ke sangathan mein France phir Co-President bana; karyakal 2026-2028.",
+     "category_hi": "Energy",
+     "category_en": "National"
+    },
+    {
+     "id": "ca-ep80-s3",
+     "headline_hi": "Shooting mein Bharat ne team gold jeeta",
+     "headline_hinglish": "Shooting mein Bharat ne team gold jeeta",
+     "detail_hi": "Ravinder, Saurabh aur Amanpreet ne 1659 ka kul score banaya; Ravinder ko vyaktigat silver.",
+     "detail_hinglish": "Ravinder, Saurabh aur Amanpreet ne 1659 ka kul score banaya; Ravinder ko vyaktigat silver.",
+     "category_hi": "Sports",
+     "category_en": "Sports"
+    },
+    {
+     "id": "ca-ep80-s4",
+     "headline_hi": "Soreng bana pehla organic fisheries cluster",
+     "headline_hinglish": "Soreng bana pehla organic fisheries cluster",
+     "detail_hi": "Chemical-mukt machhli paalan par zor; Amur carp aur trout par khaas dhyaan.",
+     "detail_hinglish": "Chemical-mukt machhli paalan par zor; Amur carp aur trout par khaas dhyaan.",
+     "category_hi": "Agriculture",
+     "category_en": "Agriculture"
+    },
+    {
+     "id": "ca-ep80-s5",
+     "headline_hi": "Kohli ke 74 se Bharat ne ODI jeeta",
+     "headline_hinglish": "Kohli ke 74 se Bharat ne ODI jeeta",
+     "detail_hi": "New Zealand 185 par simta; Kohli ne 51 gendon mein 74 run banaye.",
+     "detail_hinglish": "New Zealand 185 par simta; Kohli ne 51 gendon mein 74 run banaye.",
+     "category_hi": "Sports",
+     "category_en": "Sports"
+    }
+   ],
+   "mcq": {
+    "id": "ca-ep80-mcq",
+    "q_hi": "Agnipath ke tahat Agniveer kul kitne saal tak seva de sakte hain?",
+    "q_hinglish": "Agnipath ke tahat Agniveer kul kitne saal tak seva de sakte hain?",
+    "options_hi": [
+     "4 saal",
+     "5 saal",
+     "6 saal",
+     "8 saal"
+    ],
+    "options_hinglish": [
+     "4 saal",
+     "5 saal",
+     "6 saal",
+     "8 saal"
+    ],
+    "answer_index": 2
+   }
   }
  ]
 }
