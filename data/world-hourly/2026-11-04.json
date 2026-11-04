@@ -748,7 +748,78 @@
       ],
       "image": null,
       "image_credit": null
+    },
+    {
+      "id": "world-20261104-2022-01",
+      "published_ist": "2026-11-04T16:00:00+05:30",
+      "headline": "Philippines: Bahut tez El Niño ki chetavni",
+      "detail": "PAGASA ne kaha bahut tez El Niño ab maujood hai, 2027 ki pehli timahi tak rahega aur 87 ilakon mein sookha aa sakta hai.",
+      "category": "World",
+      "exam_angle": "El Niño aur jalvayu: International exams ke liye — sookha aur krishi par asar.",
+      "source": "GMA News",
+      "source_url": "https://www.gmanetwork.com/news/topstories/nation/1008287/very-strong-el-ni-o-now-present-in-tropical-pacific-says-pagasa/story/",
+      "genuineness": "corroborated",
+      "outlets": [
+        "GMA News",
+        "BusinessWorld"
+      ],
+      "image": null,
+      "image_credit": null
+    },
+    {
+      "id": "world-20261104-2022-02",
+      "published_ist": "2026-11-04T11:49:00+05:30",
+      "headline": "Philippines-China: Baatchit jaari rakhne ka vaada",
+      "detail": "Videsh mantriyon Lazaro aur Wang Yi ne phone par baat ke baad samvaad jaari rakhne ka vaada kiya, ASEAN shikhar sammelan se pehle tanaav kam karne ki koshish hai.",
+      "category": "World",
+      "exam_angle": "ASEAN aur South China Sea: International exams ke liye — vivaad aur kootneeti.",
+      "source": "Reuters",
+      "source_url": "https://www.reuters.com/world/china/philippines-china-pledge-maintain-dialogue-despite-tensions-2026-11-04/",
+      "genuineness": "verified",
+      "outlets": [
+        "Reuters",
+        "Rappler",
+        "Daily Tribune"
+      ],
+      "image": null,
+      "image_credit": null
+    },
+    {
+      "id": "world-20261104-2022-03",
+      "published_ist": "2026-11-04T06:41:00+05:30",
+      "headline": "Singapore Airlines: 46,000 booking record leak",
+      "detail": "Amadeus ke breach mein lagbhag 46,000 booking record khule; 620 mein email-phone bhi ho sakte hain, bank-card jaankari surakshit rahi.",
+      "category": "World",
+      "exam_angle": "Data suraksha aur third-party risk: International exams ke liye — cyber breach.",
+      "source": "Reuters",
+      "source_url": "https://www.reuters.com/world/asia-pacific/singapore-airlines-says-46000-booking-records-affected-by-amadeus-breach-2026-11-04/",
+      "genuineness": "verified",
+      "outlets": [
+        "Reuters",
+        "The Straits Times",
+        "Lianhe Zaobao"
+      ],
+      "image": null,
+      "image_credit": null
+    },
+    {
+      "id": "world-20261104-2022-04",
+      "published_ist": "2026-11-04T06:33:00+05:30",
+      "headline": "Spain ke parivahan mantri ne istifa diya",
+      "detail": "Oscar Puente ne 69 logon ki jaan lene wale Urda rail haadse ke baad istifa diya aur 29 November ke chunav se bhi hat gaye.",
+      "category": "World",
+      "exam_angle": "Spain: chunav se pehle istifa — rajneetik jimmedari aur rail suraksha.",
+      "source": "The Hindu",
+      "source_url": "https://www.thehindu.com/news/international/spains-transport-minister-offers-resignation-after-deadly-train-crash/article71663710.ece",
+      "genuineness": "verified",
+      "outlets": [
+        "Reuters",
+        "The Times",
+        "The Hindu"
+      ],
+      "image": null,
+      "image_credit": null
     }
   ],
-  "updated_ist": "2026-11-04T19:27:14+05:30"
+  "updated_ist": "2026-11-04T20:25:48+05:30"
 }
