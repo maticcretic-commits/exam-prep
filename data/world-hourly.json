@@ -1,6 +1,60 @@
 {
   "items": [
     {
+      "id": "world-20261104-1322-01",
+      "published_ist": "2026-11-04T10:30:00+05:30",
+      "headline": "South Africa: ANC ki pariksha, matdan jaari",
+      "detail": "29.2 million matdata sthaniya chunav mein matdan kar rahe hain; ANC ke samarthan 40% se neeche jaane ka anuman hai, natije Ravivar ko aayenge.",
+      "category": "World",
+      "exam_angle": "Dakshin Africa: International exams ke liye — sthaniya chunav aur ANC.",
+      "source": "Al Jazeera",
+      "source_url": "https://www.aljazeera.com/news/2026/11/4/south-africans-vote-in-local-elections-seen-as-test-for-embattled-anc",
+      "genuineness": "verified",
+      "outlets": [
+        "Reuters",
+        "Al Jazeera",
+        "BBC"
+      ],
+      "image": null,
+      "image_credit": null
+    },
+    {
+      "id": "world-20261104-1322-02",
+      "published_ist": "2026-11-04T08:42:00+05:30",
+      "headline": "Florida: Learjet ke tukde kilometre door mile",
+      "detail": "NTSB ne kaha Learjet ka left elevator 2 se 6 kilometre door mila, isse pata chalta hai viman girne se pehle toot raha tha; nau log mare gaye, karan abhi tay nahi.",
+      "category": "World",
+      "exam_angle": null,
+      "source": "WION",
+      "source_url": "https://www.wionews.com/world/florida-crash-learjet-fragments-found-3-6km-from-crash-site-indicate-they-fell-when-plane-was-midair-1793761344301/amp",
+      "genuineness": "verified",
+      "outlets": [
+        "Associated Press",
+        "BBC",
+        "WION"
+      ],
+      "image": null,
+      "image_credit": null
+    },
+    {
+      "id": "world-20261104-1322-03",
+      "published_ist": "2026-11-04T05:40:00+05:30",
+      "headline": "Brussels: Ukraine suraksha par baatchit shuru",
+      "detail": "Ukraine, America, Europe aur NATO ke pratinidhi 4-5 November ko suraksha guarantee aur punarnirman par baatchit karenge; Abu Dhabi vaarta se pehle ki taiyari hai.",
+      "category": "World",
+      "exam_angle": null,
+      "source": "The New Voice of Ukraine",
+      "source_url": "https://english.nv.ua/nation/brussels-talks-on-security-guarantees-to-last-two-days-umerov-says-50656056.html",
+      "genuineness": "verified",
+      "outlets": [
+        "Reuters",
+        "The New Voice of Ukraine",
+        "UNN"
+      ],
+      "image": null,
+      "image_credit": null
+    },
+    {
       "id": "world-20261104-1222-01",
       "published_ist": "2026-11-04T10:00:00+05:30",
       "headline": "Iowa: Turek ne Hinson ko haraya",
@@ -373,60 +427,7 @@
       ],
       "image": null,
       "image_credit": null
-    },
-    {
-      "id": "world-20261104-0622-02",
-      "published_ist": "2026-11-04T04:16:00+05:30",
-      "headline": "North Korea: America ko sakht jawab ki chetavni",
-      "detail": "Kim Yo Jong ne KCNA bayan mein kaha America ki 'dushman neeti' par jawab aur sakht hoga; Binance choree ke FBI aarop ko kharij karte hue baatchit ki zaroorat par sawal uthaya.",
-      "category": "World",
-      "exam_angle": null,
-      "source": "The Korea Times",
-      "source_url": "https://www.koreatimes.co.kr/foreignaffairs/northkorea/20261104/n-korea-says-dialogue-with-us-an-option-but-not-a-must-for-national-interest",
-      "genuineness": "corroborated",
-      "outlets": [
-        "Agence France-Presse",
-        "The Korea Times"
-      ],
-      "image": null,
-      "image_credit": null
-    },
-    {
-      "id": "world-20261104-0622-03",
-      "published_ist": "2026-11-03T21:38:00+05:30",
-      "headline": "Europe: Bomb dhamki se saat udanein ruki",
-      "detail": "Mangalvaar ko Warsaw, Sofia, Rome aur Murcia jaane wali kam se kam saat udanon aur Greece mein ek cruise jahaz ko dhamki mili; sab surakshit rahe, koi visfotak nahi mila aur kisi ne zimmedari nahi li.",
-      "category": "World",
-      "exam_angle": null,
-      "source": "Associated Press",
-      "source_url": "https://www.etvbharat.com/en/international/flights-across-europe-face-disruption-after-false-bomb-threats-enn26110308179",
-      "genuineness": "verified",
-      "outlets": [
-        "Associated Press",
-        "Reuters",
-        "BBC"
-      ],
-      "image": null,
-      "image_credit": null
-    },
-    {
-      "id": "world-20261103-2222-01",
-      "published_ist": "2026-11-03T15:29:00+05:30",
-      "headline": "Trump: Saal ant tak Israel sahayata band",
-      "detail": "Trump ne Fox News par kaha America saal ke ant tak Israel ko $4 billion ki saalana sahayata dena band kar dega, kyunki Israel ko ab iski zaroorat nahi hai; unhone kaha Netanyahu se is par sahmati bani hai, jabki $3.8 billion wala samjhauta 2028 tak tha.",
-      "category": "World",
-      "exam_angle": "America-Israel sambandh; videsh sahayata aur raksha samjhaute par sawal.",
-      "source": "CNN",
-      "source_url": "https://www.cnn.com/2026/11/03/politics/trump-us-aid-israel?cid=external-feeds_iluminar_meta",
-      "genuineness": "verified",
-      "outlets": [
-        "CNN",
-        "Haaretz",
-        "Khaleej Times"
-      ],
-      "image": null,
-      "image_credit": null
     }
   ],
-  "updated_ist": "2026-11-04T12:27:08+05:30"
+  "updated_ist": "2026-11-04T13:27:37+05:30"
 }
