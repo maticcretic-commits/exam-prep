@@ -1,6 +1,59 @@
 {
   "items": [
     {
+      "id": "world-20261104-1422-01",
+      "published_ist": "2026-11-04T12:15:00+05:30",
+      "headline": "Michigan: El-Sayed pehle Muslim Senator bane",
+      "detail": "Democrat Abdul El-Sayed ne Republican Mike Rogers ko harakar Michigan ki Senate seat jeeti; ve Senate mein chune gaye pehle Muslim hain.",
+      "category": "World",
+      "exam_angle": "America ki chunav vyavastha: International exams ke liye — Senate aur midterm chunav.",
+      "source": "The Economic Times",
+      "source_url": "https://economictimes.indiatimes.com/news/international/world-news/us-midterm-elections-2026-democrat-abdul-el-sayed-claims-victory-in-brutal-senate-battle-in-michigan/articleshow/135527964.cms",
+      "genuineness": "verified",
+      "outlets": [
+        "Reuters",
+        "USA Today",
+        "The Economic Times"
+      ],
+      "image": null,
+      "image_credit": null
+    },
+    {
+      "id": "world-20261104-1422-02",
+      "published_ist": "2026-11-04T11:55:00+05:30",
+      "headline": "Jeffries pehle Black Speaker banne ki ore",
+      "detail": "Democrats ki House jeet se Hakeem Jeffries America ke pehle Black Speaker banne ki line mein hain; naya House January mein shapath lega.",
+      "category": "World",
+      "exam_angle": "America ki chunav vyavastha: International exams ke liye — House aur Speaker.",
+      "source": "Reuters",
+      "source_url": "https://www.reuters.com/legal/government/hakeem-jeffries-poised-become-speaker-us-house-representatives-2026-11-04/",
+      "genuineness": "corroborated",
+      "outlets": [
+        "Reuters",
+        "USA Today"
+      ],
+      "image": null,
+      "image_credit": null
+    },
+    {
+      "id": "world-20261104-1422-03",
+      "published_ist": "2026-11-04T10:54:10+05:30",
+      "headline": "Trump: Israel ko madad saal ant tak band",
+      "detail": "Trump ne Fox News ko kaha America saal ke ant tak Israel ko $4 billion salana sainya madad dena band karega; zaroorat par madad jaari rahegi aur hathiyar bikri chalti rahegi.",
+      "category": "World",
+      "exam_angle": "America-Israel sambandh: International exams ke liye — sainya sahayata samjhauta.",
+      "source": "Business Standard",
+      "source_url": "https://www.business-standard.com/world-news/trump-end-us-military-aid-israel-4-billion-2026-126110400515_1.html",
+      "genuineness": "verified",
+      "outlets": [
+        "Business Standard",
+        "Haaretz",
+        "Deutsche Welle"
+      ],
+      "image": null,
+      "image_credit": null
+    },
+    {
       "id": "world-20261104-1322-01",
       "published_ist": "2026-11-04T10:30:00+05:30",
       "headline": "South Africa: ANC ki pariksha, matdan jaari",
@@ -373,61 +426,7 @@
       ],
       "image": null,
       "image_credit": null
-    },
-    {
-      "id": "world-20261104-0722-01",
-      "published_ist": "2026-11-04T06:53:55+05:30",
-      "headline": "New Hampshire: Pappas Senate jeete",
-      "detail": "Democrat Chris Pappas ne New Hampshire mein Republican John Sununu ko harakar khuli Senate seat apne dal ke paas rakhi; ve Senate ke liye chune gaye pehle khule taur par samlaingik purush honge.",
-      "category": "World",
-      "exam_angle": "America ki chunav vyavastha: International exams ke liye — Senate aur midterm chunav.",
-      "source": "The Washington Sun",
-      "source_url": "https://www.washingtonsun.com/campaigns/new-hampshire-election-midterm-results-2026",
-      "genuineness": "verified",
-      "outlets": [
-        "Associated Press",
-        "Reuters",
-        "The Wall Street Journal"
-      ],
-      "image": null,
-      "image_credit": null
-    },
-    {
-      "id": "world-20261104-0722-02",
-      "published_ist": "2026-11-04T06:29:58+05:30",
-      "headline": "Georgia: Ossoff dobara Senate jeete",
-      "detail": "Democrat Senator Jon Ossoff ne Georgia mein Republican Mike Collins ko harakar doosri baar jeet hasil ki; yah seat Senate par niyantran ki ladai mein Democrats ke liye aham mani ja rahi thi.",
-      "category": "World",
-      "exam_angle": "America ki chunav vyavastha: International exams ke liye — Senate aur midterm chunav.",
-      "source": "Al Jazeera",
-      "source_url": "https://www.aljazeera.com/news/2026/11/4/democrat-jon-ossoff-wins-georgia-us-senate-race",
-      "genuineness": "verified",
-      "outlets": [
-        "Associated Press",
-        "Reuters",
-        "Al Jazeera"
-      ],
-      "image": null,
-      "image_credit": null
-    },
-    {
-      "id": "world-20261104-0622-01",
-      "published_ist": "2026-11-04T06:13:00+05:30",
-      "headline": "America: Pehle natije, Warner jeete",
-      "detail": "Virginia mein Democrat Senator Mark Warner dobara jeete; pehle polling band hone ke baad House aur Senate, dono ka niyantran abhi tay nahi hai.",
-      "category": "World",
-      "exam_angle": null,
-      "source": "The Economic Times",
-      "source_url": "https://economictimes.indiatimes.com/news/newsblogs/us-midterm-election-2026-live-updates-results-polls-candidates-senate-house-races-republicans-democrats-election-day/liveblog/135486308.cms?utm_source=facebook_amp",
-      "genuineness": "verified",
-      "outlets": [
-        "Associated Press",
-        "Nikkei Asia",
-        "The Economic Times"
-      ],
-      "image": null,
-      "image_credit": null
     }
   ],
-  "updated_ist": "2026-11-04T13:27:37+05:30"
+  "updated_ist": "2026-11-04T14:25:45+05:30"
 }
