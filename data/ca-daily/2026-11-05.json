@@ -1,0 +1,77 @@
+{
+ "date": "2026-11-05",
+ "date_hi": "5 November 2026",
+ "date_en": "5 November 2026",
+ "episodes": [
+  {
+   "episode": 81,
+   "video_hi": "8VqB3M09MWU",
+   "video_hinglish": "8VqB3M09MWU",
+   "capsules": [
+    {
+     "id": "ca-ep81-s1",
+     "headline_hi": "Murasu toofan Andhra tat par takraya",
+     "headline_hinglish": "Murasu toofan Andhra tat par takraya",
+     "detail_hi": "110 kmph hawaon ke saath Ongole ke paas landfall; ped ukhde, bijli khambe gire.",
+     "detail_hinglish": "110 kmph hawaon ke saath Ongole ke paas landfall; ped ukhde, bijli khambe gire.",
+     "category_hi": "Environment",
+     "category_en": "Environment"
+    },
+    {
+     "id": "ca-ep81-s2",
+     "headline_hi": "Factory PMI 54.7 par aaya",
+     "headline_hinglish": "Factory PMI 54.7 par aaya",
+     "detail_hi": "October mein manufacturing PMI 55.1 se ghata kar 54.7 hua; 50 se upar vistaar dikhata hai.",
+     "detail_hinglish": "October mein manufacturing PMI 55.1 se ghata kar 54.7 hua; 50 se upar vistaar dikhata hai.",
+     "category_hi": "Economy",
+     "category_en": "Economy"
+    },
+    {
+     "id": "ca-ep81-s3",
+     "headline_hi": "Pehli BIMSTEC samudri kasrat hui",
+     "headline_hinglish": "Pehli BIMSTEC samudri kasrat hui",
+     "detail_hi": "Sri Vijaya Puram mein saat deshon ke jahazon ne samudri suraksha ka abhyaas kiya.",
+     "detail_hinglish": "Sri Vijaya Puram mein saat deshon ke jahazon ne samudri suraksha ka abhyaas kiya.",
+     "category_hi": "International",
+     "category_en": "National"
+    },
+    {
+     "id": "ca-ep81-s4",
+     "headline_hi": "Pune Metro Pink Line khuli",
+     "headline_hinglish": "Pune Metro Pink Line khuli",
+     "detail_hi": "23 km, 23 station wali line Hinjewadi IT hub ko Shivajinagar se jodti hai.",
+     "detail_hinglish": "23 km, 23 station wali line Hinjewadi IT hub ko Shivajinagar se jodti hai.",
+     "category_hi": "Infrastructure",
+     "category_en": "National"
+    },
+    {
+     "id": "ca-ep81-s5",
+     "headline_hi": "Kabaddi mein Bharat ne double jeeta",
+     "headline_hinglish": "Kabaddi mein Bharat ne double jeeta",
+     "detail_hi": "Purush team ne Sri Lanka ko 54-20 se, mahila team ne Uganda ko 35-15 se haraya.",
+     "detail_hinglish": "Purush team ne Sri Lanka ko 54-20 se, mahila team ne Uganda ko 35-15 se haraya.",
+     "category_hi": "Sports",
+     "category_en": "Sports"
+    }
+   ],
+   "mcq": {
+    "id": "ca-ep81-mcq",
+    "q_hi": "October 2026 mein HSBC India Manufacturing PMI kitna raha?",
+    "q_hinglish": "October 2026 mein HSBC India Manufacturing PMI kitna raha?",
+    "options_hi": [
+     "53.7",
+     "54.7",
+     "55.1",
+     "56.2"
+    ],
+    "options_hinglish": [
+     "53.7",
+     "54.7",
+     "55.1",
+     "56.2"
+    ],
+    "answer_index": 1
+   }
+  }
+ ]
+}
