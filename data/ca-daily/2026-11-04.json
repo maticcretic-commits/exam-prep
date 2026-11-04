@@ -142,6 +142,76 @@
     ],
     "answer_index": 2
    }
+  },
+  {
+   "episode": 79,
+   "video_hi": "MpzqBChFFmw",
+   "video_hinglish": "MpzqBChFFmw",
+   "capsules": [
+    {
+     "id": "ca-ep79-s1",
+     "headline_hi": "Manufacturing PMI 54.7 par aaya",
+     "headline_hinglish": "Manufacturing PMI 54.7 par aaya",
+     "detail_hi": "October mein 55.1 se ghata kar 54.7 hua; factory vistaar jaari raha.",
+     "detail_hinglish": "October mein 55.1 se ghata kar 54.7 hua; factory vistaar jaari raha.",
+     "category_hi": "Economy",
+     "category_en": "Economy"
+    },
+    {
+     "id": "ca-ep79-s2",
+     "headline_hi": "Pehli BIMSTEC samudri suraksha abhyaas shuru",
+     "headline_hinglish": "Pehli BIMSTEC samudri suraksha abhyaas shuru",
+     "detail_hi": "Sri Vijaya Puram mein saat desh shaamil hue; abhyaas 30 October se 3 November tak chala.",
+     "detail_hinglish": "Sri Vijaya Puram mein saat desh shaamil hue; abhyaas 30 October se 3 November tak chala.",
+     "category_hi": "Defence",
+     "category_en": "Defence"
+    },
+    {
+     "id": "ca-ep79-s3",
+     "headline_hi": "Kotak-Deutsche Bank sauda CCI se manzoor",
+     "headline_hinglish": "Kotak-Deutsche Bank sauda CCI se manzoor",
+     "detail_hi": "Kotak ko Deutsche Bank India ke retail aur private banking karobar ki CCI manzoori mili.",
+     "detail_hinglish": "Kotak ko Deutsche Bank India ke retail aur private banking karobar ki CCI manzoori mili.",
+     "category_hi": "Banking",
+     "category_en": "Banking"
+    },
+    {
+     "id": "ca-ep79-s4",
+     "headline_hi": "Raksha utpadan 3 lakh crore ka lakshya",
+     "headline_hinglish": "Raksha utpadan 3 lakh crore ka lakshya",
+     "detail_hi": "Rajnath Singh ne 2029 tak raksha niryaat 50,000 crore ka lakshya bhi rakha.",
+     "detail_hinglish": "Rajnath Singh ne 2029 tak raksha niryaat 50,000 crore ka lakshya bhi rakha.",
+     "category_hi": "Defence",
+     "category_en": "Defence"
+    },
+    {
+     "id": "ca-ep79-s5",
+     "headline_hi": "Kabaddi mein Bharat ka double gold",
+     "headline_hinglish": "Kabaddi mein Bharat ka double gold",
+     "detail_hi": "Purushon ne Sri Lanka ko 54-20 aur mahilaon ne Uganda ko 35-15 se haraya.",
+     "detail_hinglish": "Purushon ne Sri Lanka ko 54-20 aur mahilaon ne Uganda ko 35-15 se haraya.",
+     "category_hi": "Sports",
+     "category_en": "Sports"
+    }
+   ],
+   "mcq": {
+    "id": "ca-ep79-mcq",
+    "q_hi": "2029 tak Bharat ke raksha utpadan ka lakshya kitna hai?",
+    "q_hinglish": "2029 tak Bharat ke raksha utpadan ka lakshya kitna hai?",
+    "options_hi": [
+     "2 lakh crore",
+     "3 lakh crore",
+     "4 lakh crore",
+     "5 lakh crore"
+    ],
+    "options_hinglish": [
+     "2 lakh crore",
+     "3 lakh crore",
+     "4 lakh crore",
+     "5 lakh crore"
+    ],
+    "answer_index": 1
+   }
   }
  ]
 }
