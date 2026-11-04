@@ -1,0 +1,58 @@
+{
+  "items": [
+    {
+      "id": "world-20261104-0622-01",
+      "published_ist": "2026-11-04T06:13:00+05:30",
+      "headline": "America: Pehle natije, Warner jeete",
+      "detail": "Virginia mein Democrat Senator Mark Warner dobara jeete; pehle polling band hone ke baad House aur Senate, dono ka niyantran abhi tay nahi hai.",
+      "category": "World",
+      "exam_angle": null,
+      "source": "The Economic Times",
+      "source_url": "https://economictimes.indiatimes.com/news/newsblogs/us-midterm-election-2026-live-updates-results-polls-candidates-senate-house-races-republicans-democrats-election-day/liveblog/135486308.cms?utm_source=facebook_amp",
+      "genuineness": "verified",
+      "outlets": [
+        "Associated Press",
+        "Nikkei Asia",
+        "The Economic Times"
+      ],
+      "image": null,
+      "image_credit": null
+    },
+    {
+      "id": "world-20261104-0622-02",
+      "published_ist": "2026-11-04T04:16:00+05:30",
+      "headline": "North Korea: America ko sakht jawab ki chetavni",
+      "detail": "Kim Yo Jong ne KCNA bayan mein kaha America ki 'dushman neeti' par jawab aur sakht hoga; Binance choree ke FBI aarop ko kharij karte hue baatchit ki zaroorat par sawal uthaya.",
+      "category": "World",
+      "exam_angle": null,
+      "source": "The Korea Times",
+      "source_url": "https://www.koreatimes.co.kr/foreignaffairs/northkorea/20261104/n-korea-says-dialogue-with-us-an-option-but-not-a-must-for-national-interest",
+      "genuineness": "corroborated",
+      "outlets": [
+        "Agence France-Presse",
+        "The Korea Times"
+      ],
+      "image": null,
+      "image_credit": null
+    },
+    {
+      "id": "world-20261104-0622-03",
+      "published_ist": "2026-11-03T21:38:00+05:30",
+      "headline": "Europe: Bomb dhamki se saat udanein ruki",
+      "detail": "Mangalvaar ko Warsaw, Sofia, Rome aur Murcia jaane wali kam se kam saat udanon aur Greece mein ek cruise jahaz ko dhamki mili; sab surakshit rahe, koi visfotak nahi mila aur kisi ne zimmedari nahi li.",
+      "category": "World",
+      "exam_angle": null,
+      "source": "Associated Press",
+      "source_url": "https://www.etvbharat.com/en/international/flights-across-europe-face-disruption-after-false-bomb-threats-enn26110308179",
+      "genuineness": "verified",
+      "outlets": [
+        "Associated Press",
+        "Reuters",
+        "BBC"
+      ],
+      "image": null,
+      "image_credit": null
+    }
+  ],
+  "updated_ist": "2026-11-04T06:25:18+05:30"
+}
