@@ -1,433 +1,433 @@
 {
-  "items": [
-    {
-      "id": "world-20261104-1522-01",
-      "published_ist": "2026-11-04T10:33:00+05:30",
-      "headline": "Ukraine: Bijli grid par bada hamla",
-      "detail": "Mangalvaar raat saikadon drone aur missile se hamle ke baad Kyiv samet kai kshetron mein bijli gayi aur DTEK ke paanch mein se teen thermal plant band ho gaye.",
-      "category": "World",
-      "exam_angle": "Energy yuddh aur sardiyon ka sankat: nagrik buniyadi dhanche par hamle.",
-      "source": "DD India",
-      "source_url": "https://ddindia.co.in/2026/11/russia-bombards-ukraine-power-grid-before-abu-dhabi-talks-merz-urges-moscow-to-engage/",
-      "genuineness": "verified",
-      "outlets": [
-        "Reuters",
-        "CGTN",
-        "Outlook India"
-      ],
-      "image": null,
-      "image_credit": null
-    },
-    {
-      "id": "world-20261104-1522-02",
-      "published_ist": "2026-11-04T07:30:00+05:30",
-      "headline": "Pakistan: Swadeshi Fa'az missile ka parikshan",
-      "detail": "Pakistan ne pehli baar swadeshi Fa'az air-to-air missile ka safal flight test kiya; sena ke anusaar ismein advanced terminal guidance hai aur yah lambi doori tak hawai lakshya bhed sakti hai.",
-      "category": "World",
-      "exam_angle": null,
-      "source": "Dawn",
-      "source_url": "https://www.dawn.com/news/2041949/pakistan-tests-homegrown-faaz-missile",
-      "genuineness": "verified",
-      "outlets": [
-        "Dawn",
-        "The Express Tribune",
-        "Deccan Herald"
-      ],
-      "image": null,
-      "image_credit": null
-    },
-    {
-      "id": "world-20261104-1522-03",
-      "published_ist": "2026-11-04T11:37:00+05:30",
-      "headline": "Abu Dhabi vaarta mein Europe ko jagah nahi",
-      "detail": "Russia ne kaha 10-11 November ki Abu Dhabi vaarta Russia, Ukraine aur madhyasth America ke beech tripakshiya format mein hogi; Europe usmein shamil nahi hoga.",
-      "category": "World",
-      "exam_angle": null,
-      "source": "CGTN",
-      "source_url": "https://news.cgtn.com/news/2026-11-04/Russia-rules-out-European-participation-in-Ukraine-peace-talks-1RN5WciwvEQ/p.html",
-      "genuineness": "verified",
-      "outlets": [
-        "CGTN",
-        "Bastille Post",
-        "Kurdistan24"
-      ],
-      "image": null,
-      "image_credit": null
-    },
-    {
-      "id": "world-20261104-1422-01",
-      "published_ist": "2026-11-04T12:15:00+05:30",
-      "headline": "Michigan: El-Sayed pehle Muslim Senator bane",
-      "detail": "Democrat Abdul El-Sayed ne Republican Mike Rogers ko harakar Michigan ki Senate seat jeeti; ve Senate mein chune gaye pehle Muslim hain.",
-      "category": "World",
-      "exam_angle": "America ki chunav vyavastha: International exams ke liye — Senate aur midterm chunav.",
-      "source": "The Economic Times",
-      "source_url": "https://economictimes.indiatimes.com/news/international/world-news/us-midterm-elections-2026-democrat-abdul-el-sayed-claims-victory-in-brutal-senate-battle-in-michigan/articleshow/135527964.cms",
-      "genuineness": "verified",
-      "outlets": [
-        "Reuters",
-        "USA Today",
-        "The Economic Times"
-      ],
-      "image": null,
-      "image_credit": null
-    },
-    {
-      "id": "world-20261104-1422-02",
-      "published_ist": "2026-11-04T11:55:00+05:30",
-      "headline": "Jeffries pehle Black Speaker banne ki ore",
-      "detail": "Democrats ki House jeet se Hakeem Jeffries America ke pehle Black Speaker banne ki line mein hain; naya House January mein shapath lega.",
-      "category": "World",
-      "exam_angle": "America ki chunav vyavastha: International exams ke liye — House aur Speaker.",
-      "source": "Reuters",
-      "source_url": "https://www.reuters.com/legal/government/hakeem-jeffries-poised-become-speaker-us-house-representatives-2026-11-04/",
-      "genuineness": "corroborated",
-      "outlets": [
-        "Reuters",
-        "USA Today"
-      ],
-      "image": null,
-      "image_credit": null
-    },
-    {
-      "id": "world-20261104-1422-03",
-      "published_ist": "2026-11-04T10:54:10+05:30",
-      "headline": "Trump: Israel ko madad saal ant tak band",
-      "detail": "Trump ne Fox News ko kaha America saal ke ant tak Israel ko $4 billion salana sainya madad dena band karega; zaroorat par madad jaari rahegi aur hathiyar bikri chalti rahegi.",
-      "category": "World",
-      "exam_angle": "America-Israel sambandh: International exams ke liye — sainya sahayata samjhauta.",
-      "source": "Business Standard",
-      "source_url": "https://www.business-standard.com/world-news/trump-end-us-military-aid-israel-4-billion-2026-126110400515_1.html",
-      "genuineness": "verified",
-      "outlets": [
-        "Business Standard",
-        "Haaretz",
-        "Deutsche Welle"
-      ],
-      "image": null,
-      "image_credit": null
-    },
-    {
-      "id": "world-20261104-1322-01",
-      "published_ist": "2026-11-04T10:30:00+05:30",
-      "headline": "South Africa: ANC ki pariksha, matdan jaari",
-      "detail": "29.2 million matdata sthaniya chunav mein matdan kar rahe hain; ANC ke samarthan 40% se neeche jaane ka anuman hai, natije Ravivar ko aayenge.",
-      "category": "World",
-      "exam_angle": "Dakshin Africa: International exams ke liye — sthaniya chunav aur ANC.",
-      "source": "Al Jazeera",
-      "source_url": "https://www.aljazeera.com/news/2026/11/4/south-africans-vote-in-local-elections-seen-as-test-for-embattled-anc",
-      "genuineness": "verified",
-      "outlets": [
-        "Reuters",
-        "Al Jazeera",
-        "BBC"
-      ],
-      "image": null,
-      "image_credit": null
-    },
-    {
-      "id": "world-20261104-1322-02",
-      "published_ist": "2026-11-04T08:42:00+05:30",
-      "headline": "Florida: Learjet ke tukde kilometre door mile",
-      "detail": "NTSB ne kaha Learjet ka left elevator 2 se 6 kilometre door mila, isse pata chalta hai viman girne se pehle toot raha tha; nau log mare gaye, karan abhi tay nahi.",
-      "category": "World",
-      "exam_angle": null,
-      "source": "WION",
-      "source_url": "https://www.wionews.com/world/florida-crash-learjet-fragments-found-3-6km-from-crash-site-indicate-they-fell-when-plane-was-midair-1793761344301/amp",
-      "genuineness": "verified",
-      "outlets": [
-        "Associated Press",
-        "BBC",
-        "WION"
-      ],
-      "image": null,
-      "image_credit": null
-    },
-    {
-      "id": "world-20261104-1322-03",
-      "published_ist": "2026-11-04T05:40:00+05:30",
-      "headline": "Brussels: Ukraine suraksha par baatchit shuru",
-      "detail": "Ukraine, America, Europe aur NATO ke pratinidhi 4-5 November ko suraksha guarantee aur punarnirman par baatchit karenge; Abu Dhabi vaarta se pehle ki taiyari hai.",
-      "category": "World",
-      "exam_angle": null,
-      "source": "The New Voice of Ukraine",
-      "source_url": "https://english.nv.ua/nation/brussels-talks-on-security-guarantees-to-last-two-days-umerov-says-50656056.html",
-      "genuineness": "verified",
-      "outlets": [
-        "Reuters",
-        "The New Voice of Ukraine",
-        "UNN"
-      ],
-      "image": null,
-      "image_credit": null
-    },
-    {
-      "id": "world-20261104-1222-01",
-      "published_ist": "2026-11-04T10:00:00+05:30",
-      "headline": "Iowa: Turek ne Hinson ko haraya",
-      "detail": "Democrat Josh Turek ne Republican Ashley Hinson ko harakar Iowa ki Senate seat palti; ve 2008 ke baad Iowa se Senate jeetne wale pehle Democrat hain.",
-      "category": "World",
-      "exam_angle": "America ki chunav vyavastha: International exams ke liye — Senate aur midterm chunav.",
-      "source": "Des Moines Register",
-      "source_url": "https://www.desmoinesregister.com/story/news/politics/elections/2026/11/03/ashley-hinson-josh-turek-iowa-senate-race-midterm-election-results/92443760007/",
-      "genuineness": "verified",
-      "outlets": [
-        "Associated Press",
-        "Des Moines Register",
-        "Nikkei Asia"
-      ],
-      "image": null,
-      "image_credit": null
-    },
-    {
-      "id": "world-20261104-1222-02",
-      "published_ist": "2026-11-04T09:40:00+05:30",
-      "headline": "Ohio: Brown Senate mein wapas aaye",
-      "detail": "Democrat Sherrod Brown ne Republican Jon Husted ko harakar Ohio ki Senate seat palti; yah vishesh chunav JD Vance ke uprashtrapati banne se khaali hui seat ke liye tha.",
-      "category": "World",
-      "exam_angle": "America ki chunav vyavastha: International exams ke liye — Senate aur midterm chunav; vishesh chunav.",
-      "source": "The Wall Street Journal",
-      "source_url": "https://www.wsj.com/livecoverage/midterm-election-results-2026-latest-updates/card/ohio-democrat-sherrod-brown-wins-battle-to-return-to-senate-0HgWxXD74TQ7dZ8sdtF9",
-      "genuineness": "corroborated",
-      "outlets": [
-        "Associated Press",
-        "The Wall Street Journal"
-      ],
-      "image": null,
-      "image_credit": null
-    },
-    {
-      "id": "world-20261104-1222-03",
-      "published_ist": "2026-11-04T09:33:00+05:30",
-      "headline": "Texas: Talarico ne Paxton ko haraya",
-      "detail": "Democrat James Talarico ne Republican Ken Paxton ko harakar Texas ki Senate seat palti; ve 1988 ke baad Texas se Senate jeetne wale pehle Democrat hain.",
-      "category": "World",
-      "exam_angle": "America ki chunav vyavastha: International exams ke liye — Senate aur midterm chunav.",
-      "source": "New York Post",
-      "source_url": "https://nypost.com/2026/11/03/us-news/james-talarico-turns-texas-blue-with-defeat-of-republican-ken-paxton/",
-      "genuineness": "verified",
-      "outlets": [
-        "Associated Press",
-        "New York Post",
-        "The Economic Times"
-      ],
-      "image": null,
-      "image_credit": null
-    },
-    {
-      "id": "world-20261104-1122-01",
-      "published_ist": "2026-11-04T10:57:00+05:30",
-      "headline": "Maine: Jackson ne Collins ko haraya",
-      "detail": "Democrat Troy Jackson ne paanch baar chuni gayi Senator Susan Collins ko harakar Maine ki seat palti; Collins 1996 se Senator thi aur unhone haar maan li.",
-      "category": "World",
-      "exam_angle": "America ki chunav vyavastha: International exams ke liye — Senate aur midterm chunav.",
-      "source": "Reuters",
-      "source_url": "https://www.reuters.com/world/us/democrat-troy-jackson-ousts-republican-senator-susan-collins-maine-2026-11-04/",
-      "genuineness": "verified",
-      "outlets": [
-        "Reuters",
-        "USA Today",
-        "Associated Press"
-      ],
-      "image": null,
-      "image_credit": null
-    },
-    {
-      "id": "world-20261104-1122-02",
-      "published_ist": "2026-11-04T10:01:00+05:30",
-      "headline": "Texas: Hinojosa ne Abbott ko haraya",
-      "detail": "Democrat Gina Hinojosa ne Governor Greg Abbott ko harakar Texas ki pehli Latina governor banne ka itihas racha; ve 1990 ke baad pehli Democrat governor hain.",
-      "category": "World",
-      "exam_angle": "America ki chunav vyavastha: International exams ke liye — governor chunav.",
-      "source": "Associated Press",
-      "source_url": "https://www.lanacion.com.ar/usa/democrat-gina-hinojosa-elected-texas-first-latina-governor-ousts-republican-incumbent-greg-abbott-nid04112026/",
-      "genuineness": "verified",
-      "outlets": [
-        "Associated Press",
-        "USA Today",
-        "Reuters"
-      ],
-      "image": null,
-      "image_credit": null
-    },
-    {
-      "id": "world-20261104-1122-03",
-      "published_ist": "2026-11-04T09:55:00+05:30",
-      "headline": "Ohio: Acton pehli mahila governor bani",
-      "detail": "Democrat Amy Acton ne Vivek Ramaswamy ko harakar Ohio ki pehli chuni gayi mahila governor banne ka itihas racha; ve 20 saal mein pehli Democrat governor hain.",
-      "category": "World",
-      "exam_angle": "America ki chunav vyavastha: International exams ke liye — governor chunav.",
-      "source": "Al Jazeera",
-      "source_url": "https://www.aljazeera.com/amp/news/2026/11/4/democrat-amy-acton-beats-republican-vivek-ramaswamy-in-ohio-governors-race",
-      "genuineness": "verified",
-      "outlets": [
-        "Associated Press",
-        "Al Jazeera",
-        "The Wall Street Journal"
-      ],
-      "image": null,
-      "image_credit": null
-    },
-    {
-      "id": "world-20261104-1122-04",
-      "published_ist": "2026-11-04T09:38:00+05:30",
-      "headline": "Kansas: Hamilton 1932 ke baad pehle Democrat",
-      "detail": "Democrat Adam Hamilton ne Senator Roger Marshall ko harakar 1932 ke baad Kansas se Senate jeetne wale pehle Democrat ban gaye.",
-      "category": "World",
-      "exam_angle": "America ki chunav vyavastha: International exams ke liye — Senate aur midterm chunav.",
-      "source": "The Times",
-      "source_url": "https://www.thetimes.com/us/american-politics/article/midterm-elections-live-results-2026-democrats-senate-house-latest-news-0wc80r5br",
-      "genuineness": "verified",
-      "outlets": [
-        "Associated Press",
-        "The Times",
-        "Agence France-Presse"
-      ],
-      "image": null,
-      "image_credit": null
-    },
-    {
-      "id": "world-20261104-1122-05",
-      "published_ist": "2026-11-04T03:59:00+05:30",
-      "headline": "Spain: Mantri Puente ne istifa diya",
-      "detail": "Parivahan Mantri Oscar Puente ne 69 logon ki jaan lene wale train hadse ke chhah din baad istifa de diya; saal mein yah doosra bada rail hadsa tha.",
-      "category": "World",
-      "exam_angle": "Rail suraksha aur jawabdehi: International exams ke liye — Spain mein mantri ka istifa.",
-      "source": "CNN",
-      "source_url": "https://www.cnn.com/2026/11/03/americas/spain-transport-minister-resigns-intl-latam?cid=external-feeds_iluminar_meta",
-      "genuineness": "verified",
-      "outlets": [
-        "CNN",
-        "The Times",
-        "Agence France-Presse"
-      ],
-      "image": null,
-      "image_credit": null
-    },
-    {
-      "id": "world-20261104-1022-01",
-      "published_ist": "2026-11-04T10:07:00+05:30",
-      "headline": "America: Democrats ne Senate bhi jeeta",
-      "detail": "Democrats ne Senate par niyantran le liya; Texas, Ohio aur Kansas mein jeet ke saath chaar seat ki zaroorat poori hui.",
-      "category": "World",
-      "exam_angle": "America ki chunav vyavastha: International exams ke liye — Senate aur midterm chunav.",
-      "source": "Al Jazeera",
-      "source_url": "https://www.aljazeera.com/news/2026/11/4/democratic-party-flips-us-senate-in-2026-midterm-elections",
-      "genuineness": "verified",
-      "outlets": [
-        "USA Today",
-        "Al Jazeera",
-        "The Economic Times"
-      ],
-      "image": null,
-      "image_credit": null
-    },
-    {
-      "id": "world-20261104-1022-02",
-      "published_ist": "2026-11-04T07:27:00+05:30",
-      "headline": "North Korea: Samudra ki ore prakshepan",
-      "detail": "Dakshin Korea ki sena ne kaha North Korea ne poorvi tat ke paas samudra ki ore ek agyaat prakshepan kiya; yah Kim Yo Jong ke baatchit se inkar ke kuch ghante baad hua.",
-      "category": "World",
-      "exam_angle": null,
-      "source": "The Straits Times",
-      "source_url": "https://www.straitstimes.com/asia/east-asia/north-korea-fires-unidentified-projectile-toward-sea-off-its-east-coast-seoul-says1",
-      "genuineness": "corroborated",
-      "outlets": [
-        "Reuters",
-        "Yonhap"
-      ],
-      "image": null,
-      "image_credit": null
-    },
-    {
-      "id": "world-20261104-1022-03",
-      "published_ist": "2026-11-04T01:26:00+05:30",
-      "headline": "Ukraine: Sahayata kendra par hamla, 33 mare",
-      "detail": "Komyshuvakha mein sahayata baantne wale school par hamle mein kam se kam 33 log mare gaye aur lagbhag 50 ke malbe mein dabey hone ki ashanka hai.",
-      "category": "World",
-      "exam_angle": "Yuddh aur manviya sahayata: International exams ke liye — nagrik suraksha aur sahayata kendra.",
-      "source": "Reuters",
-      "source_url": "https://tribune.com.pk/story/2638549/33-killed-in-ukraine-village",
-      "genuineness": "verified",
-      "outlets": [
-        "Reuters",
-        "WION",
-        "Yonhap"
-      ],
-      "image": null,
-      "image_credit": null
-    },
-    {
-      "id": "world-20261104-0922-01",
-      "published_ist": "2026-11-04T08:48:00+05:30",
-      "headline": "America: Democrats House niyantran ki ore",
-      "detail": "US media ke anumaanon ke mutabik Democrats House mein bahumat ki ore hain, jisse Trump ke agenda ko chunauti mil sakti hai; antim ginati abhi baaki hai.",
-      "category": "World",
-      "exam_angle": "America ki chunav vyavastha: International exams ke liye — House aur midterm chunav.",
-      "source": "Reuters",
-      "source_url": "https://www.reuters.com/world/us/democrats-projected-win-majority-control-us-house-us-media-project-2026-11-04/",
-      "genuineness": "verified",
-      "outlets": [
-        "Reuters",
-        "The Hindu",
-        "Times Now"
-      ],
-      "image": null,
-      "image_credit": null
-    },
-    {
-      "id": "world-20261104-0922-02",
-      "published_ist": "2026-11-04T06:33:00+05:30",
-      "headline": "UN: ICJ ke liye paanch nyayadhish chune",
-      "detail": "General Assembly aur Security Council ne nau saal ke karyakal ke liye paanch nyayadhish chune; unka karyakal 6 February 2027 se shuru hoga.",
-      "category": "World",
-      "exam_angle": "UN aur ICJ: International exams ke liye — ICJ nyayadhish chunav aur karyakal.",
-      "source": "Al Jazeera",
-      "source_url": "https://www.aljazeera.com/news/2026/11/4/un-elects-five-judges-to-international-court-of-justice-amid-record-cases",
-      "genuineness": "corroborated",
-      "outlets": [
-        "Al Jazeera",
-        "United Nations"
-      ],
-      "image": null,
-      "image_credit": null
-    },
-    {
-      "id": "world-20261104-0922-03",
-      "published_ist": "2026-11-04T08:30:00+05:30",
-      "headline": "South Carolina: Andrews ne Senate seat jeeti",
-      "detail": "Pediatrician Annie Andrews ne Republican Darline Graham ko harakar 28 saal mein pehli baar Democrats ko South Carolina ki Senate seat dilayi.",
-      "category": "World",
-      "exam_angle": "America ki chunav vyavastha: International exams ke liye — Senate aur midterm chunav.",
-      "source": "Reuters",
-      "source_url": "https://www.reuters.com/world/us/democrat-annie-andrews-wins-us-senate-seat-south-carolina-upset-2026-11-04/",
-      "genuineness": "verified",
-      "outlets": [
-        "Reuters",
-        "Associated Press",
-        "The Hindu"
-      ],
-      "image": null,
-      "image_credit": null
-    },
-    {
-      "id": "world-20261104-0822-01",
-      "published_ist": "2026-11-04T07:46:00+05:30",
-      "headline": "Georgia: Bottoms pehli Black mahila governor",
-      "detail": "Keisha Lance Bottoms ne Rick Jackson ko harakar Georgia ki pehli mahila governor banne ka itihas rach diya; ve America mein chuni gayi pehli Black mahila governor hain.",
-      "category": "World",
-      "exam_angle": "America ki chunav vyavastha: International exams ke liye — governor chunav.",
-      "source": "Reuters",
-      "source_url": "https://www.reuters.com/world/us/keisha-lance-bottoms-wins-georgia-race-becomes-first-black-woman-elected-2026-11-04/",
-      "genuineness": "verified",
-      "outlets": [
-        "Reuters",
-        "Associated Press",
-        "The Wall Street Journal"
-      ],
-      "image": null,
-      "image_credit": null
-    }
-  ],
-  "updated_ist": "2026-11-04T15:26:37+05:30"
+ "items": [
+  {
+   "id": "world-20261104-1622-01",
+   "published_ist": "2026-11-04T13:03:00+05:30",
+   "headline": "Trump: Iran yuddh ne haar mein bhoomika nibhayi",
+   "detail": "Trump ne Democrats ko badhai di aur Fox News ko kaha Iran yuddh aur tel ki kimaton ne Republicans ki haar mein hissa nibhaya; veeto ki chetavni bhi di.",
+   "category": "World",
+   "exam_angle": "America ki chunav vyavastha: International exams ke liye — yuddh ka chunav parinam par asar.",
+   "source": "The Straits Times",
+   "source_url": "https://www.straitstimes.com/world/united-states/us-midterms-trump-acknowledges-iran-role-in-democratic-sweep",
+   "genuineness": "verified",
+   "outlets": [
+    "The Straits Times",
+    "NDTV",
+    "The Times of Israel"
+   ],
+   "image": null,
+   "image_credit": null
+  },
+  {
+   "id": "world-20261104-1622-02",
+   "published_ist": "2026-11-04T07:30:00+05:30",
+   "headline": "Iran: Hormuz tabhi khulega, saat shartein poori hon",
+   "detail": "Iran ke suraksha pramukh Rezaei ne kaha America ka jawab 'convincing' nahi tha; saat shartein poori hone par hi Hormuz dobara khulega.",
+   "category": "World",
+   "exam_angle": "Hormuz jaladmarag: tel vyapar aur vaishvik urja suraksha.",
+   "source": "Dawn",
+   "source_url": "https://www.dawn.com/news/2041955",
+   "genuineness": "verified",
+   "outlets": [
+    "Dawn",
+    "The Times of Israel",
+    "The Jerusalem Post"
+   ],
+   "image": null,
+   "image_credit": null
+  },
+  {
+   "id": "world-20261104-1622-03",
+   "published_ist": "2026-11-04T07:43:00+05:30",
+   "headline": "Thailand: Mpox ke 470 case, teen mautein",
+   "detail": "Thailand mein 1 January se 31 October tak mpox ke 470 case aur teen mautein darj hui; swasthya vibhag ne jaldi jaanch ki appeal ki.",
+   "category": "World",
+   "exam_angle": "Sankramak rog: mpox — lakshan, jaanch aur roktham.",
+   "source": "Nation Thailand",
+   "source_url": "https://www.nationthailand.com/health-wellness/40073082",
+   "genuineness": "corroborated",
+   "outlets": [
+    "Nation Thailand",
+    "The Straits Times"
+   ],
+   "image": null,
+   "image_credit": null
+  },
+  {
+   "id": "world-20261104-1522-01",
+   "published_ist": "2026-11-04T10:33:00+05:30",
+   "headline": "Ukraine: Bijli grid par bada hamla",
+   "detail": "Mangalvaar raat saikadon drone aur missile se hamle ke baad Kyiv samet kai kshetron mein bijli gayi aur DTEK ke paanch mein se teen thermal plant band ho gaye.",
+   "category": "World",
+   "exam_angle": "Energy yuddh aur sardiyon ka sankat: nagrik buniyadi dhanche par hamle.",
+   "source": "DD India",
+   "source_url": "https://ddindia.co.in/2026/11/russia-bombards-ukraine-power-grid-before-abu-dhabi-talks-merz-urges-moscow-to-engage/",
+   "genuineness": "verified",
+   "outlets": [
+    "Reuters",
+    "CGTN",
+    "Outlook India"
+   ],
+   "image": null,
+   "image_credit": null
+  },
+  {
+   "id": "world-20261104-1522-02",
+   "published_ist": "2026-11-04T07:30:00+05:30",
+   "headline": "Pakistan: Swadeshi Fa'az missile ka parikshan",
+   "detail": "Pakistan ne pehli baar swadeshi Fa'az air-to-air missile ka safal flight test kiya; sena ke anusaar ismein advanced terminal guidance hai aur yah lambi doori tak hawai lakshya bhed sakti hai.",
+   "category": "World",
+   "exam_angle": null,
+   "source": "Dawn",
+   "source_url": "https://www.dawn.com/news/2041949/pakistan-tests-homegrown-faaz-missile",
+   "genuineness": "verified",
+   "outlets": [
+    "Dawn",
+    "The Express Tribune",
+    "Deccan Herald"
+   ],
+   "image": null,
+   "image_credit": null
+  },
+  {
+   "id": "world-20261104-1522-03",
+   "published_ist": "2026-11-04T11:37:00+05:30",
+   "headline": "Abu Dhabi vaarta mein Europe ko jagah nahi",
+   "detail": "Russia ne kaha 10-11 November ki Abu Dhabi vaarta Russia, Ukraine aur madhyasth America ke beech tripakshiya format mein hogi; Europe usmein shamil nahi hoga.",
+   "category": "World",
+   "exam_angle": null,
+   "source": "CGTN",
+   "source_url": "https://news.cgtn.com/news/2026-11-04/Russia-rules-out-European-participation-in-Ukraine-peace-talks-1RN5WciwvEQ/p.html",
+   "genuineness": "verified",
+   "outlets": [
+    "CGTN",
+    "Bastille Post",
+    "Kurdistan24"
+   ],
+   "image": null,
+   "image_credit": null
+  },
+  {
+   "id": "world-20261104-1422-01",
+   "published_ist": "2026-11-04T12:15:00+05:30",
+   "headline": "Michigan: El-Sayed pehle Muslim Senator bane",
+   "detail": "Democrat Abdul El-Sayed ne Republican Mike Rogers ko harakar Michigan ki Senate seat jeeti; ve Senate mein chune gaye pehle Muslim hain.",
+   "category": "World",
+   "exam_angle": "America ki chunav vyavastha: International exams ke liye — Senate aur midterm chunav.",
+   "source": "The Economic Times",
+   "source_url": "https://economictimes.indiatimes.com/news/international/world-news/us-midterm-elections-2026-democrat-abdul-el-sayed-claims-victory-in-brutal-senate-battle-in-michigan/articleshow/135527964.cms",
+   "genuineness": "verified",
+   "outlets": [
+    "Reuters",
+    "USA Today",
+    "The Economic Times"
+   ],
+   "image": null,
+   "image_credit": null
+  },
+  {
+   "id": "world-20261104-1422-02",
+   "published_ist": "2026-11-04T11:55:00+05:30",
+   "headline": "Jeffries pehle Black Speaker banne ki ore",
+   "detail": "Democrats ki House jeet se Hakeem Jeffries America ke pehle Black Speaker banne ki line mein hain; naya House January mein shapath lega.",
+   "category": "World",
+   "exam_angle": "America ki chunav vyavastha: International exams ke liye — House aur Speaker.",
+   "source": "Reuters",
+   "source_url": "https://www.reuters.com/legal/government/hakeem-jeffries-poised-become-speaker-us-house-representatives-2026-11-04/",
+   "genuineness": "corroborated",
+   "outlets": [
+    "Reuters",
+    "USA Today"
+   ],
+   "image": null,
+   "image_credit": null
+  },
+  {
+   "id": "world-20261104-1422-03",
+   "published_ist": "2026-11-04T10:54:10+05:30",
+   "headline": "Trump: Israel ko madad saal ant tak band",
+   "detail": "Trump ne Fox News ko kaha America saal ke ant tak Israel ko $4 billion salana sainya madad dena band karega; zaroorat par madad jaari rahegi aur hathiyar bikri chalti rahegi.",
+   "category": "World",
+   "exam_angle": "America-Israel sambandh: International exams ke liye — sainya sahayata samjhauta.",
+   "source": "Business Standard",
+   "source_url": "https://www.business-standard.com/world-news/trump-end-us-military-aid-israel-4-billion-2026-126110400515_1.html",
+   "genuineness": "verified",
+   "outlets": [
+    "Business Standard",
+    "Haaretz",
+    "Deutsche Welle"
+   ],
+   "image": null,
+   "image_credit": null
+  },
+  {
+   "id": "world-20261104-1322-01",
+   "published_ist": "2026-11-04T10:30:00+05:30",
+   "headline": "South Africa: ANC ki pariksha, matdan jaari",
+   "detail": "29.2 million matdata sthaniya chunav mein matdan kar rahe hain; ANC ke samarthan 40% se neeche jaane ka anuman hai, natije Ravivar ko aayenge.",
+   "category": "World",
+   "exam_angle": "Dakshin Africa: International exams ke liye — sthaniya chunav aur ANC.",
+   "source": "Al Jazeera",
+   "source_url": "https://www.aljazeera.com/news/2026/11/4/south-africans-vote-in-local-elections-seen-as-test-for-embattled-anc",
+   "genuineness": "verified",
+   "outlets": [
+    "Reuters",
+    "Al Jazeera",
+    "BBC"
+   ],
+   "image": null,
+   "image_credit": null
+  },
+  {
+   "id": "world-20261104-1322-02",
+   "published_ist": "2026-11-04T08:42:00+05:30",
+   "headline": "Florida: Learjet ke tukde kilometre door mile",
+   "detail": "NTSB ne kaha Learjet ka left elevator 2 se 6 kilometre door mila, isse pata chalta hai viman girne se pehle toot raha tha; nau log mare gaye, karan abhi tay nahi.",
+   "category": "World",
+   "exam_angle": null,
+   "source": "WION",
+   "source_url": "https://www.wionews.com/world/florida-crash-learjet-fragments-found-3-6km-from-crash-site-indicate-they-fell-when-plane-was-midair-1793761344301/amp",
+   "genuineness": "verified",
+   "outlets": [
+    "Associated Press",
+    "BBC",
+    "WION"
+   ],
+   "image": null,
+   "image_credit": null
+  },
+  {
+   "id": "world-20261104-1322-03",
+   "published_ist": "2026-11-04T05:40:00+05:30",
+   "headline": "Brussels: Ukraine suraksha par baatchit shuru",
+   "detail": "Ukraine, America, Europe aur NATO ke pratinidhi 4-5 November ko suraksha guarantee aur punarnirman par baatchit karenge; Abu Dhabi vaarta se pehle ki taiyari hai.",
+   "category": "World",
+   "exam_angle": null,
+   "source": "The New Voice of Ukraine",
+   "source_url": "https://english.nv.ua/nation/brussels-talks-on-security-guarantees-to-last-two-days-umerov-says-50656056.html",
+   "genuineness": "verified",
+   "outlets": [
+    "Reuters",
+    "The New Voice of Ukraine",
+    "UNN"
+   ],
+   "image": null,
+   "image_credit": null
+  },
+  {
+   "id": "world-20261104-1222-01",
+   "published_ist": "2026-11-04T10:00:00+05:30",
+   "headline": "Iowa: Turek ne Hinson ko haraya",
+   "detail": "Democrat Josh Turek ne Republican Ashley Hinson ko harakar Iowa ki Senate seat palti; ve 2008 ke baad Iowa se Senate jeetne wale pehle Democrat hain.",
+   "category": "World",
+   "exam_angle": "America ki chunav vyavastha: International exams ke liye — Senate aur midterm chunav.",
+   "source": "Des Moines Register",
+   "source_url": "https://www.desmoinesregister.com/story/news/politics/elections/2026/11/03/ashley-hinson-josh-turek-iowa-senate-race-midterm-election-results/92443760007/",
+   "genuineness": "verified",
+   "outlets": [
+    "Associated Press",
+    "Des Moines Register",
+    "Nikkei Asia"
+   ],
+   "image": null,
+   "image_credit": null
+  },
+  {
+   "id": "world-20261104-1222-02",
+   "published_ist": "2026-11-04T09:40:00+05:30",
+   "headline": "Ohio: Brown Senate mein wapas aaye",
+   "detail": "Democrat Sherrod Brown ne Republican Jon Husted ko harakar Ohio ki Senate seat palti; yah vishesh chunav JD Vance ke uprashtrapati banne se khaali hui seat ke liye tha.",
+   "category": "World",
+   "exam_angle": "America ki chunav vyavastha: International exams ke liye — Senate aur midterm chunav; vishesh chunav.",
+   "source": "The Wall Street Journal",
+   "source_url": "https://www.wsj.com/livecoverage/midterm-election-results-2026-latest-updates/card/ohio-democrat-sherrod-brown-wins-battle-to-return-to-senate-0HgWxXD74TQ7dZ8sdtF9",
+   "genuineness": "corroborated",
+   "outlets": [
+    "Associated Press",
+    "The Wall Street Journal"
+   ],
+   "image": null,
+   "image_credit": null
+  },
+  {
+   "id": "world-20261104-1222-03",
+   "published_ist": "2026-11-04T09:33:00+05:30",
+   "headline": "Texas: Talarico ne Paxton ko haraya",
+   "detail": "Democrat James Talarico ne Republican Ken Paxton ko harakar Texas ki Senate seat palti; ve 1988 ke baad Texas se Senate jeetne wale pehle Democrat hain.",
+   "category": "World",
+   "exam_angle": "America ki chunav vyavastha: International exams ke liye — Senate aur midterm chunav.",
+   "source": "New York Post",
+   "source_url": "https://nypost.com/2026/11/03/us-news/james-talarico-turns-texas-blue-with-defeat-of-republican-ken-paxton/",
+   "genuineness": "verified",
+   "outlets": [
+    "Associated Press",
+    "New York Post",
+    "The Economic Times"
+   ],
+   "image": null,
+   "image_credit": null
+  },
+  {
+   "id": "world-20261104-1122-01",
+   "published_ist": "2026-11-04T10:57:00+05:30",
+   "headline": "Maine: Jackson ne Collins ko haraya",
+   "detail": "Democrat Troy Jackson ne paanch baar chuni gayi Senator Susan Collins ko harakar Maine ki seat palti; Collins 1996 se Senator thi aur unhone haar maan li.",
+   "category": "World",
+   "exam_angle": "America ki chunav vyavastha: International exams ke liye — Senate aur midterm chunav.",
+   "source": "Reuters",
+   "source_url": "https://www.reuters.com/world/us/democrat-troy-jackson-ousts-republican-senator-susan-collins-maine-2026-11-04/",
+   "genuineness": "verified",
+   "outlets": [
+    "Reuters",
+    "USA Today",
+    "Associated Press"
+   ],
+   "image": null,
+   "image_credit": null
+  },
+  {
+   "id": "world-20261104-1122-02",
+   "published_ist": "2026-11-04T10:01:00+05:30",
+   "headline": "Texas: Hinojosa ne Abbott ko haraya",
+   "detail": "Democrat Gina Hinojosa ne Governor Greg Abbott ko harakar Texas ki pehli Latina governor banne ka itihas racha; ve 1990 ke baad pehli Democrat governor hain.",
+   "category": "World",
+   "exam_angle": "America ki chunav vyavastha: International exams ke liye — governor chunav.",
+   "source": "Associated Press",
+   "source_url": "https://www.lanacion.com.ar/usa/democrat-gina-hinojosa-elected-texas-first-latina-governor-ousts-republican-incumbent-greg-abbott-nid04112026/",
+   "genuineness": "verified",
+   "outlets": [
+    "Associated Press",
+    "USA Today",
+    "Reuters"
+   ],
+   "image": null,
+   "image_credit": null
+  },
+  {
+   "id": "world-20261104-1122-03",
+   "published_ist": "2026-11-04T09:55:00+05:30",
+   "headline": "Ohio: Acton pehli mahila governor bani",
+   "detail": "Democrat Amy Acton ne Vivek Ramaswamy ko harakar Ohio ki pehli chuni gayi mahila governor banne ka itihas racha; ve 20 saal mein pehli Democrat governor hain.",
+   "category": "World",
+   "exam_angle": "America ki chunav vyavastha: International exams ke liye — governor chunav.",
+   "source": "Al Jazeera",
+   "source_url": "https://www.aljazeera.com/amp/news/2026/11/4/democrat-amy-acton-beats-republican-vivek-ramaswamy-in-ohio-governors-race",
+   "genuineness": "verified",
+   "outlets": [
+    "Associated Press",
+    "Al Jazeera",
+    "The Wall Street Journal"
+   ],
+   "image": null,
+   "image_credit": null
+  },
+  {
+   "id": "world-20261104-1122-04",
+   "published_ist": "2026-11-04T09:38:00+05:30",
+   "headline": "Kansas: Hamilton 1932 ke baad pehle Democrat",
+   "detail": "Democrat Adam Hamilton ne Senator Roger Marshall ko harakar 1932 ke baad Kansas se Senate jeetne wale pehle Democrat ban gaye.",
+   "category": "World",
+   "exam_angle": "America ki chunav vyavastha: International exams ke liye — Senate aur midterm chunav.",
+   "source": "The Times",
+   "source_url": "https://www.thetimes.com/us/american-politics/article/midterm-elections-live-results-2026-democrats-senate-house-latest-news-0wc80r5br",
+   "genuineness": "verified",
+   "outlets": [
+    "Associated Press",
+    "The Times",
+    "Agence France-Presse"
+   ],
+   "image": null,
+   "image_credit": null
+  },
+  {
+   "id": "world-20261104-1122-05",
+   "published_ist": "2026-11-04T03:59:00+05:30",
+   "headline": "Spain: Mantri Puente ne istifa diya",
+   "detail": "Parivahan Mantri Oscar Puente ne 69 logon ki jaan lene wale train hadse ke chhah din baad istifa de diya; saal mein yah doosra bada rail hadsa tha.",
+   "category": "World",
+   "exam_angle": "Rail suraksha aur jawabdehi: International exams ke liye — Spain mein mantri ka istifa.",
+   "source": "CNN",
+   "source_url": "https://www.cnn.com/2026/11/03/americas/spain-transport-minister-resigns-intl-latam?cid=external-feeds_iluminar_meta",
+   "genuineness": "verified",
+   "outlets": [
+    "CNN",
+    "The Times",
+    "Agence France-Presse"
+   ],
+   "image": null,
+   "image_credit": null
+  },
+  {
+   "id": "world-20261104-1022-01",
+   "published_ist": "2026-11-04T10:07:00+05:30",
+   "headline": "America: Democrats ne Senate bhi jeeta",
+   "detail": "Democrats ne Senate par niyantran le liya; Texas, Ohio aur Kansas mein jeet ke saath chaar seat ki zaroorat poori hui.",
+   "category": "World",
+   "exam_angle": "America ki chunav vyavastha: International exams ke liye — Senate aur midterm chunav.",
+   "source": "Al Jazeera",
+   "source_url": "https://www.aljazeera.com/news/2026/11/4/democratic-party-flips-us-senate-in-2026-midterm-elections",
+   "genuineness": "verified",
+   "outlets": [
+    "USA Today",
+    "Al Jazeera",
+    "The Economic Times"
+   ],
+   "image": null,
+   "image_credit": null
+  },
+  {
+   "id": "world-20261104-1022-02",
+   "published_ist": "2026-11-04T07:27:00+05:30",
+   "headline": "North Korea: Samudra ki ore prakshepan",
+   "detail": "Dakshin Korea ki sena ne kaha North Korea ne poorvi tat ke paas samudra ki ore ek agyaat prakshepan kiya; yah Kim Yo Jong ke baatchit se inkar ke kuch ghante baad hua.",
+   "category": "World",
+   "exam_angle": null,
+   "source": "The Straits Times",
+   "source_url": "https://www.straitstimes.com/asia/east-asia/north-korea-fires-unidentified-projectile-toward-sea-off-its-east-coast-seoul-says1",
+   "genuineness": "corroborated",
+   "outlets": [
+    "Reuters",
+    "Yonhap"
+   ],
+   "image": null,
+   "image_credit": null
+  },
+  {
+   "id": "world-20261104-1022-03",
+   "published_ist": "2026-11-04T01:26:00+05:30",
+   "headline": "Ukraine: Sahayata kendra par hamla, 33 mare",
+   "detail": "Komyshuvakha mein sahayata baantne wale school par hamle mein kam se kam 33 log mare gaye aur lagbhag 50 ke malbe mein dabey hone ki ashanka hai.",
+   "category": "World",
+   "exam_angle": "Yuddh aur manviya sahayata: International exams ke liye — nagrik suraksha aur sahayata kendra.",
+   "source": "Reuters",
+   "source_url": "https://tribune.com.pk/story/2638549/33-killed-in-ukraine-village",
+   "genuineness": "verified",
+   "outlets": [
+    "Reuters",
+    "WION",
+    "Yonhap"
+   ],
+   "image": null,
+   "image_credit": null
+  },
+  {
+   "id": "world-20261104-0922-01",
+   "published_ist": "2026-11-04T08:48:00+05:30",
+   "headline": "America: Democrats House niyantran ki ore",
+   "detail": "US media ke anumaanon ke mutabik Democrats House mein bahumat ki ore hain, jisse Trump ke agenda ko chunauti mil sakti hai; antim ginati abhi baaki hai.",
+   "category": "World",
+   "exam_angle": "America ki chunav vyavastha: International exams ke liye — House aur midterm chunav.",
+   "source": "Reuters",
+   "source_url": "https://www.reuters.com/world/us/democrats-projected-win-majority-control-us-house-us-media-project-2026-11-04/",
+   "genuineness": "verified",
+   "outlets": [
+    "Reuters",
+    "The Hindu",
+    "Times Now"
+   ],
+   "image": null,
+   "image_credit": null
+  }
+ ],
+ "updated_ist": "2026-11-04T16:26:02+05:30"
 }
