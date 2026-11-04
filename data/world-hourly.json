@@ -1,6 +1,42 @@
 {
   "items": [
     {
+      "id": "world-20261104-1822-01",
+      "published_ist": "2026-11-04T06:42:00+05:30",
+      "headline": "Europe: Freezer hamle aur deshon tak pahunche",
+      "detail": "Germany, Romania aur UK mein bhi supermarket ke freezer par cyber hamle hue; EU ne ise khadya supply chain ko bigadne ki koshish bataya, zimmedar ka pata nahi chala hai.",
+      "category": "World",
+      "exam_angle": null,
+      "source": "Malay Mail",
+      "source_url": "https://www.malaymail.com/news/world/2026/11/04/germany-romania-and-uk-hit-as-cyberattacks-on-supermarket-refrigeration-systems-spread-across-europe/241876",
+      "genuineness": "verified",
+      "outlets": [
+        "Agence France-Presse",
+        "BBC",
+        "Associated Press"
+      ],
+      "image": null,
+      "image_credit": null
+    },
+    {
+      "id": "world-20261104-1822-02",
+      "published_ist": "2026-11-04T17:01:00+05:30",
+      "headline": "Alaska: Badi dauden abhi anirnit",
+      "detail": "Alaska ki Senate, governor aur House daudon mein abhi koi vijeta ghoshit nahi hua; 50% se zyada pehli pasand na mile to ranked-choice ginati 18 November ko hogi, pramanikaran 25 November ko.",
+      "category": "World",
+      "exam_angle": "America mein ranked-choice voting: chunav vyavastha.",
+      "source": "Nacionale",
+      "source_url": "https://www.nacionale.com/en/articles/alaska-election-results-2026-not-called-ranked-choice-november-18-senate-governor-house",
+      "genuineness": "verified",
+      "outlets": [
+        "Associated Press",
+        "Anchorage Daily News",
+        "Alaska Public Media"
+      ],
+      "image": null,
+      "image_credit": null
+    },
+    {
       "id": "world-20261104-1722-01",
       "published_ist": "2026-11-04T15:44:00+05:30",
       "headline": "Nevada: Ford pehle Black governor bane",
@@ -392,43 +428,7 @@
       ],
       "image": null,
       "image_credit": null
-    },
-    {
-      "id": "world-20261104-1122-04",
-      "published_ist": "2026-11-04T09:38:00+05:30",
-      "headline": "Kansas: Hamilton 1932 ke baad pehle Democrat",
-      "detail": "Democrat Adam Hamilton ne Senator Roger Marshall ko harakar 1932 ke baad Kansas se Senate jeetne wale pehle Democrat ban gaye.",
-      "category": "World",
-      "exam_angle": "America ki chunav vyavastha: International exams ke liye — Senate aur midterm chunav.",
-      "source": "The Times",
-      "source_url": "https://www.thetimes.com/us/american-politics/article/midterm-elections-live-results-2026-democrats-senate-house-latest-news-0wc80r5br",
-      "genuineness": "verified",
-      "outlets": [
-        "Associated Press",
-        "The Times",
-        "Agence France-Presse"
-      ],
-      "image": null,
-      "image_credit": null
-    },
-    {
-      "id": "world-20261104-1122-05",
-      "published_ist": "2026-11-04T03:59:00+05:30",
-      "headline": "Spain: Mantri Puente ne istifa diya",
-      "detail": "Parivahan Mantri Oscar Puente ne 69 logon ki jaan lene wale train hadse ke chhah din baad istifa de diya; saal mein yah doosra bada rail hadsa tha.",
-      "category": "World",
-      "exam_angle": "Rail suraksha aur jawabdehi: International exams ke liye — Spain mein mantri ka istifa.",
-      "source": "CNN",
-      "source_url": "https://www.cnn.com/2026/11/03/americas/spain-transport-minister-resigns-intl-latam?cid=external-feeds_iluminar_meta",
-      "genuineness": "verified",
-      "outlets": [
-        "CNN",
-        "The Times",
-        "Agence France-Presse"
-      ],
-      "image": null,
-      "image_credit": null
     }
   ],
-  "updated_ist": "2026-11-04T17:25:09+05:30"
+  "updated_ist": "2026-11-04T18:25:25+05:30"
 }
