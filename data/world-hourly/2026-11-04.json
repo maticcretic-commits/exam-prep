@@ -462,7 +462,60 @@
       ],
       "image": null,
       "image_credit": null
+    },
+    {
+      "id": "world-20261104-1422-01",
+      "published_ist": "2026-11-04T12:15:00+05:30",
+      "headline": "Michigan: El-Sayed pehle Muslim Senator bane",
+      "detail": "Democrat Abdul El-Sayed ne Republican Mike Rogers ko harakar Michigan ki Senate seat jeeti; ve Senate mein chune gaye pehle Muslim hain.",
+      "category": "World",
+      "exam_angle": "America ki chunav vyavastha: International exams ke liye — Senate aur midterm chunav.",
+      "source": "The Economic Times",
+      "source_url": "https://economictimes.indiatimes.com/news/international/world-news/us-midterm-elections-2026-democrat-abdul-el-sayed-claims-victory-in-brutal-senate-battle-in-michigan/articleshow/135527964.cms",
+      "genuineness": "verified",
+      "outlets": [
+        "Reuters",
+        "USA Today",
+        "The Economic Times"
+      ],
+      "image": null,
+      "image_credit": null
+    },
+    {
+      "id": "world-20261104-1422-02",
+      "published_ist": "2026-11-04T11:55:00+05:30",
+      "headline": "Jeffries pehle Black Speaker banne ki ore",
+      "detail": "Democrats ki House jeet se Hakeem Jeffries America ke pehle Black Speaker banne ki line mein hain; naya House January mein shapath lega.",
+      "category": "World",
+      "exam_angle": "America ki chunav vyavastha: International exams ke liye — House aur Speaker.",
+      "source": "Reuters",
+      "source_url": "https://www.reuters.com/legal/government/hakeem-jeffries-poised-become-speaker-us-house-representatives-2026-11-04/",
+      "genuineness": "corroborated",
+      "outlets": [
+        "Reuters",
+        "USA Today"
+      ],
+      "image": null,
+      "image_credit": null
+    },
+    {
+      "id": "world-20261104-1422-03",
+      "published_ist": "2026-11-04T10:54:10+05:30",
+      "headline": "Trump: Israel ko madad saal ant tak band",
+      "detail": "Trump ne Fox News ko kaha America saal ke ant tak Israel ko $4 billion salana sainya madad dena band karega; zaroorat par madad jaari rahegi aur hathiyar bikri chalti rahegi.",
+      "category": "World",
+      "exam_angle": "America-Israel sambandh: International exams ke liye — sainya sahayata samjhauta.",
+      "source": "Business Standard",
+      "source_url": "https://www.business-standard.com/world-news/trump-end-us-military-aid-israel-4-billion-2026-126110400515_1.html",
+      "genuineness": "verified",
+      "outlets": [
+        "Business Standard",
+        "Haaretz",
+        "Deutsche Welle"
+      ],
+      "image": null,
+      "image_credit": null
     }
   ],
-  "updated_ist": "2026-11-04T13:27:37+05:30"
+  "updated_ist": "2026-11-04T14:25:45+05:30"
 }
