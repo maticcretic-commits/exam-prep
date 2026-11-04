@@ -1,6 +1,78 @@
 {
   "items": [
     {
+      "id": "world-20261104-2222-01",
+      "published_ist": "2026-11-04T16:30:00+05:30",
+      "headline": "UN: Jalvayu madad zaroorat se bahut kam",
+      "detail": "UNEP ki 2026 Adaptation Gap Report me kaha gaya vikas-sheel deshon ko 2035 tak saalana lagbhag $305 billion ki zaroorat hai, jabki 2024 me sirf $28.2 billion mile; madad teen guna badhane par bhi sirf 20-29% zaroorat poori hogi.",
+      "category": "World",
+      "exam_angle": "Jalvayu vitt aur COP31: International exams ke liye — adaptation finance ka antar.",
+      "source": "Reuters",
+      "source_url": "https://www.reuters.com/sustainability/cop/rich-countries-fall-far-short-climate-adaptation-funding-un-says-2026-11-04/",
+      "genuineness": "verified",
+      "outlets": [
+        "Reuters",
+        "UN News",
+        "UNEP"
+      ],
+      "image": null,
+      "image_credit": null
+    },
+    {
+      "id": "world-20261104-2222-02",
+      "published_ist": "2026-11-04T15:18:36+05:30",
+      "headline": "Ramaphosa: America chunav se naya daur",
+      "detail": "Rashtrapati Cyril Ramaphosa ne kaha America ke midterm natijon se duniya ke sambandhon me naya daur shuru ho sakta hai; unhone AGOA se hataye jaane par dwipakshiya vyapaar samjhaute par dhyaan dene ki baat kahi.",
+      "category": "World",
+      "exam_angle": "South Africa-America sambandh: International exams ke liye — AGOA aur vyapaar.",
+      "source": "Reuters",
+      "source_url": "https://www.reuters.com/world/south-africa-says-us-midterm-results-usher-new-era-2026-11-04/",
+      "genuineness": "verified",
+      "outlets": [
+        "Reuters",
+        "Bloomberg",
+        "IOL"
+      ],
+      "image": null,
+      "image_credit": null
+    },
+    {
+      "id": "world-20261104-2222-03",
+      "published_ist": "2026-11-04T16:07:21+05:30",
+      "headline": "Israel: Chunav natije pramanit, vivad jaari",
+      "detail": "Israel ki Central Elections Committee ne 27 October ke chunav ke natije pramanit karke Rashtrapati Herzog ko saunp diye; aayog ko dhokhadhadi ka koi saboot nahi mila, jabki Netanyahu ne daave jaari rakhe.",
+      "category": "World",
+      "exam_angle": "Israel ki rajneeti: International exams ke liye — chunav aur sarkar gathan.",
+      "source": "Al Jazeera",
+      "source_url": "https://www.aljazeera.com/news/2026/11/4/israel-vote-results-confirmed-as-election-commission-rejects-fraud-claims",
+      "genuineness": "verified",
+      "outlets": [
+        "Al Jazeera",
+        "The Hindu",
+        "Times of Israel"
+      ],
+      "image": null,
+      "image_credit": null
+    },
+    {
+      "id": "world-20261104-2222-04",
+      "published_ist": "2026-11-03T22:34:00+05:30",
+      "headline": "Latvia: Ukraine hamle par UNSC baithak",
+      "detail": "Latvia ne Komyshuvakha me sahayata kendra par hamle ke baad UN Security Council ki emergency baithak bulayi; Latvia pehli baar November me Council ki adhyakshata kar raha hai.",
+      "category": "World",
+      "exam_angle": "UN Security Council aur Ukraine: International exams ke liye — antarrashtriya pratikriya.",
+      "source": "Ukrainska Pravda",
+      "source_url": "https://www.pravda.com.ua/eng/news/2026/11/03/8061103/",
+      "genuineness": "verified",
+      "outlets": [
+        "Ukrainska Pravda",
+        "Kyiv Post",
+        "Interfax-Ukraine"
+      ],
+      "image": null,
+      "image_credit": null
+    },
+    {
       "id": "world-20261104-2122-01",
       "published_ist": "2026-11-04T16:54:50+05:30",
       "headline": "China: America se sahyog jaari rahega",
@@ -356,78 +428,7 @@
       ],
       "image": null,
       "image_credit": null
-    },
-    {
-      "id": "world-20261104-1422-02",
-      "published_ist": "2026-11-04T11:55:00+05:30",
-      "headline": "Jeffries pehle Black Speaker banne ki ore",
-      "detail": "Democrats ki House jeet se Hakeem Jeffries America ke pehle Black Speaker banne ki line mein hain; naya House January mein shapath lega.",
-      "category": "World",
-      "exam_angle": "America ki chunav vyavastha: International exams ke liye — House aur Speaker.",
-      "source": "Reuters",
-      "source_url": "https://www.reuters.com/legal/government/hakeem-jeffries-poised-become-speaker-us-house-representatives-2026-11-04/",
-      "genuineness": "corroborated",
-      "outlets": [
-        "Reuters",
-        "USA Today"
-      ],
-      "image": null,
-      "image_credit": null
-    },
-    {
-      "id": "world-20261104-1422-03",
-      "published_ist": "2026-11-04T10:54:10+05:30",
-      "headline": "Trump: Israel ko madad saal ant tak band",
-      "detail": "Trump ne Fox News ko kaha America saal ke ant tak Israel ko $4 billion salana sainya madad dena band karega; zaroorat par madad jaari rahegi aur hathiyar bikri chalti rahegi.",
-      "category": "World",
-      "exam_angle": "America-Israel sambandh: International exams ke liye — sainya sahayata samjhauta.",
-      "source": "Business Standard",
-      "source_url": "https://www.business-standard.com/world-news/trump-end-us-military-aid-israel-4-billion-2026-126110400515_1.html",
-      "genuineness": "verified",
-      "outlets": [
-        "Business Standard",
-        "Haaretz",
-        "Deutsche Welle"
-      ],
-      "image": null,
-      "image_credit": null
-    },
-    {
-      "id": "world-20261104-1322-01",
-      "published_ist": "2026-11-04T10:30:00+05:30",
-      "headline": "South Africa: ANC ki pariksha, matdan jaari",
-      "detail": "29.2 million matdata sthaniya chunav mein matdan kar rahe hain; ANC ke samarthan 40% se neeche jaane ka anuman hai, natije Ravivar ko aayenge.",
-      "category": "World",
-      "exam_angle": "Dakshin Africa: International exams ke liye — sthaniya chunav aur ANC.",
-      "source": "Al Jazeera",
-      "source_url": "https://www.aljazeera.com/news/2026/11/4/south-africans-vote-in-local-elections-seen-as-test-for-embattled-anc",
-      "genuineness": "verified",
-      "outlets": [
-        "Reuters",
-        "Al Jazeera",
-        "BBC"
-      ],
-      "image": null,
-      "image_credit": null
-    },
-    {
-      "id": "world-20261104-1322-02",
-      "published_ist": "2026-11-04T08:42:00+05:30",
-      "headline": "Florida: Learjet ke tukde kilometre door mile",
-      "detail": "NTSB ne kaha Learjet ka left elevator 2 se 6 kilometre door mila, isse pata chalta hai viman girne se pehle toot raha tha; nau log mare gaye, karan abhi tay nahi.",
-      "category": "World",
-      "exam_angle": null,
-      "source": "WION",
-      "source_url": "https://www.wionews.com/world/florida-crash-learjet-fragments-found-3-6km-from-crash-site-indicate-they-fell-when-plane-was-midair-1793761344301/amp",
-      "genuineness": "verified",
-      "outlets": [
-        "Associated Press",
-        "BBC",
-        "WION"
-      ],
-      "image": null,
-      "image_credit": null
     }
   ],
-  "updated_ist": "2026-11-04T21:27:12+05:30"
+  "updated_ist": "2026-11-04T22:25:52+05:30"
 }
