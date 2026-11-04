@@ -1,6 +1,60 @@
 {
   "items": [
     {
+      "id": "world-20261104-1522-01",
+      "published_ist": "2026-11-04T10:33:00+05:30",
+      "headline": "Ukraine: Bijli grid par bada hamla",
+      "detail": "Mangalvaar raat saikadon drone aur missile se hamle ke baad Kyiv samet kai kshetron mein bijli gayi aur DTEK ke paanch mein se teen thermal plant band ho gaye.",
+      "category": "World",
+      "exam_angle": "Energy yuddh aur sardiyon ka sankat: nagrik buniyadi dhanche par hamle.",
+      "source": "DD India",
+      "source_url": "https://ddindia.co.in/2026/11/russia-bombards-ukraine-power-grid-before-abu-dhabi-talks-merz-urges-moscow-to-engage/",
+      "genuineness": "verified",
+      "outlets": [
+        "Reuters",
+        "CGTN",
+        "Outlook India"
+      ],
+      "image": null,
+      "image_credit": null
+    },
+    {
+      "id": "world-20261104-1522-02",
+      "published_ist": "2026-11-04T07:30:00+05:30",
+      "headline": "Pakistan: Swadeshi Fa'az missile ka parikshan",
+      "detail": "Pakistan ne pehli baar swadeshi Fa'az air-to-air missile ka safal flight test kiya; sena ke anusaar ismein advanced terminal guidance hai aur yah lambi doori tak hawai lakshya bhed sakti hai.",
+      "category": "World",
+      "exam_angle": null,
+      "source": "Dawn",
+      "source_url": "https://www.dawn.com/news/2041949/pakistan-tests-homegrown-faaz-missile",
+      "genuineness": "verified",
+      "outlets": [
+        "Dawn",
+        "The Express Tribune",
+        "Deccan Herald"
+      ],
+      "image": null,
+      "image_credit": null
+    },
+    {
+      "id": "world-20261104-1522-03",
+      "published_ist": "2026-11-04T11:37:00+05:30",
+      "headline": "Abu Dhabi vaarta mein Europe ko jagah nahi",
+      "detail": "Russia ne kaha 10-11 November ki Abu Dhabi vaarta Russia, Ukraine aur madhyasth America ke beech tripakshiya format mein hogi; Europe usmein shamil nahi hoga.",
+      "category": "World",
+      "exam_angle": null,
+      "source": "CGTN",
+      "source_url": "https://news.cgtn.com/news/2026-11-04/Russia-rules-out-European-participation-in-Ukraine-peace-talks-1RN5WciwvEQ/p.html",
+      "genuineness": "verified",
+      "outlets": [
+        "CGTN",
+        "Bastille Post",
+        "Kurdistan24"
+      ],
+      "image": null,
+      "image_credit": null
+    },
+    {
       "id": "world-20261104-1422-01",
       "published_ist": "2026-11-04T12:15:00+05:30",
       "headline": "Michigan: El-Sayed pehle Muslim Senator bane",
@@ -373,60 +427,7 @@
       ],
       "image": null,
       "image_credit": null
-    },
-    {
-      "id": "world-20261104-0822-02",
-      "published_ist": "2026-11-04T07:46:00+05:30",
-      "headline": "Florida: Donalds pehle Black governor bane",
-      "detail": "Republican Byron Donalds ne Democrat David Jolly ko harakar Florida ke pehle Black governor banne ka itihas rach diya; ve DeSantis ki jagah lenge.",
-      "category": "World",
-      "exam_angle": "America ki chunav vyavastha: International exams ke liye — governor chunav.",
-      "source": "USA Today",
-      "source_url": "https://www.usatoday.com/story/news/politics/elections/2026/11/03/midterm-elections-results-updates-2026--live/91892413007/",
-      "genuineness": "corroborated",
-      "outlets": [
-        "Associated Press",
-        "USA Today"
-      ],
-      "image": null,
-      "image_credit": null
-    },
-    {
-      "id": "world-20261104-0822-03",
-      "published_ist": "2026-11-04T07:44:00+05:30",
-      "headline": "North Carolina: Cooper ne Senate seat jeeti",
-      "detail": "Poorv governor Roy Cooper ne Trump-samarthit Michael Whatley ko harakar Republican ke paas thi seat Democrats ko dilayi; yah Democrats ki pehli seat badli hai.",
-      "category": "World",
-      "exam_angle": "America ki chunav vyavastha: International exams ke liye — Senate aur midterm chunav.",
-      "source": "Reuters",
-      "source_url": "https://www.reuters.com/legal/government/democrat-roy-cooper-flips-republican-held-us-senate-seat-north-carolina-2026-11-04/",
-      "genuineness": "verified",
-      "outlets": [
-        "Reuters",
-        "Associated Press",
-        "USA Today"
-      ],
-      "image": null,
-      "image_credit": null
-    },
-    {
-      "id": "world-20261104-0822-04",
-      "published_ist": "2026-11-03T23:03:37+05:30",
-      "headline": "Greenland: America raksha samjhauta manzoor",
-      "detail": "Greenland ki sansad ne 16-0 se, saat ke vote na dene ke saath, America-Denmark raksha samjhaute ko manzoori di, jisse do naye American adde ban sakenge; Denmark 19 November ko vote karega.",
-      "category": "World",
-      "exam_angle": "Arctic aur raksha samjhaute: International exams ke liye — Greenland, Denmark aur America.",
-      "source": "BusinessDay",
-      "source_url": "https://www.businessday.co.za/world/americas/2026-11-03-greenland-ratifies-security-deal-agreed-with-trump/",
-      "genuineness": "verified",
-      "outlets": [
-        "Reuters",
-        "Agence France-Presse",
-        "WION"
-      ],
-      "image": null,
-      "image_credit": null
     }
   ],
-  "updated_ist": "2026-11-04T14:25:45+05:30"
+  "updated_ist": "2026-11-04T15:26:37+05:30"
 }
