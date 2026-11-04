@@ -1,6 +1,59 @@
 {
   "items": [
     {
+      "id": "world-20261104-1022-01",
+      "published_ist": "2026-11-04T10:07:00+05:30",
+      "headline": "America: Democrats ne Senate bhi jeeta",
+      "detail": "Democrats ne Senate par niyantran le liya; Texas, Ohio aur Kansas mein jeet ke saath chaar seat ki zaroorat poori hui.",
+      "category": "World",
+      "exam_angle": "America ki chunav vyavastha: International exams ke liye — Senate aur midterm chunav.",
+      "source": "Al Jazeera",
+      "source_url": "https://www.aljazeera.com/news/2026/11/4/democratic-party-flips-us-senate-in-2026-midterm-elections",
+      "genuineness": "verified",
+      "outlets": [
+        "USA Today",
+        "Al Jazeera",
+        "The Economic Times"
+      ],
+      "image": null,
+      "image_credit": null
+    },
+    {
+      "id": "world-20261104-1022-02",
+      "published_ist": "2026-11-04T07:27:00+05:30",
+      "headline": "North Korea: Samudra ki ore prakshepan",
+      "detail": "Dakshin Korea ki sena ne kaha North Korea ne poorvi tat ke paas samudra ki ore ek agyaat prakshepan kiya; yah Kim Yo Jong ke baatchit se inkar ke kuch ghante baad hua.",
+      "category": "World",
+      "exam_angle": null,
+      "source": "The Straits Times",
+      "source_url": "https://www.straitstimes.com/asia/east-asia/north-korea-fires-unidentified-projectile-toward-sea-off-its-east-coast-seoul-says1",
+      "genuineness": "corroborated",
+      "outlets": [
+        "Reuters",
+        "Yonhap"
+      ],
+      "image": null,
+      "image_credit": null
+    },
+    {
+      "id": "world-20261104-1022-03",
+      "published_ist": "2026-11-04T01:26:00+05:30",
+      "headline": "Ukraine: Sahayata kendra par hamla, 33 mare",
+      "detail": "Komyshuvakha mein sahayata baantne wale school par hamle mein kam se kam 33 log mare gaye aur lagbhag 50 ke malbe mein dabey hone ki ashanka hai.",
+      "category": "World",
+      "exam_angle": "Yuddh aur manviya sahayata: International exams ke liye — nagrik suraksha aur sahayata kendra.",
+      "source": "Reuters",
+      "source_url": "https://tribune.com.pk/story/2638549/33-killed-in-ukraine-village",
+      "genuineness": "verified",
+      "outlets": [
+        "Reuters",
+        "WION",
+        "Yonhap"
+      ],
+      "image": null,
+      "image_credit": null
+    },
+    {
       "id": "world-20261104-0922-01",
       "published_ist": "2026-11-04T08:48:00+05:30",
       "headline": "America: Democrats House niyantran ki ore",
@@ -372,61 +425,7 @@
       "published_ist": "2026-11-03T15:46:00+05:30",
       "source": "Ukrinform",
       "source_url": "https://www.ukrinform.net/rubric-economy/4180856-russian-attack-hits-energy-infrastructure-in-10-regions-energy-ministry.html"
-    },
-    {
-      "category": "World",
-      "detail": "UPDF ne kaha dwipakshiya samjhaute wale sainikon ki wapsi turant shuru ho gayi aur pehla dal ghar laut aaya; 2027 ke ant tak AUSSOM wale sainik bhi wapas honge.",
-      "exam_angle": "Shanti mission aur sainik wapsi: International exams ke liye — AU mission, Al-Shabaab aur Somalia ki suraksha zimmedari.",
-      "genuineness": "corroborated",
-      "headline": "Uganda ne Somalia se sainik wapas bulaye",
-      "id": "world-20261103-1822-02",
-      "image": null,
-      "image_credit": null,
-      "outlets": [
-        "Reuters",
-        "Monitor",
-        "Punch"
-      ],
-      "published_ist": "2026-11-02T17:23:00+05:30",
-      "source": "Reuters",
-      "source_url": "https://www.reuters.com/world/africa/uganda-says-it-has-started-withdrawing-troops-somalia-2026-11-02/"
-    },
-    {
-      "category": "World",
-      "detail": "Tsafe mein police kafile ki bus par hamle mein paanch policekarmi aur teen Community Protection Guard ke sadasya mare gaye; police ne paanch rifles chheen liye jaane ki baat kahi.",
-      "exam_angle": "Aantarik suraksha: International exams ke liye — sashastr giroh, police kafila aur sthaniya suraksha dal.",
-      "genuineness": "corroborated",
-      "headline": "Nigeria: Zamfara mein ghaat, aath surakshak mare",
-      "id": "world-20261103-1822-03",
-      "image": null,
-      "image_credit": null,
-      "outlets": [
-        "Reuters",
-        "Agence France-Presse"
-      ],
-      "published_ist": "2026-11-03T16:15:00+05:30",
-      "source": "Reuters",
-      "source_url": "https://www.reuters.com/world/africa/attackers-ambush-police-nigerias-zamfara-killing-least-eight-officials-say-2026-11-03/"
-    },
-    {
-      "category": "World",
-      "detail": "Berlin pahunchkar Zelenskyy ne kaha hawai raksha majboot karna aur oorja kshetra ko sahayata aaj ki baatchit ki prathamikta hogi; ve Merz, Steinmeier aur Bundestag adhyaksh se milenge aur Berlin Security Conference mein hissa lenge.",
-      "exam_angle": "Kootneeti aur suraksha sahyog: International exams ke liye — Germany-Ukraine samarthan, hawai raksha aur oorja suraksha.",
-      "genuineness": "verified",
-      "headline": "Zelenskyy Berlin pahunche, hawai raksha baat",
-      "id": "world-20261103-1722-01",
-      "image": null,
-      "image_credit": null,
-      "outlets": [
-        "Kyiv Independent",
-        "Kyiv Post",
-        "Reuters",
-        "Ukrainska Pravda"
-      ],
-      "published_ist": "2026-11-03T14:13:00+05:30",
-      "source": "Kyiv Independent",
-      "source_url": "https://kyivindependent.com/zelensky-to-visit-berlin-on-nov-3-says-german-chancellor-2/"
     }
   ],
-  "updated_ist": "2026-11-04T09:24:57+05:30"
+  "updated_ist": "2026-11-04T10:26:51+05:30"
 }
