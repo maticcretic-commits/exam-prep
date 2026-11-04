@@ -1,6 +1,77 @@
 {
   "items": [
     {
+      "id": "world-20261104-0822-01",
+      "published_ist": "2026-11-04T07:46:00+05:30",
+      "headline": "Georgia: Bottoms pehli Black mahila governor",
+      "detail": "Keisha Lance Bottoms ne Rick Jackson ko harakar Georgia ki pehli mahila governor banne ka itihas rach diya; ve America mein chuni gayi pehli Black mahila governor hain.",
+      "category": "World",
+      "exam_angle": "America ki chunav vyavastha: International exams ke liye — governor chunav.",
+      "source": "Reuters",
+      "source_url": "https://www.reuters.com/world/us/keisha-lance-bottoms-wins-georgia-race-becomes-first-black-woman-elected-2026-11-04/",
+      "genuineness": "verified",
+      "outlets": [
+        "Reuters",
+        "Associated Press",
+        "The Wall Street Journal"
+      ],
+      "image": null,
+      "image_credit": null
+    },
+    {
+      "id": "world-20261104-0822-02",
+      "published_ist": "2026-11-04T07:46:00+05:30",
+      "headline": "Florida: Donalds pehle Black governor bane",
+      "detail": "Republican Byron Donalds ne Democrat David Jolly ko harakar Florida ke pehle Black governor banne ka itihas rach diya; ve DeSantis ki jagah lenge.",
+      "category": "World",
+      "exam_angle": "America ki chunav vyavastha: International exams ke liye — governor chunav.",
+      "source": "USA Today",
+      "source_url": "https://www.usatoday.com/story/news/politics/elections/2026/11/03/midterm-elections-results-updates-2026--live/91892413007/",
+      "genuineness": "corroborated",
+      "outlets": [
+        "Associated Press",
+        "USA Today"
+      ],
+      "image": null,
+      "image_credit": null
+    },
+    {
+      "id": "world-20261104-0822-03",
+      "published_ist": "2026-11-04T07:44:00+05:30",
+      "headline": "North Carolina: Cooper ne Senate seat jeeti",
+      "detail": "Poorv governor Roy Cooper ne Trump-samarthit Michael Whatley ko harakar Republican ke paas thi seat Democrats ko dilayi; yah Democrats ki pehli seat badli hai.",
+      "category": "World",
+      "exam_angle": "America ki chunav vyavastha: International exams ke liye — Senate aur midterm chunav.",
+      "source": "Reuters",
+      "source_url": "https://www.reuters.com/legal/government/democrat-roy-cooper-flips-republican-held-us-senate-seat-north-carolina-2026-11-04/",
+      "genuineness": "verified",
+      "outlets": [
+        "Reuters",
+        "Associated Press",
+        "USA Today"
+      ],
+      "image": null,
+      "image_credit": null
+    },
+    {
+      "id": "world-20261104-0822-04",
+      "published_ist": "2026-11-03T23:03:37+05:30",
+      "headline": "Greenland: America raksha samjhauta manzoor",
+      "detail": "Greenland ki sansad ne 16-0 se, saat ke vote na dene ke saath, America-Denmark raksha samjhaute ko manzoori di, jisse do naye American adde ban sakenge; Denmark 19 November ko vote karega.",
+      "category": "World",
+      "exam_angle": "Arctic aur raksha samjhaute: International exams ke liye — Greenland, Denmark aur America.",
+      "source": "BusinessDay",
+      "source_url": "https://www.businessday.co.za/world/americas/2026-11-03-greenland-ratifies-security-deal-agreed-with-trump/",
+      "genuineness": "verified",
+      "outlets": [
+        "Reuters",
+        "Agence France-Presse",
+        "WION"
+      ],
+      "image": null,
+      "image_credit": null
+    },
+    {
       "id": "world-20261104-0722-01",
       "published_ist": "2026-11-04T06:53:55+05:30",
       "headline": "New Hampshire: Pappas Senate jeete",
@@ -357,76 +428,7 @@
       "published_ist": "2026-11-03T15:38:00+05:30",
       "source": "Channel NewsAsia",
       "source_url": "https://www.channelnewsasia.com/world/russia-ukraine-strikes-29-killed-ceasefire-6514166"
-    },
-    {
-      "category": "World",
-      "detail": "Gathbandhan ke pravakta ne kaha Makkah kshetra mein ek drone ko roka aur nasht kar diya gaya; hamle ke srot par kuchh nahi kaha gaya.",
-      "exam_angle": "Yemen sangharsh aur dharmik sthal suraksha: International exams ke liye — Houthi, Saudi gathbandhan aur nagrik suraksha.",
-      "genuineness": "corroborated",
-      "headline": "Makkah kshetra mein drone giraya gaya",
-      "id": "world-20261103-1622-02",
-      "image": null,
-      "image_credit": null,
-      "outlets": [
-        "Arab News",
-        "Agence France-Presse"
-      ],
-      "published_ist": "2026-11-03T15:08:00+05:30",
-      "source": "Arab News",
-      "source_url": "https://www.arabnews.com/saudi-arabia/coalition-intercepts-and-destroys-drone-over-makkah-region-3009561"
-    },
-    {
-      "category": "World",
-      "detail": "Subah 1,600 meter unchi raakh nikli aur Albay mein 1,083 parivaron ke 3,903 log surakshit sthanon par pahuncha diye gaye; Alert Level 3 jaari hai.",
-      "exam_angle": "Jwalamukhi aur aapda prabandhan: exams ke liye — PHIVOLCS alert star, nikasi aur raakh ka khatra.",
-      "genuineness": "corroborated",
-      "headline": "Mayon: Raakh, 4,000 log surakshit sthan par",
-      "id": "world-20261103-1622-03",
-      "image": null,
-      "image_credit": null,
-      "outlets": [
-        "Daily Tribune",
-        "Turkiye Today"
-      ],
-      "published_ist": "2026-11-03T13:37:00+05:30",
-      "source": "Daily Tribune",
-      "source_url": "https://tribune.net.ph/amp/story/2026/11/03/evacuees-rose-to-almost-4000-after-mayon-volcano-spews-another-ash-plume"
-    },
-    {
-      "category": "World",
-      "detail": "IMO pramukh ne kaha surangon ke saaf hone ki pushti nahi hui hai, isliye Hormuz se guzarne ki sifarish nahi ki ja sakti; October mein lagbhag 30 jahaz hamle darj hue.",
-      "exam_angle": "Samudri suraksha aur tel marg: International exams ke liye — Hormuz jalmarg, IMO aur oorja vyapar.",
-      "genuineness": "corroborated",
-      "headline": "Hormuz: IMO ne jahazon ko chetavni di",
-      "id": "world-20261103-1622-04",
-      "image": null,
-      "image_credit": null,
-      "outlets": [
-        "IANS",
-        "Xinhua"
-      ],
-      "published_ist": "2026-11-03T09:47:00+05:30",
-      "source": "Bhaskar Live",
-      "source_url": "https://bhaskarlive.in/international/imo-says-hormuz-shipping-lanes-remain-unsafe-as-mines-may-exist-2160929"
-    },
-    {
-      "category": "World",
-      "detail": "Eisenkot ke netritva wale vipakshi dalon ke netaon ne pehli baar sanyukt baithak ki; Netanyahu ne apne netritva mein vyaapak sarkar ka aahwan kiya.",
-      "exam_angle": "Chunav aur gathbandhan sarkar: International exams ke liye — Knesset, gathbandhan aur rashtrapati ki bhoomika.",
-      "genuineness": "verified",
-      "headline": "Israel: Vipaksh Eisenkot ke saath baitha",
-      "id": "world-20261103-1622-05",
-      "image": null,
-      "image_credit": null,
-      "outlets": [
-        "Agence France-Presse",
-        "The Jerusalem Post",
-        "The Indian Express"
-      ],
-      "published_ist": "2026-11-03T00:00:00+05:30",
-      "source": "The Japan Times",
-      "source_url": "https://www.japantimes.co.jp/news/2026/11/03/world/politics/israel-opposition-eisenkot-netanyahu/"
     }
   ],
-  "updated_ist": "2026-11-04T07:25:36+05:30"
+  "updated_ist": "2026-11-04T08:28:12+05:30"
 }
