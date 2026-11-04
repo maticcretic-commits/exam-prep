@@ -1,6 +1,77 @@
 {
   "items": [
     {
+      "id": "world-20261104-2022-01",
+      "published_ist": "2026-11-04T16:00:00+05:30",
+      "headline": "Philippines: Bahut tez El Niño ki chetavni",
+      "detail": "PAGASA ne kaha bahut tez El Niño ab maujood hai, 2027 ki pehli timahi tak rahega aur 87 ilakon mein sookha aa sakta hai.",
+      "category": "World",
+      "exam_angle": "El Niño aur jalvayu: International exams ke liye — sookha aur krishi par asar.",
+      "source": "GMA News",
+      "source_url": "https://www.gmanetwork.com/news/topstories/nation/1008287/very-strong-el-ni-o-now-present-in-tropical-pacific-says-pagasa/story/",
+      "genuineness": "corroborated",
+      "outlets": [
+        "GMA News",
+        "BusinessWorld"
+      ],
+      "image": null,
+      "image_credit": null
+    },
+    {
+      "id": "world-20261104-2022-02",
+      "published_ist": "2026-11-04T11:49:00+05:30",
+      "headline": "Philippines-China: Baatchit jaari rakhne ka vaada",
+      "detail": "Videsh mantriyon Lazaro aur Wang Yi ne phone par baat ke baad samvaad jaari rakhne ka vaada kiya, ASEAN shikhar sammelan se pehle tanaav kam karne ki koshish hai.",
+      "category": "World",
+      "exam_angle": "ASEAN aur South China Sea: International exams ke liye — vivaad aur kootneeti.",
+      "source": "Reuters",
+      "source_url": "https://www.reuters.com/world/china/philippines-china-pledge-maintain-dialogue-despite-tensions-2026-11-04/",
+      "genuineness": "verified",
+      "outlets": [
+        "Reuters",
+        "Rappler",
+        "Daily Tribune"
+      ],
+      "image": null,
+      "image_credit": null
+    },
+    {
+      "id": "world-20261104-2022-03",
+      "published_ist": "2026-11-04T06:41:00+05:30",
+      "headline": "Singapore Airlines: 46,000 booking record leak",
+      "detail": "Amadeus ke breach mein lagbhag 46,000 booking record khule; 620 mein email-phone bhi ho sakte hain, bank-card jaankari surakshit rahi.",
+      "category": "World",
+      "exam_angle": "Data suraksha aur third-party risk: International exams ke liye — cyber breach.",
+      "source": "Reuters",
+      "source_url": "https://www.reuters.com/world/asia-pacific/singapore-airlines-says-46000-booking-records-affected-by-amadeus-breach-2026-11-04/",
+      "genuineness": "verified",
+      "outlets": [
+        "Reuters",
+        "The Straits Times",
+        "Lianhe Zaobao"
+      ],
+      "image": null,
+      "image_credit": null
+    },
+    {
+      "id": "world-20261104-2022-04",
+      "published_ist": "2026-11-04T06:33:00+05:30",
+      "headline": "Spain ke parivahan mantri ne istifa diya",
+      "detail": "Oscar Puente ne 69 logon ki jaan lene wale Urda rail haadse ke baad istifa diya aur 29 November ke chunav se bhi hat gaye.",
+      "category": "World",
+      "exam_angle": "Spain: chunav se pehle istifa — rajneetik jimmedari aur rail suraksha.",
+      "source": "The Hindu",
+      "source_url": "https://www.thehindu.com/news/international/spains-transport-minister-offers-resignation-after-deadly-train-crash/article71663710.ece",
+      "genuineness": "verified",
+      "outlets": [
+        "Reuters",
+        "The Times",
+        "The Hindu"
+      ],
+      "image": null,
+      "image_credit": null
+    },
+    {
       "id": "world-20261104-1922-01",
       "published_ist": "2026-11-04T18:56:00+05:30",
       "headline": "Khamenei: America ki dushmani nahi badlegi",
@@ -357,78 +428,7 @@
       ],
       "image": null,
       "image_credit": null
-    },
-    {
-      "id": "world-20261104-1222-02",
-      "published_ist": "2026-11-04T09:40:00+05:30",
-      "headline": "Ohio: Brown Senate mein wapas aaye",
-      "detail": "Democrat Sherrod Brown ne Republican Jon Husted ko harakar Ohio ki Senate seat palti; yah vishesh chunav JD Vance ke uprashtrapati banne se khaali hui seat ke liye tha.",
-      "category": "World",
-      "exam_angle": "America ki chunav vyavastha: International exams ke liye — Senate aur midterm chunav; vishesh chunav.",
-      "source": "The Wall Street Journal",
-      "source_url": "https://www.wsj.com/livecoverage/midterm-election-results-2026-latest-updates/card/ohio-democrat-sherrod-brown-wins-battle-to-return-to-senate-0HgWxXD74TQ7dZ8sdtF9",
-      "genuineness": "corroborated",
-      "outlets": [
-        "Associated Press",
-        "The Wall Street Journal"
-      ],
-      "image": null,
-      "image_credit": null
-    },
-    {
-      "id": "world-20261104-1222-03",
-      "published_ist": "2026-11-04T09:33:00+05:30",
-      "headline": "Texas: Talarico ne Paxton ko haraya",
-      "detail": "Democrat James Talarico ne Republican Ken Paxton ko harakar Texas ki Senate seat palti; ve 1988 ke baad Texas se Senate jeetne wale pehle Democrat hain.",
-      "category": "World",
-      "exam_angle": "America ki chunav vyavastha: International exams ke liye — Senate aur midterm chunav.",
-      "source": "New York Post",
-      "source_url": "https://nypost.com/2026/11/03/us-news/james-talarico-turns-texas-blue-with-defeat-of-republican-ken-paxton/",
-      "genuineness": "verified",
-      "outlets": [
-        "Associated Press",
-        "New York Post",
-        "The Economic Times"
-      ],
-      "image": null,
-      "image_credit": null
-    },
-    {
-      "id": "world-20261104-1122-01",
-      "published_ist": "2026-11-04T10:57:00+05:30",
-      "headline": "Maine: Jackson ne Collins ko haraya",
-      "detail": "Democrat Troy Jackson ne paanch baar chuni gayi Senator Susan Collins ko harakar Maine ki seat palti; Collins 1996 se Senator thi aur unhone haar maan li.",
-      "category": "World",
-      "exam_angle": "America ki chunav vyavastha: International exams ke liye — Senate aur midterm chunav.",
-      "source": "Reuters",
-      "source_url": "https://www.reuters.com/world/us/democrat-troy-jackson-ousts-republican-senator-susan-collins-maine-2026-11-04/",
-      "genuineness": "verified",
-      "outlets": [
-        "Reuters",
-        "USA Today",
-        "Associated Press"
-      ],
-      "image": null,
-      "image_credit": null
-    },
-    {
-      "id": "world-20261104-1122-02",
-      "published_ist": "2026-11-04T10:01:00+05:30",
-      "headline": "Texas: Hinojosa ne Abbott ko haraya",
-      "detail": "Democrat Gina Hinojosa ne Governor Greg Abbott ko harakar Texas ki pehli Latina governor banne ka itihas racha; ve 1990 ke baad pehli Democrat governor hain.",
-      "category": "World",
-      "exam_angle": "America ki chunav vyavastha: International exams ke liye — governor chunav.",
-      "source": "Associated Press",
-      "source_url": "https://www.lanacion.com.ar/usa/democrat-gina-hinojosa-elected-texas-first-latina-governor-ousts-republican-incumbent-greg-abbott-nid04112026/",
-      "genuineness": "verified",
-      "outlets": [
-        "Associated Press",
-        "USA Today",
-        "Reuters"
-      ],
-      "image": null,
-      "image_credit": null
     }
   ],
-  "updated_ist": "2026-11-04T19:27:14+05:30"
+  "updated_ist": "2026-11-04T20:25:48+05:30"
 }
