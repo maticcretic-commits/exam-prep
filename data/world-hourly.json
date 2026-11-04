@@ -1,6 +1,41 @@
 {
   "items": [
     {
+      "id": "world-20261104-2122-01",
+      "published_ist": "2026-11-04T16:54:50+05:30",
+      "headline": "China: America se sahyog jaari rahega",
+      "detail": "Videsh mantralaya ki pravakta Mao Ning ne kaha chunav America ka andaruni mamla hai aur China netaon ke samjhaute par sahyog jaari rakhega.",
+      "category": "World",
+      "exam_angle": "China-America sambandh: International exams ke liye — chunav ke baad kootneeti.",
+      "source": "Al Jazeera",
+      "source_url": "https://www.aljazeera.com/news/2026/11/4/seismic-shift-world-reacts-to-us-midterm-election-results",
+      "genuineness": "verified",
+      "outlets": [
+        "Al Jazeera",
+        "WION",
+        "PTI"
+      ],
+      "image": null,
+      "image_credit": null
+    },
+    {
+      "id": "world-20261104-2122-02",
+      "published_ist": "2026-11-04T14:34:49+05:30",
+      "headline": "Germany: Ukraine ko €200 million sardiyon ki madad",
+      "detail": "Chancellor Merz ne Berlin mein Zelenskyy se milkar €200 million ki sardiyon ki madad ka elan kiya; manaviya sahayata aur urja supply ke liye hai, Bundestag ki manzoori baaki hai.",
+      "category": "World",
+      "exam_angle": "Ukraine yuddh aur sardiyon ka sankat: Germany ki madad aur urja suraksha.",
+      "source": "Deutschland.de",
+      "source_url": "https://www.deutschland.de/en/news/merz-it-is-time-for-this-war-to-end",
+      "genuineness": "corroborated",
+      "outlets": [
+        "dpa",
+        "Politico"
+      ],
+      "image": null,
+      "image_credit": null
+    },
+    {
       "id": "world-20261104-2022-01",
       "published_ist": "2026-11-04T16:00:00+05:30",
       "headline": "Philippines: Bahut tez El Niño ki chetavni",
@@ -392,43 +427,7 @@
       ],
       "image": null,
       "image_credit": null
-    },
-    {
-      "id": "world-20261104-1322-03",
-      "published_ist": "2026-11-04T05:40:00+05:30",
-      "headline": "Brussels: Ukraine suraksha par baatchit shuru",
-      "detail": "Ukraine, America, Europe aur NATO ke pratinidhi 4-5 November ko suraksha guarantee aur punarnirman par baatchit karenge; Abu Dhabi vaarta se pehle ki taiyari hai.",
-      "category": "World",
-      "exam_angle": null,
-      "source": "The New Voice of Ukraine",
-      "source_url": "https://english.nv.ua/nation/brussels-talks-on-security-guarantees-to-last-two-days-umerov-says-50656056.html",
-      "genuineness": "verified",
-      "outlets": [
-        "Reuters",
-        "The New Voice of Ukraine",
-        "UNN"
-      ],
-      "image": null,
-      "image_credit": null
-    },
-    {
-      "id": "world-20261104-1222-01",
-      "published_ist": "2026-11-04T10:00:00+05:30",
-      "headline": "Iowa: Turek ne Hinson ko haraya",
-      "detail": "Democrat Josh Turek ne Republican Ashley Hinson ko harakar Iowa ki Senate seat palti; ve 2008 ke baad Iowa se Senate jeetne wale pehle Democrat hain.",
-      "category": "World",
-      "exam_angle": "America ki chunav vyavastha: International exams ke liye — Senate aur midterm chunav.",
-      "source": "Des Moines Register",
-      "source_url": "https://www.desmoinesregister.com/story/news/politics/elections/2026/11/03/ashley-hinson-josh-turek-iowa-senate-race-midterm-election-results/92443760007/",
-      "genuineness": "verified",
-      "outlets": [
-        "Associated Press",
-        "Des Moines Register",
-        "Nikkei Asia"
-      ],
-      "image": null,
-      "image_credit": null
     }
   ],
-  "updated_ist": "2026-11-04T20:25:48+05:30"
+  "updated_ist": "2026-11-04T21:27:12+05:30"
 }
