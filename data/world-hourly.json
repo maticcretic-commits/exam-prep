@@ -1,6 +1,59 @@
 {
   "items": [
     {
+      "id": "world-20261104-1222-01",
+      "published_ist": "2026-11-04T10:00:00+05:30",
+      "headline": "Iowa: Turek ne Hinson ko haraya",
+      "detail": "Democrat Josh Turek ne Republican Ashley Hinson ko harakar Iowa ki Senate seat palti; ve 2008 ke baad Iowa se Senate jeetne wale pehle Democrat hain.",
+      "category": "World",
+      "exam_angle": "America ki chunav vyavastha: International exams ke liye — Senate aur midterm chunav.",
+      "source": "Des Moines Register",
+      "source_url": "https://www.desmoinesregister.com/story/news/politics/elections/2026/11/03/ashley-hinson-josh-turek-iowa-senate-race-midterm-election-results/92443760007/",
+      "genuineness": "verified",
+      "outlets": [
+        "Associated Press",
+        "Des Moines Register",
+        "Nikkei Asia"
+      ],
+      "image": null,
+      "image_credit": null
+    },
+    {
+      "id": "world-20261104-1222-02",
+      "published_ist": "2026-11-04T09:40:00+05:30",
+      "headline": "Ohio: Brown Senate mein wapas aaye",
+      "detail": "Democrat Sherrod Brown ne Republican Jon Husted ko harakar Ohio ki Senate seat palti; yah vishesh chunav JD Vance ke uprashtrapati banne se khaali hui seat ke liye tha.",
+      "category": "World",
+      "exam_angle": "America ki chunav vyavastha: International exams ke liye — Senate aur midterm chunav; vishesh chunav.",
+      "source": "The Wall Street Journal",
+      "source_url": "https://www.wsj.com/livecoverage/midterm-election-results-2026-latest-updates/card/ohio-democrat-sherrod-brown-wins-battle-to-return-to-senate-0HgWxXD74TQ7dZ8sdtF9",
+      "genuineness": "corroborated",
+      "outlets": [
+        "Associated Press",
+        "The Wall Street Journal"
+      ],
+      "image": null,
+      "image_credit": null
+    },
+    {
+      "id": "world-20261104-1222-03",
+      "published_ist": "2026-11-04T09:33:00+05:30",
+      "headline": "Texas: Talarico ne Paxton ko haraya",
+      "detail": "Democrat James Talarico ne Republican Ken Paxton ko harakar Texas ki Senate seat palti; ve 1988 ke baad Texas se Senate jeetne wale pehle Democrat hain.",
+      "category": "World",
+      "exam_angle": "America ki chunav vyavastha: International exams ke liye — Senate aur midterm chunav.",
+      "source": "New York Post",
+      "source_url": "https://nypost.com/2026/11/03/us-news/james-talarico-turns-texas-blue-with-defeat-of-republican-ken-paxton/",
+      "genuineness": "verified",
+      "outlets": [
+        "Associated Press",
+        "New York Post",
+        "The Economic Times"
+      ],
+      "image": null,
+      "image_credit": null
+    },
+    {
       "id": "world-20261104-1122-01",
       "published_ist": "2026-11-04T10:57:00+05:30",
       "headline": "Maine: Jackson ne Collins ko haraya",
@@ -373,60 +426,7 @@
       ],
       "image": null,
       "image_credit": null
-    },
-    {
-      "id": "world-20261103-2222-02",
-      "published_ist": "2026-11-03T14:12:00+05:30",
-      "headline": "Serbia: Alta Bank malik hirasat mein liya",
-      "detail": "Somvaar ko Alta Bank ke malik Davor Macura ko 48 ghante ke liye hirasat mein liya gaya; aarop hai unhone bank ki tijori se lagbhag 45 arab dinar nikale, jabki shanivaar ko bank ka licence radd ho gaya tha.",
-      "category": "World",
-      "exam_angle": null,
-      "source": "Associated Press",
-      "source_url": "https://www.newindianexpress.com/world/2026/Nov/03/detentions-resignations-probes-shake-serbia-after-students-toppled-strongman-vucic-in-election",
-      "genuineness": "corroborated",
-      "outlets": [
-        "Associated Press",
-        "Balkan Insight"
-      ],
-      "image": null,
-      "image_credit": null
-    },
-    {
-      "id": "world-20261103-2222-03",
-      "published_ist": "2026-11-03T02:15:52+05:30",
-      "headline": "MINURSO band: 160 nirikshak wapas jayenge",
-      "detail": "UN ne kaha Paschimi Sahara mein 35 saal purana MINURSO mission band hone ke baad 160 sainya nirikshak wapas bheje jayenge aur 13 kendra band honge; Suraksha Parishad mandate par sahmat nahi ho payi thi.",
-      "category": "World",
-      "exam_angle": "UN shanti mission; Suraksha Parishad mein veto aur mandate.",
-      "source": "UN News",
-      "source_url": "https://news.un.org/en/story/2026/11/1168723",
-      "genuineness": "verified",
-      "outlets": [
-        "UN News",
-        "Al Jazeera",
-        "Hespress"
-      ],
-      "image": null,
-      "image_credit": null
-    },
-    {
-      "category": "World",
-      "detail": "High Court ne kaha teen adalaton ko galat jankari dene par bhi contempt karyavahi jan-hit mein nahi hai; MI5 pramukh ne gambhir kamiyon ke liye phir mafi mangi.",
-      "exam_angle": "Khufia agency aur nyayik jawabdehi: International exams ke liye — MI5, contempt karyavahi aur adalat ki nigraani.",
-      "genuineness": "verified",
-      "headline": "MI5: Jhoothi gawahi par karyavahi nahi",
-      "id": "world-20261103-2122-01",
-      "image": null,
-      "image_credit": null,
-      "outlets": [
-        "BBC",
-        "Press Association",
-        "ANews"
-      ],
-      "published_ist": "2026-11-03T18:49:00+05:30",
-      "source": "ANews",
-      "source_url": "https://www.anews.com.tr/world/2026/11/03/uk-spy-agency-mi5-will-not-face-contempt-case-for-misleading-evidence"
     }
   ],
-  "updated_ist": "2026-11-04T11:29:42+05:30"
+  "updated_ist": "2026-11-04T12:27:08+05:30"
 }
