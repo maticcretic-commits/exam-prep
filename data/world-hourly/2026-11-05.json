@@ -1,873 +1,944 @@
 [
-  {
-    "id": "world-20261105-0622-01",
-    "published_ist": "2026-11-05T02:42:00+05:30",
-    "headline": "Komyshuvakha hamle me marne wale 40 hue",
-    "detail": "Zelenskyy ne kaha sahayata kendra par hamle me 40 log mare gaye, 33 se badhkar, aur 30 se zyada abhi malbe ke neeche ho sakte hain.",
-    "category": "World",
-    "exam_angle": "Ukraine yuddh aur nagrik suraksha: International exams ke liye — sahayata kendra par hamla.",
-    "source": "Channel NewsAsia",
-    "source_url": "https://www.channelnewsasia.com/world/ukraine-russia-war-aid-centre-attack-40-killed-6525456",
-    "genuineness": "verified",
-    "outlets": [
-      "Reuters",
-      "Agence France-Presse",
-      "Kyiv Post",
-      "Al Jazeera"
-    ],
-    "image": null,
-    "image_credit": null
-  },
-  {
-    "id": "world-20261105-0622-02",
-    "published_ist": "2026-11-04T10:59:00+05:30",
-    "headline": "Texas: Talarico 1988 ke baad pehle Democrat Senator",
-    "detail": "Democrat James Talarico ne Republican Ken Paxton ko harakar Texas se 1988 ke baad pehli baar Senate seat jeeti; ve sabse yuva Senator bane.",
-    "category": "World",
-    "exam_angle": "America ki chunav vyavastha: International exams ke liye — Senate aur midterm chunav.",
-    "source": "Times Now",
-    "source_url": "https://www.timesnownews.com/world/us/us-news/texas-turns-blue-as-james-talarico-ends-38-year-democratic-drought-article-156461647",
-    "genuineness": "verified",
-    "outlets": [
-      "Associated Press",
-      "NBC News",
-      "USA Today",
-      "Times Now",
-      "Le Monde"
-    ],
-    "image": null,
-    "image_credit": null
-  },
-  {
-    "id": "world-20261105-0622-03",
-    "published_ist": "2026-11-04T10:41:00+05:30",
-    "headline": "North Korea ne samundar ki taraf missile chhode",
-    "detail": "South Korea ki sena ne kaha Sondok se kai missile chhode gaye, Binance hack ke aarop par America se baatchit se inkaar ke kuch ghante baad.",
-    "category": "World",
-    "exam_angle": "Korea prayadweep aur kootneeti: International exams ke liye — missile parikshan aur America se tanaav.",
-    "source": "Al Jazeera",
-    "source_url": "https://www.aljazeera.com/news/2026/11/4/n-korea-fires-multiple-missiles-denies-us-claims-on-binance-hack",
-    "genuineness": "verified",
-    "outlets": [
-      "Yonhap",
-      "Associated Press",
-      "Al Jazeera",
-      "The Hindu"
-    ],
-    "image": null,
-    "image_credit": null
-  },
-  {
-    "id": "world-20261105-0622-04",
-    "published_ist": "2026-11-04T07:55:51+05:30",
-    "headline": "Georgia: Bottoms pehli Black mahila governor bani",
-    "detail": "Democrat Keisha Lance Bottoms ne Republican Rick Jackson ko harakar Georgia ki pehli Black mahila governor banne ka itihas racha.",
-    "category": "World",
-    "exam_angle": "America ki chunav vyavastha: International exams ke liye — governor chunav aur aitihasik jeet.",
-    "source": "Al Jazeera",
-    "source_url": "https://www.aljazeera.com/amp/news/2026/11/4/keisha-lance-bottoms-makes-us-history-as-first-black-woman-elected-governor",
-    "genuineness": "verified",
-    "outlets": [
-      "Associated Press",
-      "Al Jazeera",
-      "USA Today",
-      "NDTV",
-      "The Straits Times"
-    ],
-    "image": null,
-    "image_credit": null
-  },
-  {
-    "id": "world-20261105-0722-01",
-    "published_ist": "2026-11-04T16:12:00+05:30",
-    "headline": "Michigan: El-Sayed pehle Muslim Senator bane",
-    "detail": "Democrat Abdul El-Sayed ne Republican Mike Rogers ko harakar Michigan se Senate seat jeeti; ve America ke pehle Muslim Senator banenge.",
-    "category": "World",
-    "exam_angle": "America ki chunav vyavastha: International exams ke liye — Senate chunav aur aitihasik pehchan.",
-    "source": "The Hindu",
-    "source_url": "https://www.thehindu.com/news/international/who-is-abdul-el-sayed-first-muslim-us-senator-elect-united-states-us-midterm-elections-2026/article71664610.ece",
-    "genuineness": "verified",
-    "outlets": [
-      "The Hindu",
-      "Al Jazeera",
-      "Reuters",
-      "USA Today",
-      "Haaretz"
-    ],
-    "image": null,
-    "image_credit": null
-  },
-  {
-    "id": "world-20261105-0722-02",
-    "published_ist": "2026-11-04T13:06:00+05:30",
-    "headline": "Muji: 10.9 lakh card number leak ho sakte",
-    "detail": "Japan ki Muji operator Ryohin Keikaku ne kaha lagbhag 1.09 million MUJI Card record, jinme card number shamil hain, leak ho sakte hain; lagbhag 345,000 card abhi valid hain.",
-    "category": "World",
-    "exam_angle": "Cyber suraksha aur data sanrakshan: International exams ke liye — Japan me bada data leak.",
-    "source": "The Straits Times",
-    "source_url": "https://www.straitstimes.com/asia/east-asia/credit-card-numbers-may-have-leaked-in-cyberattack-on-japans-muji?ref=latest-headlines",
-    "genuineness": "verified",
-    "outlets": [
-      "The Straits Times",
-      "MLex",
-      "TBS News"
-    ],
-    "image": null,
-    "image_credit": null
-  },
-  {
-    "id": "world-20261105-0822-01",
-    "published_ist": "2026-11-05T02:00:00+05:30",
-    "headline": "Ukraine-Russia-America: Abu Dhabi me 10-11 Nov baatchit",
-    "detail": "Zelenskyy ne Witkoff aur Kushner se 90 minute baat ki; team-level trilateral baatchit Abu Dhabi me 10-11 November ko hogi, suraksha guarantee aur hawai raksha par charcha hui.",
-    "category": "World",
-    "exam_angle": "Ukraine yuddh: shanti vaarta aur suraksha guarantee — antarrashtriya sambandh ke liye mahatvapurna.",
-    "source": "Ukrinform",
-    "source_url": "https://www.ukrinform.net/rubric-polytics/4181550-zelensky-speaks-with-witkoff-kushner-ahead-of-trilateral-meeting-in-abu-dhabi.html",
-    "genuineness": "verified",
-    "outlets": [
-      "Ukrinform",
-      "Kyiv Independent",
-      "Kyiv Post",
-      "LIGA.net",
-      "UATV",
-      "Reuters"
-    ],
-    "image": null,
-    "image_credit": null
-  },
-  {
-    "id": "world-20261105-0822-02",
-    "published_ist": "2026-11-04T22:06:00+05:30",
-    "headline": "Bangladesh: December se garment mazdooron ka naya vetan",
-    "detail": "Naye wage board ne December se sanshodhit vetan dhancha lagu karne par sahamati di; pehli badhi hui salary January me milegi, lekin vetan ka aakar abhi tay nahi hua.",
-    "category": "World",
-    "exam_angle": "Bangladesh: vastr udyog aur shramik vetan — padosi desh ki arthvyavastha ke liye.",
-    "source": "The Hindu",
-    "source_url": "https://www.thehindu.com/news/international/bangladesh-agrees-new-garment-pay-scale-from-december-amid-protests/article71667080.ece",
-    "genuineness": "verified",
-    "outlets": [
-      "Reuters",
-      "The Hindu",
-      "Financial Express",
-      "Daily New Nation"
-    ],
-    "image": null,
-    "image_credit": null
-  },
-  {
-    "id": "world-20261105-0822-03",
-    "published_ist": "2026-11-04T14:21:00+05:30",
-    "headline": "Thailand ke mantri 12 Nov ko Myanmar jayenge",
-    "detail": "Videsh mantri Sihasak Phuangketkeow 12 November ko Myanmar jayenge; seema par jhadap aur ASEAN shikhar sammelan se pehle Myanmar ka rukh janenge.",
-    "category": "World",
-    "exam_angle": "ASEAN: Myanmar sankat aur seema suraksha — dakshin-poorv Asia ke liye.",
-    "source": "DVB",
-    "source_url": "https://english.dvb.no/thai-foreign-minister-to-visit-myanmar-ahead-of-asean-summit-in-philippines/",
-    "genuineness": "verified",
-    "outlets": [
-      "Agence France-Presse",
-      "DVB",
-      "Thai Newsroom"
-    ],
-    "image": null,
-    "image_credit": null
-  },
-  {
-    "id": "world-20261105-0922-01",
-    "published_ist": "2026-11-05T03:33:00+05:30",
-    "headline": "Myanmar Rohingya case: ICJ faisla 19 Nov ko",
-    "detail": "ICJ ne kaha Gambia ke case me Myanmar ke khilaf antim faisla 19 November ko The Hague me sunaya jayega; Myanmar ne aaropon se inkaar kiya hai.",
-    "category": "World",
-    "exam_angle": "ICJ aur antarrashtriya kanoon: International exams ke liye — Rohingya case aur Genocide Convention.",
-    "source": "DVB",
-    "source_url": "https://english.dvb.no/icj-to-rule-on-myanmar-genocide-case-migrant-leader-to-file-complaint-over-assault-at-protest-in-thailand/",
-    "genuineness": "verified",
-    "outlets": [
-      "Reuters",
-      "Anadolu Agency",
-      "DVB"
-    ],
-    "image": null,
-    "image_credit": null
-  },
-  {
-    "id": "world-20261105-0922-02",
-    "published_ist": "2026-11-04T21:49:00+05:30",
-    "headline": "Congo se Ebola patient UK bheja jayega",
-    "detail": "Congo me Ebola positive paye gaye British healthcare worker ko specialist ilaaj ke liye UK bheja ja raha hai; sarkar ne kaha janata ko khatra kam hai.",
-    "category": "World",
-    "exam_angle": "Ebola aur global health suraksha: International exams ke liye — sankramak rog aur medical evacuation.",
-    "source": "Reuters",
-    "source_url": "https://www.reuters.com/business/healthcare-pharmaceuticals/british-healthcare-worker-with-ebola-be-evacuated-congo-uk-document-shows-2026-11-04/",
-    "genuineness": "corroborated",
-    "outlets": [
-      "Reuters",
-      "Sky News"
-    ],
-    "image": null,
-    "image_credit": null
-  },
-  {
-    "id": "world-20261105-1022-01",
-    "published_ist": "2026-11-05T09:07:00+05:30",
-    "headline": "Hong Kong: Joshua Wong ko 10 saal aur",
-    "detail": "Hong Kong High Court ne Joshua Wong ko videshi taaqaton se milne ke aarop me 10 saal ki saza sunayi; ve January me riha hone wale the.",
-    "category": "World",
-    "exam_angle": "Hong Kong aur rashtriya suraksha kanoon: International exams ke liye — loktantra andolan aur videshi pratibandh aarop.",
-    "source": "The Straits Times",
-    "source_url": "https://www.straitstimes.com/asia/east-asia/hong-kong-activist-joshua-wong-sentenced-to-10-more-years",
-    "genuineness": "verified",
-    "outlets": [
-      "The Straits Times",
-      "CNN",
-      "The Wall Street Journal",
-      "Human Rights Watch"
-    ],
-    "image": null,
-    "image_credit": null
-  },
-  {
-    "id": "world-20261105-1022-02",
-    "published_ist": "2026-11-05T08:25:00+05:30",
-    "headline": "South Korea: Hormuz ke paas mission badhega",
-    "detail": "South Korea ne Cheonghae unit ka mission Gulf of Aden se Oman ke dakshin tak badhane ka faisla kiya; P-8A vimaan aur mine-clearing team bhi jodegi, sansad ki manzoori baaki hai.",
-    "category": "World",
-    "exam_angle": "Hormuz Strait aur samudri suraksha: International exams ke liye — tel marg aur antarrashtriya nauvahan.",
-    "source": "The Korea Herald",
-    "source_url": "https://m.koreaherald.com/article/10926571",
-    "genuineness": "verified",
-    "outlets": [
-      "The Korea Herald",
-      "The Korea Times",
-      "Seoul Economic Daily"
-    ],
-    "image": null,
-    "image_credit": null
-  },
-  {
-    "id": "world-20261105-1122-01",
-    "published_ist": "2026-11-05T06:25:00+05:30",
-    "headline": "California: Arabpati tax haar ki taraf",
-    "detail": "California me Proposition 40, jo lagbhag 200 arabpatiyon par ek baar 5% tax lagata, lagbhag 60% vote ginne par 55.6% 'No' ke saath haar ki taraf hai; natija abhi aadhikarik roop se ghoshit nahi hua.",
-    "category": "World",
-    "exam_angle": "America ki chunav vyavastha: International exams ke liye — ballot proposal aur wealth tax.",
-    "source": "Malay Mail",
-    "source_url": "https://www.malaymail.com/news/world/2026/11/05/california-billionaire-wealth-tax-proposal-appears-headed-for-defeat-as-voters-reject-one-off-levy/242012",
-    "genuineness": "verified",
-    "outlets": [
-      "AFP",
-      "Inc.",
-      "Tax Foundation",
-      "Associated Press"
-    ],
-    "image": null,
-    "image_credit": null
-  },
-  {
-    "id": "world-20261105-1122-02",
-    "published_ist": "2026-11-05T01:19:00+05:30",
-    "headline": "America ne Iran tel network par pratibandh lagaya",
-    "detail": "America ke Treasury ne 4 November ko Chandigarh ke Suniel Kumar Sharma aur Jaspreet Preeti Shahid par pratibandh lagaya, jinka aarop hai ki unhone Iranian tel le jaane wale jahazon ko nakli jhanda aur certificate diye; Turkiye ki ek company par bhi pratibandh laga.",
-    "category": "World",
-    "exam_angle": "Pratibandh aur shadow fleet: International exams ke liye — Iran tel pratibandh aur samudri dhokhadhadi.",
-    "source": "Times Now",
-    "source_url": "https://www.timesnownews.com/world/us-sanctions-indian-couple-and-their-companies-for-allegedly-helping-irans-oil-fleet-article-156466584",
-    "genuineness": "verified",
-    "outlets": [
-      "Times Now",
-      "Financial Express",
-      "The Hindu BusinessLine",
-      "The New Indian Express",
-      "Business Today"
-    ],
-    "image": null,
-    "image_credit": null
-  },
-  {
-    "id": "world-20261105-1222-01",
-    "published_ist": "2026-11-05T05:56:33+05:30",
-    "headline": "Democrat ne Congress ke dono sadan jeete",
-    "detail": "Democrat ne House me 235 seat jeetkar aur Senate me saat seat palatkar Congress ke dono sadan par kabza kar liya; Trump ko ab vibhajit sarkar me kaam karna hoga.",
-    "category": "World",
-    "exam_angle": "America ki chunav vyavastha: International exams ke liye — midterm chunav aur vibhajit sarkar.",
-    "source": "Reuters",
-    "source_url": "https://www.reuters.com/world/us/seven-numbers-that-explain-democrats-us-midterm-rout-2026-11-04/",
-    "genuineness": "verified",
-    "outlets": [
-      "Associated Press",
-      "Reuters",
-      "Le Monde",
-      "FirstPost",
-      "The Indian Express"
-    ],
-    "image": "../images/world/world-20261105-1222-01.jpg",
-    "image_credit": "Martin Falbisoner / CC BY-SA 3.0"
-  },
-  {
-    "id": "world-20261105-1222-02",
-    "published_ist": "2026-11-04T23:45:30+05:30",
-    "headline": "Trump: Iran yuddh ne haraya, phir bhi karunga",
-    "detail": "Trump ne mana Iran yuddh ne petrol mehenga karke Republican ko midterm me haraya, lekin kaha Iran ko parmanu hathiyar se rokna zaroori tha aur woh phir bhi wahi karte.",
-    "category": "World",
-    "exam_angle": "America-Iran sambandh: International exams ke liye — yuddh aur chunav par asar.",
-    "source": "The Economic Times",
-    "source_url": "https://economictimes.indiatimes.com/news/international/world-news/trump-admits-iran-war-hurt-republicans-in-midterms-but-says-iran-thing-had-to-be-done/articleshow/135549452.cms",
-    "genuineness": "verified",
-    "outlets": [
-      "The Economic Times",
-      "NDTV",
-      "Arab News",
-      "Rediff",
-      "India TV"
-    ],
-    "image": "../images/world/world-20261105-1222-02.jpg",
-    "image_credit": "The White House / Public domain"
-  },
-  {
-    "id": "world-20261105-1222-03",
-    "published_ist": "2026-11-05T03:47:12+05:30",
-    "headline": "Bavaria neta Aiwanger Berlin hotel me mrit mile",
-    "detail": "Bavaria ke up-pradhan aur arth mantri Hubert Aiwanger, 55, Berlin ke hotel kamre me mrit mile; police ne jaanch shuru ki, maut ka karan abhi saaf nahi hai.",
-    "category": "World",
-    "exam_angle": "Germany ki rajneeti: International exams ke liye — rajya sarkar aur neta.",
-    "source": "Malay Mail",
-    "source_url": "https://www.malaymail.com/news/world/2026/11/05/german-politician-hubert-aiwanger-found-dead-in-berlin-hotel-police-launch-investigation/242015",
-    "genuineness": "verified",
-    "outlets": [
-      "Reuters",
-      "Agence France-Presse",
-      "Bild",
-      "The Berlin Spectator"
-    ],
-    "image": "../images/world/world-20261105-1222-03.jpg",
-    "image_credit": "Superbass / CC BY-SA 4.0"
-  },
-  {
-    "id": "world-20261105-1322-01",
-    "published_ist": "2026-11-05T12:00:12+05:30",
-    "headline": "Armenia: Vipaksh ne ekjut hone ka elaan kiya",
-    "detail": "Armenia ke vipakshi dalon ne 'rashtriya ekjutata' banane ka elaan kiya; naya samvidhan kharij karna aur bina ektarfa samjhote ke shanti unki prathamikta hai.",
-    "category": "World",
-    "exam_angle": "Armenia aur Dakshin Caucasus: International exams ke liye — samvidhan, shanti aur vipaksh.",
-    "source": "1news.az",
-    "source_url": "https://1news.az/en/news/20261105103012198-Armenian-opposition-announces-formation-of-nationwide-consolidation",
-    "genuineness": "corroborated",
-    "outlets": [
-      "Sputnik Armenia",
-      "Izvestia"
-    ],
-    "image": "../images/world/world-20261105-1322-01.jpg",
-    "image_credit": "Benoît Prieur / CC0"
-  },
-  {
-    "id": "world-20261105-1322-02",
-    "published_ist": "2026-11-05T11:01:00+05:30",
-    "headline": "Japan: Docomo network desh bhar thapp",
-    "detail": "NTT Docomo ne kaha subah 11:18 baje se pure Japan me call, data aur SMS mushkil ho gaye; isse pehle online shop aur My docomo bhi band kiye gaye kyunki server me ghuspaith ka shak hai.",
-    "category": "World",
-    "exam_angle": "Japan ki telecom suraksha: International exams ke liye — cyber hamla aur aavashyak seva par asar.",
-    "source": "Kyodo News",
-    "source_url": "https://english.kyodonews.net/articles/-/90436",
-    "genuineness": "verified",
-    "outlets": [
-      "Kyodo News",
-      "CGTN",
-      "TV Asahi"
-    ],
-    "image": null,
-    "image_credit": null
-  },
-  {
-    "id": "world-20261105-1322-03",
-    "published_ist": "2026-11-05T01:35:00+05:30",
-    "headline": "Japan: Shodo ko UNESCO virasat ki sifarish",
-    "detail": "UNESCO ki salahkar sanstha ne Japan ki shodo kala ko Amurt Sanskritik Virasat suchi me shamil karne ki sifarish ki; antim faisla December me hoga.",
-    "category": "World",
-    "exam_angle": "UNESCO Amurt Sanskritik Virasat: International exams ke liye — Japan ki 24th entry ho sakti hai.",
-    "source": "The Japan Times",
-    "source_url": "https://www.japantimes.co.jp/news/2026/11/05/japan/society/calligraphy-unesco-list/",
-    "genuineness": "corroborated",
-    "outlets": [
-      "The Japan Times",
-      "Kyodo News"
-    ],
-    "image": "../images/world/world-20261105-1322-03.jpg",
-    "image_credit": "Ayu Nabila / CC BY-SA 4.0"
-  },
-  {
-    "id": "world-20261105-1422-01",
-    "published_ist": "2026-11-05T13:02:00+05:30",
-    "headline": "Hormuz me do tanker, tugboat me aag",
-    "detail": "IRGC ne kaha do tel tanker aur ek tugboat Hormuz Strait me aag ki chapet me aaye; ek tanker 'gair-kanuni' raste par mine se takraya, jabki doosra supertanker aag me ghir gaya.",
-    "category": "World",
-    "exam_angle": "Hormuz Strait aur tel marg: International exams ke liye — samudri suraksha aur vishwa tel vyapaar.",
-    "source": "Reuters",
-    "source_url": "https://www.reuters.com/world/middle-east/irans-irgc-says-two-tankers-tugboat-caught-fire-strait-hormuz-2026-11-05/",
-    "genuineness": "verified",
-    "outlets": [
-      "Reuters",
-      "Al Jazeera",
-      "Agence France-Presse",
-      "The Jerusalem Post"
-    ],
-    "image": "../images/world/world-20261105-1422-01.jpg",
-    "image_credit": "NASA / Public domain"
-  },
-  {
-    "id": "world-20261105-1422-02",
-    "published_ist": "2026-11-04T18:09:00+05:30",
-    "headline": "NASA ka Swift telescope 22 saal baad gira",
-    "detail": "NASA ka Neil Gehrels Swift Observatory 4 November ko Indonesia ke uttar Sumatra ke upar vayumandal me jal gaya; 2004 me launch hua telescope gamma-ray burst par shodh karta tha, zameen par koi nuksan nahi hua.",
-    "category": "World",
-    "exam_angle": "Antariksh aur vigyan: International exams ke liye — NASA mission aur punah-pravesh.",
-    "source": "Reuters",
-    "source_url": "https://www.reuters.com/science/nasas-22-year-old-swift-satellite-telescope-falls-orbit-fiery-finale-2026-11-04/",
-    "genuineness": "verified",
-    "outlets": [
-      "Reuters",
-      "Associated Press",
-      "Times of India"
-    ],
-    "image": null,
-    "image_credit": null
-  },
-  {
-    "id": "world-20261105-1422-03",
-    "published_ist": "2026-11-05T10:23:00+05:30",
-    "headline": "Nithya Raman LA ki pehli Asian-American mayor",
-    "detail": "Kerala me janmi Nithya Raman ne Los Angeles mayoral chunav me incumbent Karen Bass ko 51.67% vote se haraya; ve shahar ki pehli Asian-American mayor banengi.",
-    "category": "World",
-    "exam_angle": "America ki chunav vyavastha: International exams ke liye — Bharatiya mool ki pehli LA mayor.",
-    "source": "Mathrubhumi",
-    "source_url": "https://english.mathrubhumi.com/news/world/kerala-born-nithya-raman-wins-los-angeles-mayoral-election-n33duw6u",
-    "genuineness": "verified",
-    "outlets": [
-      "Mathrubhumi",
-      "Times of India",
-      "WION",
-      "Indian Express"
-    ],
-    "image": "../images/world/world-20261105-1422-03.jpg",
-    "image_credit": "Nithya Raman / Public domain"
-  },
-  {
-    "id": "world-20261105-1522-01",
-    "published_ist": "2026-11-04T07:55:00+05:30",
-    "headline": "Bottoms: America ki pehli Black mahila governor",
-    "detail": "Democrat Keisha Lance Bottoms ne Georgia me Republican Rick Jackson ko harakar America ki pehli Black mahila governor banne ka itihaas racha; ve 1998 ke baad Georgia ki pehli Democrat governor bhi hain.",
-    "category": "World",
-    "exam_angle": "America ki chunav vyavastha: International exams ke liye — pehli Black mahila governor aur Georgia chunav.",
-    "source": "Al Jazeera",
-    "source_url": "https://www.aljazeera.com/amp/news/2026/11/4/keisha-lance-bottoms-makes-us-history-as-first-black-woman-elected-governor",
-    "genuineness": "verified",
-    "outlets": [
-      "Associated Press",
-      "USA Today",
-      "Al Jazeera",
-      "NDTV"
-    ],
-    "image": "../images/world/world-20261105-1522-01.jpg",
-    "image_credit": "Sikis2021 / CC0"
-  },
-  {
-    "id": "world-20261105-1522-02",
-    "published_ist": "2026-11-05T12:35:00+05:30",
-    "headline": "France: Desh bhar hadtaal, 70,000 police tainat",
-    "detail": "France me mazdoor sanghon ki desh-vyapi hadtaal aur pradarshan aaj hue; sarkar ne 70,000 police tainat kiye aur 5–7 lakh logon ke sadkon par utarne ka anumaan hai.",
-    "category": "World",
-    "exam_angle": "France aur mazdoor andolan: International exams ke liye — hadtaal, jeevan-yapan aur sarkar.",
-    "source": "Channel NewsAsia",
-    "source_url": "https://www.channelnewsasia.com/world/france-demonstrations-trade-unions-strike-6526711",
-    "genuineness": "verified",
-    "outlets": [
-      "Reuters",
-      "Agence France-Presse",
-      "The New York Times"
-    ],
-    "image": null,
-    "image_credit": null
-  },
-  {
-    "id": "world-20261105-1522-03",
-    "published_ist": "2026-11-05T12:00:00+05:30",
-    "headline": "France: Blood bank par cyber hamla",
-    "detail": "France ke teen kshetriya blood bank me cyber hamle se khoon rakhne wale fridge ki nigrani vyavastha prabhavit hui; adhikariyon ne kaha khoon ki aapurti par koi asar nahi pada.",
-    "category": "World",
-    "exam_angle": "Cyber suraksha aur swasthya seva: International exams ke liye — mahatvapurna buniyadi dhanche par hamla.",
-    "source": "The Business Standard",
-    "source_url": "https://www.tbsnews.net/worldbiz/europe/french-blood-banks-hit-cyberattack-alongside-european-supermarkets-1593416",
-    "genuineness": "corroborated",
-    "outlets": [
-      "Associated Press",
-      "Reuters"
-    ],
-    "image": null,
-    "image_credit": null
-  },
-  {
-    "id": "world-20261105-1622-01",
-    "published_ist": "2026-11-05T07:16:00+05:30",
-    "headline": "Uttar Korea: Nayi missile ka parikshan, drill bhi",
-    "detail": "Uttar Korea ne Budhvar ko nayi air defence missile ka parikshan kiya aur lambi doori ki cruise missile se ek nakli hawai adde par hamle ki drill bhi ki; Dakshin Korea ki sena ne Sondok se samudra ki taraf kai missile chhode jaane ki pushti ki hai.",
-    "category": "World",
-    "exam_angle": "Uttar Korea aur missile parikshan: International exams ke liye — suraksha parishad pratibandh aur kshetriya tanaav.",
-    "source": "Yonhap News Agency",
-    "source_url": "https://en.yna.co.kr/view/AEN20261105000651315?section=nk/nk",
-    "genuineness": "verified",
-    "outlets": [
-      "Yonhap News Agency",
-      "Reuters",
-      "Kyodo News"
-    ],
-    "image": "../images/world/world-20261105-1622-01.jpg",
-    "image_credit": "Yonhap News Agency"
-  },
-  {
-    "id": "world-20261105-1622-02",
-    "published_ist": "2026-11-05T02:07:00+05:30",
-    "headline": "Schumer: Democrat Iran yuddh khatm karenge",
-    "detail": "Senate ke Democrat neta Chuck Schumer ne kaha unki party Iran yuddh khatm karegi aur Congress ke kharch par niyantran ka istemal karke Trump par dabav banayegi; kuch Republican bhi is prayas me saath hain.",
-    "category": "World",
-    "exam_angle": "America ki yuddh shaktiyan: International exams ke liye — Congress ka 'power of the purse' aur yuddh ghoshna.",
-    "source": "TRT World",
-    "source_url": "https://www.trtworld.com/article/5070075db81c/amp",
-    "genuineness": "verified",
-    "outlets": [
-      "TRT World",
-      "Al Jazeera",
-      "Gulf News",
-      "The Tribune"
-    ],
-    "image": null,
-    "image_credit": null
-  },
-  {
-    "id": "world-20261105-1622-03",
-    "published_ist": "2026-11-05T00:52:00+05:30",
-    "headline": "WHO: Ebola ki do nayi vaccine ka trial",
-    "detail": "WHO ne Congo me Bundibugyo Ebola ke khilaf Oxford-Serum Institute aur Moderna ki do nayi vaccine ke clinical trial ko manzoori di; is prakop me 5,300 se zyada logon ki maut ho chuki hai.",
-    "category": "World",
-    "exam_angle": "Ebola aur vaccine trial: International exams ke liye — WHO, Bundibugyo strain aur swasthya sankat.",
-    "source": "Al Jazeera",
-    "source_url": "https://www.aljazeera.com/news/2026/11/4/who-approves-trials-for-two-new-ebola-vaccines",
-    "genuineness": "verified",
-    "outlets": [
-      "Al Jazeera",
-      "World Health Organization",
-      "Anadolu Agency"
-    ],
-    "image": "../images/world/world-20261105-1622-03.jpg",
-    "image_credit": "Al Jazeera"
-  },
-  {
-    "id": "world-20261105-1622-04",
-    "published_ist": "2026-11-04T16:07:00+05:30",
-    "headline": "Israel: Chunav nateeje pramanit, sarkar par baatchit",
-    "detail": "Israel ke chunav aayog ne dhokhadhadi ka koi saboot na milne par 27 October ke chunav nateeje pramanit kar diye; Rashtrapati Herzog ne sarkar banane ke liye dalon se baatchit shuru ki — Netanyahu ke gathbandhan ko 53 aur Eisenkot ke vipaksh ko 48 seatein mili hain.",
-    "category": "World",
-    "exam_angle": "Israel ki sansadiya vyavastha: International exams ke liye — chunav, gathbandhan aur rashtrapati ki bhoomika.",
-    "source": "Al Jazeera",
-    "source_url": "https://www.aljazeera.com/news/2026/11/4/israel-vote-results-confirmed-as-election-commission-rejects-fraud-claims",
-    "genuineness": "verified",
-    "outlets": [
-      "Al Jazeera",
-      "The Hindu",
-      "Associated Press",
-      "The Jerusalem Post"
-    ],
-    "image": null,
-    "image_credit": null
-  },
-  {
-    "id": "world-20261105-1722-01",
-    "published_ist": "2026-11-05T16:27:00+05:30",
-    "headline": "Ronaldo ne international football se sannyas liya",
-    "detail": "Portugal ke 41 saal ke star ne video message me kaha, woh November break ke baad No. 7 shirt wapas karenge; 234 match me 146 goal ka record banaya.",
-    "category": "World",
-    "exam_angle": "Khel GK: Purush international football me sabse zyada goal (146) aur match (234) ka record.",
-    "source": "Al Jazeera",
-    "source_url": "https://www.aljazeera.com/sports/2026/11/5/cristiano-ronaldo-announces-retirement-from-international-football",
-    "genuineness": "verified",
-    "outlets": [
-      "Al Jazeera",
-      "CNN",
-      "Sky Sports",
-      "Associated Press"
-    ],
-    "image": "../images/world/world-20261105-1722-01.jpg",
-    "image_credit": "Ludovic Péron / CC BY-SA 3.0"
-  },
-  {
-    "id": "world-20261105-1722-02",
-    "published_ist": "2026-11-05T06:54:00+05:30",
-    "headline": "Riyadh airport hamle me marne wale 14 hue",
-    "detail": "Bharatiya dutawas ne kaha 10 October ke hamle me gambhir ghayal doosre Bharatiya nagrik ki ICU me maut ho gayi; kul mrityu sankhya 14 ho gayi.",
-    "category": "World",
-    "exam_angle": "Houthi-Saudi sangharsh aur Khadi suraksha: West Asia ke liye exam angle.",
-    "source": "NDTV",
-    "source_url": "https://www.ndtv.com/world-news/second-indian-national-injured-in-october-10-riyadh-airport-attack-dies-12283407/amp/1",
-    "genuineness": "verified",
-    "outlets": [
-      "NDTV",
-      "Times Now World",
-      "EconoTimes",
-      "The Daily Jagran"
-    ],
-    "image": null,
-    "image_credit": null
-  },
-  {
-    "id": "world-20261105-1722-03",
-    "published_ist": "2026-11-05T04:50:00+05:30",
-    "headline": "Qatar ke paas tanker par do projectile hamle",
-    "detail": "UKMTO ne kaha Madinat ash Shamal se 50 nautical mile door tanker par do agyaat projectile lage; crew ki haalat aur nuksan abhi pata nahi.",
-    "category": "World",
-    "exam_angle": "Khadi me samudri suraksha aur tel marg: International exams ke liye mahatvapurna.",
-    "source": "Al Jazeera",
-    "source_url": "https://www.aljazeera.com/amp/news/liveblog/2026/11/5/iran-war-live-trump-admits-war-caused-election-loss-but-had-to-do-it",
-    "genuineness": "verified",
-    "outlets": [
-      "Associated Press",
-      "Al Jazeera",
-      "The Telegraph"
-    ],
-    "image": null,
-    "image_credit": null
-  },
-  {
-    "id": "world-20261105-1822-01",
-    "published_ist": "2026-11-04T12:00:00+05:30",
-    "headline": "Ethiopia ne Sudan ke 6 rajnayik nikale",
-    "detail": "Ethiopia ne Sudan ke Assosa vanijya dutawas ke chhah karmiyon ko 48 ghante me desh chhodne ko kaha; dono desh ek-doosre par sashastr guton ko samarthan dene ka aarop lagate hain.",
-    "category": "World",
-    "exam_angle": "Horn of Africa aur kootneeti: International exams ke liye — Sudan grih yuddh aur kshetriya tanaav.",
-    "source": "Reuters",
-    "source_url": "https://www.reuters.com/world/africa/ethiopia-expels-sudanese-diplomats-after-fresh-allegations-support-rsf-2026-11-04/",
-    "genuineness": "verified",
-    "outlets": [
-      "Reuters",
-      "BusinessDay",
-      "The Eastleigh Voice"
-    ],
-    "image": null,
-    "image_credit": null
-  },
-  {
-    "id": "world-20261105-1925-01",
-    "published_ist": "2026-11-05T16:28:00+05:30",
-    "headline": "Europe me bomb dhamki: kai udanein divert",
-    "detail": "Dublin se Rome ja rahi Aer Lingus flight ko bomb ki dhamki par France ke sainya adde Evreux par utara gaya; 151 yatri aur 6 crew surakshit hain, aur Sofia jaane wali teen Ryanair udanein bhi divert hui.",
-    "category": "World",
-    "exam_angle": "Europe me nagrik uddayan suraksha aur dhamkiyon se niptne ki taiyari — antarrashtriya suraksha ke liye mahatvapurna.",
-    "source": "The Tribune",
-    "source_url": "https://www.tribuneindia.com/news/world/dublin-rome-flight-diverted-to-french-airbase-as-bomb-threat-wave-hits-european-aviation/amp/",
-    "genuineness": "verified",
-    "outlets": [
-      "The Tribune",
-      "The Times",
-      "Republic World",
-      "Euronews"
-    ],
-    "image": "../images/world/world-20261105-1925-01.jpg",
-    "image_credit": "DaHuzyBru / CC BY-SA 4.0"
-  },
-  {
-    "id": "world-20261105-1925-02",
-    "published_ist": "2026-11-05T08:37:00+05:30",
-    "headline": "Dow 1,569 ank chadha, Brent tel 8.7% gira",
-    "detail": "Midterm me Democrat jeet ke baad Dow 1,569 ank (3%) chadhkar 53,356 par band hua, jabki Brent crude 8.7% girkar $94.62 prati barrel par aa gaya — Iran yuddh khatm hone ki ummeed se.",
-    "category": "World",
-    "exam_angle": "Bazaar aur tel: America ke chunav aur Iran yuddh ka vaishvik arthvyavastha par asar.",
-    "source": "Gulf News",
-    "source_url": "https://gulfnews.com/business/markets/wall-street-roars-dow-rockets-1500-points-as-democrats-sweep-congress-1.500736418",
-    "genuineness": "verified",
-    "outlets": [
-      "Associated Press",
-      "Gulf News",
-      "Reuters"
-    ],
-    "image": null,
-    "image_credit": null
-  },
-  {
-    "id": "world-20261105-1925-03",
-    "published_ist": "2026-11-05T07:01:00+05:30",
-    "headline": "Indonesia: Rashtrapati ke phone tap karne par barkhast",
-    "detail": "Rashtrapati Prabowo ne apne chief of staff Listyo Sigit Prabowo ko barkhast kar diya; unpar Rashtrapati, mantriyon aur patrakaron ke phone tap karne ka aarop hai, sarkar ne ise deshdroh jaisa bataya.",
-    "category": "World",
-    "exam_angle": "Indonesia: gair-kanuni nigrani aur deshdroh — dakshin-poorv Asia ki rajneeti ke liye.",
-    "source": "Dawn",
-    "source_url": "https://www.dawn.com/news/2042249/indonesian-president-sacks-aide-accused-of-wiretapping",
-    "genuineness": "verified",
-    "outlets": [
-      "Al Jazeera",
-      "South China Morning Post",
-      "The Manila Times",
-      "Dawn"
-    ],
-    "image": null,
-    "image_credit": null
-  },
-  {
-    "id": "world-20261105-1925-04",
-    "published_ist": "2026-11-04T21:55:00+05:30",
-    "headline": "Johnson ne House Republican neta pad chhoda",
-    "detail": "Midterm me Republican haar ke agle din Speaker Mike Johnson ne kaha woh naye Congress me Republican neta ka pad nahi ladenge; woh saansad bane rahenge, aur Scalise aur Jordan daud me hain.",
-    "category": "World",
-    "exam_angle": "America: midterm chunav ke baad Congress me satta badlav aur netritva parivartan.",
-    "source": "USA Today",
-    "source_url": "https://www.usatoday.com/story/news/politics/2026/11/04/house-speaker-mike-johnson-gop-leadership/92609302007/",
-    "genuineness": "verified",
-    "outlets": [
-      "USA Today",
-      "Associated Press",
-      "New York Post"
-    ],
-    "image": "../images/world/world-20261105-1925-04.jpg",
-    "image_credit": "United States Congress / Public domain"
-  },
-  {
-    "id": "world-20261105-1925-05",
-    "published_ist": "2026-11-04T19:52:00+05:30",
-    "headline": "Montenegro 2028 me EU sadasya ban sakta",
-    "detail": "European Commission ki saalana report me kaha gaya Montenegro 2028 me EU ka 28va sadasya ban sakta hai, jabki Albania aur Moldova 2029 me shamil ho sakte hain.",
-    "category": "World",
-    "exam_angle": "EU vistar: Montenegro, Albania, Moldova — Europe aur antarrashtriya sangathan ke liye.",
-    "source": "Glasgow Times",
-    "source_url": "https://www.glasgowtimes.co.uk/news/national/26699047.fresh-membership-talks-hope-serbia-eu-says-countries-join-soon/",
-    "genuineness": "verified",
-    "outlets": [
-      "Glasgow Times",
-      "Deutsche Welle",
-      "Tagesschau"
-    ],
-    "image": "../images/world/world-20261105-1925-05.jpg",
-    "image_credit": "EC Audiovisual Service / CC BY 4.0"
-  },
-  {
-    "id": "world-20261105-2022-01",
-    "published_ist": "2026-11-05T20:02:00+05:30",
-    "headline": "Russell Brand balatkar case me doshi",
-    "detail": "London ki Southwark Crown Court ne comedian Russell Brand ko ek balatkar aur teen yaun hamlo ka doshi paya; saza 9 November ko sunayi jayegi.",
-    "category": "World",
-    "exam_angle": null,
-    "source": "Reuters",
-    "source_url": "https://www.reuters.com/world/comedian-russell-brand-found-guilty-rape-2026-11-05/",
-    "genuineness": "verified",
-    "outlets": [
-      "Reuters",
-      "USA Today",
-      "The Times"
-    ],
-    "image": "../images/world/world-20261105-2022-01.jpg",
-    "image_credit": "Eva Rinaldi / CC BY-SA 2.0"
-  },
-  {
-    "id": "world-20261105-2022-02",
-    "published_ist": "2026-11-05T17:34:00+05:30",
-    "headline": "Amman me chaku hamla, suraksha adhikari ki maut",
-    "detail": "Jordan ki rajdhani Amman me Sri Lanka dutavas ke paas ek hamlaawar ne suraksha adhikari par chaku se hamla kar diya; ek adhikari ki maut ho gayi, ek ghayal hai aur hamlaawar giraftar hai.",
-    "category": "World",
-    "exam_angle": "Jordan me suraksha sthiti aur West Asia me tanav — antarrashtriya sambandh ke liye mahatvapurna.",
-    "source": "Reuters",
-    "source_url": "https://www.reuters.com/world/middle-east/jordanian-officer-killed-amman-stabbing-suspect-arrested-state-media-says-2026-11-05/",
-    "genuineness": "verified",
-    "outlets": [
-      "Reuters",
-      "Al Jazeera",
-      "Ynet"
-    ],
-    "image": null,
-    "image_credit": null
-  },
-  {
-    "id": "world-20261105-2022-03",
-    "published_ist": "2026-11-05T16:54:00+05:30",
-    "headline": "Taiwan: Panasonic factory me aag, 2 ki maut",
-    "detail": "Taiwan ke Hsinchu me Panasonic ki factory me lagi aag me do karmchariyon ki maut ho gayi aur paanch ghayal hue; aag ke kaaran ki jaanch chal rahi hai.",
-    "category": "World",
-    "exam_angle": "Taiwan ki electronics supply chain se judi factory — chip udyog ke liye mahatvapurna.",
-    "source": "Reuters",
-    "source_url": "https://www.reuters.com/world/asia-pacific/two-confirmed-dead-after-taiwan-panasonic-factory-fire-2026-11-05/",
-    "genuineness": "verified",
-    "outlets": [
-      "Reuters",
-      "Focus Taiwan",
-      "The Straits Times"
-    ],
-    "image": null,
-    "image_credit": null
-  },
-  {
-    "id": "world-20261105-2122-01",
-    "published_ist": "2026-11-05T17:17:00+05:30",
-    "headline": "France bank se €100 million cyber chori",
-    "detail": "France ke Credit Mutuel Arkea bank par cyber hamle me hackers ne lagbhag 100 million euro ki farzi len-den ki; grahakon ke khate surakshit rahe aur Paris prosecutor ne jaanch shuru kar di hai.",
-    "category": "World",
-    "exam_angle": "Banking cyber suraksha aur digital dhokhadhadi — banking exams ke liye mahatvapurna.",
-    "source": "Reuters",
-    "source_url": "https://www.reuters.com/legal/government/french-bank-credit-mutuel-arkea-says-100-million-missing-after-cyberattack-2026-11-05/",
-    "genuineness": "verified",
-    "outlets": [
-      "Reuters",
-      "AFP",
-      "Firstpost"
-    ],
-    "image": "../images/world/world-20261105-2122-01.jpg",
-    "image_credit": "FJaffres / CC BY-SA 4.0"
-  },
-  {
-    "id": "world-20261105-2122-02",
-    "published_ist": "2026-11-05T15:56:00+05:30",
-    "headline": "Hasina: December me Bangladesh lautungi",
-    "detail": "Bangladesh ki poorv pradhanmantri Sheikh Hasina ne AP ko bataya, maut ki saza ke bawjood December me Bangladesh lautne ka faisla nahi badla; giraftari ya maut ka khatra bhi sweekar hai.",
-    "category": "World",
-    "exam_angle": "Bangladesh ki rajneeti aur Bharat-Bangladesh sambandh — antarrashtriya sambandh ke liye mahatvapurna.",
-    "source": "Times of India",
-    "source_url": "https://timesofindia.indiatimes.com/india/if-death-is-my-destiny-sheikh-hasina-firm-on-returning-to-bangladesh-in-december/articleshow/135569022.cms",
-    "genuineness": "verified",
-    "outlets": [
-      "Associated Press",
-      "Times of India",
-      "Economic Times"
-    ],
-    "image": "../images/world/world-20261105-2122-02.jpg",
-    "image_credit": "Times of India"
-  },
-  {
-    "id": "world-20261105-2122-03",
-    "published_ist": "2026-11-05T15:45:00+05:30",
-    "headline": "Komyshuvakha hamle me marne wale 42 hue",
-    "detail": "Zaporizhzhia ke Komyshuvakha gaon me Somvar ko sahayata kendra par hue Russian hamle me marne walon ki sankhya 42 ho gayi; 33 log abhi bhi malbe ke neeche dabey hain aur bachav ka kaam jaari hai.",
-    "category": "World",
-    "exam_angle": "Russia-Ukraine yuddh aur nagrik suraksha — antarrashtriya sambandh ke liye mahatvapurna.",
-    "source": "Reuters",
-    "source_url": "https://www.reuters.com/world/europe/death-toll-russian-strike-ukrainian-aid-centre-reaches-42-police-say-2026-11-05/",
-    "genuineness": "corroborated",
-    "outlets": [
-      "Reuters",
-      "Just Security"
-    ],
-    "image": null,
-    "image_credit": null
-  },
-  {
-    "id": "world-20261105-2122-04",
-    "published_ist": "2026-11-05T15:18:00+05:30",
-    "headline": "Poland me Russia jasusi case me 4 giraftar",
-    "detail": "Poland ki suraksha agency ne Russia ko sainya purje bhejne ke aarop me chaar logon ko jasusi ke aarop me giraftar kiya; do aur logon par sangathit apradh ka aarop hai.",
-    "category": "World",
-    "exam_angle": "Europe me jasusi aur pratibandh — antarrashtriya suraksha ke liye mahatvapurna.",
-    "source": "Reuters",
-    "source_url": "https://www.reuters.com/world/poland-arrest-four-probe-into-military-supplies-sent-russia-2026-11-05/",
-    "genuineness": "verified",
-    "outlets": [
-      "Reuters",
-      "Deutsche Welle",
-      "Just Security"
-    ],
-    "image": null,
-    "image_credit": null
-  }
+ {
+  "id": "world-20261105-0622-01",
+  "published_ist": "2026-11-05T02:42:00+05:30",
+  "headline": "Komyshuvakha hamle me marne wale 40 hue",
+  "detail": "Zelenskyy ne kaha sahayata kendra par hamle me 40 log mare gaye, 33 se badhkar, aur 30 se zyada abhi malbe ke neeche ho sakte hain.",
+  "category": "World",
+  "exam_angle": "Ukraine yuddh aur nagrik suraksha: International exams ke liye — sahayata kendra par hamla.",
+  "source": "Channel NewsAsia",
+  "source_url": "https://www.channelnewsasia.com/world/ukraine-russia-war-aid-centre-attack-40-killed-6525456",
+  "genuineness": "verified",
+  "outlets": [
+   "Reuters",
+   "Agence France-Presse",
+   "Kyiv Post",
+   "Al Jazeera"
+  ],
+  "image": null,
+  "image_credit": null
+ },
+ {
+  "id": "world-20261105-0622-02",
+  "published_ist": "2026-11-04T10:59:00+05:30",
+  "headline": "Texas: Talarico 1988 ke baad pehle Democrat Senator",
+  "detail": "Democrat James Talarico ne Republican Ken Paxton ko harakar Texas se 1988 ke baad pehli baar Senate seat jeeti; ve sabse yuva Senator bane.",
+  "category": "World",
+  "exam_angle": "America ki chunav vyavastha: International exams ke liye — Senate aur midterm chunav.",
+  "source": "Times Now",
+  "source_url": "https://www.timesnownews.com/world/us/us-news/texas-turns-blue-as-james-talarico-ends-38-year-democratic-drought-article-156461647",
+  "genuineness": "verified",
+  "outlets": [
+   "Associated Press",
+   "NBC News",
+   "USA Today",
+   "Times Now",
+   "Le Monde"
+  ],
+  "image": null,
+  "image_credit": null
+ },
+ {
+  "id": "world-20261105-0622-03",
+  "published_ist": "2026-11-04T10:41:00+05:30",
+  "headline": "North Korea ne samundar ki taraf missile chhode",
+  "detail": "South Korea ki sena ne kaha Sondok se kai missile chhode gaye, Binance hack ke aarop par America se baatchit se inkaar ke kuch ghante baad.",
+  "category": "World",
+  "exam_angle": "Korea prayadweep aur kootneeti: International exams ke liye — missile parikshan aur America se tanaav.",
+  "source": "Al Jazeera",
+  "source_url": "https://www.aljazeera.com/news/2026/11/4/n-korea-fires-multiple-missiles-denies-us-claims-on-binance-hack",
+  "genuineness": "verified",
+  "outlets": [
+   "Yonhap",
+   "Associated Press",
+   "Al Jazeera",
+   "The Hindu"
+  ],
+  "image": null,
+  "image_credit": null
+ },
+ {
+  "id": "world-20261105-0622-04",
+  "published_ist": "2026-11-04T07:55:51+05:30",
+  "headline": "Georgia: Bottoms pehli Black mahila governor bani",
+  "detail": "Democrat Keisha Lance Bottoms ne Republican Rick Jackson ko harakar Georgia ki pehli Black mahila governor banne ka itihas racha.",
+  "category": "World",
+  "exam_angle": "America ki chunav vyavastha: International exams ke liye — governor chunav aur aitihasik jeet.",
+  "source": "Al Jazeera",
+  "source_url": "https://www.aljazeera.com/amp/news/2026/11/4/keisha-lance-bottoms-makes-us-history-as-first-black-woman-elected-governor",
+  "genuineness": "verified",
+  "outlets": [
+   "Associated Press",
+   "Al Jazeera",
+   "USA Today",
+   "NDTV",
+   "The Straits Times"
+  ],
+  "image": null,
+  "image_credit": null
+ },
+ {
+  "id": "world-20261105-0722-01",
+  "published_ist": "2026-11-04T16:12:00+05:30",
+  "headline": "Michigan: El-Sayed pehle Muslim Senator bane",
+  "detail": "Democrat Abdul El-Sayed ne Republican Mike Rogers ko harakar Michigan se Senate seat jeeti; ve America ke pehle Muslim Senator banenge.",
+  "category": "World",
+  "exam_angle": "America ki chunav vyavastha: International exams ke liye — Senate chunav aur aitihasik pehchan.",
+  "source": "The Hindu",
+  "source_url": "https://www.thehindu.com/news/international/who-is-abdul-el-sayed-first-muslim-us-senator-elect-united-states-us-midterm-elections-2026/article71664610.ece",
+  "genuineness": "verified",
+  "outlets": [
+   "The Hindu",
+   "Al Jazeera",
+   "Reuters",
+   "USA Today",
+   "Haaretz"
+  ],
+  "image": null,
+  "image_credit": null
+ },
+ {
+  "id": "world-20261105-0722-02",
+  "published_ist": "2026-11-04T13:06:00+05:30",
+  "headline": "Muji: 10.9 lakh card number leak ho sakte",
+  "detail": "Japan ki Muji operator Ryohin Keikaku ne kaha lagbhag 1.09 million MUJI Card record, jinme card number shamil hain, leak ho sakte hain; lagbhag 345,000 card abhi valid hain.",
+  "category": "World",
+  "exam_angle": "Cyber suraksha aur data sanrakshan: International exams ke liye — Japan me bada data leak.",
+  "source": "The Straits Times",
+  "source_url": "https://www.straitstimes.com/asia/east-asia/credit-card-numbers-may-have-leaked-in-cyberattack-on-japans-muji?ref=latest-headlines",
+  "genuineness": "verified",
+  "outlets": [
+   "The Straits Times",
+   "MLex",
+   "TBS News"
+  ],
+  "image": null,
+  "image_credit": null
+ },
+ {
+  "id": "world-20261105-0822-01",
+  "published_ist": "2026-11-05T02:00:00+05:30",
+  "headline": "Ukraine-Russia-America: Abu Dhabi me 10-11 Nov baatchit",
+  "detail": "Zelenskyy ne Witkoff aur Kushner se 90 minute baat ki; team-level trilateral baatchit Abu Dhabi me 10-11 November ko hogi, suraksha guarantee aur hawai raksha par charcha hui.",
+  "category": "World",
+  "exam_angle": "Ukraine yuddh: shanti vaarta aur suraksha guarantee — antarrashtriya sambandh ke liye mahatvapurna.",
+  "source": "Ukrinform",
+  "source_url": "https://www.ukrinform.net/rubric-polytics/4181550-zelensky-speaks-with-witkoff-kushner-ahead-of-trilateral-meeting-in-abu-dhabi.html",
+  "genuineness": "verified",
+  "outlets": [
+   "Ukrinform",
+   "Kyiv Independent",
+   "Kyiv Post",
+   "LIGA.net",
+   "UATV",
+   "Reuters"
+  ],
+  "image": null,
+  "image_credit": null
+ },
+ {
+  "id": "world-20261105-0822-02",
+  "published_ist": "2026-11-04T22:06:00+05:30",
+  "headline": "Bangladesh: December se garment mazdooron ka naya vetan",
+  "detail": "Naye wage board ne December se sanshodhit vetan dhancha lagu karne par sahamati di; pehli badhi hui salary January me milegi, lekin vetan ka aakar abhi tay nahi hua.",
+  "category": "World",
+  "exam_angle": "Bangladesh: vastr udyog aur shramik vetan — padosi desh ki arthvyavastha ke liye.",
+  "source": "The Hindu",
+  "source_url": "https://www.thehindu.com/news/international/bangladesh-agrees-new-garment-pay-scale-from-december-amid-protests/article71667080.ece",
+  "genuineness": "verified",
+  "outlets": [
+   "Reuters",
+   "The Hindu",
+   "Financial Express",
+   "Daily New Nation"
+  ],
+  "image": null,
+  "image_credit": null
+ },
+ {
+  "id": "world-20261105-0822-03",
+  "published_ist": "2026-11-04T14:21:00+05:30",
+  "headline": "Thailand ke mantri 12 Nov ko Myanmar jayenge",
+  "detail": "Videsh mantri Sihasak Phuangketkeow 12 November ko Myanmar jayenge; seema par jhadap aur ASEAN shikhar sammelan se pehle Myanmar ka rukh janenge.",
+  "category": "World",
+  "exam_angle": "ASEAN: Myanmar sankat aur seema suraksha — dakshin-poorv Asia ke liye.",
+  "source": "DVB",
+  "source_url": "https://english.dvb.no/thai-foreign-minister-to-visit-myanmar-ahead-of-asean-summit-in-philippines/",
+  "genuineness": "verified",
+  "outlets": [
+   "Agence France-Presse",
+   "DVB",
+   "Thai Newsroom"
+  ],
+  "image": null,
+  "image_credit": null
+ },
+ {
+  "id": "world-20261105-0922-01",
+  "published_ist": "2026-11-05T03:33:00+05:30",
+  "headline": "Myanmar Rohingya case: ICJ faisla 19 Nov ko",
+  "detail": "ICJ ne kaha Gambia ke case me Myanmar ke khilaf antim faisla 19 November ko The Hague me sunaya jayega; Myanmar ne aaropon se inkaar kiya hai.",
+  "category": "World",
+  "exam_angle": "ICJ aur antarrashtriya kanoon: International exams ke liye — Rohingya case aur Genocide Convention.",
+  "source": "DVB",
+  "source_url": "https://english.dvb.no/icj-to-rule-on-myanmar-genocide-case-migrant-leader-to-file-complaint-over-assault-at-protest-in-thailand/",
+  "genuineness": "verified",
+  "outlets": [
+   "Reuters",
+   "Anadolu Agency",
+   "DVB"
+  ],
+  "image": null,
+  "image_credit": null
+ },
+ {
+  "id": "world-20261105-0922-02",
+  "published_ist": "2026-11-04T21:49:00+05:30",
+  "headline": "Congo se Ebola patient UK bheja jayega",
+  "detail": "Congo me Ebola positive paye gaye British healthcare worker ko specialist ilaaj ke liye UK bheja ja raha hai; sarkar ne kaha janata ko khatra kam hai.",
+  "category": "World",
+  "exam_angle": "Ebola aur global health suraksha: International exams ke liye — sankramak rog aur medical evacuation.",
+  "source": "Reuters",
+  "source_url": "https://www.reuters.com/business/healthcare-pharmaceuticals/british-healthcare-worker-with-ebola-be-evacuated-congo-uk-document-shows-2026-11-04/",
+  "genuineness": "corroborated",
+  "outlets": [
+   "Reuters",
+   "Sky News"
+  ],
+  "image": null,
+  "image_credit": null
+ },
+ {
+  "id": "world-20261105-1022-01",
+  "published_ist": "2026-11-05T09:07:00+05:30",
+  "headline": "Hong Kong: Joshua Wong ko 10 saal aur",
+  "detail": "Hong Kong High Court ne Joshua Wong ko videshi taaqaton se milne ke aarop me 10 saal ki saza sunayi; ve January me riha hone wale the.",
+  "category": "World",
+  "exam_angle": "Hong Kong aur rashtriya suraksha kanoon: International exams ke liye — loktantra andolan aur videshi pratibandh aarop.",
+  "source": "The Straits Times",
+  "source_url": "https://www.straitstimes.com/asia/east-asia/hong-kong-activist-joshua-wong-sentenced-to-10-more-years",
+  "genuineness": "verified",
+  "outlets": [
+   "The Straits Times",
+   "CNN",
+   "The Wall Street Journal",
+   "Human Rights Watch"
+  ],
+  "image": null,
+  "image_credit": null
+ },
+ {
+  "id": "world-20261105-1022-02",
+  "published_ist": "2026-11-05T08:25:00+05:30",
+  "headline": "South Korea: Hormuz ke paas mission badhega",
+  "detail": "South Korea ne Cheonghae unit ka mission Gulf of Aden se Oman ke dakshin tak badhane ka faisla kiya; P-8A vimaan aur mine-clearing team bhi jodegi, sansad ki manzoori baaki hai.",
+  "category": "World",
+  "exam_angle": "Hormuz Strait aur samudri suraksha: International exams ke liye — tel marg aur antarrashtriya nauvahan.",
+  "source": "The Korea Herald",
+  "source_url": "https://m.koreaherald.com/article/10926571",
+  "genuineness": "verified",
+  "outlets": [
+   "The Korea Herald",
+   "The Korea Times",
+   "Seoul Economic Daily"
+  ],
+  "image": null,
+  "image_credit": null
+ },
+ {
+  "id": "world-20261105-1122-01",
+  "published_ist": "2026-11-05T06:25:00+05:30",
+  "headline": "California: Arabpati tax haar ki taraf",
+  "detail": "California me Proposition 40, jo lagbhag 200 arabpatiyon par ek baar 5% tax lagata, lagbhag 60% vote ginne par 55.6% 'No' ke saath haar ki taraf hai; natija abhi aadhikarik roop se ghoshit nahi hua.",
+  "category": "World",
+  "exam_angle": "America ki chunav vyavastha: International exams ke liye — ballot proposal aur wealth tax.",
+  "source": "Malay Mail",
+  "source_url": "https://www.malaymail.com/news/world/2026/11/05/california-billionaire-wealth-tax-proposal-appears-headed-for-defeat-as-voters-reject-one-off-levy/242012",
+  "genuineness": "verified",
+  "outlets": [
+   "AFP",
+   "Inc.",
+   "Tax Foundation",
+   "Associated Press"
+  ],
+  "image": null,
+  "image_credit": null
+ },
+ {
+  "id": "world-20261105-1122-02",
+  "published_ist": "2026-11-05T01:19:00+05:30",
+  "headline": "America ne Iran tel network par pratibandh lagaya",
+  "detail": "America ke Treasury ne 4 November ko Chandigarh ke Suniel Kumar Sharma aur Jaspreet Preeti Shahid par pratibandh lagaya, jinka aarop hai ki unhone Iranian tel le jaane wale jahazon ko nakli jhanda aur certificate diye; Turkiye ki ek company par bhi pratibandh laga.",
+  "category": "World",
+  "exam_angle": "Pratibandh aur shadow fleet: International exams ke liye — Iran tel pratibandh aur samudri dhokhadhadi.",
+  "source": "Times Now",
+  "source_url": "https://www.timesnownews.com/world/us-sanctions-indian-couple-and-their-companies-for-allegedly-helping-irans-oil-fleet-article-156466584",
+  "genuineness": "verified",
+  "outlets": [
+   "Times Now",
+   "Financial Express",
+   "The Hindu BusinessLine",
+   "The New Indian Express",
+   "Business Today"
+  ],
+  "image": null,
+  "image_credit": null
+ },
+ {
+  "id": "world-20261105-1222-01",
+  "published_ist": "2026-11-05T05:56:33+05:30",
+  "headline": "Democrat ne Congress ke dono sadan jeete",
+  "detail": "Democrat ne House me 235 seat jeetkar aur Senate me saat seat palatkar Congress ke dono sadan par kabza kar liya; Trump ko ab vibhajit sarkar me kaam karna hoga.",
+  "category": "World",
+  "exam_angle": "America ki chunav vyavastha: International exams ke liye — midterm chunav aur vibhajit sarkar.",
+  "source": "Reuters",
+  "source_url": "https://www.reuters.com/world/us/seven-numbers-that-explain-democrats-us-midterm-rout-2026-11-04/",
+  "genuineness": "verified",
+  "outlets": [
+   "Associated Press",
+   "Reuters",
+   "Le Monde",
+   "FirstPost",
+   "The Indian Express"
+  ],
+  "image": "../images/world/world-20261105-1222-01.jpg",
+  "image_credit": "Martin Falbisoner / CC BY-SA 3.0"
+ },
+ {
+  "id": "world-20261105-1222-02",
+  "published_ist": "2026-11-04T23:45:30+05:30",
+  "headline": "Trump: Iran yuddh ne haraya, phir bhi karunga",
+  "detail": "Trump ne mana Iran yuddh ne petrol mehenga karke Republican ko midterm me haraya, lekin kaha Iran ko parmanu hathiyar se rokna zaroori tha aur woh phir bhi wahi karte.",
+  "category": "World",
+  "exam_angle": "America-Iran sambandh: International exams ke liye — yuddh aur chunav par asar.",
+  "source": "The Economic Times",
+  "source_url": "https://economictimes.indiatimes.com/news/international/world-news/trump-admits-iran-war-hurt-republicans-in-midterms-but-says-iran-thing-had-to-be-done/articleshow/135549452.cms",
+  "genuineness": "verified",
+  "outlets": [
+   "The Economic Times",
+   "NDTV",
+   "Arab News",
+   "Rediff",
+   "India TV"
+  ],
+  "image": "../images/world/world-20261105-1222-02.jpg",
+  "image_credit": "The White House / Public domain"
+ },
+ {
+  "id": "world-20261105-1222-03",
+  "published_ist": "2026-11-05T03:47:12+05:30",
+  "headline": "Bavaria neta Aiwanger Berlin hotel me mrit mile",
+  "detail": "Bavaria ke up-pradhan aur arth mantri Hubert Aiwanger, 55, Berlin ke hotel kamre me mrit mile; police ne jaanch shuru ki, maut ka karan abhi saaf nahi hai.",
+  "category": "World",
+  "exam_angle": "Germany ki rajneeti: International exams ke liye — rajya sarkar aur neta.",
+  "source": "Malay Mail",
+  "source_url": "https://www.malaymail.com/news/world/2026/11/05/german-politician-hubert-aiwanger-found-dead-in-berlin-hotel-police-launch-investigation/242015",
+  "genuineness": "verified",
+  "outlets": [
+   "Reuters",
+   "Agence France-Presse",
+   "Bild",
+   "The Berlin Spectator"
+  ],
+  "image": "../images/world/world-20261105-1222-03.jpg",
+  "image_credit": "Superbass / CC BY-SA 4.0"
+ },
+ {
+  "id": "world-20261105-1322-01",
+  "published_ist": "2026-11-05T12:00:12+05:30",
+  "headline": "Armenia: Vipaksh ne ekjut hone ka elaan kiya",
+  "detail": "Armenia ke vipakshi dalon ne 'rashtriya ekjutata' banane ka elaan kiya; naya samvidhan kharij karna aur bina ektarfa samjhote ke shanti unki prathamikta hai.",
+  "category": "World",
+  "exam_angle": "Armenia aur Dakshin Caucasus: International exams ke liye — samvidhan, shanti aur vipaksh.",
+  "source": "1news.az",
+  "source_url": "https://1news.az/en/news/20261105103012198-Armenian-opposition-announces-formation-of-nationwide-consolidation",
+  "genuineness": "corroborated",
+  "outlets": [
+   "Sputnik Armenia",
+   "Izvestia"
+  ],
+  "image": "../images/world/world-20261105-1322-01.jpg",
+  "image_credit": "Benoît Prieur / CC0"
+ },
+ {
+  "id": "world-20261105-1322-02",
+  "published_ist": "2026-11-05T11:01:00+05:30",
+  "headline": "Japan: Docomo network desh bhar thapp",
+  "detail": "NTT Docomo ne kaha subah 11:18 baje se pure Japan me call, data aur SMS mushkil ho gaye; isse pehle online shop aur My docomo bhi band kiye gaye kyunki server me ghuspaith ka shak hai.",
+  "category": "World",
+  "exam_angle": "Japan ki telecom suraksha: International exams ke liye — cyber hamla aur aavashyak seva par asar.",
+  "source": "Kyodo News",
+  "source_url": "https://english.kyodonews.net/articles/-/90436",
+  "genuineness": "verified",
+  "outlets": [
+   "Kyodo News",
+   "CGTN",
+   "TV Asahi"
+  ],
+  "image": null,
+  "image_credit": null
+ },
+ {
+  "id": "world-20261105-1322-03",
+  "published_ist": "2026-11-05T01:35:00+05:30",
+  "headline": "Japan: Shodo ko UNESCO virasat ki sifarish",
+  "detail": "UNESCO ki salahkar sanstha ne Japan ki shodo kala ko Amurt Sanskritik Virasat suchi me shamil karne ki sifarish ki; antim faisla December me hoga.",
+  "category": "World",
+  "exam_angle": "UNESCO Amurt Sanskritik Virasat: International exams ke liye — Japan ki 24th entry ho sakti hai.",
+  "source": "The Japan Times",
+  "source_url": "https://www.japantimes.co.jp/news/2026/11/05/japan/society/calligraphy-unesco-list/",
+  "genuineness": "corroborated",
+  "outlets": [
+   "The Japan Times",
+   "Kyodo News"
+  ],
+  "image": "../images/world/world-20261105-1322-03.jpg",
+  "image_credit": "Ayu Nabila / CC BY-SA 4.0"
+ },
+ {
+  "id": "world-20261105-1422-01",
+  "published_ist": "2026-11-05T13:02:00+05:30",
+  "headline": "Hormuz me do tanker, tugboat me aag",
+  "detail": "IRGC ne kaha do tel tanker aur ek tugboat Hormuz Strait me aag ki chapet me aaye; ek tanker 'gair-kanuni' raste par mine se takraya, jabki doosra supertanker aag me ghir gaya.",
+  "category": "World",
+  "exam_angle": "Hormuz Strait aur tel marg: International exams ke liye — samudri suraksha aur vishwa tel vyapaar.",
+  "source": "Reuters",
+  "source_url": "https://www.reuters.com/world/middle-east/irans-irgc-says-two-tankers-tugboat-caught-fire-strait-hormuz-2026-11-05/",
+  "genuineness": "verified",
+  "outlets": [
+   "Reuters",
+   "Al Jazeera",
+   "Agence France-Presse",
+   "The Jerusalem Post"
+  ],
+  "image": "../images/world/world-20261105-1422-01.jpg",
+  "image_credit": "NASA / Public domain"
+ },
+ {
+  "id": "world-20261105-1422-02",
+  "published_ist": "2026-11-04T18:09:00+05:30",
+  "headline": "NASA ka Swift telescope 22 saal baad gira",
+  "detail": "NASA ka Neil Gehrels Swift Observatory 4 November ko Indonesia ke uttar Sumatra ke upar vayumandal me jal gaya; 2004 me launch hua telescope gamma-ray burst par shodh karta tha, zameen par koi nuksan nahi hua.",
+  "category": "World",
+  "exam_angle": "Antariksh aur vigyan: International exams ke liye — NASA mission aur punah-pravesh.",
+  "source": "Reuters",
+  "source_url": "https://www.reuters.com/science/nasas-22-year-old-swift-satellite-telescope-falls-orbit-fiery-finale-2026-11-04/",
+  "genuineness": "verified",
+  "outlets": [
+   "Reuters",
+   "Associated Press",
+   "Times of India"
+  ],
+  "image": null,
+  "image_credit": null
+ },
+ {
+  "id": "world-20261105-1422-03",
+  "published_ist": "2026-11-05T10:23:00+05:30",
+  "headline": "Nithya Raman LA ki pehli Asian-American mayor",
+  "detail": "Kerala me janmi Nithya Raman ne Los Angeles mayoral chunav me incumbent Karen Bass ko 51.67% vote se haraya; ve shahar ki pehli Asian-American mayor banengi.",
+  "category": "World",
+  "exam_angle": "America ki chunav vyavastha: International exams ke liye — Bharatiya mool ki pehli LA mayor.",
+  "source": "Mathrubhumi",
+  "source_url": "https://english.mathrubhumi.com/news/world/kerala-born-nithya-raman-wins-los-angeles-mayoral-election-n33duw6u",
+  "genuineness": "verified",
+  "outlets": [
+   "Mathrubhumi",
+   "Times of India",
+   "WION",
+   "Indian Express"
+  ],
+  "image": "../images/world/world-20261105-1422-03.jpg",
+  "image_credit": "Nithya Raman / Public domain"
+ },
+ {
+  "id": "world-20261105-1522-01",
+  "published_ist": "2026-11-04T07:55:00+05:30",
+  "headline": "Bottoms: America ki pehli Black mahila governor",
+  "detail": "Democrat Keisha Lance Bottoms ne Georgia me Republican Rick Jackson ko harakar America ki pehli Black mahila governor banne ka itihaas racha; ve 1998 ke baad Georgia ki pehli Democrat governor bhi hain.",
+  "category": "World",
+  "exam_angle": "America ki chunav vyavastha: International exams ke liye — pehli Black mahila governor aur Georgia chunav.",
+  "source": "Al Jazeera",
+  "source_url": "https://www.aljazeera.com/amp/news/2026/11/4/keisha-lance-bottoms-makes-us-history-as-first-black-woman-elected-governor",
+  "genuineness": "verified",
+  "outlets": [
+   "Associated Press",
+   "USA Today",
+   "Al Jazeera",
+   "NDTV"
+  ],
+  "image": "../images/world/world-20261105-1522-01.jpg",
+  "image_credit": "Sikis2021 / CC0"
+ },
+ {
+  "id": "world-20261105-1522-02",
+  "published_ist": "2026-11-05T12:35:00+05:30",
+  "headline": "France: Desh bhar hadtaal, 70,000 police tainat",
+  "detail": "France me mazdoor sanghon ki desh-vyapi hadtaal aur pradarshan aaj hue; sarkar ne 70,000 police tainat kiye aur 5–7 lakh logon ke sadkon par utarne ka anumaan hai.",
+  "category": "World",
+  "exam_angle": "France aur mazdoor andolan: International exams ke liye — hadtaal, jeevan-yapan aur sarkar.",
+  "source": "Channel NewsAsia",
+  "source_url": "https://www.channelnewsasia.com/world/france-demonstrations-trade-unions-strike-6526711",
+  "genuineness": "verified",
+  "outlets": [
+   "Reuters",
+   "Agence France-Presse",
+   "The New York Times"
+  ],
+  "image": null,
+  "image_credit": null
+ },
+ {
+  "id": "world-20261105-1522-03",
+  "published_ist": "2026-11-05T12:00:00+05:30",
+  "headline": "France: Blood bank par cyber hamla",
+  "detail": "France ke teen kshetriya blood bank me cyber hamle se khoon rakhne wale fridge ki nigrani vyavastha prabhavit hui; adhikariyon ne kaha khoon ki aapurti par koi asar nahi pada.",
+  "category": "World",
+  "exam_angle": "Cyber suraksha aur swasthya seva: International exams ke liye — mahatvapurna buniyadi dhanche par hamla.",
+  "source": "The Business Standard",
+  "source_url": "https://www.tbsnews.net/worldbiz/europe/french-blood-banks-hit-cyberattack-alongside-european-supermarkets-1593416",
+  "genuineness": "corroborated",
+  "outlets": [
+   "Associated Press",
+   "Reuters"
+  ],
+  "image": null,
+  "image_credit": null
+ },
+ {
+  "id": "world-20261105-1622-01",
+  "published_ist": "2026-11-05T07:16:00+05:30",
+  "headline": "Uttar Korea: Nayi missile ka parikshan, drill bhi",
+  "detail": "Uttar Korea ne Budhvar ko nayi air defence missile ka parikshan kiya aur lambi doori ki cruise missile se ek nakli hawai adde par hamle ki drill bhi ki; Dakshin Korea ki sena ne Sondok se samudra ki taraf kai missile chhode jaane ki pushti ki hai.",
+  "category": "World",
+  "exam_angle": "Uttar Korea aur missile parikshan: International exams ke liye — suraksha parishad pratibandh aur kshetriya tanaav.",
+  "source": "Yonhap News Agency",
+  "source_url": "https://en.yna.co.kr/view/AEN20261105000651315?section=nk/nk",
+  "genuineness": "verified",
+  "outlets": [
+   "Yonhap News Agency",
+   "Reuters",
+   "Kyodo News"
+  ],
+  "image": "../images/world/world-20261105-1622-01.jpg",
+  "image_credit": "Yonhap News Agency"
+ },
+ {
+  "id": "world-20261105-1622-02",
+  "published_ist": "2026-11-05T02:07:00+05:30",
+  "headline": "Schumer: Democrat Iran yuddh khatm karenge",
+  "detail": "Senate ke Democrat neta Chuck Schumer ne kaha unki party Iran yuddh khatm karegi aur Congress ke kharch par niyantran ka istemal karke Trump par dabav banayegi; kuch Republican bhi is prayas me saath hain.",
+  "category": "World",
+  "exam_angle": "America ki yuddh shaktiyan: International exams ke liye — Congress ka 'power of the purse' aur yuddh ghoshna.",
+  "source": "TRT World",
+  "source_url": "https://www.trtworld.com/article/5070075db81c/amp",
+  "genuineness": "verified",
+  "outlets": [
+   "TRT World",
+   "Al Jazeera",
+   "Gulf News",
+   "The Tribune"
+  ],
+  "image": null,
+  "image_credit": null
+ },
+ {
+  "id": "world-20261105-1622-03",
+  "published_ist": "2026-11-05T00:52:00+05:30",
+  "headline": "WHO: Ebola ki do nayi vaccine ka trial",
+  "detail": "WHO ne Congo me Bundibugyo Ebola ke khilaf Oxford-Serum Institute aur Moderna ki do nayi vaccine ke clinical trial ko manzoori di; is prakop me 5,300 se zyada logon ki maut ho chuki hai.",
+  "category": "World",
+  "exam_angle": "Ebola aur vaccine trial: International exams ke liye — WHO, Bundibugyo strain aur swasthya sankat.",
+  "source": "Al Jazeera",
+  "source_url": "https://www.aljazeera.com/news/2026/11/4/who-approves-trials-for-two-new-ebola-vaccines",
+  "genuineness": "verified",
+  "outlets": [
+   "Al Jazeera",
+   "World Health Organization",
+   "Anadolu Agency"
+  ],
+  "image": "../images/world/world-20261105-1622-03.jpg",
+  "image_credit": "Al Jazeera"
+ },
+ {
+  "id": "world-20261105-1622-04",
+  "published_ist": "2026-11-04T16:07:00+05:30",
+  "headline": "Israel: Chunav nateeje pramanit, sarkar par baatchit",
+  "detail": "Israel ke chunav aayog ne dhokhadhadi ka koi saboot na milne par 27 October ke chunav nateeje pramanit kar diye; Rashtrapati Herzog ne sarkar banane ke liye dalon se baatchit shuru ki — Netanyahu ke gathbandhan ko 53 aur Eisenkot ke vipaksh ko 48 seatein mili hain.",
+  "category": "World",
+  "exam_angle": "Israel ki sansadiya vyavastha: International exams ke liye — chunav, gathbandhan aur rashtrapati ki bhoomika.",
+  "source": "Al Jazeera",
+  "source_url": "https://www.aljazeera.com/news/2026/11/4/israel-vote-results-confirmed-as-election-commission-rejects-fraud-claims",
+  "genuineness": "verified",
+  "outlets": [
+   "Al Jazeera",
+   "The Hindu",
+   "Associated Press",
+   "The Jerusalem Post"
+  ],
+  "image": null,
+  "image_credit": null
+ },
+ {
+  "id": "world-20261105-1722-01",
+  "published_ist": "2026-11-05T16:27:00+05:30",
+  "headline": "Ronaldo ne international football se sannyas liya",
+  "detail": "Portugal ke 41 saal ke star ne video message me kaha, woh November break ke baad No. 7 shirt wapas karenge; 234 match me 146 goal ka record banaya.",
+  "category": "World",
+  "exam_angle": "Khel GK: Purush international football me sabse zyada goal (146) aur match (234) ka record.",
+  "source": "Al Jazeera",
+  "source_url": "https://www.aljazeera.com/sports/2026/11/5/cristiano-ronaldo-announces-retirement-from-international-football",
+  "genuineness": "verified",
+  "outlets": [
+   "Al Jazeera",
+   "CNN",
+   "Sky Sports",
+   "Associated Press"
+  ],
+  "image": "../images/world/world-20261105-1722-01.jpg",
+  "image_credit": "Ludovic Péron / CC BY-SA 3.0"
+ },
+ {
+  "id": "world-20261105-1722-02",
+  "published_ist": "2026-11-05T06:54:00+05:30",
+  "headline": "Riyadh airport hamle me marne wale 14 hue",
+  "detail": "Bharatiya dutawas ne kaha 10 October ke hamle me gambhir ghayal doosre Bharatiya nagrik ki ICU me maut ho gayi; kul mrityu sankhya 14 ho gayi.",
+  "category": "World",
+  "exam_angle": "Houthi-Saudi sangharsh aur Khadi suraksha: West Asia ke liye exam angle.",
+  "source": "NDTV",
+  "source_url": "https://www.ndtv.com/world-news/second-indian-national-injured-in-october-10-riyadh-airport-attack-dies-12283407/amp/1",
+  "genuineness": "verified",
+  "outlets": [
+   "NDTV",
+   "Times Now World",
+   "EconoTimes",
+   "The Daily Jagran"
+  ],
+  "image": null,
+  "image_credit": null
+ },
+ {
+  "id": "world-20261105-1722-03",
+  "published_ist": "2026-11-05T04:50:00+05:30",
+  "headline": "Qatar ke paas tanker par do projectile hamle",
+  "detail": "UKMTO ne kaha Madinat ash Shamal se 50 nautical mile door tanker par do agyaat projectile lage; crew ki haalat aur nuksan abhi pata nahi.",
+  "category": "World",
+  "exam_angle": "Khadi me samudri suraksha aur tel marg: International exams ke liye mahatvapurna.",
+  "source": "Al Jazeera",
+  "source_url": "https://www.aljazeera.com/amp/news/liveblog/2026/11/5/iran-war-live-trump-admits-war-caused-election-loss-but-had-to-do-it",
+  "genuineness": "verified",
+  "outlets": [
+   "Associated Press",
+   "Al Jazeera",
+   "The Telegraph"
+  ],
+  "image": null,
+  "image_credit": null
+ },
+ {
+  "id": "world-20261105-1822-01",
+  "published_ist": "2026-11-04T12:00:00+05:30",
+  "headline": "Ethiopia ne Sudan ke 6 rajnayik nikale",
+  "detail": "Ethiopia ne Sudan ke Assosa vanijya dutawas ke chhah karmiyon ko 48 ghante me desh chhodne ko kaha; dono desh ek-doosre par sashastr guton ko samarthan dene ka aarop lagate hain.",
+  "category": "World",
+  "exam_angle": "Horn of Africa aur kootneeti: International exams ke liye — Sudan grih yuddh aur kshetriya tanaav.",
+  "source": "Reuters",
+  "source_url": "https://www.reuters.com/world/africa/ethiopia-expels-sudanese-diplomats-after-fresh-allegations-support-rsf-2026-11-04/",
+  "genuineness": "verified",
+  "outlets": [
+   "Reuters",
+   "BusinessDay",
+   "The Eastleigh Voice"
+  ],
+  "image": null,
+  "image_credit": null
+ },
+ {
+  "id": "world-20261105-1925-01",
+  "published_ist": "2026-11-05T16:28:00+05:30",
+  "headline": "Europe me bomb dhamki: kai udanein divert",
+  "detail": "Dublin se Rome ja rahi Aer Lingus flight ko bomb ki dhamki par France ke sainya adde Evreux par utara gaya; 151 yatri aur 6 crew surakshit hain, aur Sofia jaane wali teen Ryanair udanein bhi divert hui.",
+  "category": "World",
+  "exam_angle": "Europe me nagrik uddayan suraksha aur dhamkiyon se niptne ki taiyari — antarrashtriya suraksha ke liye mahatvapurna.",
+  "source": "The Tribune",
+  "source_url": "https://www.tribuneindia.com/news/world/dublin-rome-flight-diverted-to-french-airbase-as-bomb-threat-wave-hits-european-aviation/amp/",
+  "genuineness": "verified",
+  "outlets": [
+   "The Tribune",
+   "The Times",
+   "Republic World",
+   "Euronews"
+  ],
+  "image": "../images/world/world-20261105-1925-01.jpg",
+  "image_credit": "DaHuzyBru / CC BY-SA 4.0"
+ },
+ {
+  "id": "world-20261105-1925-02",
+  "published_ist": "2026-11-05T08:37:00+05:30",
+  "headline": "Dow 1,569 ank chadha, Brent tel 8.7% gira",
+  "detail": "Midterm me Democrat jeet ke baad Dow 1,569 ank (3%) chadhkar 53,356 par band hua, jabki Brent crude 8.7% girkar $94.62 prati barrel par aa gaya — Iran yuddh khatm hone ki ummeed se.",
+  "category": "World",
+  "exam_angle": "Bazaar aur tel: America ke chunav aur Iran yuddh ka vaishvik arthvyavastha par asar.",
+  "source": "Gulf News",
+  "source_url": "https://gulfnews.com/business/markets/wall-street-roars-dow-rockets-1500-points-as-democrats-sweep-congress-1.500736418",
+  "genuineness": "verified",
+  "outlets": [
+   "Associated Press",
+   "Gulf News",
+   "Reuters"
+  ],
+  "image": null,
+  "image_credit": null
+ },
+ {
+  "id": "world-20261105-1925-03",
+  "published_ist": "2026-11-05T07:01:00+05:30",
+  "headline": "Indonesia: Rashtrapati ke phone tap karne par barkhast",
+  "detail": "Rashtrapati Prabowo ne apne chief of staff Listyo Sigit Prabowo ko barkhast kar diya; unpar Rashtrapati, mantriyon aur patrakaron ke phone tap karne ka aarop hai, sarkar ne ise deshdroh jaisa bataya.",
+  "category": "World",
+  "exam_angle": "Indonesia: gair-kanuni nigrani aur deshdroh — dakshin-poorv Asia ki rajneeti ke liye.",
+  "source": "Dawn",
+  "source_url": "https://www.dawn.com/news/2042249/indonesian-president-sacks-aide-accused-of-wiretapping",
+  "genuineness": "verified",
+  "outlets": [
+   "Al Jazeera",
+   "South China Morning Post",
+   "The Manila Times",
+   "Dawn"
+  ],
+  "image": null,
+  "image_credit": null
+ },
+ {
+  "id": "world-20261105-1925-04",
+  "published_ist": "2026-11-04T21:55:00+05:30",
+  "headline": "Johnson ne House Republican neta pad chhoda",
+  "detail": "Midterm me Republican haar ke agle din Speaker Mike Johnson ne kaha woh naye Congress me Republican neta ka pad nahi ladenge; woh saansad bane rahenge, aur Scalise aur Jordan daud me hain.",
+  "category": "World",
+  "exam_angle": "America: midterm chunav ke baad Congress me satta badlav aur netritva parivartan.",
+  "source": "USA Today",
+  "source_url": "https://www.usatoday.com/story/news/politics/2026/11/04/house-speaker-mike-johnson-gop-leadership/92609302007/",
+  "genuineness": "verified",
+  "outlets": [
+   "USA Today",
+   "Associated Press",
+   "New York Post"
+  ],
+  "image": "../images/world/world-20261105-1925-04.jpg",
+  "image_credit": "United States Congress / Public domain"
+ },
+ {
+  "id": "world-20261105-1925-05",
+  "published_ist": "2026-11-04T19:52:00+05:30",
+  "headline": "Montenegro 2028 me EU sadasya ban sakta",
+  "detail": "European Commission ki saalana report me kaha gaya Montenegro 2028 me EU ka 28va sadasya ban sakta hai, jabki Albania aur Moldova 2029 me shamil ho sakte hain.",
+  "category": "World",
+  "exam_angle": "EU vistar: Montenegro, Albania, Moldova — Europe aur antarrashtriya sangathan ke liye.",
+  "source": "Glasgow Times",
+  "source_url": "https://www.glasgowtimes.co.uk/news/national/26699047.fresh-membership-talks-hope-serbia-eu-says-countries-join-soon/",
+  "genuineness": "verified",
+  "outlets": [
+   "Glasgow Times",
+   "Deutsche Welle",
+   "Tagesschau"
+  ],
+  "image": "../images/world/world-20261105-1925-05.jpg",
+  "image_credit": "EC Audiovisual Service / CC BY 4.0"
+ },
+ {
+  "id": "world-20261105-2022-01",
+  "published_ist": "2026-11-05T20:02:00+05:30",
+  "headline": "Russell Brand balatkar case me doshi",
+  "detail": "London ki Southwark Crown Court ne comedian Russell Brand ko ek balatkar aur teen yaun hamlo ka doshi paya; saza 9 November ko sunayi jayegi.",
+  "category": "World",
+  "exam_angle": null,
+  "source": "Reuters",
+  "source_url": "https://www.reuters.com/world/comedian-russell-brand-found-guilty-rape-2026-11-05/",
+  "genuineness": "verified",
+  "outlets": [
+   "Reuters",
+   "USA Today",
+   "The Times"
+  ],
+  "image": "../images/world/world-20261105-2022-01.jpg",
+  "image_credit": "Eva Rinaldi / CC BY-SA 2.0"
+ },
+ {
+  "id": "world-20261105-2022-02",
+  "published_ist": "2026-11-05T17:34:00+05:30",
+  "headline": "Amman me chaku hamla, suraksha adhikari ki maut",
+  "detail": "Jordan ki rajdhani Amman me Sri Lanka dutavas ke paas ek hamlaawar ne suraksha adhikari par chaku se hamla kar diya; ek adhikari ki maut ho gayi, ek ghayal hai aur hamlaawar giraftar hai.",
+  "category": "World",
+  "exam_angle": "Jordan me suraksha sthiti aur West Asia me tanav — antarrashtriya sambandh ke liye mahatvapurna.",
+  "source": "Reuters",
+  "source_url": "https://www.reuters.com/world/middle-east/jordanian-officer-killed-amman-stabbing-suspect-arrested-state-media-says-2026-11-05/",
+  "genuineness": "verified",
+  "outlets": [
+   "Reuters",
+   "Al Jazeera",
+   "Ynet"
+  ],
+  "image": null,
+  "image_credit": null
+ },
+ {
+  "id": "world-20261105-2022-03",
+  "published_ist": "2026-11-05T16:54:00+05:30",
+  "headline": "Taiwan: Panasonic factory me aag, 2 ki maut",
+  "detail": "Taiwan ke Hsinchu me Panasonic ki factory me lagi aag me do karmchariyon ki maut ho gayi aur paanch ghayal hue; aag ke kaaran ki jaanch chal rahi hai.",
+  "category": "World",
+  "exam_angle": "Taiwan ki electronics supply chain se judi factory — chip udyog ke liye mahatvapurna.",
+  "source": "Reuters",
+  "source_url": "https://www.reuters.com/world/asia-pacific/two-confirmed-dead-after-taiwan-panasonic-factory-fire-2026-11-05/",
+  "genuineness": "verified",
+  "outlets": [
+   "Reuters",
+   "Focus Taiwan",
+   "The Straits Times"
+  ],
+  "image": null,
+  "image_credit": null
+ },
+ {
+  "id": "world-20261105-2122-01",
+  "published_ist": "2026-11-05T17:17:00+05:30",
+  "headline": "France bank se €100 million cyber chori",
+  "detail": "France ke Credit Mutuel Arkea bank par cyber hamle me hackers ne lagbhag 100 million euro ki farzi len-den ki; grahakon ke khate surakshit rahe aur Paris prosecutor ne jaanch shuru kar di hai.",
+  "category": "World",
+  "exam_angle": "Banking cyber suraksha aur digital dhokhadhadi — banking exams ke liye mahatvapurna.",
+  "source": "Reuters",
+  "source_url": "https://www.reuters.com/legal/government/french-bank-credit-mutuel-arkea-says-100-million-missing-after-cyberattack-2026-11-05/",
+  "genuineness": "verified",
+  "outlets": [
+   "Reuters",
+   "AFP",
+   "Firstpost"
+  ],
+  "image": "../images/world/world-20261105-2122-01.jpg",
+  "image_credit": "FJaffres / CC BY-SA 4.0"
+ },
+ {
+  "id": "world-20261105-2122-02",
+  "published_ist": "2026-11-05T15:56:00+05:30",
+  "headline": "Hasina: December me Bangladesh lautungi",
+  "detail": "Bangladesh ki poorv pradhanmantri Sheikh Hasina ne AP ko bataya, maut ki saza ke bawjood December me Bangladesh lautne ka faisla nahi badla; giraftari ya maut ka khatra bhi sweekar hai.",
+  "category": "World",
+  "exam_angle": "Bangladesh ki rajneeti aur Bharat-Bangladesh sambandh — antarrashtriya sambandh ke liye mahatvapurna.",
+  "source": "Times of India",
+  "source_url": "https://timesofindia.indiatimes.com/india/if-death-is-my-destiny-sheikh-hasina-firm-on-returning-to-bangladesh-in-december/articleshow/135569022.cms",
+  "genuineness": "verified",
+  "outlets": [
+   "Associated Press",
+   "Times of India",
+   "Economic Times"
+  ],
+  "image": "../images/world/world-20261105-2122-02.jpg",
+  "image_credit": "Times of India"
+ },
+ {
+  "id": "world-20261105-2122-03",
+  "published_ist": "2026-11-05T15:45:00+05:30",
+  "headline": "Komyshuvakha hamle me marne wale 42 hue",
+  "detail": "Zaporizhzhia ke Komyshuvakha gaon me Somvar ko sahayata kendra par hue Russian hamle me marne walon ki sankhya 42 ho gayi; 33 log abhi bhi malbe ke neeche dabey hain aur bachav ka kaam jaari hai.",
+  "category": "World",
+  "exam_angle": "Russia-Ukraine yuddh aur nagrik suraksha — antarrashtriya sambandh ke liye mahatvapurna.",
+  "source": "Reuters",
+  "source_url": "https://www.reuters.com/world/europe/death-toll-russian-strike-ukrainian-aid-centre-reaches-42-police-say-2026-11-05/",
+  "genuineness": "corroborated",
+  "outlets": [
+   "Reuters",
+   "Just Security"
+  ],
+  "image": null,
+  "image_credit": null
+ },
+ {
+  "id": "world-20261105-2122-04",
+  "published_ist": "2026-11-05T15:18:00+05:30",
+  "headline": "Poland me Russia jasusi case me 4 giraftar",
+  "detail": "Poland ki suraksha agency ne Russia ko sainya purje bhejne ke aarop me chaar logon ko jasusi ke aarop me giraftar kiya; do aur logon par sangathit apradh ka aarop hai.",
+  "category": "World",
+  "exam_angle": "Europe me jasusi aur pratibandh — antarrashtriya suraksha ke liye mahatvapurna.",
+  "source": "Reuters",
+  "source_url": "https://www.reuters.com/world/poland-arrest-four-probe-into-military-supplies-sent-russia-2026-11-05/",
+  "genuineness": "verified",
+  "outlets": [
+   "Reuters",
+   "Deutsche Welle",
+   "Just Security"
+  ],
+  "image": null,
+  "image_credit": null
+ },
+ {
+  "id": "world-20261105-2224-01",
+  "published_ist": "2026-11-03T09:45:00+05:30",
+  "headline": "Everest ke paas helicopter takkar, 1 ki maut",
+  "detail": "Nepal ke Pheriche me Everest base camp ke paas landing ke dauraan do helicopter takra gaye; Chennai ke 47 saal ke paryatak Vasanth Kumar ki maut ho gayi aur 3 log ghayal hue.",
+  "category": "World",
+  "exam_angle": "Nepal me vimanan suraksha aur Bharat-Nepal sambandh — antarrashtriya sambandh ke liye mahatvapurna.",
+  "source": "The New Indian Express",
+  "source_url": "https://www.newindianexpress.com/world/2026/Nov/03/tn-man-killed-as-two-choppers-collide-near-mt-everest-base-camp-in-nepal-2?utm_source=website&utm_medium=related-stories",
+  "genuineness": "verified",
+  "outlets": [
+   "Times of India",
+   "The New Indian Express",
+   "The Telegraph"
+  ],
+  "image": null,
+  "image_credit": null
+ },
+ {
+  "id": "world-20261105-2224-02",
+  "published_ist": "2026-11-04T06:33:00+05:30",
+  "headline": "Spain mantri ka train hadse par istifa",
+  "detail": "Spain ke parivahan mantri Oscar Puente ne 69 logon ki jaan lene wale train hadse ke baad istifa de diya; saal bhar me yeh doosra bada rail hadsa hai.",
+  "category": "World",
+  "exam_angle": "Spain ki rail suraksha aur mantri ki jawabdehi — antarrashtriya rajneeti ke liye mahatvapurna.",
+  "source": "Al Jazeera",
+  "source_url": "https://www.aljazeera.com/amp/news/2026/11/4/spanish-transport-minister-resigns-after-train-crash-killed-69-people",
+  "genuineness": "verified",
+  "outlets": [
+   "Al Jazeera",
+   "CNN",
+   "The Hindu"
+  ],
+  "image": null,
+  "image_credit": null
+ },
+ {
+  "id": "world-20261105-2224-03",
+  "published_ist": "2026-11-04T16:36:00+05:30",
+  "headline": "Borneo me helicopter crash, ek ki maut",
+  "detail": "Indonesia ke sena helicopter ne Borneo ke paas samundar me aag bujhane ke dauraan crash kiya; ek ki maut hui, paanch ko bacha liya gaya.",
+  "category": "World",
+  "exam_angle": "Indonesia me aapda prabandhan aur jungle ki aag — paryavaran ke liye mahatvapurna.",
+  "source": "Malay Mail",
+  "source_url": "https://www.malaymail.com/news/world/2026/11/04/one-dead-five-rescued-after-indonesian-water-bombing-helicopter-crashes-near-orangutan-park-off-borneo/241993",
+  "genuineness": "corroborated",
+  "outlets": [
+   "AFP",
+   "Gulf News"
+  ],
+  "image": null,
+  "image_credit": null
+ },
+ {
+  "id": "world-20261105-2224-04",
+  "published_ist": "2026-11-03T07:54:00+05:30",
+  "headline": "Iran ka daava: 3 US drone giraye",
+  "detail": "Iran ke IRGC ne daava kiya ki Hormuz ke paas 3 American drone giraye gaye; America ne abhi tak iski pushti nahi ki hai.",
+  "category": "World",
+  "exam_angle": "Hormuz me tanav aur Bharat ki urja suraksha — antarrashtriya sambandh ke liye mahatvapurna.",
+  "source": "Economic Times",
+  "source_url": "https://economictimes.indiatimes.com/news/defence/3-us-drones-shot-down-near-strait-of-hormuz-irans-irgc/articleshow/135479113.cms",
+  "genuineness": "verified",
+  "outlets": [
+   "Economic Times",
+   "The Hindu BusinessLine",
+   "The Week"
+  ],
+  "image": null,
+  "image_credit": null
+ }
 ]
