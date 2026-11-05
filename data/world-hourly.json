@@ -1,6 +1,24 @@
 {
-  "updated_ist": "2026-11-05T17:24:52+05:30",
+  "updated_ist": "2026-11-05T18:26:06+05:30",
   "items": [
+    {
+      "id": "world-20261105-1822-01",
+      "published_ist": "2026-11-04T12:00:00+05:30",
+      "headline": "Ethiopia ne Sudan ke 6 rajnayik nikale",
+      "detail": "Ethiopia ne Sudan ke Assosa vanijya dutawas ke chhah karmiyon ko 48 ghante me desh chhodne ko kaha; dono desh ek-doosre par sashastr guton ko samarthan dene ka aarop lagate hain.",
+      "category": "World",
+      "exam_angle": "Horn of Africa aur kootneeti: International exams ke liye — Sudan grih yuddh aur kshetriya tanaav.",
+      "source": "Reuters",
+      "source_url": "https://www.reuters.com/world/africa/ethiopia-expels-sudanese-diplomats-after-fresh-allegations-support-rsf-2026-11-04/",
+      "genuineness": "verified",
+      "outlets": [
+        "Reuters",
+        "BusinessDay",
+        "The Eastleigh Voice"
+      ],
+      "image": null,
+      "image_credit": null
+    },
     {
       "id": "world-20261105-1722-01",
       "published_ist": "2026-11-05T16:27:00+05:30",
@@ -427,26 +445,6 @@
       ],
       "image": "../images/world/world-20261105-1322-03.jpg",
       "image_credit": "Ayu Nabila / CC BY-SA 4.0"
-    },
-    {
-      "id": "world-20261105-1122-02",
-      "published_ist": "2026-11-05T01:19:00+05:30",
-      "headline": "America ne Iran tel network par pratibandh lagaya",
-      "detail": "America ke Treasury ne 4 November ko Chandigarh ke Suniel Kumar Sharma aur Jaspreet Preeti Shahid par pratibandh lagaya, jinka aarop hai ki unhone Iranian tel le jaane wale jahazon ko nakli jhanda aur certificate diye; Turkiye ki ek company par bhi pratibandh laga.",
-      "category": "World",
-      "exam_angle": "Pratibandh aur shadow fleet: International exams ke liye — Iran tel pratibandh aur samudri dhokhadhadi.",
-      "source": "Times Now",
-      "source_url": "https://www.timesnownews.com/world/us-sanctions-indian-couple-and-their-companies-for-allegedly-helping-irans-oil-fleet-article-156466584",
-      "genuineness": "verified",
-      "outlets": [
-        "Times Now",
-        "Financial Express",
-        "The Hindu BusinessLine",
-        "The New Indian Express",
-        "Business Today"
-      ],
-      "image": null,
-      "image_credit": null
     }
   ]
 }
