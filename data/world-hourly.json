@@ -1,5 +1,60 @@
 {
+  "updated_ist": "2026-11-05T15:24:06+05:30",
   "items": [
+    {
+      "id": "world-20261105-1522-01",
+      "published_ist": "2026-11-04T07:55:00+05:30",
+      "headline": "Bottoms: America ki pehli Black mahila governor",
+      "detail": "Democrat Keisha Lance Bottoms ne Georgia me Republican Rick Jackson ko harakar America ki pehli Black mahila governor banne ka itihaas racha; ve 1998 ke baad Georgia ki pehli Democrat governor bhi hain.",
+      "category": "World",
+      "exam_angle": "America ki chunav vyavastha: International exams ke liye — pehli Black mahila governor aur Georgia chunav.",
+      "source": "Al Jazeera",
+      "source_url": "https://www.aljazeera.com/amp/news/2026/11/4/keisha-lance-bottoms-makes-us-history-as-first-black-woman-elected-governor",
+      "genuineness": "verified",
+      "outlets": [
+        "Associated Press",
+        "USA Today",
+        "Al Jazeera",
+        "NDTV"
+      ],
+      "image": "../images/world/world-20261105-1522-01.jpg",
+      "image_credit": "Sikis2021 / CC0"
+    },
+    {
+      "id": "world-20261105-1522-02",
+      "published_ist": "2026-11-05T12:35:00+05:30",
+      "headline": "France: Desh bhar hadtaal, 70,000 police tainat",
+      "detail": "France me mazdoor sanghon ki desh-vyapi hadtaal aur pradarshan aaj hue; sarkar ne 70,000 police tainat kiye aur 5–7 lakh logon ke sadkon par utarne ka anumaan hai.",
+      "category": "World",
+      "exam_angle": "France aur mazdoor andolan: International exams ke liye — hadtaal, jeevan-yapan aur sarkar.",
+      "source": "Channel NewsAsia",
+      "source_url": "https://www.channelnewsasia.com/world/france-demonstrations-trade-unions-strike-6526711",
+      "genuineness": "verified",
+      "outlets": [
+        "Reuters",
+        "Agence France-Presse",
+        "The New York Times"
+      ],
+      "image": null,
+      "image_credit": null
+    },
+    {
+      "id": "world-20261105-1522-03",
+      "published_ist": "2026-11-05T12:00:00+05:30",
+      "headline": "France: Blood bank par cyber hamla",
+      "detail": "France ke teen kshetriya blood bank me cyber hamle se khoon rakhne wale fridge ki nigrani vyavastha prabhavit hui; adhikariyon ne kaha khoon ki aapurti par koi asar nahi pada.",
+      "category": "World",
+      "exam_angle": "Cyber suraksha aur swasthya seva: International exams ke liye — mahatvapurna buniyadi dhanche par hamla.",
+      "source": "The Business Standard",
+      "source_url": "https://www.tbsnews.net/worldbiz/europe/french-blood-banks-hit-cyberattack-alongside-european-supermarkets-1593416",
+      "genuineness": "corroborated",
+      "outlets": [
+        "Associated Press",
+        "Reuters"
+      ],
+      "image": null,
+      "image_credit": null
+    },
     {
       "id": "world-20261105-1422-01",
       "published_ist": "2026-11-05T13:02:00+05:30",
@@ -392,60 +447,6 @@
       ],
       "image": null,
       "image_credit": null
-    },
-    {
-      "id": "world-20261104-2222-03",
-      "published_ist": "2026-11-04T16:07:21+05:30",
-      "headline": "Israel: Chunav natije pramanit, vivad jaari",
-      "detail": "Israel ki Central Elections Committee ne 27 October ke chunav ke natije pramanit karke Rashtrapati Herzog ko saunp diye; aayog ko dhokhadhadi ka koi saboot nahi mila, jabki Netanyahu ne daave jaari rakhe.",
-      "category": "World",
-      "exam_angle": "Israel ki rajneeti: International exams ke liye — chunav aur sarkar gathan.",
-      "source": "Al Jazeera",
-      "source_url": "https://www.aljazeera.com/news/2026/11/4/israel-vote-results-confirmed-as-election-commission-rejects-fraud-claims",
-      "genuineness": "verified",
-      "outlets": [
-        "Al Jazeera",
-        "The Hindu",
-        "Times of Israel"
-      ],
-      "image": null,
-      "image_credit": null
-    },
-    {
-      "id": "world-20261104-2022-01",
-      "published_ist": "2026-11-04T16:00:00+05:30",
-      "headline": "Philippines: Bahut tez El Niño ki chetavni",
-      "detail": "PAGASA ne kaha bahut tez El Niño ab maujood hai, 2027 ki pehli timahi tak rahega aur 87 ilakon mein sookha aa sakta hai.",
-      "category": "World",
-      "exam_angle": "El Niño aur jalvayu: International exams ke liye — sookha aur krishi par asar.",
-      "source": "GMA News",
-      "source_url": "https://www.gmanetwork.com/news/topstories/nation/1008287/very-strong-el-ni-o-now-present-in-tropical-pacific-says-pagasa/story/",
-      "genuineness": "corroborated",
-      "outlets": [
-        "GMA News",
-        "BusinessWorld"
-      ],
-      "image": null,
-      "image_credit": null
-    },
-    {
-      "id": "world-20261104-2222-02",
-      "published_ist": "2026-11-04T15:18:36+05:30",
-      "headline": "Ramaphosa: America chunav se naya daur",
-      "detail": "Rashtrapati Cyril Ramaphosa ne kaha America ke midterm natijon se duniya ke sambandhon me naya daur shuru ho sakta hai; unhone AGOA se hataye jaane par dwipakshiya vyapaar samjhaute par dhyaan dene ki baat kahi.",
-      "category": "World",
-      "exam_angle": "South Africa-America sambandh: International exams ke liye — AGOA aur vyapaar.",
-      "source": "Reuters",
-      "source_url": "https://www.reuters.com/world/south-africa-says-us-midterm-results-usher-new-era-2026-11-04/",
-      "genuineness": "verified",
-      "outlets": [
-        "Reuters",
-        "Bloomberg",
-        "IOL"
-      ],
-      "image": null,
-      "image_credit": null
     }
-  ],
-  "updated_ist": "2026-11-05T14:24:06+05:30"
+  ]
 }
