@@ -212,6 +212,76 @@
     ],
     "answer_index": 2
    }
+  },
+  {
+   "episode": 84,
+   "video_hi": "D9UrqHawiUY",
+   "video_hinglish": "D9UrqHawiUY",
+   "capsules": [
+    {
+     "id": "ca-ep84-s1",
+     "headline_hi": "Agniveeron ko do saal ki seva vistar",
+     "headline_hinglish": "Agniveeron ko do saal ki seva vistar",
+     "detail_hi": "Pachattar pratishat Agniveeron ko chaar saal ke baad do saal aur seva ka mauka milega.",
+     "detail_hinglish": "Pachattar pratishat Agniveeron ko chaar saal ke baad do saal aur seva ka mauka milega.",
+     "category_hi": "Defence",
+     "category_en": "Defence"
+    },
+    {
+     "id": "ca-ep84-s2",
+     "headline_hi": "Social media ki kanooni suraksha khatm hogi?",
+     "headline_hinglish": "Social media ki kanooni suraksha khatm hogi?",
+     "detail_hi": "IT Mantralaya social media platforms ko milne wali kanooni suraksha khatm karne par vichar kar raha hai.",
+     "detail_hinglish": "IT Mantralaya social media platforms ko milne wali kanooni suraksha khatm karne par vichar kar raha hai.",
+     "category_hi": "Technology",
+     "category_en": "Technology"
+    },
+    {
+     "id": "ca-ep84-s3",
+     "headline_hi": "Koyla aur khanij exchange jald shuru",
+     "headline_hinglish": "Koyla aur khanij exchange jald shuru",
+     "detail_hi": "Kendra sarkar jald koyla aur khanij exchange shuru karegi, nabbe pratishat kaam poora ho chuka hai.",
+     "detail_hinglish": "Kendra sarkar jald koyla aur khanij exchange shuru karegi, nabbe pratishat kaam poora ho chuka hai.",
+     "category_hi": "Economy",
+     "category_en": "Economy"
+    },
+    {
+     "id": "ca-ep84-s4",
+     "headline_hi": "Chhah rajyon mein voter list sudhar",
+     "headline_hinglish": "Chhah rajyon mein voter list sudhar",
+     "detail_hi": "Chunav Aayog ne chhah rajyon aur kendra shasit pradeshon mein voter list ke vishesh punarikshan ki ghoshna ki.",
+     "detail_hinglish": "Chunav Aayog ne chhah rajyon aur kendra shasit pradeshon mein voter list ke vishesh punarikshan ki ghoshna ki.",
+     "category_hi": "Polity",
+     "category_en": "Polity"
+    },
+    {
+     "id": "ca-ep84-s5",
+     "headline_hi": "Kohli ne teerah hazaar ODI run poore kiye",
+     "headline_hinglish": "Kohli ne teerah hazaar ODI run poore kiye",
+     "detail_hi": "Bharat ne New Zealand ko pehle ODI mein haraya; Kohli ne number teen par teerah hazaar run poore kiye.",
+     "detail_hinglish": "Bharat ne New Zealand ko pehle ODI mein haraya; Kohli ne number teen par teerah hazaar run poore kiye.",
+     "category_hi": "Sports",
+     "category_en": "Sports"
+    }
+   ],
+   "mcq": {
+    "id": "ca-ep84-mcq",
+    "q_hi": "Virat Kohli ne ODI cricket mein number teen par batting karte hue kitne run poore kiye?",
+    "q_hinglish": "Virat Kohli ne ODI cricket mein number teen par batting karte hue kitne run poore kiye?",
+    "options_hi": [
+     "12,000",
+     "13,000",
+     "13,500",
+     "14,000"
+    ],
+    "options_hinglish": [
+     "12,000",
+     "13,000",
+     "13,500",
+     "14,000"
+    ],
+    "answer_index": 1
+   }
   }
  ]
 }
