@@ -72,6 +72,76 @@
     ],
     "answer_index": 1
    }
+  },
+  {
+   "episode": 82,
+   "video_hi": "CfitQ_PyJBs",
+   "video_hinglish": "CfitQ_PyJBs",
+   "capsules": [
+    {
+     "id": "ca-ep82-s1",
+     "headline_hi": "Agniveeron ki seva do saal badhi",
+     "headline_hinglish": "Agniveeron ki seva do saal badhi",
+     "detail_hi": "Cabinet ne Agnipath yojana badli; 75% Agniveeron ko do saal ka extra karyakal milega.",
+     "detail_hinglish": "Cabinet ne Agnipath yojana badli; 75% Agniveeron ko do saal ka extra karyakal milega.",
+     "category_hi": "Defence",
+     "category_en": "Defence"
+    },
+    {
+     "id": "ca-ep82-s2",
+     "headline_hi": "Kohli ne Tendulkar ka record toda",
+     "headline_hinglish": "Kohli ne Tendulkar ka record toda",
+     "detail_hi": "Auckland ODI mein Bharat ne New Zealand ko paanch wicket se haraya; Kohli ne chase record banaya.",
+     "detail_hinglish": "Auckland ODI mein Bharat ne New Zealand ko paanch wicket se haraya; Kohli ne chase record banaya.",
+     "category_hi": "Sports",
+     "category_en": "Sports"
+    },
+    {
+     "id": "ca-ep82-s3",
+     "headline_hi": "QS Asia mein Bharat ke chhe sansthan",
+     "headline_hinglish": "QS Asia mein Bharat ke chhe sansthan",
+     "detail_hi": "QS Asia ranking mein chhe Bharatiya sansthan top sau mein; 325 university rank hui.",
+     "detail_hinglish": "QS Asia ranking mein chhe Bharatiya sansthan top sau mein; 325 university rank hui.",
+     "category_hi": "Education",
+     "category_en": "Education"
+    },
+    {
+     "id": "ca-ep82-s4",
+     "headline_hi": "RBI ne vittiya bazaar samiti banayi",
+     "headline_hinglish": "RBI ne vittiya bazaar samiti banayi",
+     "detail_hi": "RBI ne Technical Consultative Committee banayi; yeh mudra aur videshi mudra bazaaron par salah degi.",
+     "detail_hinglish": "RBI ne Technical Consultative Committee banayi; yeh mudra aur videshi mudra bazaaron par salah degi.",
+     "category_hi": "Economy",
+     "category_en": "Economy"
+    },
+    {
+     "id": "ca-ep82-s5",
+     "headline_hi": "Aath sau pachas fast-track court manzoor",
+     "headline_hinglish": "Aath sau pachas fast-track court manzoor",
+     "detail_hi": "Cabinet ne bachchon aur balatkar mamalon ke liye 850 fast-track special court manzoor kiye.",
+     "detail_hinglish": "Cabinet ne bachchon aur balatkar mamalon ke liye 850 fast-track special court manzoor kiye.",
+     "category_hi": "Polity",
+     "category_en": "Polity"
+    }
+   ],
+   "mcq": {
+    "id": "ca-ep82-mcq",
+    "q_hi": "Kendriya Cabinet ne fast-track special court yojana ke tahat kitne court manzoor kiye?",
+    "q_hinglish": "Kendriya Cabinet ne fast-track special court yojana ke tahat kitne court manzoor kiye?",
+    "options_hi": [
+     "650",
+     "750",
+     "950",
+     "850"
+    ],
+    "options_hinglish": [
+     "650",
+     "750",
+     "950",
+     "850"
+    ],
+    "answer_index": 3
+   }
   }
  ]
 }
