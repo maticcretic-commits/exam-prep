@@ -343,6 +343,58 @@
       ],
       "image": "../images/world/world-20261105-1222-03.jpg",
       "image_credit": "Superbass / CC BY-SA 4.0"
+    },
+    {
+      "id": "world-20261105-1322-01",
+      "published_ist": "2026-11-05T12:00:12+05:30",
+      "headline": "Armenia: Vipaksh ne ekjut hone ka elaan kiya",
+      "detail": "Armenia ke vipakshi dalon ne 'rashtriya ekjutata' banane ka elaan kiya; naya samvidhan kharij karna aur bina ektarfa samjhote ke shanti unki prathamikta hai.",
+      "category": "World",
+      "exam_angle": "Armenia aur Dakshin Caucasus: International exams ke liye — samvidhan, shanti aur vipaksh.",
+      "source": "1news.az",
+      "source_url": "https://1news.az/en/news/20261105103012198-Armenian-opposition-announces-formation-of-nationwide-consolidation",
+      "genuineness": "corroborated",
+      "outlets": [
+        "Sputnik Armenia",
+        "Izvestia"
+      ],
+      "image": "../images/world/world-20261105-1322-01.jpg",
+      "image_credit": "Benoît Prieur / CC0"
+    },
+    {
+      "id": "world-20261105-1322-02",
+      "published_ist": "2026-11-05T11:01:00+05:30",
+      "headline": "Japan: Docomo network desh bhar thapp",
+      "detail": "NTT Docomo ne kaha subah 11:18 baje se pure Japan me call, data aur SMS mushkil ho gaye; isse pehle online shop aur My docomo bhi band kiye gaye kyunki server me ghuspaith ka shak hai.",
+      "category": "World",
+      "exam_angle": "Japan ki telecom suraksha: International exams ke liye — cyber hamla aur aavashyak seva par asar.",
+      "source": "Kyodo News",
+      "source_url": "https://english.kyodonews.net/articles/-/90436",
+      "genuineness": "verified",
+      "outlets": [
+        "Kyodo News",
+        "CGTN",
+        "TV Asahi"
+      ],
+      "image": null,
+      "image_credit": null
+    },
+    {
+      "id": "world-20261105-1322-03",
+      "published_ist": "2026-11-05T01:35:00+05:30",
+      "headline": "Japan: Shodo ko UNESCO virasat ki sifarish",
+      "detail": "UNESCO ki salahkar sanstha ne Japan ki shodo kala ko Amurt Sanskritik Virasat suchi me shamil karne ki sifarish ki; antim faisla December me hoga.",
+      "category": "World",
+      "exam_angle": "UNESCO Amurt Sanskritik Virasat: International exams ke liye — Japan ki 24th entry ho sakti hai.",
+      "source": "The Japan Times",
+      "source_url": "https://www.japantimes.co.jp/news/2026/11/05/japan/society/calligraphy-unesco-list/",
+      "genuineness": "corroborated",
+      "outlets": [
+        "The Japan Times",
+        "Kyodo News"
+      ],
+      "image": "../images/world/world-20261105-1322-03.jpg",
+      "image_credit": "Ayu Nabila / CC BY-SA 4.0"
     }
   ]
 }
