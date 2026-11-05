@@ -1,6 +1,45 @@
 {
   "items": [
     {
+      "id": "world-20261105-1122-01",
+      "published_ist": "2026-11-05T06:25:00+05:30",
+      "headline": "California: Arabpati tax haar ki taraf",
+      "detail": "California me Proposition 40, jo lagbhag 200 arabpatiyon par ek baar 5% tax lagata, lagbhag 60% vote ginne par 55.6% 'No' ke saath haar ki taraf hai; natija abhi aadhikarik roop se ghoshit nahi hua.",
+      "category": "World",
+      "exam_angle": "America ki chunav vyavastha: International exams ke liye — ballot proposal aur wealth tax.",
+      "source": "Malay Mail",
+      "source_url": "https://www.malaymail.com/news/world/2026/11/05/california-billionaire-wealth-tax-proposal-appears-headed-for-defeat-as-voters-reject-one-off-levy/242012",
+      "genuineness": "verified",
+      "outlets": [
+        "AFP",
+        "Inc.",
+        "Tax Foundation",
+        "Associated Press"
+      ],
+      "image": null,
+      "image_credit": null
+    },
+    {
+      "id": "world-20261105-1122-02",
+      "published_ist": "2026-11-05T01:19:00+05:30",
+      "headline": "America ne Iran tel network par pratibandh lagaya",
+      "detail": "America ke Treasury ne 4 November ko Chandigarh ke Suniel Kumar Sharma aur Jaspreet Preeti Shahid par pratibandh lagaya, jinka aarop hai ki unhone Iranian tel le jaane wale jahazon ko nakli jhanda aur certificate diye; Turkiye ki ek company par bhi pratibandh laga.",
+      "category": "World",
+      "exam_angle": "Pratibandh aur shadow fleet: International exams ke liye — Iran tel pratibandh aur samudri dhokhadhadi.",
+      "source": "Times Now",
+      "source_url": "https://www.timesnownews.com/world/us-sanctions-indian-couple-and-their-companies-for-allegedly-helping-irans-oil-fleet-article-156466584",
+      "genuineness": "verified",
+      "outlets": [
+        "Times Now",
+        "Financial Express",
+        "The Hindu BusinessLine",
+        "The New Indian Express",
+        "Business Today"
+      ],
+      "image": null,
+      "image_credit": null
+    },
+    {
       "id": "world-20261105-1022-01",
       "published_ist": "2026-11-05T09:07:00+05:30",
       "headline": "Hong Kong: Joshua Wong ko 10 saal aur",
@@ -403,43 +442,7 @@
       ],
       "image": null,
       "image_credit": null
-    },
-    {
-      "id": "world-20261104-1722-02",
-      "published_ist": "2026-11-04T15:37:00+05:30",
-      "headline": "Indonesia: Chief of staff barkhast, tapping aarop",
-      "detail": "Rashtrapati Prabowo ne apne chief of staff Listyo Sigit Prabowo ko barkhast kar diya; unpar rashtrapati aur mantriyon ke phone ki gair-kanuni tapping ka aarop hai, aur sarkar ka kehna hai yah deshdroh ki shreni mein aa sakta hai.",
-      "category": "World",
-      "exam_angle": null,
-      "source": "Al Jazeera",
-      "source_url": "https://www.aljazeera.com/news/2026/11/4/indonesian-presidents-chief-of-staff-dismissed-over-alleged",
-      "genuineness": "verified",
-      "outlets": [
-        "Reuters",
-        "Al Jazeera",
-        "Nikkei Asia"
-      ],
-      "image": null,
-      "image_credit": null
-    },
-    {
-      "id": "world-20261104-1722-03",
-      "published_ist": "2026-11-04T11:43:00+05:30",
-      "headline": "Iran: Matdataon ne yuddh ko na kaha",
-      "detail": "Sansad adhyaksh Ghalibaf ne kaha America ke matdataon ne 'NO TO WAR' ka sandesh diya hai aur chetavni di ki janmat ko nazarandaaz karne par parinam bhugatne honge.",
-      "category": "World",
-      "exam_angle": "America-Iran sambandh: International exams ke liye — chunav par yuddh ka asar.",
-      "source": "The Indian Express",
-      "source_url": "https://indianexpress.com/article/world/us-news/iran-speaker-ghalibaf-trump-us-midterm-elections-no-to-war-reaction-democrats-republicans-10949928/",
-      "genuineness": "verified",
-      "outlets": [
-        "The Indian Express",
-        "Haaretz",
-        "Al Jazeera"
-      ],
-      "image": null,
-      "image_credit": null
     }
   ],
-  "updated_ist": "2026-11-05T10:23:13+05:30"
+  "updated_ist": "2026-11-05T11:23:28+05:30"
 }
