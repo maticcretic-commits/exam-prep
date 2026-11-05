@@ -1,6 +1,60 @@
 {
-  "updated_ist": "2026-11-05T19:25:34+05:30",
+  "updated_ist": "2026-11-05T20:26:57+05:30",
   "items": [
+    {
+      "id": "world-20261105-2022-01",
+      "published_ist": "2026-11-05T20:02:00+05:30",
+      "headline": "Russell Brand balatkar case me doshi",
+      "detail": "London ki Southwark Crown Court ne comedian Russell Brand ko ek balatkar aur teen yaun hamlo ka doshi paya; saza 9 November ko sunayi jayegi.",
+      "category": "World",
+      "exam_angle": null,
+      "source": "Reuters",
+      "source_url": "https://www.reuters.com/world/comedian-russell-brand-found-guilty-rape-2026-11-05/",
+      "genuineness": "verified",
+      "outlets": [
+        "Reuters",
+        "USA Today",
+        "The Times"
+      ],
+      "image": "../images/world/world-20261105-2022-01.jpg",
+      "image_credit": "Eva Rinaldi / CC BY-SA 2.0"
+    },
+    {
+      "id": "world-20261105-2022-02",
+      "published_ist": "2026-11-05T17:34:00+05:30",
+      "headline": "Amman me chaku hamla, suraksha adhikari ki maut",
+      "detail": "Jordan ki rajdhani Amman me Sri Lanka dutavas ke paas ek hamlaawar ne suraksha adhikari par chaku se hamla kar diya; ek adhikari ki maut ho gayi, ek ghayal hai aur hamlaawar giraftar hai.",
+      "category": "World",
+      "exam_angle": "Jordan me suraksha sthiti aur West Asia me tanav — antarrashtriya sambandh ke liye mahatvapurna.",
+      "source": "Reuters",
+      "source_url": "https://www.reuters.com/world/middle-east/jordanian-officer-killed-amman-stabbing-suspect-arrested-state-media-says-2026-11-05/",
+      "genuineness": "verified",
+      "outlets": [
+        "Reuters",
+        "Al Jazeera",
+        "Ynet"
+      ],
+      "image": null,
+      "image_credit": null
+    },
+    {
+      "id": "world-20261105-2022-03",
+      "published_ist": "2026-11-05T16:54:00+05:30",
+      "headline": "Taiwan: Panasonic factory me aag, 2 ki maut",
+      "detail": "Taiwan ke Hsinchu me Panasonic ki factory me lagi aag me do karmchariyon ki maut ho gayi aur paanch ghayal hue; aag ke kaaran ki jaanch chal rahi hai.",
+      "category": "World",
+      "exam_angle": "Taiwan ki electronics supply chain se judi factory — chip udyog ke liye mahatvapurna.",
+      "source": "Reuters",
+      "source_url": "https://www.reuters.com/world/asia-pacific/two-confirmed-dead-after-taiwan-panasonic-factory-fire-2026-11-05/",
+      "genuineness": "verified",
+      "outlets": [
+        "Reuters",
+        "Focus Taiwan",
+        "The Straits Times"
+      ],
+      "image": null,
+      "image_credit": null
+    },
     {
       "id": "world-20261105-1925-01",
       "published_ist": "2026-11-05T16:28:00+05:30",
@@ -19,97 +73,6 @@
       ],
       "image": "../images/world/world-20261105-1925-01.jpg",
       "image_credit": "DaHuzyBru / CC BY-SA 4.0"
-    },
-    {
-      "id": "world-20261105-1925-02",
-      "published_ist": "2026-11-05T08:37:00+05:30",
-      "headline": "Dow 1,569 ank chadha, Brent tel 8.7% gira",
-      "detail": "Midterm me Democrat jeet ke baad Dow 1,569 ank (3%) chadhkar 53,356 par band hua, jabki Brent crude 8.7% girkar $94.62 prati barrel par aa gaya — Iran yuddh khatm hone ki ummeed se.",
-      "category": "World",
-      "exam_angle": "Bazaar aur tel: America ke chunav aur Iran yuddh ka vaishvik arthvyavastha par asar.",
-      "source": "Gulf News",
-      "source_url": "https://gulfnews.com/business/markets/wall-street-roars-dow-rockets-1500-points-as-democrats-sweep-congress-1.500736418",
-      "genuineness": "verified",
-      "outlets": [
-        "Associated Press",
-        "Gulf News",
-        "Reuters"
-      ],
-      "image": null,
-      "image_credit": null
-    },
-    {
-      "id": "world-20261105-1925-03",
-      "published_ist": "2026-11-05T07:01:00+05:30",
-      "headline": "Indonesia: Rashtrapati ke phone tap karne par barkhast",
-      "detail": "Rashtrapati Prabowo ne apne chief of staff Listyo Sigit Prabowo ko barkhast kar diya; unpar Rashtrapati, mantriyon aur patrakaron ke phone tap karne ka aarop hai, sarkar ne ise deshdroh jaisa bataya.",
-      "category": "World",
-      "exam_angle": "Indonesia: gair-kanuni nigrani aur deshdroh — dakshin-poorv Asia ki rajneeti ke liye.",
-      "source": "Dawn",
-      "source_url": "https://www.dawn.com/news/2042249/indonesian-president-sacks-aide-accused-of-wiretapping",
-      "genuineness": "verified",
-      "outlets": [
-        "Al Jazeera",
-        "South China Morning Post",
-        "The Manila Times",
-        "Dawn"
-      ],
-      "image": null,
-      "image_credit": null
-    },
-    {
-      "id": "world-20261105-1925-04",
-      "published_ist": "2026-11-04T21:55:00+05:30",
-      "headline": "Johnson ne House Republican neta pad chhoda",
-      "detail": "Midterm me Republican haar ke agle din Speaker Mike Johnson ne kaha woh naye Congress me Republican neta ka pad nahi ladenge; woh saansad bane rahenge, aur Scalise aur Jordan daud me hain.",
-      "category": "World",
-      "exam_angle": "America: midterm chunav ke baad Congress me satta badlav aur netritva parivartan.",
-      "source": "USA Today",
-      "source_url": "https://www.usatoday.com/story/news/politics/2026/11/04/house-speaker-mike-johnson-gop-leadership/92609302007/",
-      "genuineness": "verified",
-      "outlets": [
-        "USA Today",
-        "Associated Press",
-        "New York Post"
-      ],
-      "image": "../images/world/world-20261105-1925-04.jpg",
-      "image_credit": "United States Congress / Public domain"
-    },
-    {
-      "id": "world-20261105-1925-05",
-      "published_ist": "2026-11-04T19:52:00+05:30",
-      "headline": "Montenegro 2028 me EU sadasya ban sakta",
-      "detail": "European Commission ki saalana report me kaha gaya Montenegro 2028 me EU ka 28va sadasya ban sakta hai, jabki Albania aur Moldova 2029 me shamil ho sakte hain.",
-      "category": "World",
-      "exam_angle": "EU vistar: Montenegro, Albania, Moldova — Europe aur antarrashtriya sangathan ke liye.",
-      "source": "Glasgow Times",
-      "source_url": "https://www.glasgowtimes.co.uk/news/national/26699047.fresh-membership-talks-hope-serbia-eu-says-countries-join-soon/",
-      "genuineness": "verified",
-      "outlets": [
-        "Glasgow Times",
-        "Deutsche Welle",
-        "Tagesschau"
-      ],
-      "image": "../images/world/world-20261105-1925-05.jpg",
-      "image_credit": "EC Audiovisual Service / CC BY 4.0"
-    },
-    {
-      "id": "world-20261105-1822-01",
-      "published_ist": "2026-11-04T12:00:00+05:30",
-      "headline": "Ethiopia ne Sudan ke 6 rajnayik nikale",
-      "detail": "Ethiopia ne Sudan ke Assosa vanijya dutawas ke chhah karmiyon ko 48 ghante me desh chhodne ko kaha; dono desh ek-doosre par sashastr guton ko samarthan dene ka aarop lagate hain.",
-      "category": "World",
-      "exam_angle": "Horn of Africa aur kootneeti: International exams ke liye — Sudan grih yuddh aur kshetriya tanaav.",
-      "source": "Reuters",
-      "source_url": "https://www.reuters.com/world/africa/ethiopia-expels-sudanese-diplomats-after-fresh-allegations-support-rsf-2026-11-04/",
-      "genuineness": "verified",
-      "outlets": [
-        "Reuters",
-        "BusinessDay",
-        "The Eastleigh Voice"
-      ],
-      "image": null,
-      "image_credit": null
     },
     {
       "id": "world-20261105-1722-01",
@@ -131,134 +94,23 @@
       "image_credit": "Ludovic Péron / CC BY-SA 3.0"
     },
     {
-      "id": "world-20261105-1722-02",
-      "published_ist": "2026-11-05T06:54:00+05:30",
-      "headline": "Riyadh airport hamle me marne wale 14 hue",
-      "detail": "Bharatiya dutawas ne kaha 10 October ke hamle me gambhir ghayal doosre Bharatiya nagrik ki ICU me maut ho gayi; kul mrityu sankhya 14 ho gayi.",
+      "id": "world-20261105-1422-01",
+      "published_ist": "2026-11-05T13:02:00+05:30",
+      "headline": "Hormuz me do tanker, tugboat me aag",
+      "detail": "IRGC ne kaha do tel tanker aur ek tugboat Hormuz Strait me aag ki chapet me aaye; ek tanker 'gair-kanuni' raste par mine se takraya, jabki doosra supertanker aag me ghir gaya.",
       "category": "World",
-      "exam_angle": "Houthi-Saudi sangharsh aur Khadi suraksha: West Asia ke liye exam angle.",
-      "source": "NDTV",
-      "source_url": "https://www.ndtv.com/world-news/second-indian-national-injured-in-october-10-riyadh-airport-attack-dies-12283407/amp/1",
+      "exam_angle": "Hormuz Strait aur tel marg: International exams ke liye — samudri suraksha aur vishwa tel vyapaar.",
+      "source": "Reuters",
+      "source_url": "https://www.reuters.com/world/middle-east/irans-irgc-says-two-tankers-tugboat-caught-fire-strait-hormuz-2026-11-05/",
       "genuineness": "verified",
       "outlets": [
-        "NDTV",
-        "Times Now World",
-        "EconoTimes",
-        "The Daily Jagran"
-      ],
-      "image": null,
-      "image_credit": null
-    },
-    {
-      "id": "world-20261105-1722-03",
-      "published_ist": "2026-11-05T04:50:00+05:30",
-      "headline": "Qatar ke paas tanker par do projectile hamle",
-      "detail": "UKMTO ne kaha Madinat ash Shamal se 50 nautical mile door tanker par do agyaat projectile lage; crew ki haalat aur nuksan abhi pata nahi.",
-      "category": "World",
-      "exam_angle": "Khadi me samudri suraksha aur tel marg: International exams ke liye mahatvapurna.",
-      "source": "Al Jazeera",
-      "source_url": "https://www.aljazeera.com/amp/news/liveblog/2026/11/5/iran-war-live-trump-admits-war-caused-election-loss-but-had-to-do-it",
-      "genuineness": "verified",
-      "outlets": [
-        "Associated Press",
-        "Al Jazeera",
-        "The Telegraph"
-      ],
-      "image": null,
-      "image_credit": null
-    },
-    {
-      "id": "world-20261105-1622-01",
-      "published_ist": "2026-11-05T07:16:00+05:30",
-      "headline": "Uttar Korea: Nayi missile ka parikshan, drill bhi",
-      "detail": "Uttar Korea ne Budhvar ko nayi air defence missile ka parikshan kiya aur lambi doori ki cruise missile se ek nakli hawai adde par hamle ki drill bhi ki; Dakshin Korea ki sena ne Sondok se samudra ki taraf kai missile chhode jaane ki pushti ki hai.",
-      "category": "World",
-      "exam_angle": "Uttar Korea aur missile parikshan: International exams ke liye — suraksha parishad pratibandh aur kshetriya tanaav.",
-      "source": "Yonhap News Agency",
-      "source_url": "https://en.yna.co.kr/view/AEN20261105000651315?section=nk/nk",
-      "genuineness": "verified",
-      "outlets": [
-        "Yonhap News Agency",
         "Reuters",
-        "Kyodo News"
-      ],
-      "image": "../images/world/world-20261105-1622-01.jpg",
-      "image_credit": "Yonhap News Agency"
-    },
-    {
-      "id": "world-20261105-1622-02",
-      "published_ist": "2026-11-05T02:07:00+05:30",
-      "headline": "Schumer: Democrat Iran yuddh khatm karenge",
-      "detail": "Senate ke Democrat neta Chuck Schumer ne kaha unki party Iran yuddh khatm karegi aur Congress ke kharch par niyantran ka istemal karke Trump par dabav banayegi; kuch Republican bhi is prayas me saath hain.",
-      "category": "World",
-      "exam_angle": "America ki yuddh shaktiyan: International exams ke liye — Congress ka 'power of the purse' aur yuddh ghoshna.",
-      "source": "TRT World",
-      "source_url": "https://www.trtworld.com/article/5070075db81c/amp",
-      "genuineness": "verified",
-      "outlets": [
-        "TRT World",
         "Al Jazeera",
-        "Gulf News",
-        "The Tribune"
-      ],
-      "image": null,
-      "image_credit": null
-    },
-    {
-      "id": "world-20261105-1622-03",
-      "published_ist": "2026-11-05T00:52:00+05:30",
-      "headline": "WHO: Ebola ki do nayi vaccine ka trial",
-      "detail": "WHO ne Congo me Bundibugyo Ebola ke khilaf Oxford-Serum Institute aur Moderna ki do nayi vaccine ke clinical trial ko manzoori di; is prakop me 5,300 se zyada logon ki maut ho chuki hai.",
-      "category": "World",
-      "exam_angle": "Ebola aur vaccine trial: International exams ke liye — WHO, Bundibugyo strain aur swasthya sankat.",
-      "source": "Al Jazeera",
-      "source_url": "https://www.aljazeera.com/news/2026/11/4/who-approves-trials-for-two-new-ebola-vaccines",
-      "genuineness": "verified",
-      "outlets": [
-        "Al Jazeera",
-        "World Health Organization",
-        "Anadolu Agency"
-      ],
-      "image": "../images/world/world-20261105-1622-03.jpg",
-      "image_credit": "Al Jazeera"
-    },
-    {
-      "id": "world-20261105-1622-04",
-      "published_ist": "2026-11-04T16:07:00+05:30",
-      "headline": "Israel: Chunav nateeje pramanit, sarkar par baatchit",
-      "detail": "Israel ke chunav aayog ne dhokhadhadi ka koi saboot na milne par 27 October ke chunav nateeje pramanit kar diye; Rashtrapati Herzog ne sarkar banane ke liye dalon se baatchit shuru ki — Netanyahu ke gathbandhan ko 53 aur Eisenkot ke vipaksh ko 48 seatein mili hain.",
-      "category": "World",
-      "exam_angle": "Israel ki sansadiya vyavastha: International exams ke liye — chunav, gathbandhan aur rashtrapati ki bhoomika.",
-      "source": "Al Jazeera",
-      "source_url": "https://www.aljazeera.com/news/2026/11/4/israel-vote-results-confirmed-as-election-commission-rejects-fraud-claims",
-      "genuineness": "verified",
-      "outlets": [
-        "Al Jazeera",
-        "The Hindu",
-        "Associated Press",
+        "Agence France-Presse",
         "The Jerusalem Post"
       ],
-      "image": null,
-      "image_credit": null
-    },
-    {
-      "id": "world-20261105-1522-01",
-      "published_ist": "2026-11-04T07:55:00+05:30",
-      "headline": "Bottoms: America ki pehli Black mahila governor",
-      "detail": "Democrat Keisha Lance Bottoms ne Georgia me Republican Rick Jackson ko harakar America ki pehli Black mahila governor banne ka itihaas racha; ve 1998 ke baad Georgia ki pehli Democrat governor bhi hain.",
-      "category": "World",
-      "exam_angle": "America ki chunav vyavastha: International exams ke liye — pehli Black mahila governor aur Georgia chunav.",
-      "source": "Al Jazeera",
-      "source_url": "https://www.aljazeera.com/amp/news/2026/11/4/keisha-lance-bottoms-makes-us-history-as-first-black-woman-elected-governor",
-      "genuineness": "verified",
-      "outlets": [
-        "Associated Press",
-        "USA Today",
-        "Al Jazeera",
-        "NDTV"
-      ],
-      "image": "../images/world/world-20261105-1522-01.jpg",
-      "image_credit": "Sikis2021 / CC0"
+      "image": "../images/world/world-20261105-1422-01.jpg",
+      "image_credit": "NASA / Public domain"
     },
     {
       "id": "world-20261105-1522-02",
@@ -279,42 +131,6 @@
       "image_credit": null
     },
     {
-      "id": "world-20261105-1522-03",
-      "published_ist": "2026-11-05T12:00:00+05:30",
-      "headline": "France: Blood bank par cyber hamla",
-      "detail": "France ke teen kshetriya blood bank me cyber hamle se khoon rakhne wale fridge ki nigrani vyavastha prabhavit hui; adhikariyon ne kaha khoon ki aapurti par koi asar nahi pada.",
-      "category": "World",
-      "exam_angle": "Cyber suraksha aur swasthya seva: International exams ke liye — mahatvapurna buniyadi dhanche par hamla.",
-      "source": "The Business Standard",
-      "source_url": "https://www.tbsnews.net/worldbiz/europe/french-blood-banks-hit-cyberattack-alongside-european-supermarkets-1593416",
-      "genuineness": "corroborated",
-      "outlets": [
-        "Associated Press",
-        "Reuters"
-      ],
-      "image": null,
-      "image_credit": null
-    },
-    {
-      "id": "world-20261105-1422-01",
-      "published_ist": "2026-11-05T13:02:00+05:30",
-      "headline": "Hormuz me do tanker, tugboat me aag",
-      "detail": "IRGC ne kaha do tel tanker aur ek tugboat Hormuz Strait me aag ki chapet me aaye; ek tanker 'gair-kanuni' raste par mine se takraya, jabki doosra supertanker aag me ghir gaya.",
-      "category": "World",
-      "exam_angle": "Hormuz Strait aur tel marg: International exams ke liye — samudri suraksha aur vishwa tel vyapaar.",
-      "source": "Reuters",
-      "source_url": "https://www.reuters.com/world/middle-east/irans-irgc-says-two-tankers-tugboat-caught-fire-strait-hormuz-2026-11-05/",
-      "genuineness": "verified",
-      "outlets": [
-        "Reuters",
-        "Al Jazeera",
-        "Agence France-Presse",
-        "The Jerusalem Post"
-      ],
-      "image": "../images/world/world-20261105-1422-01.jpg",
-      "image_credit": "NASA / Public domain"
-    },
-    {
       "id": "world-20261105-1322-01",
       "published_ist": "2026-11-05T12:00:12+05:30",
       "headline": "Armenia: Vipaksh ne ekjut hone ka elaan kiya",
@@ -330,6 +146,23 @@
       ],
       "image": "../images/world/world-20261105-1322-01.jpg",
       "image_credit": "Benoît Prieur / CC0"
+    },
+    {
+      "id": "world-20261105-1522-03",
+      "published_ist": "2026-11-05T12:00:00+05:30",
+      "headline": "France: Blood bank par cyber hamla",
+      "detail": "France ke teen kshetriya blood bank me cyber hamle se khoon rakhne wale fridge ki nigrani vyavastha prabhavit hui; adhikariyon ne kaha khoon ki aapurti par koi asar nahi pada.",
+      "category": "World",
+      "exam_angle": "Cyber suraksha aur swasthya seva: International exams ke liye — mahatvapurna buniyadi dhanche par hamla.",
+      "source": "The Business Standard",
+      "source_url": "https://www.tbsnews.net/worldbiz/europe/french-blood-banks-hit-cyberattack-alongside-european-supermarkets-1593416",
+      "genuineness": "corroborated",
+      "outlets": [
+        "Associated Press",
+        "Reuters"
+      ],
+      "image": null,
+      "image_credit": null
     },
     {
       "id": "world-20261105-1322-02",
@@ -388,6 +221,24 @@
       "image_credit": null
     },
     {
+      "id": "world-20261105-1925-02",
+      "published_ist": "2026-11-05T08:37:00+05:30",
+      "headline": "Dow 1,569 ank chadha, Brent tel 8.7% gira",
+      "detail": "Midterm me Democrat jeet ke baad Dow 1,569 ank (3%) chadhkar 53,356 par band hua, jabki Brent crude 8.7% girkar $94.62 prati barrel par aa gaya — Iran yuddh khatm hone ki ummeed se.",
+      "category": "World",
+      "exam_angle": "Bazaar aur tel: America ke chunav aur Iran yuddh ka vaishvik arthvyavastha par asar.",
+      "source": "Gulf News",
+      "source_url": "https://gulfnews.com/business/markets/wall-street-roars-dow-rockets-1500-points-as-democrats-sweep-congress-1.500736418",
+      "genuineness": "verified",
+      "outlets": [
+        "Associated Press",
+        "Gulf News",
+        "Reuters"
+      ],
+      "image": null,
+      "image_credit": null
+    },
+    {
       "id": "world-20261105-1022-02",
       "published_ist": "2026-11-05T08:25:00+05:30",
       "headline": "South Korea: Hormuz ke paas mission badhega",
@@ -401,6 +252,62 @@
         "The Korea Herald",
         "The Korea Times",
         "Seoul Economic Daily"
+      ],
+      "image": null,
+      "image_credit": null
+    },
+    {
+      "id": "world-20261105-1622-01",
+      "published_ist": "2026-11-05T07:16:00+05:30",
+      "headline": "Uttar Korea: Nayi missile ka parikshan, drill bhi",
+      "detail": "Uttar Korea ne Budhvar ko nayi air defence missile ka parikshan kiya aur lambi doori ki cruise missile se ek nakli hawai adde par hamle ki drill bhi ki; Dakshin Korea ki sena ne Sondok se samudra ki taraf kai missile chhode jaane ki pushti ki hai.",
+      "category": "World",
+      "exam_angle": "Uttar Korea aur missile parikshan: International exams ke liye — suraksha parishad pratibandh aur kshetriya tanaav.",
+      "source": "Yonhap News Agency",
+      "source_url": "https://en.yna.co.kr/view/AEN20261105000651315?section=nk/nk",
+      "genuineness": "verified",
+      "outlets": [
+        "Yonhap News Agency",
+        "Reuters",
+        "Kyodo News"
+      ],
+      "image": "../images/world/world-20261105-1622-01.jpg",
+      "image_credit": "Yonhap News Agency"
+    },
+    {
+      "id": "world-20261105-1925-03",
+      "published_ist": "2026-11-05T07:01:00+05:30",
+      "headline": "Indonesia: Rashtrapati ke phone tap karne par barkhast",
+      "detail": "Rashtrapati Prabowo ne apne chief of staff Listyo Sigit Prabowo ko barkhast kar diya; unpar Rashtrapati, mantriyon aur patrakaron ke phone tap karne ka aarop hai, sarkar ne ise deshdroh jaisa bataya.",
+      "category": "World",
+      "exam_angle": "Indonesia: gair-kanuni nigrani aur deshdroh — dakshin-poorv Asia ki rajneeti ke liye.",
+      "source": "Dawn",
+      "source_url": "https://www.dawn.com/news/2042249/indonesian-president-sacks-aide-accused-of-wiretapping",
+      "genuineness": "verified",
+      "outlets": [
+        "Al Jazeera",
+        "South China Morning Post",
+        "The Manila Times",
+        "Dawn"
+      ],
+      "image": null,
+      "image_credit": null
+    },
+    {
+      "id": "world-20261105-1722-02",
+      "published_ist": "2026-11-05T06:54:00+05:30",
+      "headline": "Riyadh airport hamle me marne wale 14 hue",
+      "detail": "Bharatiya dutawas ne kaha 10 October ke hamle me gambhir ghayal doosre Bharatiya nagrik ki ICU me maut ho gayi; kul mrityu sankhya 14 ho gayi.",
+      "category": "World",
+      "exam_angle": "Houthi-Saudi sangharsh aur Khadi suraksha: West Asia ke liye exam angle.",
+      "source": "NDTV",
+      "source_url": "https://www.ndtv.com/world-news/second-indian-national-injured-in-october-10-riyadh-airport-attack-dies-12283407/amp/1",
+      "genuineness": "verified",
+      "outlets": [
+        "NDTV",
+        "Times Now World",
+        "EconoTimes",
+        "The Daily Jagran"
       ],
       "image": null,
       "image_credit": null
@@ -443,6 +350,97 @@
       ],
       "image": "../images/world/world-20261105-1222-01.jpg",
       "image_credit": "Martin Falbisoner / CC BY-SA 3.0"
+    },
+    {
+      "id": "world-20261105-1722-03",
+      "published_ist": "2026-11-05T04:50:00+05:30",
+      "headline": "Qatar ke paas tanker par do projectile hamle",
+      "detail": "UKMTO ne kaha Madinat ash Shamal se 50 nautical mile door tanker par do agyaat projectile lage; crew ki haalat aur nuksan abhi pata nahi.",
+      "category": "World",
+      "exam_angle": "Khadi me samudri suraksha aur tel marg: International exams ke liye mahatvapurna.",
+      "source": "Al Jazeera",
+      "source_url": "https://www.aljazeera.com/amp/news/liveblog/2026/11/5/iran-war-live-trump-admits-war-caused-election-loss-but-had-to-do-it",
+      "genuineness": "verified",
+      "outlets": [
+        "Associated Press",
+        "Al Jazeera",
+        "The Telegraph"
+      ],
+      "image": null,
+      "image_credit": null
+    },
+    {
+      "id": "world-20261105-1622-02",
+      "published_ist": "2026-11-05T02:07:00+05:30",
+      "headline": "Schumer: Democrat Iran yuddh khatm karenge",
+      "detail": "Senate ke Democrat neta Chuck Schumer ne kaha unki party Iran yuddh khatm karegi aur Congress ke kharch par niyantran ka istemal karke Trump par dabav banayegi; kuch Republican bhi is prayas me saath hain.",
+      "category": "World",
+      "exam_angle": "America ki yuddh shaktiyan: International exams ke liye — Congress ka 'power of the purse' aur yuddh ghoshna.",
+      "source": "TRT World",
+      "source_url": "https://www.trtworld.com/article/5070075db81c/amp",
+      "genuineness": "verified",
+      "outlets": [
+        "TRT World",
+        "Al Jazeera",
+        "Gulf News",
+        "The Tribune"
+      ],
+      "image": null,
+      "image_credit": null
+    },
+    {
+      "id": "world-20261105-2022-04",
+      "published_ist": "2026-11-05T00:56:00+05:30",
+      "headline": "Khamenei: Hamla hua to yuddh badhega",
+      "detail": "Iran ke sarvochch neta Mojtaba Khamenei ne chetavni di hai ki America ne dobara hamla kiya to yuddh ka daira aur badh jayega; unhone kaha ki chunav ke baad bhi America ki neeti badalne ki ummeed galat hai.",
+      "category": "World",
+      "exam_angle": "West Asia me tanav aur Hormuz se tel supply par asar — antarrashtriya sambandh ke liye mahatvapurna.",
+      "source": "Geo TV",
+      "source_url": "https://www.geo.tv/latest/689784-irans-supreme-leader-threatens-wider-war-if-us-resumes-strikes",
+      "genuineness": "verified",
+      "outlets": [
+        "Geo TV",
+        "Dawn",
+        "AFP"
+      ],
+      "image": null,
+      "image_credit": null
+    },
+    {
+      "id": "world-20261105-1622-03",
+      "published_ist": "2026-11-05T00:52:00+05:30",
+      "headline": "WHO: Ebola ki do nayi vaccine ka trial",
+      "detail": "WHO ne Congo me Bundibugyo Ebola ke khilaf Oxford-Serum Institute aur Moderna ki do nayi vaccine ke clinical trial ko manzoori di; is prakop me 5,300 se zyada logon ki maut ho chuki hai.",
+      "category": "World",
+      "exam_angle": "Ebola aur vaccine trial: International exams ke liye — WHO, Bundibugyo strain aur swasthya sankat.",
+      "source": "Al Jazeera",
+      "source_url": "https://www.aljazeera.com/news/2026/11/4/who-approves-trials-for-two-new-ebola-vaccines",
+      "genuineness": "verified",
+      "outlets": [
+        "Al Jazeera",
+        "World Health Organization",
+        "Anadolu Agency"
+      ],
+      "image": "../images/world/world-20261105-1622-03.jpg",
+      "image_credit": "Al Jazeera"
+    },
+    {
+      "id": "world-20261105-1925-04",
+      "published_ist": "2026-11-04T21:55:00+05:30",
+      "headline": "Johnson ne House Republican neta pad chhoda",
+      "detail": "Midterm me Republican haar ke agle din Speaker Mike Johnson ne kaha woh naye Congress me Republican neta ka pad nahi ladenge; woh saansad bane rahenge, aur Scalise aur Jordan daud me hain.",
+      "category": "World",
+      "exam_angle": "America: midterm chunav ke baad Congress me satta badlav aur netritva parivartan.",
+      "source": "USA Today",
+      "source_url": "https://www.usatoday.com/story/news/politics/2026/11/04/house-speaker-mike-johnson-gop-leadership/92609302007/",
+      "genuineness": "verified",
+      "outlets": [
+        "USA Today",
+        "Associated Press",
+        "New York Post"
+      ],
+      "image": "../images/world/world-20261105-1925-04.jpg",
+      "image_credit": "United States Congress / Public domain"
     }
   ]
 }
