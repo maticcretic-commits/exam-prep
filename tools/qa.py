@@ -22,113 +22,113 @@ ROOT = Path(__file__).resolve().parent.parent
 # legacy counts established via the page's real parse path (node eval)
 EXPECTED = {
     "ssc": {
-        "questions": 1015,
-        "oneliners": 524,
-        "capsules": 463
+        "questions": 1019,
+        "oneliners": 527,
+        "capsules": 466
     },
     "pte": {
-        "questions": 710,
-        "oneliners": 62,
-        "capsules": 48
+        "questions": 714,
+        "oneliners": 65,
+        "capsules": 51
     },
     "toefl": {
-        "questions": 800,
-        "oneliners": 68,
-        "capsules": 58
+        "questions": 804,
+        "oneliners": 71,
+        "capsules": 61
     },
     "gre": {
-        "questions": 719,
-        "oneliners": 59,
-        "capsules": 48
+        "questions": 722,
+        "oneliners": 62,
+        "capsules": 51
     },
     "gmat": {
-        "questions": 720,
-        "oneliners": 57,
-        "capsules": 46
+        "questions": 724,
+        "oneliners": 60,
+        "capsules": 49
     },
     "sat": {
-        "questions": 723,
-        "oneliners": 61,
-        "capsules": 47
+        "questions": 727,
+        "oneliners": 64,
+        "capsules": 50
     },
     "ielts": {
-        "questions": 751,
-        "oneliners": 74,
-        "capsules": 60,
+        "questions": 755,
+        "oneliners": 77,
+        "capsules": 63,
         "resources": 100
     },
     "railways": {
-        "questions": 1090,
-        "capsules": 81,
-        "oneliners": 93
+        "questions": 1094,
+        "capsules": 84,
+        "oneliners": 96
     },
     "law": {
-        "questions": 916,
-        "capsules": 263,
-        "oneliners": 383
+        "questions": 920,
+        "capsules": 266,
+        "oneliners": 386
     },
     "neet": {
-        "questions": 1211,
-        "oneliners": 495,
-        "capsules": 90
+        "questions": 1215,
+        "oneliners": 498,
+        "capsules": 93
     },
     "bpsc": {
-        "questions": 2154,
-        "capsules": 1083,
-        "oneliners": 1014
+        "questions": 2158,
+        "capsules": 1086,
+        "oneliners": 1017
     },
     "banking-certs": {
-        "questions": 2274,
-        "oneliners": 1177,
-        "capsules": 363,
+        "questions": 2278,
+        "oneliners": 1180,
+        "capsules": 366,
         "videos": 48
     },
     "upsc": {
-        "questions": 1187,
-        "oneliners": 116,
-        "capsules": 114
+        "questions": 1191,
+        "oneliners": 119,
+        "capsules": 117
     },
     "jee": {
-        "questions": 1282,
-        "oneliners": 429,
-        "capsules": 81
+        "questions": 1286,
+        "oneliners": 432,
+        "capsules": 84
     },
     "banking": {
-        "questions": 1049,
-        "capsules": 135,
-        "oneliners": 114
+        "questions": 1053,
+        "capsules": 138,
+        "oneliners": 117
     },
     "defence": {
-        "questions": 1167,
-        "capsules": 98,
-        "oneliners": 101
+        "questions": 1171,
+        "capsules": 101,
+        "oneliners": 104
     },
     "current-affairs": {
-        "questions": 972,
-        "oneliners": 180,
-        "capsules": 162
+        "questions": 976,
+        "oneliners": 183,
+        "capsules": 165
     },
     "software-ai-tech": {
-        "questions": 972,
-        "oneliners": 492,
-        "capsules": 106
+        "questions": 976,
+        "oneliners": 495,
+        "capsules": 109
     },
     "teaching": {
-        "questions": 908,
-        "capsules": 83,
-        "oneliners": 86
+        "questions": 912,
+        "capsules": 86,
+        "oneliners": 89
     },
     "ca": {
-        "questions": 1048,
-        "oneliners": 89,
-        "capsules": 87
+        "questions": 1052,
+        "oneliners": 92,
+        "capsules": 90
     },
     "sarkari-vacancies": {
-        "questions": 64,
-        "oneliners": 54,
-        "capsules": 34,
+        "questions": 67,
+        "oneliners": 57,
+        "capsules": 37,
         "videos": 0,
-        "listings": 254
+        "listings": 259
     }
 }
 
