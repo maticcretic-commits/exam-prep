@@ -1,0 +1,77 @@
+{
+ "date": "2026-11-06",
+ "date_hi": "6 November 2026",
+ "date_en": "6 November 2026",
+ "episodes": [
+  {
+   "episode": 85,
+   "video_hi": "suCC6AgFZeE",
+   "video_hinglish": "suCC6AgFZeE",
+   "capsules": [
+    {
+     "id": "ca-ep85-s1",
+     "headline_hi": "Lithium aur nickel processing ko badhava",
+     "headline_hinglish": "Lithium aur nickel processing ko badhava",
+     "detail_hi": "Cabinet ne lithium aur nickel ke processing ke liye do hazaar aath sau chaudah crore rupaye ki scheme manzoor ki.",
+     "detail_hinglish": "Cabinet ne lithium aur nickel ke processing ke liye do hazaar aath sau chaudah crore rupaye ki scheme manzoor ki.",
+     "category_hi": "Economy",
+     "category_en": "Economy"
+    },
+    {
+     "id": "ca-ep85-s2",
+     "headline_hi": "92 GWh energy storage ka bada plan",
+     "headline_hinglish": "92 GWh energy storage ka bada plan",
+     "detail_hi": "Cabinet ne chaudh hazaar paanch sau crore ki scheme se bavanbe gigawatt-hour grid storage banane ko manzoori di.",
+     "detail_hinglish": "Cabinet ne chaudh hazaar paanch sau crore ki scheme se bavanbe gigawatt-hour grid storage banane ko manzoori di.",
+     "category_hi": "Energy",
+     "category_en": "National"
+    },
+    {
+     "id": "ca-ep85-s3",
+     "headline_hi": "Do-bachha niyam par phir vichaar",
+     "headline_hinglish": "Do-bachha niyam par phir vichaar",
+     "detail_hi": "Supreme Court ne sthaniya chunavon ke do-bachha niyam par badi bench ko vichaar ke liye bheja.",
+     "detail_hinglish": "Supreme Court ne sthaniya chunavon ke do-bachha niyam par badi bench ko vichaar ke liye bheja.",
+     "category_hi": "Polity",
+     "category_en": "Polity"
+    },
+    {
+     "id": "ca-ep85-s4",
+     "headline_hi": "Hyderabad mein space debris hatane ki suvidha",
+     "headline_hinglish": "Hyderabad mein space debris hatane ki suvidha",
+     "detail_hi": "Hyderabad mein Bharat ki pehli niji space debris hatane ki suvidha shuru hui, antariksh mein kachra kam hoga.",
+     "detail_hinglish": "Hyderabad mein Bharat ki pehli niji space debris hatane ki suvidha shuru hui, antariksh mein kachra kam hoga.",
+     "category_hi": "Science",
+     "category_en": "National"
+    },
+    {
+     "id": "ca-ep85-s5",
+     "headline_hi": "Bharat ne Pakistan ko teen-do se haraya",
+     "headline_hinglish": "Bharat ne Pakistan ko teen-do se haraya",
+     "detail_hi": "SAFF Championship ke pehle match mein Bharat ne Pakistan ko teen-do se haraya; Suhail Bhat ne do goal kiye.",
+     "detail_hinglish": "SAFF Championship ke pehle match mein Bharat ne Pakistan ko teen-do se haraya; Suhail Bhat ne do goal kiye.",
+     "category_hi": "Sports",
+     "category_en": "Sports"
+    }
+   ],
+   "mcq": {
+    "id": "ca-ep85-mcq",
+    "q_hi": "Cabinet ne bavanbe gigawatt-hour energy storage ke liye kitne crore ki scheme manzoor ki?",
+    "q_hinglish": "Cabinet ne bavanbe gigawatt-hour energy storage ke liye kitne crore ki scheme manzoor ki?",
+    "options_hi": [
+     "10,000 crore",
+     "12,500 crore",
+     "14,500 crore",
+     "16,000 crore"
+    ],
+    "options_hinglish": [
+     "10,000 crore",
+     "12,500 crore",
+     "14,500 crore",
+     "16,000 crore"
+    ],
+    "answer_index": 2
+   }
+  }
+ ]
+}
