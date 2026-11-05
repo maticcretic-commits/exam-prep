@@ -1,99 +1,36 @@
 {
   "items": [
     {
-      "id": "world-20261105-1222-01",
-      "published_ist": "2026-11-05T05:56:33+05:30",
-      "headline": "Democrat ne Congress ke dono sadan jeete",
-      "detail": "Democrat ne House me 235 seat jeetkar aur Senate me saat seat palatkar Congress ke dono sadan par kabza kar liya; Trump ko ab vibhajit sarkar me kaam karna hoga.",
+      "id": "world-20261105-1322-01",
+      "published_ist": "2026-11-05T12:00:12+05:30",
+      "headline": "Armenia: Vipaksh ne ekjut hone ka elaan kiya",
+      "detail": "Armenia ke vipakshi dalon ne 'rashtriya ekjutata' banane ka elaan kiya; naya samvidhan kharij karna aur bina ektarfa samjhote ke shanti unki prathamikta hai.",
       "category": "World",
-      "exam_angle": "America ki chunav vyavastha: International exams ke liye — midterm chunav aur vibhajit sarkar.",
-      "source": "Reuters",
-      "source_url": "https://www.reuters.com/world/us/seven-numbers-that-explain-democrats-us-midterm-rout-2026-11-04/",
-      "genuineness": "verified",
+      "exam_angle": "Armenia aur Dakshin Caucasus: International exams ke liye — samvidhan, shanti aur vipaksh.",
+      "source": "1news.az",
+      "source_url": "https://1news.az/en/news/20261105103012198-Armenian-opposition-announces-formation-of-nationwide-consolidation",
+      "genuineness": "corroborated",
       "outlets": [
-        "Associated Press",
-        "Reuters",
-        "Le Monde",
-        "FirstPost",
-        "The Indian Express"
+        "Sputnik Armenia",
+        "Izvestia"
       ],
-      "image": "../images/world/world-20261105-1222-01.jpg",
-      "image_credit": "Martin Falbisoner / CC BY-SA 3.0"
+      "image": "../images/world/world-20261105-1322-01.jpg",
+      "image_credit": "Benoît Prieur / CC0"
     },
     {
-      "id": "world-20261105-1222-02",
-      "published_ist": "2026-11-04T23:45:30+05:30",
-      "headline": "Trump: Iran yuddh ne haraya, phir bhi karunga",
-      "detail": "Trump ne mana Iran yuddh ne petrol mehenga karke Republican ko midterm me haraya, lekin kaha Iran ko parmanu hathiyar se rokna zaroori tha aur woh phir bhi wahi karte.",
+      "id": "world-20261105-1322-02",
+      "published_ist": "2026-11-05T11:01:00+05:30",
+      "headline": "Japan: Docomo network desh bhar thapp",
+      "detail": "NTT Docomo ne kaha subah 11:18 baje se pure Japan me call, data aur SMS mushkil ho gaye; isse pehle online shop aur My docomo bhi band kiye gaye kyunki server me ghuspaith ka shak hai.",
       "category": "World",
-      "exam_angle": "America-Iran sambandh: International exams ke liye — yuddh aur chunav par asar.",
-      "source": "The Economic Times",
-      "source_url": "https://economictimes.indiatimes.com/news/international/world-news/trump-admits-iran-war-hurt-republicans-in-midterms-but-says-iran-thing-had-to-be-done/articleshow/135549452.cms",
+      "exam_angle": "Japan ki telecom suraksha: International exams ke liye — cyber hamla aur aavashyak seva par asar.",
+      "source": "Kyodo News",
+      "source_url": "https://english.kyodonews.net/articles/-/90436",
       "genuineness": "verified",
       "outlets": [
-        "The Economic Times",
-        "NDTV",
-        "Arab News",
-        "Rediff",
-        "India TV"
-      ],
-      "image": "../images/world/world-20261105-1222-02.jpg",
-      "image_credit": "The White House / Public domain"
-    },
-    {
-      "id": "world-20261105-1222-03",
-      "published_ist": "2026-11-05T03:47:12+05:30",
-      "headline": "Bavaria neta Aiwanger Berlin hotel me mrit mile",
-      "detail": "Bavaria ke up-pradhan aur arth mantri Hubert Aiwanger, 55, Berlin ke hotel kamre me mrit mile; police ne jaanch shuru ki, maut ka karan abhi saaf nahi hai.",
-      "category": "World",
-      "exam_angle": "Germany ki rajneeti: International exams ke liye — rajya sarkar aur neta.",
-      "source": "Malay Mail",
-      "source_url": "https://www.malaymail.com/news/world/2026/11/05/german-politician-hubert-aiwanger-found-dead-in-berlin-hotel-police-launch-investigation/242015",
-      "genuineness": "verified",
-      "outlets": [
-        "Reuters",
-        "Agence France-Presse",
-        "Bild",
-        "The Berlin Spectator"
-      ],
-      "image": "../images/world/world-20261105-1222-03.jpg",
-      "image_credit": "Superbass / CC BY-SA 4.0"
-    },
-    {
-      "id": "world-20261105-1122-01",
-      "published_ist": "2026-11-05T06:25:00+05:30",
-      "headline": "California: Arabpati tax haar ki taraf",
-      "detail": "California me Proposition 40, jo lagbhag 200 arabpatiyon par ek baar 5% tax lagata, lagbhag 60% vote ginne par 55.6% 'No' ke saath haar ki taraf hai; natija abhi aadhikarik roop se ghoshit nahi hua.",
-      "category": "World",
-      "exam_angle": "America ki chunav vyavastha: International exams ke liye — ballot proposal aur wealth tax.",
-      "source": "Malay Mail",
-      "source_url": "https://www.malaymail.com/news/world/2026/11/05/california-billionaire-wealth-tax-proposal-appears-headed-for-defeat-as-voters-reject-one-off-levy/242012",
-      "genuineness": "verified",
-      "outlets": [
-        "AFP",
-        "Inc.",
-        "Tax Foundation",
-        "Associated Press"
-      ],
-      "image": null,
-      "image_credit": null
-    },
-    {
-      "id": "world-20261105-1122-02",
-      "published_ist": "2026-11-05T01:19:00+05:30",
-      "headline": "America ne Iran tel network par pratibandh lagaya",
-      "detail": "America ke Treasury ne 4 November ko Chandigarh ke Suniel Kumar Sharma aur Jaspreet Preeti Shahid par pratibandh lagaya, jinka aarop hai ki unhone Iranian tel le jaane wale jahazon ko nakli jhanda aur certificate diye; Turkiye ki ek company par bhi pratibandh laga.",
-      "category": "World",
-      "exam_angle": "Pratibandh aur shadow fleet: International exams ke liye — Iran tel pratibandh aur samudri dhokhadhadi.",
-      "source": "Times Now",
-      "source_url": "https://www.timesnownews.com/world/us-sanctions-indian-couple-and-their-companies-for-allegedly-helping-irans-oil-fleet-article-156466584",
-      "genuineness": "verified",
-      "outlets": [
-        "Times Now",
-        "Financial Express",
-        "The Hindu BusinessLine",
-        "The New Indian Express",
-        "Business Today"
+        "Kyodo News",
+        "CGTN",
+        "TV Asahi"
       ],
       "image": null,
       "image_credit": null
@@ -136,6 +73,64 @@
       "image_credit": null
     },
     {
+      "id": "world-20261105-1122-01",
+      "published_ist": "2026-11-05T06:25:00+05:30",
+      "headline": "California: Arabpati tax haar ki taraf",
+      "detail": "California me Proposition 40, jo lagbhag 200 arabpatiyon par ek baar 5% tax lagata, lagbhag 60% vote ginne par 55.6% 'No' ke saath haar ki taraf hai; natija abhi aadhikarik roop se ghoshit nahi hua.",
+      "category": "World",
+      "exam_angle": "America ki chunav vyavastha: International exams ke liye — ballot proposal aur wealth tax.",
+      "source": "Malay Mail",
+      "source_url": "https://www.malaymail.com/news/world/2026/11/05/california-billionaire-wealth-tax-proposal-appears-headed-for-defeat-as-voters-reject-one-off-levy/242012",
+      "genuineness": "verified",
+      "outlets": [
+        "AFP",
+        "Inc.",
+        "Tax Foundation",
+        "Associated Press"
+      ],
+      "image": null,
+      "image_credit": null
+    },
+    {
+      "id": "world-20261105-1222-01",
+      "published_ist": "2026-11-05T05:56:33+05:30",
+      "headline": "Democrat ne Congress ke dono sadan jeete",
+      "detail": "Democrat ne House me 235 seat jeetkar aur Senate me saat seat palatkar Congress ke dono sadan par kabza kar liya; Trump ko ab vibhajit sarkar me kaam karna hoga.",
+      "category": "World",
+      "exam_angle": "America ki chunav vyavastha: International exams ke liye — midterm chunav aur vibhajit sarkar.",
+      "source": "Reuters",
+      "source_url": "https://www.reuters.com/world/us/seven-numbers-that-explain-democrats-us-midterm-rout-2026-11-04/",
+      "genuineness": "verified",
+      "outlets": [
+        "Associated Press",
+        "Reuters",
+        "Le Monde",
+        "FirstPost",
+        "The Indian Express"
+      ],
+      "image": "../images/world/world-20261105-1222-01.jpg",
+      "image_credit": "Martin Falbisoner / CC BY-SA 3.0"
+    },
+    {
+      "id": "world-20261105-1222-03",
+      "published_ist": "2026-11-05T03:47:12+05:30",
+      "headline": "Bavaria neta Aiwanger Berlin hotel me mrit mile",
+      "detail": "Bavaria ke up-pradhan aur arth mantri Hubert Aiwanger, 55, Berlin ke hotel kamre me mrit mile; police ne jaanch shuru ki, maut ka karan abhi saaf nahi hai.",
+      "category": "World",
+      "exam_angle": "Germany ki rajneeti: International exams ke liye — rajya sarkar aur neta.",
+      "source": "Malay Mail",
+      "source_url": "https://www.malaymail.com/news/world/2026/11/05/german-politician-hubert-aiwanger-found-dead-in-berlin-hotel-police-launch-investigation/242015",
+      "genuineness": "verified",
+      "outlets": [
+        "Reuters",
+        "Agence France-Presse",
+        "Bild",
+        "The Berlin Spectator"
+      ],
+      "image": "../images/world/world-20261105-1222-03.jpg",
+      "image_credit": "Superbass / CC BY-SA 4.0"
+    },
+    {
       "id": "world-20261105-0922-01",
       "published_ist": "2026-11-05T03:33:00+05:30",
       "headline": "Myanmar Rohingya case: ICJ faisla 19 Nov ko",
@@ -154,18 +149,20 @@
       "image_credit": null
     },
     {
-      "id": "world-20261105-0922-02",
-      "published_ist": "2026-11-04T21:49:00+05:30",
-      "headline": "Congo se Ebola patient UK bheja jayega",
-      "detail": "Congo me Ebola positive paye gaye British healthcare worker ko specialist ilaaj ke liye UK bheja ja raha hai; sarkar ne kaha janata ko khatra kam hai.",
+      "id": "world-20261105-0622-01",
+      "published_ist": "2026-11-05T02:42:00+05:30",
+      "headline": "Komyshuvakha hamle me marne wale 40 hue",
+      "detail": "Zelenskyy ne kaha sahayata kendra par hamle me 40 log mare gaye, 33 se badhkar, aur 30 se zyada abhi malbe ke neeche ho sakte hain.",
       "category": "World",
-      "exam_angle": "Ebola aur global health suraksha: International exams ke liye — sankramak rog aur medical evacuation.",
-      "source": "Reuters",
-      "source_url": "https://www.reuters.com/business/healthcare-pharmaceuticals/british-healthcare-worker-with-ebola-be-evacuated-congo-uk-document-shows-2026-11-04/",
-      "genuineness": "corroborated",
+      "exam_angle": "Ukraine yuddh aur nagrik suraksha: International exams ke liye — sahayata kendra par hamla.",
+      "source": "Channel NewsAsia",
+      "source_url": "https://www.channelnewsasia.com/world/ukraine-russia-war-aid-centre-attack-40-killed-6525456",
+      "genuineness": "verified",
       "outlets": [
         "Reuters",
-        "Sky News"
+        "Agence France-Presse",
+        "Kyiv Post",
+        "Al Jazeera"
       ],
       "image": null,
       "image_credit": null
@@ -192,6 +189,63 @@
       "image_credit": null
     },
     {
+      "id": "world-20261105-1322-03",
+      "published_ist": "2026-11-05T01:35:00+05:30",
+      "headline": "Japan: Shodo ko UNESCO virasat ki sifarish",
+      "detail": "UNESCO ki salahkar sanstha ne Japan ki shodo kala ko Amurt Sanskritik Virasat suchi me shamil karne ki sifarish ki; antim faisla December me hoga.",
+      "category": "World",
+      "exam_angle": "UNESCO Amurt Sanskritik Virasat: International exams ke liye — Japan ki 24th entry ho sakti hai.",
+      "source": "The Japan Times",
+      "source_url": "https://www.japantimes.co.jp/news/2026/11/05/japan/society/calligraphy-unesco-list/",
+      "genuineness": "corroborated",
+      "outlets": [
+        "The Japan Times",
+        "Kyodo News"
+      ],
+      "image": "../images/world/world-20261105-1322-03.jpg",
+      "image_credit": "Ayu Nabila / CC BY-SA 4.0"
+    },
+    {
+      "id": "world-20261105-1122-02",
+      "published_ist": "2026-11-05T01:19:00+05:30",
+      "headline": "America ne Iran tel network par pratibandh lagaya",
+      "detail": "America ke Treasury ne 4 November ko Chandigarh ke Suniel Kumar Sharma aur Jaspreet Preeti Shahid par pratibandh lagaya, jinka aarop hai ki unhone Iranian tel le jaane wale jahazon ko nakli jhanda aur certificate diye; Turkiye ki ek company par bhi pratibandh laga.",
+      "category": "World",
+      "exam_angle": "Pratibandh aur shadow fleet: International exams ke liye — Iran tel pratibandh aur samudri dhokhadhadi.",
+      "source": "Times Now",
+      "source_url": "https://www.timesnownews.com/world/us-sanctions-indian-couple-and-their-companies-for-allegedly-helping-irans-oil-fleet-article-156466584",
+      "genuineness": "verified",
+      "outlets": [
+        "Times Now",
+        "Financial Express",
+        "The Hindu BusinessLine",
+        "The New Indian Express",
+        "Business Today"
+      ],
+      "image": null,
+      "image_credit": null
+    },
+    {
+      "id": "world-20261105-1222-02",
+      "published_ist": "2026-11-04T23:45:30+05:30",
+      "headline": "Trump: Iran yuddh ne haraya, phir bhi karunga",
+      "detail": "Trump ne mana Iran yuddh ne petrol mehenga karke Republican ko midterm me haraya, lekin kaha Iran ko parmanu hathiyar se rokna zaroori tha aur woh phir bhi wahi karte.",
+      "category": "World",
+      "exam_angle": "America-Iran sambandh: International exams ke liye — yuddh aur chunav par asar.",
+      "source": "The Economic Times",
+      "source_url": "https://economictimes.indiatimes.com/news/international/world-news/trump-admits-iran-war-hurt-republicans-in-midterms-but-says-iran-thing-had-to-be-done/articleshow/135549452.cms",
+      "genuineness": "verified",
+      "outlets": [
+        "The Economic Times",
+        "NDTV",
+        "Arab News",
+        "Rediff",
+        "India TV"
+      ],
+      "image": "../images/world/world-20261105-1222-02.jpg",
+      "image_credit": "The White House / Public domain"
+    },
+    {
       "id": "world-20261105-0822-02",
       "published_ist": "2026-11-04T22:06:00+05:30",
       "headline": "Bangladesh: December se garment mazdooron ka naya vetan",
@@ -211,19 +265,54 @@
       "image_credit": null
     },
     {
-      "id": "world-20261105-0822-03",
-      "published_ist": "2026-11-04T14:21:00+05:30",
-      "headline": "Thailand ke mantri 12 Nov ko Myanmar jayenge",
-      "detail": "Videsh mantri Sihasak Phuangketkeow 12 November ko Myanmar jayenge; seema par jhadap aur ASEAN shikhar sammelan se pehle Myanmar ka rukh janenge.",
+      "id": "world-20261105-0922-02",
+      "published_ist": "2026-11-04T21:49:00+05:30",
+      "headline": "Congo se Ebola patient UK bheja jayega",
+      "detail": "Congo me Ebola positive paye gaye British healthcare worker ko specialist ilaaj ke liye UK bheja ja raha hai; sarkar ne kaha janata ko khatra kam hai.",
       "category": "World",
-      "exam_angle": "ASEAN: Myanmar sankat aur seema suraksha — dakshin-poorv Asia ke liye.",
-      "source": "DVB",
-      "source_url": "https://english.dvb.no/thai-foreign-minister-to-visit-myanmar-ahead-of-asean-summit-in-philippines/",
+      "exam_angle": "Ebola aur global health suraksha: International exams ke liye — sankramak rog aur medical evacuation.",
+      "source": "Reuters",
+      "source_url": "https://www.reuters.com/business/healthcare-pharmaceuticals/british-healthcare-worker-with-ebola-be-evacuated-congo-uk-document-shows-2026-11-04/",
+      "genuineness": "corroborated",
+      "outlets": [
+        "Reuters",
+        "Sky News"
+      ],
+      "image": null,
+      "image_credit": null
+    },
+    {
+      "id": "world-20261104-2122-01",
+      "published_ist": "2026-11-04T16:54:50+05:30",
+      "headline": "China: America se sahyog jaari rahega",
+      "detail": "Videsh mantralaya ki pravakta Mao Ning ne kaha chunav America ka andaruni mamla hai aur China netaon ke samjhaute par sahyog jaari rakhega.",
+      "category": "World",
+      "exam_angle": "China-America sambandh: International exams ke liye — chunav ke baad kootneeti.",
+      "source": "Al Jazeera",
+      "source_url": "https://www.aljazeera.com/news/2026/11/4/seismic-shift-world-reacts-to-us-midterm-election-results",
       "genuineness": "verified",
       "outlets": [
-        "Agence France-Presse",
-        "DVB",
-        "Thai Newsroom"
+        "Al Jazeera",
+        "WION",
+        "PTI"
+      ],
+      "image": null,
+      "image_credit": null
+    },
+    {
+      "id": "world-20261104-2222-01",
+      "published_ist": "2026-11-04T16:30:00+05:30",
+      "headline": "UN: Jalvayu madad zaroorat se bahut kam",
+      "detail": "UNEP ki 2026 Adaptation Gap Report me kaha gaya vikas-sheel deshon ko 2035 tak saalana lagbhag $305 billion ki zaroorat hai, jabki 2024 me sirf $28.2 billion mile; madad teen guna badhane par bhi sirf 20-29% zaroorat poori hogi.",
+      "category": "World",
+      "exam_angle": "Jalvayu vitt aur COP31: International exams ke liye — adaptation finance ka antar.",
+      "source": "Reuters",
+      "source_url": "https://www.reuters.com/sustainability/cop/rich-countries-fall-far-short-climate-adaptation-funding-un-says-2026-11-04/",
+      "genuineness": "verified",
+      "outlets": [
+        "Reuters",
+        "UN News",
+        "UNEP"
       ],
       "image": null,
       "image_credit": null
@@ -249,95 +338,36 @@
       "image_credit": null
     },
     {
-      "id": "world-20261105-0722-02",
-      "published_ist": "2026-11-04T13:06:00+05:30",
-      "headline": "Muji: 10.9 lakh card number leak ho sakte",
-      "detail": "Japan ki Muji operator Ryohin Keikaku ne kaha lagbhag 1.09 million MUJI Card record, jinme card number shamil hain, leak ho sakte hain; lagbhag 345,000 card abhi valid hain.",
+      "id": "world-20261104-2222-03",
+      "published_ist": "2026-11-04T16:07:21+05:30",
+      "headline": "Israel: Chunav natije pramanit, vivad jaari",
+      "detail": "Israel ki Central Elections Committee ne 27 October ke chunav ke natije pramanit karke Rashtrapati Herzog ko saunp diye; aayog ko dhokhadhadi ka koi saboot nahi mila, jabki Netanyahu ne daave jaari rakhe.",
       "category": "World",
-      "exam_angle": "Cyber suraksha aur data sanrakshan: International exams ke liye — Japan me bada data leak.",
-      "source": "The Straits Times",
-      "source_url": "https://www.straitstimes.com/asia/east-asia/credit-card-numbers-may-have-leaked-in-cyberattack-on-japans-muji?ref=latest-headlines",
-      "genuineness": "verified",
-      "outlets": [
-        "The Straits Times",
-        "MLex",
-        "TBS News"
-      ],
-      "image": null,
-      "image_credit": null
-    },
-    {
-      "id": "world-20261105-0622-01",
-      "published_ist": "2026-11-05T02:42:00+05:30",
-      "headline": "Komyshuvakha hamle me marne wale 40 hue",
-      "detail": "Zelenskyy ne kaha sahayata kendra par hamle me 40 log mare gaye, 33 se badhkar, aur 30 se zyada abhi malbe ke neeche ho sakte hain.",
-      "category": "World",
-      "exam_angle": "Ukraine yuddh aur nagrik suraksha: International exams ke liye — sahayata kendra par hamla.",
-      "source": "Channel NewsAsia",
-      "source_url": "https://www.channelnewsasia.com/world/ukraine-russia-war-aid-centre-attack-40-killed-6525456",
-      "genuineness": "verified",
-      "outlets": [
-        "Reuters",
-        "Agence France-Presse",
-        "Kyiv Post",
-        "Al Jazeera"
-      ],
-      "image": null,
-      "image_credit": null
-    },
-    {
-      "id": "world-20261105-0622-02",
-      "published_ist": "2026-11-04T10:59:00+05:30",
-      "headline": "Texas: Talarico 1988 ke baad pehle Democrat Senator",
-      "detail": "Democrat James Talarico ne Republican Ken Paxton ko harakar Texas se 1988 ke baad pehli baar Senate seat jeeti; ve sabse yuva Senator bane.",
-      "category": "World",
-      "exam_angle": "America ki chunav vyavastha: International exams ke liye — Senate aur midterm chunav.",
-      "source": "Times Now",
-      "source_url": "https://www.timesnownews.com/world/us/us-news/texas-turns-blue-as-james-talarico-ends-38-year-democratic-drought-article-156461647",
-      "genuineness": "verified",
-      "outlets": [
-        "Associated Press",
-        "NBC News",
-        "USA Today",
-        "Times Now",
-        "Le Monde"
-      ],
-      "image": null,
-      "image_credit": null
-    },
-    {
-      "id": "world-20261105-0622-03",
-      "published_ist": "2026-11-04T10:41:00+05:30",
-      "headline": "North Korea ne samundar ki taraf missile chhode",
-      "detail": "South Korea ki sena ne kaha Sondok se kai missile chhode gaye, Binance hack ke aarop par America se baatchit se inkaar ke kuch ghante baad.",
-      "category": "World",
-      "exam_angle": "Korea prayadweep aur kootneeti: International exams ke liye — missile parikshan aur America se tanaav.",
+      "exam_angle": "Israel ki rajneeti: International exams ke liye — chunav aur sarkar gathan.",
       "source": "Al Jazeera",
-      "source_url": "https://www.aljazeera.com/news/2026/11/4/n-korea-fires-multiple-missiles-denies-us-claims-on-binance-hack",
+      "source_url": "https://www.aljazeera.com/news/2026/11/4/israel-vote-results-confirmed-as-election-commission-rejects-fraud-claims",
       "genuineness": "verified",
       "outlets": [
-        "Yonhap",
-        "Associated Press",
         "Al Jazeera",
-        "The Hindu"
+        "The Hindu",
+        "Times of Israel"
       ],
       "image": null,
       "image_credit": null
     },
     {
-      "id": "world-20261104-2222-01",
-      "published_ist": "2026-11-04T16:30:00+05:30",
-      "headline": "UN: Jalvayu madad zaroorat se bahut kam",
-      "detail": "UNEP ki 2026 Adaptation Gap Report me kaha gaya vikas-sheel deshon ko 2035 tak saalana lagbhag $305 billion ki zaroorat hai, jabki 2024 me sirf $28.2 billion mile; madad teen guna badhane par bhi sirf 20-29% zaroorat poori hogi.",
+      "id": "world-20261104-2022-01",
+      "published_ist": "2026-11-04T16:00:00+05:30",
+      "headline": "Philippines: Bahut tez El Niño ki chetavni",
+      "detail": "PAGASA ne kaha bahut tez El Niño ab maujood hai, 2027 ki pehli timahi tak rahega aur 87 ilakon mein sookha aa sakta hai.",
       "category": "World",
-      "exam_angle": "Jalvayu vitt aur COP31: International exams ke liye — adaptation finance ka antar.",
-      "source": "Reuters",
-      "source_url": "https://www.reuters.com/sustainability/cop/rich-countries-fall-far-short-climate-adaptation-funding-un-says-2026-11-04/",
-      "genuineness": "verified",
+      "exam_angle": "El Niño aur jalvayu: International exams ke liye — sookha aur krishi par asar.",
+      "source": "GMA News",
+      "source_url": "https://www.gmanetwork.com/news/topstories/nation/1008287/very-strong-el-ni-o-now-present-in-tropical-pacific-says-pagasa/story/",
+      "genuineness": "corroborated",
       "outlets": [
-        "Reuters",
-        "UN News",
-        "UNEP"
+        "GMA News",
+        "BusinessWorld"
       ],
       "image": null,
       "image_credit": null
@@ -361,42 +391,6 @@
       "image_credit": null
     },
     {
-      "id": "world-20261104-2222-03",
-      "published_ist": "2026-11-04T16:07:21+05:30",
-      "headline": "Israel: Chunav natije pramanit, vivad jaari",
-      "detail": "Israel ki Central Elections Committee ne 27 October ke chunav ke natije pramanit karke Rashtrapati Herzog ko saunp diye; aayog ko dhokhadhadi ka koi saboot nahi mila, jabki Netanyahu ne daave jaari rakhe.",
-      "category": "World",
-      "exam_angle": "Israel ki rajneeti: International exams ke liye — chunav aur sarkar gathan.",
-      "source": "Al Jazeera",
-      "source_url": "https://www.aljazeera.com/news/2026/11/4/israel-vote-results-confirmed-as-election-commission-rejects-fraud-claims",
-      "genuineness": "verified",
-      "outlets": [
-        "Al Jazeera",
-        "The Hindu",
-        "Times of Israel"
-      ],
-      "image": null,
-      "image_credit": null
-    },
-    {
-      "id": "world-20261104-2122-01",
-      "published_ist": "2026-11-04T16:54:50+05:30",
-      "headline": "China: America se sahyog jaari rahega",
-      "detail": "Videsh mantralaya ki pravakta Mao Ning ne kaha chunav America ka andaruni mamla hai aur China netaon ke samjhaute par sahyog jaari rakhega.",
-      "category": "World",
-      "exam_angle": "China-America sambandh: International exams ke liye — chunav ke baad kootneeti.",
-      "source": "Al Jazeera",
-      "source_url": "https://www.aljazeera.com/news/2026/11/4/seismic-shift-world-reacts-to-us-midterm-election-results",
-      "genuineness": "verified",
-      "outlets": [
-        "Al Jazeera",
-        "WION",
-        "PTI"
-      ],
-      "image": null,
-      "image_credit": null
-    },
-    {
       "id": "world-20261104-2122-02",
       "published_ist": "2026-11-04T14:34:49+05:30",
       "headline": "Germany: Ukraine ko €200 million sardiyon ki madad",
@@ -414,40 +408,41 @@
       "image_credit": null
     },
     {
-      "id": "world-20261104-2022-01",
-      "published_ist": "2026-11-04T16:00:00+05:30",
-      "headline": "Philippines: Bahut tez El Niño ki chetavni",
-      "detail": "PAGASA ne kaha bahut tez El Niño ab maujood hai, 2027 ki pehli timahi tak rahega aur 87 ilakon mein sookha aa sakta hai.",
+      "id": "world-20261105-0822-03",
+      "published_ist": "2026-11-04T14:21:00+05:30",
+      "headline": "Thailand ke mantri 12 Nov ko Myanmar jayenge",
+      "detail": "Videsh mantri Sihasak Phuangketkeow 12 November ko Myanmar jayenge; seema par jhadap aur ASEAN shikhar sammelan se pehle Myanmar ka rukh janenge.",
       "category": "World",
-      "exam_angle": "El Niño aur jalvayu: International exams ke liye — sookha aur krishi par asar.",
-      "source": "GMA News",
-      "source_url": "https://www.gmanetwork.com/news/topstories/nation/1008287/very-strong-el-ni-o-now-present-in-tropical-pacific-says-pagasa/story/",
-      "genuineness": "corroborated",
+      "exam_angle": "ASEAN: Myanmar sankat aur seema suraksha — dakshin-poorv Asia ke liye.",
+      "source": "DVB",
+      "source_url": "https://english.dvb.no/thai-foreign-minister-to-visit-myanmar-ahead-of-asean-summit-in-philippines/",
+      "genuineness": "verified",
       "outlets": [
-        "GMA News",
-        "BusinessWorld"
+        "Agence France-Presse",
+        "DVB",
+        "Thai Newsroom"
       ],
       "image": null,
       "image_credit": null
     },
     {
-      "id": "world-20261104-2022-02",
-      "published_ist": "2026-11-04T11:49:00+05:30",
-      "headline": "Philippines-China: Baatchit jaari rakhne ka vaada",
-      "detail": "Videsh mantriyon Lazaro aur Wang Yi ne phone par baat ke baad samvaad jaari rakhne ka vaada kiya, ASEAN shikhar sammelan se pehle tanaav kam karne ki koshish hai.",
+      "id": "world-20261105-0722-02",
+      "published_ist": "2026-11-04T13:06:00+05:30",
+      "headline": "Muji: 10.9 lakh card number leak ho sakte",
+      "detail": "Japan ki Muji operator Ryohin Keikaku ne kaha lagbhag 1.09 million MUJI Card record, jinme card number shamil hain, leak ho sakte hain; lagbhag 345,000 card abhi valid hain.",
       "category": "World",
-      "exam_angle": "ASEAN aur South China Sea: International exams ke liye — vivaad aur kootneeti.",
-      "source": "Reuters",
-      "source_url": "https://www.reuters.com/world/china/philippines-china-pledge-maintain-dialogue-despite-tensions-2026-11-04/",
+      "exam_angle": "Cyber suraksha aur data sanrakshan: International exams ke liye — Japan me bada data leak.",
+      "source": "The Straits Times",
+      "source_url": "https://www.straitstimes.com/asia/east-asia/credit-card-numbers-may-have-leaked-in-cyberattack-on-japans-muji?ref=latest-headlines",
       "genuineness": "verified",
       "outlets": [
-        "Reuters",
-        "Rappler",
-        "Daily Tribune"
+        "The Straits Times",
+        "MLex",
+        "TBS News"
       ],
       "image": null,
       "image_credit": null
     }
   ],
-  "updated_ist": "2026-11-05T12:24:13+05:30"
+  "updated_ist": "2026-11-05T13:23:57+05:30"
 }
