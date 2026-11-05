@@ -1,6 +1,62 @@
 {
-  "updated_ist": "2026-11-05T16:23:53+05:30",
+  "updated_ist": "2026-11-05T17:24:52+05:30",
   "items": [
+    {
+      "id": "world-20261105-1722-01",
+      "published_ist": "2026-11-05T16:27:00+05:30",
+      "headline": "Ronaldo ne international football se sannyas liya",
+      "detail": "Portugal ke 41 saal ke star ne video message me kaha, woh November break ke baad No. 7 shirt wapas karenge; 234 match me 146 goal ka record banaya.",
+      "category": "World",
+      "exam_angle": "Khel GK: Purush international football me sabse zyada goal (146) aur match (234) ka record.",
+      "source": "Al Jazeera",
+      "source_url": "https://www.aljazeera.com/sports/2026/11/5/cristiano-ronaldo-announces-retirement-from-international-football",
+      "genuineness": "verified",
+      "outlets": [
+        "Al Jazeera",
+        "CNN",
+        "Sky Sports",
+        "Associated Press"
+      ],
+      "image": "../images/world/world-20261105-1722-01.jpg",
+      "image_credit": "Ludovic Péron / CC BY-SA 3.0"
+    },
+    {
+      "id": "world-20261105-1722-02",
+      "published_ist": "2026-11-05T06:54:00+05:30",
+      "headline": "Riyadh airport hamle me marne wale 14 hue",
+      "detail": "Bharatiya dutawas ne kaha 10 October ke hamle me gambhir ghayal doosre Bharatiya nagrik ki ICU me maut ho gayi; kul mrityu sankhya 14 ho gayi.",
+      "category": "World",
+      "exam_angle": "Houthi-Saudi sangharsh aur Khadi suraksha: West Asia ke liye exam angle.",
+      "source": "NDTV",
+      "source_url": "https://www.ndtv.com/world-news/second-indian-national-injured-in-october-10-riyadh-airport-attack-dies-12283407/amp/1",
+      "genuineness": "verified",
+      "outlets": [
+        "NDTV",
+        "Times Now World",
+        "EconoTimes",
+        "The Daily Jagran"
+      ],
+      "image": null,
+      "image_credit": null
+    },
+    {
+      "id": "world-20261105-1722-03",
+      "published_ist": "2026-11-05T04:50:00+05:30",
+      "headline": "Qatar ke paas tanker par do projectile hamle",
+      "detail": "UKMTO ne kaha Madinat ash Shamal se 50 nautical mile door tanker par do agyaat projectile lage; crew ki haalat aur nuksan abhi pata nahi.",
+      "category": "World",
+      "exam_angle": "Khadi me samudri suraksha aur tel marg: International exams ke liye mahatvapurna.",
+      "source": "Al Jazeera",
+      "source_url": "https://www.aljazeera.com/amp/news/liveblog/2026/11/5/iran-war-live-trump-admits-war-caused-election-loss-but-had-to-do-it",
+      "genuineness": "verified",
+      "outlets": [
+        "Associated Press",
+        "Al Jazeera",
+        "The Telegraph"
+      ],
+      "image": null,
+      "image_credit": null
+    },
     {
       "id": "world-20261105-1622-01",
       "published_ist": "2026-11-05T07:16:00+05:30",
@@ -388,62 +444,6 @@
         "The Hindu BusinessLine",
         "The New Indian Express",
         "Business Today"
-      ],
-      "image": null,
-      "image_credit": null
-    },
-    {
-      "id": "world-20261105-1222-02",
-      "published_ist": "2026-11-04T23:45:30+05:30",
-      "headline": "Trump: Iran yuddh ne haraya, phir bhi karunga",
-      "detail": "Trump ne mana Iran yuddh ne petrol mehenga karke Republican ko midterm me haraya, lekin kaha Iran ko parmanu hathiyar se rokna zaroori tha aur woh phir bhi wahi karte.",
-      "category": "World",
-      "exam_angle": "America-Iran sambandh: International exams ke liye — yuddh aur chunav par asar.",
-      "source": "The Economic Times",
-      "source_url": "https://economictimes.indiatimes.com/news/international/world-news/trump-admits-iran-war-hurt-republicans-in-midterms-but-says-iran-thing-had-to-be-done/articleshow/135549452.cms",
-      "genuineness": "verified",
-      "outlets": [
-        "The Economic Times",
-        "NDTV",
-        "Arab News",
-        "Rediff",
-        "India TV"
-      ],
-      "image": "../images/world/world-20261105-1222-02.jpg",
-      "image_credit": "The White House / Public domain"
-    },
-    {
-      "id": "world-20261105-0822-02",
-      "published_ist": "2026-11-04T22:06:00+05:30",
-      "headline": "Bangladesh: December se garment mazdooron ka naya vetan",
-      "detail": "Naye wage board ne December se sanshodhit vetan dhancha lagu karne par sahamati di; pehli badhi hui salary January me milegi, lekin vetan ka aakar abhi tay nahi hua.",
-      "category": "World",
-      "exam_angle": "Bangladesh: vastr udyog aur shramik vetan — padosi desh ki arthvyavastha ke liye.",
-      "source": "The Hindu",
-      "source_url": "https://www.thehindu.com/news/international/bangladesh-agrees-new-garment-pay-scale-from-december-amid-protests/article71667080.ece",
-      "genuineness": "verified",
-      "outlets": [
-        "Reuters",
-        "The Hindu",
-        "Financial Express",
-        "Daily New Nation"
-      ],
-      "image": null,
-      "image_credit": null
-    },
-    {
-      "id": "world-20261105-0922-02",
-      "published_ist": "2026-11-04T21:49:00+05:30",
-      "headline": "Congo se Ebola patient UK bheja jayega",
-      "detail": "Congo me Ebola positive paye gaye British healthcare worker ko specialist ilaaj ke liye UK bheja ja raha hai; sarkar ne kaha janata ko khatra kam hai.",
-      "category": "World",
-      "exam_angle": "Ebola aur global health suraksha: International exams ke liye — sankramak rog aur medical evacuation.",
-      "source": "Reuters",
-      "source_url": "https://www.reuters.com/business/healthcare-pharmaceuticals/british-healthcare-worker-with-ebola-be-evacuated-congo-uk-document-shows-2026-11-04/",
-      "genuineness": "corroborated",
-      "outlets": [
-        "Reuters",
-        "Sky News"
       ],
       "image": null,
       "image_credit": null
