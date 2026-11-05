@@ -142,6 +142,76 @@
     ],
     "answer_index": 3
    }
+  },
+  {
+   "episode": 83,
+   "video_hi": "ySSl8AC0F2A",
+   "video_hinglish": "ySSl8AC0F2A",
+   "capsules": [
+    {
+     "id": "ca-ep83-s1",
+     "headline_hi": "Services PMI chaar mahine ke uchhattam par",
+     "headline_hinglish": "Services PMI chaar mahine ke uchhattam par",
+     "detail_hi": "October mein HSBC Services PMI 55.8 par pahuncha, chaar mahine ka sabse uncha star.",
+     "detail_hinglish": "October mein HSBC Services PMI 55.8 par pahuncha, chaar mahine ka sabse uncha star.",
+     "category_hi": "Economy",
+     "category_en": "Economy"
+    },
+    {
+     "id": "ca-ep83-s2",
+     "headline_hi": "Supreme Court ne giraftari niyam spasht kiya",
+     "headline_hinglish": "Supreme Court ne giraftari niyam spasht kiya",
+     "detail_hi": "Chobis ghante ki samay seema hirasat ke pal se shuru hoti hai, Supreme Court ne spasht kiya.",
+     "detail_hinglish": "Chobis ghante ki samay seema hirasat ke pal se shuru hoti hai, Supreme Court ne spasht kiya.",
+     "category_hi": "Polity",
+     "category_en": "Polity"
+    },
+    {
+     "id": "ca-ep83-s3",
+     "headline_hi": "Delhi mein kritrim barish ki taiyari",
+     "headline_hinglish": "Delhi mein kritrim barish ki taiyari",
+     "detail_hi": "Cloud seeding parikshan poore; Diwali ke baad pradushan se ladne ko kritrim barish par vichar.",
+     "detail_hinglish": "Cloud seeding parikshan poore; Diwali ke baad pradushan se ladne ko kritrim barish par vichar.",
+     "category_hi": "Environment",
+     "category_en": "Environment"
+    },
+    {
+     "id": "ca-ep83-s4",
+     "headline_hi": "Hockey mein Bharat final mein pahuncha",
+     "headline_hinglish": "Hockey mein Bharat final mein pahuncha",
+     "detail_hi": "Semi-final mein Bharat ne Korea ko aath-ek se haraya; final mein Japan se mukabla.",
+     "detail_hinglish": "Semi-final mein Bharat ne Korea ko aath-ek se haraya; final mein Japan se mukabla.",
+     "category_hi": "Sports",
+     "category_en": "Sports"
+    },
+    {
+     "id": "ca-ep83-s5",
+     "headline_hi": "Antonelli sabse yuva F1 champion bane",
+     "headline_hinglish": "Antonelli sabse yuva F1 champion bane",
+     "detail_hi": "Bees saal ke Kimi Antonelli Mexico GP mein teesre aakar F1 ke sabse yuva champion bane.",
+     "detail_hinglish": "Bees saal ke Kimi Antonelli Mexico GP mein teesre aakar F1 ke sabse yuva champion bane.",
+     "category_hi": "Sports",
+     "category_en": "Sports"
+    }
+   ],
+   "mcq": {
+    "id": "ca-ep83-mcq",
+    "q_hi": "Kimi Antonelli kitne saal ki umar mein F1 ke sabse yuva world champion bane?",
+    "q_hinglish": "Kimi Antonelli kitne saal ki umar mein F1 ke sabse yuva world champion bane?",
+    "options_hi": [
+     "18",
+     "19",
+     "20",
+     "21"
+    ],
+    "options_hinglish": [
+     "18",
+     "19",
+     "20",
+     "21"
+    ],
+    "answer_index": 2
+   }
   }
  ]
 }
