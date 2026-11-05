@@ -395,6 +395,63 @@
       ],
       "image": "../images/world/world-20261105-1322-03.jpg",
       "image_credit": "Ayu Nabila / CC BY-SA 4.0"
+    },
+    {
+      "id": "world-20261105-1422-01",
+      "published_ist": "2026-11-05T13:02:00+05:30",
+      "headline": "Hormuz me do tanker, tugboat me aag",
+      "detail": "IRGC ne kaha do tel tanker aur ek tugboat Hormuz Strait me aag ki chapet me aaye; ek tanker 'gair-kanuni' raste par mine se takraya, jabki doosra supertanker aag me ghir gaya.",
+      "category": "World",
+      "exam_angle": "Hormuz Strait aur tel marg: International exams ke liye — samudri suraksha aur vishwa tel vyapaar.",
+      "source": "Reuters",
+      "source_url": "https://www.reuters.com/world/middle-east/irans-irgc-says-two-tankers-tugboat-caught-fire-strait-hormuz-2026-11-05/",
+      "genuineness": "verified",
+      "outlets": [
+        "Reuters",
+        "Al Jazeera",
+        "Agence France-Presse",
+        "The Jerusalem Post"
+      ],
+      "image": "../images/world/world-20261105-1422-01.jpg",
+      "image_credit": "NASA / Public domain"
+    },
+    {
+      "id": "world-20261105-1422-02",
+      "published_ist": "2026-11-04T18:09:00+05:30",
+      "headline": "NASA ka Swift telescope 22 saal baad gira",
+      "detail": "NASA ka Neil Gehrels Swift Observatory 4 November ko Indonesia ke uttar Sumatra ke upar vayumandal me jal gaya; 2004 me launch hua telescope gamma-ray burst par shodh karta tha, zameen par koi nuksan nahi hua.",
+      "category": "World",
+      "exam_angle": "Antariksh aur vigyan: International exams ke liye — NASA mission aur punah-pravesh.",
+      "source": "Reuters",
+      "source_url": "https://www.reuters.com/science/nasas-22-year-old-swift-satellite-telescope-falls-orbit-fiery-finale-2026-11-04/",
+      "genuineness": "verified",
+      "outlets": [
+        "Reuters",
+        "Associated Press",
+        "Times of India"
+      ],
+      "image": null,
+      "image_credit": null
+    },
+    {
+      "id": "world-20261105-1422-03",
+      "published_ist": "2026-11-05T10:23:00+05:30",
+      "headline": "Nithya Raman LA ki pehli Asian-American mayor",
+      "detail": "Kerala me janmi Nithya Raman ne Los Angeles mayoral chunav me incumbent Karen Bass ko 51.67% vote se haraya; ve shahar ki pehli Asian-American mayor banengi.",
+      "category": "World",
+      "exam_angle": "America ki chunav vyavastha: International exams ke liye — Bharatiya mool ki pehli LA mayor.",
+      "source": "Mathrubhumi",
+      "source_url": "https://english.mathrubhumi.com/news/world/kerala-born-nithya-raman-wins-los-angeles-mayoral-election-n33duw6u",
+      "genuineness": "verified",
+      "outlets": [
+        "Mathrubhumi",
+        "Times of India",
+        "WION",
+        "Indian Express"
+      ],
+      "image": "../images/world/world-20261105-1422-03.jpg",
+      "image_credit": "Nithya Raman / Public domain"
     }
-  ]
+  ],
+  "updated_ist": "2026-11-05T14:24:06+05:30"
 }
