@@ -284,7 +284,65 @@
       ],
       "image": null,
       "image_credit": null
+    },
+    {
+      "id": "world-20261105-1222-01",
+      "published_ist": "2026-11-05T05:56:33+05:30",
+      "headline": "Democrat ne Congress ke dono sadan jeete",
+      "detail": "Democrat ne House me 235 seat jeetkar aur Senate me saat seat palatkar Congress ke dono sadan par kabza kar liya; Trump ko ab vibhajit sarkar me kaam karna hoga.",
+      "category": "World",
+      "exam_angle": "America ki chunav vyavastha: International exams ke liye — midterm chunav aur vibhajit sarkar.",
+      "source": "Reuters",
+      "source_url": "https://www.reuters.com/world/us/seven-numbers-that-explain-democrats-us-midterm-rout-2026-11-04/",
+      "genuineness": "verified",
+      "outlets": [
+        "Associated Press",
+        "Reuters",
+        "Le Monde",
+        "FirstPost",
+        "The Indian Express"
+      ],
+      "image": "../images/world/world-20261105-1222-01.jpg",
+      "image_credit": "Martin Falbisoner / CC BY-SA 3.0"
+    },
+    {
+      "id": "world-20261105-1222-02",
+      "published_ist": "2026-11-04T23:45:30+05:30",
+      "headline": "Trump: Iran yuddh ne haraya, phir bhi karunga",
+      "detail": "Trump ne mana Iran yuddh ne petrol mehenga karke Republican ko midterm me haraya, lekin kaha Iran ko parmanu hathiyar se rokna zaroori tha aur woh phir bhi wahi karte.",
+      "category": "World",
+      "exam_angle": "America-Iran sambandh: International exams ke liye — yuddh aur chunav par asar.",
+      "source": "The Economic Times",
+      "source_url": "https://economictimes.indiatimes.com/news/international/world-news/trump-admits-iran-war-hurt-republicans-in-midterms-but-says-iran-thing-had-to-be-done/articleshow/135549452.cms",
+      "genuineness": "verified",
+      "outlets": [
+        "The Economic Times",
+        "NDTV",
+        "Arab News",
+        "Rediff",
+        "India TV"
+      ],
+      "image": "../images/world/world-20261105-1222-02.jpg",
+      "image_credit": "The White House / Public domain"
+    },
+    {
+      "id": "world-20261105-1222-03",
+      "published_ist": "2026-11-05T03:47:12+05:30",
+      "headline": "Bavaria neta Aiwanger Berlin hotel me mrit mile",
+      "detail": "Bavaria ke up-pradhan aur arth mantri Hubert Aiwanger, 55, Berlin ke hotel kamre me mrit mile; police ne jaanch shuru ki, maut ka karan abhi saaf nahi hai.",
+      "category": "World",
+      "exam_angle": "Germany ki rajneeti: International exams ke liye — rajya sarkar aur neta.",
+      "source": "Malay Mail",
+      "source_url": "https://www.malaymail.com/news/world/2026/11/05/german-politician-hubert-aiwanger-found-dead-in-berlin-hotel-police-launch-investigation/242015",
+      "genuineness": "verified",
+      "outlets": [
+        "Reuters",
+        "Agence France-Presse",
+        "Bild",
+        "The Berlin Spectator"
+      ],
+      "image": "../images/world/world-20261105-1222-03.jpg",
+      "image_credit": "Superbass / CC BY-SA 4.0"
     }
-  ],
-  "updated_ist": "2026-11-05T11:23:28+05:30"
+  ]
 }
