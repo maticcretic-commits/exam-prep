@@ -1,6 +1,77 @@
 {
-  "updated_ist": "2026-11-05T20:30:19+05:30",
+  "updated_ist": "2026-11-05T21:26:58+05:30",
   "items": [
+    {
+      "id": "world-20261105-2122-01",
+      "published_ist": "2026-11-05T17:17:00+05:30",
+      "headline": "France bank se €100 million cyber chori",
+      "detail": "France ke Credit Mutuel Arkea bank par cyber hamle me hackers ne lagbhag 100 million euro ki farzi len-den ki; grahakon ke khate surakshit rahe aur Paris prosecutor ne jaanch shuru kar di hai.",
+      "category": "World",
+      "exam_angle": "Banking cyber suraksha aur digital dhokhadhadi — banking exams ke liye mahatvapurna.",
+      "source": "Reuters",
+      "source_url": "https://www.reuters.com/legal/government/french-bank-credit-mutuel-arkea-says-100-million-missing-after-cyberattack-2026-11-05/",
+      "genuineness": "verified",
+      "outlets": [
+        "Reuters",
+        "AFP",
+        "Firstpost"
+      ],
+      "image": "../images/world/world-20261105-2122-01.jpg",
+      "image_credit": "FJaffres / CC BY-SA 4.0"
+    },
+    {
+      "id": "world-20261105-2122-02",
+      "published_ist": "2026-11-05T15:56:00+05:30",
+      "headline": "Hasina: December me Bangladesh lautungi",
+      "detail": "Bangladesh ki poorv pradhanmantri Sheikh Hasina ne AP ko bataya, maut ki saza ke bawjood December me Bangladesh lautne ka faisla nahi badla; giraftari ya maut ka khatra bhi sweekar hai.",
+      "category": "World",
+      "exam_angle": "Bangladesh ki rajneeti aur Bharat-Bangladesh sambandh — antarrashtriya sambandh ke liye mahatvapurna.",
+      "source": "Times of India",
+      "source_url": "https://timesofindia.indiatimes.com/india/if-death-is-my-destiny-sheikh-hasina-firm-on-returning-to-bangladesh-in-december/articleshow/135569022.cms",
+      "genuineness": "verified",
+      "outlets": [
+        "Associated Press",
+        "Times of India",
+        "Economic Times"
+      ],
+      "image": "../images/world/world-20261105-2122-02.jpg",
+      "image_credit": "Times of India"
+    },
+    {
+      "id": "world-20261105-2122-03",
+      "published_ist": "2026-11-05T15:45:00+05:30",
+      "headline": "Komyshuvakha hamle me marne wale 42 hue",
+      "detail": "Zaporizhzhia ke Komyshuvakha gaon me Somvar ko sahayata kendra par hue Russian hamle me marne walon ki sankhya 42 ho gayi; 33 log abhi bhi malbe ke neeche dabey hain aur bachav ka kaam jaari hai.",
+      "category": "World",
+      "exam_angle": "Russia-Ukraine yuddh aur nagrik suraksha — antarrashtriya sambandh ke liye mahatvapurna.",
+      "source": "Reuters",
+      "source_url": "https://www.reuters.com/world/europe/death-toll-russian-strike-ukrainian-aid-centre-reaches-42-police-say-2026-11-05/",
+      "genuineness": "corroborated",
+      "outlets": [
+        "Reuters",
+        "Just Security"
+      ],
+      "image": null,
+      "image_credit": null
+    },
+    {
+      "id": "world-20261105-2122-04",
+      "published_ist": "2026-11-05T15:18:00+05:30",
+      "headline": "Poland me Russia jasusi case me 4 giraftar",
+      "detail": "Poland ki suraksha agency ne Russia ko sainya purje bhejne ke aarop me chaar logon ko jasusi ke aarop me giraftar kiya; do aur logon par sangathit apradh ka aarop hai.",
+      "category": "World",
+      "exam_angle": "Europe me jasusi aur pratibandh — antarrashtriya suraksha ke liye mahatvapurna.",
+      "source": "Reuters",
+      "source_url": "https://www.reuters.com/world/poland-arrest-four-probe-into-military-supplies-sent-russia-2026-11-05/",
+      "genuineness": "verified",
+      "outlets": [
+        "Reuters",
+        "Deutsche Welle",
+        "Just Security"
+      ],
+      "image": null,
+      "image_credit": null
+    },
     {
       "id": "world-20261105-2022-01",
       "published_ist": "2026-11-05T20:02:00+05:30",
@@ -368,61 +439,6 @@
       ],
       "image": null,
       "image_credit": null
-    },
-    {
-      "id": "world-20261105-1622-02",
-      "published_ist": "2026-11-05T02:07:00+05:30",
-      "headline": "Schumer: Democrat Iran yuddh khatm karenge",
-      "detail": "Senate ke Democrat neta Chuck Schumer ne kaha unki party Iran yuddh khatm karegi aur Congress ke kharch par niyantran ka istemal karke Trump par dabav banayegi; kuch Republican bhi is prayas me saath hain.",
-      "category": "World",
-      "exam_angle": "America ki yuddh shaktiyan: International exams ke liye — Congress ka 'power of the purse' aur yuddh ghoshna.",
-      "source": "TRT World",
-      "source_url": "https://www.trtworld.com/article/5070075db81c/amp",
-      "genuineness": "verified",
-      "outlets": [
-        "TRT World",
-        "Al Jazeera",
-        "Gulf News",
-        "The Tribune"
-      ],
-      "image": null,
-      "image_credit": null
-    },
-    {
-      "id": "world-20261105-1622-03",
-      "published_ist": "2026-11-05T00:52:00+05:30",
-      "headline": "WHO: Ebola ki do nayi vaccine ka trial",
-      "detail": "WHO ne Congo me Bundibugyo Ebola ke khilaf Oxford-Serum Institute aur Moderna ki do nayi vaccine ke clinical trial ko manzoori di; is prakop me 5,300 se zyada logon ki maut ho chuki hai.",
-      "category": "World",
-      "exam_angle": "Ebola aur vaccine trial: International exams ke liye — WHO, Bundibugyo strain aur swasthya sankat.",
-      "source": "Al Jazeera",
-      "source_url": "https://www.aljazeera.com/news/2026/11/4/who-approves-trials-for-two-new-ebola-vaccines",
-      "genuineness": "verified",
-      "outlets": [
-        "Al Jazeera",
-        "World Health Organization",
-        "Anadolu Agency"
-      ],
-      "image": "../images/world/world-20261105-1622-03.jpg",
-      "image_credit": "Al Jazeera"
-    },
-    {
-      "id": "world-20261105-1925-04",
-      "published_ist": "2026-11-04T21:55:00+05:30",
-      "headline": "Johnson ne House Republican neta pad chhoda",
-      "detail": "Midterm me Republican haar ke agle din Speaker Mike Johnson ne kaha woh naye Congress me Republican neta ka pad nahi ladenge; woh saansad bane rahenge, aur Scalise aur Jordan daud me hain.",
-      "category": "World",
-      "exam_angle": "America: midterm chunav ke baad Congress me satta badlav aur netritva parivartan.",
-      "source": "USA Today",
-      "source_url": "https://www.usatoday.com/story/news/politics/2026/11/04/house-speaker-mike-johnson-gop-leadership/92609302007/",
-      "genuineness": "verified",
-      "outlets": [
-        "USA Today",
-        "Associated Press",
-        "New York Post"
-      ],
-      "image": "../images/world/world-20261105-1925-04.jpg",
-      "image_credit": "United States Congress / Public domain"
     }
   ]
 }
