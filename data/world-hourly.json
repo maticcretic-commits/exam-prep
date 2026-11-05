@@ -1,6 +1,80 @@
 {
-  "updated_ist": "2026-11-05T15:24:06+05:30",
+  "updated_ist": "2026-11-05T16:23:53+05:30",
   "items": [
+    {
+      "id": "world-20261105-1622-01",
+      "published_ist": "2026-11-05T07:16:00+05:30",
+      "headline": "Uttar Korea: Nayi missile ka parikshan, drill bhi",
+      "detail": "Uttar Korea ne Budhvar ko nayi air defence missile ka parikshan kiya aur lambi doori ki cruise missile se ek nakli hawai adde par hamle ki drill bhi ki; Dakshin Korea ki sena ne Sondok se samudra ki taraf kai missile chhode jaane ki pushti ki hai.",
+      "category": "World",
+      "exam_angle": "Uttar Korea aur missile parikshan: International exams ke liye — suraksha parishad pratibandh aur kshetriya tanaav.",
+      "source": "Yonhap News Agency",
+      "source_url": "https://en.yna.co.kr/view/AEN20261105000651315?section=nk/nk",
+      "genuineness": "verified",
+      "outlets": [
+        "Yonhap News Agency",
+        "Reuters",
+        "Kyodo News"
+      ],
+      "image": "../images/world/world-20261105-1622-01.jpg",
+      "image_credit": "Yonhap News Agency"
+    },
+    {
+      "id": "world-20261105-1622-02",
+      "published_ist": "2026-11-05T02:07:00+05:30",
+      "headline": "Schumer: Democrat Iran yuddh khatm karenge",
+      "detail": "Senate ke Democrat neta Chuck Schumer ne kaha unki party Iran yuddh khatm karegi aur Congress ke kharch par niyantran ka istemal karke Trump par dabav banayegi; kuch Republican bhi is prayas me saath hain.",
+      "category": "World",
+      "exam_angle": "America ki yuddh shaktiyan: International exams ke liye — Congress ka 'power of the purse' aur yuddh ghoshna.",
+      "source": "TRT World",
+      "source_url": "https://www.trtworld.com/article/5070075db81c/amp",
+      "genuineness": "verified",
+      "outlets": [
+        "TRT World",
+        "Al Jazeera",
+        "Gulf News",
+        "The Tribune"
+      ],
+      "image": null,
+      "image_credit": null
+    },
+    {
+      "id": "world-20261105-1622-03",
+      "published_ist": "2026-11-05T00:52:00+05:30",
+      "headline": "WHO: Ebola ki do nayi vaccine ka trial",
+      "detail": "WHO ne Congo me Bundibugyo Ebola ke khilaf Oxford-Serum Institute aur Moderna ki do nayi vaccine ke clinical trial ko manzoori di; is prakop me 5,300 se zyada logon ki maut ho chuki hai.",
+      "category": "World",
+      "exam_angle": "Ebola aur vaccine trial: International exams ke liye — WHO, Bundibugyo strain aur swasthya sankat.",
+      "source": "Al Jazeera",
+      "source_url": "https://www.aljazeera.com/news/2026/11/4/who-approves-trials-for-two-new-ebola-vaccines",
+      "genuineness": "verified",
+      "outlets": [
+        "Al Jazeera",
+        "World Health Organization",
+        "Anadolu Agency"
+      ],
+      "image": "../images/world/world-20261105-1622-03.jpg",
+      "image_credit": "Al Jazeera"
+    },
+    {
+      "id": "world-20261105-1622-04",
+      "published_ist": "2026-11-04T16:07:00+05:30",
+      "headline": "Israel: Chunav nateeje pramanit, sarkar par baatchit",
+      "detail": "Israel ke chunav aayog ne dhokhadhadi ka koi saboot na milne par 27 October ke chunav nateeje pramanit kar diye; Rashtrapati Herzog ne sarkar banane ke liye dalon se baatchit shuru ki — Netanyahu ke gathbandhan ko 53 aur Eisenkot ke vipaksh ko 48 seatein mili hain.",
+      "category": "World",
+      "exam_angle": "Israel ki sansadiya vyavastha: International exams ke liye — chunav, gathbandhan aur rashtrapati ki bhoomika.",
+      "source": "Al Jazeera",
+      "source_url": "https://www.aljazeera.com/news/2026/11/4/israel-vote-results-confirmed-as-election-commission-rejects-fraud-claims",
+      "genuineness": "verified",
+      "outlets": [
+        "Al Jazeera",
+        "The Hindu",
+        "Associated Press",
+        "The Jerusalem Post"
+      ],
+      "image": null,
+      "image_credit": null
+    },
     {
       "id": "world-20261105-1522-01",
       "published_ist": "2026-11-04T07:55:00+05:30",
@@ -370,80 +444,6 @@
       "outlets": [
         "Reuters",
         "Sky News"
-      ],
-      "image": null,
-      "image_credit": null
-    },
-    {
-      "id": "world-20261105-1422-02",
-      "published_ist": "2026-11-04T18:09:00+05:30",
-      "headline": "NASA ka Swift telescope 22 saal baad gira",
-      "detail": "NASA ka Neil Gehrels Swift Observatory 4 November ko Indonesia ke uttar Sumatra ke upar vayumandal me jal gaya; 2004 me launch hua telescope gamma-ray burst par shodh karta tha, zameen par koi nuksan nahi hua.",
-      "category": "World",
-      "exam_angle": "Antariksh aur vigyan: International exams ke liye — NASA mission aur punah-pravesh.",
-      "source": "Reuters",
-      "source_url": "https://www.reuters.com/science/nasas-22-year-old-swift-satellite-telescope-falls-orbit-fiery-finale-2026-11-04/",
-      "genuineness": "verified",
-      "outlets": [
-        "Reuters",
-        "Associated Press",
-        "Times of India"
-      ],
-      "image": null,
-      "image_credit": null
-    },
-    {
-      "id": "world-20261104-2122-01",
-      "published_ist": "2026-11-04T16:54:50+05:30",
-      "headline": "China: America se sahyog jaari rahega",
-      "detail": "Videsh mantralaya ki pravakta Mao Ning ne kaha chunav America ka andaruni mamla hai aur China netaon ke samjhaute par sahyog jaari rakhega.",
-      "category": "World",
-      "exam_angle": "China-America sambandh: International exams ke liye — chunav ke baad kootneeti.",
-      "source": "Al Jazeera",
-      "source_url": "https://www.aljazeera.com/news/2026/11/4/seismic-shift-world-reacts-to-us-midterm-election-results",
-      "genuineness": "verified",
-      "outlets": [
-        "Al Jazeera",
-        "WION",
-        "PTI"
-      ],
-      "image": null,
-      "image_credit": null
-    },
-    {
-      "id": "world-20261104-2222-01",
-      "published_ist": "2026-11-04T16:30:00+05:30",
-      "headline": "UN: Jalvayu madad zaroorat se bahut kam",
-      "detail": "UNEP ki 2026 Adaptation Gap Report me kaha gaya vikas-sheel deshon ko 2035 tak saalana lagbhag $305 billion ki zaroorat hai, jabki 2024 me sirf $28.2 billion mile; madad teen guna badhane par bhi sirf 20-29% zaroorat poori hogi.",
-      "category": "World",
-      "exam_angle": "Jalvayu vitt aur COP31: International exams ke liye — adaptation finance ka antar.",
-      "source": "Reuters",
-      "source_url": "https://www.reuters.com/sustainability/cop/rich-countries-fall-far-short-climate-adaptation-funding-un-says-2026-11-04/",
-      "genuineness": "verified",
-      "outlets": [
-        "Reuters",
-        "UN News",
-        "UNEP"
-      ],
-      "image": null,
-      "image_credit": null
-    },
-    {
-      "id": "world-20261105-0722-01",
-      "published_ist": "2026-11-04T16:12:00+05:30",
-      "headline": "Michigan: El-Sayed pehle Muslim Senator bane",
-      "detail": "Democrat Abdul El-Sayed ne Republican Mike Rogers ko harakar Michigan se Senate seat jeeti; ve America ke pehle Muslim Senator banenge.",
-      "category": "World",
-      "exam_angle": "America ki chunav vyavastha: International exams ke liye — Senate chunav aur aitihasik pehchan.",
-      "source": "The Hindu",
-      "source_url": "https://www.thehindu.com/news/international/who-is-abdul-el-sayed-first-muslim-us-senator-elect-united-states-us-midterm-elections-2026/article71664610.ece",
-      "genuineness": "verified",
-      "outlets": [
-        "The Hindu",
-        "Al Jazeera",
-        "Reuters",
-        "USA Today",
-        "Haaretz"
       ],
       "image": null,
       "image_credit": null
