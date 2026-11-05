@@ -1,6 +1,84 @@
 {
   "items": [
     {
+      "id": "world-20261105-0622-01",
+      "published_ist": "2026-11-05T02:42:00+05:30",
+      "headline": "Komyshuvakha hamle me marne wale 40 hue",
+      "detail": "Zelenskyy ne kaha sahayata kendra par hamle me 40 log mare gaye, 33 se badhkar, aur 30 se zyada abhi malbe ke neeche ho sakte hain.",
+      "category": "World",
+      "exam_angle": "Ukraine yuddh aur nagrik suraksha: International exams ke liye — sahayata kendra par hamla.",
+      "source": "Channel NewsAsia",
+      "source_url": "https://www.channelnewsasia.com/world/ukraine-russia-war-aid-centre-attack-40-killed-6525456",
+      "genuineness": "verified",
+      "outlets": [
+        "Reuters",
+        "Agence France-Presse",
+        "Kyiv Post",
+        "Al Jazeera"
+      ],
+      "image": null,
+      "image_credit": null
+    },
+    {
+      "id": "world-20261105-0622-02",
+      "published_ist": "2026-11-04T10:59:00+05:30",
+      "headline": "Texas: Talarico 1988 ke baad pehle Democrat Senator",
+      "detail": "Democrat James Talarico ne Republican Ken Paxton ko harakar Texas se 1988 ke baad pehli baar Senate seat jeeti; ve sabse yuva Senator bane.",
+      "category": "World",
+      "exam_angle": "America ki chunav vyavastha: International exams ke liye — Senate aur midterm chunav.",
+      "source": "Times Now",
+      "source_url": "https://www.timesnownews.com/world/us/us-news/texas-turns-blue-as-james-talarico-ends-38-year-democratic-drought-article-156461647",
+      "genuineness": "verified",
+      "outlets": [
+        "Associated Press",
+        "NBC News",
+        "USA Today",
+        "Times Now",
+        "Le Monde"
+      ],
+      "image": null,
+      "image_credit": null
+    },
+    {
+      "id": "world-20261105-0622-03",
+      "published_ist": "2026-11-04T10:41:00+05:30",
+      "headline": "North Korea ne samundar ki taraf missile chhode",
+      "detail": "South Korea ki sena ne kaha Sondok se kai missile chhode gaye, Binance hack ke aarop par America se baatchit se inkaar ke kuch ghante baad.",
+      "category": "World",
+      "exam_angle": "Korea prayadweep aur kootneeti: International exams ke liye — missile parikshan aur America se tanaav.",
+      "source": "Al Jazeera",
+      "source_url": "https://www.aljazeera.com/news/2026/11/4/n-korea-fires-multiple-missiles-denies-us-claims-on-binance-hack",
+      "genuineness": "verified",
+      "outlets": [
+        "Yonhap",
+        "Associated Press",
+        "Al Jazeera",
+        "The Hindu"
+      ],
+      "image": null,
+      "image_credit": null
+    },
+    {
+      "id": "world-20261105-0622-04",
+      "published_ist": "2026-11-04T07:55:51+05:30",
+      "headline": "Georgia: Bottoms pehli Black mahila governor bani",
+      "detail": "Democrat Keisha Lance Bottoms ne Republican Rick Jackson ko harakar Georgia ki pehli Black mahila governor banne ka itihas racha.",
+      "category": "World",
+      "exam_angle": "America ki chunav vyavastha: International exams ke liye — governor chunav aur aitihasik jeet.",
+      "source": "Al Jazeera",
+      "source_url": "https://www.aljazeera.com/amp/news/2026/11/4/keisha-lance-bottoms-makes-us-history-as-first-black-woman-elected-governor",
+      "genuineness": "verified",
+      "outlets": [
+        "Associated Press",
+        "Al Jazeera",
+        "USA Today",
+        "NDTV",
+        "The Straits Times"
+      ],
+      "image": null,
+      "image_credit": null
+    },
+    {
       "id": "world-20261104-2222-01",
       "published_ist": "2026-11-04T16:30:00+05:30",
       "headline": "UN: Jalvayu madad zaroorat se bahut kam",
@@ -356,79 +434,7 @@
       ],
       "image": null,
       "image_credit": null
-    },
-    {
-      "id": "world-20261104-1522-01",
-      "published_ist": "2026-11-04T10:33:00+05:30",
-      "headline": "Ukraine: Bijli grid par bada hamla",
-      "detail": "Mangalvaar raat saikadon drone aur missile se hamle ke baad Kyiv samet kai kshetron mein bijli gayi aur DTEK ke paanch mein se teen thermal plant band ho gaye.",
-      "category": "World",
-      "exam_angle": "Energy yuddh aur sardiyon ka sankat: nagrik buniyadi dhanche par hamle.",
-      "source": "DD India",
-      "source_url": "https://ddindia.co.in/2026/11/russia-bombards-ukraine-power-grid-before-abu-dhabi-talks-merz-urges-moscow-to-engage/",
-      "genuineness": "verified",
-      "outlets": [
-        "Reuters",
-        "CGTN",
-        "Outlook India"
-      ],
-      "image": null,
-      "image_credit": null
-    },
-    {
-      "id": "world-20261104-1522-02",
-      "published_ist": "2026-11-04T07:30:00+05:30",
-      "headline": "Pakistan: Swadeshi Fa'az missile ka parikshan",
-      "detail": "Pakistan ne pehli baar swadeshi Fa'az air-to-air missile ka safal flight test kiya; sena ke anusaar ismein advanced terminal guidance hai aur yah lambi doori tak hawai lakshya bhed sakti hai.",
-      "category": "World",
-      "exam_angle": null,
-      "source": "Dawn",
-      "source_url": "https://www.dawn.com/news/2041949/pakistan-tests-homegrown-faaz-missile",
-      "genuineness": "verified",
-      "outlets": [
-        "Dawn",
-        "The Express Tribune",
-        "Deccan Herald"
-      ],
-      "image": null,
-      "image_credit": null
-    },
-    {
-      "id": "world-20261104-1522-03",
-      "published_ist": "2026-11-04T11:37:00+05:30",
-      "headline": "Abu Dhabi vaarta mein Europe ko jagah nahi",
-      "detail": "Russia ne kaha 10-11 November ki Abu Dhabi vaarta Russia, Ukraine aur madhyasth America ke beech tripakshiya format mein hogi; Europe usmein shamil nahi hoga.",
-      "category": "World",
-      "exam_angle": null,
-      "source": "CGTN",
-      "source_url": "https://news.cgtn.com/news/2026-11-04/Russia-rules-out-European-participation-in-Ukraine-peace-talks-1RN5WciwvEQ/p.html",
-      "genuineness": "verified",
-      "outlets": [
-        "CGTN",
-        "Bastille Post",
-        "Kurdistan24"
-      ],
-      "image": null,
-      "image_credit": null
-    },
-    {
-      "id": "world-20261104-1422-01",
-      "published_ist": "2026-11-04T12:15:00+05:30",
-      "headline": "Michigan: El-Sayed pehle Muslim Senator bane",
-      "detail": "Democrat Abdul El-Sayed ne Republican Mike Rogers ko harakar Michigan ki Senate seat jeeti; ve Senate mein chune gaye pehle Muslim hain.",
-      "category": "World",
-      "exam_angle": "America ki chunav vyavastha: International exams ke liye — Senate aur midterm chunav.",
-      "source": "The Economic Times",
-      "source_url": "https://economictimes.indiatimes.com/news/international/world-news/us-midterm-elections-2026-democrat-abdul-el-sayed-claims-victory-in-brutal-senate-battle-in-michigan/articleshow/135527964.cms",
-      "genuineness": "verified",
-      "outlets": [
-        "Reuters",
-        "USA Today",
-        "The Economic Times"
-      ],
-      "image": null,
-      "image_credit": null
     }
   ],
-  "updated_ist": "2026-11-04T22:25:52+05:30"
+  "updated_ist": "2026-11-05T06:24:42+05:30"
 }
