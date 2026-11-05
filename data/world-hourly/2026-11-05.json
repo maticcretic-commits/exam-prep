@@ -505,7 +505,81 @@
       ],
       "image": null,
       "image_credit": null
+    },
+    {
+      "id": "world-20261105-1622-01",
+      "published_ist": "2026-11-05T07:16:00+05:30",
+      "headline": "Uttar Korea: Nayi missile ka parikshan, drill bhi",
+      "detail": "Uttar Korea ne Budhvar ko nayi air defence missile ka parikshan kiya aur lambi doori ki cruise missile se ek nakli hawai adde par hamle ki drill bhi ki; Dakshin Korea ki sena ne Sondok se samudra ki taraf kai missile chhode jaane ki pushti ki hai.",
+      "category": "World",
+      "exam_angle": "Uttar Korea aur missile parikshan: International exams ke liye — suraksha parishad pratibandh aur kshetriya tanaav.",
+      "source": "Yonhap News Agency",
+      "source_url": "https://en.yna.co.kr/view/AEN20261105000651315?section=nk/nk",
+      "genuineness": "verified",
+      "outlets": [
+        "Yonhap News Agency",
+        "Reuters",
+        "Kyodo News"
+      ],
+      "image": "../images/world/world-20261105-1622-01.jpg",
+      "image_credit": "Yonhap News Agency"
+    },
+    {
+      "id": "world-20261105-1622-02",
+      "published_ist": "2026-11-05T02:07:00+05:30",
+      "headline": "Schumer: Democrat Iran yuddh khatm karenge",
+      "detail": "Senate ke Democrat neta Chuck Schumer ne kaha unki party Iran yuddh khatm karegi aur Congress ke kharch par niyantran ka istemal karke Trump par dabav banayegi; kuch Republican bhi is prayas me saath hain.",
+      "category": "World",
+      "exam_angle": "America ki yuddh shaktiyan: International exams ke liye — Congress ka 'power of the purse' aur yuddh ghoshna.",
+      "source": "TRT World",
+      "source_url": "https://www.trtworld.com/article/5070075db81c/amp",
+      "genuineness": "verified",
+      "outlets": [
+        "TRT World",
+        "Al Jazeera",
+        "Gulf News",
+        "The Tribune"
+      ],
+      "image": null,
+      "image_credit": null
+    },
+    {
+      "id": "world-20261105-1622-03",
+      "published_ist": "2026-11-05T00:52:00+05:30",
+      "headline": "WHO: Ebola ki do nayi vaccine ka trial",
+      "detail": "WHO ne Congo me Bundibugyo Ebola ke khilaf Oxford-Serum Institute aur Moderna ki do nayi vaccine ke clinical trial ko manzoori di; is prakop me 5,300 se zyada logon ki maut ho chuki hai.",
+      "category": "World",
+      "exam_angle": "Ebola aur vaccine trial: International exams ke liye — WHO, Bundibugyo strain aur swasthya sankat.",
+      "source": "Al Jazeera",
+      "source_url": "https://www.aljazeera.com/news/2026/11/4/who-approves-trials-for-two-new-ebola-vaccines",
+      "genuineness": "verified",
+      "outlets": [
+        "Al Jazeera",
+        "World Health Organization",
+        "Anadolu Agency"
+      ],
+      "image": "../images/world/world-20261105-1622-03.jpg",
+      "image_credit": "Al Jazeera"
+    },
+    {
+      "id": "world-20261105-1622-04",
+      "published_ist": "2026-11-04T16:07:00+05:30",
+      "headline": "Israel: Chunav nateeje pramanit, sarkar par baatchit",
+      "detail": "Israel ke chunav aayog ne dhokhadhadi ka koi saboot na milne par 27 October ke chunav nateeje pramanit kar diye; Rashtrapati Herzog ne sarkar banane ke liye dalon se baatchit shuru ki — Netanyahu ke gathbandhan ko 53 aur Eisenkot ke vipaksh ko 48 seatein mili hain.",
+      "category": "World",
+      "exam_angle": "Israel ki sansadiya vyavastha: International exams ke liye — chunav, gathbandhan aur rashtrapati ki bhoomika.",
+      "source": "Al Jazeera",
+      "source_url": "https://www.aljazeera.com/news/2026/11/4/israel-vote-results-confirmed-as-election-commission-rejects-fraud-claims",
+      "genuineness": "verified",
+      "outlets": [
+        "Al Jazeera",
+        "The Hindu",
+        "Associated Press",
+        "The Jerusalem Post"
+      ],
+      "image": null,
+      "image_credit": null
     }
   ],
-  "updated_ist": "2026-11-05T14:24:06+05:30"
+  "updated_ist": "2026-11-05T16:23:59+05:30"
 }
