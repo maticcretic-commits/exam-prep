@@ -1,5 +1,5 @@
 {
-  "updated_ist": "2026-11-05T17:24:52+05:30",
+  "updated_ist": "2026-11-05T18:26:06+05:30",
   "items": [
     {
       "id": "world-20261105-0622-01",
@@ -633,6 +633,24 @@
         "Associated Press",
         "Al Jazeera",
         "The Telegraph"
+      ],
+      "image": null,
+      "image_credit": null
+    },
+    {
+      "id": "world-20261105-1822-01",
+      "published_ist": "2026-11-04T12:00:00+05:30",
+      "headline": "Ethiopia ne Sudan ke 6 rajnayik nikale",
+      "detail": "Ethiopia ne Sudan ke Assosa vanijya dutawas ke chhah karmiyon ko 48 ghante me desh chhodne ko kaha; dono desh ek-doosre par sashastr guton ko samarthan dene ka aarop lagate hain.",
+      "category": "World",
+      "exam_angle": "Horn of Africa aur kootneeti: International exams ke liye — Sudan grih yuddh aur kshetriya tanaav.",
+      "source": "Reuters",
+      "source_url": "https://www.reuters.com/world/africa/ethiopia-expels-sudanese-diplomats-after-fresh-allegations-support-rsf-2026-11-04/",
+      "genuineness": "verified",
+      "outlets": [
+        "Reuters",
+        "BusinessDay",
+        "The Eastleigh Voice"
       ],
       "image": null,
       "image_credit": null
