@@ -1,6 +1,44 @@
 {
   "items": [
     {
+      "id": "world-20261105-0722-01",
+      "published_ist": "2026-11-04T16:12:00+05:30",
+      "headline": "Michigan: El-Sayed pehle Muslim Senator bane",
+      "detail": "Democrat Abdul El-Sayed ne Republican Mike Rogers ko harakar Michigan se Senate seat jeeti; ve America ke pehle Muslim Senator banenge.",
+      "category": "World",
+      "exam_angle": "America ki chunav vyavastha: International exams ke liye — Senate chunav aur aitihasik pehchan.",
+      "source": "The Hindu",
+      "source_url": "https://www.thehindu.com/news/international/who-is-abdul-el-sayed-first-muslim-us-senator-elect-united-states-us-midterm-elections-2026/article71664610.ece",
+      "genuineness": "verified",
+      "outlets": [
+        "The Hindu",
+        "Al Jazeera",
+        "Reuters",
+        "USA Today",
+        "Haaretz"
+      ],
+      "image": null,
+      "image_credit": null
+    },
+    {
+      "id": "world-20261105-0722-02",
+      "published_ist": "2026-11-04T13:06:00+05:30",
+      "headline": "Muji: 10.9 lakh card number leak ho sakte",
+      "detail": "Japan ki Muji operator Ryohin Keikaku ne kaha lagbhag 1.09 million MUJI Card record, jinme card number shamil hain, leak ho sakte hain; lagbhag 345,000 card abhi valid hain.",
+      "category": "World",
+      "exam_angle": "Cyber suraksha aur data sanrakshan: International exams ke liye — Japan me bada data leak.",
+      "source": "The Straits Times",
+      "source_url": "https://www.straitstimes.com/asia/east-asia/credit-card-numbers-may-have-leaked-in-cyberattack-on-japans-muji?ref=latest-headlines",
+      "genuineness": "verified",
+      "outlets": [
+        "The Straits Times",
+        "MLex",
+        "TBS News"
+      ],
+      "image": null,
+      "image_credit": null
+    },
+    {
       "id": "world-20261105-0622-01",
       "published_ist": "2026-11-05T02:42:00+05:30",
       "headline": "Komyshuvakha hamle me marne wale 40 hue",
@@ -399,42 +437,7 @@
       ],
       "image": null,
       "image_credit": null
-    },
-    {
-      "id": "world-20261104-1622-02",
-      "published_ist": "2026-11-04T07:30:00+05:30",
-      "headline": "Iran: Hormuz tabhi khulega, saat shartein poori hon",
-      "detail": "Iran ke suraksha pramukh Rezaei ne kaha America ka jawab 'convincing' nahi tha; saat shartein poori hone par hi Hormuz dobara khulega.",
-      "category": "World",
-      "exam_angle": "Hormuz jaladmarag: tel vyapar aur vaishvik urja suraksha.",
-      "source": "Dawn",
-      "source_url": "https://www.dawn.com/news/2041955",
-      "genuineness": "verified",
-      "outlets": [
-        "Dawn",
-        "The Times of Israel",
-        "The Jerusalem Post"
-      ],
-      "image": null,
-      "image_credit": null
-    },
-    {
-      "id": "world-20261104-1622-03",
-      "published_ist": "2026-11-04T07:43:00+05:30",
-      "headline": "Thailand: Mpox ke 470 case, teen mautein",
-      "detail": "Thailand mein 1 January se 31 October tak mpox ke 470 case aur teen mautein darj hui; swasthya vibhag ne jaldi jaanch ki appeal ki.",
-      "category": "World",
-      "exam_angle": "Sankramak rog: mpox — lakshan, jaanch aur roktham.",
-      "source": "Nation Thailand",
-      "source_url": "https://www.nationthailand.com/health-wellness/40073082",
-      "genuineness": "corroborated",
-      "outlets": [
-        "Nation Thailand",
-        "The Straits Times"
-      ],
-      "image": null,
-      "image_credit": null
     }
   ],
-  "updated_ist": "2026-11-05T06:24:42+05:30"
+  "updated_ist": "2026-11-05T07:25:10+05:30"
 }
