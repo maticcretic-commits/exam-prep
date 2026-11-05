@@ -1,214 +1,251 @@
 {
- "items": [
-  {
-   "id": "world-20261105-0622-01",
-   "published_ist": "2026-11-05T02:42:00+05:30",
-   "headline": "Komyshuvakha hamle me marne wale 40 hue",
-   "detail": "Zelenskyy ne kaha sahayata kendra par hamle me 40 log mare gaye, 33 se badhkar, aur 30 se zyada abhi malbe ke neeche ho sakte hain.",
-   "category": "World",
-   "exam_angle": "Ukraine yuddh aur nagrik suraksha: International exams ke liye — sahayata kendra par hamla.",
-   "source": "Channel NewsAsia",
-   "source_url": "https://www.channelnewsasia.com/world/ukraine-russia-war-aid-centre-attack-40-killed-6525456",
-   "genuineness": "verified",
-   "outlets": [
-    "Reuters",
-    "Agence France-Presse",
-    "Kyiv Post",
-    "Al Jazeera"
-   ],
-   "image": null,
-   "image_credit": null
-  },
-  {
-   "id": "world-20261105-0622-02",
-   "published_ist": "2026-11-04T10:59:00+05:30",
-   "headline": "Texas: Talarico 1988 ke baad pehle Democrat Senator",
-   "detail": "Democrat James Talarico ne Republican Ken Paxton ko harakar Texas se 1988 ke baad pehli baar Senate seat jeeti; ve sabse yuva Senator bane.",
-   "category": "World",
-   "exam_angle": "America ki chunav vyavastha: International exams ke liye — Senate aur midterm chunav.",
-   "source": "Times Now",
-   "source_url": "https://www.timesnownews.com/world/us/us-news/texas-turns-blue-as-james-talarico-ends-38-year-democratic-drought-article-156461647",
-   "genuineness": "verified",
-   "outlets": [
-    "Associated Press",
-    "NBC News",
-    "USA Today",
-    "Times Now",
-    "Le Monde"
-   ],
-   "image": null,
-   "image_credit": null
-  },
-  {
-   "id": "world-20261105-0622-03",
-   "published_ist": "2026-11-04T10:41:00+05:30",
-   "headline": "North Korea ne samundar ki taraf missile chhode",
-   "detail": "South Korea ki sena ne kaha Sondok se kai missile chhode gaye, Binance hack ke aarop par America se baatchit se inkaar ke kuch ghante baad.",
-   "category": "World",
-   "exam_angle": "Korea prayadweep aur kootneeti: International exams ke liye — missile parikshan aur America se tanaav.",
-   "source": "Al Jazeera",
-   "source_url": "https://www.aljazeera.com/news/2026/11/4/n-korea-fires-multiple-missiles-denies-us-claims-on-binance-hack",
-   "genuineness": "verified",
-   "outlets": [
-    "Yonhap",
-    "Associated Press",
-    "Al Jazeera",
-    "The Hindu"
-   ],
-   "image": null,
-   "image_credit": null
-  },
-  {
-   "id": "world-20261105-0622-04",
-   "published_ist": "2026-11-04T07:55:51+05:30",
-   "headline": "Georgia: Bottoms pehli Black mahila governor bani",
-   "detail": "Democrat Keisha Lance Bottoms ne Republican Rick Jackson ko harakar Georgia ki pehli Black mahila governor banne ka itihas racha.",
-   "category": "World",
-   "exam_angle": "America ki chunav vyavastha: International exams ke liye — governor chunav aur aitihasik jeet.",
-   "source": "Al Jazeera",
-   "source_url": "https://www.aljazeera.com/amp/news/2026/11/4/keisha-lance-bottoms-makes-us-history-as-first-black-woman-elected-governor",
-   "genuineness": "verified",
-   "outlets": [
-    "Associated Press",
-    "Al Jazeera",
-    "USA Today",
-    "NDTV",
-    "The Straits Times"
-   ],
-   "image": null,
-   "image_credit": null
-  },
-  {
-   "id": "world-20261105-0722-01",
-   "published_ist": "2026-11-04T16:12:00+05:30",
-   "headline": "Michigan: El-Sayed pehle Muslim Senator bane",
-   "detail": "Democrat Abdul El-Sayed ne Republican Mike Rogers ko harakar Michigan se Senate seat jeeti; ve America ke pehle Muslim Senator banenge.",
-   "category": "World",
-   "exam_angle": "America ki chunav vyavastha: International exams ke liye — Senate chunav aur aitihasik pehchan.",
-   "source": "The Hindu",
-   "source_url": "https://www.thehindu.com/news/international/who-is-abdul-el-sayed-first-muslim-us-senator-elect-united-states-us-midterm-elections-2026/article71664610.ece",
-   "genuineness": "verified",
-   "outlets": [
-    "The Hindu",
-    "Al Jazeera",
-    "Reuters",
-    "USA Today",
-    "Haaretz"
-   ],
-   "image": null,
-   "image_credit": null
-  },
-  {
-   "id": "world-20261105-0722-02",
-   "published_ist": "2026-11-04T13:06:00+05:30",
-   "headline": "Muji: 10.9 lakh card number leak ho sakte",
-   "detail": "Japan ki Muji operator Ryohin Keikaku ne kaha lagbhag 1.09 million MUJI Card record, jinme card number shamil hain, leak ho sakte hain; lagbhag 345,000 card abhi valid hain.",
-   "category": "World",
-   "exam_angle": "Cyber suraksha aur data sanrakshan: International exams ke liye — Japan me bada data leak.",
-   "source": "The Straits Times",
-   "source_url": "https://www.straitstimes.com/asia/east-asia/credit-card-numbers-may-have-leaked-in-cyberattack-on-japans-muji?ref=latest-headlines",
-   "genuineness": "verified",
-   "outlets": [
-    "The Straits Times",
-    "MLex",
-    "TBS News"
-   ],
-   "image": null,
-   "image_credit": null
-  },
-  {
-   "id": "world-20261105-0822-01",
-   "published_ist": "2026-11-05T02:00:00+05:30",
-   "headline": "Ukraine-Russia-America: Abu Dhabi me 10-11 Nov baatchit",
-   "detail": "Zelenskyy ne Witkoff aur Kushner se 90 minute baat ki; team-level trilateral baatchit Abu Dhabi me 10-11 November ko hogi, suraksha guarantee aur hawai raksha par charcha hui.",
-   "category": "World",
-   "exam_angle": "Ukraine yuddh: shanti vaarta aur suraksha guarantee — antarrashtriya sambandh ke liye mahatvapurna.",
-   "source": "Ukrinform",
-   "source_url": "https://www.ukrinform.net/rubric-polytics/4181550-zelensky-speaks-with-witkoff-kushner-ahead-of-trilateral-meeting-in-abu-dhabi.html",
-   "genuineness": "verified",
-   "outlets": [
-    "Ukrinform",
-    "Kyiv Independent",
-    "Kyiv Post",
-    "LIGA.net",
-    "UATV",
-    "Reuters"
-   ],
-   "image": null,
-   "image_credit": null
-  },
-  {
-   "id": "world-20261105-0822-02",
-   "published_ist": "2026-11-04T22:06:00+05:30",
-   "headline": "Bangladesh: December se garment mazdooron ka naya vetan",
-   "detail": "Naye wage board ne December se sanshodhit vetan dhancha lagu karne par sahamati di; pehli badhi hui salary January me milegi, lekin vetan ka aakar abhi tay nahi hua.",
-   "category": "World",
-   "exam_angle": "Bangladesh: vastr udyog aur shramik vetan — padosi desh ki arthvyavastha ke liye.",
-   "source": "The Hindu",
-   "source_url": "https://www.thehindu.com/news/international/bangladesh-agrees-new-garment-pay-scale-from-december-amid-protests/article71667080.ece",
-   "genuineness": "verified",
-   "outlets": [
-    "Reuters",
-    "The Hindu",
-    "Financial Express",
-    "Daily New Nation"
-   ],
-   "image": null,
-   "image_credit": null
-  },
-  {
-   "id": "world-20261105-0822-03",
-   "published_ist": "2026-11-04T14:21:00+05:30",
-   "headline": "Thailand ke mantri 12 Nov ko Myanmar jayenge",
-   "detail": "Videsh mantri Sihasak Phuangketkeow 12 November ko Myanmar jayenge; seema par jhadap aur ASEAN shikhar sammelan se pehle Myanmar ka rukh janenge.",
-   "category": "World",
-   "exam_angle": "ASEAN: Myanmar sankat aur seema suraksha — dakshin-poorv Asia ke liye.",
-   "source": "DVB",
-   "source_url": "https://english.dvb.no/thai-foreign-minister-to-visit-myanmar-ahead-of-asean-summit-in-philippines/",
-   "genuineness": "verified",
-   "outlets": [
-    "Agence France-Presse",
-    "DVB",
-    "Thai Newsroom"
-   ],
-   "image": null,
-   "image_credit": null
-  },
-  {
-   "id": "world-20261105-0922-01",
-   "published_ist": "2026-11-05T03:33:00+05:30",
-   "headline": "Myanmar Rohingya case: ICJ faisla 19 Nov ko",
-   "detail": "ICJ ne kaha Gambia ke case me Myanmar ke khilaf antim faisla 19 November ko The Hague me sunaya jayega; Myanmar ne aaropon se inkaar kiya hai.",
-   "category": "World",
-   "exam_angle": "ICJ aur antarrashtriya kanoon: International exams ke liye — Rohingya case aur Genocide Convention.",
-   "source": "DVB",
-   "source_url": "https://english.dvb.no/icj-to-rule-on-myanmar-genocide-case-migrant-leader-to-file-complaint-over-assault-at-protest-in-thailand/",
-   "genuineness": "verified",
-   "outlets": [
-    "Reuters",
-    "Anadolu Agency",
-    "DVB"
-   ],
-   "image": null,
-   "image_credit": null
-  },
-  {
-   "id": "world-20261105-0922-02",
-   "published_ist": "2026-11-04T21:49:00+05:30",
-   "headline": "Congo se Ebola patient UK bheja jayega",
-   "detail": "Congo me Ebola positive paye gaye British healthcare worker ko specialist ilaaj ke liye UK bheja ja raha hai; sarkar ne kaha janata ko khatra kam hai.",
-   "category": "World",
-   "exam_angle": "Ebola aur global health suraksha: International exams ke liye — sankramak rog aur medical evacuation.",
-   "source": "Reuters",
-   "source_url": "https://www.reuters.com/business/healthcare-pharmaceuticals/british-healthcare-worker-with-ebola-be-evacuated-congo-uk-document-shows-2026-11-04/",
-   "genuineness": "corroborated",
-   "outlets": [
-    "Reuters",
-    "Sky News"
-   ],
-   "image": null,
-   "image_credit": null
-  }
- ],
- "updated_ist": "2026-11-05T09:23:33+05:30"
+  "items": [
+    {
+      "id": "world-20261105-0622-01",
+      "published_ist": "2026-11-05T02:42:00+05:30",
+      "headline": "Komyshuvakha hamle me marne wale 40 hue",
+      "detail": "Zelenskyy ne kaha sahayata kendra par hamle me 40 log mare gaye, 33 se badhkar, aur 30 se zyada abhi malbe ke neeche ho sakte hain.",
+      "category": "World",
+      "exam_angle": "Ukraine yuddh aur nagrik suraksha: International exams ke liye — sahayata kendra par hamla.",
+      "source": "Channel NewsAsia",
+      "source_url": "https://www.channelnewsasia.com/world/ukraine-russia-war-aid-centre-attack-40-killed-6525456",
+      "genuineness": "verified",
+      "outlets": [
+        "Reuters",
+        "Agence France-Presse",
+        "Kyiv Post",
+        "Al Jazeera"
+      ],
+      "image": null,
+      "image_credit": null
+    },
+    {
+      "id": "world-20261105-0622-02",
+      "published_ist": "2026-11-04T10:59:00+05:30",
+      "headline": "Texas: Talarico 1988 ke baad pehle Democrat Senator",
+      "detail": "Democrat James Talarico ne Republican Ken Paxton ko harakar Texas se 1988 ke baad pehli baar Senate seat jeeti; ve sabse yuva Senator bane.",
+      "category": "World",
+      "exam_angle": "America ki chunav vyavastha: International exams ke liye — Senate aur midterm chunav.",
+      "source": "Times Now",
+      "source_url": "https://www.timesnownews.com/world/us/us-news/texas-turns-blue-as-james-talarico-ends-38-year-democratic-drought-article-156461647",
+      "genuineness": "verified",
+      "outlets": [
+        "Associated Press",
+        "NBC News",
+        "USA Today",
+        "Times Now",
+        "Le Monde"
+      ],
+      "image": null,
+      "image_credit": null
+    },
+    {
+      "id": "world-20261105-0622-03",
+      "published_ist": "2026-11-04T10:41:00+05:30",
+      "headline": "North Korea ne samundar ki taraf missile chhode",
+      "detail": "South Korea ki sena ne kaha Sondok se kai missile chhode gaye, Binance hack ke aarop par America se baatchit se inkaar ke kuch ghante baad.",
+      "category": "World",
+      "exam_angle": "Korea prayadweep aur kootneeti: International exams ke liye — missile parikshan aur America se tanaav.",
+      "source": "Al Jazeera",
+      "source_url": "https://www.aljazeera.com/news/2026/11/4/n-korea-fires-multiple-missiles-denies-us-claims-on-binance-hack",
+      "genuineness": "verified",
+      "outlets": [
+        "Yonhap",
+        "Associated Press",
+        "Al Jazeera",
+        "The Hindu"
+      ],
+      "image": null,
+      "image_credit": null
+    },
+    {
+      "id": "world-20261105-0622-04",
+      "published_ist": "2026-11-04T07:55:51+05:30",
+      "headline": "Georgia: Bottoms pehli Black mahila governor bani",
+      "detail": "Democrat Keisha Lance Bottoms ne Republican Rick Jackson ko harakar Georgia ki pehli Black mahila governor banne ka itihas racha.",
+      "category": "World",
+      "exam_angle": "America ki chunav vyavastha: International exams ke liye — governor chunav aur aitihasik jeet.",
+      "source": "Al Jazeera",
+      "source_url": "https://www.aljazeera.com/amp/news/2026/11/4/keisha-lance-bottoms-makes-us-history-as-first-black-woman-elected-governor",
+      "genuineness": "verified",
+      "outlets": [
+        "Associated Press",
+        "Al Jazeera",
+        "USA Today",
+        "NDTV",
+        "The Straits Times"
+      ],
+      "image": null,
+      "image_credit": null
+    },
+    {
+      "id": "world-20261105-0722-01",
+      "published_ist": "2026-11-04T16:12:00+05:30",
+      "headline": "Michigan: El-Sayed pehle Muslim Senator bane",
+      "detail": "Democrat Abdul El-Sayed ne Republican Mike Rogers ko harakar Michigan se Senate seat jeeti; ve America ke pehle Muslim Senator banenge.",
+      "category": "World",
+      "exam_angle": "America ki chunav vyavastha: International exams ke liye — Senate chunav aur aitihasik pehchan.",
+      "source": "The Hindu",
+      "source_url": "https://www.thehindu.com/news/international/who-is-abdul-el-sayed-first-muslim-us-senator-elect-united-states-us-midterm-elections-2026/article71664610.ece",
+      "genuineness": "verified",
+      "outlets": [
+        "The Hindu",
+        "Al Jazeera",
+        "Reuters",
+        "USA Today",
+        "Haaretz"
+      ],
+      "image": null,
+      "image_credit": null
+    },
+    {
+      "id": "world-20261105-0722-02",
+      "published_ist": "2026-11-04T13:06:00+05:30",
+      "headline": "Muji: 10.9 lakh card number leak ho sakte",
+      "detail": "Japan ki Muji operator Ryohin Keikaku ne kaha lagbhag 1.09 million MUJI Card record, jinme card number shamil hain, leak ho sakte hain; lagbhag 345,000 card abhi valid hain.",
+      "category": "World",
+      "exam_angle": "Cyber suraksha aur data sanrakshan: International exams ke liye — Japan me bada data leak.",
+      "source": "The Straits Times",
+      "source_url": "https://www.straitstimes.com/asia/east-asia/credit-card-numbers-may-have-leaked-in-cyberattack-on-japans-muji?ref=latest-headlines",
+      "genuineness": "verified",
+      "outlets": [
+        "The Straits Times",
+        "MLex",
+        "TBS News"
+      ],
+      "image": null,
+      "image_credit": null
+    },
+    {
+      "id": "world-20261105-0822-01",
+      "published_ist": "2026-11-05T02:00:00+05:30",
+      "headline": "Ukraine-Russia-America: Abu Dhabi me 10-11 Nov baatchit",
+      "detail": "Zelenskyy ne Witkoff aur Kushner se 90 minute baat ki; team-level trilateral baatchit Abu Dhabi me 10-11 November ko hogi, suraksha guarantee aur hawai raksha par charcha hui.",
+      "category": "World",
+      "exam_angle": "Ukraine yuddh: shanti vaarta aur suraksha guarantee — antarrashtriya sambandh ke liye mahatvapurna.",
+      "source": "Ukrinform",
+      "source_url": "https://www.ukrinform.net/rubric-polytics/4181550-zelensky-speaks-with-witkoff-kushner-ahead-of-trilateral-meeting-in-abu-dhabi.html",
+      "genuineness": "verified",
+      "outlets": [
+        "Ukrinform",
+        "Kyiv Independent",
+        "Kyiv Post",
+        "LIGA.net",
+        "UATV",
+        "Reuters"
+      ],
+      "image": null,
+      "image_credit": null
+    },
+    {
+      "id": "world-20261105-0822-02",
+      "published_ist": "2026-11-04T22:06:00+05:30",
+      "headline": "Bangladesh: December se garment mazdooron ka naya vetan",
+      "detail": "Naye wage board ne December se sanshodhit vetan dhancha lagu karne par sahamati di; pehli badhi hui salary January me milegi, lekin vetan ka aakar abhi tay nahi hua.",
+      "category": "World",
+      "exam_angle": "Bangladesh: vastr udyog aur shramik vetan — padosi desh ki arthvyavastha ke liye.",
+      "source": "The Hindu",
+      "source_url": "https://www.thehindu.com/news/international/bangladesh-agrees-new-garment-pay-scale-from-december-amid-protests/article71667080.ece",
+      "genuineness": "verified",
+      "outlets": [
+        "Reuters",
+        "The Hindu",
+        "Financial Express",
+        "Daily New Nation"
+      ],
+      "image": null,
+      "image_credit": null
+    },
+    {
+      "id": "world-20261105-0822-03",
+      "published_ist": "2026-11-04T14:21:00+05:30",
+      "headline": "Thailand ke mantri 12 Nov ko Myanmar jayenge",
+      "detail": "Videsh mantri Sihasak Phuangketkeow 12 November ko Myanmar jayenge; seema par jhadap aur ASEAN shikhar sammelan se pehle Myanmar ka rukh janenge.",
+      "category": "World",
+      "exam_angle": "ASEAN: Myanmar sankat aur seema suraksha — dakshin-poorv Asia ke liye.",
+      "source": "DVB",
+      "source_url": "https://english.dvb.no/thai-foreign-minister-to-visit-myanmar-ahead-of-asean-summit-in-philippines/",
+      "genuineness": "verified",
+      "outlets": [
+        "Agence France-Presse",
+        "DVB",
+        "Thai Newsroom"
+      ],
+      "image": null,
+      "image_credit": null
+    },
+    {
+      "id": "world-20261105-0922-01",
+      "published_ist": "2026-11-05T03:33:00+05:30",
+      "headline": "Myanmar Rohingya case: ICJ faisla 19 Nov ko",
+      "detail": "ICJ ne kaha Gambia ke case me Myanmar ke khilaf antim faisla 19 November ko The Hague me sunaya jayega; Myanmar ne aaropon se inkaar kiya hai.",
+      "category": "World",
+      "exam_angle": "ICJ aur antarrashtriya kanoon: International exams ke liye — Rohingya case aur Genocide Convention.",
+      "source": "DVB",
+      "source_url": "https://english.dvb.no/icj-to-rule-on-myanmar-genocide-case-migrant-leader-to-file-complaint-over-assault-at-protest-in-thailand/",
+      "genuineness": "verified",
+      "outlets": [
+        "Reuters",
+        "Anadolu Agency",
+        "DVB"
+      ],
+      "image": null,
+      "image_credit": null
+    },
+    {
+      "id": "world-20261105-0922-02",
+      "published_ist": "2026-11-04T21:49:00+05:30",
+      "headline": "Congo se Ebola patient UK bheja jayega",
+      "detail": "Congo me Ebola positive paye gaye British healthcare worker ko specialist ilaaj ke liye UK bheja ja raha hai; sarkar ne kaha janata ko khatra kam hai.",
+      "category": "World",
+      "exam_angle": "Ebola aur global health suraksha: International exams ke liye — sankramak rog aur medical evacuation.",
+      "source": "Reuters",
+      "source_url": "https://www.reuters.com/business/healthcare-pharmaceuticals/british-healthcare-worker-with-ebola-be-evacuated-congo-uk-document-shows-2026-11-04/",
+      "genuineness": "corroborated",
+      "outlets": [
+        "Reuters",
+        "Sky News"
+      ],
+      "image": null,
+      "image_credit": null
+    },
+    {
+      "id": "world-20261105-1022-01",
+      "published_ist": "2026-11-05T09:07:00+05:30",
+      "headline": "Hong Kong: Joshua Wong ko 10 saal aur",
+      "detail": "Hong Kong High Court ne Joshua Wong ko videshi taaqaton se milne ke aarop me 10 saal ki saza sunayi; ve January me riha hone wale the.",
+      "category": "World",
+      "exam_angle": "Hong Kong aur rashtriya suraksha kanoon: International exams ke liye — loktantra andolan aur videshi pratibandh aarop.",
+      "source": "The Straits Times",
+      "source_url": "https://www.straitstimes.com/asia/east-asia/hong-kong-activist-joshua-wong-sentenced-to-10-more-years",
+      "genuineness": "verified",
+      "outlets": [
+        "The Straits Times",
+        "CNN",
+        "The Wall Street Journal",
+        "Human Rights Watch"
+      ],
+      "image": null,
+      "image_credit": null
+    },
+    {
+      "id": "world-20261105-1022-02",
+      "published_ist": "2026-11-05T08:25:00+05:30",
+      "headline": "South Korea: Hormuz ke paas mission badhega",
+      "detail": "South Korea ne Cheonghae unit ka mission Gulf of Aden se Oman ke dakshin tak badhane ka faisla kiya; P-8A vimaan aur mine-clearing team bhi jodegi, sansad ki manzoori baaki hai.",
+      "category": "World",
+      "exam_angle": "Hormuz Strait aur samudri suraksha: International exams ke liye — tel marg aur antarrashtriya nauvahan.",
+      "source": "The Korea Herald",
+      "source_url": "https://m.koreaherald.com/article/10926571",
+      "genuineness": "verified",
+      "outlets": [
+        "The Korea Herald",
+        "The Korea Times",
+        "Seoul Economic Daily"
+      ],
+      "image": null,
+      "image_credit": null
+    }
+  ],
+  "updated_ist": "2026-11-05T10:23:13+05:30"
 }
