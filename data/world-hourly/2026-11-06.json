@@ -492,5 +492,80 @@
   ],
   "image": "../images/world/world-20261106-1522-03.jpg",
   "image_credit": "Gage Skidmore / Wikimedia Commons (CC BY-SA 2.0)"
+ },
+ {
+  "id": "world-20261106-1722-01",
+  "published_ist": "2026-11-06T05:00:00+05:30",
+  "headline": "Grenada me Mitchell ki badi jeet, 14 seatein",
+  "detail": "Grenada ke aam chunav me PM Dickon Mitchell ki NDC ne 15 me se 14 seatein jeet kar doosri baar sarkar banayi; lagbhag 61% vote mile aur NNP ke paas sirf ek seat bachi.",
+  "category": "World",
+  "exam_angle": "Caribbean me loktantra aur chunav — antarrashtriya sambandh ke liye mahatvapurna.",
+  "source": "The New Indian Express",
+  "source_url": "https://www.newindianexpress.com/world/2026/Nov/06/prime-minister-of-small-eastern-caribbean-archipelago-dickon-mitchell-secures-a-second-term",
+  "genuineness": "verified",
+  "outlets": [
+   "The New Indian Express",
+   "Antigua News Room",
+   "One News St Vincent",
+   "Central European Affairs"
+  ],
+  "image": "../images/world/world-20261106-1722-01.jpg",
+  "image_credit": "Prime Minister's Office, India (GODL-India)"
+ },
+ {
+  "id": "world-20261106-1722-02",
+  "published_ist": "2026-11-05T15:33:00+05:30",
+  "headline": "Sweden me seema jaanch phir 6 mahine",
+  "detail": "Sweden ne 12 November se Schengen ki andaruni seemaon par jaanch phir chhe mahine ke liye badha di; sarkar ne Russia ke yuddh se jude hybrid khatron aur tod-phod ke badhte jokhim ko wajah bataya.",
+  "category": "World",
+  "exam_angle": "Schengen aur Europe ki suraksha — antarrashtriya sambandh ke liye mahatvapurna.",
+  "source": "Reuters",
+  "source_url": "https://www.reuters.com/world/sweden-reintroduces-internal-border-control-citing-security-situation-2026-11-05/",
+  "genuineness": "verified",
+  "outlets": [
+   "Reuters",
+   "The National",
+   "Sweden Herald",
+   "AnewZ"
+  ],
+  "image": null,
+  "image_credit": null
+ },
+ {
+  "id": "world-20261106-1722-03",
+  "published_ist": "2026-11-06T14:12:00+05:30",
+  "headline": "UN pramukh daud me Grynspan aage",
+  "detail": "Sanyukt Rashtra ke agle mahasachiv ke liye aathve straw poll me Costa Rica ki Rebeca Grynspan ko 15 me se 12 sakaratmak vote mile; Argentina ke Rafael Grossi 9 vote ke saath doosre par rahe, jabki Turkey ke Sinirlioglu chhathe sthan par rahe.",
+  "category": "World",
+  "exam_angle": "Sanyukt Rashtra aur mahasachiv chunav — antarrashtriya sangathan ke liye mahatvapurna.",
+  "source": "New Kerala",
+  "source_url": "https://www.newkerala.com/news/a/costa-ricas-rebeca-grynspan-leads-un-chief-poll-373.htm",
+  "genuineness": "verified",
+  "outlets": [
+   "New Kerala",
+   "Politiko",
+   "QNC News",
+   "New Greek TV"
+  ],
+  "image": "../images/world/world-20261106-1722-03.jpg",
+  "image_credit": "UN Trade and Development (UNCTAD) / CC BY-SA 2.0"
+ },
+ {
+  "id": "world-20261106-1722-04",
+  "published_ist": "2026-11-06T01:22:00+05:30",
+  "headline": "UNIFIL 31 December ko Lebanon chhodega",
+  "detail": "UNIFIL ne pushti ki ki 31 December 2026 ko uska mandate khatm hote hi vah dakshini Lebanon se hatna shuru kar dega; 1978 se tainat mission ke lagbhag 7,500 shanti sainik tab tak kaam jaari rakhenge.",
+  "category": "World",
+  "exam_angle": "UN shanti mission aur Lebanon — antarrashtriya sangathan ke liye mahatvapurna.",
+  "source": "The Times of Israel",
+  "source_url": "https://www.timesofisrael.com/unifil-confirms-it-will-start-leaving-south-lebanon-when-mandate-ends-on-dec-31/",
+  "genuineness": "verified",
+  "outlets": [
+   "The Times of Israel",
+   "UN News",
+   "Stratum Global Risk"
+  ],
+  "image": "../images/world/world-20261106-1722-04.jpg",
+  "image_credit": "Irish Defence Forces / CC BY 2.0"
  }
 ]
