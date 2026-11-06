@@ -1,6 +1,24 @@
 {
- "updated_ist": "2026-11-06T11:25:51+05:30",
+ "updated_ist": "2026-11-06T12:24:54+05:30",
  "items": [
+  {
+   "id": "world-20261106-1222-01",
+   "published_ist": "2026-11-06T10:30:00+05:30",
+   "headline": "US carrier Theodore Roosevelt Middle East ki ore",
+   "detail": "Upgrah tasveeron ke mutabik USS Theodore Roosevelt 4 November ko South China Sea me dikha; US adhikariyon ke hawale se November ke ant tak Middle East pahunchne ki ummeed hai, jahan pehle se do carrier maujood hain.",
+   "category": "World",
+   "exam_angle": "US-Iran tanav: Hormuz se tel supply par asar — Bharat ke liye mahatvapurna.",
+   "source": "Gulf News",
+   "source_url": "https://gulfnews.com/world/mena/usisrael-iran-war-what-uae-residents-need-to-know-today-nov-6-2026-1.500738069",
+   "genuineness": "verified",
+   "outlets": [
+    "Gulf News",
+    "Axios",
+    "Al Jazeera"
+   ],
+   "image": null,
+   "image_credit": null
+  },
   {
    "id": "world-20261106-1122-01",
    "published_ist": "2026-11-05T16:28:00+05:30",
@@ -75,25 +93,6 @@
    ],
    "image": "../images/world/world-20261106-0922-01.jpg",
    "image_credit": "Nithya Raman / Public domain"
-  },
-  {
-   "id": "world-20261106-0922-02",
-   "published_ist": "2026-11-05T08:02:00+05:30",
-   "headline": "Trump ne kaha: mahabhiyog se Democrats barbaad",
-   "detail": "America ke rashtrapati Donald Trump ne kaha ki mahabhiyog ki koshish se Democratic Party barbaad ho jayegi; unhe iski bilkul chinta nahi aur ve veto ka istemal karenge.",
-   "category": "World",
-   "exam_angle": "America me mahabhiyog ki prakriya aur vibhajit sarkar — antarrashtriya rajneeti ke liye mahatvapurna.",
-   "source": "Business Today",
-   "source_url": "https://www.businesstoday.in/amp/world/story/it-would-destroy-the-democrats-trump-dismisses-impeachment-concerns-after-midterm-loss-565781-2026-11-05",
-   "genuineness": "verified",
-   "outlets": [
-    "Business Today",
-    "CNN",
-    "The Times",
-    "Al Jazeera"
-   ],
-   "image": null,
-   "image_credit": null
   },
   {
    "id": "world-20261106-0922-03",
@@ -230,25 +229,6 @@
    "image_credit": null
   },
   {
-   "id": "world-20261106-0722-04",
-   "published_ist": "2026-11-04T13:16:00+05:30",
-   "headline": "US midterms me Democrats ki badi jeet",
-   "detail": "America ke midterm chunav me Democrats ne Senate aur House dono par kabza kar liya; 7 Senate seatein palti aur Michigan se Abdul El-Sayed desh ke pehle Muslim senator chune gaye.",
-   "category": "World",
-   "exam_angle": "America ki vibhajit sarkar aur 2028 ki daud — antarrashtriya rajneeti ke liye mahatvapurna.",
-   "source": "Al Jazeera",
-   "source_url": "https://www.aljazeera.com/amp/news/2026/11/4/democrats-deliver-a-historic-routing-to-republicans-in-us-midterms",
-   "genuineness": "verified",
-   "outlets": [
-    "Al Jazeera",
-    "Nikkei Asia",
-    "USA Today",
-    "Times Now"
-   ],
-   "image": null,
-   "image_credit": null
-  },
-  {
    "id": "world-20261106-0622-01",
    "published_ist": "2026-11-06T00:28:00+05:30",
    "headline": "Paraguay rashtrapati ne bank sankat par istifa diya",
@@ -318,77 +298,6 @@
     "The Tribune",
     "The Hindu BusinessLine",
     "FATF"
-   ],
-   "image": null,
-   "image_credit": null
-  },
-  {
-   "id": "world-20261105-2224-01",
-   "published_ist": "2026-11-03T09:45:00+05:30",
-   "headline": "Everest ke paas helicopter takkar, 1 ki maut",
-   "detail": "Nepal ke Pheriche me Everest base camp ke paas landing ke dauraan do helicopter takra gaye; Chennai ke 47 saal ke paryatak Vasanth Kumar ki maut ho gayi aur 3 log ghayal hue.",
-   "category": "World",
-   "exam_angle": "Nepal me vimanan suraksha aur Bharat-Nepal sambandh — antarrashtriya sambandh ke liye mahatvapurna.",
-   "source": "The New Indian Express",
-   "source_url": "https://www.newindianexpress.com/world/2026/Nov/03/tn-man-killed-as-two-choppers-collide-near-mt-everest-base-camp-in-nepal-2?utm_source=website&utm_medium=related-stories",
-   "genuineness": "verified",
-   "outlets": [
-    "Times of India",
-    "The New Indian Express",
-    "The Telegraph"
-   ],
-   "image": null,
-   "image_credit": null
-  },
-  {
-   "id": "world-20261105-2224-02",
-   "published_ist": "2026-11-04T06:33:00+05:30",
-   "headline": "Spain mantri ka train hadse par istifa",
-   "detail": "Spain ke parivahan mantri Oscar Puente ne 69 logon ki jaan lene wale train hadse ke baad istifa de diya; saal bhar me yeh doosra bada rail hadsa hai.",
-   "category": "World",
-   "exam_angle": "Spain ki rail suraksha aur mantri ki jawabdehi — antarrashtriya rajneeti ke liye mahatvapurna.",
-   "source": "Al Jazeera",
-   "source_url": "https://www.aljazeera.com/amp/news/2026/11/4/spanish-transport-minister-resigns-after-train-crash-killed-69-people",
-   "genuineness": "verified",
-   "outlets": [
-    "Al Jazeera",
-    "CNN",
-    "The Hindu"
-   ],
-   "image": null,
-   "image_credit": null
-  },
-  {
-   "id": "world-20261105-2224-03",
-   "published_ist": "2026-11-04T16:36:00+05:30",
-   "headline": "Borneo me helicopter crash, ek ki maut",
-   "detail": "Indonesia ke sena helicopter ne Borneo ke paas samundar me aag bujhane ke dauraan crash kiya; ek ki maut hui, paanch ko bacha liya gaya.",
-   "category": "World",
-   "exam_angle": "Indonesia me aapda prabandhan aur jungle ki aag — paryavaran ke liye mahatvapurna.",
-   "source": "Malay Mail",
-   "source_url": "https://www.malaymail.com/news/world/2026/11/04/one-dead-five-rescued-after-indonesian-water-bombing-helicopter-crashes-near-orangutan-park-off-borneo/241993",
-   "genuineness": "corroborated",
-   "outlets": [
-    "AFP",
-    "Gulf News"
-   ],
-   "image": null,
-   "image_credit": null
-  },
-  {
-   "id": "world-20261105-2224-04",
-   "published_ist": "2026-11-03T07:54:00+05:30",
-   "headline": "Iran ka daava: 3 US drone giraye",
-   "detail": "Iran ke IRGC ne daava kiya ki Hormuz ke paas 3 American drone giraye gaye; America ne abhi tak iski pushti nahi ki hai.",
-   "category": "World",
-   "exam_angle": "Hormuz me tanav aur Bharat ki urja suraksha — antarrashtriya sambandh ke liye mahatvapurna.",
-   "source": "Economic Times",
-   "source_url": "https://economictimes.indiatimes.com/news/defence/3-us-drones-shot-down-near-strait-of-hormuz-irans-irgc/articleshow/135479113.cms",
-   "genuineness": "verified",
-   "outlets": [
-    "Economic Times",
-    "The Hindu BusinessLine",
-    "The Week"
    ],
    "image": null,
    "image_credit": null
