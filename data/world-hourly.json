@@ -1,6 +1,43 @@
 {
- "updated_ist": "2026-11-06T10:27:56+05:30",
+ "updated_ist": "2026-11-06T11:25:51+05:30",
  "items": [
+  {
+   "id": "world-20261106-1122-01",
+   "published_ist": "2026-11-05T16:28:00+05:30",
+   "headline": "Europe bhar me bomb dhamki, Dublin-Rome flight divert",
+   "detail": "Guruvar ko Europe bhar me ek darjan se zyada udanon ko bomb ki dhamki mili; Dublin se Rome ja rahi Aer Lingus flight ko France ke Évreux airbase par utarna pada, 151 yatri aur 6 crew surakshit rahe; adhikariyon ne inhe shararat bhari jhoothi dhamki bataya, koi khatarnak samagri nahi mili.",
+   "category": "World",
+   "exam_angle": "Europe me vimanan suraksha aur sankat prabandhan — antarrashtriya suraksha ke liye mahatvapurna.",
+   "source": "The Tribune",
+   "source_url": "https://www.tribuneindia.com/news/world/dublin-rome-flight-diverted-to-french-airbase-as-bomb-threat-wave-hits-european-aviation/amp/",
+   "genuineness": "verified",
+   "outlets": [
+    "Euronews",
+    "SCMP",
+    "Associated Press"
+   ],
+   "image": "../images/world/world-20261106-1122-01.jpg",
+   "image_credit": "DaHuzyBru / Wikimedia Commons (CC BY-SA 4.0)"
+  },
+  {
+   "id": "world-20261106-1122-02",
+   "published_ist": "2026-11-05T16:25:00+05:30",
+   "headline": "Ethiopia me hinsa, swasthya vyavastha khatre me",
+   "detail": "WHO pramukh Tedros ne chetavni di ki uttari Ethiopia me hinsa se swasthya vyavastha dhahne ke kagar par hai; Amhara aur Tigray me drone hamlo me bachchon sahit nagrik mare gaye aur aspatalon me dawaiyon aur karmiyon ki kami hai.",
+   "category": "World",
+   "exam_angle": "WHO, sanyukt rashtra aur Ethiopia sangharsh — antarrashtriya sangathan aur manaviya sankat ke liye mahatvapurna.",
+   "source": "Geographical",
+   "source_url": "https://geographical.co.uk/news/conflict-in-northern-ethiopia-pushing-health-systems-to-brink-who-chief-warns",
+   "genuineness": "verified",
+   "outlets": [
+    "Geographical",
+    "CGTN",
+    "UN Media",
+    "The Eastleigh Voice"
+   ],
+   "image": null,
+   "image_credit": null
+  },
   {
    "id": "world-20261106-1022-01",
    "published_ist": "2026-11-06T02:45:00+05:30",
@@ -408,42 +445,6 @@
    ],
    "image": null,
    "image_credit": null
-  },
-  {
-   "id": "world-20261105-2122-04",
-   "published_ist": "2026-11-05T15:18:00+05:30",
-   "headline": "Poland me Russia jasusi case me 4 giraftar",
-   "detail": "Poland ki suraksha agency ne Russia ko sainya purje bhejne ke aarop me chaar logon ko jasusi ke aarop me giraftar kiya; do aur logon par sangathit apradh ka aarop hai.",
-   "category": "World",
-   "exam_angle": "Europe me jasusi aur pratibandh — antarrashtriya suraksha ke liye mahatvapurna.",
-   "source": "Reuters",
-   "source_url": "https://www.reuters.com/world/poland-arrest-four-probe-into-military-supplies-sent-russia-2026-11-05/",
-   "genuineness": "verified",
-   "outlets": [
-    "Reuters",
-    "Deutsche Welle",
-    "Just Security"
-   ],
-   "image": null,
-   "image_credit": null
-  },
-  {
-   "id": "world-20261105-2022-01",
-   "published_ist": "2026-11-05T20:02:00+05:30",
-   "headline": "Russell Brand balatkar case me doshi",
-   "detail": "London ki Southwark Crown Court ne comedian Russell Brand ko ek balatkar aur teen yaun hamlo ka doshi paya; saza 9 November ko sunayi jayegi.",
-   "category": "World",
-   "exam_angle": null,
-   "source": "Reuters",
-   "source_url": "https://www.reuters.com/world/comedian-russell-brand-found-guilty-rape-2026-11-05/",
-   "genuineness": "verified",
-   "outlets": [
-    "Reuters",
-    "USA Today",
-    "The Times"
-   ],
-   "image": "../images/world/world-20261105-2022-01.jpg",
-   "image_credit": "Eva Rinaldi / CC BY-SA 2.0"
   }
  ]
 }
