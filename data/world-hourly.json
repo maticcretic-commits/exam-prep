@@ -1,6 +1,80 @@
 {
- "updated_ist": "2026-11-05T22:24:20+05:30",
+ "updated_ist": "2026-11-06T06:26:28+05:30",
  "items": [
+  {
+   "id": "world-20261106-0622-01",
+   "published_ist": "2026-11-06T00:28:00+05:30",
+   "headline": "Paraguay rashtrapati ne bank sankat par istifa diya",
+   "detail": "Paraguay ke Rashtrapati Santiago Peña ne Ueno Bank ke dhahne ke baad istifa de diya; bank ke lagbhag 30 lakh grahakon ke khate band ho gaye aur unpar aapradhik jaanch aur mahabhiyog ki karyavahi shuru hui.",
+   "category": "World",
+   "exam_angle": "Bank niyaman aur rashtrapati ki jawabdehi — banking aur antarrashtriya sambandh ke liye mahatvapurna.",
+   "source": "Reuters",
+   "source_url": "https://www.reuters.com/world/americas/paraguay-president-pea-resigns-under-mounting-pressure-bank-collapse-2026-11-05/",
+   "genuineness": "verified",
+   "outlets": [
+    "Reuters",
+    "CNN",
+    "The Times",
+    "Associated Press"
+   ],
+   "image": "../images/world/world-20261106-0622-01.jpg",
+   "image_credit": "Office of the President, Taiwan / CC BY 2.0"
+  },
+  {
+   "id": "world-20261106-0622-02",
+   "published_ist": "2026-11-05T23:12:00+05:30",
+   "headline": "Brooklyn me aag, 6 ki maut",
+   "detail": "New York ke Brooklyn me ek ghar me lagi aag me 6 logon ki maut ho gayi aur 9 ghayal hue, jinme 3 firefighter aur 2 police adhikari shamil hain; aag ke kaaran ki jaanch chal rahi hai.",
+   "category": "World",
+   "exam_angle": null,
+   "source": "USA Today",
+   "source_url": "https://www.usatoday.com/story/news/nation/2026/11/05/sunset-park-house-fire-brooklyn-new-york/92624608007/",
+   "genuineness": "verified",
+   "outlets": [
+    "USA Today",
+    "Associated Press",
+    "New York Post"
+   ],
+   "image": null,
+   "image_credit": null
+  },
+  {
+   "id": "world-20261106-0622-03",
+   "published_ist": "2026-11-05T20:46:00+05:30",
+   "headline": "Eisenkot ko 67 samarthan, Netanyahu peeche",
+   "detail": "Israel me Yashar neta Gadi Eisenkot ko sarkar banane ke liye 67 sansadon ka samarthan mila, jabki Netanyahu ko 46 mile; Rashtrapati Herzog Ravivar ko faisla karenge.",
+   "category": "World",
+   "exam_angle": "Israel ki sansadiya vyavastha aur sarkar gathan — antarrashtriya rajneeti ke liye mahatvapurna.",
+   "source": "The Economic Times",
+   "source_url": "https://economictimes.indiatimes.com/news/international/world-news/eisenkot-clears-pm-mandate-threshold-with-67-endorsements-leaving-netanyahus-bloc-at-46-seats-utj-abstains/articleshow/135578291.cms",
+   "genuineness": "verified",
+   "outlets": [
+    "The Economic Times",
+    "The Times of Israel",
+    "Haaretz",
+    "Ynet"
+   ],
+   "image": null,
+   "image_credit": null
+  },
+  {
+   "id": "world-20261106-0622-04",
+   "published_ist": "2026-11-05T20:37:00+05:30",
+   "headline": "FATF ki scam compounds par badi report",
+   "detail": "FATF ne scam compounds se jude avaidh vittiya pravah par nayi report jaari ki; har saal dasyon arab dollar ka nuksan hota hai aur lagbhag 120 case studies me 60 se zyada kshetron ko shamil kiya gaya.",
+   "category": "World",
+   "exam_angle": "FATF, money laundering aur cyber dhokhadhadi — banking aur arthvyavastha ke liye mahatvapurna.",
+   "source": "The Tribune",
+   "source_url": "https://www.tribuneindia.com/news/world/new-landmark-report-from-fatf-calls-for-global-action-to-disrupt-scam-compounds/",
+   "genuineness": "verified",
+   "outlets": [
+    "The Tribune",
+    "The Hindu BusinessLine",
+    "FATF"
+   ],
+   "image": null,
+   "image_credit": null
+  },
   {
    "id": "world-20261105-2224-01",
    "published_ist": "2026-11-03T09:45:00+05:30",
@@ -358,79 +432,6 @@
     "CNN",
     "The Wall Street Journal",
     "Human Rights Watch"
-   ],
-   "image": null,
-   "image_credit": null
-  },
-  {
-   "id": "world-20261105-1925-02",
-   "published_ist": "2026-11-05T08:37:00+05:30",
-   "headline": "Dow 1,569 ank chadha, Brent tel 8.7% gira",
-   "detail": "Midterm me Democrat jeet ke baad Dow 1,569 ank (3%) chadhkar 53,356 par band hua, jabki Brent crude 8.7% girkar $94.62 prati barrel par aa gaya — Iran yuddh khatm hone ki ummeed se.",
-   "category": "World",
-   "exam_angle": "Bazaar aur tel: America ke chunav aur Iran yuddh ka vaishvik arthvyavastha par asar.",
-   "source": "Gulf News",
-   "source_url": "https://gulfnews.com/business/markets/wall-street-roars-dow-rockets-1500-points-as-democrats-sweep-congress-1.500736418",
-   "genuineness": "verified",
-   "outlets": [
-    "Associated Press",
-    "Gulf News",
-    "Reuters"
-   ],
-   "image": null,
-   "image_credit": null
-  },
-  {
-   "id": "world-20261105-1022-02",
-   "published_ist": "2026-11-05T08:25:00+05:30",
-   "headline": "South Korea: Hormuz ke paas mission badhega",
-   "detail": "South Korea ne Cheonghae unit ka mission Gulf of Aden se Oman ke dakshin tak badhane ka faisla kiya; P-8A vimaan aur mine-clearing team bhi jodegi, sansad ki manzoori baaki hai.",
-   "category": "World",
-   "exam_angle": "Hormuz Strait aur samudri suraksha: International exams ke liye — tel marg aur antarrashtriya nauvahan.",
-   "source": "The Korea Herald",
-   "source_url": "https://m.koreaherald.com/article/10926571",
-   "genuineness": "verified",
-   "outlets": [
-    "The Korea Herald",
-    "The Korea Times",
-    "Seoul Economic Daily"
-   ],
-   "image": null,
-   "image_credit": null
-  },
-  {
-   "id": "world-20261105-1622-01",
-   "published_ist": "2026-11-05T07:16:00+05:30",
-   "headline": "Uttar Korea: Nayi missile ka parikshan, drill bhi",
-   "detail": "Uttar Korea ne Budhvar ko nayi air defence missile ka parikshan kiya aur lambi doori ki cruise missile se ek nakli hawai adde par hamle ki drill bhi ki; Dakshin Korea ki sena ne Sondok se samudra ki taraf kai missile chhode jaane ki pushti ki hai.",
-   "category": "World",
-   "exam_angle": "Uttar Korea aur missile parikshan: International exams ke liye — suraksha parishad pratibandh aur kshetriya tanaav.",
-   "source": "Yonhap News Agency",
-   "source_url": "https://en.yna.co.kr/view/AEN20261105000651315?section=nk/nk",
-   "genuineness": "verified",
-   "outlets": [
-    "Yonhap News Agency",
-    "Reuters",
-    "Kyodo News"
-   ],
-   "image": "../images/world/world-20261105-1622-01.jpg",
-   "image_credit": "Yonhap News Agency"
-  },
-  {
-   "id": "world-20261105-1925-03",
-   "published_ist": "2026-11-05T07:01:00+05:30",
-   "headline": "Indonesia: Rashtrapati ke phone tap karne par barkhast",
-   "detail": "Rashtrapati Prabowo ne apne chief of staff Listyo Sigit Prabowo ko barkhast kar diya; unpar Rashtrapati, mantriyon aur patrakaron ke phone tap karne ka aarop hai, sarkar ne ise deshdroh jaisa bataya.",
-   "category": "World",
-   "exam_angle": "Indonesia: gair-kanuni nigrani aur deshdroh — dakshin-poorv Asia ki rajneeti ke liye.",
-   "source": "Dawn",
-   "source_url": "https://www.dawn.com/news/2042249/indonesian-president-sacks-aide-accused-of-wiretapping",
-   "genuineness": "verified",
-   "outlets": [
-    "Al Jazeera",
-    "South China Morning Post",
-    "The Manila Times",
-    "Dawn"
    ],
    "image": null,
    "image_credit": null
