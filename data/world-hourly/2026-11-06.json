@@ -739,5 +739,59 @@
   ],
   "image": "../images/world/world-20261106-2025-01.jpg",
   "image_credit": "C5karl / CC BY-SA 4.0"
+ },
+ {
+  "id": "world-20261106-2127-01",
+  "published_ist": "2026-11-06T09:30:00+05:30",
+  "headline": "Belgium: pravasiyon ke ghar talashi ka kanoon",
+  "detail": "Belgium ki sansad ne kanoon manzoor kiya — jaanch judge ki manzoori se police un pravasiyon ke ghar talashi le sakegi jinki sharan yachika kharij hui aur jo desh chhodne ka aadesh nahi maan rahe; talashi sirf subah 5 se 9 baje ke beech hogi.",
+  "category": "World",
+  "exam_angle": "Europe me pravasan niti aur manavadhikar — UPSC ke liye mahatvapurna.",
+  "source": "Reuters",
+  "source_url": "https://www.reuters.com/world/belgium-allow-home-searches-suspected-illegal-migrants-2026-11-06/",
+  "genuineness": "verified",
+  "outlets": [
+   "Reuters",
+   "UA.news",
+   "Brussels Morning"
+  ],
+  "image": "../images/world/world-20261106-2127-01.jpg",
+  "image_credit": "Ank Kumar / CC BY-SA 4.0"
+ },
+ {
+  "id": "world-20261106-2127-02",
+  "published_ist": "2026-11-06T05:31:00+05:30",
+  "headline": "Google, Meta, TikTok ne California par mukadma kiya",
+  "detail": "Teeno companies ne California ke naye kanoon AB 1709 ko chunauti di jo 16 saal se kam umr ke bachchon ke liye autoplay aur personalised feed par rok lagata hai; kanoon 1 January 2027 se lagu hona hai.",
+  "category": "World",
+  "exam_angle": "Bachchon ki online suraksha aur tech niyam — digital governance ke liye mahatvapurna.",
+  "source": "Reuters",
+  "source_url": "https://www.reuters.com/world/us/google-meta-tiktok-sue-block-california-youth-social-media-law-2026-11-05/",
+  "genuineness": "verified",
+  "outlets": [
+   "Reuters",
+   "Firstpost",
+   "TechCrunch",
+   "Mediaweek"
+  ],
+  "image": null,
+  "image_credit": null
+ },
+ {
+  "id": "world-20261106-2127-03",
+  "published_ist": "2026-11-06T05:20:00+05:30",
+  "headline": "Iran ne Qatar se America ko prastav bheja",
+  "detail": "Iran ne Qatar ke zariye America ko parmanu prastav bheja; Hormuz jaladmarumadhya kholne aur baatchit se pehle saat shartein poori karne ki maang ki, jinme pratibandh hatana aur jami hui sampatti lautana shamil hai.",
+  "category": "World",
+  "exam_angle": "Hormuz aur parmanu kootneeti — antarrashtriya sambandh ke liye mahatvapurna.",
+  "source": "Reuters",
+  "source_url": "https://www.reuters.com/world/middle-east/iran-sent-nuclear-proposal-us-via-qatar-senior-iranian-official-tells-reuters-2026-11-05/",
+  "genuineness": "corroborated",
+  "outlets": [
+   "Reuters",
+   "The Statesman"
+  ],
+  "image": null,
+  "image_credit": null
  }
 ]
