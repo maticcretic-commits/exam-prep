@@ -1,6 +1,25 @@
 {
- "updated_ist": "2026-11-06T09:24:51+05:30",
+ "updated_ist": "2026-11-06T10:27:56+05:30",
  "items": [
+  {
+   "id": "world-20261106-1022-01",
+   "published_ist": "2026-11-06T02:45:00+05:30",
+   "headline": "Canada: 2027 se saalana 3.8 lakh PR",
+   "detail": "Canada ne Budget 2026 ke saath 2027–2029 Immigration Levels Plan jaari kiya; 2027 se 2029 tak har saal 3,80,000 permanent resident ka lakshya hai, aur 2027 ke ant tak 2,00,000 tak asthayi nivaasiyon ko PR me badalne ka upaay bhi hai.",
+   "category": "World",
+   "exam_angle": "Canada ki aapravaasan neeti — antarrashtriya sambandh aur pravasi Bharatiya ke liye mahatvapurna.",
+   "source": "Reuters",
+   "source_url": "https://www.reuters.com/world/key-proposed-measures-canadian-federal-budget-2026-11-05/",
+   "genuineness": "verified",
+   "outlets": [
+    "Reuters",
+    "Government of Canada",
+    "immigration.ca",
+    "GoFarGlobal"
+   ],
+   "image": "../images/world/world-20261106-1022-01.jpg",
+   "image_credit": "Saffron Blaze / Wikimedia Commons (CC BY-SA 3.0)"
+  },
   {
    "id": "world-20261106-0922-01",
    "published_ist": "2026-11-06T08:57:00+05:30",
@@ -425,24 +444,6 @@
    ],
    "image": "../images/world/world-20261105-2022-01.jpg",
    "image_credit": "Eva Rinaldi / CC BY-SA 2.0"
-  },
-  {
-   "id": "world-20261105-2022-02",
-   "published_ist": "2026-11-05T17:34:00+05:30",
-   "headline": "Amman me chaku hamla, suraksha adhikari ki maut",
-   "detail": "Jordan ki rajdhani Amman me Sri Lanka dutavas ke paas ek hamlaawar ne suraksha adhikari par chaku se hamla kar diya; ek adhikari ki maut ho gayi, ek ghayal hai aur hamlaawar giraftar hai.",
-   "category": "World",
-   "exam_angle": "Jordan me suraksha sthiti aur West Asia me tanav — antarrashtriya sambandh ke liye mahatvapurna.",
-   "source": "Reuters",
-   "source_url": "https://www.reuters.com/world/middle-east/jordanian-officer-killed-amman-stabbing-suspect-arrested-state-media-says-2026-11-05/",
-   "genuineness": "verified",
-   "outlets": [
-    "Reuters",
-    "Al Jazeera",
-    "Ynet"
-   ],
-   "image": null,
-   "image_credit": null
   }
  ]
 }
