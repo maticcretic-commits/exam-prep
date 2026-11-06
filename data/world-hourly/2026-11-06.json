@@ -605,5 +605,82 @@
   ],
   "image": "../images/world/world-20261106-1822-02.jpg",
   "image_credit": "The White House / Public domain"
+ },
+ {
+  "id": "world-20261106-1926-01",
+  "published_ist": "2026-11-06T19:00:00+05:30",
+  "headline": "Tanzania: Lissu deshdroh se bari, 4 saal jail",
+  "detail": "Tanzania ki High Court ne vipakshi neta Tundu Lissu ko deshdroh ke aarop se bari kar diya, lekin chunav bhadkane ke aarop me chaar saal ki saza sunai; ve appeal karenge.",
+  "category": "World",
+  "exam_angle": "Tanzania me vipakshi neta par faisla — Africa ki rajneeti aur loktantra ke liye mahatvapurna.",
+  "source": "TimesLIVE",
+  "source_url": "https://www.timeslive.co.za/news/africa/2026-11-06-tanzania-opposition-leader-tundu-lissu-cleared-of-treason-sentenced-for-inciting-unrest/",
+  "genuineness": "verified",
+  "outlets": [
+   "TimesLIVE",
+   "Associated Press",
+   "People Daily",
+   "Voice of Nigeria"
+  ],
+  "image": "../images/world/world-20261106-1926-01.jpg",
+  "image_credit": "Likumbage / CC BY-SA 4.0"
+ },
+ {
+  "id": "world-20261106-1926-02",
+  "published_ist": "2026-11-06T10:04:00+05:30",
+  "headline": "Pope Leo ka Latin America daura shuru",
+  "detail": "Feefde ke cancer ki surgery ke teen hafte baad Pope Leo XIV ne Uruguay, Argentina aur Peru ke 12 din ke daure par rawana hue; Vatican ne kaha koi khaas medical intezaam nahi hai.",
+  "category": "World",
+  "exam_angle": "Pope ka Latin America daura — dharmik netritva aur antarrashtriya sambandh ke liye mahatvapurna.",
+  "source": "The Times of India",
+  "source_url": "https://timesofindia.indiatimes.com/world/us/pope-leo-begins-major-latin-america-tour-three-weeks-after-lung-surgery/articleshow/135592933.cms",
+  "genuineness": "verified",
+  "outlets": [
+   "The Times of India",
+   "CNN",
+   "Reuters",
+   "Associated Press"
+  ],
+  "image": "../images/world/world-20261106-1926-02.jpg",
+  "image_credit": "CNN"
+ },
+ {
+  "id": "world-20261106-1926-03",
+  "published_ist": "2026-11-06T07:09:35+05:30",
+  "headline": "California me 548 ko maut ki saza khatm",
+  "detail": "Governor Gavin Newsom ne California ke death row ke sabhi 548 kaidiyon ki saza ko bina parol ke aajivan karavas me badal diya; yah America ke itihaas ki sabse badi saamuhik maafi hai.",
+  "category": "World",
+  "exam_angle": "America me mrityudand par sabse badi maafi — manavadhikar aur nyay vyavastha ke liye mahatvapurna.",
+  "source": "Al Jazeera",
+  "source_url": "https://www.aljazeera.com/amp/news/2026/11/6/california-governor-commutes-sentences-of-more-than-500-people-on-death-row",
+  "genuineness": "verified",
+  "outlets": [
+   "Al Jazeera",
+   "CNN",
+   "USA Today",
+   "The Wall Street Journal"
+  ],
+  "image": "../images/world/world-20261106-1926-03.jpg",
+  "image_credit": "Office of the Lieutenant Governor of California / Public domain"
+ },
+ {
+  "id": "world-20261106-1926-04",
+  "published_ist": "2026-11-06T00:28:11+05:30",
+  "headline": "Paraguay ke rashtrapati Pena ne istifa diya",
+  "detail": "Ueno Bank ke doobne se laakhon khaatedaaron ke paise phans gaye, to Santiago Pena ne Guruwar ko istifa de diya; uprashtrapati Pedro Alliana unki jagah lenge.",
+  "category": "World",
+  "exam_angle": "Bank sankat se rashtrapati ka istifa — Latin America ki rajneeti aur vittiya sthirata ke liye mahatvapurna.",
+  "source": "Business Standard",
+  "source_url": "https://www.business-standard.com/amp/world-news/paraguay-president-santiago-pena-resigns-following-bank-collapse-126110600021_1.html",
+  "genuineness": "verified",
+  "outlets": [
+   "Business Standard",
+   "Reuters",
+   "CNN",
+   "Gulf News",
+   "The Straits Times"
+  ],
+  "image": "../images/world/world-20261106-1926-04.jpg",
+  "image_credit": "Presidencia del Ecuador / Public domain"
  }
 ]
