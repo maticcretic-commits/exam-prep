@@ -682,5 +682,62 @@
   ],
   "image": "../images/world/world-20261106-1926-04.jpg",
   "image_credit": "Presidencia del Ecuador / Public domain"
+ },
+ {
+  "id": "world-20261106-2025-03",
+  "published_ist": "2026-11-06T18:00:00+05:30",
+  "headline": "Najib ka house arrest ruka, jail me rahenge",
+  "detail": "Malaysia ke Attorney-General ne poorv PM Najib Razak ke house arrest par asthayi rok lagayi, RM50 million jurmana bharne ke baad bhi; shahi maafi ki vyakhya par sawal uthaye gaye.",
+  "category": "World",
+  "exam_angle": "1MDB ghotala aur Malaysia ki rajneeti — bhrashtachar aur kanoon ke liye mahatvapurna.",
+  "source": "ThePrint",
+  "source_url": "https://theprint.in/world/malaysia-attorney-general-intervenes-to-halt-ex-pm-najibs-house-arrest-transfer/3092488/",
+  "genuineness": "verified",
+  "outlets": [
+   "Reuters",
+   "The Straits Times",
+   "Arab News",
+   "Outlook India"
+  ],
+  "image": "../images/world/world-20261106-2025-03.jpg",
+  "image_credit": "Government of Malaysia / CC BY-SA 3.0"
+ },
+ {
+  "id": "world-20261106-2025-02",
+  "published_ist": "2026-11-06T17:08:00+05:30",
+  "headline": "South Africa me ANC ka sabse kharab natija",
+  "detail": "81% vote ginne par ANC 31.8% par hai, 2021 se lagbhag 14 point neeche; DA 24.1% par hai aur kai nagar nigam bina spasht bahumat ke hain.",
+  "category": "World",
+  "exam_angle": "South Africa ke sthaniya chunaav — Africa ki sabse badi arthvyavastha ki rajneeti ke liye mahatvapurna.",
+  "source": "The Citizen",
+  "source_url": "https://www.citizen.co.za/alberton-record/news-headlines/local-elections-news/2026/11/06/ancs-national-vote-share-falls-to-31-8-as-da-climbs-to-24-1-with-81-counted/",
+  "genuineness": "verified",
+  "outlets": [
+   "The Citizen",
+   "MyBroadband",
+   "EWN",
+   "Briefly"
+  ],
+  "image": null,
+  "image_credit": null
+ },
+ {
+  "id": "world-20261106-2025-01",
+  "published_ist": "2026-11-06T13:02:00+05:30",
+  "headline": "Judge ne Trump ke arch par rok lagayi",
+  "detail": "Judge Tanya Chutkan ne Trump ke 250-foot wale triumphal arch par 14 din ki rok lagayi, planning panel ki 8-4 se manzoori ke kuch ghante baad; sarkar ka daava hai Congress ne 100 saal pehle manzoori di thi.",
+  "category": "World",
+  "exam_angle": "America me nyaypalika aur karyapalika ke beech takraav — shakti santulan ke liye mahatvapurna.",
+  "source": "Al Jazeera",
+  "source_url": "https://www.aljazeera.com/amp/news/2026/11/6/us-judge-halts-construction-of-trumps-triumphal-arch-in-washington-dc",
+  "genuineness": "verified",
+  "outlets": [
+   "Al Jazeera",
+   "Reuters",
+   "Associated Press",
+   "The Guardian"
+  ],
+  "image": "../images/world/world-20261106-2025-01.jpg",
+  "image_credit": "C5karl / CC BY-SA 4.0"
  }
 ]
