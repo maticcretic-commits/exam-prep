@@ -1,5 +1,5 @@
 {
- "updated_ist": "2026-11-06T21:27:09+05:30",
+ "updated_ist": "2026-11-06T22:26:00+05:30",
  "items": [
   {
    "id": "world-20261106-1926-01",
@@ -78,6 +78,25 @@
    "image_credit": "UN Trade and Development (UNCTAD) / CC BY-SA 2.0"
   },
   {
+   "id": "world-20261106-2226-01",
+   "published_ist": "2026-11-06T14:08:00+05:30",
+   "headline": "Sudan: UAE firm ne Colombian ladake bheje",
+   "detail": "UN ki gopniya report ke mutabik Abu Dhabi ki Global Security Services Group ne saikadon Colombian poorv sainikon ko Sudan ke RSF ke saath ladne bheja; New York Times ne 5 November ko iska khulasa kiya, jabki UAE ne aarop nakare.",
+   "category": "World",
+   "exam_angle": "Sudan grih yuddh me bahari hastakshep aur UN mahasachiv ki daud — antarrashtriya sambandh ke liye mahatvapurna.",
+   "source": "Addis Standard",
+   "source_url": "https://addisstandard.com/un-report-says-uae-firm-hired-colombian-mercenaries-to-fight-in-sudan-raising-questions-over-abu-dhabis-un-chief-bid/",
+   "genuineness": "verified",
+   "outlets": [
+    "The New York Times",
+    "Addis Standard",
+    "PassBlue",
+    "Human Rights Watch"
+   ],
+   "image": "../images/world/world-20261106-2226-01.jpg",
+   "image_credit": "Roman Deckert / CC BY-SA 4.0"
+  },
+  {
    "id": "world-20261106-1822-01",
    "published_ist": "2026-11-06T13:09:31+05:30",
    "headline": "Bondi hamle ki 16th peedit ki maut",
@@ -114,6 +133,25 @@
    ],
    "image": "../images/world/world-20261106-2025-01.jpg",
    "image_credit": "C5karl / CC BY-SA 4.0"
+  },
+  {
+   "id": "world-20261106-2226-03",
+   "published_ist": "2026-11-06T12:52:00+05:30",
+   "headline": "Houthi ka Dammam airport par hamle ka daava",
+   "detail": "Houthi ne Guruvar ko Dammam ke King Fahd International Airport par drone hamle ka daava kiya; Saudi netritva wale gathbandhan ne Madina ki ore missile aur purvi prant me drone rokne ka daava kiya, lekin swatantra pushti nahi hui.",
+   "category": "World",
+   "exam_angle": "Yemen yuddh aur Khadi me tanav — antarrashtriya sambandh ke liye mahatvapurna.",
+   "source": "Bastille Post",
+   "source_url": "https://www.bastillepost.com/global/article/6333028-houthis-claim-saudi-airport-attack-as-saudi-led-coalition-says-intercepted-missile-drone",
+   "genuineness": "verified",
+   "outlets": [
+    "Bastille Post",
+    "APA",
+    "Voice of Emirates",
+    "Siasat"
+   ],
+   "image": "../images/world/world-20261106-2226-03.jpg",
+   "image_credit": "Ashashyou / CC BY-SA 3.0"
   },
   {
    "id": "world-20261106-1422-03",
@@ -208,6 +246,25 @@
    ],
    "image": "../images/world/world-20261106-2127-01.jpg",
    "image_credit": "Ank Kumar / CC BY-SA 4.0"
+  },
+  {
+   "id": "world-20261106-2226-02",
+   "published_ist": "2026-11-06T09:19:00+05:30",
+   "headline": "Trump: Iran par faisla jald, hamle mumkin",
+   "detail": "Trump ne rashtriya suraksha salahkaron se milne ke baad kaha ve jald faisla karenge — naye hamle, arthik dabav ya samjhauta; CENTCOM badi karravai ki taiyari kar raha hai, lekin abhi use koi naya aadesh nahi mila hai.",
+   "category": "World",
+   "exam_angle": "America-Iran yuddh aur Hormuz — Bharat ki urja suraksha ke liye mahatvapurna.",
+   "source": "Moneycontrol",
+   "source_url": "https://www.moneycontrol.com/world/maybe-i-will-have-to-trump-threatens-further-strikes-on-iran-says-decision-coming-soon-article-14072118.html/amp",
+   "genuineness": "verified",
+   "outlets": [
+    "Axios",
+    "Moneycontrol",
+    "Rediff",
+    "The Daily Flare"
+   ],
+   "image": "../images/world/world-20261106-2226-02.jpg",
+   "image_credit": "The White House / Public domain"
   },
   {
    "id": "world-20261106-0922-01",
@@ -398,62 +455,6 @@
    ],
    "image": null,
    "image_credit": null
-  },
-  {
-   "id": "world-20261106-1722-01",
-   "published_ist": "2026-11-06T05:00:00+05:30",
-   "headline": "Grenada me Mitchell ki badi jeet, 14 seatein",
-   "detail": "Grenada ke aam chunav me PM Dickon Mitchell ki NDC ne 15 me se 14 seatein jeet kar doosri baar sarkar banayi; lagbhag 61% vote mile aur NNP ke paas sirf ek seat bachi.",
-   "category": "World",
-   "exam_angle": "Caribbean me loktantra aur chunav — antarrashtriya sambandh ke liye mahatvapurna.",
-   "source": "The New Indian Express",
-   "source_url": "https://www.newindianexpress.com/world/2026/Nov/06/prime-minister-of-small-eastern-caribbean-archipelago-dickon-mitchell-secures-a-second-term",
-   "genuineness": "verified",
-   "outlets": [
-    "The New Indian Express",
-    "Antigua News Room",
-    "One News St Vincent",
-    "Central European Affairs"
-   ],
-   "image": "../images/world/world-20261106-1722-01.jpg",
-   "image_credit": "Prime Minister's Office, India (GODL-India)"
-  },
-  {
-   "id": "world-20261106-1022-01",
-   "published_ist": "2026-11-06T02:45:00+05:30",
-   "headline": "Canada: 2027 se saalana 3.8 lakh PR",
-   "detail": "Canada ne Budget 2026 ke saath 2027–2029 Immigration Levels Plan jaari kiya; 2027 se 2029 tak har saal 3,80,000 permanent resident ka lakshya hai, aur 2027 ke ant tak 2,00,000 tak asthayi nivaasiyon ko PR me badalne ka upaay bhi hai.",
-   "category": "World",
-   "exam_angle": "Canada ki aapravaasan neeti — antarrashtriya sambandh aur pravasi Bharatiya ke liye mahatvapurna.",
-   "source": "Reuters",
-   "source_url": "https://www.reuters.com/world/key-proposed-measures-canadian-federal-budget-2026-11-05/",
-   "genuineness": "verified",
-   "outlets": [
-    "Reuters",
-    "Government of Canada",
-    "immigration.ca",
-    "GoFarGlobal"
-   ],
-   "image": "../images/world/world-20261106-1022-01.jpg",
-   "image_credit": "Saffron Blaze / Wikimedia Commons (CC BY-SA 3.0)"
-  },
-  {
-   "id": "world-20261106-1722-04",
-   "published_ist": "2026-11-06T01:22:00+05:30",
-   "headline": "UNIFIL 31 December ko Lebanon chhodega",
-   "detail": "UNIFIL ne pushti ki ki 31 December 2026 ko uska mandate khatm hote hi vah dakshini Lebanon se hatna shuru kar dega; 1978 se tainat mission ke lagbhag 7,500 shanti sainik tab tak kaam jaari rakhenge.",
-   "category": "World",
-   "exam_angle": "UN shanti mission aur Lebanon — antarrashtriya sangathan ke liye mahatvapurna.",
-   "source": "The Times of Israel",
-   "source_url": "https://www.timesofisrael.com/unifil-confirms-it-will-start-leaving-south-lebanon-when-mandate-ends-on-dec-31/",
-   "genuineness": "verified",
-   "outlets": [
-    "The Times of Israel",
-    "UN News",
-    "Stratum Global Risk"
-   ],
-   "image": "../images/world/world-20261106-1722-04.jpg",
-   "image_credit": "Irish Defence Forces / CC BY 2.0"
   }
  ]
 }
