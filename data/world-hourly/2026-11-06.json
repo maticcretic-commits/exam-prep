@@ -1,0 +1,76 @@
+[
+ {
+  "id": "world-20261106-0622-01",
+  "published_ist": "2026-11-06T00:28:00+05:30",
+  "headline": "Paraguay rashtrapati ne bank sankat par istifa diya",
+  "detail": "Paraguay ke Rashtrapati Santiago Peña ne Ueno Bank ke dhahne ke baad istifa de diya; bank ke lagbhag 30 lakh grahakon ke khate band ho gaye aur unpar aapradhik jaanch aur mahabhiyog ki karyavahi shuru hui.",
+  "category": "World",
+  "exam_angle": "Bank niyaman aur rashtrapati ki jawabdehi — banking aur antarrashtriya sambandh ke liye mahatvapurna.",
+  "source": "Reuters",
+  "source_url": "https://www.reuters.com/world/americas/paraguay-president-pea-resigns-under-mounting-pressure-bank-collapse-2026-11-05/",
+  "genuineness": "verified",
+  "outlets": [
+   "Reuters",
+   "CNN",
+   "The Times",
+   "Associated Press"
+  ],
+  "image": "../images/world/world-20261106-0622-01.jpg",
+  "image_credit": "Office of the President, Taiwan / CC BY 2.0"
+ },
+ {
+  "id": "world-20261106-0622-02",
+  "published_ist": "2026-11-05T23:12:00+05:30",
+  "headline": "Brooklyn me aag, 6 ki maut",
+  "detail": "New York ke Brooklyn me ek ghar me lagi aag me 6 logon ki maut ho gayi aur 9 ghayal hue, jinme 3 firefighter aur 2 police adhikari shamil hain; aag ke kaaran ki jaanch chal rahi hai.",
+  "category": "World",
+  "exam_angle": null,
+  "source": "USA Today",
+  "source_url": "https://www.usatoday.com/story/news/nation/2026/11/05/sunset-park-house-fire-brooklyn-new-york/92624608007/",
+  "genuineness": "verified",
+  "outlets": [
+   "USA Today",
+   "Associated Press",
+   "New York Post"
+  ],
+  "image": null,
+  "image_credit": null
+ },
+ {
+  "id": "world-20261106-0622-03",
+  "published_ist": "2026-11-05T20:46:00+05:30",
+  "headline": "Eisenkot ko 67 samarthan, Netanyahu peeche",
+  "detail": "Israel me Yashar neta Gadi Eisenkot ko sarkar banane ke liye 67 sansadon ka samarthan mila, jabki Netanyahu ko 46 mile; Rashtrapati Herzog Ravivar ko faisla karenge.",
+  "category": "World",
+  "exam_angle": "Israel ki sansadiya vyavastha aur sarkar gathan — antarrashtriya rajneeti ke liye mahatvapurna.",
+  "source": "The Economic Times",
+  "source_url": "https://economictimes.indiatimes.com/news/international/world-news/eisenkot-clears-pm-mandate-threshold-with-67-endorsements-leaving-netanyahus-bloc-at-46-seats-utj-abstains/articleshow/135578291.cms",
+  "genuineness": "verified",
+  "outlets": [
+   "The Economic Times",
+   "The Times of Israel",
+   "Haaretz",
+   "Ynet"
+  ],
+  "image": null,
+  "image_credit": null
+ },
+ {
+  "id": "world-20261106-0622-04",
+  "published_ist": "2026-11-05T20:37:00+05:30",
+  "headline": "FATF ki scam compounds par badi report",
+  "detail": "FATF ne scam compounds se jude avaidh vittiya pravah par nayi report jaari ki; har saal dasyon arab dollar ka nuksan hota hai aur lagbhag 120 case studies me 60 se zyada kshetron ko shamil kiya gaya.",
+  "category": "World",
+  "exam_angle": "FATF, money laundering aur cyber dhokhadhadi — banking aur arthvyavastha ke liye mahatvapurna.",
+  "source": "The Tribune",
+  "source_url": "https://www.tribuneindia.com/news/world/new-landmark-report-from-fatf-calls-for-global-action-to-disrupt-scam-compounds/",
+  "genuineness": "verified",
+  "outlets": [
+   "The Tribune",
+   "The Hindu BusinessLine",
+   "FATF"
+  ],
+  "image": null,
+  "image_credit": null
+ }
+]
