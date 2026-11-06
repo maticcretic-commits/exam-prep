@@ -1,6 +1,82 @@
 {
- "updated_ist": "2026-11-06T06:26:28+05:30",
+ "updated_ist": "2026-11-06T07:25:11+05:30",
  "items": [
+  {
+   "id": "world-20261106-0722-01",
+   "published_ist": "2026-11-06T05:45:00+05:30",
+   "headline": "Turkey ne teen-desh raksha samjhauta manzoor kiya",
+   "detail": "Turkey ki sansad ne Saudi Arabia aur Pakistan ke saath Mecca raksha samjhaute ko 279 ke muqable 119 maton se manzoor kiya; samjhaute ke tahat ek desh par hamla teeno par hamla mana jayega.",
+   "category": "World",
+   "exam_angle": "Samoohik raksha aur paschim Asia ki suraksha — antarrashtriya sambandh ke liye mahatvapurna.",
+   "source": "Al Jazeera",
+   "source_url": "https://www.aljazeera.com/amp/news/2026/11/6/turkiyes-parliament-ratifies-mecca-defence-agreement",
+   "genuineness": "verified",
+   "outlets": [
+    "Al Jazeera",
+    "Associated Press",
+    "Daily Sabah",
+    "The Jerusalem Post"
+   ],
+   "image": null,
+   "image_credit": null
+  },
+  {
+   "id": "world-20261106-0722-02",
+   "published_ist": "2026-11-06T01:59:00+05:30",
+   "headline": "Serbia me chhatra andolan ko 140 seatein",
+   "detail": "Serbia ke chunav aayog ne antim natije ghoshit kiye; chhatra andolan ki Student List ko 250 me se 140 seatein mili jabki Vucic ki party ko 103 seatein mili, aur 14 saal ka shasan khatm ho gaya.",
+   "category": "World",
+   "exam_angle": "Chhatra andolan se sarkar badlav — loktantra aur Europe ki rajneeti ke liye mahatvapurna.",
+   "source": "SNM",
+   "source_url": "https://snm.rs/rik-adopts-overall-report-on-election-results-student-list-wins-140-seats-deadline-for-constituting-the-assembly-begins/",
+   "genuineness": "verified",
+   "outlets": [
+    "SNM",
+    "Jamestown Foundation",
+    "Malaysiakini",
+    "The Insider"
+   ],
+   "image": null,
+   "image_credit": null
+  },
+  {
+   "id": "world-20261106-0722-03",
+   "published_ist": "2026-11-05T23:10:00+05:30",
+   "headline": "Saudi ne Pakistan ko $3 billion ki madad badhai",
+   "detail": "Saudi Arabia ne Pakistan ke liye $3 billion ki vittiya suvidha ko uchit avadhi ke liye badha diya; vitt mantri Muhammad Aurangzeb ne sansad ke bahar iski pushti ki, jabki alag $5 billion ki suvidha 2028 tak badhi hui hai.",
+   "category": "World",
+   "exam_angle": "IMF aur videshi mudra bhandar — arthvyavastha ke liye mahatvapurna.",
+   "source": "Business Standard",
+   "source_url": "https://www.business-standard.com/world-news/saudi-arabia-extends-3-billion-financial-support-facility-for-pakistan-126110502194_1.html",
+   "genuineness": "verified",
+   "outlets": [
+    "Business Standard",
+    "PTI",
+    "News18",
+    "Deccan Herald"
+   ],
+   "image": null,
+   "image_credit": null
+  },
+  {
+   "id": "world-20261106-0722-04",
+   "published_ist": "2026-11-04T13:16:00+05:30",
+   "headline": "US midterms me Democrats ki badi jeet",
+   "detail": "America ke midterm chunav me Democrats ne Senate aur House dono par kabza kar liya; 7 Senate seatein palti aur Michigan se Abdul El-Sayed desh ke pehle Muslim senator chune gaye.",
+   "category": "World",
+   "exam_angle": "America ki vibhajit sarkar aur 2028 ki daud — antarrashtriya rajneeti ke liye mahatvapurna.",
+   "source": "Al Jazeera",
+   "source_url": "https://www.aljazeera.com/amp/news/2026/11/4/democrats-deliver-a-historic-routing-to-republicans-in-us-midterms",
+   "genuineness": "verified",
+   "outlets": [
+    "Al Jazeera",
+    "Nikkei Asia",
+    "USA Today",
+    "Times Now"
+   ],
+   "image": null,
+   "image_credit": null
+  },
   {
    "id": "world-20261106-0622-01",
    "published_ist": "2026-11-06T00:28:00+05:30",
@@ -362,79 +438,6 @@
    ],
    "image": "../images/world/world-20261105-1322-01.jpg",
    "image_credit": "Benoît Prieur / CC0"
-  },
-  {
-   "id": "world-20261105-1522-03",
-   "published_ist": "2026-11-05T12:00:00+05:30",
-   "headline": "France: Blood bank par cyber hamla",
-   "detail": "France ke teen kshetriya blood bank me cyber hamle se khoon rakhne wale fridge ki nigrani vyavastha prabhavit hui; adhikariyon ne kaha khoon ki aapurti par koi asar nahi pada.",
-   "category": "World",
-   "exam_angle": "Cyber suraksha aur swasthya seva: International exams ke liye — mahatvapurna buniyadi dhanche par hamla.",
-   "source": "The Business Standard",
-   "source_url": "https://www.tbsnews.net/worldbiz/europe/french-blood-banks-hit-cyberattack-alongside-european-supermarkets-1593416",
-   "genuineness": "corroborated",
-   "outlets": [
-    "Associated Press",
-    "Reuters"
-   ],
-   "image": null,
-   "image_credit": null
-  },
-  {
-   "id": "world-20261105-1322-02",
-   "published_ist": "2026-11-05T11:01:00+05:30",
-   "headline": "Japan: Docomo network desh bhar thapp",
-   "detail": "NTT Docomo ne kaha subah 11:18 baje se pure Japan me call, data aur SMS mushkil ho gaye; isse pehle online shop aur My docomo bhi band kiye gaye kyunki server me ghuspaith ka shak hai.",
-   "category": "World",
-   "exam_angle": "Japan ki telecom suraksha: International exams ke liye — cyber hamla aur aavashyak seva par asar.",
-   "source": "Kyodo News",
-   "source_url": "https://english.kyodonews.net/articles/-/90436",
-   "genuineness": "verified",
-   "outlets": [
-    "Kyodo News",
-    "CGTN",
-    "TV Asahi"
-   ],
-   "image": null,
-   "image_credit": null
-  },
-  {
-   "id": "world-20261105-1422-03",
-   "published_ist": "2026-11-05T10:23:00+05:30",
-   "headline": "Nithya Raman LA ki pehli Asian-American mayor",
-   "detail": "Kerala me janmi Nithya Raman ne Los Angeles mayoral chunav me incumbent Karen Bass ko 51.67% vote se haraya; ve shahar ki pehli Asian-American mayor banengi.",
-   "category": "World",
-   "exam_angle": "America ki chunav vyavastha: International exams ke liye — Bharatiya mool ki pehli LA mayor.",
-   "source": "Mathrubhumi",
-   "source_url": "https://english.mathrubhumi.com/news/world/kerala-born-nithya-raman-wins-los-angeles-mayoral-election-n33duw6u",
-   "genuineness": "verified",
-   "outlets": [
-    "Mathrubhumi",
-    "Times of India",
-    "WION",
-    "Indian Express"
-   ],
-   "image": "../images/world/world-20261105-1422-03.jpg",
-   "image_credit": "Nithya Raman / Public domain"
-  },
-  {
-   "id": "world-20261105-1022-01",
-   "published_ist": "2026-11-05T09:07:00+05:30",
-   "headline": "Hong Kong: Joshua Wong ko 10 saal aur",
-   "detail": "Hong Kong High Court ne Joshua Wong ko videshi taaqaton se milne ke aarop me 10 saal ki saza sunayi; ve January me riha hone wale the.",
-   "category": "World",
-   "exam_angle": "Hong Kong aur rashtriya suraksha kanoon: International exams ke liye — loktantra andolan aur videshi pratibandh aarop.",
-   "source": "The Straits Times",
-   "source_url": "https://www.straitstimes.com/asia/east-asia/hong-kong-activist-joshua-wong-sentenced-to-10-more-years",
-   "genuineness": "verified",
-   "outlets": [
-    "The Straits Times",
-    "CNN",
-    "The Wall Street Journal",
-    "Human Rights Watch"
-   ],
-   "image": null,
-   "image_credit": null
   }
  ]
 }
