@@ -337,5 +337,64 @@
   ],
   "image": null,
   "image_credit": null
+ },
+ {
+  "id": "world-20261106-1322-01",
+  "published_ist": "2026-11-06T06:59:00+05:30",
+  "headline": "France me lakhon ki hadtal, Eiffel Tower band",
+  "detail": "Guruvar ko France bhar me mahangai ke khilaf hadtal aur pradarshan hue; grih mantralaya ke mutabik shaam 5 baje tak lagbhag 6 lakh log sadkon par the, aur Paris me Eiffel Tower aur Arc de Triomphe din bhar band rahe.",
+  "category": "World",
+  "exam_angle": "France me samajik andolan aur shramik hadtal — Europe ki rajneeti ke liye mahatvapurna.",
+  "source": "Dawn",
+  "source_url": "https://www.dawn.com/news/2042448/600000-march-for-wage-hike-tax-reform-in-france",
+  "genuineness": "verified",
+  "outlets": [
+   "Dawn",
+   "Free Malaysia Today",
+   "Astro Awani",
+   "Mid-Day",
+   "FN News"
+  ],
+  "image": null,
+  "image_credit": null
+ },
+ {
+  "id": "world-20261106-1322-02",
+  "published_ist": "2026-11-05T20:30:00+05:30",
+  "headline": "Russell Brand balatkar ka doshi, saja Somvar",
+  "detail": "London ki Southwark Crown Court ki jury ne comedian Russell Brand ko ek balatkar aur teen yaun hamlo ka doshi paya; do balatkar ke aaropon se use bari kar diya gaya, aur judge ne Somvar ko saja sunane se pehle use hirasat me liya.",
+  "category": "World",
+  "exam_angle": null,
+  "source": "Al Jazeera",
+  "source_url": "https://www.aljazeera.com/amp/news/2026/11/5/russell-brand-found-guilty-of-rape-and-sexual-assault-by-uk-court",
+  "genuineness": "verified",
+  "outlets": [
+   "Al Jazeera",
+   "USA Today",
+   "Reuters",
+   "Malay Mail"
+  ],
+  "image": "../images/world/world-20261106-1322-02.jpg",
+  "image_credit": "Gage Skidmore / Wikimedia Commons (CC BY-SA 4.0)"
+ },
+ {
+  "id": "world-20261106-1322-03",
+  "published_ist": "2026-11-06T07:52:00+05:30",
+  "headline": "Brent $98 paar, tel me tez uchhal",
+  "detail": "Hormuz me tanker hamlo aur Iran tanav ke beech Brent crude 3.88% chadh kar $98.29 prati barrel par band hua; Shukravar subah keemat $99 ke paas pahunchi, jabki UKMTO ke mutabik Ravivar se Khadi me kam se kam paanch jahazon se judi ghatnayein hui hain.",
+  "category": "World",
+  "exam_angle": "Tel ki keemat aur Hormuz — Bharat ki urja suraksha ke liye mahatvapurna.",
+  "source": "The Economic Times",
+  "source_url": "https://economictimes.indiatimes.com/markets/commodities/news/oil-price-today-november-6-crude-oil-nears-100-again-as-fresh-attacks-dent-peace-talk-hopes-what-are-experts-saying/articleshow/135590647.cms",
+  "genuineness": "verified",
+  "outlets": [
+   "The Economic Times",
+   "Gulf News",
+   "NDTV Profit",
+   "Newspim",
+   "Dubai Standard"
+  ],
+  "image": null,
+  "image_credit": null
  }
 ]
