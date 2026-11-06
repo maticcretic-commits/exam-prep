@@ -567,5 +567,43 @@
   ],
   "image": "../images/world/world-20261106-1722-04.jpg",
   "image_credit": "Irish Defence Forces / CC BY 2.0"
+ },
+ {
+  "id": "world-20261106-1822-01",
+  "published_ist": "2026-11-06T13:09:31+05:30",
+  "headline": "Bondi hamle ki 16th peedit ki maut",
+  "detail": "Bondi Beach par December 2025 ke hamle me ghayal 90 saal ki Holocaust survivor Eva Geller ki aspatal me maut ho gayi; hamle me marne walon ki sankhya ab 16 ho gayi hai.",
+  "category": "World",
+  "exam_angle": "Australia me aatankwadi hamla aur samajik suraksha — antarrashtriya sambandh ke liye mahatvapurna.",
+  "source": "The Times of Israel",
+  "source_url": "https://www.timesofisrael.com/holocaust-survivor-90-injured-in-bondi-massacre-dies-nearly-a-year-after-attack/",
+  "genuineness": "verified",
+  "outlets": [
+   "The Times of Israel",
+   "New York Post",
+   "Malay Mail",
+   "Israel National News"
+  ],
+  "image": "../images/world/world-20261106-1822-01.jpg",
+  "image_credit": "Dietmar Rabich / CC BY-SA 4.0"
+ },
+ {
+  "id": "world-20261106-1822-02",
+  "published_ist": "2026-11-06T10:18:00+05:30",
+  "headline": "Trump ne Oval Office ko smarak ghoshit kiya",
+  "detail": "Rashtrapati Donald Trump ne Oval Office aur Cabinet Room ko rashtriya smarak ghoshit karne wali ghoshna par hastakshar kiye; midterm chunav me haar ke baad yah unki pehli aadhikarik karravai hai.",
+  "category": "World",
+  "exam_angle": "America ki rajneeti aur rashtrapati ke adhikar — antarrashtriya sambandh ke liye mahatvapurna.",
+  "source": "Al Jazeera",
+  "source_url": "https://www.aljazeera.com/news/2026/11/6/trump-issues-proclamation-declaring-oval-office-national-monument",
+  "genuineness": "verified",
+  "outlets": [
+   "Al Jazeera",
+   "USA Today",
+   "Mathrubhumi",
+   "Firstpost"
+  ],
+  "image": "../images/world/world-20261106-1822-02.jpg",
+  "image_credit": "The White House / Public domain"
  }
 ]
