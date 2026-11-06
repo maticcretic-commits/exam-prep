@@ -1,5 +1,5 @@
 {
- "updated_ist": "2026-11-06T19:26:17+05:30",
+ "updated_ist": "2026-11-06T20:26:31+05:30",
  "items": [
   {
    "id": "world-20261106-1926-01",
@@ -21,135 +21,39 @@
    "image_credit": "Likumbage / CC BY-SA 4.0"
   },
   {
-   "id": "world-20261106-1926-02",
-   "published_ist": "2026-11-06T10:04:00+05:30",
-   "headline": "Pope Leo ka Latin America daura shuru",
-   "detail": "Feefde ke cancer ki surgery ke teen hafte baad Pope Leo XIV ne Uruguay, Argentina aur Peru ke 12 din ke daure par rawana hue; Vatican ne kaha koi khaas medical intezaam nahi hai.",
+   "id": "world-20261106-2025-03",
+   "published_ist": "2026-11-06T18:00:00+05:30",
+   "headline": "Najib ka house arrest ruka, jail me rahenge",
+   "detail": "Malaysia ke Attorney-General ne poorv PM Najib Razak ke house arrest par asthayi rok lagayi, RM50 million jurmana bharne ke baad bhi; shahi maafi ki vyakhya par sawal uthaye gaye.",
    "category": "World",
-   "exam_angle": "Pope ka Latin America daura — dharmik netritva aur antarrashtriya sambandh ke liye mahatvapurna.",
-   "source": "The Times of India",
-   "source_url": "https://timesofindia.indiatimes.com/world/us/pope-leo-begins-major-latin-america-tour-three-weeks-after-lung-surgery/articleshow/135592933.cms",
-   "genuineness": "verified",
-   "outlets": [
-    "The Times of India",
-    "CNN",
-    "Reuters",
-    "Associated Press"
-   ],
-   "image": "../images/world/world-20261106-1926-02.jpg",
-   "image_credit": "CNN"
-  },
-  {
-   "id": "world-20261106-1926-03",
-   "published_ist": "2026-11-06T07:09:35+05:30",
-   "headline": "California me 548 ko maut ki saza khatm",
-   "detail": "Governor Gavin Newsom ne California ke death row ke sabhi 548 kaidiyon ki saza ko bina parol ke aajivan karavas me badal diya; yah America ke itihaas ki sabse badi saamuhik maafi hai.",
-   "category": "World",
-   "exam_angle": "America me mrityudand par sabse badi maafi — manavadhikar aur nyay vyavastha ke liye mahatvapurna.",
-   "source": "Al Jazeera",
-   "source_url": "https://www.aljazeera.com/amp/news/2026/11/6/california-governor-commutes-sentences-of-more-than-500-people-on-death-row",
-   "genuineness": "verified",
-   "outlets": [
-    "Al Jazeera",
-    "CNN",
-    "USA Today",
-    "The Wall Street Journal"
-   ],
-   "image": "../images/world/world-20261106-1926-03.jpg",
-   "image_credit": "Office of the Lieutenant Governor of California / Public domain"
-  },
-  {
-   "id": "world-20261106-1926-04",
-   "published_ist": "2026-11-06T00:28:11+05:30",
-   "headline": "Paraguay ke rashtrapati Pena ne istifa diya",
-   "detail": "Ueno Bank ke doobne se laakhon khaatedaaron ke paise phans gaye, to Santiago Pena ne Guruwar ko istifa de diya; uprashtrapati Pedro Alliana unki jagah lenge.",
-   "category": "World",
-   "exam_angle": "Bank sankat se rashtrapati ka istifa — Latin America ki rajneeti aur vittiya sthirata ke liye mahatvapurna.",
-   "source": "Business Standard",
-   "source_url": "https://www.business-standard.com/amp/world-news/paraguay-president-santiago-pena-resigns-following-bank-collapse-126110600021_1.html",
-   "genuineness": "verified",
-   "outlets": [
-    "Business Standard",
-    "Reuters",
-    "CNN",
-    "Gulf News",
-    "The Straits Times"
-   ],
-   "image": "../images/world/world-20261106-1926-04.jpg",
-   "image_credit": "Presidencia del Ecuador / Public domain"
-  },
-  {
-   "id": "world-20261106-1822-01",
-   "published_ist": "2026-11-06T13:09:31+05:30",
-   "headline": "Bondi hamle ki 16th peedit ki maut",
-   "detail": "Bondi Beach par December 2025 ke hamle me ghayal 90 saal ki Holocaust survivor Eva Geller ki aspatal me maut ho gayi; hamle me marne walon ki sankhya ab 16 ho gayi hai.",
-   "category": "World",
-   "exam_angle": "Australia me aatankwadi hamla aur samajik suraksha — antarrashtriya sambandh ke liye mahatvapurna.",
-   "source": "The Times of Israel",
-   "source_url": "https://www.timesofisrael.com/holocaust-survivor-90-injured-in-bondi-massacre-dies-nearly-a-year-after-attack/",
-   "genuineness": "verified",
-   "outlets": [
-    "The Times of Israel",
-    "New York Post",
-    "Malay Mail",
-    "Israel National News"
-   ],
-   "image": "../images/world/world-20261106-1822-01.jpg",
-   "image_credit": "Dietmar Rabich / CC BY-SA 4.0"
-  },
-  {
-   "id": "world-20261106-1822-02",
-   "published_ist": "2026-11-06T10:18:00+05:30",
-   "headline": "Trump ne Oval Office ko smarak ghoshit kiya",
-   "detail": "Rashtrapati Donald Trump ne Oval Office aur Cabinet Room ko rashtriya smarak ghoshit karne wali ghoshna par hastakshar kiye; midterm chunav me haar ke baad yah unki pehli aadhikarik karravai hai.",
-   "category": "World",
-   "exam_angle": "America ki rajneeti aur rashtrapati ke adhikar — antarrashtriya sambandh ke liye mahatvapurna.",
-   "source": "Al Jazeera",
-   "source_url": "https://www.aljazeera.com/news/2026/11/6/trump-issues-proclamation-declaring-oval-office-national-monument",
-   "genuineness": "verified",
-   "outlets": [
-    "Al Jazeera",
-    "USA Today",
-    "Mathrubhumi",
-    "Firstpost"
-   ],
-   "image": "../images/world/world-20261106-1822-02.jpg",
-   "image_credit": "The White House / Public domain"
-  },
-  {
-   "id": "world-20261106-1722-01",
-   "published_ist": "2026-11-06T05:00:00+05:30",
-   "headline": "Grenada me Mitchell ki badi jeet, 14 seatein",
-   "detail": "Grenada ke aam chunav me PM Dickon Mitchell ki NDC ne 15 me se 14 seatein jeet kar doosri baar sarkar banayi; lagbhag 61% vote mile aur NNP ke paas sirf ek seat bachi.",
-   "category": "World",
-   "exam_angle": "Caribbean me loktantra aur chunav — antarrashtriya sambandh ke liye mahatvapurna.",
-   "source": "The New Indian Express",
-   "source_url": "https://www.newindianexpress.com/world/2026/Nov/06/prime-minister-of-small-eastern-caribbean-archipelago-dickon-mitchell-secures-a-second-term",
-   "genuineness": "verified",
-   "outlets": [
-    "The New Indian Express",
-    "Antigua News Room",
-    "One News St Vincent",
-    "Central European Affairs"
-   ],
-   "image": "../images/world/world-20261106-1722-01.jpg",
-   "image_credit": "Prime Minister's Office, India (GODL-India)"
-  },
-  {
-   "id": "world-20261106-1722-02",
-   "published_ist": "2026-11-05T15:33:00+05:30",
-   "headline": "Sweden me seema jaanch phir 6 mahine",
-   "detail": "Sweden ne 12 November se Schengen ki andaruni seemaon par jaanch phir chhe mahine ke liye badha di; sarkar ne Russia ke yuddh se jude hybrid khatron aur tod-phod ke badhte jokhim ko wajah bataya.",
-   "category": "World",
-   "exam_angle": "Schengen aur Europe ki suraksha — antarrashtriya sambandh ke liye mahatvapurna.",
-   "source": "Reuters",
-   "source_url": "https://www.reuters.com/world/sweden-reintroduces-internal-border-control-citing-security-situation-2026-11-05/",
+   "exam_angle": "1MDB ghotala aur Malaysia ki rajneeti — bhrashtachar aur kanoon ke liye mahatvapurna.",
+   "source": "ThePrint",
+   "source_url": "https://theprint.in/world/malaysia-attorney-general-intervenes-to-halt-ex-pm-najibs-house-arrest-transfer/3092488/",
    "genuineness": "verified",
    "outlets": [
     "Reuters",
-    "The National",
-    "Sweden Herald",
-    "AnewZ"
+    "The Straits Times",
+    "Arab News",
+    "Outlook India"
+   ],
+   "image": "../images/world/world-20261106-2025-03.jpg",
+   "image_credit": "Government of Malaysia / CC BY-SA 3.0"
+  },
+  {
+   "id": "world-20261106-2025-02",
+   "published_ist": "2026-11-06T17:08:00+05:30",
+   "headline": "South Africa me ANC ka sabse kharab natija",
+   "detail": "81% vote ginne par ANC 31.8% par hai, 2021 se lagbhag 14 point neeche; DA 24.1% par hai aur kai nagar nigam bina spasht bahumat ke hain.",
+   "category": "World",
+   "exam_angle": "South Africa ke sthaniya chunaav — Africa ki sabse badi arthvyavastha ki rajneeti ke liye mahatvapurna.",
+   "source": "The Citizen",
+   "source_url": "https://www.citizen.co.za/alberton-record/news-headlines/local-elections-news/2026/11/06/ancs-national-vote-share-falls-to-31-8-as-da-climbs-to-24-1-with-81-counted/",
+   "genuineness": "verified",
+   "outlets": [
+    "The Citizen",
+    "MyBroadband",
+    "EWN",
+    "Briefly"
    ],
    "image": null,
    "image_credit": null
@@ -174,22 +78,177 @@
    "image_credit": "UN Trade and Development (UNCTAD) / CC BY-SA 2.0"
   },
   {
-   "id": "world-20261106-1722-04",
-   "published_ist": "2026-11-06T01:22:00+05:30",
-   "headline": "UNIFIL 31 December ko Lebanon chhodega",
-   "detail": "UNIFIL ne pushti ki ki 31 December 2026 ko uska mandate khatm hote hi vah dakshini Lebanon se hatna shuru kar dega; 1978 se tainat mission ke lagbhag 7,500 shanti sainik tab tak kaam jaari rakhenge.",
+   "id": "world-20261106-1822-01",
+   "published_ist": "2026-11-06T13:09:31+05:30",
+   "headline": "Bondi hamle ki 16th peedit ki maut",
+   "detail": "Bondi Beach par December 2025 ke hamle me ghayal 90 saal ki Holocaust survivor Eva Geller ki aspatal me maut ho gayi; hamle me marne walon ki sankhya ab 16 ho gayi hai.",
    "category": "World",
-   "exam_angle": "UN shanti mission aur Lebanon — antarrashtriya sangathan ke liye mahatvapurna.",
+   "exam_angle": "Australia me aatankwadi hamla aur samajik suraksha — antarrashtriya sambandh ke liye mahatvapurna.",
    "source": "The Times of Israel",
-   "source_url": "https://www.timesofisrael.com/unifil-confirms-it-will-start-leaving-south-lebanon-when-mandate-ends-on-dec-31/",
+   "source_url": "https://www.timesofisrael.com/holocaust-survivor-90-injured-in-bondi-massacre-dies-nearly-a-year-after-attack/",
    "genuineness": "verified",
    "outlets": [
     "The Times of Israel",
-    "UN News",
-    "Stratum Global Risk"
+    "New York Post",
+    "Malay Mail",
+    "Israel National News"
    ],
-   "image": "../images/world/world-20261106-1722-04.jpg",
-   "image_credit": "Irish Defence Forces / CC BY 2.0"
+   "image": "../images/world/world-20261106-1822-01.jpg",
+   "image_credit": "Dietmar Rabich / CC BY-SA 4.0"
+  },
+  {
+   "id": "world-20261106-2025-01",
+   "published_ist": "2026-11-06T13:02:00+05:30",
+   "headline": "Judge ne Trump ke arch par rok lagayi",
+   "detail": "Judge Tanya Chutkan ne Trump ke 250-foot wale triumphal arch par 14 din ki rok lagayi, planning panel ki 8-4 se manzoori ke kuch ghante baad; sarkar ka daava hai Congress ne 100 saal pehle manzoori di thi.",
+   "category": "World",
+   "exam_angle": "America me nyaypalika aur karyapalika ke beech takraav — shakti santulan ke liye mahatvapurna.",
+   "source": "Al Jazeera",
+   "source_url": "https://www.aljazeera.com/amp/news/2026/11/6/us-judge-halts-construction-of-trumps-triumphal-arch-in-washington-dc",
+   "genuineness": "verified",
+   "outlets": [
+    "Al Jazeera",
+    "Reuters",
+    "Associated Press",
+    "The Guardian"
+   ],
+   "image": "../images/world/world-20261106-2025-01.jpg",
+   "image_credit": "C5karl / CC BY-SA 4.0"
+  },
+  {
+   "id": "world-20261106-1422-03",
+   "published_ist": "2026-11-06T11:41:00+05:30",
+   "headline": "Trump: Russia-Ukraine samjhauta 'bahut kareeb'",
+   "detail": "Trump ne White House me kaha Russia-Ukraine yuddh khatm karne ka samjhauta bahut kareeb hai aur isme pura Europe shamil ho sakta hai; unhone Putin ke doot Kirill Dmitriev se mulaqat ki pushti ki, jabki Abu Dhabi me 10-11 November ko trilateral baatchit tay hai.",
+   "category": "World",
+   "exam_angle": "Russia-Ukraine yuddh aur shanti vaarta — antarrashtriya sambandh ke liye mahatvapurna.",
+   "source": "The Hindu BusinessLine",
+   "source_url": "https://www.thehindubusinessline.com/news/world/trump-expects-russia-ukraine-peace-deal-soon-says-agreement-could-involve-all-of-europe/article71671869.ece",
+   "genuineness": "verified",
+   "outlets": [
+    "The Hindu BusinessLine",
+    "China Daily",
+    "The Week",
+    "Yeni Safak",
+    "Korea Herald"
+   ],
+   "image": "../images/world/world-20261106-1422-03.jpg",
+   "image_credit": "Daniel Torok / White House (Public domain)"
+  },
+  {
+   "id": "world-20261106-1222-01",
+   "published_ist": "2026-11-06T10:30:00+05:30",
+   "headline": "US carrier Theodore Roosevelt Middle East ki ore",
+   "detail": "Upgrah tasveeron ke mutabik USS Theodore Roosevelt 4 November ko South China Sea me dikha; US adhikariyon ke hawale se November ke ant tak Middle East pahunchne ki ummeed hai, jahan pehle se do carrier maujood hain.",
+   "category": "World",
+   "exam_angle": "US-Iran tanav: Hormuz se tel supply par asar — Bharat ke liye mahatvapurna.",
+   "source": "Gulf News",
+   "source_url": "https://gulfnews.com/world/mena/usisrael-iran-war-what-uae-residents-need-to-know-today-nov-6-2026-1.500738069",
+   "genuineness": "verified",
+   "outlets": [
+    "Gulf News",
+    "Axios",
+    "Al Jazeera"
+   ],
+   "image": null,
+   "image_credit": null
+  },
+  {
+   "id": "world-20261106-1822-02",
+   "published_ist": "2026-11-06T10:18:00+05:30",
+   "headline": "Trump ne Oval Office ko smarak ghoshit kiya",
+   "detail": "Rashtrapati Donald Trump ne Oval Office aur Cabinet Room ko rashtriya smarak ghoshit karne wali ghoshna par hastakshar kiye; midterm chunav me haar ke baad yah unki pehli aadhikarik karravai hai.",
+   "category": "World",
+   "exam_angle": "America ki rajneeti aur rashtrapati ke adhikar — antarrashtriya sambandh ke liye mahatvapurna.",
+   "source": "Al Jazeera",
+   "source_url": "https://www.aljazeera.com/news/2026/11/6/trump-issues-proclamation-declaring-oval-office-national-monument",
+   "genuineness": "verified",
+   "outlets": [
+    "Al Jazeera",
+    "USA Today",
+    "Mathrubhumi",
+    "Firstpost"
+   ],
+   "image": "../images/world/world-20261106-1822-02.jpg",
+   "image_credit": "The White House / Public domain"
+  },
+  {
+   "id": "world-20261106-1926-02",
+   "published_ist": "2026-11-06T10:04:00+05:30",
+   "headline": "Pope Leo ka Latin America daura shuru",
+   "detail": "Feefde ke cancer ki surgery ke teen hafte baad Pope Leo XIV ne Uruguay, Argentina aur Peru ke 12 din ke daure par rawana hue; Vatican ne kaha koi khaas medical intezaam nahi hai.",
+   "category": "World",
+   "exam_angle": "Pope ka Latin America daura — dharmik netritva aur antarrashtriya sambandh ke liye mahatvapurna.",
+   "source": "The Times of India",
+   "source_url": "https://timesofindia.indiatimes.com/world/us/pope-leo-begins-major-latin-america-tour-three-weeks-after-lung-surgery/articleshow/135592933.cms",
+   "genuineness": "verified",
+   "outlets": [
+    "The Times of India",
+    "CNN",
+    "Reuters",
+    "Associated Press"
+   ],
+   "image": "../images/world/world-20261106-1926-02.jpg",
+   "image_credit": "CNN"
+  },
+  {
+   "id": "world-20261106-0922-01",
+   "published_ist": "2026-11-06T08:57:00+05:30",
+   "headline": "Nithya Raman LA ki pehli Asian-American mayor",
+   "detail": "Kerala me janmi Nithya Raman ne Los Angeles ke mayor chunav me maujuda mayor Karen Bass ko haraya; Associated Press ne unhe vijeta ghoshit kiya aur Bass ne haar maan li.",
+   "category": "World",
+   "exam_angle": "Bharatiya mool ki neta ka America ke bade sheher me chunav — pravasi Bharatiya aur America ki rajneeti ke liye mahatvapurna.",
+   "source": "Outlook India",
+   "source_url": "https://www.outlookindia.com/amp/story/international/nithya-raman-india-born-democratic-socialist-defeats-karen-bass-los-angeles-mayor-election-2026",
+   "genuineness": "verified",
+   "outlets": [
+    "Outlook India",
+    "The Wrap",
+    "CNBC TV18",
+    "Moneycontrol"
+   ],
+   "image": "../images/world/world-20261106-0922-01.jpg",
+   "image_credit": "Nithya Raman / Public domain"
+  },
+  {
+   "id": "world-20261106-1422-02",
+   "published_ist": "2026-11-06T08:40:00+05:30",
+   "headline": "Rubio ne Trump prashasan chhodne ki khabar nakari",
+   "detail": "Bloomberg ki report ke mutabik Rubio midterm haar ke baad prashasan chhodne par vichar kar rahe the; Rubio ne New York Times se kaha Trump ka karyakal pura karna 'hamesha se meri yojana' rahi hai, aur White House ne report ko 'fake news' bataya.",
+   "category": "World",
+   "exam_angle": "America ki rajneeti aur Trump prashasan — antarrashtriya sambandh ke liye mahatvapurna.",
+   "source": "Business Standard",
+   "source_url": "https://www.business-standard.com/amp/world-news/rubio-weighs-leaving-trump-administration-after-gop-s-midterm-loss-126110600129_1.html",
+   "genuineness": "verified",
+   "outlets": [
+    "Business Standard",
+    "Times of India",
+    "Indian Express",
+    "Free Malaysia Today",
+    "The Jerusalem Post"
+   ],
+   "image": "../images/world/world-20261106-1422-02.jpg",
+   "image_credit": "U.S. Department of State (Public domain)"
+  },
+  {
+   "id": "world-20261106-1322-03",
+   "published_ist": "2026-11-06T07:52:00+05:30",
+   "headline": "Brent $98 paar, tel me tez uchhal",
+   "detail": "Hormuz me tanker hamlo aur Iran tanav ke beech Brent crude 3.88% chadh kar $98.29 prati barrel par band hua; Shukravar subah keemat $99 ke paas pahunchi, jabki UKMTO ke mutabik Ravivar se Khadi me kam se kam paanch jahazon se judi ghatnayein hui hain.",
+   "category": "World",
+   "exam_angle": "Tel ki keemat aur Hormuz — Bharat ki urja suraksha ke liye mahatvapurna.",
+   "source": "The Economic Times",
+   "source_url": "https://economictimes.indiatimes.com/markets/commodities/news/oil-price-today-november-6-crude-oil-nears-100-again-as-fresh-attacks-dent-peace-talk-hopes-what-are-experts-saying/articleshow/135590647.cms",
+   "genuineness": "verified",
+   "outlets": [
+    "The Economic Times",
+    "Gulf News",
+    "NDTV Profit",
+    "Newspim",
+    "Dubai Standard"
+   ],
+   "image": null,
+   "image_credit": null
   },
   {
    "id": "world-20261106-1522-02",
@@ -205,6 +264,64 @@
     "AFP",
     "Palinfo",
     "Arab News"
+   ],
+   "image": null,
+   "image_credit": null
+  },
+  {
+   "id": "world-20261106-1926-03",
+   "published_ist": "2026-11-06T07:09:35+05:30",
+   "headline": "California me 548 ko maut ki saza khatm",
+   "detail": "Governor Gavin Newsom ne California ke death row ke sabhi 548 kaidiyon ki saza ko bina parol ke aajivan karavas me badal diya; yah America ke itihaas ki sabse badi saamuhik maafi hai.",
+   "category": "World",
+   "exam_angle": "America me mrityudand par sabse badi maafi — manavadhikar aur nyay vyavastha ke liye mahatvapurna.",
+   "source": "Al Jazeera",
+   "source_url": "https://www.aljazeera.com/amp/news/2026/11/6/california-governor-commutes-sentences-of-more-than-500-people-on-death-row",
+   "genuineness": "verified",
+   "outlets": [
+    "Al Jazeera",
+    "CNN",
+    "USA Today",
+    "The Wall Street Journal"
+   ],
+   "image": "../images/world/world-20261106-1926-03.jpg",
+   "image_credit": "Office of the Lieutenant Governor of California / Public domain"
+  },
+  {
+   "id": "world-20261106-1322-01",
+   "published_ist": "2026-11-06T06:59:00+05:30",
+   "headline": "France me lakhon ki hadtal, Eiffel Tower band",
+   "detail": "Guruvar ko France bhar me mahangai ke khilaf hadtal aur pradarshan hue; grih mantralaya ke mutabik shaam 5 baje tak lagbhag 6 lakh log sadkon par the, aur Paris me Eiffel Tower aur Arc de Triomphe din bhar band rahe.",
+   "category": "World",
+   "exam_angle": "France me samajik andolan aur shramik hadtal — Europe ki rajneeti ke liye mahatvapurna.",
+   "source": "Dawn",
+   "source_url": "https://www.dawn.com/news/2042448/600000-march-for-wage-hike-tax-reform-in-france",
+   "genuineness": "verified",
+   "outlets": [
+    "Dawn",
+    "Free Malaysia Today",
+    "Astro Awani",
+    "Mid-Day",
+    "FN News"
+   ],
+   "image": null,
+   "image_credit": null
+  },
+  {
+   "id": "world-20261106-0922-03",
+   "published_ist": "2026-11-06T06:30:00+05:30",
+   "headline": "Asia bhar me girawat, Nikkei 6% gira",
+   "detail": "America ki girawat ke baad Asia ke bazaaron me bhi badi girawat aayi; Japan ka Nikkei 6% gira, Taiwan 8% gira aur Hong Kong aur Shanghai bhi gire.",
+   "category": "World",
+   "exam_angle": "Asia ke share bazaar aur AI stock girawat — arthvyavastha ke liye mahatvapurna.",
+   "source": "Channel News Asia",
+   "source_url": "https://www.channelnewsasia.com/business/shares-plunge-tokyo-seoul-us-tech-rout-ai-stocks-6529531",
+   "genuineness": "verified",
+   "outlets": [
+    "Channel News Asia",
+    "Gulf News",
+    "DD India",
+    "Swissinfo"
    ],
    "image": null,
    "image_credit": null
@@ -229,177 +346,23 @@
    "image_credit": "Gage Skidmore / Wikimedia Commons (CC BY-SA 2.0)"
   },
   {
-   "id": "world-20261106-1422-01",
-   "published_ist": "2026-11-05T23:11:00+05:30",
-   "headline": "Ebola se sankramit British doctor London laya gaya",
-   "detail": "Congo me Ebola se sankramit ek British doctor ko medical evacuation flight se London laya gaya; Royal Free Hospital ki high-level isolation unit me uska ilaj chal raha hai, aur UK sarkar ke mutabik aam janta ko khatra kam hai.",
+   "id": "world-20261106-1722-01",
+   "published_ist": "2026-11-06T05:00:00+05:30",
+   "headline": "Grenada me Mitchell ki badi jeet, 14 seatein",
+   "detail": "Grenada ke aam chunav me PM Dickon Mitchell ki NDC ne 15 me se 14 seatein jeet kar doosri baar sarkar banayi; lagbhag 61% vote mile aur NNP ke paas sirf ek seat bachi.",
    "category": "World",
-   "exam_angle": "Ebola prakop aur swasthya vyavastha — antarrashtriya swasthya aur manaviya sankat ke liye mahatvapurna.",
-   "source": "Punch",
-   "source_url": "https://punchng.com/ebola-uk-evacuates-infected-doctor-from-dr-congo/",
+   "exam_angle": "Caribbean me loktantra aur chunav — antarrashtriya sambandh ke liye mahatvapurna.",
+   "source": "The New Indian Express",
+   "source_url": "https://www.newindianexpress.com/world/2026/Nov/06/prime-minister-of-small-eastern-caribbean-archipelago-dickon-mitchell-secures-a-second-term",
    "genuineness": "verified",
    "outlets": [
-    "BBC",
-    "Punch",
-    "Hillingdon Times",
-    "Manx Radio"
+    "The New Indian Express",
+    "Antigua News Room",
+    "One News St Vincent",
+    "Central European Affairs"
    ],
-   "image": "../images/world/world-20261106-1422-01.jpg",
-   "image_credit": "CDC / Dr. Frederick A. Murphy (Public domain)"
-  },
-  {
-   "id": "world-20261106-1422-02",
-   "published_ist": "2026-11-06T08:40:00+05:30",
-   "headline": "Rubio ne Trump prashasan chhodne ki khabar nakari",
-   "detail": "Bloomberg ki report ke mutabik Rubio midterm haar ke baad prashasan chhodne par vichar kar rahe the; Rubio ne New York Times se kaha Trump ka karyakal pura karna 'hamesha se meri yojana' rahi hai, aur White House ne report ko 'fake news' bataya.",
-   "category": "World",
-   "exam_angle": "America ki rajneeti aur Trump prashasan — antarrashtriya sambandh ke liye mahatvapurna.",
-   "source": "Business Standard",
-   "source_url": "https://www.business-standard.com/amp/world-news/rubio-weighs-leaving-trump-administration-after-gop-s-midterm-loss-126110600129_1.html",
-   "genuineness": "verified",
-   "outlets": [
-    "Business Standard",
-    "Times of India",
-    "Indian Express",
-    "Free Malaysia Today",
-    "The Jerusalem Post"
-   ],
-   "image": "../images/world/world-20261106-1422-02.jpg",
-   "image_credit": "U.S. Department of State (Public domain)"
-  },
-  {
-   "id": "world-20261106-1422-03",
-   "published_ist": "2026-11-06T11:41:00+05:30",
-   "headline": "Trump: Russia-Ukraine samjhauta 'bahut kareeb'",
-   "detail": "Trump ne White House me kaha Russia-Ukraine yuddh khatm karne ka samjhauta bahut kareeb hai aur isme pura Europe shamil ho sakta hai; unhone Putin ke doot Kirill Dmitriev se mulaqat ki pushti ki, jabki Abu Dhabi me 10-11 November ko trilateral baatchit tay hai.",
-   "category": "World",
-   "exam_angle": "Russia-Ukraine yuddh aur shanti vaarta — antarrashtriya sambandh ke liye mahatvapurna.",
-   "source": "The Hindu BusinessLine",
-   "source_url": "https://www.thehindubusinessline.com/news/world/trump-expects-russia-ukraine-peace-deal-soon-says-agreement-could-involve-all-of-europe/article71671869.ece",
-   "genuineness": "verified",
-   "outlets": [
-    "The Hindu BusinessLine",
-    "China Daily",
-    "The Week",
-    "Yeni Safak",
-    "Korea Herald"
-   ],
-   "image": "../images/world/world-20261106-1422-03.jpg",
-   "image_credit": "Daniel Torok / White House (Public domain)"
-  },
-  {
-   "id": "world-20261106-1322-01",
-   "published_ist": "2026-11-06T06:59:00+05:30",
-   "headline": "France me lakhon ki hadtal, Eiffel Tower band",
-   "detail": "Guruvar ko France bhar me mahangai ke khilaf hadtal aur pradarshan hue; grih mantralaya ke mutabik shaam 5 baje tak lagbhag 6 lakh log sadkon par the, aur Paris me Eiffel Tower aur Arc de Triomphe din bhar band rahe.",
-   "category": "World",
-   "exam_angle": "France me samajik andolan aur shramik hadtal — Europe ki rajneeti ke liye mahatvapurna.",
-   "source": "Dawn",
-   "source_url": "https://www.dawn.com/news/2042448/600000-march-for-wage-hike-tax-reform-in-france",
-   "genuineness": "verified",
-   "outlets": [
-    "Dawn",
-    "Free Malaysia Today",
-    "Astro Awani",
-    "Mid-Day",
-    "FN News"
-   ],
-   "image": null,
-   "image_credit": null
-  },
-  {
-   "id": "world-20261106-1322-02",
-   "published_ist": "2026-11-05T20:30:00+05:30",
-   "headline": "Russell Brand balatkar ka doshi, saja Somvar",
-   "detail": "London ki Southwark Crown Court ki jury ne comedian Russell Brand ko ek balatkar aur teen yaun hamlo ka doshi paya; do balatkar ke aaropon se use bari kar diya gaya, aur judge ne Somvar ko saja sunane se pehle use hirasat me liya.",
-   "category": "World",
-   "exam_angle": null,
-   "source": "Al Jazeera",
-   "source_url": "https://www.aljazeera.com/amp/news/2026/11/5/russell-brand-found-guilty-of-rape-and-sexual-assault-by-uk-court",
-   "genuineness": "verified",
-   "outlets": [
-    "Al Jazeera",
-    "USA Today",
-    "Reuters",
-    "Malay Mail"
-   ],
-   "image": "../images/world/world-20261106-1322-02.jpg",
-   "image_credit": "Gage Skidmore / Wikimedia Commons (CC BY-SA 4.0)"
-  },
-  {
-   "id": "world-20261106-1322-03",
-   "published_ist": "2026-11-06T07:52:00+05:30",
-   "headline": "Brent $98 paar, tel me tez uchhal",
-   "detail": "Hormuz me tanker hamlo aur Iran tanav ke beech Brent crude 3.88% chadh kar $98.29 prati barrel par band hua; Shukravar subah keemat $99 ke paas pahunchi, jabki UKMTO ke mutabik Ravivar se Khadi me kam se kam paanch jahazon se judi ghatnayein hui hain.",
-   "category": "World",
-   "exam_angle": "Tel ki keemat aur Hormuz — Bharat ki urja suraksha ke liye mahatvapurna.",
-   "source": "The Economic Times",
-   "source_url": "https://economictimes.indiatimes.com/markets/commodities/news/oil-price-today-november-6-crude-oil-nears-100-again-as-fresh-attacks-dent-peace-talk-hopes-what-are-experts-saying/articleshow/135590647.cms",
-   "genuineness": "verified",
-   "outlets": [
-    "The Economic Times",
-    "Gulf News",
-    "NDTV Profit",
-    "Newspim",
-    "Dubai Standard"
-   ],
-   "image": null,
-   "image_credit": null
-  },
-  {
-   "id": "world-20261106-1222-01",
-   "published_ist": "2026-11-06T10:30:00+05:30",
-   "headline": "US carrier Theodore Roosevelt Middle East ki ore",
-   "detail": "Upgrah tasveeron ke mutabik USS Theodore Roosevelt 4 November ko South China Sea me dikha; US adhikariyon ke hawale se November ke ant tak Middle East pahunchne ki ummeed hai, jahan pehle se do carrier maujood hain.",
-   "category": "World",
-   "exam_angle": "US-Iran tanav: Hormuz se tel supply par asar — Bharat ke liye mahatvapurna.",
-   "source": "Gulf News",
-   "source_url": "https://gulfnews.com/world/mena/usisrael-iran-war-what-uae-residents-need-to-know-today-nov-6-2026-1.500738069",
-   "genuineness": "verified",
-   "outlets": [
-    "Gulf News",
-    "Axios",
-    "Al Jazeera"
-   ],
-   "image": null,
-   "image_credit": null
-  },
-  {
-   "id": "world-20261106-1122-01",
-   "published_ist": "2026-11-05T16:28:00+05:30",
-   "headline": "Europe bhar me bomb dhamki, Dublin-Rome flight divert",
-   "detail": "Guruvar ko Europe bhar me ek darjan se zyada udanon ko bomb ki dhamki mili; Dublin se Rome ja rahi Aer Lingus flight ko France ke Évreux airbase par utarna pada, 151 yatri aur 6 crew surakshit rahe; adhikariyon ne inhe shararat bhari jhoothi dhamki bataya, koi khatarnak samagri nahi mili.",
-   "category": "World",
-   "exam_angle": "Europe me vimanan suraksha aur sankat prabandhan — antarrashtriya suraksha ke liye mahatvapurna.",
-   "source": "The Tribune",
-   "source_url": "https://www.tribuneindia.com/news/world/dublin-rome-flight-diverted-to-french-airbase-as-bomb-threat-wave-hits-european-aviation/amp/",
-   "genuineness": "verified",
-   "outlets": [
-    "Euronews",
-    "SCMP",
-    "Associated Press"
-   ],
-   "image": "../images/world/world-20261106-1122-01.jpg",
-   "image_credit": "DaHuzyBru / Wikimedia Commons (CC BY-SA 4.0)"
-  },
-  {
-   "id": "world-20261106-1122-02",
-   "published_ist": "2026-11-05T16:25:00+05:30",
-   "headline": "Ethiopia me hinsa, swasthya vyavastha khatre me",
-   "detail": "WHO pramukh Tedros ne chetavni di ki uttari Ethiopia me hinsa se swasthya vyavastha dhahne ke kagar par hai; Amhara aur Tigray me drone hamlo me bachchon sahit nagrik mare gaye aur aspatalon me dawaiyon aur karmiyon ki kami hai.",
-   "category": "World",
-   "exam_angle": "WHO, sanyukt rashtra aur Ethiopia sangharsh — antarrashtriya sangathan aur manaviya sankat ke liye mahatvapurna.",
-   "source": "Geographical",
-   "source_url": "https://geographical.co.uk/news/conflict-in-northern-ethiopia-pushing-health-systems-to-brink-who-chief-warns",
-   "genuineness": "verified",
-   "outlets": [
-    "Geographical",
-    "CGTN",
-    "UN Media",
-    "The Eastleigh Voice"
-   ],
-   "image": null,
-   "image_credit": null
+   "image": "../images/world/world-20261106-1722-01.jpg",
+   "image_credit": "Prime Minister's Office, India (GODL-India)"
   },
   {
    "id": "world-20261106-1022-01",
@@ -421,42 +384,80 @@
    "image_credit": "Saffron Blaze / Wikimedia Commons (CC BY-SA 3.0)"
   },
   {
-   "id": "world-20261106-0922-01",
-   "published_ist": "2026-11-06T08:57:00+05:30",
-   "headline": "Nithya Raman LA ki pehli Asian-American mayor",
-   "detail": "Kerala me janmi Nithya Raman ne Los Angeles ke mayor chunav me maujuda mayor Karen Bass ko haraya; Associated Press ne unhe vijeta ghoshit kiya aur Bass ne haar maan li.",
+   "id": "world-20261106-1722-04",
+   "published_ist": "2026-11-06T01:22:00+05:30",
+   "headline": "UNIFIL 31 December ko Lebanon chhodega",
+   "detail": "UNIFIL ne pushti ki ki 31 December 2026 ko uska mandate khatm hote hi vah dakshini Lebanon se hatna shuru kar dega; 1978 se tainat mission ke lagbhag 7,500 shanti sainik tab tak kaam jaari rakhenge.",
    "category": "World",
-   "exam_angle": "Bharatiya mool ki neta ka America ke bade sheher me chunav — pravasi Bharatiya aur America ki rajneeti ke liye mahatvapurna.",
-   "source": "Outlook India",
-   "source_url": "https://www.outlookindia.com/amp/story/international/nithya-raman-india-born-democratic-socialist-defeats-karen-bass-los-angeles-mayor-election-2026",
+   "exam_angle": "UN shanti mission aur Lebanon — antarrashtriya sangathan ke liye mahatvapurna.",
+   "source": "The Times of Israel",
+   "source_url": "https://www.timesofisrael.com/unifil-confirms-it-will-start-leaving-south-lebanon-when-mandate-ends-on-dec-31/",
    "genuineness": "verified",
    "outlets": [
-    "Outlook India",
-    "The Wrap",
-    "CNBC TV18",
-    "Moneycontrol"
+    "The Times of Israel",
+    "UN News",
+    "Stratum Global Risk"
    ],
-   "image": "../images/world/world-20261106-0922-01.jpg",
-   "image_credit": "Nithya Raman / Public domain"
+   "image": "../images/world/world-20261106-1722-04.jpg",
+   "image_credit": "Irish Defence Forces / CC BY 2.0"
   },
   {
-   "id": "world-20261106-0922-03",
-   "published_ist": "2026-11-06T06:30:00+05:30",
-   "headline": "Asia bhar me girawat, Nikkei 6% gira",
-   "detail": "America ki girawat ke baad Asia ke bazaaron me bhi badi girawat aayi; Japan ka Nikkei 6% gira, Taiwan 8% gira aur Hong Kong aur Shanghai bhi gire.",
+   "id": "world-20261106-1926-04",
+   "published_ist": "2026-11-06T00:28:11+05:30",
+   "headline": "Paraguay ke rashtrapati Pena ne istifa diya",
+   "detail": "Ueno Bank ke doobne se laakhon khaatedaaron ke paise phans gaye, to Santiago Pena ne Guruwar ko istifa de diya; uprashtrapati Pedro Alliana unki jagah lenge.",
    "category": "World",
-   "exam_angle": "Asia ke share bazaar aur AI stock girawat — arthvyavastha ke liye mahatvapurna.",
-   "source": "Channel News Asia",
-   "source_url": "https://www.channelnewsasia.com/business/shares-plunge-tokyo-seoul-us-tech-rout-ai-stocks-6529531",
+   "exam_angle": "Bank sankat se rashtrapati ka istifa — Latin America ki rajneeti aur vittiya sthirata ke liye mahatvapurna.",
+   "source": "Business Standard",
+   "source_url": "https://www.business-standard.com/amp/world-news/paraguay-president-santiago-pena-resigns-following-bank-collapse-126110600021_1.html",
    "genuineness": "verified",
    "outlets": [
-    "Channel News Asia",
+    "Business Standard",
+    "Reuters",
+    "CNN",
     "Gulf News",
-    "DD India",
-    "Swissinfo"
+    "The Straits Times"
    ],
-   "image": null,
-   "image_credit": null
+   "image": "../images/world/world-20261106-1926-04.jpg",
+   "image_credit": "Presidencia del Ecuador / Public domain"
+  },
+  {
+   "id": "world-20261106-1422-01",
+   "published_ist": "2026-11-05T23:11:00+05:30",
+   "headline": "Ebola se sankramit British doctor London laya gaya",
+   "detail": "Congo me Ebola se sankramit ek British doctor ko medical evacuation flight se London laya gaya; Royal Free Hospital ki high-level isolation unit me uska ilaj chal raha hai, aur UK sarkar ke mutabik aam janta ko khatra kam hai.",
+   "category": "World",
+   "exam_angle": "Ebola prakop aur swasthya vyavastha — antarrashtriya swasthya aur manaviya sankat ke liye mahatvapurna.",
+   "source": "Punch",
+   "source_url": "https://punchng.com/ebola-uk-evacuates-infected-doctor-from-dr-congo/",
+   "genuineness": "verified",
+   "outlets": [
+    "BBC",
+    "Punch",
+    "Hillingdon Times",
+    "Manx Radio"
+   ],
+   "image": "../images/world/world-20261106-1422-01.jpg",
+   "image_credit": "CDC / Dr. Frederick A. Murphy (Public domain)"
+  },
+  {
+   "id": "world-20261106-1322-02",
+   "published_ist": "2026-11-05T20:30:00+05:30",
+   "headline": "Russell Brand balatkar ka doshi, saja Somvar",
+   "detail": "London ki Southwark Crown Court ki jury ne comedian Russell Brand ko ek balatkar aur teen yaun hamlo ka doshi paya; do balatkar ke aaropon se use bari kar diya gaya, aur judge ne Somvar ko saja sunane se pehle use hirasat me liya.",
+   "category": "World",
+   "exam_angle": null,
+   "source": "Al Jazeera",
+   "source_url": "https://www.aljazeera.com/amp/news/2026/11/5/russell-brand-found-guilty-of-rape-and-sexual-assault-by-uk-court",
+   "genuineness": "verified",
+   "outlets": [
+    "Al Jazeera",
+    "USA Today",
+    "Reuters",
+    "Malay Mail"
+   ],
+   "image": "../images/world/world-20261106-1322-02.jpg",
+   "image_credit": "Gage Skidmore / Wikimedia Commons (CC BY-SA 4.0)"
   }
  ]
 }
