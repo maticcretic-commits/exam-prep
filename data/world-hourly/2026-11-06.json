@@ -396,5 +396,64 @@
   ],
   "image": null,
   "image_credit": null
+ },
+ {
+  "id": "world-20261106-1422-01",
+  "published_ist": "2026-11-05T23:11:00+05:30",
+  "headline": "Ebola se sankramit British doctor London laya gaya",
+  "detail": "Congo me Ebola se sankramit ek British doctor ko medical evacuation flight se London laya gaya; Royal Free Hospital ki high-level isolation unit me uska ilaj chal raha hai, aur UK sarkar ke mutabik aam janta ko khatra kam hai.",
+  "category": "World",
+  "exam_angle": "Ebola prakop aur swasthya vyavastha — antarrashtriya swasthya aur manaviya sankat ke liye mahatvapurna.",
+  "source": "Punch",
+  "source_url": "https://punchng.com/ebola-uk-evacuates-infected-doctor-from-dr-congo/",
+  "genuineness": "verified",
+  "outlets": [
+   "BBC",
+   "Punch",
+   "Hillingdon Times",
+   "Manx Radio"
+  ],
+  "image": "../images/world/world-20261106-1422-01.jpg",
+  "image_credit": "CDC / Dr. Frederick A. Murphy (Public domain)"
+ },
+ {
+  "id": "world-20261106-1422-02",
+  "published_ist": "2026-11-06T08:40:00+05:30",
+  "headline": "Rubio ne Trump prashasan chhodne ki khabar nakari",
+  "detail": "Bloomberg ki report ke mutabik Rubio midterm haar ke baad prashasan chhodne par vichar kar rahe the; Rubio ne New York Times se kaha Trump ka karyakal pura karna 'hamesha se meri yojana' rahi hai, aur White House ne report ko 'fake news' bataya.",
+  "category": "World",
+  "exam_angle": "America ki rajneeti aur Trump prashasan — antarrashtriya sambandh ke liye mahatvapurna.",
+  "source": "Business Standard",
+  "source_url": "https://www.business-standard.com/amp/world-news/rubio-weighs-leaving-trump-administration-after-gop-s-midterm-loss-126110600129_1.html",
+  "genuineness": "verified",
+  "outlets": [
+   "Business Standard",
+   "Times of India",
+   "Indian Express",
+   "Free Malaysia Today",
+   "The Jerusalem Post"
+  ],
+  "image": "../images/world/world-20261106-1422-02.jpg",
+  "image_credit": "U.S. Department of State (Public domain)"
+ },
+ {
+  "id": "world-20261106-1422-03",
+  "published_ist": "2026-11-06T11:41:00+05:30",
+  "headline": "Trump: Russia-Ukraine samjhauta 'bahut kareeb'",
+  "detail": "Trump ne White House me kaha Russia-Ukraine yuddh khatm karne ka samjhauta bahut kareeb hai aur isme pura Europe shamil ho sakta hai; unhone Putin ke doot Kirill Dmitriev se mulaqat ki pushti ki, jabki Abu Dhabi me 10-11 November ko trilateral baatchit tay hai.",
+  "category": "World",
+  "exam_angle": "Russia-Ukraine yuddh aur shanti vaarta — antarrashtriya sambandh ke liye mahatvapurna.",
+  "source": "The Hindu BusinessLine",
+  "source_url": "https://www.thehindubusinessline.com/news/world/trump-expects-russia-ukraine-peace-deal-soon-says-agreement-could-involve-all-of-europe/article71671869.ece",
+  "genuineness": "verified",
+  "outlets": [
+   "The Hindu BusinessLine",
+   "China Daily",
+   "The Week",
+   "Yeni Safak",
+   "Korea Herald"
+  ],
+  "image": "../images/world/world-20261106-1422-03.jpg",
+  "image_credit": "Daniel Torok / White House (Public domain)"
  }
 ]
