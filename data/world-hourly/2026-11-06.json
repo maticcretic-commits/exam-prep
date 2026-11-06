@@ -263,5 +263,24 @@
   ],
   "image": null,
   "image_credit": null
+ },
+ {
+  "id": "world-20261106-1022-01",
+  "published_ist": "2026-11-06T02:45:00+05:30",
+  "headline": "Canada: 2027 se saalana 3.8 lakh PR",
+  "detail": "Canada ne Budget 2026 ke saath 2027–2029 Immigration Levels Plan jaari kiya; 2027 se 2029 tak har saal 3,80,000 permanent resident ka lakshya hai, aur 2027 ke ant tak 2,00,000 tak asthayi nivaasiyon ko PR me badalne ka upaay bhi hai.",
+  "category": "World",
+  "exam_angle": "Canada ki aapravaasan neeti — antarrashtriya sambandh aur pravasi Bharatiya ke liye mahatvapurna.",
+  "source": "Reuters",
+  "source_url": "https://www.reuters.com/world/key-proposed-measures-canadian-federal-budget-2026-11-05/",
+  "genuineness": "verified",
+  "outlets": [
+   "Reuters",
+   "Government of Canada",
+   "immigration.ca",
+   "GoFarGlobal"
+  ],
+  "image": "../images/world/world-20261106-1022-01.jpg",
+  "image_credit": "Saffron Blaze / Wikimedia Commons (CC BY-SA 3.0)"
  }
 ]
