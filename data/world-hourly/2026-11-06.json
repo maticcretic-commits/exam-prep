@@ -793,5 +793,62 @@
   ],
   "image": null,
   "image_credit": null
+ },
+ {
+  "id": "world-20261106-2226-01",
+  "published_ist": "2026-11-06T14:08:00+05:30",
+  "headline": "Sudan: UAE firm ne Colombian ladake bheje",
+  "detail": "UN ki gopniya report ke mutabik Abu Dhabi ki Global Security Services Group ne saikadon Colombian poorv sainikon ko Sudan ke RSF ke saath ladne bheja; New York Times ne 5 November ko iska khulasa kiya, jabki UAE ne aarop nakare.",
+  "category": "World",
+  "exam_angle": "Sudan grih yuddh me bahari hastakshep aur UN mahasachiv ki daud — antarrashtriya sambandh ke liye mahatvapurna.",
+  "source": "Addis Standard",
+  "source_url": "https://addisstandard.com/un-report-says-uae-firm-hired-colombian-mercenaries-to-fight-in-sudan-raising-questions-over-abu-dhabis-un-chief-bid/",
+  "genuineness": "verified",
+  "outlets": [
+   "The New York Times",
+   "Addis Standard",
+   "PassBlue",
+   "Human Rights Watch"
+  ],
+  "image": "../images/world/world-20261106-2226-01.jpg",
+  "image_credit": "Roman Deckert / CC BY-SA 4.0"
+ },
+ {
+  "id": "world-20261106-2226-02",
+  "published_ist": "2026-11-06T09:19:00+05:30",
+  "headline": "Trump: Iran par faisla jald, hamle mumkin",
+  "detail": "Trump ne rashtriya suraksha salahkaron se milne ke baad kaha ve jald faisla karenge — naye hamle, arthik dabav ya samjhauta; CENTCOM badi karravai ki taiyari kar raha hai, lekin abhi use koi naya aadesh nahi mila hai.",
+  "category": "World",
+  "exam_angle": "America-Iran yuddh aur Hormuz — Bharat ki urja suraksha ke liye mahatvapurna.",
+  "source": "Moneycontrol",
+  "source_url": "https://www.moneycontrol.com/world/maybe-i-will-have-to-trump-threatens-further-strikes-on-iran-says-decision-coming-soon-article-14072118.html/amp",
+  "genuineness": "verified",
+  "outlets": [
+   "Axios",
+   "Moneycontrol",
+   "Rediff",
+   "The Daily Flare"
+  ],
+  "image": "../images/world/world-20261106-2226-02.jpg",
+  "image_credit": "The White House / Public domain"
+ },
+ {
+  "id": "world-20261106-2226-03",
+  "published_ist": "2026-11-06T12:52:00+05:30",
+  "headline": "Houthi ka Dammam airport par hamle ka daava",
+  "detail": "Houthi ne Guruvar ko Dammam ke King Fahd International Airport par drone hamle ka daava kiya; Saudi netritva wale gathbandhan ne Madina ki ore missile aur purvi prant me drone rokne ka daava kiya, lekin swatantra pushti nahi hui.",
+  "category": "World",
+  "exam_angle": "Yemen yuddh aur Khadi me tanav — antarrashtriya sambandh ke liye mahatvapurna.",
+  "source": "Bastille Post",
+  "source_url": "https://www.bastillepost.com/global/article/6333028-houthis-claim-saudi-airport-attack-as-saudi-led-coalition-says-intercepted-missile-drone",
+  "genuineness": "verified",
+  "outlets": [
+   "Bastille Post",
+   "APA",
+   "Voice of Emirates",
+   "Siasat"
+  ],
+  "image": "../images/world/world-20261106-2226-03.jpg",
+  "image_credit": "Ashashyou / CC BY-SA 3.0"
  }
 ]
