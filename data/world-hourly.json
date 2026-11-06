@@ -1,6 +1,43 @@
 {
- "updated_ist": "2026-11-06T14:26:51+05:30",
+ "updated_ist": "2026-11-06T15:28:30+05:30",
  "items": [
+  {
+   "id": "world-20261106-1522-02",
+   "published_ist": "2026-11-06T07:29:00+05:30",
+   "headline": "Gaza me Israeli hamlo me 5 ki maut",
+   "detail": "Guruvar ko Gaza me Israeli hamlo aur golibari me ek mahila aur 12 saal ke ladke sahit paanch log mare gaye; bachav dal ke mutabik yuddhviram ke bawjood hamle jaari hain, jabki Israeli sena ne kaha usne 'aatankwadiyon' ko nishana banaya.",
+   "category": "World",
+   "exam_angle": "Gaza yuddhviram aur manaviya sankat — antarrashtriya sambandh ke liye mahatvapurna.",
+   "source": "Dawn",
+   "source_url": "https://www.dawn.com/news/2042440/child-among-five-killed-in-israeli-strikes-on-gaza",
+   "genuineness": "verified",
+   "outlets": [
+    "AFP",
+    "Palinfo",
+    "Arab News"
+   ],
+   "image": null,
+   "image_credit": null
+  },
+  {
+   "id": "world-20261106-1522-03",
+   "published_ist": "2026-11-06T06:28:00+05:30",
+   "headline": "Dhillon ne Trump prashasan se istifa diya",
+   "detail": "Bharatiya mool ki Harmeet Kaur Dhillon ne US Justice Department ke Civil Rights Division ke pramukh pad se istifa de diya; ve midterm chunav ke baad prashasan chhodne wali pehli varishth adhikari hain, aur Attorney General Todd Blanche ne 5 November ko unka istifa sweekar kiya.",
+   "category": "World",
+   "exam_angle": "Bharatiya mool ki adhikari aur America ki rajneeti — pravasi Bharatiya aur antarrashtriya sambandh ke liye mahatvapurna.",
+   "source": "The Hindu",
+   "source_url": "https://www.thehindu.com/news/international/us-assistant-attorney-general-harmeet-dhillon-resigns/article71672623.ece",
+   "genuineness": "verified",
+   "outlets": [
+    "The Hindu",
+    "CNN",
+    "USA Today",
+    "Al Jazeera"
+   ],
+   "image": "../images/world/world-20261106-1522-03.jpg",
+   "image_credit": "Gage Skidmore / Wikimedia Commons (CC BY-SA 2.0)"
+  },
   {
    "id": "world-20261106-1422-01",
    "published_ist": "2026-11-05T23:11:00+05:30",
@@ -419,42 +456,6 @@
    ],
    "image": null,
    "image_credit": null
-  },
-  {
-   "id": "world-20261105-2122-01",
-   "published_ist": "2026-11-05T17:17:00+05:30",
-   "headline": "France bank se €100 million cyber chori",
-   "detail": "France ke Credit Mutuel Arkea bank par cyber hamle me hackers ne lagbhag 100 million euro ki farzi len-den ki; grahakon ke khate surakshit rahe aur Paris prosecutor ne jaanch shuru kar di hai.",
-   "category": "World",
-   "exam_angle": "Banking cyber suraksha aur digital dhokhadhadi — banking exams ke liye mahatvapurna.",
-   "source": "Reuters",
-   "source_url": "https://www.reuters.com/legal/government/french-bank-credit-mutuel-arkea-says-100-million-missing-after-cyberattack-2026-11-05/",
-   "genuineness": "verified",
-   "outlets": [
-    "Reuters",
-    "AFP",
-    "Firstpost"
-   ],
-   "image": "../images/world/world-20261105-2122-01.jpg",
-   "image_credit": "FJaffres / CC BY-SA 4.0"
-  },
-  {
-   "id": "world-20261105-2122-02",
-   "published_ist": "2026-11-05T15:56:00+05:30",
-   "headline": "Hasina: December me Bangladesh lautungi",
-   "detail": "Bangladesh ki poorv pradhanmantri Sheikh Hasina ne AP ko bataya, maut ki saza ke bawjood December me Bangladesh lautne ka faisla nahi badla; giraftari ya maut ka khatra bhi sweekar hai.",
-   "category": "World",
-   "exam_angle": "Bangladesh ki rajneeti aur Bharat-Bangladesh sambandh — antarrashtriya sambandh ke liye mahatvapurna.",
-   "source": "Times of India",
-   "source_url": "https://timesofindia.indiatimes.com/india/if-death-is-my-destiny-sheikh-hasina-firm-on-returning-to-bangladesh-in-december/articleshow/135569022.cms",
-   "genuineness": "verified",
-   "outlets": [
-    "Associated Press",
-    "Times of India",
-    "Economic Times"
-   ],
-   "image": "../images/world/world-20261105-2122-02.jpg",
-   "image_credit": "Times of India"
   }
  ]
 }
