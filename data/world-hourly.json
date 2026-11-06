@@ -1,6 +1,44 @@
 {
- "updated_ist": "2026-11-06T17:24:23+05:30",
+ "updated_ist": "2026-11-06T18:25:29+05:30",
  "items": [
+  {
+   "id": "world-20261106-1822-01",
+   "published_ist": "2026-11-06T13:09:31+05:30",
+   "headline": "Bondi hamle ki 16th peedit ki maut",
+   "detail": "Bondi Beach par December 2025 ke hamle me ghayal 90 saal ki Holocaust survivor Eva Geller ki aspatal me maut ho gayi; hamle me marne walon ki sankhya ab 16 ho gayi hai.",
+   "category": "World",
+   "exam_angle": "Australia me aatankwadi hamla aur samajik suraksha — antarrashtriya sambandh ke liye mahatvapurna.",
+   "source": "The Times of Israel",
+   "source_url": "https://www.timesofisrael.com/holocaust-survivor-90-injured-in-bondi-massacre-dies-nearly-a-year-after-attack/",
+   "genuineness": "verified",
+   "outlets": [
+    "The Times of Israel",
+    "New York Post",
+    "Malay Mail",
+    "Israel National News"
+   ],
+   "image": "../images/world/world-20261106-1822-01.jpg",
+   "image_credit": "Dietmar Rabich / CC BY-SA 4.0"
+  },
+  {
+   "id": "world-20261106-1822-02",
+   "published_ist": "2026-11-06T10:18:00+05:30",
+   "headline": "Trump ne Oval Office ko smarak ghoshit kiya",
+   "detail": "Rashtrapati Donald Trump ne Oval Office aur Cabinet Room ko rashtriya smarak ghoshit karne wali ghoshna par hastakshar kiye; midterm chunav me haar ke baad yah unki pehli aadhikarik karravai hai.",
+   "category": "World",
+   "exam_angle": "America ki rajneeti aur rashtrapati ke adhikar — antarrashtriya sambandh ke liye mahatvapurna.",
+   "source": "Al Jazeera",
+   "source_url": "https://www.aljazeera.com/news/2026/11/6/trump-issues-proclamation-declaring-oval-office-national-monument",
+   "genuineness": "verified",
+   "outlets": [
+    "Al Jazeera",
+    "USA Today",
+    "Mathrubhumi",
+    "Firstpost"
+   ],
+   "image": "../images/world/world-20261106-1822-02.jpg",
+   "image_credit": "The White House / Public domain"
+  },
   {
    "id": "world-20261106-1722-01",
    "published_ist": "2026-11-06T05:00:00+05:30",
@@ -416,44 +454,6 @@
     "Associated Press",
     "Daily Sabah",
     "The Jerusalem Post"
-   ],
-   "image": null,
-   "image_credit": null
-  },
-  {
-   "id": "world-20261106-0722-02",
-   "published_ist": "2026-11-06T01:59:00+05:30",
-   "headline": "Serbia me chhatra andolan ko 140 seatein",
-   "detail": "Serbia ke chunav aayog ne antim natije ghoshit kiye; chhatra andolan ki Student List ko 250 me se 140 seatein mili jabki Vucic ki party ko 103 seatein mili, aur 14 saal ka shasan khatm ho gaya.",
-   "category": "World",
-   "exam_angle": "Chhatra andolan se sarkar badlav — loktantra aur Europe ki rajneeti ke liye mahatvapurna.",
-   "source": "SNM",
-   "source_url": "https://snm.rs/rik-adopts-overall-report-on-election-results-student-list-wins-140-seats-deadline-for-constituting-the-assembly-begins/",
-   "genuineness": "verified",
-   "outlets": [
-    "SNM",
-    "Jamestown Foundation",
-    "Malaysiakini",
-    "The Insider"
-   ],
-   "image": null,
-   "image_credit": null
-  },
-  {
-   "id": "world-20261106-0722-03",
-   "published_ist": "2026-11-05T23:10:00+05:30",
-   "headline": "Saudi ne Pakistan ko $3 billion ki madad badhai",
-   "detail": "Saudi Arabia ne Pakistan ke liye $3 billion ki vittiya suvidha ko uchit avadhi ke liye badha diya; vitt mantri Muhammad Aurangzeb ne sansad ke bahar iski pushti ki, jabki alag $5 billion ki suvidha 2028 tak badhi hui hai.",
-   "category": "World",
-   "exam_angle": "IMF aur videshi mudra bhandar — arthvyavastha ke liye mahatvapurna.",
-   "source": "Business Standard",
-   "source_url": "https://www.business-standard.com/world-news/saudi-arabia-extends-3-billion-financial-support-facility-for-pakistan-126110502194_1.html",
-   "genuineness": "verified",
-   "outlets": [
-    "Business Standard",
-    "PTI",
-    "News18",
-    "Deccan Herald"
    ],
    "image": null,
    "image_credit": null
