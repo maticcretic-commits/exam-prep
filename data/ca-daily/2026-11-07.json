@@ -1,0 +1,77 @@
+{
+ "date": "2026-11-07",
+ "date_hi": "7 November 2026",
+ "date_en": "7 November 2026",
+ "episodes": [
+  {
+   "episode": 89,
+   "video_hi": "AYlwjY1RlPY",
+   "video_hinglish": "AYlwjY1RlPY",
+   "capsules": [
+    {
+     "id": "ca-ep89-s1",
+     "headline_hi": "Bharat EU Horizon Europe programme se juda",
+     "headline_hinglish": "Bharat EU Horizon Europe programme se juda",
+     "detail_hi": "Bharat aur EU ne Horizon Europe par baatchit poori ki; January 2027 se Bharatiya shodhkartaon ko seedha funding milega.",
+     "detail_hinglish": "Bharat aur EU ne Horizon Europe par baatchit poori ki; January 2027 se Bharatiya shodhkartaon ko seedha funding milega.",
+     "category_hi": "International",
+     "category_en": "National"
+    },
+    {
+     "id": "ca-ep89-s2",
+     "headline_hi": "Semicon 2.0 mein 7,503 crore ke projects clear",
+     "headline_hinglish": "Semicon 2.0 mein 7,503 crore ke projects clear",
+     "detail_hi": "Sarkar ne Semicon 2.0 ke tahat baarah projects ko swikriti di; kul laagat 7,503 crore.",
+     "detail_hinglish": "Sarkar ne Semicon 2.0 ke tahat baarah projects ko swikriti di; kul laagat 7,503 crore.",
+     "category_hi": "Economy",
+     "category_en": "Economy"
+    },
+    {
+     "id": "ca-ep89-s3",
+     "headline_hi": "Mahabharata, Arthashastra UNESCO register mein shamil",
+     "headline_hinglish": "Mahabharata, Arthashastra UNESCO register mein shamil",
+     "detail_hi": "Mahabharata, Arthashastra aur Rajatarangini UNESCO ke Memory of the World register mein shamil hui.",
+     "detail_hinglish": "Mahabharata, Arthashastra aur Rajatarangini UNESCO ke Memory of the World register mein shamil hui.",
+     "category_hi": "Culture",
+     "category_en": "National"
+    },
+    {
+     "id": "ca-ep89-s4",
+     "headline_hi": "INS Sahyadri Japan pahuncha, MALABAR 2026 mein hissa",
+     "headline_hinglish": "INS Sahyadri Japan pahuncha, MALABAR 2026 mein hissa",
+     "detail_hi": "Bharatiya Nausena ka yuddhpot INS Sahyadri Japan pahuncha; chaar deshon ka MALABAR 2026 abhyas wahan hoga.",
+     "detail_hinglish": "Bharatiya Nausena ka yuddhpot INS Sahyadri Japan pahuncha; chaar deshon ka MALABAR 2026 abhyas wahan hoga.",
+     "category_hi": "Defence",
+     "category_en": "Defence"
+    },
+    {
+     "id": "ca-ep89-s5",
+     "headline_hi": "Hyderabad mein Bharat ki pehli space debris facility",
+     "headline_hinglish": "Hyderabad mein Bharat ki pehli space debris facility",
+     "detail_hi": "Cosmoserve Space ne Base 1 khola; kharab satellites pakadne aur antariksh kachra hatane ki takneek wahan banegi.",
+     "detail_hinglish": "Cosmoserve Space ne Base 1 khola; kharab satellites pakadne aur antariksh kachra hatane ki takneek wahan banegi.",
+     "category_hi": "Science",
+     "category_en": "National"
+    }
+   ],
+   "mcq": {
+    "id": "ca-ep89-mcq",
+    "q_hi": "Semicon India 2.0 ke tahat kitne crore ke 12 electronics projects clear hue?",
+    "q_hinglish": "Semicon India 2.0 ke tahat kitne crore ke 12 electronics projects clear hue?",
+    "options_hi": [
+     "5,503 crore",
+     "7,503 crore",
+     "9,503 crore",
+     "11,503 crore"
+    ],
+    "options_hinglish": [
+     "5,503 crore",
+     "7,503 crore",
+     "9,503 crore",
+     "11,503 crore"
+    ],
+    "answer_index": 1
+   }
+  }
+ ]
+}
