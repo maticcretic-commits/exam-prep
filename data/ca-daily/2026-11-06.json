@@ -142,6 +142,76 @@
     ],
     "answer_index": 1
    }
+  },
+  {
+   "episode": 87,
+   "video_hi": "PwF-gdScHCo",
+   "video_hinglish": "PwF-gdScHCo",
+   "capsules": [
+    {
+     "id": "ca-ep87-s1",
+     "headline_hi": "Delhi-NCR mein pehli preventive pollution rok",
+     "headline_hinglish": "Delhi-NCR mein pehli preventive pollution rok",
+     "detail_hi": "CAQM ne pehli baar preventive order jaari kiya; paanch se bees November tak Delhi-NCR ke offices mein aadhi haziri.",
+     "detail_hinglish": "CAQM ne pehli baar preventive order jaari kiya; paanch se bees November tak Delhi-NCR ke offices mein aadhi haziri.",
+     "category_hi": "Environment",
+     "category_en": "Environment"
+    },
+    {
+     "id": "ca-ep87-s2",
+     "headline_hi": "Teen granth UNESCO Memory Register mein",
+     "headline_hinglish": "Teen granth UNESCO Memory Register mein",
+     "detail_hi": "Mahabharata, Arthashastra aur Rajatarangini UNESCO Register mein shamil; Bharat ki kul entry ab chhe.",
+     "detail_hinglish": "Mahabharata, Arthashastra aur Rajatarangini UNESCO Register mein shamil; Bharat ki kul entry ab chhe.",
+     "category_hi": "Culture",
+     "category_en": "National"
+    },
+    {
+     "id": "ca-ep87-s3",
+     "headline_hi": "Bharat-America sanyukt abhyaas Tiger Triumph shuru",
+     "headline_hinglish": "Bharat-America sanyukt abhyaas Tiger Triumph shuru",
+     "detail_hi": "Bharat aur America ka sanyukt sainya abhyaas Tiger Triumph 2026 Visakhapatnam mein shuru hua.",
+     "detail_hinglish": "Bharat aur America ka sanyukt sainya abhyaas Tiger Triumph 2026 Visakhapatnam mein shuru hua.",
+     "category_hi": "Defence",
+     "category_en": "Defence"
+    },
+    {
+     "id": "ca-ep87-s4",
+     "headline_hi": "QS Asia Ranking 2027 mein Hong Kong top par",
+     "headline_hinglish": "QS Asia Ranking 2027 mein Hong Kong top par",
+     "detail_hi": "QS World University Rankings Asia 2027 mein University of Hong Kong pehle sthan par raha.",
+     "detail_hinglish": "QS World University Rankings Asia 2027 mein University of Hong Kong pehle sthan par raha.",
+     "category_hi": "Education",
+     "category_en": "Education"
+    },
+    {
+     "id": "ca-ep87-s5",
+     "headline_hi": "Jaypal Malviya ko silver, LA 2028 quota pakka",
+     "headline_hinglish": "Jaypal Malviya ko silver, LA 2028 quota pakka",
+     "detail_hi": "Doha mein ISSF World Championship mein silver jeetkar Malviya ne Bharat ka pehla LA 2028 quota dilaya.",
+     "detail_hinglish": "Doha mein ISSF World Championship mein silver jeetkar Malviya ne Bharat ka pehla LA 2028 quota dilaya.",
+     "category_hi": "Sports",
+     "category_en": "Sports"
+    }
+   ],
+   "mcq": {
+    "id": "ca-ep87-mcq",
+    "q_hi": "UNESCO ke Asia-Pacific Memory of the World Register mein abhi kaun se teen granth shamil hue?",
+    "q_hinglish": "UNESCO ke Asia-Pacific Memory of the World Register mein abhi kaun se teen granth shamil hue?",
+    "options_hi": [
+     "Ramcharitmanas, Panchatantra, Sahrdayaloka-Locana",
+     "Rigveda, Upanishad, Bhagavad Gita",
+     "Mahabharata, Arthashastra, Rajatarangini",
+     "Arthashastra, Manusmriti, Natyashastra"
+    ],
+    "options_hinglish": [
+     "Ramcharitmanas, Panchatantra, Sahrdayaloka-Locana",
+     "Rigveda, Upanishad, Bhagavad Gita",
+     "Mahabharata, Arthashastra, Rajatarangini",
+     "Arthashastra, Manusmriti, Natyashastra"
+    ],
+    "answer_index": 2
+   }
   }
  ]
 }
