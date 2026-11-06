@@ -212,6 +212,76 @@
     ],
     "answer_index": 2
    }
+  },
+  {
+   "episode": 88,
+   "video_hi": "dT6x4ZP1CoA",
+   "video_hinglish": "dT6x4ZP1CoA",
+   "capsules": [
+    {
+     "id": "ca-ep88-s1",
+     "headline_hi": "UPSC Civil Services Main 2026 result jaari",
+     "headline_hinglish": "UPSC Civil Services Main 2026 result jaari",
+     "detail_hi": "UPSC ne Civil Services Main pariksha 2026 ka result ghoshit kiya; safal ummidwar ab interview round mein jayenge.",
+     "detail_hinglish": "UPSC ne Civil Services Main pariksha 2026 ka result ghoshit kiya; safal ummidwar ab interview round mein jayenge.",
+     "category_hi": "Education",
+     "category_en": "Education"
+    },
+    {
+     "id": "ca-ep88-s2",
+     "headline_hi": "Asian Para Games mein Bharat ka record 114 padak",
+     "headline_hinglish": "Asian Para Games mein Bharat ka record 114 padak",
+     "detail_hi": "Aichi-Nagoya mein Bharat ne tees gold sahit kul ek sau chaudah padak jeete; PM Modi ne khiladiyon ko badhai di.",
+     "detail_hinglish": "Aichi-Nagoya mein Bharat ne tees gold sahit kul ek sau chaudah padak jeete; PM Modi ne khiladiyon ko badhai di.",
+     "category_hi": "Sports",
+     "category_en": "Sports"
+    },
+    {
+     "id": "ca-ep88-s3",
+     "headline_hi": "e-Sanjeevani ne 50 crore teleconsultation paar kiya",
+     "headline_hinglish": "e-Sanjeevani ne 50 crore teleconsultation paar kiya",
+     "detail_hi": "Swasthya Mantralaya ki muft telemedicine seva e-Sanjeevani ne desh bhar mein pachas crore paramarsh ka aankda paar kiya.",
+     "detail_hinglish": "Swasthya Mantralaya ki muft telemedicine seva e-Sanjeevani ne desh bhar mein pachas crore paramarsh ka aankda paar kiya.",
+     "category_hi": "Health",
+     "category_en": "Health"
+    },
+    {
+     "id": "ca-ep88-s4",
+     "headline_hi": "Guyana ko 500 million dollar ki credit line",
+     "headline_hinglish": "Guyana ko 500 million dollar ki credit line",
+     "detail_hi": "Videsh Mantri Jaishankar ne sadak, swasthya aur raksha pariyojanaon ke liye Guyana ko paanch sau million dollar ki credit line di.",
+     "detail_hinglish": "Videsh Mantri Jaishankar ne sadak, swasthya aur raksha pariyojanaon ke liye Guyana ko paanch sau million dollar ki credit line di.",
+     "category_hi": "International",
+     "category_en": "National"
+    },
+    {
+     "id": "ca-ep88-s5",
+     "headline_hi": "Chaar rajyon mein voter list ka vishesh revision",
+     "headline_hinglish": "Chaar rajyon mein voter list ka vishesh revision",
+     "detail_hi": "Chunav Aayog ne chaar rajyon aur do kendra shasit pradeshon mein voter list ka vishesh sankshipt punarikshan ghoshit kiya.",
+     "detail_hinglish": "Chunav Aayog ne chaar rajyon aur do kendra shasit pradeshon mein voter list ka vishesh sankshipt punarikshan ghoshit kiya.",
+     "category_hi": "Polity",
+     "category_en": "Polity"
+    }
+   ],
+   "mcq": {
+    "id": "ca-ep88-mcq",
+    "q_hi": "Asian Para Games 2026 mein Bharat ne kul kitne padak jeete?",
+    "q_hinglish": "Asian Para Games 2026 mein Bharat ne kul kitne padak jeete?",
+    "options_hi": [
+     "98 padak",
+     "104 padak",
+     "114 padak",
+     "124 padak"
+    ],
+    "options_hinglish": [
+     "98 padak",
+     "104 padak",
+     "114 padak",
+     "124 padak"
+    ],
+    "answer_index": 2
+   }
   }
  ]
 }
