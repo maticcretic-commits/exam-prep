@@ -72,6 +72,76 @@
     ],
     "answer_index": 2
    }
+  },
+  {
+   "episode": 86,
+   "video_hi": "Sx0QRdzyDrU",
+   "video_hinglish": "Sx0QRdzyDrU",
+   "capsules": [
+    {
+     "id": "ca-ep86-s1",
+     "headline_hi": "2,526 ummeedvaar interview ke liye chune gaye",
+     "headline_hinglish": "2,526 ummeedvaar interview ke liye chune gaye",
+     "detail_hi": "UPSC ne Civil Services Mains 2026 ka result jaari kiya; safal ummeedvaar ab Personality Test denge.",
+     "detail_hinglish": "UPSC ne Civil Services Mains 2026 ka result jaari kiya; safal ummeedvaar ab Personality Test denge.",
+     "category_hi": "Education",
+     "category_en": "Education"
+    },
+    {
+     "id": "ca-ep86-s2",
+     "headline_hi": "e-Sanjeevani par 50 crore paramarsh poore",
+     "headline_hinglish": "e-Sanjeevani par 50 crore paramarsh poore",
+     "detail_hi": "Sarkaar ki muft telemedicine seva e-Sanjeevani ne pachaas crore teleconsultation ka aankda paar kar liya.",
+     "detail_hinglish": "Sarkaar ki muft telemedicine seva e-Sanjeevani ne pachaas crore teleconsultation ka aankda paar kar liya.",
+     "category_hi": "Health",
+     "category_en": "Health"
+    },
+    {
+     "id": "ca-ep86-s3",
+     "headline_hi": "Guyana ko 500 million dollar ki madad",
+     "headline_hinglish": "Guyana ko 500 million dollar ki madad",
+     "detail_hi": "Bharat ne Guyana ko sadak, swasthya aur raksha pariyojanaon ke liye paanch sau million dollar ka rin diya.",
+     "detail_hinglish": "Bharat ne Guyana ko sadak, swasthya aur raksha pariyojanaon ke liye paanch sau million dollar ka rin diya.",
+     "category_hi": "International",
+     "category_en": "National"
+    },
+    {
+     "id": "ca-ep86-s4",
+     "headline_hi": "Chaar rajyon mein matdata soochi sanshodhan",
+     "headline_hinglish": "Chaar rajyon mein matdata soochi sanshodhan",
+     "detail_hi": "Chunav Aayog ne chaar rajyon aur do kendra shasit pradeshon mein matdata soochi ka vishesh sanshodhan shuru kiya.",
+     "detail_hinglish": "Chunav Aayog ne chaar rajyon aur do kendra shasit pradeshon mein matdata soochi ka vishesh sanshodhan shuru kiya.",
+     "category_hi": "Polity",
+     "category_en": "Polity"
+    },
+    {
+     "id": "ca-ep86-s5",
+     "headline_hi": "Para Games mein Bharat ke 114 medal",
+     "headline_hinglish": "Para Games mein Bharat ke 114 medal",
+     "detail_hi": "Asian Para Games mein Bharat ne record ek sau chaudah medal jeete; tees swarn, paintees rajat aur unanchaas kansya.",
+     "detail_hinglish": "Asian Para Games mein Bharat ne record ek sau chaudah medal jeete; tees swarn, paintees rajat aur unanchaas kansya.",
+     "category_hi": "Sports",
+     "category_en": "Sports"
+    }
+   ],
+   "mcq": {
+    "id": "ca-ep86-mcq",
+    "q_hi": "Bharat ne Asian Para Games 2026 mein kul kitne medal jeete?",
+    "q_hinglish": "Bharat ne Asian Para Games 2026 mein kul kitne medal jeete?",
+    "options_hi": [
+     "98",
+     "114",
+     "121",
+     "105"
+    ],
+    "options_hinglish": [
+     "98",
+     "114",
+     "121",
+     "105"
+    ],
+    "answer_index": 1
+   }
   }
  ]
 }
