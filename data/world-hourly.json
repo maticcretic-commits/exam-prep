@@ -1,6 +1,64 @@
 {
- "updated_ist": "2026-11-06T07:25:11+05:30",
+ "updated_ist": "2026-11-06T08:25:25+05:30",
  "items": [
+  {
+   "id": "world-20261106-0822-01",
+   "published_ist": "2026-11-06T02:30:00+05:30",
+   "headline": "Wall Street me badi girawat, Nasdaq 5.5% gira",
+   "detail": "America ke share bazaar me 5 November ko badi girawat aayi; Nasdaq 5.52% gira aur correction me chala gaya, jabki S&P 500 4.36% aur Dow 3.44% gira.",
+   "category": "World",
+   "exam_angle": "America ki arthvyavastha aur share bazaar — arthvyavastha ke liye mahatvapurna.",
+   "source": "Investopedia",
+   "source_url": "https://www.investopedia.com/stock-market-today-dow-jones-s-and-p-500-nasdaq-11052026-12237014",
+   "genuineness": "verified",
+   "outlets": [
+    "Investopedia",
+    "The Motley Fool",
+    "Associated Press",
+    "Reuters"
+   ],
+   "image": "../images/world/world-20261106-0822-01.jpg",
+   "image_credit": "Ryan Schwark / CC0"
+  },
+  {
+   "id": "world-20261106-0822-02",
+   "published_ist": "2026-11-05T18:08:00+05:30",
+   "headline": "Bank of England ne byaj dar 4% ki",
+   "detail": "Bank of England ne byaj dar 3.75% se badha kar 4% kar di, teen saal me pehli badhotri; MPC ne 8-1 se faisla liya aur mahangai ke 5% tak jaane ka anumaan lagaya.",
+   "category": "World",
+   "exam_angle": "Kendriya bank aur byaj dar — banking aur arthvyavastha ke liye mahatvapurna.",
+   "source": "Business Standard",
+   "source_url": "https://www.business-standard.com/world-news/bank-of-england-raises-rates-for-first-time-since-2023-says-more-may-come-126110501662_1.html",
+   "genuineness": "verified",
+   "outlets": [
+    "Reuters",
+    "Business Standard",
+    "Free Malaysia Today",
+    "Business Live"
+   ],
+   "image": null,
+   "image_credit": null
+  },
+  {
+   "id": "world-20261106-0822-03",
+   "published_ist": "2026-11-06T05:33:00+05:30",
+   "headline": "KOSPI 8% gira, circuit breaker laga",
+   "detail": "South Korea ka KOSPI subah ke karobar me 8% se zyada gira aur 5,000 ke neeche chala gaya, jisse 20 minute ke liye karobar roka gaya; Samsung aur SK hynix ke share bhi buri tarah gire.",
+   "category": "World",
+   "exam_angle": "Asia ke share bazaar aur AI stock girawat — arthvyavastha ke liye mahatvapurna.",
+   "source": "KED Global",
+   "source_url": "https://www.kedglobal.com/korean-stock-market/newsView/ked202611060003",
+   "genuineness": "verified",
+   "outlets": [
+    "Korea Herald",
+    "KED Global",
+    "Newspim",
+    "FN News",
+    "MoneyToday"
+   ],
+   "image": null,
+   "image_credit": null
+  },
   {
    "id": "world-20261106-0722-01",
    "published_ist": "2026-11-06T05:45:00+05:30",
@@ -384,60 +442,6 @@
    ],
    "image": "../images/world/world-20261105-1722-01.jpg",
    "image_credit": "Ludovic Péron / CC BY-SA 3.0"
-  },
-  {
-   "id": "world-20261105-1422-01",
-   "published_ist": "2026-11-05T13:02:00+05:30",
-   "headline": "Hormuz me do tanker, tugboat me aag",
-   "detail": "IRGC ne kaha do tel tanker aur ek tugboat Hormuz Strait me aag ki chapet me aaye; ek tanker 'gair-kanuni' raste par mine se takraya, jabki doosra supertanker aag me ghir gaya.",
-   "category": "World",
-   "exam_angle": "Hormuz Strait aur tel marg: International exams ke liye — samudri suraksha aur vishwa tel vyapaar.",
-   "source": "Reuters",
-   "source_url": "https://www.reuters.com/world/middle-east/irans-irgc-says-two-tankers-tugboat-caught-fire-strait-hormuz-2026-11-05/",
-   "genuineness": "verified",
-   "outlets": [
-    "Reuters",
-    "Al Jazeera",
-    "Agence France-Presse",
-    "The Jerusalem Post"
-   ],
-   "image": "../images/world/world-20261105-1422-01.jpg",
-   "image_credit": "NASA / Public domain"
-  },
-  {
-   "id": "world-20261105-1522-02",
-   "published_ist": "2026-11-05T12:35:00+05:30",
-   "headline": "France: Desh bhar hadtaal, 70,000 police tainat",
-   "detail": "France me mazdoor sanghon ki desh-vyapi hadtaal aur pradarshan aaj hue; sarkar ne 70,000 police tainat kiye aur 5–7 lakh logon ke sadkon par utarne ka anumaan hai.",
-   "category": "World",
-   "exam_angle": "France aur mazdoor andolan: International exams ke liye — hadtaal, jeevan-yapan aur sarkar.",
-   "source": "Channel NewsAsia",
-   "source_url": "https://www.channelnewsasia.com/world/france-demonstrations-trade-unions-strike-6526711",
-   "genuineness": "verified",
-   "outlets": [
-    "Reuters",
-    "Agence France-Presse",
-    "The New York Times"
-   ],
-   "image": null,
-   "image_credit": null
-  },
-  {
-   "id": "world-20261105-1322-01",
-   "published_ist": "2026-11-05T12:00:12+05:30",
-   "headline": "Armenia: Vipaksh ne ekjut hone ka elaan kiya",
-   "detail": "Armenia ke vipakshi dalon ne 'rashtriya ekjutata' banane ka elaan kiya; naya samvidhan kharij karna aur bina ektarfa samjhote ke shanti unki prathamikta hai.",
-   "category": "World",
-   "exam_angle": "Armenia aur Dakshin Caucasus: International exams ke liye — samvidhan, shanti aur vipaksh.",
-   "source": "1news.az",
-   "source_url": "https://1news.az/en/news/20261105103012198-Armenian-opposition-announces-formation-of-nationwide-consolidation",
-   "genuineness": "corroborated",
-   "outlets": [
-    "Sputnik Armenia",
-    "Izvestia"
-   ],
-   "image": "../images/world/world-20261105-1322-01.jpg",
-   "image_credit": "Benoît Prieur / CC0"
   }
  ]
 }
