@@ -1,6 +1,81 @@
 {
- "updated_ist": "2026-11-06T15:28:30+05:30",
+ "updated_ist": "2026-11-06T17:24:23+05:30",
  "items": [
+  {
+   "id": "world-20261106-1722-01",
+   "published_ist": "2026-11-06T05:00:00+05:30",
+   "headline": "Grenada me Mitchell ki badi jeet, 14 seatein",
+   "detail": "Grenada ke aam chunav me PM Dickon Mitchell ki NDC ne 15 me se 14 seatein jeet kar doosri baar sarkar banayi; lagbhag 61% vote mile aur NNP ke paas sirf ek seat bachi.",
+   "category": "World",
+   "exam_angle": "Caribbean me loktantra aur chunav — antarrashtriya sambandh ke liye mahatvapurna.",
+   "source": "The New Indian Express",
+   "source_url": "https://www.newindianexpress.com/world/2026/Nov/06/prime-minister-of-small-eastern-caribbean-archipelago-dickon-mitchell-secures-a-second-term",
+   "genuineness": "verified",
+   "outlets": [
+    "The New Indian Express",
+    "Antigua News Room",
+    "One News St Vincent",
+    "Central European Affairs"
+   ],
+   "image": "../images/world/world-20261106-1722-01.jpg",
+   "image_credit": "Prime Minister's Office, India (GODL-India)"
+  },
+  {
+   "id": "world-20261106-1722-02",
+   "published_ist": "2026-11-05T15:33:00+05:30",
+   "headline": "Sweden me seema jaanch phir 6 mahine",
+   "detail": "Sweden ne 12 November se Schengen ki andaruni seemaon par jaanch phir chhe mahine ke liye badha di; sarkar ne Russia ke yuddh se jude hybrid khatron aur tod-phod ke badhte jokhim ko wajah bataya.",
+   "category": "World",
+   "exam_angle": "Schengen aur Europe ki suraksha — antarrashtriya sambandh ke liye mahatvapurna.",
+   "source": "Reuters",
+   "source_url": "https://www.reuters.com/world/sweden-reintroduces-internal-border-control-citing-security-situation-2026-11-05/",
+   "genuineness": "verified",
+   "outlets": [
+    "Reuters",
+    "The National",
+    "Sweden Herald",
+    "AnewZ"
+   ],
+   "image": null,
+   "image_credit": null
+  },
+  {
+   "id": "world-20261106-1722-03",
+   "published_ist": "2026-11-06T14:12:00+05:30",
+   "headline": "UN pramukh daud me Grynspan aage",
+   "detail": "Sanyukt Rashtra ke agle mahasachiv ke liye aathve straw poll me Costa Rica ki Rebeca Grynspan ko 15 me se 12 sakaratmak vote mile; Argentina ke Rafael Grossi 9 vote ke saath doosre par rahe, jabki Turkey ke Sinirlioglu chhathe sthan par rahe.",
+   "category": "World",
+   "exam_angle": "Sanyukt Rashtra aur mahasachiv chunav — antarrashtriya sangathan ke liye mahatvapurna.",
+   "source": "New Kerala",
+   "source_url": "https://www.newkerala.com/news/a/costa-ricas-rebeca-grynspan-leads-un-chief-poll-373.htm",
+   "genuineness": "verified",
+   "outlets": [
+    "New Kerala",
+    "Politiko",
+    "QNC News",
+    "New Greek TV"
+   ],
+   "image": "../images/world/world-20261106-1722-03.jpg",
+   "image_credit": "UN Trade and Development (UNCTAD) / CC BY-SA 2.0"
+  },
+  {
+   "id": "world-20261106-1722-04",
+   "published_ist": "2026-11-06T01:22:00+05:30",
+   "headline": "UNIFIL 31 December ko Lebanon chhodega",
+   "detail": "UNIFIL ne pushti ki ki 31 December 2026 ko uska mandate khatm hote hi vah dakshini Lebanon se hatna shuru kar dega; 1978 se tainat mission ke lagbhag 7,500 shanti sainik tab tak kaam jaari rakhenge.",
+   "category": "World",
+   "exam_angle": "UN shanti mission aur Lebanon — antarrashtriya sangathan ke liye mahatvapurna.",
+   "source": "The Times of Israel",
+   "source_url": "https://www.timesofisrael.com/unifil-confirms-it-will-start-leaving-south-lebanon-when-mandate-ends-on-dec-31/",
+   "genuineness": "verified",
+   "outlets": [
+    "The Times of Israel",
+    "UN News",
+    "Stratum Global Risk"
+   ],
+   "image": "../images/world/world-20261106-1722-04.jpg",
+   "image_credit": "Irish Defence Forces / CC BY 2.0"
+  },
   {
    "id": "world-20261106-1522-02",
    "published_ist": "2026-11-06T07:29:00+05:30",
@@ -379,80 +454,6 @@
     "PTI",
     "News18",
     "Deccan Herald"
-   ],
-   "image": null,
-   "image_credit": null
-  },
-  {
-   "id": "world-20261106-0622-01",
-   "published_ist": "2026-11-06T00:28:00+05:30",
-   "headline": "Paraguay rashtrapati ne bank sankat par istifa diya",
-   "detail": "Paraguay ke Rashtrapati Santiago Peña ne Ueno Bank ke dhahne ke baad istifa de diya; bank ke lagbhag 30 lakh grahakon ke khate band ho gaye aur unpar aapradhik jaanch aur mahabhiyog ki karyavahi shuru hui.",
-   "category": "World",
-   "exam_angle": "Bank niyaman aur rashtrapati ki jawabdehi — banking aur antarrashtriya sambandh ke liye mahatvapurna.",
-   "source": "Reuters",
-   "source_url": "https://www.reuters.com/world/americas/paraguay-president-pea-resigns-under-mounting-pressure-bank-collapse-2026-11-05/",
-   "genuineness": "verified",
-   "outlets": [
-    "Reuters",
-    "CNN",
-    "The Times",
-    "Associated Press"
-   ],
-   "image": "../images/world/world-20261106-0622-01.jpg",
-   "image_credit": "Office of the President, Taiwan / CC BY 2.0"
-  },
-  {
-   "id": "world-20261106-0622-02",
-   "published_ist": "2026-11-05T23:12:00+05:30",
-   "headline": "Brooklyn me aag, 6 ki maut",
-   "detail": "New York ke Brooklyn me ek ghar me lagi aag me 6 logon ki maut ho gayi aur 9 ghayal hue, jinme 3 firefighter aur 2 police adhikari shamil hain; aag ke kaaran ki jaanch chal rahi hai.",
-   "category": "World",
-   "exam_angle": null,
-   "source": "USA Today",
-   "source_url": "https://www.usatoday.com/story/news/nation/2026/11/05/sunset-park-house-fire-brooklyn-new-york/92624608007/",
-   "genuineness": "verified",
-   "outlets": [
-    "USA Today",
-    "Associated Press",
-    "New York Post"
-   ],
-   "image": null,
-   "image_credit": null
-  },
-  {
-   "id": "world-20261106-0622-03",
-   "published_ist": "2026-11-05T20:46:00+05:30",
-   "headline": "Eisenkot ko 67 samarthan, Netanyahu peeche",
-   "detail": "Israel me Yashar neta Gadi Eisenkot ko sarkar banane ke liye 67 sansadon ka samarthan mila, jabki Netanyahu ko 46 mile; Rashtrapati Herzog Ravivar ko faisla karenge.",
-   "category": "World",
-   "exam_angle": "Israel ki sansadiya vyavastha aur sarkar gathan — antarrashtriya rajneeti ke liye mahatvapurna.",
-   "source": "The Economic Times",
-   "source_url": "https://economictimes.indiatimes.com/news/international/world-news/eisenkot-clears-pm-mandate-threshold-with-67-endorsements-leaving-netanyahus-bloc-at-46-seats-utj-abstains/articleshow/135578291.cms",
-   "genuineness": "verified",
-   "outlets": [
-    "The Economic Times",
-    "The Times of Israel",
-    "Haaretz",
-    "Ynet"
-   ],
-   "image": null,
-   "image_credit": null
-  },
-  {
-   "id": "world-20261106-0622-04",
-   "published_ist": "2026-11-05T20:37:00+05:30",
-   "headline": "FATF ki scam compounds par badi report",
-   "detail": "FATF ne scam compounds se jude avaidh vittiya pravah par nayi report jaari ki; har saal dasyon arab dollar ka nuksan hota hai aur lagbhag 120 case studies me 60 se zyada kshetron ko shamil kiya gaya.",
-   "category": "World",
-   "exam_angle": "FATF, money laundering aur cyber dhokhadhadi — banking aur arthvyavastha ke liye mahatvapurna.",
-   "source": "The Tribune",
-   "source_url": "https://www.tribuneindia.com/news/world/new-landmark-report-from-fatf-calls-for-global-action-to-disrupt-scam-compounds/",
-   "genuineness": "verified",
-   "outlets": [
-    "The Tribune",
-    "The Hindu BusinessLine",
-    "FATF"
    ],
    "image": null,
    "image_credit": null
