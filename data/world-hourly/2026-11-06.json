@@ -206,5 +206,62 @@
   ],
   "image": null,
   "image_credit": null
+ },
+ {
+  "id": "world-20261106-0922-01",
+  "published_ist": "2026-11-06T08:57:00+05:30",
+  "headline": "Nithya Raman LA ki pehli Asian-American mayor",
+  "detail": "Kerala me janmi Nithya Raman ne Los Angeles ke mayor chunav me maujuda mayor Karen Bass ko haraya; Associated Press ne unhe vijeta ghoshit kiya aur Bass ne haar maan li.",
+  "category": "World",
+  "exam_angle": "Bharatiya mool ki neta ka America ke bade sheher me chunav — pravasi Bharatiya aur America ki rajneeti ke liye mahatvapurna.",
+  "source": "Outlook India",
+  "source_url": "https://www.outlookindia.com/amp/story/international/nithya-raman-india-born-democratic-socialist-defeats-karen-bass-los-angeles-mayor-election-2026",
+  "genuineness": "verified",
+  "outlets": [
+   "Outlook India",
+   "The Wrap",
+   "CNBC TV18",
+   "Moneycontrol"
+  ],
+  "image": "../images/world/world-20261106-0922-01.jpg",
+  "image_credit": "Nithya Raman / Public domain"
+ },
+ {
+  "id": "world-20261106-0922-02",
+  "published_ist": "2026-11-05T08:02:00+05:30",
+  "headline": "Trump ne kaha: mahabhiyog se Democrats barbaad",
+  "detail": "America ke rashtrapati Donald Trump ne kaha ki mahabhiyog ki koshish se Democratic Party barbaad ho jayegi; unhe iski bilkul chinta nahi aur ve veto ka istemal karenge.",
+  "category": "World",
+  "exam_angle": "America me mahabhiyog ki prakriya aur vibhajit sarkar — antarrashtriya rajneeti ke liye mahatvapurna.",
+  "source": "Business Today",
+  "source_url": "https://www.businesstoday.in/amp/world/story/it-would-destroy-the-democrats-trump-dismisses-impeachment-concerns-after-midterm-loss-565781-2026-11-05",
+  "genuineness": "verified",
+  "outlets": [
+   "Business Today",
+   "CNN",
+   "The Times",
+   "Al Jazeera"
+  ],
+  "image": null,
+  "image_credit": null
+ },
+ {
+  "id": "world-20261106-0922-03",
+  "published_ist": "2026-11-06T06:30:00+05:30",
+  "headline": "Asia bhar me girawat, Nikkei 6% gira",
+  "detail": "America ki girawat ke baad Asia ke bazaaron me bhi badi girawat aayi; Japan ka Nikkei 6% gira, Taiwan 8% gira aur Hong Kong aur Shanghai bhi gire.",
+  "category": "World",
+  "exam_angle": "Asia ke share bazaar aur AI stock girawat — arthvyavastha ke liye mahatvapurna.",
+  "source": "Channel News Asia",
+  "source_url": "https://www.channelnewsasia.com/business/shares-plunge-tokyo-seoul-us-tech-rout-ai-stocks-6529531",
+  "genuineness": "verified",
+  "outlets": [
+   "Channel News Asia",
+   "Gulf News",
+   "DD India",
+   "Swissinfo"
+  ],
+  "image": null,
+  "image_credit": null
  }
 ]
