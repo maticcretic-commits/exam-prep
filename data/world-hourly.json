@@ -1,5 +1,5 @@
 {
- "updated_ist": "2026-11-06T20:26:31+05:30",
+ "updated_ist": "2026-11-06T21:27:09+05:30",
  "items": [
   {
    "id": "world-20261106-1926-01",
@@ -192,6 +192,24 @@
    "image_credit": "CNN"
   },
   {
+   "id": "world-20261106-2127-01",
+   "published_ist": "2026-11-06T09:30:00+05:30",
+   "headline": "Belgium: pravasiyon ke ghar talashi ka kanoon",
+   "detail": "Belgium ki sansad ne kanoon manzoor kiya — jaanch judge ki manzoori se police un pravasiyon ke ghar talashi le sakegi jinki sharan yachika kharij hui aur jo desh chhodne ka aadesh nahi maan rahe; talashi sirf subah 5 se 9 baje ke beech hogi.",
+   "category": "World",
+   "exam_angle": "Europe me pravasan niti aur manavadhikar — UPSC ke liye mahatvapurna.",
+   "source": "Reuters",
+   "source_url": "https://www.reuters.com/world/belgium-allow-home-searches-suspected-illegal-migrants-2026-11-06/",
+   "genuineness": "verified",
+   "outlets": [
+    "Reuters",
+    "UA.news",
+    "Brussels Morning"
+   ],
+   "image": "../images/world/world-20261106-2127-01.jpg",
+   "image_credit": "Ank Kumar / CC BY-SA 4.0"
+  },
+  {
    "id": "world-20261106-0922-01",
    "published_ist": "2026-11-06T08:57:00+05:30",
    "headline": "Nithya Raman LA ki pehli Asian-American mayor",
@@ -346,6 +364,42 @@
    "image_credit": "Gage Skidmore / Wikimedia Commons (CC BY-SA 2.0)"
   },
   {
+   "id": "world-20261106-2127-02",
+   "published_ist": "2026-11-06T05:31:00+05:30",
+   "headline": "Google, Meta, TikTok ne California par mukadma kiya",
+   "detail": "Teeno companies ne California ke naye kanoon AB 1709 ko chunauti di jo 16 saal se kam umr ke bachchon ke liye autoplay aur personalised feed par rok lagata hai; kanoon 1 January 2027 se lagu hona hai.",
+   "category": "World",
+   "exam_angle": "Bachchon ki online suraksha aur tech niyam — digital governance ke liye mahatvapurna.",
+   "source": "Reuters",
+   "source_url": "https://www.reuters.com/world/us/google-meta-tiktok-sue-block-california-youth-social-media-law-2026-11-05/",
+   "genuineness": "verified",
+   "outlets": [
+    "Reuters",
+    "Firstpost",
+    "TechCrunch",
+    "Mediaweek"
+   ],
+   "image": null,
+   "image_credit": null
+  },
+  {
+   "id": "world-20261106-2127-03",
+   "published_ist": "2026-11-06T05:20:00+05:30",
+   "headline": "Iran ne Qatar se America ko prastav bheja",
+   "detail": "Iran ne Qatar ke zariye America ko parmanu prastav bheja; Hormuz jaladmarumadhya kholne aur baatchit se pehle saat shartein poori karne ki maang ki, jinme pratibandh hatana aur jami hui sampatti lautana shamil hai.",
+   "category": "World",
+   "exam_angle": "Hormuz aur parmanu kootneeti — antarrashtriya sambandh ke liye mahatvapurna.",
+   "source": "Reuters",
+   "source_url": "https://www.reuters.com/world/middle-east/iran-sent-nuclear-proposal-us-via-qatar-senior-iranian-official-tells-reuters-2026-11-05/",
+   "genuineness": "corroborated",
+   "outlets": [
+    "Reuters",
+    "The Statesman"
+   ],
+   "image": null,
+   "image_credit": null
+  },
+  {
    "id": "world-20261106-1722-01",
    "published_ist": "2026-11-06T05:00:00+05:30",
    "headline": "Grenada me Mitchell ki badi jeet, 14 seatein",
@@ -400,64 +454,6 @@
    ],
    "image": "../images/world/world-20261106-1722-04.jpg",
    "image_credit": "Irish Defence Forces / CC BY 2.0"
-  },
-  {
-   "id": "world-20261106-1926-04",
-   "published_ist": "2026-11-06T00:28:11+05:30",
-   "headline": "Paraguay ke rashtrapati Pena ne istifa diya",
-   "detail": "Ueno Bank ke doobne se laakhon khaatedaaron ke paise phans gaye, to Santiago Pena ne Guruwar ko istifa de diya; uprashtrapati Pedro Alliana unki jagah lenge.",
-   "category": "World",
-   "exam_angle": "Bank sankat se rashtrapati ka istifa — Latin America ki rajneeti aur vittiya sthirata ke liye mahatvapurna.",
-   "source": "Business Standard",
-   "source_url": "https://www.business-standard.com/amp/world-news/paraguay-president-santiago-pena-resigns-following-bank-collapse-126110600021_1.html",
-   "genuineness": "verified",
-   "outlets": [
-    "Business Standard",
-    "Reuters",
-    "CNN",
-    "Gulf News",
-    "The Straits Times"
-   ],
-   "image": "../images/world/world-20261106-1926-04.jpg",
-   "image_credit": "Presidencia del Ecuador / Public domain"
-  },
-  {
-   "id": "world-20261106-1422-01",
-   "published_ist": "2026-11-05T23:11:00+05:30",
-   "headline": "Ebola se sankramit British doctor London laya gaya",
-   "detail": "Congo me Ebola se sankramit ek British doctor ko medical evacuation flight se London laya gaya; Royal Free Hospital ki high-level isolation unit me uska ilaj chal raha hai, aur UK sarkar ke mutabik aam janta ko khatra kam hai.",
-   "category": "World",
-   "exam_angle": "Ebola prakop aur swasthya vyavastha — antarrashtriya swasthya aur manaviya sankat ke liye mahatvapurna.",
-   "source": "Punch",
-   "source_url": "https://punchng.com/ebola-uk-evacuates-infected-doctor-from-dr-congo/",
-   "genuineness": "verified",
-   "outlets": [
-    "BBC",
-    "Punch",
-    "Hillingdon Times",
-    "Manx Radio"
-   ],
-   "image": "../images/world/world-20261106-1422-01.jpg",
-   "image_credit": "CDC / Dr. Frederick A. Murphy (Public domain)"
-  },
-  {
-   "id": "world-20261106-1322-02",
-   "published_ist": "2026-11-05T20:30:00+05:30",
-   "headline": "Russell Brand balatkar ka doshi, saja Somvar",
-   "detail": "London ki Southwark Crown Court ki jury ne comedian Russell Brand ko ek balatkar aur teen yaun hamlo ka doshi paya; do balatkar ke aaropon se use bari kar diya gaya, aur judge ne Somvar ko saja sunane se pehle use hirasat me liya.",
-   "category": "World",
-   "exam_angle": null,
-   "source": "Al Jazeera",
-   "source_url": "https://www.aljazeera.com/amp/news/2026/11/5/russell-brand-found-guilty-of-rape-and-sexual-assault-by-uk-court",
-   "genuineness": "verified",
-   "outlets": [
-    "Al Jazeera",
-    "USA Today",
-    "Reuters",
-    "Malay Mail"
-   ],
-   "image": "../images/world/world-20261106-1322-02.jpg",
-   "image_credit": "Gage Skidmore / Wikimedia Commons (CC BY-SA 4.0)"
   }
  ]
 }
