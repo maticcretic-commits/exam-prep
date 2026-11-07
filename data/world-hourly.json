@@ -1,5 +1,5 @@
 {
- "updated_ist": "2026-11-07T10:24:49+05:30",
+ "updated_ist": "2026-11-07T11:26:31+05:30",
  "items": [
   {
    "id": "world-20261107-1022-02",
@@ -19,6 +19,41 @@
    ],
    "image": null,
    "image_credit": null
+  },
+  {
+   "id": "world-20261107-1126-01",
+   "published_ist": "2026-11-07T07:40:00+05:30",
+   "headline": "Guterres: COP31 jalvayu par satya ka pal",
+   "detail": "UN mahasachiv Antonio Guterres ne COP31 se pehle kaha ki jalvayu parivartan par ab 'satya ka pal' hai; 9-20 November ko Antalya me shikhar sammelan hoga, unke karyakal ka aakhri bada sandesh.",
+   "category": "World",
+   "exam_angle": "COP31, jalvayu sammelan aur Paris samjhauta ka 1.5°C lakshya — paryavaran aur antarrashtriya sangathan ke liye mahatvapurna.",
+   "source": "Associated Press",
+   "source_url": "https://www.theweek.in/wire-updates/international/2026/11/07/ap-exclusive-departing-un-chief-calls-this-moment-of-truth-in-fight-to-curb-global-warming.html",
+   "genuineness": "corroborated",
+   "outlets": [
+    "Associated Press",
+    "The Independent"
+   ],
+   "image": "../images/world/world-20261107-1126-01.jpg",
+   "image_credit": "European Commission (Christophe Licoppe) / CC BY 4.0"
+  },
+  {
+   "id": "world-20261107-1126-02",
+   "published_ist": "2026-11-07T07:38:00+05:30",
+   "headline": "Pope Leo ka 12-din ka Latin America daura",
+   "detail": "Pope Leo XIV ne fefde ke cancer ki surgery ke teen hafte baad Dakshin America ka 12-din ka daura shuru kiya; ve Uruguay, Argentina aur Peru jayenge, 17 November ko Peru me samapt hoga.",
+   "category": "World",
+   "exam_angle": "Pope Leo XIV ka pehla bada Latin America daura — Vatican aur vishva dharm ke liye mahatvapurna.",
+   "source": "Al Jazeera",
+   "source_url": "https://www.aljazeera.com/news/2026/11/6/pope-leo-arrives-in-uruguay-starting-12-day-latin-america-tour",
+   "genuineness": "verified",
+   "outlets": [
+    "Al Jazeera",
+    "AFP",
+    "Reuters"
+   ],
+   "image": "../images/world/world-20261107-1126-02.jpg",
+   "image_credit": "Al Jazeera"
   },
   {
    "id": "world-20261107-0922-04",
@@ -408,44 +443,6 @@
    ],
    "image": "../images/world/world-20261106-2226-01.jpg",
    "image_credit": "Roman Deckert / CC BY-SA 4.0"
-  },
-  {
-   "id": "world-20261106-1822-01",
-   "published_ist": "2026-11-06T13:09:31+05:30",
-   "headline": "Bondi hamle ki 16th peedit ki maut",
-   "detail": "Bondi Beach par December 2025 ke hamle me ghayal 90 saal ki Holocaust survivor Eva Geller ki aspatal me maut ho gayi; hamle me marne walon ki sankhya ab 16 ho gayi hai.",
-   "category": "World",
-   "exam_angle": "Australia me aatankwadi hamla aur samajik suraksha — antarrashtriya sambandh ke liye mahatvapurna.",
-   "source": "The Times of Israel",
-   "source_url": "https://www.timesofisrael.com/holocaust-survivor-90-injured-in-bondi-massacre-dies-nearly-a-year-after-attack/",
-   "genuineness": "verified",
-   "outlets": [
-    "The Times of Israel",
-    "New York Post",
-    "Malay Mail",
-    "Israel National News"
-   ],
-   "image": "../images/world/world-20261106-1822-01.jpg",
-   "image_credit": "Dietmar Rabich / CC BY-SA 4.0"
-  },
-  {
-   "id": "world-20261106-2025-01",
-   "published_ist": "2026-11-06T13:02:00+05:30",
-   "headline": "Judge ne Trump ke arch par rok lagayi",
-   "detail": "Judge Tanya Chutkan ne Trump ke 250-foot wale triumphal arch par 14 din ki rok lagayi, planning panel ki 8-4 se manzoori ke kuch ghante baad; sarkar ka daava hai Congress ne 100 saal pehle manzoori di thi.",
-   "category": "World",
-   "exam_angle": "America me nyaypalika aur karyapalika ke beech takraav — shakti santulan ke liye mahatvapurna.",
-   "source": "Al Jazeera",
-   "source_url": "https://www.aljazeera.com/amp/news/2026/11/6/us-judge-halts-construction-of-trumps-triumphal-arch-in-washington-dc",
-   "genuineness": "verified",
-   "outlets": [
-    "Al Jazeera",
-    "Reuters",
-    "Associated Press",
-    "The Guardian"
-   ],
-   "image": "../images/world/world-20261106-2025-01.jpg",
-   "image_credit": "C5karl / CC BY-SA 4.0"
   }
  ]
 }
