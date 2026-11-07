@@ -402,5 +402,80 @@
   ],
   "image": null,
   "image_credit": null
+ },
+ {
+  "id": "world-20261107-1322-01",
+  "published_ist": "2026-11-06T17:08:00+05:30",
+  "headline": "France me school bus haadsa, 2 ki maut",
+  "detail": "Lyon se Bourg-en-Bresse ja rahi intercity bus Lent ke paas sadak se utar kar ped se takrai; ek nabalig aur 18 saal ke yuvak ki maut hui, 16 ghayal hue jinme 3 gambhir hain.",
+  "category": "World",
+  "exam_angle": null,
+  "source": "The Hindu",
+  "source_url": "https://www.thehindu.com/news/international/bus-carrying-kids-to-school-crashes-in-france-leaving-2-dead-and-16-injured/article71674197.ece",
+  "genuineness": "verified",
+  "outlets": [
+   "Associated Press",
+   "Agence France-Presse",
+   "The Hindu",
+   "Khaleej Times"
+  ],
+  "image": "../images/world/world-20261107-1322-01.jpg",
+  "image_credit": "The Hindu"
+ },
+ {
+  "id": "world-20261107-1322-02",
+  "published_ist": "2026-11-07T08:22:00+05:30",
+  "headline": "Zelenskyy: Yuddh khatm kiye bina samjhauta khatarnak",
+  "detail": "CNN ko diye interview me Zelenskyy ne kaha, yuddh khatm kiye bina Russia-Europe ke beech naya suraksha samjhauta khatarnak hoga, khaas taur par EU ke liye; Ukraine, America aur Russia ke beech ek hafte me trilateral baatchit hogi.",
+  "category": "World",
+  "exam_angle": "Russia-Ukraine yuddh aur Europe ki suraksha vyavastha — antarrashtriya sambandh ke liye mahatvapurna.",
+  "source": "Tribune India",
+  "source_url": "https://www.tribuneindia.com/news/world/zelenskyy-warns-against-russia-europe-security-deal-says-it-could-be-dangerous-for-eu/",
+  "genuineness": "verified",
+  "outlets": [
+   "CNN",
+   "ANI",
+   "The New Voice of Ukraine",
+   "RBC-Ukraine"
+  ],
+  "image": null,
+  "image_credit": null
+ },
+ {
+  "id": "world-20261107-1322-03",
+  "published_ist": "2026-11-07T00:19:00+05:30",
+  "headline": "Khadi me tanker par hamla, navik ki maut",
+  "detail": "Marshall Islands ke tanker MT Velos Sapphire par Khadi me sandehspad missile hamle ke baad visfot hua; operator Velos Tankers ne ek navik ki maut ki pushti ki, jahaz Bahrain le jaya gaya.",
+  "category": "World",
+  "exam_angle": "Hormuz jalmarg aur samudri suraksha — antarrashtriya vyapar ke liye mahatvapurna.",
+  "source": "The New Indian Express",
+  "source_url": "https://www.newindianexpress.com/amp/story/world/2026/Nov/06/sailor-killed-in-gulf-as-iran-says-tankers-on-fire",
+  "genuineness": "verified",
+  "outlets": [
+   "Reuters",
+   "Gulf News",
+   "The New Indian Express",
+   "Seatrade Maritime"
+  ],
+  "image": null,
+  "image_credit": null
+ },
+ {
+  "id": "world-20261107-1322-04",
+  "published_ist": "2026-11-07T12:44:00+05:30",
+  "headline": "Iran ne parmanu sthalon ke paas iodine baanta",
+  "detail": "America ke hamle ke dar ke beech Iran ne apne parmanu sthalon ke paas rehne wale logon ko iodine ki goliyan baantni shuru kar di hain; The Times of London ki report ke anusar Pickaxe Mountain sthal par hamle ki aashanka hai.",
+  "category": "World",
+  "exam_angle": "Iran parmanu karyakram aur America se tanav — antarrashtriya sambandh ke liye mahatvapurna.",
+  "source": "Times Now",
+  "source_url": "https://www.timesnownews.com/world/middle-east/iran-distributes-anti-radiation-pills-as-trump-threatens-to-destroy-the-rest-of-the-country-article-156478324",
+  "genuineness": "corroborated",
+  "outlets": [
+   "The Times of London",
+   "Al Jazeera",
+   "Times Now"
+  ],
+  "image": null,
+  "image_credit": null
  }
 ]
