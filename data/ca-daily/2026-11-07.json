@@ -142,6 +142,76 @@
     ],
     "answer_index": 2
    }
+  },
+  {
+   "episode": 91,
+   "video_hi": "5mm4KK5noyA",
+   "video_hinglish": "5mm4KK5noyA",
+   "capsules": [
+    {
+     "id": "ca-ep91-s1",
+     "headline_hi": "Bihar AI Policy: 1 crore naukriyon ka lakshya",
+     "headline_hinglish": "Bihar AI Policy: 1 crore naukriyon ka lakshya",
+     "detail_hi": "Bihar Cabinet ne AI Policy 2026 aur MSME Policy 2026 ko swikriti di; MSME se paanch saal mein ek crore naukriyon ka lakshya hai.",
+     "detail_hinglish": "Bihar Cabinet ne AI Policy 2026 aur MSME Policy 2026 ko swikriti di; MSME se paanch saal mein ek crore naukriyon ka lakshya hai.",
+     "category_hi": "Polity",
+     "category_en": "Polity"
+    },
+    {
+     "id": "ca-ep91-s2",
+     "headline_hi": "137 cancer dawaiyon ke daam 70% tak kam",
+     "headline_hinglish": "137 cancer dawaiyon ke daam 70% tak kam",
+     "detail_hi": "NPPA ne 137 anti-cancer dawaiyon par trade margin 30% tak seemit kiya; naye daam 9 November se lagu honge.",
+     "detail_hinglish": "NPPA ne 137 anti-cancer dawaiyon par trade margin 30% tak seemit kiya; naye daam 9 November se lagu honge.",
+     "category_hi": "Health",
+     "category_en": "Health"
+    },
+    {
+     "id": "ca-ep91-s3",
+     "headline_hi": "Bharat-Myanmar ki pehli exercise Rahat Mitra",
+     "headline_hinglish": "Bharat-Myanmar ki pehli exercise Rahat Mitra",
+     "detail_hi": "Bharat aur Myanmar ne Chennai mein pehli tri-services HADR exercise 'Rahat Mitra' paanch se saat November tak ki.",
+     "detail_hinglish": "Bharat aur Myanmar ne Chennai mein pehli tri-services HADR exercise 'Rahat Mitra' paanch se saat November tak ki.",
+     "category_hi": "Defence",
+     "category_en": "Defence"
+    },
+    {
+     "id": "ca-ep91-s4",
+     "headline_hi": "UNESCO register mein Rajatarangini aur Arthashastra",
+     "headline_hinglish": "UNESCO register mein Rajatarangini aur Arthashastra",
+     "detail_hi": "UNESCO ne Rajatarangini, Mahabharata pandulipi aur Kautilya ke Arthashastra ko Asia-Pacific register mein shamil kiya.",
+     "detail_hinglish": "UNESCO ne Rajatarangini, Mahabharata pandulipi aur Kautilya ke Arthashastra ko Asia-Pacific register mein shamil kiya.",
+     "category_hi": "Culture",
+     "category_en": "National"
+    },
+    {
+     "id": "ca-ep91-s5",
+     "headline_hi": "CBSE board pariksha 16 February se shuru",
+     "headline_hinglish": "CBSE board pariksha 16 February se shuru",
+     "detail_hi": "CBSE ne Class 10 aur 12 board pariksha 2027 ki date sheet jaari ki; parikshayein 16 February 2027 se shuru hongi.",
+     "detail_hinglish": "CBSE ne Class 10 aur 12 board pariksha 2027 ki date sheet jaari ki; parikshayein 16 February 2027 se shuru hongi.",
+     "category_hi": "Education",
+     "category_en": "Education"
+    }
+   ],
+   "mcq": {
+    "id": "ca-ep91-mcq",
+    "q_hi": "NPPA ne kitni anti-cancer dawaiyon par trade margin ki seema lagayi?",
+    "q_hinglish": "NPPA ne kitni anti-cancer dawaiyon par trade margin ki seema lagayi?",
+    "options_hi": [
+     "97",
+     "137",
+     "152",
+     "201"
+    ],
+    "options_hinglish": [
+     "97",
+     "137",
+     "152",
+     "201"
+    ],
+    "answer_index": 1
+   }
   }
  ]
 }
