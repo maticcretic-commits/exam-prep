@@ -212,6 +212,76 @@
     ],
     "answer_index": 1
    }
+  },
+  {
+   "episode": 92,
+   "video_hi": "5CKCXvqAEC0",
+   "video_hinglish": "5CKCXvqAEC0",
+   "capsules": [
+    {
+     "id": "ca-ep92-s1",
+     "headline_hi": "VISTAR: statistics system ka AI-ready upgrade",
+     "headline_hinglish": "VISTAR: statistics system ka AI-ready upgrade",
+     "detail_hi": "Cabinet ne 4,371 crore ki VISTAR Scheme ko manzoori di; real-time, AI-ready statistics system banega aur 8th Economic Census bhi hogi.",
+     "detail_hinglish": "Cabinet ne 4,371 crore ki VISTAR Scheme ko manzoori di; real-time, AI-ready statistics system banega aur 8th Economic Census bhi hogi.",
+     "category_hi": "Economy",
+     "category_en": "Economy"
+    },
+    {
+     "id": "ca-ep92-s2",
+     "headline_hi": "Pralay missile ka safal test Odisha coast se",
+     "headline_hinglish": "Pralay missile ka safal test Odisha coast se",
+     "detail_hi": "DRDO ne 5 November ko Odisha ke Abdul Kalam Island se swadeshi quasi-ballistic missile Pralay ka safal parikshan kiya.",
+     "detail_hinglish": "DRDO ne 5 November ko Odisha ke Abdul Kalam Island se swadeshi quasi-ballistic missile Pralay ka safal parikshan kiya.",
+     "category_hi": "Defence",
+     "category_en": "Defence"
+    },
+    {
+     "id": "ca-ep92-s3",
+     "headline_hi": "Semicon 2.0 portal: chip mission ka naya daur",
+     "headline_hinglish": "Semicon 2.0 portal: chip mission ka naya daur",
+     "detail_hi": "Mantri Ashwini Vaishnaw ne 6 November ko Semicon 2.0 portal launch kiya; 12 ECMS approvals bhi diye gaye.",
+     "detail_hinglish": "Mantri Ashwini Vaishnaw ne 6 November ko Semicon 2.0 portal launch kiya; 12 ECMS approvals bhi diye gaye.",
+     "category_hi": "Technology",
+     "category_en": "Technology"
+    },
+    {
+     "id": "ca-ep92-s4",
+     "headline_hi": "Tanvi Patri: Youth Olympics mein silver jeeta",
+     "headline_hinglish": "Tanvi Patri: Youth Olympics mein silver jeeta",
+     "detail_hi": "15 saal ki Tanvi Patri ne Dakar Youth Olympic Games mein badminton women's singles ka silver jeeta.",
+     "detail_hinglish": "15 saal ki Tanvi Patri ne Dakar Youth Olympic Games mein badminton women's singles ka silver jeeta.",
+     "category_hi": "Sports",
+     "category_en": "Sports"
+    },
+    {
+     "id": "ca-ep92-s5",
+     "headline_hi": "Fast Track Courts 2031 tak, 850 courts honge",
+     "headline_hinglish": "Fast Track Courts 2031 tak, 850 courts honge",
+     "detail_hi": "Cabinet ne Fast Track Special Courts scheme March 2031 tak badhayi; 3,788 crore ka outlay, courts 779 se 850 honge.",
+     "detail_hinglish": "Cabinet ne Fast Track Special Courts scheme March 2031 tak badhayi; 3,788 crore ka outlay, courts 779 se 850 honge.",
+     "category_hi": "Polity",
+     "category_en": "Polity"
+    }
+   ],
+   "mcq": {
+    "id": "ca-ep92-mcq",
+    "q_hi": "VISTAR Scheme ke liye Cabinet ne kitne crore ka outlay manzoor kiya?",
+    "q_hinglish": "VISTAR Scheme ke liye Cabinet ne kitne crore ka outlay manzoor kiya?",
+    "options_hi": [
+     "2,814 crore",
+     "3,788.04 crore",
+     "4,371.10 crore",
+     "6,550 crore"
+    ],
+    "options_hinglish": [
+     "2,814 crore",
+     "3,788.04 crore",
+     "4,371.10 crore",
+     "6,550 crore"
+    ],
+    "answer_index": 2
+   }
   }
  ]
 }
