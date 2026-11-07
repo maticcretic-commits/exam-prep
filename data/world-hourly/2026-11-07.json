@@ -619,5 +619,62 @@
   ],
   "image": null,
   "image_credit": null
+ },
+ {
+  "id": "world-20261107-1926-01",
+  "published_ist": "2026-11-07T03:46:00+05:30",
+  "headline": "Hormuz: IMO ke anusar 25 navikon ki maut",
+  "detail": "Sanyukt Rashtra ki samudri sanstha IMO ne kaha 28 February se Hormuz sangharsh me kam se kam 25 navikon ki maut hui aur 130 se zyada vyaapaarik jahazon par hamle hue; taaza shikar 5 November ko Velos Sapphire par mara navik tha.",
+  "category": "World",
+  "exam_angle": "Hormuz jalmarg, IMO aur samudri suraksha — antarrashtriya vyapar aur suraksha ke liye mahatvapurna.",
+  "source": "Trend.az",
+  "source_url": "https://www.trend.az/world/us/4243983.html",
+  "genuineness": "verified",
+  "outlets": [
+   "IMO",
+   "Marine Insight",
+   "Trend.az",
+   "Logistics News"
+  ],
+  "image": "../images/world/world-20261107-1926-01.jpg",
+  "image_credit": "NASA, public domain (Wikimedia Commons)"
+ },
+ {
+  "id": "world-20261107-1926-02",
+  "published_ist": "2026-11-07T08:12:00+05:30",
+  "headline": "Houston: Police ab ICE ko kam sahyog degi",
+  "detail": "Houston ke Mayor John Whitmire ne karyakari aadesh se police ko nirdesh diya ki ab ICE ko sirf tab suchit kiya jaye jab giraftaar vyakti par jail yogya aarop ho aur ICE warrant bhi ho; mamuli traffic rok par sirf challan milega, koi suchna nahi.",
+  "category": "World",
+  "exam_angle": "America me sthaniya police aur sanghiya immigration pravartan — sanghwad aur rajneeti ke liye mahatvapurna.",
+  "source": "Reuters",
+  "source_url": "https://www.reuters.com/legal/government/houston-mayor-curtails-police-cooperation-with-ice-saying-elections-matter-2026-11-07/",
+  "genuineness": "verified",
+  "outlets": [
+   "Reuters",
+   "BBC",
+   "Associated Press",
+   "USA Today"
+  ],
+  "image": null,
+  "image_credit": null
+ },
+ {
+  "id": "world-20261107-1926-03",
+  "published_ist": "2026-11-06T19:23:00+05:30",
+  "headline": "Tesla Cybertruck band, jagah legi Cybercab",
+  "detail": "Elon Musk ne kaha Tesla agle saal ke madhya se Texas factory me Cybertruck ka utpadan kam karegi taaki usi jagah Cybercab robotaxi ka utpadan badhaya ja sake; Cybertruck ke mukhya engineer ne bhi iske ant ka sanket diya.",
+  "category": "World",
+  "exam_angle": "Tesla ka robotaxi ki taraf badlav — EV aur swachaalit vaahan udyog ke liye mahatvapurna.",
+  "source": "The Drive",
+  "source_url": "https://www.thedrive.com/news/the-tesla-cybertruck-will-die-next-year-so-the-cybercab-can-live-tds",
+  "genuineness": "verified",
+  "outlets": [
+   "The Drive",
+   "USA Today",
+   "CNN",
+   "Business Insider"
+  ],
+  "image": "../images/world/world-20261107-1926-03.jpg",
+  "image_credit": "Alexander-93, CC BY-SA 4.0 (Wikimedia Commons)"
  }
 ]
