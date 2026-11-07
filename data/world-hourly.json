@@ -1,6 +1,25 @@
 {
- "updated_ist": "2026-11-07T09:28:10+05:30",
+ "updated_ist": "2026-11-07T10:24:49+05:30",
  "items": [
+  {
+   "id": "world-20261107-1022-02",
+   "published_ist": "2026-11-07T08:01:00+05:30",
+   "headline": "FDA: Zolgensma gene therapy se tumour ka khatra",
+   "detail": "America ki FDA ne Novartis ki Zolgensma gene therapy se tumour ke khatre ki jaanch shuru ki; do bachchon me vector ke DNA judne ke saboot mile, kul nau mamle darj hue.",
+   "category": "World",
+   "exam_angle": "Gene therapy ki suraksha aur FDA ki nigrani — swasthya aur vigyan ke liye mahatvapurna.",
+   "source": "FDA",
+   "source_url": "https://www.fda.gov/vaccines-blood-biologics/safety-availability-biologics/fda-investigating-serious-risk-malignancy-linked-zolgensma-gene-therapy",
+   "genuineness": "verified",
+   "outlets": [
+    "FDA",
+    "Reuters",
+    "South China Morning Post",
+    "The Hindu BusinessLine"
+   ],
+   "image": null,
+   "image_credit": null
+  },
   {
    "id": "world-20261107-0922-04",
    "published_ist": "2026-11-07T07:27:00+05:30",
@@ -93,6 +112,25 @@
    ],
    "image": "../images/world/world-20261107-0722-02.jpg",
    "image_credit": "Kyiv Independent"
+  },
+  {
+   "id": "world-20261107-1022-01",
+   "published_ist": "2026-11-07T02:34:00+05:30",
+   "headline": "Amsterdam me Microsoft data centre par pradarshan",
+   "detail": "Amsterdam me saikadon pradarshankari Microsoft ke data centre ke nirman sthal me ghus gaye, crane par chadhe aur flare jalaye; police ne 150-200 logon ko giraftar kiya.",
+   "category": "World",
+   "exam_angle": "Europe me data centre virodh aur AI ki urja maang — paryavaran aur takneek ke liye mahatvapurna.",
+   "source": "Al Jazeera",
+   "source_url": "https://www.aljazeera.com/amp/news/2026/11/6/protesters-break-into-microsoft-data-centre-site-in-amsterdam",
+   "genuineness": "verified",
+   "outlets": [
+    "Associated Press",
+    "Al Jazeera",
+    "Reuters",
+    "Bloomberg"
+   ],
+   "image": "../images/world/world-20261107-1022-01.jpg",
+   "image_credit": "Al Jazeera"
   },
   {
    "id": "world-20261107-0622-02",
@@ -408,45 +446,6 @@
    ],
    "image": "../images/world/world-20261106-2025-01.jpg",
    "image_credit": "C5karl / CC BY-SA 4.0"
-  },
-  {
-   "id": "world-20261106-2226-03",
-   "published_ist": "2026-11-06T12:52:00+05:30",
-   "headline": "Houthi ka Dammam airport par hamle ka daava",
-   "detail": "Houthi ne Guruvar ko Dammam ke King Fahd International Airport par drone hamle ka daava kiya; Saudi netritva wale gathbandhan ne Madina ki ore missile aur purvi prant me drone rokne ka daava kiya, lekin swatantra pushti nahi hui.",
-   "category": "World",
-   "exam_angle": "Yemen yuddh aur Khadi me tanav — antarrashtriya sambandh ke liye mahatvapurna.",
-   "source": "Bastille Post",
-   "source_url": "https://www.bastillepost.com/global/article/6333028-houthis-claim-saudi-airport-attack-as-saudi-led-coalition-says-intercepted-missile-drone",
-   "genuineness": "verified",
-   "outlets": [
-    "Bastille Post",
-    "APA",
-    "Voice of Emirates",
-    "Siasat"
-   ],
-   "image": "../images/world/world-20261106-2226-03.jpg",
-   "image_credit": "Ashashyou / CC BY-SA 3.0"
-  },
-  {
-   "id": "world-20261106-1422-03",
-   "published_ist": "2026-11-06T11:41:00+05:30",
-   "headline": "Trump: Russia-Ukraine samjhauta 'bahut kareeb'",
-   "detail": "Trump ne White House me kaha Russia-Ukraine yuddh khatm karne ka samjhauta bahut kareeb hai aur isme pura Europe shamil ho sakta hai; unhone Putin ke doot Kirill Dmitriev se mulaqat ki pushti ki, jabki Abu Dhabi me 10-11 November ko trilateral baatchit tay hai.",
-   "category": "World",
-   "exam_angle": "Russia-Ukraine yuddh aur shanti vaarta — antarrashtriya sambandh ke liye mahatvapurna.",
-   "source": "The Hindu BusinessLine",
-   "source_url": "https://www.thehindubusinessline.com/news/world/trump-expects-russia-ukraine-peace-deal-soon-says-agreement-could-involve-all-of-europe/article71671869.ece",
-   "genuineness": "verified",
-   "outlets": [
-    "The Hindu BusinessLine",
-    "China Daily",
-    "The Week",
-    "Yeni Safak",
-    "Korea Herald"
-   ],
-   "image": "../images/world/world-20261106-1422-03.jpg",
-   "image_credit": "Daniel Torok / White House (Public domain)"
   }
  ]
 }
