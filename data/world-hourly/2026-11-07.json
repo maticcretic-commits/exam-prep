@@ -734,5 +734,100 @@
   ],
   "image": null,
   "image_credit": null
+ },
+ {
+  "id": "world-20261107-2125-01",
+  "published_ist": "2026-11-07T18:58:00+05:30",
+  "headline": "Kyiv: Raat bhar missile-drones, bridge toota",
+  "detail": "Russia ne raat ko Kyiv aur aas-paas par 36 ballistic missile aur 172 drone daage; Northern Bridge aur bijli-paani ki suvidhaon ko nuksan pahuncha, ek ki maut aur nau ghayal hue.",
+  "category": "World",
+  "exam_angle": "Abu Dhabi me mangalvar se Russia-Ukraine-America ki trilateral vaarta se pehle hamla — yuddh aur vaarta, dono ek saath.",
+  "source": "AP",
+  "source_url": "https://www.theweek.in/wire-updates/international/2026/11/07/missile-attacks-wound-9-as-ukraine-prepares-for-talks-with-russia-us.html",
+  "genuineness": "verified",
+  "outlets": [
+   "AP",
+   "Reuters",
+   "Kyiv Post",
+   "The New Voice of Ukraine"
+  ],
+  "image": null,
+  "image_credit": null
+ },
+ {
+  "id": "world-20261107-2125-02",
+  "published_ist": "2026-11-07T17:28:00+05:30",
+  "headline": "Iran ne missile range ki seema hatayi",
+  "detail": "Iran ke Revolutionary Guard ne apni ballistic missile par 2,000 kilometer ki khud ki seema hata li; pravakta ne kaha kshamata ko 'vyavhar me dikhaya jayega', maujooda missile ki pushti nahi ki.",
+  "category": "World",
+  "exam_angle": "Madhya Purv me tanaav aur Bharat ki urja suraksha — Hormuz marg par asar.",
+  "source": "AP",
+  "source_url": "https://www.theweek.in/wire-updates/international/2026/11/07/iran-says-it-has-lifted-its-self-imposed-limit-on-missile-ranges-and-other-mideast-news.html",
+  "genuineness": "verified",
+  "outlets": [
+   "AP",
+   "Times of Israel",
+   "Gulf News",
+   "Times of India"
+  ],
+  "image": null,
+  "image_credit": null
+ },
+ {
+  "id": "world-20261107-2125-03",
+  "published_ist": "2026-11-07T07:25:00+05:30",
+  "headline": "America: Khasra 35 saal me sabse zyada",
+  "detail": "America me 2026 me ab tak khasure ke 5,182 mamle darj hue — 1991 ke baad sabse zyada; zyadatar sankramit bina teeka ke the, Pennsylvania sabse zyada prabhavit.",
+  "category": "World",
+  "exam_angle": "Teeka-karan coverage me girawat aur uske parinam — swasthya neeti aur jan-swasthya ke liye mahatvapurna.",
+  "source": "Al Jazeera",
+  "source_url": "https://www.aljazeera.com/amp/news/2026/11/7/cdc-reports-more-than-5000-measles-cases-highest-number-in-35-years",
+  "genuineness": "verified",
+  "outlets": [
+   "Al Jazeera",
+   "AFP",
+   "Arab News",
+   "Le Temps"
+  ],
+  "image": null,
+  "image_credit": null
+ },
+ {
+  "id": "world-20261107-2125-04",
+  "published_ist": "2026-11-07T00:41:00+05:30",
+  "headline": "Trump: Stephen Miller naye chief of staff",
+  "detail": "Trump ne Stephen Miller ko White House chief of staff banaya, Susie Wiles ki jagah; Miller 9 November se pad sambhalenge, Wiles ab Trump ki political operation me jayengi.",
+  "category": "World",
+  "exam_angle": "Midterm haar ke baad White House me bada ferbadal — Trump prashasan ki aage ki disha ka sanket.",
+  "source": "USA Today",
+  "source_url": "https://www.usatoday.com/story/news/politics/2026/11/06/trump-stephen-miller-susie-wiles-chief-of-staff/92645599007/",
+  "genuineness": "verified",
+  "outlets": [
+   "USA Today",
+   "CNN",
+   "Le Monde",
+   "NPR"
+  ],
+  "image": null,
+  "image_credit": null
+ },
+ {
+  "id": "world-20261107-2125-05",
+  "published_ist": "2026-11-06T17:01:00+05:30",
+  "headline": "Europe: Jhoothi bomb dhamkiyon se udanein thap",
+  "detail": "Shukravar ko Europe me phir jhoothi bomb dhamkiyon ki lehar — kai udanein divert hui, ladaku vimanon ne escort kiya; sabhi viman surakshit utre, koi visfotak nahi mila; Ireland me RTE ka mukhyalaya khali karaya gaya.",
+  "category": "World",
+  "exam_angle": null,
+  "source": "AP",
+  "source_url": "https://www.etvbharat.com/en/international/european-air-traffic-targeted-by-new-threats-in-at-least-3-incidents-enn26110604866",
+  "genuineness": "verified",
+  "outlets": [
+   "AP",
+   "The Guardian",
+   "BBC",
+   "NPR"
+  ],
+  "image": null,
+  "image_credit": null
  }
 ]
