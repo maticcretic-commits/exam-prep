@@ -163,5 +163,62 @@
   ],
   "image": null,
   "image_credit": null
+ },
+ {
+  "id": "world-20261107-0822-01",
+  "published_ist": "2026-11-07T03:51:00+05:30",
+  "headline": "America me khasa 35 saal me sabse zyada",
+  "detail": "CDC ke anusar 2026 me America me khasa ke 5,182 mamle mile — 1991 ke baad sabse zyada; kam se kam 8 logon ki maut hui.",
+  "category": "World",
+  "exam_angle": "America me khasa ka punarutthan aur teekakaran — swasthya aur UPSC ke liye mahatvapurna.",
+  "source": "WION",
+  "source_url": "https://www.wionews.com/world/us-records-over-5-000-measles-cases-at-least-eight-deaths-as-outbreak-reaches-35-year-high-1794000742035/amp",
+  "genuineness": "verified",
+  "outlets": [
+   "WION",
+   "Free Malaysia Today",
+   "The Straits Times",
+   "Times of Israel"
+  ],
+  "image": null,
+  "image_credit": null
+ },
+ {
+  "id": "world-20261107-0822-02",
+  "published_ist": "2026-11-06T16:48:00+05:30",
+  "headline": "Europe me nakli bomb dhamkiyon se udane thap",
+  "detail": "Guruvar ko Europe bhar me kam se kam 27 udanein nakli bomb dhamkiyon se prabhavit hui; ladaku vimanon ne kai vimanon ko suraksha jaanch ke liye utara, koi visfotak nahi mila.",
+  "category": "World",
+  "exam_angle": "Europe me hybrid yuddh aur vimanan suraksha — antarrashtriya sambandh ke liye mahatvapurna.",
+  "source": "Al Jazeera",
+  "source_url": "https://www.aljazeera.com/news/2026/11/6/hoax-or-bomb-threats-what-we-know-about-flight-disruptions-across-europe",
+  "genuineness": "verified",
+  "outlets": [
+   "Al Jazeera",
+   "Malay Mail",
+   "Channel News Asia",
+   "Free Malaysia Today"
+  ],
+  "image": "../images/world/world-20261107-0822-02.jpg",
+  "image_credit": "Al Jazeera"
+ },
+ {
+  "id": "world-20261107-0822-03",
+  "published_ist": "2026-11-06T04:17:00+05:30",
+  "headline": "Trump: factory na banane par 300% tariff",
+  "detail": "Trump ne kaha America me factory na banane wali videshi companiyon par 300% tak tariff lag sakta hai; midterm haar ke baad bhi ve tariff niti par kayam hain.",
+  "category": "World",
+  "exam_angle": "America ki vyapar niti aur tariff — Bharat ke niryaat aur vaishvik vyapar ke liye mahatvapurna.",
+  "source": "The Herald Business",
+  "source_url": "https://biz.heraldcorp.com/article/10927806",
+  "genuineness": "verified",
+  "outlets": [
+   "The Herald Business",
+   "MK",
+   "Seoul Economic Daily",
+   "Aju Press"
+  ],
+  "image": null,
+  "image_credit": null
  }
 ]
