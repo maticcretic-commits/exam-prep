@@ -1,0 +1,78 @@
+[
+ {
+  "id": "world-20261107-0622-01",
+  "published_ist": "2026-11-07T05:13:00+05:30",
+  "headline": "Paraguay: Rashtrapati Pena hataye gaye, nazarband",
+  "detail": "Paraguay ki Senate ne Ueno Bank ghotala ke baad Rashtrapati Santiago Pena ko mahaabhiyog se hataya; ve ghar me nazarband hain, aur Up-Rashtrapati Pedro Alliana ne shapath li.",
+  "category": "World",
+  "exam_angle": "Paraguay me rashtrapati par mahaabhiyog — Latin America ki rajneeti ke liye mahatvapurna.",
+  "source": "NDTV",
+  "source_url": "https://www.ndtv.com/world-news/paraguay-president-santiago-pena-impeached-placed-under-house-arrest-over-bank-scandal-pedro-alliana-sworn-in-as-new-president-12295240",
+  "genuineness": "verified",
+  "outlets": [
+   "Associated Press",
+   "CNN",
+   "NDTV",
+   "South China Morning Post"
+  ],
+  "image": "../images/world/world-20261107-0622-01.jpg",
+  "image_credit": "Office of the President, Taiwan / CC BY 4.0"
+ },
+ {
+  "id": "world-20261107-0622-02",
+  "published_ist": "2026-11-07T00:38:00+05:30",
+  "headline": "Miller bane Trump ke chief of staff",
+  "detail": "Trump ne Stephen Miller ko White House chief of staff banaya; Susie Wiles ne midterm haar ke baad istifa diya, Miller 9 November se pad sambhalenge.",
+  "category": "World",
+  "exam_angle": "America ke White House me bada badlav — midterm chunaav ke baad ki rajneeti.",
+  "source": "USA Today",
+  "source_url": "https://www.usatoday.com/story/news/politics/2026/11/06/trump-stephen-miller-susie-wiles-chief-of-staff/92645599007/",
+  "genuineness": "verified",
+  "outlets": [
+   "USA Today",
+   "CNN",
+   "Al Jazeera",
+   "The Times"
+  ],
+  "image": "../images/world/world-20261107-0622-02.jpg",
+  "image_credit": "White House / Public domain"
+ },
+ {
+  "id": "world-20261107-0622-03",
+  "published_ist": "2026-11-06T21:48:00+05:30",
+  "headline": "Congo me hamle me 33 ki maut",
+  "detail": "Purvi Congo ke Cantine gaon me ADF ladakon ke hamle me kam se kam 33 log mare gaye; Ebola ke marijo ko swasthya kendra se bhaagna pada.",
+  "category": "World",
+  "exam_angle": "Congo me Ebola aur sashastr hinsa — Africa ki swasthya aur suraksha chunauti.",
+  "source": "Reuters",
+  "source_url": "https://www.reuters.com/world/africa/islamist-militants-force-ebola-patients-flee-deadly-congo-raid-2026-11-06/",
+  "genuineness": "verified",
+  "outlets": [
+   "Reuters",
+   "Associated Press",
+   "UN News",
+   "Al Jazeera"
+  ],
+  "image": null,
+  "image_credit": null
+ },
+ {
+  "id": "world-20261107-0622-04",
+  "published_ist": "2026-11-06T19:28:00+05:30",
+  "headline": "America me October me 1.65 lakh naukriyan",
+  "detail": "America me October me 1,65,000 naukriyan judi aur berozgari 4.1% rahi; BLS ke anusar bharti September se zyada rahi.",
+  "category": "World",
+  "exam_angle": "America ki rozgar report — vaishvik arthvyavastha aur Fed ke liye mahatvapurna.",
+  "source": "The Tribune",
+  "source_url": "https://www.tribuneindia.com/news/business/us-nonfarm-payrolls-rise-by-165000-in-october-over-three-times-12-month-average/amp/",
+  "genuineness": "verified",
+  "outlets": [
+   "Reuters",
+   "USA Today",
+   "The Tribune",
+   "The Edge Singapore"
+  ],
+  "image": null,
+  "image_credit": null
+ }
+]
