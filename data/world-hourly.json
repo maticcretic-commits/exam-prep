@@ -1,6 +1,63 @@
 {
- "updated_ist": "2026-11-07T18:25:16+05:30",
+ "updated_ist": "2026-11-07T19:27:07+05:30",
  "items": [
+  {
+   "id": "world-20261107-1926-01",
+   "published_ist": "2026-11-07T03:46:00+05:30",
+   "headline": "Hormuz: IMO ke anusar 25 navikon ki maut",
+   "detail": "Sanyukt Rashtra ki samudri sanstha IMO ne kaha 28 February se Hormuz sangharsh me kam se kam 25 navikon ki maut hui aur 130 se zyada vyaapaarik jahazon par hamle hue; taaza shikar 5 November ko Velos Sapphire par mara navik tha.",
+   "category": "World",
+   "exam_angle": "Hormuz jalmarg, IMO aur samudri suraksha — antarrashtriya vyapar aur suraksha ke liye mahatvapurna.",
+   "source": "Trend.az",
+   "source_url": "https://www.trend.az/world/us/4243983.html",
+   "genuineness": "verified",
+   "outlets": [
+    "IMO",
+    "Marine Insight",
+    "Trend.az",
+    "Logistics News"
+   ],
+   "image": "../images/world/world-20261107-1926-01.jpg",
+   "image_credit": "NASA, public domain (Wikimedia Commons)"
+  },
+  {
+   "id": "world-20261107-1926-02",
+   "published_ist": "2026-11-07T08:12:00+05:30",
+   "headline": "Houston: Police ab ICE ko kam sahyog degi",
+   "detail": "Houston ke Mayor John Whitmire ne karyakari aadesh se police ko nirdesh diya ki ab ICE ko sirf tab suchit kiya jaye jab giraftaar vyakti par jail yogya aarop ho aur ICE warrant bhi ho; mamuli traffic rok par sirf challan milega, koi suchna nahi.",
+   "category": "World",
+   "exam_angle": "America me sthaniya police aur sanghiya immigration pravartan — sanghwad aur rajneeti ke liye mahatvapurna.",
+   "source": "Reuters",
+   "source_url": "https://www.reuters.com/legal/government/houston-mayor-curtails-police-cooperation-with-ice-saying-elections-matter-2026-11-07/",
+   "genuineness": "verified",
+   "outlets": [
+    "Reuters",
+    "BBC",
+    "Associated Press",
+    "USA Today"
+   ],
+   "image": null,
+   "image_credit": null
+  },
+  {
+   "id": "world-20261107-1926-03",
+   "published_ist": "2026-11-06T19:23:00+05:30",
+   "headline": "Tesla Cybertruck band, jagah legi Cybercab",
+   "detail": "Elon Musk ne kaha Tesla agle saal ke madhya se Texas factory me Cybertruck ka utpadan kam karegi taaki usi jagah Cybercab robotaxi ka utpadan badhaya ja sake; Cybertruck ke mukhya engineer ne bhi iske ant ka sanket diya.",
+   "category": "World",
+   "exam_angle": "Tesla ka robotaxi ki taraf badlav — EV aur swachaalit vaahan udyog ke liye mahatvapurna.",
+   "source": "The Drive",
+   "source_url": "https://www.thedrive.com/news/the-tesla-cybertruck-will-die-next-year-so-the-cybercab-can-live-tds",
+   "genuineness": "verified",
+   "outlets": [
+    "The Drive",
+    "USA Today",
+    "CNN",
+    "Business Insider"
+   ],
+   "image": "../images/world/world-20261107-1926-03.jpg",
+   "image_credit": "Alexander-93, CC BY-SA 4.0 (Wikimedia Commons)"
+  },
   {
    "id": "world-20261107-1822-01",
    "published_ist": "2026-11-07T17:52:00+05:30",
@@ -383,62 +440,6 @@
    ],
    "image": "../images/world/world-20261107-1022-01.jpg",
    "image_credit": "Al Jazeera"
-  },
-  {
-   "id": "world-20261107-0622-02",
-   "published_ist": "2026-11-07T00:38:00+05:30",
-   "headline": "Miller bane Trump ke chief of staff",
-   "detail": "Trump ne Stephen Miller ko White House chief of staff banaya; Susie Wiles ne midterm haar ke baad istifa diya, Miller 9 November se pad sambhalenge.",
-   "category": "World",
-   "exam_angle": "America ke White House me bada badlav — midterm chunaav ke baad ki rajneeti.",
-   "source": "USA Today",
-   "source_url": "https://www.usatoday.com/story/news/politics/2026/11/06/trump-stephen-miller-susie-wiles-chief-of-staff/92645599007/",
-   "genuineness": "verified",
-   "outlets": [
-    "USA Today",
-    "CNN",
-    "Al Jazeera",
-    "The Times"
-   ],
-   "image": "../images/world/world-20261107-0622-02.jpg",
-   "image_credit": "White House / Public domain"
-  },
-  {
-   "id": "world-20261107-0722-05",
-   "published_ist": "2026-11-07T00:32:00+05:30",
-   "headline": "Rubio ki pehli videsh yatra: Paris me G7 baithak",
-   "detail": "America ke Videsh Mantri Marco Rubio 8-10 November ko Paris me G7 videsh mantriyon se milenge; midterm haar ke baad ye unki pehli videsh yatra hai.",
-   "category": "World",
-   "exam_angle": "G7 videsh mantri baithak — Ukraine aur Iran par charcha.",
-   "source": "Reuters",
-   "source_url": "https://www.reuters.com/world/europe/rubio-travel-paris-meet-g7-foreign-ministers-next-week-2026-11-06/",
-   "genuineness": "verified",
-   "outlets": [
-    "Reuters",
-    "Associated Press",
-    "Macau Business"
-   ],
-   "image": null,
-   "image_credit": null
-  },
-  {
-   "id": "world-20261107-1322-03",
-   "published_ist": "2026-11-07T00:19:00+05:30",
-   "headline": "Khadi me tanker par hamla, navik ki maut",
-   "detail": "Marshall Islands ke tanker MT Velos Sapphire par Khadi me sandehspad missile hamle ke baad visfot hua; operator Velos Tankers ne ek navik ki maut ki pushti ki, jahaz Bahrain le jaya gaya.",
-   "category": "World",
-   "exam_angle": "Hormuz jalmarg aur samudri suraksha — antarrashtriya vyapar ke liye mahatvapurna.",
-   "source": "The New Indian Express",
-   "source_url": "https://www.newindianexpress.com/amp/story/world/2026/Nov/06/sailor-killed-in-gulf-as-iran-says-tankers-on-fire",
-   "genuineness": "verified",
-   "outlets": [
-    "Reuters",
-    "Gulf News",
-    "The New Indian Express",
-    "Seatrade Maritime"
-   ],
-   "image": null,
-   "image_credit": null
   }
  ]
 }
