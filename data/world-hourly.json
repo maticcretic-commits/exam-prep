@@ -1,6 +1,82 @@
 {
- "updated_ist": "2026-11-06T22:26:00+05:30",
+ "updated_ist": "2026-11-07T06:25:00+05:30",
  "items": [
+  {
+   "id": "world-20261107-0622-01",
+   "published_ist": "2026-11-07T05:13:00+05:30",
+   "headline": "Paraguay: Rashtrapati Pena hataye gaye, nazarband",
+   "detail": "Paraguay ki Senate ne Ueno Bank ghotala ke baad Rashtrapati Santiago Pena ko mahaabhiyog se hataya; ve ghar me nazarband hain, aur Up-Rashtrapati Pedro Alliana ne shapath li.",
+   "category": "World",
+   "exam_angle": "Paraguay me rashtrapati par mahaabhiyog — Latin America ki rajneeti ke liye mahatvapurna.",
+   "source": "NDTV",
+   "source_url": "https://www.ndtv.com/world-news/paraguay-president-santiago-pena-impeached-placed-under-house-arrest-over-bank-scandal-pedro-alliana-sworn-in-as-new-president-12295240",
+   "genuineness": "verified",
+   "outlets": [
+    "Associated Press",
+    "CNN",
+    "NDTV",
+    "South China Morning Post"
+   ],
+   "image": "../images/world/world-20261107-0622-01.jpg",
+   "image_credit": "Office of the President, Taiwan / CC BY 4.0"
+  },
+  {
+   "id": "world-20261107-0622-02",
+   "published_ist": "2026-11-07T00:38:00+05:30",
+   "headline": "Miller bane Trump ke chief of staff",
+   "detail": "Trump ne Stephen Miller ko White House chief of staff banaya; Susie Wiles ne midterm haar ke baad istifa diya, Miller 9 November se pad sambhalenge.",
+   "category": "World",
+   "exam_angle": "America ke White House me bada badlav — midterm chunaav ke baad ki rajneeti.",
+   "source": "USA Today",
+   "source_url": "https://www.usatoday.com/story/news/politics/2026/11/06/trump-stephen-miller-susie-wiles-chief-of-staff/92645599007/",
+   "genuineness": "verified",
+   "outlets": [
+    "USA Today",
+    "CNN",
+    "Al Jazeera",
+    "The Times"
+   ],
+   "image": "../images/world/world-20261107-0622-02.jpg",
+   "image_credit": "White House / Public domain"
+  },
+  {
+   "id": "world-20261107-0622-03",
+   "published_ist": "2026-11-06T21:48:00+05:30",
+   "headline": "Congo me hamle me 33 ki maut",
+   "detail": "Purvi Congo ke Cantine gaon me ADF ladakon ke hamle me kam se kam 33 log mare gaye; Ebola ke marijo ko swasthya kendra se bhaagna pada.",
+   "category": "World",
+   "exam_angle": "Congo me Ebola aur sashastr hinsa — Africa ki swasthya aur suraksha chunauti.",
+   "source": "Reuters",
+   "source_url": "https://www.reuters.com/world/africa/islamist-militants-force-ebola-patients-flee-deadly-congo-raid-2026-11-06/",
+   "genuineness": "verified",
+   "outlets": [
+    "Reuters",
+    "Associated Press",
+    "UN News",
+    "Al Jazeera"
+   ],
+   "image": null,
+   "image_credit": null
+  },
+  {
+   "id": "world-20261107-0622-04",
+   "published_ist": "2026-11-06T19:28:00+05:30",
+   "headline": "America me October me 1.65 lakh naukriyan",
+   "detail": "America me October me 1,65,000 naukriyan judi aur berozgari 4.1% rahi; BLS ke anusar bharti September se zyada rahi.",
+   "category": "World",
+   "exam_angle": "America ki rozgar report — vaishvik arthvyavastha aur Fed ke liye mahatvapurna.",
+   "source": "The Tribune",
+   "source_url": "https://www.tribuneindia.com/news/business/us-nonfarm-payrolls-rise-by-165000-in-october-over-three-times-12-month-average/amp/",
+   "genuineness": "verified",
+   "outlets": [
+    "Reuters",
+    "USA Today",
+    "The Tribune",
+    "The Edge Singapore"
+   ],
+   "image": null,
+   "image_credit": null
+  },
   {
    "id": "world-20261106-1926-01",
    "published_ist": "2026-11-06T19:00:00+05:30",
@@ -378,80 +454,6 @@
     "Astro Awani",
     "Mid-Day",
     "FN News"
-   ],
-   "image": null,
-   "image_credit": null
-  },
-  {
-   "id": "world-20261106-0922-03",
-   "published_ist": "2026-11-06T06:30:00+05:30",
-   "headline": "Asia bhar me girawat, Nikkei 6% gira",
-   "detail": "America ki girawat ke baad Asia ke bazaaron me bhi badi girawat aayi; Japan ka Nikkei 6% gira, Taiwan 8% gira aur Hong Kong aur Shanghai bhi gire.",
-   "category": "World",
-   "exam_angle": "Asia ke share bazaar aur AI stock girawat — arthvyavastha ke liye mahatvapurna.",
-   "source": "Channel News Asia",
-   "source_url": "https://www.channelnewsasia.com/business/shares-plunge-tokyo-seoul-us-tech-rout-ai-stocks-6529531",
-   "genuineness": "verified",
-   "outlets": [
-    "Channel News Asia",
-    "Gulf News",
-    "DD India",
-    "Swissinfo"
-   ],
-   "image": null,
-   "image_credit": null
-  },
-  {
-   "id": "world-20261106-1522-03",
-   "published_ist": "2026-11-06T06:28:00+05:30",
-   "headline": "Dhillon ne Trump prashasan se istifa diya",
-   "detail": "Bharatiya mool ki Harmeet Kaur Dhillon ne US Justice Department ke Civil Rights Division ke pramukh pad se istifa de diya; ve midterm chunav ke baad prashasan chhodne wali pehli varishth adhikari hain, aur Attorney General Todd Blanche ne 5 November ko unka istifa sweekar kiya.",
-   "category": "World",
-   "exam_angle": "Bharatiya mool ki adhikari aur America ki rajneeti — pravasi Bharatiya aur antarrashtriya sambandh ke liye mahatvapurna.",
-   "source": "The Hindu",
-   "source_url": "https://www.thehindu.com/news/international/us-assistant-attorney-general-harmeet-dhillon-resigns/article71672623.ece",
-   "genuineness": "verified",
-   "outlets": [
-    "The Hindu",
-    "CNN",
-    "USA Today",
-    "Al Jazeera"
-   ],
-   "image": "../images/world/world-20261106-1522-03.jpg",
-   "image_credit": "Gage Skidmore / Wikimedia Commons (CC BY-SA 2.0)"
-  },
-  {
-   "id": "world-20261106-2127-02",
-   "published_ist": "2026-11-06T05:31:00+05:30",
-   "headline": "Google, Meta, TikTok ne California par mukadma kiya",
-   "detail": "Teeno companies ne California ke naye kanoon AB 1709 ko chunauti di jo 16 saal se kam umr ke bachchon ke liye autoplay aur personalised feed par rok lagata hai; kanoon 1 January 2027 se lagu hona hai.",
-   "category": "World",
-   "exam_angle": "Bachchon ki online suraksha aur tech niyam — digital governance ke liye mahatvapurna.",
-   "source": "Reuters",
-   "source_url": "https://www.reuters.com/world/us/google-meta-tiktok-sue-block-california-youth-social-media-law-2026-11-05/",
-   "genuineness": "verified",
-   "outlets": [
-    "Reuters",
-    "Firstpost",
-    "TechCrunch",
-    "Mediaweek"
-   ],
-   "image": null,
-   "image_credit": null
-  },
-  {
-   "id": "world-20261106-2127-03",
-   "published_ist": "2026-11-06T05:20:00+05:30",
-   "headline": "Iran ne Qatar se America ko prastav bheja",
-   "detail": "Iran ne Qatar ke zariye America ko parmanu prastav bheja; Hormuz jaladmarumadhya kholne aur baatchit se pehle saat shartein poori karne ki maang ki, jinme pratibandh hatana aur jami hui sampatti lautana shamil hai.",
-   "category": "World",
-   "exam_angle": "Hormuz aur parmanu kootneeti — antarrashtriya sambandh ke liye mahatvapurna.",
-   "source": "Reuters",
-   "source_url": "https://www.reuters.com/world/middle-east/iran-sent-nuclear-proposal-us-via-qatar-senior-iranian-official-tells-reuters-2026-11-05/",
-   "genuineness": "corroborated",
-   "outlets": [
-    "Reuters",
-    "The Statesman"
    ],
    "image": null,
    "image_credit": null
