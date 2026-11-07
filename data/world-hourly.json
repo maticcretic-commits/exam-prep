@@ -1,6 +1,41 @@
 {
- "updated_ist": "2026-11-07T16:24:15+05:30",
+ "updated_ist": "2026-11-07T18:25:16+05:30",
  "items": [
+  {
+   "id": "world-20261107-1822-01",
+   "published_ist": "2026-11-07T17:52:00+05:30",
+   "headline": "Hormuz: Ek hafte me 11 jahazon par hamle",
+   "detail": "UKMTO ki haftavaar report ke anusar 6 November ko khatm hafte me Hormuz ke aas-paas 11 jahazon par hamle hue, jinme se teen doob gaye; aavaagaman sangharsh se pehle ke star se lagbhag 65% kam raha.",
+   "category": "World",
+   "exam_angle": "Hormuz jalmarg aur samudri suraksha — antarrashtriya vyapar aur suraksha ke liye mahatvapurna.",
+   "source": "Al Jazeera",
+   "source_url": "https://www.aljazeera.com/news/2026/11/7/qeshm-island-and-hormuz-hit-as-mediators-try-to-prevent-us-iran-escalation",
+   "genuineness": "corroborated",
+   "outlets": [
+    "Al Jazeera",
+    "SAGIRE"
+   ],
+   "image": null,
+   "image_credit": null
+  },
+  {
+   "id": "world-20261107-1822-02",
+   "published_ist": "2026-11-07T12:45:00+05:30",
+   "headline": "Mexico: Police helicopter se goli, bacchi ki maut",
+   "detail": "Tamaulipas ke abhiyojak ne pusht ki hai ki 29 October ko Matamoros me cartel ke khilaf karravai ke dauraan police helicopter se ki gayi golibari me America me janmi saat saal ki Aranza ki maut ho gayi; goli chalane wale adhikari abhi aazaad hain.",
+   "category": "World",
+   "exam_angle": "America-Mexico seema par police ki golibari aur nagrik suraksha — antarrashtriya sambandh ke liye mahatvapurna.",
+   "source": "The Straits Times",
+   "source_url": "https://www.straitstimes.com/world/mexico-confirms-police-shot-us-girl-dead-in-cartel-chase",
+   "genuineness": "corroborated",
+   "outlets": [
+    "Agence France-Presse",
+    "Milenio",
+    "The Straits Times"
+   ],
+   "image": null,
+   "image_credit": null
+  },
   {
    "id": "world-20261107-1622-01",
    "published_ist": "2026-11-07T08:25:00+05:30",
@@ -401,42 +436,6 @@
     "Gulf News",
     "The New Indian Express",
     "Seatrade Maritime"
-   ],
-   "image": null,
-   "image_credit": null
-  },
-  {
-   "id": "world-20261107-0922-03",
-   "published_ist": "2026-11-06T23:39:00+05:30",
-   "headline": "Yemen: Taiz bazaar hamle me 30 ki maut",
-   "detail": "Yemen ke Taiz me Al-Hadara bazaar par hamle me kam se kam 30 log mare gaye aur 8 ghayal hue; Houthi aur sarkari bal ek dusre par aarop laga rahe hain, zimmedari abhi tay nahi hui.",
-   "category": "World",
-   "exam_angle": "Yemen me griha yuddh aur manaviya sankat — antarrashtriya sambandh ke liye mahatvapurna.",
-   "source": "Al Jazeera",
-   "source_url": "https://www.aljazeera.com/amp/news/2026/11/6/yemeni-govt-forces-houthis-trade-blame-for-deadly-strikes-on-taiz-market",
-   "genuineness": "corroborated",
-   "outlets": [
-    "Al Jazeera",
-    "Associated Press"
-   ],
-   "image": "../images/world/world-20261107-0922-03.jpg",
-   "image_credit": "Al Jazeera"
-  },
-  {
-   "id": "world-20261107-0622-03",
-   "published_ist": "2026-11-06T21:48:00+05:30",
-   "headline": "Congo me hamle me 33 ki maut",
-   "detail": "Purvi Congo ke Cantine gaon me ADF ladakon ke hamle me kam se kam 33 log mare gaye; Ebola ke marijo ko swasthya kendra se bhaagna pada.",
-   "category": "World",
-   "exam_angle": "Congo me Ebola aur sashastr hinsa — Africa ki swasthya aur suraksha chunauti.",
-   "source": "Reuters",
-   "source_url": "https://www.reuters.com/world/africa/islamist-militants-force-ebola-patients-flee-deadly-congo-raid-2026-11-06/",
-   "genuineness": "verified",
-   "outlets": [
-    "Reuters",
-    "Associated Press",
-    "UN News",
-    "Al Jazeera"
    ],
    "image": null,
    "image_credit": null
