@@ -1,6 +1,25 @@
 {
- "updated_ist": "2026-11-07T11:26:31+05:30",
+ "updated_ist": "2026-11-07T12:23:53+05:30",
  "items": [
+  {
+   "id": "world-20261107-1222-01",
+   "published_ist": "2026-11-07T10:40:00+05:30",
+   "headline": "White House ke paas hathiyarbhand vyakti giraftar",
+   "detail": "America ki Secret Service ne White House ke paas ek chori ki gaadi me teen hathiyaron ke saath Ronny Yordrix Guanipa Chrinos ko giraftar kiya; usne kaha awaazein use Trump ko maarne ko keh rahi thi, DHS ke anusar ve hirasat me hai.",
+   "category": "World",
+   "exam_angle": "America me rashtrapati ki suraksha aur Secret Service ki bhoomika — antarrashtriya sambandh ke liye mahatvapurna.",
+   "source": "The Hindu",
+   "source_url": "https://www.thehindu.com/news/international/secret-service-arrests-man-near-white-house-after-he-said-he-heard-voices-telling-him-to-kill-trump/article71677332.ece",
+   "genuineness": "verified",
+   "outlets": [
+    "Associated Press",
+    "The Hindu",
+    "Economic Times",
+    "The Week"
+   ],
+   "image": null,
+   "image_credit": null
+  },
   {
    "id": "world-20261107-1022-02",
    "published_ist": "2026-11-07T08:01:00+05:30",
@@ -110,6 +129,25 @@
    ],
    "image": "../images/world/world-20261107-0622-01.jpg",
    "image_credit": "Office of the President, Taiwan / CC BY 4.0"
+  },
+  {
+   "id": "world-20261107-1222-02",
+   "published_ist": "2026-11-07T04:37:00+05:30",
+   "headline": "America ki Madhya Purv me suraksha chetavni",
+   "detail": "America ne Madhya Purv ke 10 deshon me reh rahe nagrikon ko Houthi hamlo aur udan radd hone ke khatre par satark rehne ki chetavni di; Videsh Vibhag ne hawai kshetra band hone aur yatra me badha ki aashanka jatai.",
+   "category": "World",
+   "exam_angle": "Madhya Purv me America-Iran tanav aur suraksha chetavni — antarrashtriya sambandh ke liye mahatvapurna.",
+   "source": "U.S. Embassy Jordan",
+   "source_url": "https://jo.usembassy.gov/security-alert-u-s-embassy-amman-november-7-2026/",
+   "genuineness": "verified",
+   "outlets": [
+    "U.S. Department of State",
+    "Mathrubhumi",
+    "APA",
+    "Siasat"
+   ],
+   "image": null,
+   "image_credit": null
   },
   {
    "id": "world-20261107-0822-01",
@@ -405,44 +443,6 @@
    ],
    "image": null,
    "image_credit": null
-  },
-  {
-   "id": "world-20261106-1722-03",
-   "published_ist": "2026-11-06T14:12:00+05:30",
-   "headline": "UN pramukh daud me Grynspan aage",
-   "detail": "Sanyukt Rashtra ke agle mahasachiv ke liye aathve straw poll me Costa Rica ki Rebeca Grynspan ko 15 me se 12 sakaratmak vote mile; Argentina ke Rafael Grossi 9 vote ke saath doosre par rahe, jabki Turkey ke Sinirlioglu chhathe sthan par rahe.",
-   "category": "World",
-   "exam_angle": "Sanyukt Rashtra aur mahasachiv chunav — antarrashtriya sangathan ke liye mahatvapurna.",
-   "source": "New Kerala",
-   "source_url": "https://www.newkerala.com/news/a/costa-ricas-rebeca-grynspan-leads-un-chief-poll-373.htm",
-   "genuineness": "verified",
-   "outlets": [
-    "New Kerala",
-    "Politiko",
-    "QNC News",
-    "New Greek TV"
-   ],
-   "image": "../images/world/world-20261106-1722-03.jpg",
-   "image_credit": "UN Trade and Development (UNCTAD) / CC BY-SA 2.0"
-  },
-  {
-   "id": "world-20261106-2226-01",
-   "published_ist": "2026-11-06T14:08:00+05:30",
-   "headline": "Sudan: UAE firm ne Colombian ladake bheje",
-   "detail": "UN ki gopniya report ke mutabik Abu Dhabi ki Global Security Services Group ne saikadon Colombian poorv sainikon ko Sudan ke RSF ke saath ladne bheja; New York Times ne 5 November ko iska khulasa kiya, jabki UAE ne aarop nakare.",
-   "category": "World",
-   "exam_angle": "Sudan grih yuddh me bahari hastakshep aur UN mahasachiv ki daud — antarrashtriya sambandh ke liye mahatvapurna.",
-   "source": "Addis Standard",
-   "source_url": "https://addisstandard.com/un-report-says-uae-firm-hired-colombian-mercenaries-to-fight-in-sudan-raising-questions-over-abu-dhabis-un-chief-bid/",
-   "genuineness": "verified",
-   "outlets": [
-    "The New York Times",
-    "Addis Standard",
-    "PassBlue",
-    "Human Rights Watch"
-   ],
-   "image": "../images/world/world-20261106-2226-01.jpg",
-   "image_credit": "Roman Deckert / CC BY-SA 4.0"
   }
  ]
 }
