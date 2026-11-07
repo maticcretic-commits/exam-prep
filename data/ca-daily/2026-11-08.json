@@ -1,0 +1,77 @@
+{
+ "date": "2026-11-08",
+ "date_hi": "8 November 2026",
+ "date_en": "8 November 2026",
+ "episodes": [
+  {
+   "episode": 93,
+   "video_hi": "8benCMcHpPU",
+   "video_hinglish": "8benCMcHpPU",
+   "capsules": [
+    {
+     "id": "ca-ep93-s1",
+     "headline_hi": "Horizon Europe: Bharat-EU research ka naya daur",
+     "headline_hinglish": "Horizon Europe: Bharat-EU research ka naya daur",
+     "detail_hi": "Bharat aur EU ne Horizon Europe mein judne ki baatchit poori ki; association January 2027 se shuru hoga.",
+     "detail_hinglish": "Bharat aur EU ne Horizon Europe mein judne ki baatchit poori ki; association January 2027 se shuru hoga.",
+     "category_hi": "International Relations",
+     "category_en": "National"
+    },
+    {
+     "id": "ca-ep93-s2",
+     "headline_hi": "Energy storage: 14,500 crore, 92 GW ka plan",
+     "headline_hinglish": "Energy storage: 14,500 crore, 92 GW ka plan",
+     "detail_hi": "Cabinet ne 2030-31 tak 92 gigawatt energy storage banane ke liye 14,500 crore ki scheme ko manzoori di hai.",
+     "detail_hinglish": "Cabinet ne 2030-31 tak 92 gigawatt energy storage banane ke liye 14,500 crore ki scheme ko manzoori di hai.",
+     "category_hi": "Energy",
+     "category_en": "National"
+    },
+    {
+     "id": "ca-ep93-s3",
+     "headline_hi": "Critical minerals: lithium-nickel ka 2,814 crore plan",
+     "headline_hinglish": "Critical minerals: lithium-nickel ka 2,814 crore plan",
+     "detail_hi": "Cabinet ne lithium aur nickel processing ke liye 2,814 crore ka Capex Support diya; har saal 4,800 se 5,300 crore forex bachega.",
+     "detail_hinglish": "Cabinet ne lithium aur nickel processing ke liye 2,814 crore ka Capex Support diya; har saal 4,800 se 5,300 crore forex bachega.",
+     "category_hi": "Economy",
+     "category_en": "Economy"
+    },
+    {
+     "id": "ca-ep93-s4",
+     "headline_hi": "Tiger Triumph 2026: Bharat-America HADR abhyas",
+     "headline_hinglish": "Tiger Triumph 2026: Bharat-America HADR abhyas",
+     "detail_hi": "Tiger Triumph ka paanchva edition 2 November ko Visakhapatnam mein shuru hua; NDRF pehli baar shamil hui.",
+     "detail_hinglish": "Tiger Triumph ka paanchva edition 2 November ko Visakhapatnam mein shuru hua; NDRF pehli baar shamil hui.",
+     "category_hi": "Defence",
+     "category_en": "Defence"
+    },
+    {
+     "id": "ca-ep93-s5",
+     "headline_hi": "Dhinidhi Desinghu: Youth Olympics mein double bronze",
+     "headline_hinglish": "Dhinidhi Desinghu: Youth Olympics mein double bronze",
+     "detail_hi": "Solah saal ki tairrak Dhinidhi ne Dakar Youth Olympics mein 100m aur 200m freestyle mein bronze jeetkar itihaas racha.",
+     "detail_hinglish": "Solah saal ki tairrak Dhinidhi ne Dakar Youth Olympics mein 100m aur 200m freestyle mein bronze jeetkar itihaas racha.",
+     "category_hi": "Sports",
+     "category_en": "Sports"
+    }
+   ],
+   "mcq": {
+    "id": "ca-ep93-mcq",
+    "q_hi": "Cabinet ne lithium aur nickel processing ke liye kitne crore ka Capex Support manzoor kiya?",
+    "q_hinglish": "Cabinet ne lithium aur nickel processing ke liye kitne crore ka Capex Support manzoor kiya?",
+    "options_hi": [
+     "14,500 crore",
+     "2,814 crore",
+     "4,371 crore",
+     "3,788 crore"
+    ],
+    "options_hinglish": [
+     "14,500 crore",
+     "2,814 crore",
+     "4,371 crore",
+     "3,788 crore"
+    ],
+    "answer_index": 1
+   }
+  }
+ ]
+}
