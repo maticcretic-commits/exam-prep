@@ -1,6 +1,64 @@
 {
- "updated_ist": "2026-11-07T19:27:07+05:30",
+ "updated_ist": "2026-11-07T20:24:52+05:30",
  "items": [
+  {
+   "id": "world-20261107-2022-01",
+   "published_ist": "2026-11-06T16:18:00+05:30",
+   "headline": "Saudi: Mecca ke paas drone giraya gaya",
+   "detail": "Saudi netritva wale gathbandhan ne shukravar ko Mecca kshetra me ek drone aur Najran ki taraf aaye do ballistic missile giraye; shanivaar ko Riyadh ki taraf aaya ek cruise missile bhi roka gaya, koi nuksan nahi hua.",
+   "category": "World",
+   "exam_angle": "Madhya Purv me Saudi-Houthi sangharsh — Bharat ke tel margon aur suraksha ke liye mahatvapurna.",
+   "source": "Arab News",
+   "source_url": "https://www.arabnews.com/saudi-arabia/saudi-air-defenses-intercept-ballistic-missile-drone-in-riyadh-region-3010236",
+   "genuineness": "verified",
+   "outlets": [
+    "Arab News",
+    "Al Jazeera",
+    "Institute for the Study of War",
+    "Gulf News",
+    "AFP"
+   ],
+   "image": "../images/world/world-20261107-2022-01.jpg",
+   "image_credit": "Ali Mansuri, CC BY-SA 2.5 (Wikimedia Commons)"
+  },
+  {
+   "id": "world-20261107-2022-02",
+   "published_ist": "2026-11-07T05:30:00+05:30",
+   "headline": "Sao Paulo: Imaarat giri, chaar ghayal",
+   "detail": "Sao Paulo ke Bras vyaapaarik ilaake me shukravar shaam ek chaar-manzila vyaapaarik imaarat ki chhat gir gayi; andar maujood 35 logon ko surakshit nikala gaya, chaar ghayal aspatal me sthir hain.",
+   "category": "World",
+   "exam_angle": null,
+   "source": "Reuters",
+   "source_url": "https://www.reuters.com/world/americas/four-story-building-collapses-sao-paulo-2026-11-06/",
+   "genuineness": "verified",
+   "outlets": [
+    "Reuters",
+    "NDTV",
+    "The Print",
+    "The Straits Times"
+   ],
+   "image": null,
+   "image_credit": null
+  },
+  {
+   "id": "world-20261107-2022-03",
+   "published_ist": "2026-11-06T05:00:00+05:30",
+   "headline": "Florida: CAIR ne kaam roka, 'aatanki' tag par",
+   "detail": "America ke sabse bade Muslim adhikar sangathan CAIR ne Florida me kaam rok diya, kyunki sanghiya nyayadhish ne rajya ke 'gharelu aatanki sangathan' wale kanoon par rok lagane se mana kar diya; sangathan faisle ke khilaf appeal karega.",
+   "category": "World",
+   "exam_angle": "America me nagrik adhikar aur rajya shakti ka sangharsh — samvidhanik adhikaron ke liye mahatvapurna.",
+   "source": "Reuters",
+   "source_url": "https://www.reuters.com/legal/government/largest-us-muslim-advocacy-group-suspends-florida-operations-over-terrorist-2026-11-06/",
+   "genuineness": "verified",
+   "outlets": [
+    "Reuters",
+    "Religion News Service",
+    "ACLU",
+    "Central Florida Public Media"
+   ],
+   "image": null,
+   "image_credit": null
+  },
   {
    "id": "world-20261107-1926-01",
    "published_ist": "2026-11-07T03:46:00+05:30",
@@ -384,62 +442,6 @@
    ],
    "image": null,
    "image_credit": null
-  },
-  {
-   "id": "world-20261107-0822-01",
-   "published_ist": "2026-11-07T03:51:00+05:30",
-   "headline": "America me khasa 35 saal me sabse zyada",
-   "detail": "CDC ke anusar 2026 me America me khasa ke 5,182 mamle mile — 1991 ke baad sabse zyada; kam se kam 8 logon ki maut hui.",
-   "category": "World",
-   "exam_angle": "America me khasa ka punarutthan aur teekakaran — swasthya aur UPSC ke liye mahatvapurna.",
-   "source": "WION",
-   "source_url": "https://www.wionews.com/world/us-records-over-5-000-measles-cases-at-least-eight-deaths-as-outbreak-reaches-35-year-high-1794000742035/amp",
-   "genuineness": "verified",
-   "outlets": [
-    "WION",
-    "Free Malaysia Today",
-    "The Straits Times",
-    "Times of Israel"
-   ],
-   "image": null,
-   "image_credit": null
-  },
-  {
-   "id": "world-20261107-0722-02",
-   "published_ist": "2026-11-07T03:34:00+05:30",
-   "headline": "Kyiv par raat bhar ballistic missile hamle",
-   "detail": "Russia ne 6-7 November ki raat Kyiv par ballistic missileon ki kai lehrein chalai; Solomianskyi jile me ek aawasiya imarat kshatigrast hui aur aag lagi.",
-   "category": "World",
-   "exam_angle": "Russia-Ukraine yuddh — Kyiv ki urja aur nagrik buniyadi dhanche par hamle.",
-   "source": "Kyiv Independent",
-   "source_url": "https://kyivindependent.com/russian-ballistic-missiles-slam-kyiv-after-zelensky-warns-of-mass-attack/",
-   "genuineness": "verified",
-   "outlets": [
-    "Kyiv Independent",
-    "CGTN",
-    "Arab News"
-   ],
-   "image": "../images/world/world-20261107-0722-02.jpg",
-   "image_credit": "Kyiv Independent"
-  },
-  {
-   "id": "world-20261107-1022-01",
-   "published_ist": "2026-11-07T02:34:00+05:30",
-   "headline": "Amsterdam me Microsoft data centre par pradarshan",
-   "detail": "Amsterdam me saikadon pradarshankari Microsoft ke data centre ke nirman sthal me ghus gaye, crane par chadhe aur flare jalaye; police ne 150-200 logon ko giraftar kiya.",
-   "category": "World",
-   "exam_angle": "Europe me data centre virodh aur AI ki urja maang — paryavaran aur takneek ke liye mahatvapurna.",
-   "source": "Al Jazeera",
-   "source_url": "https://www.aljazeera.com/amp/news/2026/11/6/protesters-break-into-microsoft-data-centre-site-in-amsterdam",
-   "genuineness": "verified",
-   "outlets": [
-    "Associated Press",
-    "Al Jazeera",
-    "Reuters",
-    "Bloomberg"
-   ],
-   "image": "../images/world/world-20261107-1022-01.jpg",
-   "image_credit": "Al Jazeera"
   }
  ]
 }
