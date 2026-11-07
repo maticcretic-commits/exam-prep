@@ -329,5 +329,40 @@
   ],
   "image": "../images/world/world-20261107-1022-01.jpg",
   "image_credit": "Al Jazeera"
+ },
+ {
+  "id": "world-20261107-1126-01",
+  "published_ist": "2026-11-07T07:40:00+05:30",
+  "headline": "Guterres: COP31 jalvayu par satya ka pal",
+  "detail": "UN mahasachiv Antonio Guterres ne COP31 se pehle kaha ki jalvayu parivartan par ab 'satya ka pal' hai; 9-20 November ko Antalya me shikhar sammelan hoga, unke karyakal ka aakhri bada sandesh.",
+  "category": "World",
+  "exam_angle": "COP31, jalvayu sammelan aur Paris samjhauta ka 1.5°C lakshya — paryavaran aur antarrashtriya sangathan ke liye mahatvapurna.",
+  "source": "Associated Press",
+  "source_url": "https://www.theweek.in/wire-updates/international/2026/11/07/ap-exclusive-departing-un-chief-calls-this-moment-of-truth-in-fight-to-curb-global-warming.html",
+  "genuineness": "corroborated",
+  "outlets": [
+   "Associated Press",
+   "The Independent"
+  ],
+  "image": "../images/world/world-20261107-1126-01.jpg",
+  "image_credit": "European Commission (Christophe Licoppe) / CC BY 4.0"
+ },
+ {
+  "id": "world-20261107-1126-02",
+  "published_ist": "2026-11-07T07:38:00+05:30",
+  "headline": "Pope Leo ka 12-din ka Latin America daura",
+  "detail": "Pope Leo XIV ne fefde ke cancer ki surgery ke teen hafte baad Dakshin America ka 12-din ka daura shuru kiya; ve Uruguay, Argentina aur Peru jayenge, 17 November ko Peru me samapt hoga.",
+  "category": "World",
+  "exam_angle": "Pope Leo XIV ka pehla bada Latin America daura — Vatican aur vishva dharm ke liye mahatvapurna.",
+  "source": "Al Jazeera",
+  "source_url": "https://www.aljazeera.com/news/2026/11/6/pope-leo-arrives-in-uruguay-starting-12-day-latin-america-tour",
+  "genuineness": "verified",
+  "outlets": [
+   "Al Jazeera",
+   "AFP",
+   "Reuters"
+  ],
+  "image": "../images/world/world-20261107-1126-02.jpg",
+  "image_credit": "Al Jazeera"
  }
 ]
