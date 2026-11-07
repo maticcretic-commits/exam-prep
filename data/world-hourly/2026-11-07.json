@@ -74,5 +74,94 @@
   ],
   "image": null,
   "image_credit": null
+ },
+ {
+  "id": "world-20261107-0722-01",
+  "published_ist": "2026-11-07T05:20:00+05:30",
+  "headline": "Iran ke Qeshm dweep par do missile gire",
+  "detail": "Iran ki Tasnim agency ke anusar Qeshm dweep ke Suza kshetra me do missile gire; nuksan ki abhi koi aadhikarik jaankari nahi hai.",
+  "category": "World",
+  "exam_angle": "Faras ki khadi ke paas sthit Qeshm dweep — America-Iran tanav ke liye mahatvapurna.",
+  "source": "Reuters",
+  "source_url": "https://www.reuters.com/world/middle-east/two-missiles-strike-irans-qeshm-island-tasnim-news-agency-says-2026-11-06/",
+  "genuineness": "verified",
+  "outlets": [
+   "Reuters",
+   "Tasnim",
+   "IRNA"
+  ],
+  "image": null,
+  "image_credit": null
+ },
+ {
+  "id": "world-20261107-0722-02",
+  "published_ist": "2026-11-07T03:34:00+05:30",
+  "headline": "Kyiv par raat bhar ballistic missile hamle",
+  "detail": "Russia ne 6-7 November ki raat Kyiv par ballistic missileon ki kai lehrein chalai; Solomianskyi jile me ek aawasiya imarat kshatigrast hui aur aag lagi.",
+  "category": "World",
+  "exam_angle": "Russia-Ukraine yuddh — Kyiv ki urja aur nagrik buniyadi dhanche par hamle.",
+  "source": "Kyiv Independent",
+  "source_url": "https://kyivindependent.com/russian-ballistic-missiles-slam-kyiv-after-zelensky-warns-of-mass-attack/",
+  "genuineness": "verified",
+  "outlets": [
+   "Kyiv Independent",
+   "CGTN",
+   "Arab News"
+  ],
+  "image": "../images/world/world-20261107-0722-02.jpg",
+  "image_credit": "Kyiv Independent"
+ },
+ {
+  "id": "world-20261107-0722-03",
+  "published_ist": "2026-11-06T19:17:00+05:30",
+  "headline": "Zaporizhia sahayata kendra hamle me 53 ki maut",
+  "detail": "Zaporizhia ke Komyshuvakha gaon me sahayata kendra par Russian hamle me marne walon ki sankhya 53 ho gayi; malbe me dabe logon ki khoj jaari hai.",
+  "category": "World",
+  "exam_angle": "Russia-Ukraine yuddh me nagrikon par sabse ghatak hamlo me se ek.",
+  "source": "Reuters",
+  "source_url": "https://www.reuters.com/world/europe/death-toll-russian-bombing-ukrainian-aid-point-rises-53-governor-says-2026-11-06/",
+  "genuineness": "verified",
+  "outlets": [
+   "Reuters",
+   "Al Jazeera"
+  ],
+  "image": null,
+  "image_credit": null
+ },
+ {
+  "id": "world-20261107-0722-04",
+  "published_ist": "2026-11-06T16:06:00+05:30",
+  "headline": "Qatar ke Emir ne Trump se Iran par baat ki",
+  "detail": "Qatar ke Emir Sheikh Tamim ne Trump se phone par Iran se tanav kam karne aur madhyasthata par baat ki; Iran ne Qatar ke zariye parmanu prastav bhi bheja hai.",
+  "category": "World",
+  "exam_angle": "Qatar ki madhyasthata — America-Iran tanav me kootneeti.",
+  "source": "Arab News",
+  "source_url": "https://www.arabnews.com/middle-east/qatars-emir-trump-discuss-mediation-efforts-to-end-regional-crisis-3010128",
+  "genuineness": "verified",
+  "outlets": [
+   "Arab News",
+   "Anadolu Agency",
+   "Free Malaysia Today"
+  ],
+  "image": null,
+  "image_credit": null
+ },
+ {
+  "id": "world-20261107-0722-05",
+  "published_ist": "2026-11-07T00:32:00+05:30",
+  "headline": "Rubio ki pehli videsh yatra: Paris me G7 baithak",
+  "detail": "America ke Videsh Mantri Marco Rubio 8-10 November ko Paris me G7 videsh mantriyon se milenge; midterm haar ke baad ye unki pehli videsh yatra hai.",
+  "category": "World",
+  "exam_angle": "G7 videsh mantri baithak — Ukraine aur Iran par charcha.",
+  "source": "Reuters",
+  "source_url": "https://www.reuters.com/world/europe/rubio-travel-paris-meet-g7-foreign-ministers-next-week-2026-11-06/",
+  "genuineness": "verified",
+  "outlets": [
+   "Reuters",
+   "Associated Press",
+   "Macau Business"
+  ],
+  "image": null,
+  "image_credit": null
  }
 ]
