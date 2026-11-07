@@ -220,5 +220,76 @@
   ],
   "image": null,
   "image_credit": null
+ },
+ {
+  "id": "world-20261107-0922-01",
+  "published_ist": "2026-11-06T17:00:00+05:30",
+  "headline": "Belgium: Raja ne PM ka istifa thukraya",
+  "detail": "Belgium ke Raja Philippe ne PM Bart De Wever ka istifa thukra diya; budget par baatchit phir shuru hogi, De Wever 16 November ko Raja ko report denge.",
+  "category": "World",
+  "exam_angle": "Belgium me sarkar sankat aur budget — Europe ki rajneeti ke liye mahatvapurna.",
+  "source": "Free Malaysia Today",
+  "source_url": "https://www.freemalaysiatoday.com/category/world/2026/11/06/belgian-king-rejects-pm-s-resignation-gives-time-for-budget-talks",
+  "genuineness": "verified",
+  "outlets": [
+   "Reuters",
+   "Le Temps",
+   "Free Malaysia Today"
+  ],
+  "image": "../images/world/world-20261107-0922-01.jpg",
+  "image_credit": "Free Malaysia Today"
+ },
+ {
+  "id": "world-20261107-0922-02",
+  "published_ist": "2026-11-06T16:09:00+05:30",
+  "headline": "Tokyo ke paas samundar me 6.1 bhukamp",
+  "detail": "Japan ke Kanto tat ke paas samundar me 6.1 teevrata ka bhukamp aaya; tsunami ki chetavni nahi di gayi aur koi nuksan ya ghayal ki khabar nahi hai.",
+  "category": "World",
+  "exam_angle": "Japan me bhukamp aur tsunami chetavni vyavastha — bhugol ke liye mahatvapurna.",
+  "source": "Channel News Asia",
+  "source_url": "https://www.channelnewsasia.com/east-asia/japan-tokyo-quake-kanto-region-6531296",
+  "genuineness": "verified",
+  "outlets": [
+   "Channel News Asia",
+   "The Straits Times",
+   "The Japan Times"
+  ],
+  "image": "../images/world/world-20261107-0922-02.jpg",
+  "image_credit": "Channel News Asia"
+ },
+ {
+  "id": "world-20261107-0922-03",
+  "published_ist": "2026-11-06T23:39:00+05:30",
+  "headline": "Yemen: Taiz bazaar hamle me 30 ki maut",
+  "detail": "Yemen ke Taiz me Al-Hadara bazaar par hamle me kam se kam 30 log mare gaye aur 8 ghayal hue; Houthi aur sarkari bal ek dusre par aarop laga rahe hain, zimmedari abhi tay nahi hui.",
+  "category": "World",
+  "exam_angle": "Yemen me griha yuddh aur manaviya sankat — antarrashtriya sambandh ke liye mahatvapurna.",
+  "source": "Al Jazeera",
+  "source_url": "https://www.aljazeera.com/amp/news/2026/11/6/yemeni-govt-forces-houthis-trade-blame-for-deadly-strikes-on-taiz-market",
+  "genuineness": "corroborated",
+  "outlets": [
+   "Al Jazeera",
+   "Associated Press"
+  ],
+  "image": "../images/world/world-20261107-0922-03.jpg",
+  "image_credit": "Al Jazeera"
+ },
+ {
+  "id": "world-20261107-0922-04",
+  "published_ist": "2026-11-07T07:27:00+05:30",
+  "headline": "America: Iran par khabar par $2 crore inaam",
+  "detail": "America ne Iran ke parmanu karyakram par jaankari ke liye 20 million dollar tak ka inaam aur sambhav sthanantaran ki ghoshna ki; CENTCOM ne Rewards for Justice karyakram ke tahat jaankari mangi.",
+  "category": "World",
+  "exam_angle": "Iran parmanu karyakram aur America ki niti — antarrashtriya sambandh ke liye mahatvapurna.",
+  "source": "Times of India",
+  "source_url": "https://timesofindia.indiatimes.com/world/us/us-offers-20-million-reward-for-information-on-irans-nuclear-programme/articleshow/135624328.cms",
+  "genuineness": "verified",
+  "outlets": [
+   "Times of India",
+   "Gulf News",
+   "Geo.tv"
+  ],
+  "image": "../images/world/world-20261107-0922-04.jpg",
+  "image_credit": "Times of India"
  }
 ]
