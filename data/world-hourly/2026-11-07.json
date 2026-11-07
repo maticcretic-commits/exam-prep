@@ -291,5 +291,43 @@
   ],
   "image": "../images/world/world-20261107-0922-04.jpg",
   "image_credit": "Times of India"
+ },
+ {
+  "id": "world-20261107-1022-02",
+  "published_ist": "2026-11-07T08:01:00+05:30",
+  "headline": "FDA: Zolgensma gene therapy se tumour ka khatra",
+  "detail": "America ki FDA ne Novartis ki Zolgensma gene therapy se tumour ke khatre ki jaanch shuru ki; do bachchon me vector ke DNA judne ke saboot mile, kul nau mamle darj hue.",
+  "category": "World",
+  "exam_angle": "Gene therapy ki suraksha aur FDA ki nigrani — swasthya aur vigyan ke liye mahatvapurna.",
+  "source": "FDA",
+  "source_url": "https://www.fda.gov/vaccines-blood-biologics/safety-availability-biologics/fda-investigating-serious-risk-malignancy-linked-zolgensma-gene-therapy",
+  "genuineness": "verified",
+  "outlets": [
+   "FDA",
+   "Reuters",
+   "South China Morning Post",
+   "The Hindu BusinessLine"
+  ],
+  "image": null,
+  "image_credit": null
+ },
+ {
+  "id": "world-20261107-1022-01",
+  "published_ist": "2026-11-07T02:34:00+05:30",
+  "headline": "Amsterdam me Microsoft data centre par pradarshan",
+  "detail": "Amsterdam me saikadon pradarshankari Microsoft ke data centre ke nirman sthal me ghus gaye, crane par chadhe aur flare jalaye; police ne 150-200 logon ko giraftar kiya.",
+  "category": "World",
+  "exam_angle": "Europe me data centre virodh aur AI ki urja maang — paryavaran aur takneek ke liye mahatvapurna.",
+  "source": "Al Jazeera",
+  "source_url": "https://www.aljazeera.com/amp/news/2026/11/6/protesters-break-into-microsoft-data-centre-site-in-amsterdam",
+  "genuineness": "verified",
+  "outlets": [
+   "Associated Press",
+   "Al Jazeera",
+   "Reuters",
+   "Bloomberg"
+  ],
+  "image": "../images/world/world-20261107-1022-01.jpg",
+  "image_credit": "Al Jazeera"
  }
 ]
