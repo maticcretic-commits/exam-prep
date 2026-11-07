@@ -364,5 +364,43 @@
   ],
   "image": "../images/world/world-20261107-1126-02.jpg",
   "image_credit": "Al Jazeera"
+ },
+ {
+  "id": "world-20261107-1222-01",
+  "published_ist": "2026-11-07T10:40:00+05:30",
+  "headline": "White House ke paas hathiyarbhand vyakti giraftar",
+  "detail": "America ki Secret Service ne White House ke paas ek chori ki gaadi me teen hathiyaron ke saath Ronny Yordrix Guanipa Chrinos ko giraftar kiya; usne kaha awaazein use Trump ko maarne ko keh rahi thi, DHS ke anusar ve hirasat me hai.",
+  "category": "World",
+  "exam_angle": "America me rashtrapati ki suraksha aur Secret Service ki bhoomika — antarrashtriya sambandh ke liye mahatvapurna.",
+  "source": "The Hindu",
+  "source_url": "https://www.thehindu.com/news/international/secret-service-arrests-man-near-white-house-after-he-said-he-heard-voices-telling-him-to-kill-trump/article71677332.ece",
+  "genuineness": "verified",
+  "outlets": [
+   "Associated Press",
+   "The Hindu",
+   "Economic Times",
+   "The Week"
+  ],
+  "image": null,
+  "image_credit": null
+ },
+ {
+  "id": "world-20261107-1222-02",
+  "published_ist": "2026-11-07T04:37:00+05:30",
+  "headline": "America ki Madhya Purv me suraksha chetavni",
+  "detail": "America ne Madhya Purv ke 10 deshon me reh rahe nagrikon ko Houthi hamlo aur udan radd hone ke khatre par satark rehne ki chetavni di; Videsh Vibhag ne hawai kshetra band hone aur yatra me badha ki aashanka jatai.",
+  "category": "World",
+  "exam_angle": "Madhya Purv me America-Iran tanav aur suraksha chetavni — antarrashtriya sambandh ke liye mahatvapurna.",
+  "source": "U.S. Embassy Jordan",
+  "source_url": "https://jo.usembassy.gov/security-alert-u-s-embassy-amman-november-7-2026/",
+  "genuineness": "verified",
+  "outlets": [
+   "U.S. Department of State",
+   "Mathrubhumi",
+   "APA",
+   "Siasat"
+  ],
+  "image": null,
+  "image_credit": null
  }
 ]
