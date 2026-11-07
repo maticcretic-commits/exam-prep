@@ -1,120 +1,100 @@
 {
- "updated_ist": "2026-11-07T20:24:52+05:30",
+ "updated_ist": "2026-11-07T21:25:45+05:30",
  "items": [
   {
-   "id": "world-20261107-2022-01",
-   "published_ist": "2026-11-06T16:18:00+05:30",
-   "headline": "Saudi: Mecca ke paas drone giraya gaya",
-   "detail": "Saudi netritva wale gathbandhan ne shukravar ko Mecca kshetra me ek drone aur Najran ki taraf aaye do ballistic missile giraye; shanivaar ko Riyadh ki taraf aaya ek cruise missile bhi roka gaya, koi nuksan nahi hua.",
+   "id": "world-20261107-2125-01",
+   "published_ist": "2026-11-07T18:58:00+05:30",
+   "headline": "Kyiv: Raat bhar missile-drones, bridge toota",
+   "detail": "Russia ne raat ko Kyiv aur aas-paas par 36 ballistic missile aur 172 drone daage; Northern Bridge aur bijli-paani ki suvidhaon ko nuksan pahuncha, ek ki maut aur nau ghayal hue.",
    "category": "World",
-   "exam_angle": "Madhya Purv me Saudi-Houthi sangharsh — Bharat ke tel margon aur suraksha ke liye mahatvapurna.",
-   "source": "Arab News",
-   "source_url": "https://www.arabnews.com/saudi-arabia/saudi-air-defenses-intercept-ballistic-missile-drone-in-riyadh-region-3010236",
+   "exam_angle": "Abu Dhabi me mangalvar se Russia-Ukraine-America ki trilateral vaarta se pehle hamla — yuddh aur vaarta, dono ek saath.",
+   "source": "AP",
+   "source_url": "https://www.theweek.in/wire-updates/international/2026/11/07/missile-attacks-wound-9-as-ukraine-prepares-for-talks-with-russia-us.html",
    "genuineness": "verified",
    "outlets": [
-    "Arab News",
-    "Al Jazeera",
-    "Institute for the Study of War",
+    "AP",
+    "Reuters",
+    "Kyiv Post",
+    "The New Voice of Ukraine"
+   ],
+   "image": null,
+   "image_credit": null
+  },
+  {
+   "id": "world-20261107-2125-02",
+   "published_ist": "2026-11-07T17:28:00+05:30",
+   "headline": "Iran ne missile range ki seema hatayi",
+   "detail": "Iran ke Revolutionary Guard ne apni ballistic missile par 2,000 kilometer ki khud ki seema hata li; pravakta ne kaha kshamata ko 'vyavhar me dikhaya jayega', maujooda missile ki pushti nahi ki.",
+   "category": "World",
+   "exam_angle": "Madhya Purv me tanaav aur Bharat ki urja suraksha — Hormuz marg par asar.",
+   "source": "AP",
+   "source_url": "https://www.theweek.in/wire-updates/international/2026/11/07/iran-says-it-has-lifted-its-self-imposed-limit-on-missile-ranges-and-other-mideast-news.html",
+   "genuineness": "verified",
+   "outlets": [
+    "AP",
+    "Times of Israel",
     "Gulf News",
-    "AFP"
-   ],
-   "image": "../images/world/world-20261107-2022-01.jpg",
-   "image_credit": "Ali Mansuri, CC BY-SA 2.5 (Wikimedia Commons)"
-  },
-  {
-   "id": "world-20261107-2022-02",
-   "published_ist": "2026-11-07T05:30:00+05:30",
-   "headline": "Sao Paulo: Imaarat giri, chaar ghayal",
-   "detail": "Sao Paulo ke Bras vyaapaarik ilaake me shukravar shaam ek chaar-manzila vyaapaarik imaarat ki chhat gir gayi; andar maujood 35 logon ko surakshit nikala gaya, chaar ghayal aspatal me sthir hain.",
-   "category": "World",
-   "exam_angle": null,
-   "source": "Reuters",
-   "source_url": "https://www.reuters.com/world/americas/four-story-building-collapses-sao-paulo-2026-11-06/",
-   "genuineness": "verified",
-   "outlets": [
-    "Reuters",
-    "NDTV",
-    "The Print",
-    "The Straits Times"
+    "Times of India"
    ],
    "image": null,
    "image_credit": null
   },
   {
-   "id": "world-20261107-2022-03",
-   "published_ist": "2026-11-06T05:00:00+05:30",
-   "headline": "Florida: CAIR ne kaam roka, 'aatanki' tag par",
-   "detail": "America ke sabse bade Muslim adhikar sangathan CAIR ne Florida me kaam rok diya, kyunki sanghiya nyayadhish ne rajya ke 'gharelu aatanki sangathan' wale kanoon par rok lagane se mana kar diya; sangathan faisle ke khilaf appeal karega.",
+   "id": "world-20261107-2125-03",
+   "published_ist": "2026-11-07T07:25:00+05:30",
+   "headline": "America: Khasra 35 saal me sabse zyada",
+   "detail": "America me 2026 me ab tak khasure ke 5,182 mamle darj hue — 1991 ke baad sabse zyada; zyadatar sankramit bina teeka ke the, Pennsylvania sabse zyada prabhavit.",
    "category": "World",
-   "exam_angle": "America me nagrik adhikar aur rajya shakti ka sangharsh — samvidhanik adhikaron ke liye mahatvapurna.",
-   "source": "Reuters",
-   "source_url": "https://www.reuters.com/legal/government/largest-us-muslim-advocacy-group-suspends-florida-operations-over-terrorist-2026-11-06/",
+   "exam_angle": "Teeka-karan coverage me girawat aur uske parinam — swasthya neeti aur jan-swasthya ke liye mahatvapurna.",
+   "source": "Al Jazeera",
+   "source_url": "https://www.aljazeera.com/amp/news/2026/11/7/cdc-reports-more-than-5000-measles-cases-highest-number-in-35-years",
    "genuineness": "verified",
    "outlets": [
-    "Reuters",
-    "Religion News Service",
-    "ACLU",
-    "Central Florida Public Media"
+    "Al Jazeera",
+    "AFP",
+    "Arab News",
+    "Le Temps"
    ],
    "image": null,
    "image_credit": null
   },
   {
-   "id": "world-20261107-1926-01",
-   "published_ist": "2026-11-07T03:46:00+05:30",
-   "headline": "Hormuz: IMO ke anusar 25 navikon ki maut",
-   "detail": "Sanyukt Rashtra ki samudri sanstha IMO ne kaha 28 February se Hormuz sangharsh me kam se kam 25 navikon ki maut hui aur 130 se zyada vyaapaarik jahazon par hamle hue; taaza shikar 5 November ko Velos Sapphire par mara navik tha.",
+   "id": "world-20261107-2125-04",
+   "published_ist": "2026-11-07T00:41:00+05:30",
+   "headline": "Trump: Stephen Miller naye chief of staff",
+   "detail": "Trump ne Stephen Miller ko White House chief of staff banaya, Susie Wiles ki jagah; Miller 9 November se pad sambhalenge, Wiles ab Trump ki political operation me jayengi.",
    "category": "World",
-   "exam_angle": "Hormuz jalmarg, IMO aur samudri suraksha — antarrashtriya vyapar aur suraksha ke liye mahatvapurna.",
-   "source": "Trend.az",
-   "source_url": "https://www.trend.az/world/us/4243983.html",
+   "exam_angle": "Midterm haar ke baad White House me bada ferbadal — Trump prashasan ki aage ki disha ka sanket.",
+   "source": "USA Today",
+   "source_url": "https://www.usatoday.com/story/news/politics/2026/11/06/trump-stephen-miller-susie-wiles-chief-of-staff/92645599007/",
    "genuineness": "verified",
    "outlets": [
-    "IMO",
-    "Marine Insight",
-    "Trend.az",
-    "Logistics News"
-   ],
-   "image": "../images/world/world-20261107-1926-01.jpg",
-   "image_credit": "NASA, public domain (Wikimedia Commons)"
-  },
-  {
-   "id": "world-20261107-1926-02",
-   "published_ist": "2026-11-07T08:12:00+05:30",
-   "headline": "Houston: Police ab ICE ko kam sahyog degi",
-   "detail": "Houston ke Mayor John Whitmire ne karyakari aadesh se police ko nirdesh diya ki ab ICE ko sirf tab suchit kiya jaye jab giraftaar vyakti par jail yogya aarop ho aur ICE warrant bhi ho; mamuli traffic rok par sirf challan milega, koi suchna nahi.",
-   "category": "World",
-   "exam_angle": "America me sthaniya police aur sanghiya immigration pravartan — sanghwad aur rajneeti ke liye mahatvapurna.",
-   "source": "Reuters",
-   "source_url": "https://www.reuters.com/legal/government/houston-mayor-curtails-police-cooperation-with-ice-saying-elections-matter-2026-11-07/",
-   "genuineness": "verified",
-   "outlets": [
-    "Reuters",
-    "BBC",
-    "Associated Press",
-    "USA Today"
-   ],
-   "image": null,
-   "image_credit": null
-  },
-  {
-   "id": "world-20261107-1926-03",
-   "published_ist": "2026-11-06T19:23:00+05:30",
-   "headline": "Tesla Cybertruck band, jagah legi Cybercab",
-   "detail": "Elon Musk ne kaha Tesla agle saal ke madhya se Texas factory me Cybertruck ka utpadan kam karegi taaki usi jagah Cybercab robotaxi ka utpadan badhaya ja sake; Cybertruck ke mukhya engineer ne bhi iske ant ka sanket diya.",
-   "category": "World",
-   "exam_angle": "Tesla ka robotaxi ki taraf badlav — EV aur swachaalit vaahan udyog ke liye mahatvapurna.",
-   "source": "The Drive",
-   "source_url": "https://www.thedrive.com/news/the-tesla-cybertruck-will-die-next-year-so-the-cybercab-can-live-tds",
-   "genuineness": "verified",
-   "outlets": [
-    "The Drive",
     "USA Today",
     "CNN",
-    "Business Insider"
+    "Le Monde",
+    "NPR"
    ],
-   "image": "../images/world/world-20261107-1926-03.jpg",
-   "image_credit": "Alexander-93, CC BY-SA 4.0 (Wikimedia Commons)"
+   "image": null,
+   "image_credit": null
+  },
+  {
+   "id": "world-20261107-2125-05",
+   "published_ist": "2026-11-06T17:01:00+05:30",
+   "headline": "Europe: Jhoothi bomb dhamkiyon se udanein thap",
+   "detail": "Shukravar ko Europe me phir jhoothi bomb dhamkiyon ki lehar — kai udanein divert hui, ladaku vimanon ne escort kiya; sabhi viman surakshit utre, koi visfotak nahi mila; Ireland me RTE ka mukhyalaya khali karaya gaya.",
+   "category": "World",
+   "exam_angle": null,
+   "source": "AP",
+   "source_url": "https://www.etvbharat.com/en/international/european-air-traffic-targeted-by-new-threats-in-at-least-3-incidents-enn26110604866",
+   "genuineness": "verified",
+   "outlets": [
+    "AP",
+    "The Guardian",
+    "BBC",
+    "NPR"
+   ],
+   "image": null,
+   "image_credit": null
   },
   {
    "id": "world-20261107-1822-01",
@@ -129,6 +109,24 @@
    "outlets": [
     "Al Jazeera",
     "SAGIRE"
+   ],
+   "image": null,
+   "image_credit": null
+  },
+  {
+   "id": "world-20261107-1622-03",
+   "published_ist": "2026-11-07T13:32:00+05:30",
+   "headline": "Trump: Iran se takraav 'yuddh nahi'",
+   "detail": "Trump ne kaha paanch mahine me koi ghayal ya mara nahi, isliye Iran ke saath jaari takraav yuddh nahi hai, aur kaha America ne Iran se tel nikasi me pragati ki hai.",
+   "category": "World",
+   "exam_angle": "America-Iran takraav par rashtrapati ka bayan — antarrashtriya sambandh ke liye mahatvapurna.",
+   "source": "The Tribune",
+   "source_url": "https://www.tribuneindia.com/news/usa-news/nobody-hurt-or-killed-in-5-months-trump-says-us-is-not-at-war-with-iran/",
+   "genuineness": "verified",
+   "outlets": [
+    "Gulf News",
+    "Republic World",
+    "Asian News International"
    ],
    "image": null,
    "image_credit": null
@@ -152,19 +150,19 @@
    "image_credit": null
   },
   {
-   "id": "world-20261107-1622-01",
-   "published_ist": "2026-11-07T08:25:00+05:30",
-   "headline": "Beijing: Xi-Trump-Putin baithak par baatchit jaari",
-   "detail": "Cheen ne pehli baar pusht ki hai ki woh Shenzhen me APEC shikhar ke kinare Xi, Trump aur Putin ki aitihasik tripakshiya baithak par baatchit kar raha hai; abhi kuchh tay nahi hai.",
+   "id": "world-20261107-1322-04",
+   "published_ist": "2026-11-07T12:44:00+05:30",
+   "headline": "Iran ne parmanu sthalon ke paas iodine baanta",
+   "detail": "America ke hamle ke dar ke beech Iran ne apne parmanu sthalon ke paas rehne wale logon ko iodine ki goliyan baantni shuru kar di hain; The Times of London ki report ke anusar Pickaxe Mountain sthal par hamle ki aashanka hai.",
    "category": "World",
-   "exam_angle": "APEC shikhar aur teen badi shaktiyon ki tripakshiya kootniti — antarrashtriya sambandh ke liye mahatvapurna.",
-   "source": "The Hindu",
-   "source_url": "https://www.thehindu.com/news/international/china-says-discussions-underway-on-xi-trump-putin-meeting/article71677194.ece",
-   "genuineness": "verified",
+   "exam_angle": "Iran parmanu karyakram aur America se tanav — antarrashtriya sambandh ke liye mahatvapurna.",
+   "source": "Times Now",
+   "source_url": "https://www.timesnownews.com/world/middle-east/iran-distributes-anti-radiation-pills-as-trump-threatens-to-destroy-the-rest-of-the-country-article-156478324",
+   "genuineness": "corroborated",
    "outlets": [
-    "Associated Press",
-    "TRT World",
-    "The Economic Times"
+    "The Times of London",
+    "Al Jazeera",
+    "Times Now"
    ],
    "image": null,
    "image_credit": null
@@ -186,59 +184,6 @@
    ],
    "image": "../images/world/world-20261107-1622-02.jpg",
    "image_credit": "NASA, public domain (Wikimedia Commons)"
-  },
-  {
-   "id": "world-20261107-1622-03",
-   "published_ist": "2026-11-07T13:32:00+05:30",
-   "headline": "Trump: Iran se takraav 'yuddh nahi'",
-   "detail": "Trump ne kaha paanch mahine me koi ghayal ya mara nahi, isliye Iran ke saath jaari takraav yuddh nahi hai, aur kaha America ne Iran se tel nikasi me pragati ki hai.",
-   "category": "World",
-   "exam_angle": "America-Iran takraav par rashtrapati ka bayan — antarrashtriya sambandh ke liye mahatvapurna.",
-   "source": "The Tribune",
-   "source_url": "https://www.tribuneindia.com/news/usa-news/nobody-hurt-or-killed-in-5-months-trump-says-us-is-not-at-war-with-iran/",
-   "genuineness": "verified",
-   "outlets": [
-    "Gulf News",
-    "Republic World",
-    "Asian News International"
-   ],
-   "image": null,
-   "image_credit": null
-  },
-  {
-   "id": "world-20261107-1525-01",
-   "published_ist": "2026-11-07T06:55:00+05:30",
-   "headline": "Qatar: America-Iran ke beech do-din ka bridge deal",
-   "detail": "Qatar ke madhyasthon ne America aur Iran ko do din me vishwas-badhane wale kadmon ka prastav diya hai — America nakabandi hataye aur jama dhan chhode, Iran IAEA nirikshakon ko bomb wale parmanu sthalon par jaane de aur dusre din Hormuz khole; Qatar ke PM ne kaha madhyasthata jaari hai aur samjhaute par khaasi pragati hui hai.",
-   "category": "World",
-   "exam_angle": "America-Iran parmanu vaarta me Qatar ki madhyasthata aur Hormuz jalmarg — antarrashtriya sambandh ke liye mahatvapurna.",
-   "source": "The Hindu",
-   "source_url": "https://www.thehindu.com/news/international/iran-reviewing-proposals-on-tehrans-nuclear-programme-officials/article71677167.ece",
-   "genuineness": "corroborated",
-   "outlets": [
-    "Associated Press",
-    "Reuters"
-   ],
-   "image": null,
-   "image_credit": null
-  },
-  {
-   "id": "world-20261107-1322-04",
-   "published_ist": "2026-11-07T12:44:00+05:30",
-   "headline": "Iran ne parmanu sthalon ke paas iodine baanta",
-   "detail": "America ke hamle ke dar ke beech Iran ne apne parmanu sthalon ke paas rehne wale logon ko iodine ki goliyan baantni shuru kar di hain; The Times of London ki report ke anusar Pickaxe Mountain sthal par hamle ki aashanka hai.",
-   "category": "World",
-   "exam_angle": "Iran parmanu karyakram aur America se tanav — antarrashtriya sambandh ke liye mahatvapurna.",
-   "source": "Times Now",
-   "source_url": "https://www.timesnownews.com/world/middle-east/iran-distributes-anti-radiation-pills-as-trump-threatens-to-destroy-the-rest-of-the-country-article-156478324",
-   "genuineness": "corroborated",
-   "outlets": [
-    "The Times of London",
-    "Al Jazeera",
-    "Times Now"
-   ],
-   "image": null,
-   "image_credit": null
   },
   {
    "id": "world-20261107-1222-01",
@@ -296,6 +241,24 @@
    "image_credit": "Militarnyi"
   },
   {
+   "id": "world-20261107-1622-01",
+   "published_ist": "2026-11-07T08:25:00+05:30",
+   "headline": "Beijing: Xi-Trump-Putin baithak par baatchit jaari",
+   "detail": "Cheen ne pehli baar pusht ki hai ki woh Shenzhen me APEC shikhar ke kinare Xi, Trump aur Putin ki aitihasik tripakshiya baithak par baatchit kar raha hai; abhi kuchh tay nahi hai.",
+   "category": "World",
+   "exam_angle": "APEC shikhar aur teen badi shaktiyon ki tripakshiya kootniti — antarrashtriya sambandh ke liye mahatvapurna.",
+   "source": "The Hindu",
+   "source_url": "https://www.thehindu.com/news/international/china-says-discussions-underway-on-xi-trump-putin-meeting/article71677194.ece",
+   "genuineness": "verified",
+   "outlets": [
+    "Associated Press",
+    "TRT World",
+    "The Economic Times"
+   ],
+   "image": null,
+   "image_credit": null
+  },
+  {
    "id": "world-20261107-1322-02",
    "published_ist": "2026-11-07T08:22:00+05:30",
    "headline": "Zelenskyy: Yuddh khatm kiye bina samjhauta khatarnak",
@@ -310,6 +273,25 @@
     "ANI",
     "The New Voice of Ukraine",
     "RBC-Ukraine"
+   ],
+   "image": null,
+   "image_credit": null
+  },
+  {
+   "id": "world-20261107-1926-02",
+   "published_ist": "2026-11-07T08:12:00+05:30",
+   "headline": "Houston: Police ab ICE ko kam sahyog degi",
+   "detail": "Houston ke Mayor John Whitmire ne karyakari aadesh se police ko nirdesh diya ki ab ICE ko sirf tab suchit kiya jaye jab giraftaar vyakti par jail yogya aarop ho aur ICE warrant bhi ho; mamuli traffic rok par sirf challan milega, koi suchna nahi.",
+   "category": "World",
+   "exam_angle": "America me sthaniya police aur sanghiya immigration pravartan — sanghwad aur rajneeti ke liye mahatvapurna.",
+   "source": "Reuters",
+   "source_url": "https://www.reuters.com/legal/government/houston-mayor-curtails-police-cooperation-with-ice-saying-elections-matter-2026-11-07/",
+   "genuineness": "verified",
+   "outlets": [
+    "Reuters",
+    "BBC",
+    "Associated Press",
+    "USA Today"
    ],
    "image": null,
    "image_credit": null
@@ -387,6 +369,42 @@
    "image_credit": "Times of India"
   },
   {
+   "id": "world-20261107-1525-01",
+   "published_ist": "2026-11-07T06:55:00+05:30",
+   "headline": "Qatar: America-Iran ke beech do-din ka bridge deal",
+   "detail": "Qatar ke madhyasthon ne America aur Iran ko do din me vishwas-badhane wale kadmon ka prastav diya hai — America nakabandi hataye aur jama dhan chhode, Iran IAEA nirikshakon ko bomb wale parmanu sthalon par jaane de aur dusre din Hormuz khole; Qatar ke PM ne kaha madhyasthata jaari hai aur samjhaute par khaasi pragati hui hai.",
+   "category": "World",
+   "exam_angle": "America-Iran parmanu vaarta me Qatar ki madhyasthata aur Hormuz jalmarg — antarrashtriya sambandh ke liye mahatvapurna.",
+   "source": "The Hindu",
+   "source_url": "https://www.thehindu.com/news/international/iran-reviewing-proposals-on-tehrans-nuclear-programme-officials/article71677167.ece",
+   "genuineness": "corroborated",
+   "outlets": [
+    "Associated Press",
+    "Reuters"
+   ],
+   "image": null,
+   "image_credit": null
+  },
+  {
+   "id": "world-20261107-2022-02",
+   "published_ist": "2026-11-07T05:30:00+05:30",
+   "headline": "Sao Paulo: Imaarat giri, chaar ghayal",
+   "detail": "Sao Paulo ke Bras vyaapaarik ilaake me shukravar shaam ek chaar-manzila vyaapaarik imaarat ki chhat gir gayi; andar maujood 35 logon ko surakshit nikala gaya, chaar ghayal aspatal me sthir hain.",
+   "category": "World",
+   "exam_angle": null,
+   "source": "Reuters",
+   "source_url": "https://www.reuters.com/world/americas/four-story-building-collapses-sao-paulo-2026-11-06/",
+   "genuineness": "verified",
+   "outlets": [
+    "Reuters",
+    "NDTV",
+    "The Print",
+    "The Straits Times"
+   ],
+   "image": null,
+   "image_credit": null
+  },
+  {
    "id": "world-20261107-0722-01",
    "published_ist": "2026-11-07T05:20:00+05:30",
    "headline": "Iran ke Qeshm dweep par do missile gire",
@@ -423,25 +441,6 @@
    ],
    "image": "../images/world/world-20261107-0622-01.jpg",
    "image_credit": "Office of the President, Taiwan / CC BY 4.0"
-  },
-  {
-   "id": "world-20261107-1222-02",
-   "published_ist": "2026-11-07T04:37:00+05:30",
-   "headline": "America ki Madhya Purv me suraksha chetavni",
-   "detail": "America ne Madhya Purv ke 10 deshon me reh rahe nagrikon ko Houthi hamlo aur udan radd hone ke khatre par satark rehne ki chetavni di; Videsh Vibhag ne hawai kshetra band hone aur yatra me badha ki aashanka jatai.",
-   "category": "World",
-   "exam_angle": "Madhya Purv me America-Iran tanav aur suraksha chetavni — antarrashtriya sambandh ke liye mahatvapurna.",
-   "source": "U.S. Embassy Jordan",
-   "source_url": "https://jo.usembassy.gov/security-alert-u-s-embassy-amman-november-7-2026/",
-   "genuineness": "verified",
-   "outlets": [
-    "U.S. Department of State",
-    "Mathrubhumi",
-    "APA",
-    "Siasat"
-   ],
-   "image": null,
-   "image_credit": null
   }
  ]
 }
