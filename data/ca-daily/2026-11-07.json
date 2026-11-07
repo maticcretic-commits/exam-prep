@@ -72,6 +72,76 @@
     ],
     "answer_index": 1
    }
+  },
+  {
+   "episode": 90,
+   "video_hi": "GMX-LL52GXo",
+   "video_hinglish": "GMX-LL52GXo",
+   "capsules": [
+    {
+     "id": "ca-ep90-s1",
+     "headline_hi": "VISTAR scheme ko 4,371 crore ki swikriti",
+     "headline_hinglish": "VISTAR scheme ko 4,371 crore ki swikriti",
+     "detail_hi": "Cabinet ne statistics system modern karne ke liye VISTAR scheme ko swikriti di; kul laagat 4,371.10 crore.",
+     "detail_hinglish": "Cabinet ne statistics system modern karne ke liye VISTAR scheme ko swikriti di; kul laagat 4,371.10 crore.",
+     "category_hi": "Economy",
+     "category_en": "Economy"
+    },
+    {
+     "id": "ca-ep90-s2",
+     "headline_hi": "DRDO ne Pralay missile ka safal test kiya",
+     "headline_hinglish": "DRDO ne Pralay missile ka safal test kiya",
+     "detail_hi": "DRDO ne Odisha tat se swadeshi quasi-ballistic missile Pralay ka safal flight test kiya.",
+     "detail_hinglish": "DRDO ne Odisha tat se swadeshi quasi-ballistic missile Pralay ka safal flight test kiya.",
+     "category_hi": "Defence",
+     "category_en": "Defence"
+    },
+    {
+     "id": "ca-ep90-s3",
+     "headline_hi": "Critical minerals ke liye 2,814 crore ki madad",
+     "headline_hinglish": "Critical minerals ke liye 2,814 crore ki madad",
+     "detail_hi": "Cabinet ne critical mineral processing ke liye 2,814 crore ki CAPEX support scheme ko swikriti di.",
+     "detail_hinglish": "Cabinet ne critical mineral processing ke liye 2,814 crore ki CAPEX support scheme ko swikriti di.",
+     "category_hi": "Economy",
+     "category_en": "Economy"
+    },
+    {
+     "id": "ca-ep90-s4",
+     "headline_hi": "Tanvi Patri ne Youth Olympics mein silver jeeta",
+     "headline_hinglish": "Tanvi Patri ne Youth Olympics mein silver jeeta",
+     "detail_hi": "Pandra saal ki Tanvi Patri ne Dakar Youth Olympic Games mein badminton women's singles ka silver jeeta.",
+     "detail_hinglish": "Pandra saal ki Tanvi Patri ne Dakar Youth Olympic Games mein badminton women's singles ka silver jeeta.",
+     "category_hi": "Sports",
+     "category_en": "Sports"
+    },
+    {
+     "id": "ca-ep90-s5",
+     "headline_hi": "Delhi mein GRAP Stage 3, AQI 382 par",
+     "headline_hinglish": "Delhi mein GRAP Stage 3, AQI 382 par",
+     "detail_hi": "Delhi mein hawa kharab hone par GRAP Stage 3 lagu; average AQI 382 tak pahuncha, 'Very Poor' shreni mein.",
+     "detail_hinglish": "Delhi mein hawa kharab hone par GRAP Stage 3 lagu; average AQI 382 tak pahuncha, 'Very Poor' shreni mein.",
+     "category_hi": "Environment",
+     "category_en": "Environment"
+    }
+   ],
+   "mcq": {
+    "id": "ca-ep90-mcq",
+    "q_hi": "VISTAR scheme ke tahat kul kitni rashi manzoor hui?",
+    "q_hinglish": "VISTAR scheme ke tahat kul kitni rashi manzoor hui?",
+    "options_hi": [
+     "2,814 crore",
+     "3,788.04 crore",
+     "4,371.10 crore",
+     "7,503 crore"
+    ],
+    "options_hinglish": [
+     "2,814 crore",
+     "3,788.04 crore",
+     "4,371.10 crore",
+     "7,503 crore"
+    ],
+    "answer_index": 2
+   }
   }
  ]
 }
