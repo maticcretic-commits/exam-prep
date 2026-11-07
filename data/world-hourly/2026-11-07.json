@@ -676,5 +676,63 @@
   ],
   "image": "../images/world/world-20261107-1926-03.jpg",
   "image_credit": "Alexander-93, CC BY-SA 4.0 (Wikimedia Commons)"
+ },
+ {
+  "id": "world-20261107-2022-01",
+  "published_ist": "2026-11-06T16:18:00+05:30",
+  "headline": "Saudi: Mecca ke paas drone giraya gaya",
+  "detail": "Saudi netritva wale gathbandhan ne shukravar ko Mecca kshetra me ek drone aur Najran ki taraf aaye do ballistic missile giraye; shanivaar ko Riyadh ki taraf aaya ek cruise missile bhi roka gaya, koi nuksan nahi hua.",
+  "category": "World",
+  "exam_angle": "Madhya Purv me Saudi-Houthi sangharsh — Bharat ke tel margon aur suraksha ke liye mahatvapurna.",
+  "source": "Arab News",
+  "source_url": "https://www.arabnews.com/saudi-arabia/saudi-air-defenses-intercept-ballistic-missile-drone-in-riyadh-region-3010236",
+  "genuineness": "verified",
+  "outlets": [
+   "Arab News",
+   "Al Jazeera",
+   "Institute for the Study of War",
+   "Gulf News",
+   "AFP"
+  ],
+  "image": "../images/world/world-20261107-2022-01.jpg",
+  "image_credit": "Ali Mansuri, CC BY-SA 2.5 (Wikimedia Commons)"
+ },
+ {
+  "id": "world-20261107-2022-02",
+  "published_ist": "2026-11-07T05:30:00+05:30",
+  "headline": "Sao Paulo: Imaarat giri, chaar ghayal",
+  "detail": "Sao Paulo ke Bras vyaapaarik ilaake me shukravar shaam ek chaar-manzila vyaapaarik imaarat ki chhat gir gayi; andar maujood 35 logon ko surakshit nikala gaya, chaar ghayal aspatal me sthir hain.",
+  "category": "World",
+  "exam_angle": null,
+  "source": "Reuters",
+  "source_url": "https://www.reuters.com/world/americas/four-story-building-collapses-sao-paulo-2026-11-06/",
+  "genuineness": "verified",
+  "outlets": [
+   "Reuters",
+   "NDTV",
+   "The Print",
+   "The Straits Times"
+  ],
+  "image": null,
+  "image_credit": null
+ },
+ {
+  "id": "world-20261107-2022-03",
+  "published_ist": "2026-11-06T05:00:00+05:30",
+  "headline": "Florida: CAIR ne kaam roka, 'aatanki' tag par",
+  "detail": "America ke sabse bade Muslim adhikar sangathan CAIR ne Florida me kaam rok diya, kyunki sanghiya nyayadhish ne rajya ke 'gharelu aatanki sangathan' wale kanoon par rok lagane se mana kar diya; sangathan faisle ke khilaf appeal karega.",
+  "category": "World",
+  "exam_angle": "America me nagrik adhikar aur rajya shakti ka sangharsh — samvidhanik adhikaron ke liye mahatvapurna.",
+  "source": "Reuters",
+  "source_url": "https://www.reuters.com/legal/government/largest-us-muslim-advocacy-group-suspends-florida-operations-over-terrorist-2026-11-06/",
+  "genuineness": "verified",
+  "outlets": [
+   "Reuters",
+   "Religion News Service",
+   "ACLU",
+   "Central Florida Public Media"
+  ],
+  "image": null,
+  "image_credit": null
  }
 ]
