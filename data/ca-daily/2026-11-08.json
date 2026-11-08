@@ -142,6 +142,76 @@
     ],
     "answer_index": 2
    }
+  },
+  {
+   "episode": 95,
+   "video_hi": "zEC3qCyLe9Y",
+   "video_hinglish": "zEC3qCyLe9Y",
+   "capsules": [
+    {
+     "id": "ca-ep95-s1",
+     "headline_hi": "Cyclone Murasu: Andhra mein 8 ki maut",
+     "headline_hinglish": "Cyclone Murasu: Andhra mein 8 ki maut",
+     "detail_hi": "Teen November ko Ongole ke paas landfall, hawa 100-110 kmph, nuksaan lagbhag 1,918 crore rupaye.",
+     "detail_hinglish": "Teen November ko Ongole ke paas landfall, hawa 100-110 kmph, nuksaan lagbhag 1,918 crore rupaye.",
+     "category_hi": "Disaster",
+     "category_en": "National"
+    },
+    {
+     "id": "ca-ep95-s2",
+     "headline_hi": "Nyoma: IAF ka 13,629 feet wala landing",
+     "headline_hinglish": "Nyoma: IAF ka 13,629 feet wala landing",
+     "detail_hi": "IL-76 ne Ladakh ke Nyoma airfield par 13,629 feet ki unchai par pehli baar landing ki.",
+     "detail_hinglish": "IL-76 ne Ladakh ke Nyoma airfield par 13,629 feet ki unchai par pehli baar landing ki.",
+     "category_hi": "Defence",
+     "category_en": "Defence"
+    },
+    {
+     "id": "ca-ep95-s3",
+     "headline_hi": "Notebandi ke 10 saal: kya badla?",
+     "headline_hinglish": "Notebandi ke 10 saal: kya badla?",
+     "detail_hi": "8 November 2016 ko 500 aur 1,000 ke note band hue the; aaj das saal poore hue.",
+     "detail_hinglish": "8 November 2016 ko 500 aur 1,000 ke note band hue the; aaj das saal poore hue.",
+     "category_hi": "Economy",
+     "category_en": "Economy"
+    },
+    {
+     "id": "ca-ep95-s4",
+     "headline_hi": "CRPF: 47 saal mein pehli baar zero shahadat",
+     "headline_hinglish": "CRPF: 47 saal mein pehli baar zero shahadat",
+     "detail_hi": "CRPF ne lagatar 12 mahine bina kisi operational fatality ke poore kiye — 47 saalon mein pehli baar.",
+     "detail_hinglish": "CRPF ne lagatar 12 mahine bina kisi operational fatality ke poore kiye — 47 saalon mein pehli baar.",
+     "category_hi": "Security",
+     "category_en": "National"
+    },
+    {
+     "id": "ca-ep95-s5",
+     "headline_hi": "Diwali: PM Modi Bastar mein jawanon ke saath",
+     "headline_hinglish": "Diwali: PM Modi Bastar mein jawanon ke saath",
+     "detail_hi": "PM ne kaha Bastar Naxalwad se mukt hua; Diwali suraksha balon ke saath manayenge.",
+     "detail_hinglish": "PM ne kaha Bastar Naxalwad se mukt hua; Diwali suraksha balon ke saath manayenge.",
+     "category_hi": "Polity",
+     "category_en": "Polity"
+    }
+   ],
+   "mcq": {
+    "id": "ca-ep95-mcq",
+    "q_hi": "Nyoma airfield kis unchai par hai?",
+    "q_hinglish": "Nyoma airfield kis unchai par hai?",
+    "options_hi": [
+     "11,500 feet",
+     "13,629 feet",
+     "15,200 feet",
+     "10,800 feet"
+    ],
+    "options_hinglish": [
+     "11,500 feet",
+     "13,629 feet",
+     "15,200 feet",
+     "10,800 feet"
+    ],
+    "answer_index": 1
+   }
   }
  ]
 }
