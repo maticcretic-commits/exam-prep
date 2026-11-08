@@ -1,43 +1,76 @@
 {
- "updated_ist": "2026-11-08T08:24:00+05:30",
+ "updated_ist": "2026-11-08T09:26:00+05:30",
  "items": [
   {
-   "id": "world-20261108-0822-01",
-   "published_ist": "2026-11-06T01:18:00+05:30",
-   "headline": "America: Dhillon ne Civil Rights pad chhoda",
-   "detail": "Trump prashasan ki pehli badi vidai — Attorney General ne 5 November ko Harmeet Dhillon ka istifa sweekar kiya; woh April 2025 se Civil Rights Division ki pramukh thi.",
+   "id": "world-20261108-0922-01",
+   "published_ist": "2026-11-08T03:31:00+05:30",
+   "headline": "Colombia: Drone hamle me teen sainik mare",
+   "detail": "Santa Rosa del Sur ke sainya adde par visfotak drones se hamla — teen sainikon ki maut, aath gambhir ghayal; hamle ki zimmedari kisi ne nahi li.",
    "category": "World",
-   "exam_angle": "Midterm ke baad pehli badi vidai — America ki rajneeti aur nagrik adhikar ke liye mahatvapurna.",
-   "source": "Al Jazeera",
-   "source_url": "https://www.aljazeera.com/amp/news/2026/11/5/top-us-civil-rights-official-resigns",
+   "exam_angle": "Drone yuddh aur Latin America ki suraksha — aadhunik yuddh takneek ke liye mahatvapurna.",
+   "source": "Republic World",
+   "source_url": "https://www.republicworld.com/amp/global-news/drone-strike-hits-military-base-in-northern-colombia-3-soldiers-killed-and-8-injured-2026-11-07-140640",
    "genuineness": "verified",
    "outlets": [
-    "Al Jazeera",
-    "CNN",
-    "USA Today",
-    "The Washington Post"
-   ],
-   "image": "../images/world/world-20261108-0822-01.jpg",
-   "image_credit": "Gage Skidmore, CC BY-SA 2.0 (Wikimedia Commons)"
-  },
-  {
-   "id": "world-20261108-0822-02",
-   "published_ist": "2026-11-07T00:27:00+05:30",
-   "headline": "France: School bus haadse me do ki maut",
-   "detail": "Lyon se Bourg-en-Bresse ja rahi bus ped se takra gayi; saat saal ki ladki aur 18 saal ke yuva ki maut, 16 ghayal, teen ki haalat gambhir.",
-   "category": "World",
-   "exam_angle": null,
-   "source": "WION",
-   "source_url": "https://www.wionews.com/world/france-school-bus-crash-seven-year-old-among-two-killed-several-injured-after-driver-dozes-off-1793990386189/amp",
-   "genuineness": "verified",
-   "outlets": [
-    "Reuters",
-    "Channel News Asia",
-    "WION",
-    "Gulf Times"
+    "Associated Press",
+    "Republic World",
+    "The Rio Times"
    ],
    "image": null,
    "image_credit": null
+  },
+  {
+   "id": "world-20261108-0922-02",
+   "published_ist": "2026-11-07T21:34:00+05:30",
+   "headline": "Japan: 5.7 ke bhookamp me 22 ghayal",
+   "detail": "Subah 1:04 baje Shizuoka ke paas 5.7 tivra bhookamp se Aichi aur Shizuoka me kam se kam 22 log ghayal hue; tsunami ki chetavni nahi, Hamaoka parmanu plant surakshit raha.",
+   "category": "World",
+   "exam_angle": "Japan ki bhookamp-prone sthiti aur aapda taiyari — bhugol aur aapda prabandhan ke liye mahatvapurna.",
+   "source": "The Hindu",
+   "source_url": "https://www.thehindu.com/news/international/strong-earthquake-strikes-japan/article71680450.ece",
+   "genuineness": "corroborated",
+   "outlets": [
+    "Associated Press",
+    "Kyodo News"
+   ],
+   "image": null,
+   "image_credit": null
+  },
+  {
+   "id": "world-20261108-0922-03",
+   "published_ist": "2026-11-07T07:27:00+05:30",
+   "headline": "America: Iran parmanu suchna par $20m inaam",
+   "detail": "Rewards for Justice ne Iran ke parmanu karyakram ki jankari par 20 million dollar tak ka inaam aur sambhav sthanantaran ki ghoshna ki; IAEA ke anusar Iran 60% tak uranium samriddh kar raha hai.",
+   "category": "World",
+   "exam_angle": "IAEA safeguards aur parmanu aprasar — antarrashtriya suraksha ke liye mahatvapurna.",
+   "source": "CNN",
+   "source_url": "https://www.cnn.com/2026/11/07/middleeast/trump-reward-intelligence-iran-nuclear-program-intl?cid=external-feeds_iluminar_meta",
+   "genuineness": "verified",
+   "outlets": [
+    "CNN",
+    "The Times of Israel",
+    "The Times of India"
+   ],
+   "image": null,
+   "image_credit": null
+  },
+  {
+   "id": "world-20261108-0922-04",
+   "published_ist": "2026-11-07T00:38:00+05:30",
+   "headline": "America: Miller naye chief of staff bane",
+   "detail": "Trump ne Stephen Miller ko White House chief of staff banaya; woh somvaar se pad sambhalenge, Susie Wiles ab Trump ke political operation me jayengi.",
+   "category": "World",
+   "exam_angle": "Midterm ke baad White House me bada badlav — America ki rajneeti ke liye mahatvapurna.",
+   "source": "Al Jazeera",
+   "source_url": "https://www.aljazeera.com/news/2026/11/6/trump-says-making-adviser-stephen-miller-white-house-chief-of-staff?traffic_source=rss",
+   "genuineness": "verified",
+   "outlets": [
+    "Al Jazeera",
+    "USA Today",
+    "CNN"
+   ],
+   "image": "../images/world/world-20261108-0922-04.jpg",
+   "image_credit": "Gage Skidmore, CC BY-SA 2.0 (Wikimedia Commons)"
   },
   {
    "id": "world-20261108-0822-03",
@@ -206,8 +239,8 @@
   {
    "id": "world-20261107-2222-01",
    "published_ist": "2026-11-07T19:30:00+05:30",
-   "headline": "Krakow: Chauk par golibari, paanch ki maut",
-   "detail": "Krakow ke Main Market Square par ek vyakti ne gaadi se andhadhundh golibari ki — paanch ki maut, ek darjan se zyada ghayal, aur police ne hamlawar ko goli maarkar giraftar kiya.",
+   "headline": "Krakow: Chauk par golibari, chhah ki maut",
+   "detail": "Krakow ke Main Market Square par hamalawar ne gaadi se golibari ki — chhah ki maut, 15 ghayal; police ne use goli maarkar giraftar kiya. Uske ghar par parivar ke teen sadasyon ke shav mile; mantri ke anusar woh kattar dakshinpanthi vichardhara se prabhavit tha. (Updated: pehle paanch ki maut batayi gayi thi.)",
    "category": "World",
    "exam_angle": null,
    "source": "CNN",
@@ -401,42 +434,6 @@
     "Economic Times",
     "The Peninsula",
     "Arab News"
-   ],
-   "image": null,
-   "image_credit": null
-  },
-  {
-   "id": "world-20261107-1425-01",
-   "published_ist": "2026-11-07T08:31:00+05:30",
-   "headline": "Ukraine ne Saratov refinery par drone hamla kiya",
-   "detail": "Raat bhar ke hamle me Saratov refinery me aag lag gayi aur Oryol ki Proton factory par Neptune missile gira; Russia ne 411 drone rokne ka daava kiya.",
-   "category": "World",
-   "exam_angle": "Russia-Ukraine yuddh me oorja dhanche par hamle — antarrashtriya sambandh ke liye mahatvapurna.",
-   "source": "Kyiv Independent",
-   "source_url": "https://kyivindependent.com/ukraine-strikes-saratov-oil-refinery-in-mass-attack-on-several-regions-reports-say/",
-   "genuineness": "verified",
-   "outlets": [
-    "Kyiv Independent",
-    "Kyiv Post",
-    "Militarnyi"
-   ],
-   "image": "../images/world/world-20261107-1425-01.jpg",
-   "image_credit": "Militarnyi"
-  },
-  {
-   "id": "world-20261107-1622-01",
-   "published_ist": "2026-11-07T08:25:00+05:30",
-   "headline": "Beijing: Xi-Trump-Putin baithak par baatchit jaari",
-   "detail": "Cheen ne pehli baar pusht ki hai ki woh Shenzhen me APEC shikhar ke kinare Xi, Trump aur Putin ki aitihasik tripakshiya baithak par baatchit kar raha hai; abhi kuchh tay nahi hai.",
-   "category": "World",
-   "exam_angle": "APEC shikhar aur teen badi shaktiyon ki tripakshiya kootniti — antarrashtriya sambandh ke liye mahatvapurna.",
-   "source": "The Hindu",
-   "source_url": "https://www.thehindu.com/news/international/china-says-discussions-underway-on-xi-trump-putin-meeting/article71677194.ece",
-   "genuineness": "verified",
-   "outlets": [
-    "Associated Press",
-    "TRT World",
-    "The Economic Times"
    ],
    "image": null,
    "image_credit": null
