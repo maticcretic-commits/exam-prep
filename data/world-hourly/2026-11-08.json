@@ -1,0 +1,97 @@
+{
+  "date": "2026-11-08",
+  "items": [
+    {
+      "id": "world-20261108-0622-02",
+      "published_ist": "2026-11-08T05:31:00+05:30",
+      "headline": "CENTCOM: Iran ki zameeni supply par rok",
+      "detail": "America ki Central Command ne Task Force Iron Gate banayi hai jo Iran ki zameeni seemaon aur Caspian Sea se hathiyaron aur pratibandhit saaman ki aavaajahi rokegi.",
+      "category": "World",
+      "exam_angle": "America-Iran tanav me nakabandi ka vistaar — Hormuz aur samudri vyapar ke liye mahatvapurna.",
+      "source": "Al Jazeera",
+      "source_url": "https://www.aljazeera.com/news/liveblog/2026/11/8/iran-war-live-explosions-hit-qeshm-us-moves-to-block-land-supply-routes",
+      "genuineness": "corroborated",
+      "outlets": [
+        "Reuters",
+        "Al Jazeera"
+      ],
+      "image": null,
+      "image_credit": null
+    },
+    {
+      "id": "world-20261108-0622-03",
+      "published_ist": "2026-11-08T04:53:00+05:30",
+      "headline": "Israel: Eisenkot ko sarkar banane ka mauka",
+      "detail": "Rashtrapati Isaac Herzog ne Netanyahu ke pratidvandi Gadi Eisenkot ko sarkar banane ka mauka diya; 67 sansadon ne unka samarthan kiya, Netanyahu ko 46 mile, aur Eisenkot ke paas 28 din hain.",
+      "category": "World",
+      "exam_angle": "Israel me sarkar gathan aur Knesset ki bhoomika — Madhya Purv ki rajneeti ke liye mahatvapurna.",
+      "source": "News18",
+      "source_url": "https://www.news18.com/world/plot-twist-in-israel-netanyahu-loses-govt-mandate-as-gadi-eisenkot-gets-presidents-nod-ws-lrt-10417231.html",
+      "genuineness": "verified",
+      "outlets": [
+        "News18",
+        "Indian Express",
+        "Free Malaysia Today",
+        "DNYUZ"
+      ],
+      "image": "../images/world/world-20261108-0622-03.jpg",
+      "image_credit": "Ronen Horesh / Knesset Archives, CC BY-SA 4.0 (Wikimedia Commons)"
+    },
+    {
+      "id": "world-20261108-0622-01",
+      "published_ist": "2026-11-08T03:32:00+05:30",
+      "headline": "Qeshm-Jask: Hormuz kinare phir dhamake",
+      "detail": "Iran ke sarkari media ke anusar Qeshm dweep aur Jask, Sirik aur Bandar Abbas me dhamakon ki awaazein suni gayin; wajah abhi saaf nahi hai.",
+      "category": "World",
+      "exam_angle": "Hormuz jalmarg aur America-Iran tanav — antarrashtriya suraksha aur urja ke liye mahatvapurna.",
+      "source": "Al Jazeera",
+      "source_url": "https://www.aljazeera.com/news/liveblog/2026/11/8/iran-war-live-explosions-hit-qeshm-us-moves-to-block-land-supply-routes",
+      "genuineness": "verified",
+      "outlets": [
+        "Al Jazeera",
+        "Jerusalem Post",
+        "ANI",
+        "Haaretz"
+      ],
+      "image": null,
+      "image_credit": null
+    },
+    {
+      "id": "world-20261108-0622-05",
+      "published_ist": "2026-11-08T01:01:00+05:30",
+      "headline": "Sanaa: Hawai hamle me 27 ki maut",
+      "detail": "Sanaa ke paas al-Shariya gaon par hawai hamle me Houthi-run health ministry ke anusar kam se kam 27 ki maut aur 36 ghayal hue; Houthis ne Saudi Arabia par aarop lagaya, Riyadh ne abhi koi tippani nahi ki.",
+      "category": "World",
+      "exam_angle": "Yemen grih yuddh aur Saudi-Houthi sangharsh — Madhya Purv ki suraksha ke liye mahatvapurna.",
+      "source": "Deccan Herald",
+      "source_url": "https://www.deccanherald.com/amp/story/middle-east/at-least-27-killed-36-wounded-in-alleged-saudi-arabia-airstrikes-near-yemens-capital-4211652",
+      "genuineness": "corroborated",
+      "outlets": [
+        "Reuters",
+        "AP",
+        "Deccan Herald"
+      ],
+      "image": null,
+      "image_credit": null
+    },
+    {
+      "id": "world-20261108-0622-04",
+      "published_ist": "2026-11-07T23:43:00+05:30",
+      "headline": "Trump: Democrats ki jaanch ka aadesh",
+      "detail": "Trump ne Justice Department ko Democrats ki jaanch ka aadesh diya, aarop hai ki ve mahaabhiyog ki dhamki dekar 'dabaav' bana rahe hain; unhone koi saboot nahi diya.",
+      "category": "World",
+      "exam_angle": "America me midterm ke baad satta santulan aur Congress ki nigrani — antarrashtriya sambandh ke liye mahatvapurna.",
+      "source": "Reuters",
+      "source_url": "https://www.reuters.com/world/trump-orders-doj-look-into-democrats-threatening-people-2026-11-07/",
+      "genuineness": "verified",
+      "outlets": [
+        "Reuters",
+        "Al Jazeera",
+        "Times of Israel",
+        "Vanguard"
+      ],
+      "image": null,
+      "image_credit": null
+    }
+  ]
+}
