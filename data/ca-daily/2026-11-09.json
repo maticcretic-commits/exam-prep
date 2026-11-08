@@ -1,0 +1,77 @@
+{
+ "date": "2026-11-09",
+ "date_hi": "9 November 2026",
+ "date_en": "9 November 2026",
+ "episodes": [
+  {
+   "episode": 97,
+   "video_hi": "4A8ibCCGE7U",
+   "video_hinglish": "4A8ibCCGE7U",
+   "capsules": [
+    {
+     "id": "ca-ep97-s1",
+     "headline_hi": "Char nayi Vande Bharat, kul 164 trains",
+     "headline_hinglish": "Char nayi Vande Bharat, kul 164 trains",
+     "detail_hi": "Aath November ko Banaras se chaar nayi Vande Bharat trains chali; desh mein kul 164 services ho gayi.",
+     "detail_hinglish": "Aath November ko Banaras se chaar nayi Vande Bharat trains chali; desh mein kul 164 services ho gayi.",
+     "category_hi": "Railways",
+     "category_en": "National"
+    },
+    {
+     "id": "ca-ep97-s2",
+     "headline_hi": "CBSE board exams 16 February se",
+     "headline_hinglish": "CBSE board exams 16 February se",
+     "detail_hi": "CBSE ne 2027 ki Class 10 aur 12 ki date sheet jaari ki; 46 lakh se zyada chhaatra exam denge.",
+     "detail_hinglish": "CBSE ne 2027 ki Class 10 aur 12 ki date sheet jaari ki; 46 lakh se zyada chhaatra exam denge.",
+     "category_hi": "Education",
+     "category_en": "Education"
+    },
+    {
+     "id": "ca-ep97-s3",
+     "headline_hi": "Gangster Afridi Ethiopia se deport hua",
+     "headline_hinglish": "Gangster Afridi Ethiopia se deport hua",
+     "detail_hi": "Das mahine ki khoj ke baad Punjab Police ne wanted gangster Gurwinder urf Afridi ko Ethiopia se wapas laya.",
+     "detail_hinglish": "Das mahine ki khoj ke baad Punjab Police ne wanted gangster Gurwinder urf Afridi ko Ethiopia se wapas laya.",
+     "category_hi": "Security",
+     "category_en": "National"
+    },
+    {
+     "id": "ca-ep97-s4",
+     "headline_hi": "India ne ODI series 2-0 se jeeti",
+     "headline_hinglish": "India ne ODI series 2-0 se jeeti",
+     "detail_hi": "Wellington mein chaar run se jeet kar Bharat ne ODI series mein 2-0 ki badhat bana li.",
+     "detail_hinglish": "Wellington mein chaar run se jeet kar Bharat ne ODI series mein 2-0 ki badhat bana li.",
+     "category_hi": "Sports",
+     "category_en": "Sports"
+    },
+    {
+     "id": "ca-ep97-s5",
+     "headline_hi": "Muhurat trading: 8 saal ki jeet tooti",
+     "headline_hinglish": "Muhurat trading: 8 saal ki jeet tooti",
+     "detail_hi": "Diwali Muhurat trading mein Sensex aur Nifty halke giray; aath saal ki jeet ki lakir tooti.",
+     "detail_hinglish": "Diwali Muhurat trading mein Sensex aur Nifty halke giray; aath saal ki jeet ki lakir tooti.",
+     "category_hi": "Economy",
+     "category_en": "Economy"
+    }
+   ],
+   "mcq": {
+    "id": "ca-ep97-mcq",
+    "q_hi": "CBSE Class 12 board exams 2027 kab se shuru honge?",
+    "q_hinglish": "CBSE Class 12 board exams 2027 kab se shuru honge?",
+    "options_hi": [
+     "1 February 2027",
+     "16 February 2027",
+     "1 March 2027",
+     "15 April 2027"
+    ],
+    "options_hinglish": [
+     "1 February 2027",
+     "16 February 2027",
+     "1 March 2027",
+     "15 April 2027"
+    ],
+    "answer_index": 1
+   }
+  }
+ ]
+}
