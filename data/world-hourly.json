@@ -1,6 +1,24 @@
 {
-  "updated_ist": "2026-11-08T18:24:08+05:30",
+  "updated_ist": "2026-11-08T19:25:12+05:30",
   "items": [
+    {
+      "id": "world-20261108-1924-01",
+      "published_ist": "2026-11-07T21:17:00+05:30",
+      "headline": "MEXC: America ne crypto exchange par rok lagayi",
+      "detail": "America ke FinCEN ne MEXC crypto exchange ko US banks se kaatne ka aadesh diya — May 2021 se May 2026 ke beech $16.7 arab ke sandigdh len-den ka aarop; rok Federal Register me prakashan ke 30 din baad lagu hogi.",
+      "category": "World",
+      "exam_angle": "Crypto par niyaman, money laundering aur pratibandh — banking aur arthvyavastha ke liye mahatvapurna.",
+      "source": "Bitcoin Insider",
+      "source_url": "https://www.bitcoininsider.org/article/fincen-mexc-order-cut-off-us-financial-system",
+      "genuineness": "corroborated",
+      "outlets": [
+        "US Treasury / FinCEN",
+        "Crypto.news",
+        "Bitcoin Insider"
+      ],
+      "image": null,
+      "image_credit": null
+    },
     {
       "id": "world-20261108-1822-01",
       "published_ist": "2026-11-07T19:30:00+05:30",
@@ -427,24 +445,6 @@
       ],
       "image": "../images/world/world-20261108-1026-03.jpg",
       "image_credit": "Channel News Asia"
-    },
-    {
-      "id": "world-20261108-1026-04",
-      "published_ist": "2026-11-07T22:33:00+05:30",
-      "headline": "Gaza: Baarish me 70,000 tent doobe",
-      "detail": "Sardi ki pehli baarish me 12 ghante me 70,000 tent doob gaye aur civil defence ko 1,500 madad ki pukaarein mili.",
-      "category": "World",
-      "exam_angle": null,
-      "source": "The Hindu",
-      "source_url": "https://www.thehindu.com/news/international/heavy-rain-inundates-shelters-for-people-displaced-by-war-in-gaza/article71679279.ece",
-      "genuineness": "verified",
-      "outlets": [
-        "Reuters",
-        "Al Jazeera",
-        "The Hindu"
-      ],
-      "image": "../images/world/world-20261108-1026-04.jpg",
-      "image_credit": "The Hindu"
     }
   ]
 }
