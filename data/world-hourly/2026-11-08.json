@@ -698,6 +698,44 @@
       ],
       "image": null,
       "image_credit": null
+    },
+    {
+      "id": "world-20261108-1722-01",
+      "published_ist": "2026-11-08T15:04:00+05:30",
+      "headline": "Senegal: Naav doobne se 21 ki maut",
+      "detail": "Senegal ke uttar-paschimi tat par pravasiyon ki naav doob gayi — kam se kam 21 ki maut, ek ko bachaya gaya; grih mantralaya ke mutaabik mrityu sankhya asthayi hai, khoj jaari hai.",
+      "category": "World",
+      "exam_angle": "Africa se Europe ka Atlantic pravasi marg aur samudri suraksha — antarrashtriya sambandh ke liye mahatvapurna.",
+      "source": "The Hindu",
+      "source_url": "https://www.thehindu.com/news/international/migrant-boat-sinks-off-senegal-death-toll/article71680824.ece",
+      "genuineness": "corroborated",
+      "outlets": [
+        "The Hindu",
+        "Moneycontrol",
+        "WION",
+        "Seneweb"
+      ],
+      "image": "../images/world/world-20261108-1722-01.jpg",
+      "image_credit": "HaguardDuNord, CC BY-SA 3.0 (Wikimedia Commons)"
+    },
+    {
+      "id": "world-20261108-1722-02",
+      "published_ist": "2026-11-07T14:11:00+05:30",
+      "headline": "Africa: Peela bukhar, nau deshon me faila",
+      "detail": "WHO ke mutaabik 2026 me nau African deshon me peele bukhar ke 67 pusht mamle aur 18 mautein darj hui; kshetriya jokhim madhyam aur vaishvik jokhim kam aanka gaya.",
+      "category": "World",
+      "exam_angle": "WHO, IHR 2005 aur EYE Strategy — swasthya aur antarrashtriya sangathan ke liye mahatvapurna.",
+      "source": "Khaleej Tribune",
+      "source_url": "https://khaleejtribune.com/who-67-yellow-fever-cases-nine-african-countries/",
+      "genuineness": "corroborated",
+      "outlets": [
+        "WHO",
+        "Khaleej Tribune",
+        "Global Bihari",
+        "Oman Herald"
+      ],
+      "image": "../images/world/world-20261108-1722-02.jpg",
+      "image_credit": "US Department of Agriculture, Public domain (Wikimedia Commons)"
     }
   ]
 }
