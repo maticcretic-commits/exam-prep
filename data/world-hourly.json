@@ -1,6 +1,80 @@
 {
- "updated_ist": "2026-11-08T09:26:00+05:30",
+ "updated_ist": "2026-11-08T10:26:00+05:30",
  "items": [
+  {
+   "id": "world-20261108-1026-01",
+   "published_ist": "2026-11-08T07:00:00+05:30",
+   "headline": "Oman ki khaadi: America ne jahaz ko roka",
+   "detail": "CENTCOM ke mutaabik, M/V Huda ne naaka todne ki koshish ki to America ne uske pichhle hisse par hamla kar use roka.",
+   "category": "World",
+   "exam_angle": "Iran par America ki samudri naakaabandi July se jaari hai",
+   "source": "India TV",
+   "source_url": "https://www.indiatvnews.com/news/world/us-disables-cargo-ship-in-gulf-of-oman-iran-reports-explosions-on-qeshm-island-2026-11-08-1058929",
+   "genuineness": "verified",
+   "outlets": [
+    "Reuters",
+    "India TV",
+    "The Hindu BusinessLine",
+    "Gulf News"
+   ],
+   "image": null,
+   "image_credit": null
+  },
+  {
+   "id": "world-20261108-1026-02",
+   "published_ist": "2026-11-08T03:28:00+05:30",
+   "headline": "Abu Dhabi vaarta: Russia ki team taya",
+   "detail": "Kremlin ne kaha, Medinsky ke netritva me Ryabkov pehli baar shamil honge; 10-11 November ko America-Ukraine ke saath vaarta hogi.",
+   "category": "World",
+   "exam_angle": "February ke baad pehli tripakshiya vaarta",
+   "source": "Kyiv Independent",
+   "source_url": "https://kyivindependent.com/russia-to-send-senior-diplomats-military-officials-to-upcoming-peace-talks-in-abu-dhabi/",
+   "genuineness": "verified",
+   "outlets": [
+    "Reuters",
+    "Kyiv Independent",
+    "The Jerusalem Post",
+    "TRT World"
+   ],
+   "image": null,
+   "image_credit": null
+  },
+  {
+   "id": "world-20261108-1026-03",
+   "published_ist": "2026-11-08T03:00:00+05:30",
+   "headline": "France: Chauthe hafte bhi sadkon par virodh",
+   "detail": "Grih mantralaya ke mutaabik Shanivaar ko 1.46 lakh log mehengaai aur vetan ke khilaaf sadkon par utre.",
+   "category": "World",
+   "exam_angle": "France me paanch mahine me rashtrapati chunav",
+   "source": "Channel News Asia",
+   "source_url": "https://www.channelnewsasia.com/world/france-protests-students-yellow-vests-rising-costs-6532981",
+   "genuineness": "verified",
+   "outlets": [
+    "Channel News Asia",
+    "dpa",
+    "France 24"
+   ],
+   "image": "../images/world/world-20261108-1026-03.jpg",
+   "image_credit": "Channel News Asia"
+  },
+  {
+   "id": "world-20261108-1026-04",
+   "published_ist": "2026-11-07T22:33:00+05:30",
+   "headline": "Gaza: Baarish me 70,000 tent doobe",
+   "detail": "Sardi ki pehli baarish me 12 ghante me 70,000 tent doob gaye aur civil defence ko 1,500 madad ki pukaarein mili.",
+   "category": "World",
+   "exam_angle": null,
+   "source": "The Hindu",
+   "source_url": "https://www.thehindu.com/news/international/heavy-rain-inundates-shelters-for-people-displaced-by-war-in-gaza/article71679279.ece",
+   "genuineness": "verified",
+   "outlets": [
+    "Reuters",
+    "Al Jazeera",
+    "The Hindu"
+   ],
+   "image": "../images/world/world-20261108-1026-04.jpg",
+   "image_credit": "The Hindu"
+  },
   {
    "id": "world-20261108-0922-01",
    "published_ist": "2026-11-08T03:31:00+05:30",
@@ -360,80 +434,6 @@
     "The Times of London",
     "Al Jazeera",
     "Times Now"
-   ],
-   "image": null,
-   "image_credit": null
-  },
-  {
-   "id": "world-20261107-1622-02",
-   "published_ist": "2026-11-07T12:33:00+05:30",
-   "headline": "Iran ka daava: Qeshm par US drone giraya",
-   "detail": "Iran ki sena ne kaha uski vayu raksha ne Qeshm dweep ke upar America ka MQ-9 drone gira diya, aur sena pravakta ne chetavni di ki naya hamla hua to jawab ki koi seema nahi hogi.",
-   "category": "World",
-   "exam_angle": "Hormuz jalmarg aur America-Iran tanav — antarrashtriya suraksha ke liye mahatvapurna.",
-   "source": "Siasat",
-   "source_url": "https://www.siasat.com/iran-vows-no-geographical-limits-to-retaliation-against-us-3571161/",
-   "genuineness": "verified",
-   "outlets": [
-    "IRNA",
-    "Al Jazeera",
-    "Agence France-Presse"
-   ],
-   "image": "../images/world/world-20261107-1622-02.jpg",
-   "image_credit": "NASA, public domain (Wikimedia Commons)"
-  },
-  {
-   "id": "world-20261107-2222-02",
-   "published_ist": "2026-11-07T12:24:00+05:30",
-   "headline": "Zaporizhia: Sahayata kendra hamle me 55 ki maut",
-   "detail": "2 November ko Komyshuvakha me sahayata baant-te samay hue hamle me mrityu sankhya 55 hui; pichle 24 ghante me malbe se nau aur shav mile, darjanon abhi lapata hain.",
-   "category": "World",
-   "exam_angle": "Manavtavadi kendron par hamla — yuddh kanoon aur nagrik suraksha ka mudda.",
-   "source": "UNN",
-   "source_url": "https://unn.ua/en/news/the-death-toll-following-the-russian-airstrike-on-komyshuvakha-has-risen-to-55",
-   "genuineness": "verified",
-   "outlets": [
-    "AP",
-    "UNN",
-    "Interfax-Ukraine",
-    "Ukrainska Pravda"
-   ],
-   "image": null,
-   "image_credit": null
-  },
-  {
-   "id": "world-20261107-1222-01",
-   "published_ist": "2026-11-07T10:40:00+05:30",
-   "headline": "White House ke paas hathiyarbhand vyakti giraftar",
-   "detail": "America ki Secret Service ne White House ke paas ek chori ki gaadi me teen hathiyaron ke saath Ronny Yordrix Guanipa Chrinos ko giraftar kiya; usne kaha awaazein use Trump ko maarne ko keh rahi thi, DHS ke anusar ve hirasat me hai.",
-   "category": "World",
-   "exam_angle": "America me rashtrapati ki suraksha aur Secret Service ki bhoomika — antarrashtriya sambandh ke liye mahatvapurna.",
-   "source": "The Hindu",
-   "source_url": "https://www.thehindu.com/news/international/secret-service-arrests-man-near-white-house-after-he-said-he-heard-voices-telling-him-to-kill-trump/article71677332.ece",
-   "genuineness": "verified",
-   "outlets": [
-    "Associated Press",
-    "The Hindu",
-    "Economic Times",
-    "The Week"
-   ],
-   "image": null,
-   "image_credit": null
-  },
-  {
-   "id": "world-20261107-1425-02",
-   "published_ist": "2026-11-07T09:04:00+05:30",
-   "headline": "Qatar: America-Iran samjhauta vaarta jaari, khabar jhoothi",
-   "detail": "Qatar ke media office ne kaha ki PM ke bayan ko online bigada gaya; dono paksh samjhote ki taraf kaam kar rahe hain aur madhyasthata jaari hai.",
-   "category": "World",
-   "exam_angle": "Paschim Asia me Qatar ki madhyasthata — antarrashtriya sambandh ke liye mahatvapurna.",
-   "source": "Economic Times",
-   "source_url": "https://economictimes.indiatimes.com/news/international/world-news/both-sides-working-towards-a-deal-qatar-says-pm-remarks-on-us-iran-talks-distorted-online/articleshow/135625529.cms",
-   "genuineness": "verified",
-   "outlets": [
-    "Economic Times",
-    "The Peninsula",
-    "Arab News"
    ],
    "image": null,
    "image_credit": null
