@@ -736,6 +736,43 @@
       ],
       "image": "../images/world/world-20261108-1722-02.jpg",
       "image_credit": "US Department of Agriculture, Public domain (Wikimedia Commons)"
+    },
+    {
+      "id": "world-20261108-1822-01",
+      "published_ist": "2026-11-07T19:30:00+05:30",
+      "headline": "Krakow: Goli baari me 6 ki maut",
+      "detail": "Poland ke Krakow ke Main Market Square me shanivaar ko ek bandukdhari ne goliyaan chalaayi — 6 ki maut, 16 ghayal; hamlaawar ko police ne goli maari aur giraftaar kiya, uske ghar se teen aur shav mile; desh me do din ka rashtriya shok ghoshit.",
+      "category": "World",
+      "exam_angle": "Europe me banduk hinsa aur hathiyaron ka kanoon — antarrashtriya suraksha ke liye mahatvapurna.",
+      "source": "The Week",
+      "source_url": "https://www.theweek.in/wire-updates/international/2026/11/08/gunman-who-killed-6-in-poland-s-krakow-was-fascinated-with-far-right-views-minister-says.html",
+      "genuineness": "verified",
+      "outlets": [
+        "Associated Press",
+        "Agence France-Presse",
+        "Reuters"
+      ],
+      "image": "../images/world/world-20261108-1822-01.jpg",
+      "image_credit": "Fred Romero, CC BY 2.0 (Wikimedia Commons)"
+    },
+    {
+      "id": "world-20261108-1822-02",
+      "published_ist": "2026-11-08T06:06:00+05:30",
+      "headline": "Zaporizhzhia: Parmanu plant phir andhere me",
+      "detail": "Zaporizhzhia parmanu sanyantra ki baahari bijli 8 November ko subah 2:36 baje phir band ho gayi — saal ki 16vi baar; diesel generator se cooling jaari hai, IAEA ke mutaabik vikiran star samanya hai.",
+      "category": "World",
+      "exam_angle": "Parmanu suraksha aur IAEA ki bhoomika — antarrashtriya suraksha ke liye mahatvapurna.",
+      "source": "Nikkei Asia",
+      "source_url": "https://asia.nikkei.com/politics/ukraine-war/ukraine-s-zaporizhzhia-nuclear-plant-again-relies-on-backup-power",
+      "genuineness": "verified",
+      "outlets": [
+        "Reuters",
+        "IAEA",
+        "Ukrinform",
+        "Kyiv Post"
+      ],
+      "image": "../images/world/world-20261108-1822-02.jpg",
+      "image_credit": "Ralf1969, CC BY-SA 3.0 (Wikimedia Commons)"
     }
   ]
 }
