@@ -461,6 +461,81 @@
    ],
    "image": null,
    "image_credit": null
+  },
+  {
+   "id": "world-20261108-1222-01",
+   "published_ist": "2026-11-07T10:50:00+05:30",
+   "headline": "Taiz: Bazaar par hamle me 25 ki maut",
+   "detail": "Taiz ke Al-Hadhara bazaar par hamle me kam se kam 25 log mare aur 30 ghayal hue; Houthis ne Saudi par aarop lagaya, sarkari balon ne Houthis par — zimmedari par vivaad hai.",
+   "category": "World",
+   "exam_angle": "Yemen grih yuddh aur Saudi-Houthi sangharsh — Madhya Purv ki suraksha ke liye mahatvapurna.",
+   "source": "Dawn",
+   "source_url": "https://www.dawn.com/news/2042972",
+   "genuineness": "verified",
+   "outlets": [
+    "Dawn",
+    "BBC",
+    "News On AIR",
+    "Times Now"
+   ],
+   "image": null,
+   "image_credit": null
+  },
+  {
+   "id": "world-20261108-1222-02",
+   "published_ist": "2026-11-07T08:32:00+05:30",
+   "headline": "Vance: Iran se yuddhviram vaarta me lage",
+   "detail": "Axios ke mutaabik Up-Rashtrapati Vance pichhle do hafte se Qatar aur Pakistan ke madhyam se Iran ke saath apratyaksh vaarta me hain — naye yuddhviram aur parmanu vaarta ki koshish.",
+   "category": "World",
+   "exam_angle": "America-Iran tanav aur Madhya Purv me kootneeti — antarrashtriya sambandh ke liye mahatvapurna.",
+   "source": "The Tribune",
+   "source_url": "https://www.tribuneindia.com/news/usa-news/jd-vance-spearheads-quiet-diplomatic-push-for-new-iran-deal-report/",
+   "genuineness": "corroborated",
+   "outlets": [
+    "Axios",
+    "The Tribune",
+    "TRT World"
+   ],
+   "image": null,
+   "image_credit": null
+  },
+  {
+   "id": "world-20261108-1222-03",
+   "published_ist": "2026-11-06T12:44:00+05:30",
+   "headline": "October 2026: Record garmi, 1.5°C paar",
+   "detail": "Copernicus ke mutaabik October 2026 sabse garam October raha — 15.35°C, audyogik-kaal se 1.75°C zyada; 2026 lagbhag tay hai 1.5°C se upar jaane wala doosra saal banega.",
+   "category": "World",
+   "exam_angle": "Paris Agreement ka 1.5°C lakshya aur jalvayu parivartan — paryavaran ke liye mahatvapurna.",
+   "source": "Down To Earth",
+   "source_url": "https://www.downtoearth.org.in/climate-change/world-records-hottest-october-in-2026-global-temperatures-rise-175c-above-pre-industrial-levels",
+   "genuineness": "verified",
+   "outlets": [
+    "Copernicus Climate Change Service",
+    "Down To Earth",
+    "Africa Climate Reports",
+    "Anadolu Agency"
+   ],
+   "image": null,
+   "image_credit": null
+  },
+  {
+   "id": "world-20261108-1222-04",
+   "published_ist": "2026-11-04T17:24:00+05:30",
+   "headline": "Thailand: Do Uyghur ko China bhejane par rok",
+   "detail": "Amnesty aur Human Rights Watch ne Thailand se kaha do Uyghur purushon ko China na bheje; Thailand ne kaha faisla adalat karegi, pehle aupchaarik pratyarpan anurodh chahiye.",
+   "category": "World",
+   "exam_angle": "Non-refoulement aur sharanarthi suraksha — antarrashtriya manavadhikar ke liye mahatvapurna.",
+   "source": "The Hindu",
+   "source_url": "https://www.thehindu.com/news/international/china-must-make-extradition-request-if-it-wants-two-uyghur-men-returned-thailand/article71665293.ece",
+   "genuineness": "verified",
+   "outlets": [
+    "Amnesty International",
+    "Human Rights Watch",
+    "The Hindu",
+    "The Nation"
+   ],
+   "image": null,
+   "image_credit": null
   }
  ]
 }
