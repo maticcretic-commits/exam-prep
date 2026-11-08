@@ -72,6 +72,76 @@
     ],
     "answer_index": 1
    }
+  },
+  {
+   "episode": 94,
+   "video_hi": "BzWqPyqV4iw",
+   "video_hinglish": "BzWqPyqV4iw",
+   "capsules": [
+    {
+     "id": "ca-ep94-s1",
+     "headline_hi": "ASI 2024-25: manufacturing GVA 9.28% badha",
+     "headline_hinglish": "ASI 2024-25: manufacturing GVA 9.28% badha",
+     "detail_hi": "MoSPI ke ASI 2024-25 ke mutabik manufacturing corporate sector mein GVA growth 9.28% rahi.",
+     "detail_hinglish": "MoSPI ke ASI 2024-25 ke mutabik manufacturing corporate sector mein GVA growth 9.28% rahi.",
+     "category_hi": "Economy",
+     "category_en": "Economy"
+    },
+    {
+     "id": "ca-ep94-s2",
+     "headline_hi": "Steel 2030: Bharat ka 300 MT ka lakshya",
+     "headline_hinglish": "Steel 2030: Bharat ka 300 MT ka lakshya",
+     "detail_hi": "Mantri Kishan Reddy ne Goa mein kaha: 2030 tak 300 million tonne, 2047 tak 500 million tonne steel.",
+     "detail_hinglish": "Mantri Kishan Reddy ne Goa mein kaha: 2030 tak 300 million tonne, 2047 tak 500 million tonne steel.",
+     "category_hi": "Industry",
+     "category_en": "National"
+    },
+    {
+     "id": "ca-ep94-s3",
+     "headline_hi": "Delhi pradushan: gaadiyan zimmedar, Supreme Court",
+     "headline_hinglish": "Delhi pradushan: gaadiyan zimmedar, Supreme Court",
+     "detail_hi": "Supreme Court ne kaha: Delhi-NCR ke pradushan mein vehicular emissions ka bada yogdan hai.",
+     "detail_hinglish": "Supreme Court ne kaha: Delhi-NCR ke pradushan mein vehicular emissions ka bada yogdan hai.",
+     "category_hi": "Environment",
+     "category_en": "Environment"
+    },
+    {
+     "id": "ca-ep94-s4",
+     "headline_hi": "Ranivas Mound: Bihar ki virasat ko rashtriya darja",
+     "headline_hinglish": "Ranivas Mound: Bihar ki virasat ko rashtriya darja",
+     "detail_hi": "Bihar ke Ranivas Mound ko monument of national importance ghoshit kiya gaya.",
+     "detail_hinglish": "Bihar ke Ranivas Mound ko monument of national importance ghoshit kiya gaya.",
+     "category_hi": "Heritage",
+     "category_en": "National"
+    },
+    {
+     "id": "ca-ep94-s5",
+     "headline_hi": "SAFF opener: Bharat ne Pakistan ko haraya",
+     "headline_hinglish": "SAFF opener: Bharat ne Pakistan ko haraya",
+     "detail_hi": "Bharat ne SAFF Championship ke opener mein Pakistan ko hara kar shuruaat mazboot ki.",
+     "detail_hinglish": "Bharat ne SAFF Championship ke opener mein Pakistan ko hara kar shuruaat mazboot ki.",
+     "category_hi": "Sports",
+     "category_en": "Sports"
+    }
+   ],
+   "mcq": {
+    "id": "ca-ep94-mcq",
+    "q_hi": "MoSPI ki Annual Survey of Industries 2024-25 ke mutabik, manufacturing corporate sector mein GVA growth kitni rahi?",
+    "q_hinglish": "MoSPI ki Annual Survey of Industries 2024-25 ke mutabik, manufacturing corporate sector mein GVA growth kitni rahi?",
+    "options_hi": [
+     "7.12%",
+     "11.4%",
+     "9.28%",
+     "8.05%"
+    ],
+    "options_hinglish": [
+     "7.12%",
+     "11.4%",
+     "9.28%",
+     "8.05%"
+    ],
+    "answer_index": 2
+   }
   }
  ]
 }
