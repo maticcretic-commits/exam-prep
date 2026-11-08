@@ -1,6 +1,101 @@
 {
- "updated_ist": "2026-11-08T10:26:00+05:30",
+ "updated_ist": "2026-11-08T11:24:00+05:30",
  "items": [
+  {
+   "id": "world-20261108-1122-01",
+   "published_ist": "2026-11-08T09:31:00+05:30",
+   "headline": "Oman ki khaadi: UAE ne 22 log bachaye",
+   "detail": "Oman ki khaadi me maalvahak jahaz me aag lagne par UAE National Guard ne 22 arab nagrikon ko bachaya; sabhi sthir haalat me hain.",
+   "category": "World",
+   "exam_angle": "Hormuz ke aas-paas samudri suraksha — antarrashtriya vyapar ke liye mahatvapurna.",
+   "source": "The Times of India",
+   "source_url": "https://timesofindia.indiatimes.com/world/middle-east/uae-rescues-22-arab-nationals-after-fire-breaks-out-aboard-cargo-ship/articleshow/135650778.cms",
+   "genuineness": "verified",
+   "outlets": [
+    "Al Jazeera",
+    "Gulf News",
+    "The Times of India",
+    "Kuwait Times"
+   ],
+   "image": null,
+   "image_credit": null
+  },
+  {
+   "id": "world-20261108-1122-02",
+   "published_ist": "2026-11-07T22:59:00+05:30",
+   "headline": "Syria: Yemen sainik bhejne se inkaar",
+   "detail": "Damascus ne kaha Yemen ko sainik bhejne ki khabrein bebuniyad hain; Saudi se sahyog sirf prashikshan aur salah tak simit rahega.",
+   "category": "World",
+   "exam_angle": "Mecca Pact aur Madhya Purv me badalti Saudi-Syria dosti — antarrashtriya sambandh ke liye mahatvapurna.",
+   "source": "Reuters",
+   "source_url": "https://www.reuters.com/world/asia-pacific/syria-denies-plans-send-troops-yemen-saudi-military-ties-deepen-2026-11-07/",
+   "genuineness": "verified",
+   "outlets": [
+    "Reuters",
+    "Agence France-Presse",
+    "Arab News",
+    "TRT World"
+   ],
+   "image": null,
+   "image_credit": null
+  },
+  {
+   "id": "world-20261108-1122-03",
+   "published_ist": "2026-11-07T22:31:00+05:30",
+   "headline": "America: Iraq se Iran seema band karne ko kaha",
+   "detail": "America ne Iraq se kaha Iran ke saath sirf do seema crossing khule rakhe; Tehran-samarthak milicia ke samarthan par sainya karravai ki chetavni bhi di.",
+   "category": "World",
+   "exam_angle": "America-Iran tanav me Iraq ki bhoomika — Madhya Purv ki rajneeti ke liye mahatvapurna.",
+   "source": "Moneycontrol",
+   "source_url": "https://www.moneycontrol.com/world/us-asks-iraq-to-shut-border-crossings-with-iran-warns-against-backing-tehran-linked-militias-article-14074626.html/amp",
+   "genuineness": "verified",
+   "outlets": [
+    "Al Jazeera",
+    "Shafaq News",
+    "Moneycontrol",
+    "Mehr News"
+   ],
+   "image": null,
+   "image_credit": null
+  },
+  {
+   "id": "world-20261108-1122-04",
+   "published_ist": "2026-11-07T17:50:00+05:30",
+   "headline": "Italy: Mantri ka data dark web par",
+   "detail": "Videsh Mantri Tajani ne kaha Russia-samarthak hackers ne unka niji data dark web par daala; Ukraine samarthan ko wajah bataya, Moscow ne tippani nahi ki.",
+   "category": "World",
+   "exam_angle": "Hybrid warfare aur cyber suraksha — antarrashtriya sambandh ke liye mahatvapurna.",
+   "source": "Reuters",
+   "source_url": "https://www.reuters.com/world/italy-foreign-minister-says-he-has-been-targeted-by-pro-russian-hackers-over-2026-11-07/",
+   "genuineness": "verified",
+   "outlets": [
+    "Reuters",
+    "Al Jazeera",
+    "The Straits Times",
+    "Associated Press"
+   ],
+   "image": "../images/world/world-20261108-1122-04.jpg",
+   "image_credit": "UK Government, CC BY 2.0 (Wikimedia Commons)"
+  },
+  {
+   "id": "world-20261108-1122-05",
+   "published_ist": "2026-11-06T09:37:00+05:30",
+   "headline": "Canada: 2027 tak 6.22 lakh PR",
+   "detail": "Budget 2026 ke tahat Canada 2027 tak 6,22,000 naye permanent residents ko jagah dega, jinme 2 lakh asthayi nivasi bhi shamil hain.",
+   "category": "World",
+   "exam_angle": "Canada ki immigration policy aur Bharatiya pravasi — antarrashtriya sambandh ke liye mahatvapurna.",
+   "source": "Tribune India",
+   "source_url": "https://www.tribuneindia.com/news/punjab/canada-plans-to-welcome-6-lakh-new-permanent-residents-by-2027/amp/",
+   "genuineness": "verified",
+   "outlets": [
+    "Tribune India",
+    "CIC News",
+    "PTC News",
+    "Daily Hunt"
+   ],
+   "image": null,
+   "image_credit": null
+  },
   {
    "id": "world-20261108-1026-01",
    "published_ist": "2026-11-08T07:00:00+05:30",
@@ -344,96 +439,6 @@
     "Reuters",
     "Kyiv Post",
     "The New Voice of Ukraine"
-   ],
-   "image": null,
-   "image_credit": null
-  },
-  {
-   "id": "world-20261107-1822-01",
-   "published_ist": "2026-11-07T17:52:00+05:30",
-   "headline": "Hormuz: Ek hafte me 11 jahazon par hamle",
-   "detail": "UKMTO ki haftavaar report ke anusar 6 November ko khatm hafte me Hormuz ke aas-paas 11 jahazon par hamle hue, jinme se teen doob gaye; aavaagaman sangharsh se pehle ke star se lagbhag 65% kam raha.",
-   "category": "World",
-   "exam_angle": "Hormuz jalmarg aur samudri suraksha — antarrashtriya vyapar aur suraksha ke liye mahatvapurna.",
-   "source": "Al Jazeera",
-   "source_url": "https://www.aljazeera.com/news/2026/11/7/qeshm-island-and-hormuz-hit-as-mediators-try-to-prevent-us-iran-escalation",
-   "genuineness": "corroborated",
-   "outlets": [
-    "Al Jazeera",
-    "SAGIRE"
-   ],
-   "image": null,
-   "image_credit": null
-  },
-  {
-   "id": "world-20261107-2125-02",
-   "published_ist": "2026-11-07T17:28:00+05:30",
-   "headline": "Iran ne missile range ki seema hatayi",
-   "detail": "Iran ke Revolutionary Guard ne apni ballistic missile par 2,000 kilometer ki khud ki seema hata li; pravakta ne kaha kshamata ko 'vyavhar me dikhaya jayega', maujooda missile ki pushti nahi ki.",
-   "category": "World",
-   "exam_angle": "Madhya Purv me tanaav aur Bharat ki urja suraksha — Hormuz marg par asar.",
-   "source": "AP",
-   "source_url": "https://www.theweek.in/wire-updates/international/2026/11/07/iran-says-it-has-lifted-its-self-imposed-limit-on-missile-ranges-and-other-mideast-news.html",
-   "genuineness": "verified",
-   "outlets": [
-    "AP",
-    "Times of Israel",
-    "Gulf News",
-    "Times of India"
-   ],
-   "image": null,
-   "image_credit": null
-  },
-  {
-   "id": "world-20261107-1622-03",
-   "published_ist": "2026-11-07T13:32:00+05:30",
-   "headline": "Trump: Iran se takraav 'yuddh nahi'",
-   "detail": "Trump ne kaha paanch mahine me koi ghayal ya mara nahi, isliye Iran ke saath jaari takraav yuddh nahi hai, aur kaha America ne Iran se tel nikasi me pragati ki hai.",
-   "category": "World",
-   "exam_angle": "America-Iran takraav par rashtrapati ka bayan — antarrashtriya sambandh ke liye mahatvapurna.",
-   "source": "The Tribune",
-   "source_url": "https://www.tribuneindia.com/news/usa-news/nobody-hurt-or-killed-in-5-months-trump-says-us-is-not-at-war-with-iran/",
-   "genuineness": "verified",
-   "outlets": [
-    "Gulf News",
-    "Republic World",
-    "Asian News International"
-   ],
-   "image": null,
-   "image_credit": null
-  },
-  {
-   "id": "world-20261107-1822-02",
-   "published_ist": "2026-11-07T12:45:00+05:30",
-   "headline": "Mexico: Police helicopter se goli, bacchi ki maut",
-   "detail": "Tamaulipas ke abhiyojak ne pusht ki hai ki 29 October ko Matamoros me cartel ke khilaf karravai ke dauraan police helicopter se ki gayi golibari me America me janmi saat saal ki Aranza ki maut ho gayi; goli chalane wale adhikari abhi aazaad hain.",
-   "category": "World",
-   "exam_angle": "America-Mexico seema par police ki golibari aur nagrik suraksha — antarrashtriya sambandh ke liye mahatvapurna.",
-   "source": "The Straits Times",
-   "source_url": "https://www.straitstimes.com/world/mexico-confirms-police-shot-us-girl-dead-in-cartel-chase",
-   "genuineness": "corroborated",
-   "outlets": [
-    "Agence France-Presse",
-    "Milenio",
-    "The Straits Times"
-   ],
-   "image": null,
-   "image_credit": null
-  },
-  {
-   "id": "world-20261107-1322-04",
-   "published_ist": "2026-11-07T12:44:00+05:30",
-   "headline": "Iran ne parmanu sthalon ke paas iodine baanta",
-   "detail": "America ke hamle ke dar ke beech Iran ne apne parmanu sthalon ke paas rehne wale logon ko iodine ki goliyan baantni shuru kar di hain; The Times of London ki report ke anusar Pickaxe Mountain sthal par hamle ki aashanka hai.",
-   "category": "World",
-   "exam_angle": "Iran parmanu karyakram aur America se tanav — antarrashtriya sambandh ke liye mahatvapurna.",
-   "source": "Times Now",
-   "source_url": "https://www.timesnownews.com/world/middle-east/iran-distributes-anti-radiation-pills-as-trump-threatens-to-destroy-the-rest-of-the-country-article-156478324",
-   "genuineness": "corroborated",
-   "outlets": [
-    "The Times of London",
-    "Al Jazeera",
-    "Times Now"
    ],
    "image": null,
    "image_credit": null
