@@ -773,6 +773,24 @@
       ],
       "image": "../images/world/world-20261108-1822-02.jpg",
       "image_credit": "Ralf1969, CC BY-SA 3.0 (Wikimedia Commons)"
+    },
+    {
+      "id": "world-20261108-1924-01",
+      "published_ist": "2026-11-07T21:17:00+05:30",
+      "headline": "MEXC: America ne crypto exchange par rok lagayi",
+      "detail": "America ke FinCEN ne MEXC crypto exchange ko US banks se kaatne ka aadesh diya — May 2021 se May 2026 ke beech $16.7 arab ke sandigdh len-den ka aarop; rok Federal Register me prakashan ke 30 din baad lagu hogi.",
+      "category": "World",
+      "exam_angle": "Crypto par niyaman, money laundering aur pratibandh — banking aur arthvyavastha ke liye mahatvapurna.",
+      "source": "Bitcoin Insider",
+      "source_url": "https://www.bitcoininsider.org/article/fincen-mexc-order-cut-off-us-financial-system",
+      "genuineness": "corroborated",
+      "outlets": [
+        "US Treasury / FinCEN",
+        "Crypto.news",
+        "Bitcoin Insider"
+      ],
+      "image": null,
+      "image_credit": null
     }
   ]
 }
