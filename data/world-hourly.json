@@ -1,6 +1,23 @@
 {
- "updated_ist": "2026-11-08T13:25:05+05:30",
+ "updated_ist": "2026-11-08T15:26:04+05:30",
  "items": [
+  {
+   "id": "world-20261108-1522-01",
+   "published_ist": "2026-11-08T10:40:00+05:30",
+   "headline": "Hormuz: Do tanker mine se takraakar jal uthe",
+   "detail": "IRGC ke daave ke mutaabik do tel tanker Hormuz me mine se takraakar jal uthe; swatantra pushti abhi baaki hai, aur jahazon ke naam nahi bataye gaye.",
+   "category": "World",
+   "exam_angle": "Hormuz jalmarg aur America-Iran tanav — urja suraksha ke liye mahatvapurna.",
+   "source": "The Hindu",
+   "source_url": "https://www.thehindu.com/news/international/iran-says-two-tankers-caught-fire-in-hormuz-after-hitting-mines/article71680557.ece",
+   "genuineness": "corroborated",
+   "outlets": [
+    "AFP",
+    "NDTV Profit"
+   ],
+   "image": null,
+   "image_credit": null
+  },
   {
    "id": "world-20261108-1322-01",
    "published_ist": "2026-11-08T13:10:00+05:30",
@@ -394,15 +411,16 @@
    "id": "world-20261108-0722-01",
    "published_ist": "2026-11-08T06:59:00+05:30",
    "headline": "Paraguay: Peña prosecutors ke saamne pesh hue",
-   "detail": "Ueno Bank ke collapse par Senate ne Peña ko hataya tha; house arrest ke baad woh shanivaar subah Attorney General ke saamne pesh hue, Alliana naye rashtrapati ban chuke hain.",
+   "detail": "Ueno Bank ke collapse par Senate ne Peña ko hataya tha; house arrest ke baad woh shanivaar subah Attorney General ke saamne pesh hue, Alliana naye rashtrapati ban chuke hain. (Update: Shanivaar ko un par 'breach of trust' ke aarop lage aur judge ne sainya suvidha me pre-trial custody ka aadesh diya; woh aaropon se inkaar kar rahe hain.)",
    "category": "World",
    "exam_angle": "Mahabhiyog aur banking sankat — governance aur vittiya niyaman ke liye mahatvapurna.",
-   "source": "Economic Times",
-   "source_url": "https://economictimes.indiatimes.com/news/international/world-news/paraguays-ousted-president-faces-prosecutors-after-his-removal-over-bank-collapse/articleshow/135649352.cms",
-   "genuineness": "corroborated",
+   "source": "Al Jazeera",
+   "source_url": "https://www.aljazeera.com/economy/2026/11/7/paraguays-ousted-president-charged-over-banking-scandal?traffic_source=rss",
+   "genuineness": "verified",
    "outlets": [
-    "Associated Press",
-    "Reuters"
+    "Reuters",
+    "Al Jazeera",
+    "AFP"
    ],
    "image": "../images/world/world-20261108-0722-01.jpg",
    "image_credit": "Presidencia de Ecuador, public domain (Wikimedia Commons)"
@@ -423,25 +441,6 @@
    ],
    "image": null,
    "image_credit": null
-  },
-  {
-   "id": "world-20261108-0622-03",
-   "published_ist": "2026-11-08T04:53:00+05:30",
-   "headline": "Israel: Eisenkot ko sarkar banane ka mauka",
-   "detail": "Rashtrapati Isaac Herzog ne Netanyahu ke pratidvandi Gadi Eisenkot ko sarkar banane ka mauka diya; 67 sansadon ne unka samarthan kiya, Netanyahu ko 46 mile, aur Eisenkot ke paas 28 din hain.",
-   "category": "World",
-   "exam_angle": "Israel me sarkar gathan aur Knesset ki bhoomika — Madhya Purv ki rajneeti ke liye mahatvapurna.",
-   "source": "News18",
-   "source_url": "https://www.news18.com/world/plot-twist-in-israel-netanyahu-loses-govt-mandate-as-gadi-eisenkot-gets-presidents-nod-ws-lrt-10417231.html",
-   "genuineness": "verified",
-   "outlets": [
-    "News18",
-    "Indian Express",
-    "Free Malaysia Today",
-    "DNYUZ"
-   ],
-   "image": "../images/world/world-20261108-0622-03.jpg",
-   "image_credit": "Ronen Horesh / Knesset Archives, CC BY-SA 4.0 (Wikimedia Commons)"
   }
  ]
 }
