@@ -1,6 +1,62 @@
 {
- "updated_ist": "2026-11-08T12:23:57+05:30",
+ "updated_ist": "2026-11-08T13:25:05+05:30",
  "items": [
+  {
+   "id": "world-20261108-1322-01",
+   "published_ist": "2026-11-08T13:10:00+05:30",
+   "headline": "Riyadh: Houthi missile roke gaye",
+   "detail": "Saudi gathbandhan ne Riyadh ki taraf daage gaye do ballistic aur do cruise missile rok diye; rajdhani me dhamakon ki awaaz suni gayi, Aramco imarat ko nuksan ki khabar hai.",
+   "category": "World",
+   "exam_angle": "Saudi-Yemen sangharsh aur Khadi me tel suraksha — antarrashtriya sambandh ke liye mahatvapurna.",
+   "source": "Al Jazeera",
+   "source_url": "https://www.aljazeera.com/news/2026/11/8/saudi-arabia-intercepts-houthi-missiles-targeting-riyadh-eastern-province",
+   "genuineness": "verified",
+   "outlets": [
+    "Al Jazeera",
+    "Arab News",
+    "Reuters",
+    "Firstpost"
+   ],
+   "image": "../images/world/world-20261108-1322-01.jpg",
+   "image_credit": "B.alotaby, CC BY-SA 4.0 (Wikimedia Commons)"
+  },
+  {
+   "id": "world-20261108-1322-02",
+   "published_ist": "2026-11-05T22:01:00+05:30",
+   "headline": "Hong Kong: Joshua Wong ko 10 saal",
+   "detail": "Hong Kong High Court ne Joshua Wong ko videshi shaktiyon se milibhagat ke aarop me 10 saal ki saza di; 10 deshon ne sanyukt bayan me 'anyaypurna mukadme' khatm karne ko kaha.",
+   "category": "World",
+   "exam_angle": "Hong Kong National Security Law aur loktantra — antarrashtriya sambandh ke liye mahatvapurna.",
+   "source": "South China Morning Post",
+   "source_url": "https://www.scmp.com/news/hong-kong/law-and-crime/article/3373335/joshua-wong-jailed-10-years-over-bid-instigate-sanctions-beijing-hong-kong",
+   "genuineness": "verified",
+   "outlets": [
+    "South China Morning Post",
+    "CNN",
+    "The Times",
+    "Nikkei Asia"
+   ],
+   "image": "../images/world/world-20261108-1322-02.jpg",
+   "image_credit": "Seader, CC BY-SA 4.0 (Wikimedia Commons)"
+  },
+  {
+   "id": "world-20261108-1322-03",
+   "published_ist": "2026-11-05T20:51:00+05:30",
+   "headline": "FATF: Scam compounds par global action",
+   "detail": "FATF ne scam compounds se jude avaidh vittiya pravah par landmark report jaari ki — har saal arabon dollar ka nuksan; 120 case studies, 60 se zyada desh shamil.",
+   "category": "World",
+   "exam_angle": "FATF, money laundering aur cyber fraud — vittiya suraksha ke liye mahatvapurna.",
+   "source": "FATF",
+   "source_url": "https://www.fatf-gafi.org/en/news/combating-illicit-financial-flows-linked-to-scam-compounds.html",
+   "genuineness": "verified",
+   "outlets": [
+    "FATF",
+    "The FinRate",
+    "Blockint"
+   ],
+   "image": null,
+   "image_credit": null
+  },
   {
    "id": "world-20261108-1222-01",
    "published_ist": "2026-11-07T10:50:00+05:30",
@@ -386,62 +442,6 @@
    ],
    "image": "../images/world/world-20261108-0622-03.jpg",
    "image_credit": "Ronen Horesh / Knesset Archives, CC BY-SA 4.0 (Wikimedia Commons)"
-  },
-  {
-   "id": "world-20261108-0622-01",
-   "published_ist": "2026-11-08T03:32:00+05:30",
-   "headline": "Qeshm-Jask: Hormuz kinare phir dhamake",
-   "detail": "Iran ke sarkari media ke anusar Qeshm dweep aur Jask, Sirik aur Bandar Abbas me dhamakon ki awaazein suni gayin; wajah abhi saaf nahi hai.",
-   "category": "World",
-   "exam_angle": "Hormuz jalmarg aur America-Iran tanav — antarrashtriya suraksha aur urja ke liye mahatvapurna.",
-   "source": "Al Jazeera",
-   "source_url": "https://www.aljazeera.com/news/liveblog/2026/11/8/iran-war-live-explosions-hit-qeshm-us-moves-to-block-land-supply-routes",
-   "genuineness": "verified",
-   "outlets": [
-    "Al Jazeera",
-    "Jerusalem Post",
-    "ANI",
-    "Haaretz"
-   ],
-   "image": null,
-   "image_credit": null
-  },
-  {
-   "id": "world-20261108-0622-05",
-   "published_ist": "2026-11-08T01:01:00+05:30",
-   "headline": "Sanaa: Hawai hamle me 27 ki maut",
-   "detail": "Sanaa ke paas al-Shariya gaon par hawai hamle me Houthi-run health ministry ke anusar kam se kam 27 ki maut aur 36 ghayal hue; Houthis ne Saudi Arabia par aarop lagaya, Riyadh ne abhi koi tippani nahi ki.",
-   "category": "World",
-   "exam_angle": "Yemen grih yuddh aur Saudi-Houthi sangharsh — Madhya Purv ki suraksha ke liye mahatvapurna.",
-   "source": "Deccan Herald",
-   "source_url": "https://www.deccanherald.com/amp/story/middle-east/at-least-27-killed-36-wounded-in-alleged-saudi-arabia-airstrikes-near-yemens-capital-4211652",
-   "genuineness": "corroborated",
-   "outlets": [
-    "Reuters",
-    "AP",
-    "Deccan Herald"
-   ],
-   "image": null,
-   "image_credit": null
-  },
-  {
-   "id": "world-20261108-0622-04",
-   "published_ist": "2026-11-07T23:43:00+05:30",
-   "headline": "Trump: Democrats ki jaanch ka aadesh",
-   "detail": "Trump ne Justice Department ko Democrats ki jaanch ka aadesh diya, aarop hai ki ve mahaabhiyog ki dhamki dekar 'dabaav' bana rahe hain; unhone koi saboot nahi diya.",
-   "category": "World",
-   "exam_angle": "America me midterm ke baad satta santulan aur Congress ki nigrani — antarrashtriya sambandh ke liye mahatvapurna.",
-   "source": "Reuters",
-   "source_url": "https://www.reuters.com/world/trump-orders-doj-look-into-democrats-threatening-people-2026-11-07/",
-   "genuineness": "verified",
-   "outlets": [
-    "Reuters",
-    "Al Jazeera",
-    "Times of Israel",
-    "Vanguard"
-   ],
-   "image": null,
-   "image_credit": null
   }
  ]
 }
