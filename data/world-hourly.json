@@ -1,449 +1,447 @@
 {
-  "updated_ist": "2026-11-08T20:24:46+05:30",
-  "items": [
-    {
-      "id": "world-20261108-2024-01",
-      "published_ist": "2026-11-08T11:21:00+05:30",
-      "headline": "Iran: Teen ko phansi, January virodh ka mamla",
-      "detail": "Iran ki nyaypalika ne kaha, January ke virodh-pradarshanon ke dauraan Israel-America ke liye kaam karne ke aarop me teen logon ko phansi di gayi; Supreme Court ne saza barkarar rakhi thi, aath anyon ko 5–10 saal ki saza.",
-      "category": "World",
-      "exam_angle": "Mrityudand aur manavadhikar — antarrashtriya sambandh ke liye mahatvapurna.",
-      "source": "The Hindu",
-      "source_url": "https://www.thehindu.com/news/international/iran-executes-three-men-over-armed-unrest-during-january-protests/article71680580.ece",
-      "genuineness": "verified",
-      "outlets": [
-        "The Hindu",
-        "Times of Israel",
-        "The Jerusalem Post"
-      ],
-      "image": null,
-      "image_credit": null
-    },
-    {
-      "id": "world-20261108-2024-02",
-      "published_ist": "2026-11-08T19:51:00+05:30",
-      "headline": "Giza: Train takkar me 64 ghayal",
-      "detail": "Giza ke Al-Ayyat jile me Giza-Fayoum train peeche se Cairo-Aswan train se takrayi, ek train patri se utri; swasthya mantralaya ke mutabik 64 ghayal, maut ki abhi koi pushti nahi.",
-      "category": "World",
-      "exam_angle": "Rail suraksha aur haadsa prabandhan — parivahan aur shasan ke liye mahatvapurna.",
-      "source": "The Times of India",
-      "source_url": "https://timesofindia.indiatimes.com/world/rest-of-world/egypt-train-collision-over-60-injured-as-passenger-train-derails-after-hitting-another-train-in-giza/articleshow/135660889.cms",
-      "genuineness": "verified",
-      "outlets": [
-        "Associated Press",
-        "Arab News",
-        "NDTV"
-      ],
-      "image": null,
-      "image_credit": null
-    },
-    {
-      "id": "world-20261108-1924-01",
-      "published_ist": "2026-11-07T21:17:00+05:30",
-      "headline": "MEXC: America ne crypto exchange par rok lagayi",
-      "detail": "America ke FinCEN ne MEXC crypto exchange ko US banks se kaatne ka aadesh diya — May 2021 se May 2026 ke beech $16.7 arab ke sandigdh len-den ka aarop; rok Federal Register me prakashan ke 30 din baad lagu hogi.",
-      "category": "World",
-      "exam_angle": "Crypto par niyaman, money laundering aur pratibandh — banking aur arthvyavastha ke liye mahatvapurna.",
-      "source": "Bitcoin Insider",
-      "source_url": "https://www.bitcoininsider.org/article/fincen-mexc-order-cut-off-us-financial-system",
-      "genuineness": "corroborated",
-      "outlets": [
-        "US Treasury / FinCEN",
-        "Crypto.news",
-        "Bitcoin Insider"
-      ],
-      "image": null,
-      "image_credit": null
-    },
-    {
-      "id": "world-20261108-1822-01",
-      "published_ist": "2026-11-07T19:30:00+05:30",
-      "headline": "Krakow: Goli baari me 6 ki maut",
-      "detail": "Poland ke Krakow ke Main Market Square me shanivaar ko ek bandukdhari ne goliyaan chalaayi — 6 ki maut, 16 ghayal; hamlaawar ko police ne goli maari aur giraftaar kiya, uske ghar se teen aur shav mile; desh me do din ka rashtriya shok ghoshit.",
-      "category": "World",
-      "exam_angle": "Europe me banduk hinsa aur hathiyaron ka kanoon — antarrashtriya suraksha ke liye mahatvapurna.",
-      "source": "The Week",
-      "source_url": "https://www.theweek.in/wire-updates/international/2026/11/08/gunman-who-killed-6-in-poland-s-krakow-was-fascinated-with-far-right-views-minister-says.html",
-      "genuineness": "verified",
-      "outlets": [
-        "Associated Press",
-        "Agence France-Presse",
-        "Reuters"
-      ],
-      "image": "../images/world/world-20261108-1822-01.jpg",
-      "image_credit": "Fred Romero, CC BY 2.0 (Wikimedia Commons)"
-    },
-    {
-      "id": "world-20261108-1822-02",
-      "published_ist": "2026-11-08T06:06:00+05:30",
-      "headline": "Zaporizhzhia: Parmanu plant phir andhere me",
-      "detail": "Zaporizhzhia parmanu sanyantra ki baahari bijli 8 November ko subah 2:36 baje phir band ho gayi — saal ki 16vi baar; diesel generator se cooling jaari hai, IAEA ke mutaabik vikiran star samanya hai.",
-      "category": "World",
-      "exam_angle": "Parmanu suraksha aur IAEA ki bhoomika — antarrashtriya suraksha ke liye mahatvapurna.",
-      "source": "Nikkei Asia",
-      "source_url": "https://asia.nikkei.com/politics/ukraine-war/ukraine-s-zaporizhzhia-nuclear-plant-again-relies-on-backup-power",
-      "genuineness": "verified",
-      "outlets": [
-        "Reuters",
-        "IAEA",
-        "Ukrinform",
-        "Kyiv Post"
-      ],
-      "image": "../images/world/world-20261108-1822-02.jpg",
-      "image_credit": "Ralf1969, CC BY-SA 3.0 (Wikimedia Commons)"
-    },
-    {
-      "id": "world-20261108-1722-01",
-      "published_ist": "2026-11-08T15:04:00+05:30",
-      "headline": "Senegal: Naav doobne se 21 ki maut",
-      "detail": "Senegal ke uttar-paschimi tat par pravasiyon ki naav doob gayi — kam se kam 21 ki maut, ek ko bachaya gaya; grih mantralaya ke mutaabik mrityu sankhya asthayi hai, khoj jaari hai.",
-      "category": "World",
-      "exam_angle": "Africa se Europe ka Atlantic pravasi marg aur samudri suraksha — antarrashtriya sambandh ke liye mahatvapurna.",
-      "source": "The Hindu",
-      "source_url": "https://www.thehindu.com/news/international/migrant-boat-sinks-off-senegal-death-toll/article71680824.ece",
-      "genuineness": "corroborated",
-      "outlets": [
-        "The Hindu",
-        "Moneycontrol",
-        "WION",
-        "Seneweb"
-      ],
-      "image": "../images/world/world-20261108-1722-01.jpg",
-      "image_credit": "HaguardDuNord, CC BY-SA 3.0 (Wikimedia Commons)"
-    },
-    {
-      "id": "world-20261108-1722-02",
-      "published_ist": "2026-11-07T14:11:00+05:30",
-      "headline": "Africa: Peela bukhar, nau deshon me faila",
-      "detail": "WHO ke mutaabik 2026 me nau African deshon me peele bukhar ke 67 pusht mamle aur 18 mautein darj hui; kshetriya jokhim madhyam aur vaishvik jokhim kam aanka gaya.",
-      "category": "World",
-      "exam_angle": "WHO, IHR 2005 aur EYE Strategy — swasthya aur antarrashtriya sangathan ke liye mahatvapurna.",
-      "source": "Khaleej Tribune",
-      "source_url": "https://khaleejtribune.com/who-67-yellow-fever-cases-nine-african-countries/",
-      "genuineness": "corroborated",
-      "outlets": [
-        "WHO",
-        "Khaleej Tribune",
-        "Global Bihari",
-        "Oman Herald"
-      ],
-      "image": "../images/world/world-20261108-1722-02.jpg",
-      "image_credit": "US Department of Agriculture, Public domain (Wikimedia Commons)"
-    },
-    {
-      "id": "world-20261108-1622-01",
-      "published_ist": "2026-11-08T12:51:00+05:30",
-      "headline": "COP31: Guterres ne 'moment of truth' kaha",
-      "detail": "Sanyukt Rashtra mahasachiv Guterres ne COP31 (9–20 November, Turkey) ko 'moment of truth' kaha; yeh unka aakhri COP hai, karyakal December me khatm ho raha hai.",
-      "category": "World",
-      "exam_angle": "COP31 aur Paris Agreement ka 1.5°C lakshya — jalvayu parivartan ke liye mahatvapurna.",
-      "source": "The Economic Times",
-      "source_url": "https://economictimes.indiatimes.com/news/environment/global-warming/cop31-a-moment-of-truth-un-chief-guterres-urges-world-leaders-to-act-now-on-climate-change/articleshow/135653565.cms",
-      "genuineness": "corroborated",
-      "outlets": [
-        "Associated Press",
-        "The Economic Times"
-      ],
-      "image": "../images/world/world-20261108-1622-01.jpg",
-      "image_credit": "Xuthoria, CC BY-SA 4.0 (Wikimedia Commons)"
-    },
-    {
-      "id": "world-20261108-1622-02",
-      "published_ist": "2026-11-08T15:51:00+05:30",
-      "headline": "Ukraine: Hamlo se 8.5 lakh andhere me",
-      "detail": "Russia ke raat bhar ke hamlo ke baad Dnipropetrovsk me 6 lakh se zyada aur Kharkiv me lagbhag 2.5 lakh log bijli se vanchit hue; Zelenskyy ne kaha hamle Abu Dhabi vaarta se pehle dabaav ke liye hain.",
-      "category": "World",
-      "exam_angle": "Russia-Ukraine yuddh aur urja suraksha — antarrashtriya sambandh ke liye mahatvapurna.",
-      "source": "Firstpost",
-      "source_url": "https://www.firstpost.com/world/ukraine-braces-for-harsh-winter-as-russian-strikes-knock-out-power-for-850000-14058678.html",
-      "genuineness": "verified",
-      "outlets": [
-        "AFP",
-        "Le Temps",
-        "Firstpost"
-      ],
-      "image": null,
-      "image_credit": null
-    },
-    {
-      "id": "world-20261108-1622-03",
-      "published_ist": "2026-11-08T05:49:00+05:30",
-      "headline": "Iran: Missile range ki seema hataayi",
-      "detail": "IRGC pravakta Mohebbi ne kaha 2,000 km ki swayam-lagayi missile seema 'hata di gayi hai'; unhone yeh nahi bataya ki Iran ke paas isse lambi doori ki missile hai ya nahi.",
-      "category": "World",
-      "exam_angle": "Iran ka missile karyakram aur aprasar — antarrashtriya suraksha ke liye mahatvapurna.",
-      "source": "The Times of India",
-      "source_url": "https://timesofindia.indiatimes.com/world/middle-east/irans-irgc-claims-self-imposed-2000-km-ballistic-missile-range-limit-has-been-lifted/articleshow/135649066.cms",
-      "genuineness": "verified",
-      "outlets": [
-        "Associated Press",
-        "The Times of Israel",
-        "Gulf News"
-      ],
-      "image": null,
-      "image_credit": null
-    },
-    {
-      "id": "world-20261108-1522-01",
-      "published_ist": "2026-11-08T10:40:00+05:30",
-      "headline": "Hormuz: Do tanker mine se takraakar jal uthe",
-      "detail": "IRGC ke daave ke mutaabik do tel tanker Hormuz me mine se takraakar jal uthe; swatantra pushti abhi baaki hai, aur jahazon ke naam nahi bataye gaye.",
-      "category": "World",
-      "exam_angle": "Hormuz jalmarg aur America-Iran tanav — urja suraksha ke liye mahatvapurna.",
-      "source": "The Hindu",
-      "source_url": "https://www.thehindu.com/news/international/iran-says-two-tankers-caught-fire-in-hormuz-after-hitting-mines/article71680557.ece",
-      "genuineness": "corroborated",
-      "outlets": [
-        "AFP",
-        "NDTV Profit"
-      ],
-      "image": null,
-      "image_credit": null
-    },
-    {
-      "id": "world-20261108-1322-01",
-      "published_ist": "2026-11-08T13:10:00+05:30",
-      "headline": "Riyadh: Houthi missile roke gaye",
-      "detail": "Saudi gathbandhan ne Riyadh ki taraf daage gaye do ballistic aur do cruise missile rok diye; rajdhani me dhamakon ki awaaz suni gayi, Aramco imarat ko nuksan ki khabar hai.",
-      "category": "World",
-      "exam_angle": "Saudi-Yemen sangharsh aur Khadi me tel suraksha — antarrashtriya sambandh ke liye mahatvapurna.",
-      "source": "Al Jazeera",
-      "source_url": "https://www.aljazeera.com/news/2026/11/8/saudi-arabia-intercepts-houthi-missiles-targeting-riyadh-eastern-province",
-      "genuineness": "verified",
-      "outlets": [
-        "Al Jazeera",
-        "Arab News",
-        "Reuters",
-        "Firstpost"
-      ],
-      "image": "../images/world/world-20261108-1322-01.jpg",
-      "image_credit": "B.alotaby, CC BY-SA 4.0 (Wikimedia Commons)"
-    },
-    {
-      "id": "world-20261108-1322-02",
-      "published_ist": "2026-11-05T22:01:00+05:30",
-      "headline": "Hong Kong: Joshua Wong ko 10 saal",
-      "detail": "Hong Kong High Court ne Joshua Wong ko videshi shaktiyon se milibhagat ke aarop me 10 saal ki saza di; 10 deshon ne sanyukt bayan me 'anyaypurna mukadme' khatm karne ko kaha.",
-      "category": "World",
-      "exam_angle": "Hong Kong National Security Law aur loktantra — antarrashtriya sambandh ke liye mahatvapurna.",
-      "source": "South China Morning Post",
-      "source_url": "https://www.scmp.com/news/hong-kong/law-and-crime/article/3373335/joshua-wong-jailed-10-years-over-bid-instigate-sanctions-beijing-hong-kong",
-      "genuineness": "verified",
-      "outlets": [
-        "South China Morning Post",
-        "CNN",
-        "The Times",
-        "Nikkei Asia"
-      ],
-      "image": "../images/world/world-20261108-1322-02.jpg",
-      "image_credit": "Seader, CC BY-SA 4.0 (Wikimedia Commons)"
-    },
-    {
-      "id": "world-20261108-1322-03",
-      "published_ist": "2026-11-05T20:51:00+05:30",
-      "headline": "FATF: Scam compounds par global action",
-      "detail": "FATF ne scam compounds se jude avaidh vittiya pravah par landmark report jaari ki — har saal arabon dollar ka nuksan; 120 case studies, 60 se zyada desh shamil.",
-      "category": "World",
-      "exam_angle": "FATF, money laundering aur cyber fraud — vittiya suraksha ke liye mahatvapurna.",
-      "source": "FATF",
-      "source_url": "https://www.fatf-gafi.org/en/news/combating-illicit-financial-flows-linked-to-scam-compounds.html",
-      "genuineness": "verified",
-      "outlets": [
-        "FATF",
-        "The FinRate",
-        "Blockint"
-      ],
-      "image": null,
-      "image_credit": null
-    },
-    {
-      "id": "world-20261108-1222-01",
-      "published_ist": "2026-11-07T10:50:00+05:30",
-      "headline": "Taiz: Bazaar par hamle me 25 ki maut",
-      "detail": "Taiz ke Al-Hadhara bazaar par hamle me kam se kam 25 log mare aur 30 ghayal hue; Houthis ne Saudi par aarop lagaya, sarkari balon ne Houthis par — zimmedari par vivaad hai.",
-      "category": "World",
-      "exam_angle": "Yemen grih yuddh aur Saudi-Houthi sangharsh — Madhya Purv ki suraksha ke liye mahatvapurna.",
-      "source": "Dawn",
-      "source_url": "https://www.dawn.com/news/2042972",
-      "genuineness": "verified",
-      "outlets": [
-        "Dawn",
-        "BBC",
-        "News On AIR",
-        "Times Now"
-      ],
-      "image": null,
-      "image_credit": null
-    },
-    {
-      "id": "world-20261108-1222-02",
-      "published_ist": "2026-11-07T08:32:00+05:30",
-      "headline": "Vance: Iran se yuddhviram vaarta me lage",
-      "detail": "Axios ke mutaabik Up-Rashtrapati Vance pichhle do hafte se Qatar aur Pakistan ke madhyam se Iran ke saath apratyaksh vaarta me hain — naye yuddhviram aur parmanu vaarta ki koshish.",
-      "category": "World",
-      "exam_angle": "America-Iran tanav aur Madhya Purv me kootneeti — antarrashtriya sambandh ke liye mahatvapurna.",
-      "source": "The Tribune",
-      "source_url": "https://www.tribuneindia.com/news/usa-news/jd-vance-spearheads-quiet-diplomatic-push-for-new-iran-deal-report/",
-      "genuineness": "corroborated",
-      "outlets": [
-        "Axios",
-        "The Tribune",
-        "TRT World"
-      ],
-      "image": null,
-      "image_credit": null
-    },
-    {
-      "id": "world-20261108-1222-03",
-      "published_ist": "2026-11-06T12:44:00+05:30",
-      "headline": "October 2026: Record garmi, 1.5°C paar",
-      "detail": "Copernicus ke mutaabik October 2026 sabse garam October raha — 15.35°C, audyogik-kaal se 1.75°C zyada; 2026 lagbhag tay hai 1.5°C se upar jaane wala doosra saal banega.",
-      "category": "World",
-      "exam_angle": "Paris Agreement ka 1.5°C lakshya aur jalvayu parivartan — paryavaran ke liye mahatvapurna.",
-      "source": "Down To Earth",
-      "source_url": "https://www.downtoearth.org.in/climate-change/world-records-hottest-october-in-2026-global-temperatures-rise-175c-above-pre-industrial-levels",
-      "genuineness": "verified",
-      "outlets": [
-        "Copernicus Climate Change Service",
-        "Down To Earth",
-        "Africa Climate Reports",
-        "Anadolu Agency"
-      ],
-      "image": null,
-      "image_credit": null
-    },
-    {
-      "id": "world-20261108-1222-04",
-      "published_ist": "2026-11-04T17:24:00+05:30",
-      "headline": "Thailand: Do Uyghur ko China bhejane par rok",
-      "detail": "Amnesty aur Human Rights Watch ne Thailand se kaha do Uyghur purushon ko China na bheje; Thailand ne kaha faisla adalat karegi, pehle aupchaarik pratyarpan anurodh chahiye.",
-      "category": "World",
-      "exam_angle": "Non-refoulement aur sharanarthi suraksha — antarrashtriya manavadhikar ke liye mahatvapurna.",
-      "source": "The Hindu",
-      "source_url": "https://www.thehindu.com/news/international/china-must-make-extradition-request-if-it-wants-two-uyghur-men-returned-thailand/article71665293.ece",
-      "genuineness": "verified",
-      "outlets": [
-        "Amnesty International",
-        "Human Rights Watch",
-        "The Hindu",
-        "The Nation"
-      ],
-      "image": null,
-      "image_credit": null
-    },
-    {
-      "id": "world-20261108-1122-01",
-      "published_ist": "2026-11-08T09:31:00+05:30",
-      "headline": "Oman ki khaadi: UAE ne 22 log bachaye",
-      "detail": "Oman ki khaadi me maalvahak jahaz me aag lagne par UAE National Guard ne 22 arab nagrikon ko bachaya; sabhi sthir haalat me hain.",
-      "category": "World",
-      "exam_angle": "Hormuz ke aas-paas samudri suraksha — antarrashtriya vyapar ke liye mahatvapurna.",
-      "source": "The Times of India",
-      "source_url": "https://timesofindia.indiatimes.com/world/middle-east/uae-rescues-22-arab-nationals-after-fire-breaks-out-aboard-cargo-ship/articleshow/135650778.cms",
-      "genuineness": "verified",
-      "outlets": [
-        "Al Jazeera",
-        "Gulf News",
-        "The Times of India",
-        "Kuwait Times"
-      ],
-      "image": null,
-      "image_credit": null
-    },
-    {
-      "id": "world-20261108-1122-02",
-      "published_ist": "2026-11-07T22:59:00+05:30",
-      "headline": "Syria: Yemen sainik bhejne se inkaar",
-      "detail": "Damascus ne kaha Yemen ko sainik bhejne ki khabrein bebuniyad hain; Saudi se sahyog sirf prashikshan aur salah tak simit rahega.",
-      "category": "World",
-      "exam_angle": "Mecca Pact aur Madhya Purv me badalti Saudi-Syria dosti — antarrashtriya sambandh ke liye mahatvapurna.",
-      "source": "Reuters",
-      "source_url": "https://www.reuters.com/world/asia-pacific/syria-denies-plans-send-troops-yemen-saudi-military-ties-deepen-2026-11-07/",
-      "genuineness": "verified",
-      "outlets": [
-        "Reuters",
-        "Agence France-Presse",
-        "Arab News",
-        "TRT World"
-      ],
-      "image": null,
-      "image_credit": null
-    },
-    {
-      "id": "world-20261108-1122-03",
-      "published_ist": "2026-11-07T22:31:00+05:30",
-      "headline": "America: Iraq se Iran seema band karne ko kaha",
-      "detail": "America ne Iraq se kaha Iran ke saath sirf do seema crossing khule rakhe; Tehran-samarthak milicia ke samarthan par sainya karravai ki chetavni bhi di.",
-      "category": "World",
-      "exam_angle": "America-Iran tanav me Iraq ki bhoomika — Madhya Purv ki rajneeti ke liye mahatvapurna.",
-      "source": "Moneycontrol",
-      "source_url": "https://www.moneycontrol.com/world/us-asks-iraq-to-shut-border-crossings-with-iran-warns-against-backing-tehran-linked-militias-article-14074626.html/amp",
-      "genuineness": "verified",
-      "outlets": [
-        "Al Jazeera",
-        "Shafaq News",
-        "Moneycontrol",
-        "Mehr News"
-      ],
-      "image": null,
-      "image_credit": null
-    },
-    {
-      "id": "world-20261108-1122-04",
-      "published_ist": "2026-11-07T17:50:00+05:30",
-      "headline": "Italy: Mantri ka data dark web par",
-      "detail": "Videsh Mantri Tajani ne kaha Russia-samarthak hackers ne unka niji data dark web par daala; Ukraine samarthan ko wajah bataya, Moscow ne tippani nahi ki.",
-      "category": "World",
-      "exam_angle": "Hybrid warfare aur cyber suraksha — antarrashtriya sambandh ke liye mahatvapurna.",
-      "source": "Reuters",
-      "source_url": "https://www.reuters.com/world/italy-foreign-minister-says-he-has-been-targeted-by-pro-russian-hackers-over-2026-11-07/",
-      "genuineness": "verified",
-      "outlets": [
-        "Reuters",
-        "Al Jazeera",
-        "The Straits Times",
-        "Associated Press"
-      ],
-      "image": "../images/world/world-20261108-1122-04.jpg",
-      "image_credit": "UK Government, CC BY 2.0 (Wikimedia Commons)"
-    },
-    {
-      "id": "world-20261108-1122-05",
-      "published_ist": "2026-11-06T09:37:00+05:30",
-      "headline": "Canada: 2027 tak 6.22 lakh PR",
-      "detail": "Budget 2026 ke tahat Canada 2027 tak 6,22,000 naye permanent residents ko jagah dega, jinme 2 lakh asthayi nivasi bhi shamil hain.",
-      "category": "World",
-      "exam_angle": "Canada ki immigration policy aur Bharatiya pravasi — antarrashtriya sambandh ke liye mahatvapurna.",
-      "source": "Tribune India",
-      "source_url": "https://www.tribuneindia.com/news/punjab/canada-plans-to-welcome-6-lakh-new-permanent-residents-by-2027/amp/",
-      "genuineness": "verified",
-      "outlets": [
-        "Tribune India",
-        "CIC News",
-        "PTC News",
-        "Daily Hunt"
-      ],
-      "image": null,
-      "image_credit": null
-    },
-    {
-      "id": "world-20261108-1026-01",
-      "published_ist": "2026-11-08T07:00:00+05:30",
-      "headline": "Oman ki khaadi: America ne jahaz ko roka",
-      "detail": "CENTCOM ke mutaabik, M/V Huda ne naaka todne ki koshish ki to America ne uske pichhle hisse par hamla kar use roka.",
-      "category": "World",
-      "exam_angle": "Iran par America ki samudri naakaabandi July se jaari hai",
-      "source": "India TV",
-      "source_url": "https://www.indiatvnews.com/news/world/us-disables-cargo-ship-in-gulf-of-oman-iran-reports-explosions-on-qeshm-island-2026-11-08-1058929",
-      "genuineness": "verified",
-      "outlets": [
-        "Reuters",
-        "India TV",
-        "The Hindu BusinessLine",
-        "Gulf News"
-      ],
-      "image": null,
-      "image_credit": null
-    }
-  ]
+ "updated_ist": "2026-11-08T21:26:32+05:30",
+ "items": [
+  {
+   "id": "world-20261108-2122-01",
+   "published_ist": "2026-11-08T00:05:00+05:30",
+   "headline": "Paraguay: Peña ko hirasat me rakhne ka aadesh",
+   "detail": "Judge ne poorv rashtrapati Santiago Peña ko Ueno Bank ghotaale me hirasat me rakhne ka aadesh diya; kendriya bank pramukh Carvallo bhi hirasat me, 12 lakh bachatkartaon ko $160 million lautaye gaye.",
+   "category": "World",
+   "exam_angle": "Banking ghotaala aur mahabhiyog — jama guarantee aur kendriya bank ki swatantrata par sawaal.",
+   "source": "Al Jazeera",
+   "source_url": "https://www.aljazeera.com/economy/2026/11/7/paraguays-ousted-president-charged-over-banking-scandal?traffic_source=rss",
+   "genuineness": "verified",
+   "outlets": [
+    "Reuters",
+    "Al Jazeera",
+    "AFP"
+   ],
+   "image": "../images/world/world-20261108-2122-01.jpg",
+   "image_credit": "Presidencia de Ecuador, public domain (Wikimedia Commons)"
+  },
+  {
+   "id": "world-20261108-2122-02",
+   "published_ist": "2026-11-08T15:56:00+05:30",
+   "headline": "Kwale: 454 kg drugs zabt, teen giraftaar",
+   "detail": "Kenya-Tanzania joint operation me Kwale se 3.6 arab shilling ki 454 kilo methamphetamine zabt hui; do Tanzanian aur ek Ugandan mahila giraftaar.",
+   "category": "World",
+   "exam_angle": "Seema-paar drug taskari aur antarrashtriya suraksha sahyog.",
+   "source": "Citizen Digital",
+   "source_url": "https://citizen.digital/article/three-arrested-as-police-seize-suspected-drugs-worth-ksh36b-in-kwale-n393516",
+   "genuineness": "verified",
+   "outlets": [
+    "Citizen Digital",
+    "Daily Nation",
+    "Capital FM"
+   ],
+   "image": null,
+   "image_credit": null
+  },
+  {
+   "id": "world-20261108-2024-01",
+   "published_ist": "2026-11-08T11:21:00+05:30",
+   "headline": "Iran: Teen ko phansi, January virodh ka mamla",
+   "detail": "Iran ki nyaypalika ne kaha, January ke virodh-pradarshanon ke dauraan Israel-America ke liye kaam karne ke aarop me teen logon ko phansi di gayi; Supreme Court ne saza barkarar rakhi thi, aath anyon ko 5–10 saal ki saza.",
+   "category": "World",
+   "exam_angle": "Mrityudand aur manavadhikar — antarrashtriya sambandh ke liye mahatvapurna.",
+   "source": "The Hindu",
+   "source_url": "https://www.thehindu.com/news/international/iran-executes-three-men-over-armed-unrest-during-january-protests/article71680580.ece",
+   "genuineness": "verified",
+   "outlets": [
+    "The Hindu",
+    "Times of Israel",
+    "The Jerusalem Post"
+   ],
+   "image": null,
+   "image_credit": null
+  },
+  {
+   "id": "world-20261108-2024-02",
+   "published_ist": "2026-11-08T19:51:00+05:30",
+   "headline": "Giza: Train takkar me 64 ghayal",
+   "detail": "Giza ke Al-Ayyat jile me Giza-Fayoum train peeche se Cairo-Aswan train se takrayi, ek train patri se utri; swasthya mantralaya ke mutabik 64 ghayal, maut ki abhi koi pushti nahi.",
+   "category": "World",
+   "exam_angle": "Rail suraksha aur haadsa prabandhan — parivahan aur shasan ke liye mahatvapurna.",
+   "source": "The Times of India",
+   "source_url": "https://timesofindia.indiatimes.com/world/rest-of-world/egypt-train-collision-over-60-injured-as-passenger-train-derails-after-hitting-another-train-in-giza/articleshow/135660889.cms",
+   "genuineness": "verified",
+   "outlets": [
+    "Associated Press",
+    "Arab News",
+    "NDTV"
+   ],
+   "image": null,
+   "image_credit": null
+  },
+  {
+   "id": "world-20261108-1924-01",
+   "published_ist": "2026-11-07T21:17:00+05:30",
+   "headline": "MEXC: America ne crypto exchange par rok lagayi",
+   "detail": "America ke FinCEN ne MEXC crypto exchange ko US banks se kaatne ka aadesh diya — May 2021 se May 2026 ke beech $16.7 arab ke sandigdh len-den ka aarop; rok Federal Register me prakashan ke 30 din baad lagu hogi.",
+   "category": "World",
+   "exam_angle": "Crypto par niyaman, money laundering aur pratibandh — banking aur arthvyavastha ke liye mahatvapurna.",
+   "source": "Bitcoin Insider",
+   "source_url": "https://www.bitcoininsider.org/article/fincen-mexc-order-cut-off-us-financial-system",
+   "genuineness": "corroborated",
+   "outlets": [
+    "US Treasury / FinCEN",
+    "Crypto.news",
+    "Bitcoin Insider"
+   ],
+   "image": null,
+   "image_credit": null
+  },
+  {
+   "id": "world-20261108-1822-01",
+   "published_ist": "2026-11-07T19:30:00+05:30",
+   "headline": "Krakow: Goli baari me 6 ki maut",
+   "detail": "Poland ke Krakow ke Main Market Square me shanivaar ko ek bandukdhari ne goliyaan chalaayi — 6 ki maut, 16 ghayal; hamlaawar ko police ne goli maari aur giraftaar kiya, uske ghar se teen aur shav mile; desh me do din ka rashtriya shok ghoshit.",
+   "category": "World",
+   "exam_angle": "Europe me banduk hinsa aur hathiyaron ka kanoon — antarrashtriya suraksha ke liye mahatvapurna.",
+   "source": "The Week",
+   "source_url": "https://www.theweek.in/wire-updates/international/2026/11/08/gunman-who-killed-6-in-poland-s-krakow-was-fascinated-with-far-right-views-minister-says.html",
+   "genuineness": "verified",
+   "outlets": [
+    "Associated Press",
+    "Agence France-Presse",
+    "Reuters"
+   ],
+   "image": "../images/world/world-20261108-1822-01.jpg",
+   "image_credit": "Fred Romero, CC BY 2.0 (Wikimedia Commons)"
+  },
+  {
+   "id": "world-20261108-1822-02",
+   "published_ist": "2026-11-08T06:06:00+05:30",
+   "headline": "Zaporizhzhia: Parmanu plant phir andhere me",
+   "detail": "Zaporizhzhia parmanu sanyantra ki baahari bijli 8 November ko subah 2:36 baje phir band ho gayi — saal ki 16vi baar; diesel generator se cooling jaari hai, IAEA ke mutaabik vikiran star samanya hai.",
+   "category": "World",
+   "exam_angle": "Parmanu suraksha aur IAEA ki bhoomika — antarrashtriya suraksha ke liye mahatvapurna.",
+   "source": "Nikkei Asia",
+   "source_url": "https://asia.nikkei.com/politics/ukraine-war/ukraine-s-zaporizhzhia-nuclear-plant-again-relies-on-backup-power",
+   "genuineness": "verified",
+   "outlets": [
+    "Reuters",
+    "IAEA",
+    "Ukrinform",
+    "Kyiv Post"
+   ],
+   "image": "../images/world/world-20261108-1822-02.jpg",
+   "image_credit": "Ralf1969, CC BY-SA 3.0 (Wikimedia Commons)"
+  },
+  {
+   "id": "world-20261108-1722-01",
+   "published_ist": "2026-11-08T15:04:00+05:30",
+   "headline": "Senegal: Naav doobne se 21 ki maut",
+   "detail": "Senegal ke uttar-paschimi tat par pravasiyon ki naav doob gayi — kam se kam 21 ki maut, ek ko bachaya gaya; grih mantralaya ke mutaabik mrityu sankhya asthayi hai, khoj jaari hai.",
+   "category": "World",
+   "exam_angle": "Africa se Europe ka Atlantic pravasi marg aur samudri suraksha — antarrashtriya sambandh ke liye mahatvapurna.",
+   "source": "The Hindu",
+   "source_url": "https://www.thehindu.com/news/international/migrant-boat-sinks-off-senegal-death-toll/article71680824.ece",
+   "genuineness": "corroborated",
+   "outlets": [
+    "The Hindu",
+    "Moneycontrol",
+    "WION",
+    "Seneweb"
+   ],
+   "image": "../images/world/world-20261108-1722-01.jpg",
+   "image_credit": "HaguardDuNord, CC BY-SA 3.0 (Wikimedia Commons)"
+  },
+  {
+   "id": "world-20261108-1722-02",
+   "published_ist": "2026-11-07T14:11:00+05:30",
+   "headline": "Africa: Peela bukhar, nau deshon me faila",
+   "detail": "WHO ke mutaabik 2026 me nau African deshon me peele bukhar ke 67 pusht mamle aur 18 mautein darj hui; kshetriya jokhim madhyam aur vaishvik jokhim kam aanka gaya.",
+   "category": "World",
+   "exam_angle": "WHO, IHR 2005 aur EYE Strategy — swasthya aur antarrashtriya sangathan ke liye mahatvapurna.",
+   "source": "Khaleej Tribune",
+   "source_url": "https://khaleejtribune.com/who-67-yellow-fever-cases-nine-african-countries/",
+   "genuineness": "corroborated",
+   "outlets": [
+    "WHO",
+    "Khaleej Tribune",
+    "Global Bihari",
+    "Oman Herald"
+   ],
+   "image": "../images/world/world-20261108-1722-02.jpg",
+   "image_credit": "US Department of Agriculture, Public domain (Wikimedia Commons)"
+  },
+  {
+   "id": "world-20261108-1622-01",
+   "published_ist": "2026-11-08T12:51:00+05:30",
+   "headline": "COP31: Guterres ne 'moment of truth' kaha",
+   "detail": "Sanyukt Rashtra mahasachiv Guterres ne COP31 (9–20 November, Turkey) ko 'moment of truth' kaha; yeh unka aakhri COP hai, karyakal December me khatm ho raha hai.",
+   "category": "World",
+   "exam_angle": "COP31 aur Paris Agreement ka 1.5°C lakshya — jalvayu parivartan ke liye mahatvapurna.",
+   "source": "The Economic Times",
+   "source_url": "https://economictimes.indiatimes.com/news/environment/global-warming/cop31-a-moment-of-truth-un-chief-guterres-urges-world-leaders-to-act-now-on-climate-change/articleshow/135653565.cms",
+   "genuineness": "corroborated",
+   "outlets": [
+    "Associated Press",
+    "The Economic Times"
+   ],
+   "image": "../images/world/world-20261108-1622-01.jpg",
+   "image_credit": "Xuthoria, CC BY-SA 4.0 (Wikimedia Commons)"
+  },
+  {
+   "id": "world-20261108-1622-02",
+   "published_ist": "2026-11-08T15:51:00+05:30",
+   "headline": "Ukraine: Hamlo se 8.5 lakh andhere me",
+   "detail": "Russia ke raat bhar ke hamlo ke baad Dnipropetrovsk me 6 lakh se zyada aur Kharkiv me lagbhag 2.5 lakh log bijli se vanchit hue; Zelenskyy ne kaha hamle Abu Dhabi vaarta se pehle dabaav ke liye hain.",
+   "category": "World",
+   "exam_angle": "Russia-Ukraine yuddh aur urja suraksha — antarrashtriya sambandh ke liye mahatvapurna.",
+   "source": "Firstpost",
+   "source_url": "https://www.firstpost.com/world/ukraine-braces-for-harsh-winter-as-russian-strikes-knock-out-power-for-850000-14058678.html",
+   "genuineness": "verified",
+   "outlets": [
+    "AFP",
+    "Le Temps",
+    "Firstpost"
+   ],
+   "image": null,
+   "image_credit": null
+  },
+  {
+   "id": "world-20261108-1622-03",
+   "published_ist": "2026-11-08T05:49:00+05:30",
+   "headline": "Iran: Missile range ki seema hataayi",
+   "detail": "IRGC pravakta Mohebbi ne kaha 2,000 km ki swayam-lagayi missile seema 'hata di gayi hai'; unhone yeh nahi bataya ki Iran ke paas isse lambi doori ki missile hai ya nahi.",
+   "category": "World",
+   "exam_angle": "Iran ka missile karyakram aur aprasar — antarrashtriya suraksha ke liye mahatvapurna.",
+   "source": "The Times of India",
+   "source_url": "https://timesofindia.indiatimes.com/world/middle-east/irans-irgc-claims-self-imposed-2000-km-ballistic-missile-range-limit-has-been-lifted/articleshow/135649066.cms",
+   "genuineness": "verified",
+   "outlets": [
+    "Associated Press",
+    "The Times of Israel",
+    "Gulf News"
+   ],
+   "image": null,
+   "image_credit": null
+  },
+  {
+   "id": "world-20261108-1522-01",
+   "published_ist": "2026-11-08T10:40:00+05:30",
+   "headline": "Hormuz: Do tanker mine se takraakar jal uthe",
+   "detail": "IRGC ke daave ke mutaabik do tel tanker Hormuz me mine se takraakar jal uthe; swatantra pushti abhi baaki hai, aur jahazon ke naam nahi bataye gaye.",
+   "category": "World",
+   "exam_angle": "Hormuz jalmarg aur America-Iran tanav — urja suraksha ke liye mahatvapurna.",
+   "source": "The Hindu",
+   "source_url": "https://www.thehindu.com/news/international/iran-says-two-tankers-caught-fire-in-hormuz-after-hitting-mines/article71680557.ece",
+   "genuineness": "corroborated",
+   "outlets": [
+    "AFP",
+    "NDTV Profit"
+   ],
+   "image": null,
+   "image_credit": null
+  },
+  {
+   "id": "world-20261108-1322-01",
+   "published_ist": "2026-11-08T13:10:00+05:30",
+   "headline": "Riyadh: Houthi missile roke gaye",
+   "detail": "Saudi gathbandhan ne Riyadh ki taraf daage gaye do ballistic aur do cruise missile rok diye; rajdhani me dhamakon ki awaaz suni gayi, Aramco imarat ko nuksan ki khabar hai.",
+   "category": "World",
+   "exam_angle": "Saudi-Yemen sangharsh aur Khadi me tel suraksha — antarrashtriya sambandh ke liye mahatvapurna.",
+   "source": "Al Jazeera",
+   "source_url": "https://www.aljazeera.com/news/2026/11/8/saudi-arabia-intercepts-houthi-missiles-targeting-riyadh-eastern-province",
+   "genuineness": "verified",
+   "outlets": [
+    "Al Jazeera",
+    "Arab News",
+    "Reuters",
+    "Firstpost"
+   ],
+   "image": "../images/world/world-20261108-1322-01.jpg",
+   "image_credit": "B.alotaby, CC BY-SA 4.0 (Wikimedia Commons)"
+  },
+  {
+   "id": "world-20261108-1322-02",
+   "published_ist": "2026-11-05T22:01:00+05:30",
+   "headline": "Hong Kong: Joshua Wong ko 10 saal",
+   "detail": "Hong Kong High Court ne Joshua Wong ko videshi shaktiyon se milibhagat ke aarop me 10 saal ki saza di; 10 deshon ne sanyukt bayan me 'anyaypurna mukadme' khatm karne ko kaha.",
+   "category": "World",
+   "exam_angle": "Hong Kong National Security Law aur loktantra — antarrashtriya sambandh ke liye mahatvapurna.",
+   "source": "South China Morning Post",
+   "source_url": "https://www.scmp.com/news/hong-kong/law-and-crime/article/3373335/joshua-wong-jailed-10-years-over-bid-instigate-sanctions-beijing-hong-kong",
+   "genuineness": "verified",
+   "outlets": [
+    "South China Morning Post",
+    "CNN",
+    "The Times",
+    "Nikkei Asia"
+   ],
+   "image": "../images/world/world-20261108-1322-02.jpg",
+   "image_credit": "Seader, CC BY-SA 4.0 (Wikimedia Commons)"
+  },
+  {
+   "id": "world-20261108-1322-03",
+   "published_ist": "2026-11-05T20:51:00+05:30",
+   "headline": "FATF: Scam compounds par global action",
+   "detail": "FATF ne scam compounds se jude avaidh vittiya pravah par landmark report jaari ki — har saal arabon dollar ka nuksan; 120 case studies, 60 se zyada desh shamil.",
+   "category": "World",
+   "exam_angle": "FATF, money laundering aur cyber fraud — vittiya suraksha ke liye mahatvapurna.",
+   "source": "FATF",
+   "source_url": "https://www.fatf-gafi.org/en/news/combating-illicit-financial-flows-linked-to-scam-compounds.html",
+   "genuineness": "verified",
+   "outlets": [
+    "FATF",
+    "The FinRate",
+    "Blockint"
+   ],
+   "image": null,
+   "image_credit": null
+  },
+  {
+   "id": "world-20261108-1222-01",
+   "published_ist": "2026-11-07T10:50:00+05:30",
+   "headline": "Taiz: Bazaar par hamle me 25 ki maut",
+   "detail": "Taiz ke Al-Hadhara bazaar par hamle me kam se kam 25 log mare aur 30 ghayal hue; Houthis ne Saudi par aarop lagaya, sarkari balon ne Houthis par — zimmedari par vivaad hai.",
+   "category": "World",
+   "exam_angle": "Yemen grih yuddh aur Saudi-Houthi sangharsh — Madhya Purv ki suraksha ke liye mahatvapurna.",
+   "source": "Dawn",
+   "source_url": "https://www.dawn.com/news/2042972",
+   "genuineness": "verified",
+   "outlets": [
+    "Dawn",
+    "BBC",
+    "News On AIR",
+    "Times Now"
+   ],
+   "image": null,
+   "image_credit": null
+  },
+  {
+   "id": "world-20261108-1222-02",
+   "published_ist": "2026-11-07T08:32:00+05:30",
+   "headline": "Vance: Iran se yuddhviram vaarta me lage",
+   "detail": "Axios ke mutaabik Up-Rashtrapati Vance pichhle do hafte se Qatar aur Pakistan ke madhyam se Iran ke saath apratyaksh vaarta me hain — naye yuddhviram aur parmanu vaarta ki koshish.",
+   "category": "World",
+   "exam_angle": "America-Iran tanav aur Madhya Purv me kootneeti — antarrashtriya sambandh ke liye mahatvapurna.",
+   "source": "The Tribune",
+   "source_url": "https://www.tribuneindia.com/news/usa-news/jd-vance-spearheads-quiet-diplomatic-push-for-new-iran-deal-report/",
+   "genuineness": "corroborated",
+   "outlets": [
+    "Axios",
+    "The Tribune",
+    "TRT World"
+   ],
+   "image": null,
+   "image_credit": null
+  },
+  {
+   "id": "world-20261108-1222-03",
+   "published_ist": "2026-11-06T12:44:00+05:30",
+   "headline": "October 2026: Record garmi, 1.5°C paar",
+   "detail": "Copernicus ke mutaabik October 2026 sabse garam October raha — 15.35°C, audyogik-kaal se 1.75°C zyada; 2026 lagbhag tay hai 1.5°C se upar jaane wala doosra saal banega.",
+   "category": "World",
+   "exam_angle": "Paris Agreement ka 1.5°C lakshya aur jalvayu parivartan — paryavaran ke liye mahatvapurna.",
+   "source": "Down To Earth",
+   "source_url": "https://www.downtoearth.org.in/climate-change/world-records-hottest-october-in-2026-global-temperatures-rise-175c-above-pre-industrial-levels",
+   "genuineness": "verified",
+   "outlets": [
+    "Copernicus Climate Change Service",
+    "Down To Earth",
+    "Africa Climate Reports",
+    "Anadolu Agency"
+   ],
+   "image": null,
+   "image_credit": null
+  },
+  {
+   "id": "world-20261108-1222-04",
+   "published_ist": "2026-11-04T17:24:00+05:30",
+   "headline": "Thailand: Do Uyghur ko China bhejane par rok",
+   "detail": "Amnesty aur Human Rights Watch ne Thailand se kaha do Uyghur purushon ko China na bheje; Thailand ne kaha faisla adalat karegi, pehle aupchaarik pratyarpan anurodh chahiye.",
+   "category": "World",
+   "exam_angle": "Non-refoulement aur sharanarthi suraksha — antarrashtriya manavadhikar ke liye mahatvapurna.",
+   "source": "The Hindu",
+   "source_url": "https://www.thehindu.com/news/international/china-must-make-extradition-request-if-it-wants-two-uyghur-men-returned-thailand/article71665293.ece",
+   "genuineness": "verified",
+   "outlets": [
+    "Amnesty International",
+    "Human Rights Watch",
+    "The Hindu",
+    "The Nation"
+   ],
+   "image": null,
+   "image_credit": null
+  },
+  {
+   "id": "world-20261108-1122-01",
+   "published_ist": "2026-11-08T09:31:00+05:30",
+   "headline": "Oman ki khaadi: UAE ne 22 log bachaye",
+   "detail": "Oman ki khaadi me maalvahak jahaz me aag lagne par UAE National Guard ne 22 arab nagrikon ko bachaya; sabhi sthir haalat me hain.",
+   "category": "World",
+   "exam_angle": "Hormuz ke aas-paas samudri suraksha — antarrashtriya vyapar ke liye mahatvapurna.",
+   "source": "The Times of India",
+   "source_url": "https://timesofindia.indiatimes.com/world/middle-east/uae-rescues-22-arab-nationals-after-fire-breaks-out-aboard-cargo-ship/articleshow/135650778.cms",
+   "genuineness": "verified",
+   "outlets": [
+    "Al Jazeera",
+    "Gulf News",
+    "The Times of India",
+    "Kuwait Times"
+   ],
+   "image": null,
+   "image_credit": null
+  },
+  {
+   "id": "world-20261108-1122-02",
+   "published_ist": "2026-11-07T22:59:00+05:30",
+   "headline": "Syria: Yemen sainik bhejne se inkaar",
+   "detail": "Damascus ne kaha Yemen ko sainik bhejne ki khabrein bebuniyad hain; Saudi se sahyog sirf prashikshan aur salah tak simit rahega.",
+   "category": "World",
+   "exam_angle": "Mecca Pact aur Madhya Purv me badalti Saudi-Syria dosti — antarrashtriya sambandh ke liye mahatvapurna.",
+   "source": "Reuters",
+   "source_url": "https://www.reuters.com/world/asia-pacific/syria-denies-plans-send-troops-yemen-saudi-military-ties-deepen-2026-11-07/",
+   "genuineness": "verified",
+   "outlets": [
+    "Reuters",
+    "Agence France-Presse",
+    "Arab News",
+    "TRT World"
+   ],
+   "image": null,
+   "image_credit": null
+  },
+  {
+   "id": "world-20261108-1122-03",
+   "published_ist": "2026-11-07T22:31:00+05:30",
+   "headline": "America: Iraq se Iran seema band karne ko kaha",
+   "detail": "America ne Iraq se kaha Iran ke saath sirf do seema crossing khule rakhe; Tehran-samarthak milicia ke samarthan par sainya karravai ki chetavni bhi di.",
+   "category": "World",
+   "exam_angle": "America-Iran tanav me Iraq ki bhoomika — Madhya Purv ki rajneeti ke liye mahatvapurna.",
+   "source": "Moneycontrol",
+   "source_url": "https://www.moneycontrol.com/world/us-asks-iraq-to-shut-border-crossings-with-iran-warns-against-backing-tehran-linked-militias-article-14074626.html/amp",
+   "genuineness": "verified",
+   "outlets": [
+    "Al Jazeera",
+    "Shafaq News",
+    "Moneycontrol",
+    "Mehr News"
+   ],
+   "image": null,
+   "image_credit": null
+  },
+  {
+   "id": "world-20261108-1122-04",
+   "published_ist": "2026-11-07T17:50:00+05:30",
+   "headline": "Italy: Mantri ka data dark web par",
+   "detail": "Videsh Mantri Tajani ne kaha Russia-samarthak hackers ne unka niji data dark web par daala; Ukraine samarthan ko wajah bataya, Moscow ne tippani nahi ki.",
+   "category": "World",
+   "exam_angle": "Hybrid warfare aur cyber suraksha — antarrashtriya sambandh ke liye mahatvapurna.",
+   "source": "Reuters",
+   "source_url": "https://www.reuters.com/world/italy-foreign-minister-says-he-has-been-targeted-by-pro-russian-hackers-over-2026-11-07/",
+   "genuineness": "verified",
+   "outlets": [
+    "Reuters",
+    "Al Jazeera",
+    "The Straits Times",
+    "Associated Press"
+   ],
+   "image": "../images/world/world-20261108-1122-04.jpg",
+   "image_credit": "UK Government, CC BY 2.0 (Wikimedia Commons)"
+  }
+ ]
 }
