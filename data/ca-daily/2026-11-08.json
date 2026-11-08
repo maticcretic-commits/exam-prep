@@ -212,6 +212,76 @@
     ],
     "answer_index": 1
    }
+  },
+  {
+   "episode": 96,
+   "video_hi": "JpbVKtit918",
+   "video_hinglish": "JpbVKtit918",
+   "capsules": [
+    {
+     "id": "ca-ep96-s1",
+     "headline_hi": "E20: 893 samples mein ethanol 19-21%",
+     "headline_hinglish": "E20: 893 samples mein ethanol 19-21%",
+     "detail_hi": "Saat November ko Petroleum Ministry ne bataya: sattaees rajyon mein 893 samples mein ethanol 19-21% mila.",
+     "detail_hinglish": "Saat November ko Petroleum Ministry ne bataya: sattaees rajyon mein 893 samples mein ethanol 19-21% mila.",
+     "category_hi": "Energy",
+     "category_en": "National"
+    },
+    {
+     "id": "ca-ep96-s2",
+     "headline_hi": "Hauz Qazi: building collapse mein 7 ki maut",
+     "headline_hinglish": "Hauz Qazi: building collapse mein 7 ki maut",
+     "detail_hi": "Paanch November subah teen manzila imarat giri; saat logon ki maut, malik aur teen thekedaar giraftaar hue.",
+     "detail_hinglish": "Paanch November subah teen manzila imarat giri; saat logon ki maut, malik aur teen thekedaar giraftaar hue.",
+     "category_hi": "Disaster",
+     "category_en": "National"
+    },
+    {
+     "id": "ca-ep96-s3",
+     "headline_hi": "East Bengal: pehli baar Asia quarter-final mein",
+     "headline_hinglish": "East Bengal: pehli baar Asia quarter-final mein",
+     "detail_hi": "Saat November ko Kolkata mein 0-2 se haar ke baad bhi best third-placed team bankar quarter-final mein jagah banayi.",
+     "detail_hinglish": "Saat November ko Kolkata mein 0-2 se haar ke baad bhi best third-placed team bankar quarter-final mein jagah banayi.",
+     "category_hi": "Sports",
+     "category_en": "Sports"
+    },
+    {
+     "id": "ca-ep96-s4",
+     "headline_hi": "NBFC credit growth 15.4% par pahuncha",
+     "headline_hinglish": "NBFC credit growth 15.4% par pahuncha",
+     "detail_hi": "RBI ke anusaar September 2026 mein NBFC credit growth 15.4% rahi, banking sector ke liye achhi khabar.",
+     "detail_hinglish": "RBI ke anusaar September 2026 mein NBFC credit growth 15.4% rahi, banking sector ke liye achhi khabar.",
+     "category_hi": "Banking",
+     "category_en": "Banking"
+    },
+    {
+     "id": "ca-ep96-s5",
+     "headline_hi": "Sudhakar Dalela Nepal ke naye Rajdoot",
+     "headline_hinglish": "Sudhakar Dalela Nepal ke naye Rajdoot",
+     "detail_hi": "Diplomat Sudhakar Dalela ne Nepal mein Bharat ke naye Rajdoot ke roop mein padbhar sambhala.",
+     "detail_hinglish": "Diplomat Sudhakar Dalela ne Nepal mein Bharat ke naye Rajdoot ke roop mein padbhar sambhala.",
+     "category_hi": "Appointments",
+     "category_en": "National"
+    }
+   ],
+   "mcq": {
+    "id": "ca-ep96-mcq",
+    "q_hi": "E20 petrol mein ethanol kitna hota hai?",
+    "q_hinglish": "E20 petrol mein ethanol kitna hota hai?",
+    "options_hi": [
+     "10-12%",
+     "15-17%",
+     "19-21%",
+     "25-27%"
+    ],
+    "options_hinglish": [
+     "10-12%",
+     "15-17%",
+     "19-21%",
+     "25-27%"
+    ],
+    "answer_index": 2
+   }
   }
  ]
 }
