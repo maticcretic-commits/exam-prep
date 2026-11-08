@@ -146,6 +146,62 @@
    ],
    "image": "../images/world/world-20261108-0722-01.jpg",
    "image_credit": "Presidencia de Ecuador, public domain (Wikimedia Commons)"
+  },
+  {
+   "id": "world-20261108-0822-01",
+   "published_ist": "2026-11-06T01:18:00+05:30",
+   "headline": "America: Dhillon ne Civil Rights pad chhoda",
+   "detail": "Trump prashasan ki pehli badi vidai — Attorney General ne 5 November ko Harmeet Dhillon ka istifa sweekar kiya; woh April 2025 se Civil Rights Division ki pramukh thi.",
+   "category": "World",
+   "exam_angle": "Midterm ke baad pehli badi vidai — America ki rajneeti aur nagrik adhikar ke liye mahatvapurna.",
+   "source": "Al Jazeera",
+   "source_url": "https://www.aljazeera.com/amp/news/2026/11/5/top-us-civil-rights-official-resigns",
+   "genuineness": "verified",
+   "outlets": [
+    "Al Jazeera",
+    "CNN",
+    "USA Today",
+    "The Washington Post"
+   ],
+   "image": "../images/world/world-20261108-0822-01.jpg",
+   "image_credit": "Gage Skidmore, CC BY-SA 2.0 (Wikimedia Commons)"
+  },
+  {
+   "id": "world-20261108-0822-02",
+   "published_ist": "2026-11-07T00:27:00+05:30",
+   "headline": "France: School bus haadse me do ki maut",
+   "detail": "Lyon se Bourg-en-Bresse ja rahi bus ped se takra gayi; saat saal ki ladki aur 18 saal ke yuva ki maut, 16 ghayal, teen ki haalat gambhir.",
+   "category": "World",
+   "exam_angle": null,
+   "source": "WION",
+   "source_url": "https://www.wionews.com/world/france-school-bus-crash-seven-year-old-among-two-killed-several-injured-after-driver-dozes-off-1793990386189/amp",
+   "genuineness": "verified",
+   "outlets": [
+    "Reuters",
+    "Channel News Asia",
+    "WION",
+    "Gulf Times"
+   ],
+   "image": null,
+   "image_credit": null
+  },
+  {
+   "id": "world-20261108-0822-03",
+   "published_ist": "2026-11-08T01:53:00+05:30",
+   "headline": "New Zealand: Chunav me koi vijeta nahi",
+   "detail": "National ko 42 aur Labour ko 36 seatein mili; Labour ko vote share me halki badhat, lekin sarkar ka faisla 27 November ke aadhikarik natije par tika.",
+   "category": "World",
+   "exam_angle": "MMP chunav pranali aur hung parliament — loktantra ke liye mahatvapurna.",
+   "source": "The Will",
+   "source_url": "https://thewillnews.com/new-zealand-heads-for-coalition-govt-as-election-produces-no-clear-majority/",
+   "genuineness": "verified",
+   "outlets": [
+    "Reuters",
+    "Al Jazeera",
+    "The Will"
+   ],
+   "image": null,
+   "image_credit": null
   }
  ]
 }
