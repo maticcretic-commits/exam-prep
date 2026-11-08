@@ -1,6 +1,62 @@
 {
- "updated_ist": "2026-11-08T07:26:51+05:30",
+ "updated_ist": "2026-11-08T08:24:00+05:30",
  "items": [
+  {
+   "id": "world-20261108-0822-01",
+   "published_ist": "2026-11-06T01:18:00+05:30",
+   "headline": "America: Dhillon ne Civil Rights pad chhoda",
+   "detail": "Trump prashasan ki pehli badi vidai — Attorney General ne 5 November ko Harmeet Dhillon ka istifa sweekar kiya; woh April 2025 se Civil Rights Division ki pramukh thi.",
+   "category": "World",
+   "exam_angle": "Midterm ke baad pehli badi vidai — America ki rajneeti aur nagrik adhikar ke liye mahatvapurna.",
+   "source": "Al Jazeera",
+   "source_url": "https://www.aljazeera.com/amp/news/2026/11/5/top-us-civil-rights-official-resigns",
+   "genuineness": "verified",
+   "outlets": [
+    "Al Jazeera",
+    "CNN",
+    "USA Today",
+    "The Washington Post"
+   ],
+   "image": "../images/world/world-20261108-0822-01.jpg",
+   "image_credit": "Gage Skidmore, CC BY-SA 2.0 (Wikimedia Commons)"
+  },
+  {
+   "id": "world-20261108-0822-02",
+   "published_ist": "2026-11-07T00:27:00+05:30",
+   "headline": "France: School bus haadse me do ki maut",
+   "detail": "Lyon se Bourg-en-Bresse ja rahi bus ped se takra gayi; saat saal ki ladki aur 18 saal ke yuva ki maut, 16 ghayal, teen ki haalat gambhir.",
+   "category": "World",
+   "exam_angle": null,
+   "source": "WION",
+   "source_url": "https://www.wionews.com/world/france-school-bus-crash-seven-year-old-among-two-killed-several-injured-after-driver-dozes-off-1793990386189/amp",
+   "genuineness": "verified",
+   "outlets": [
+    "Reuters",
+    "Channel News Asia",
+    "WION",
+    "Gulf Times"
+   ],
+   "image": null,
+   "image_credit": null
+  },
+  {
+   "id": "world-20261108-0822-03",
+   "published_ist": "2026-11-08T01:53:00+05:30",
+   "headline": "New Zealand: Chunav me koi vijeta nahi",
+   "detail": "National ko 42 aur Labour ko 36 seatein mili; Labour ko vote share me halki badhat, lekin sarkar ka faisla 27 November ke aadhikarik natije par tika.",
+   "category": "World",
+   "exam_angle": "MMP chunav pranali aur hung parliament — loktantra ke liye mahatvapurna.",
+   "source": "The Will",
+   "source_url": "https://thewillnews.com/new-zealand-heads-for-coalition-govt-as-election-produces-no-clear-majority/",
+   "genuineness": "verified",
+   "outlets": [
+    "Reuters",
+    "Al Jazeera",
+    "The Will"
+   ],
+   "image": null,
+   "image_credit": null
+  },
   {
    "id": "world-20261108-0722-01",
    "published_ist": "2026-11-08T06:59:00+05:30",
@@ -381,63 +437,6 @@
     "Associated Press",
     "TRT World",
     "The Economic Times"
-   ],
-   "image": null,
-   "image_credit": null
-  },
-  {
-   "id": "world-20261107-1322-02",
-   "published_ist": "2026-11-07T08:22:00+05:30",
-   "headline": "Zelenskyy: Yuddh khatm kiye bina samjhauta khatarnak",
-   "detail": "CNN ko diye interview me Zelenskyy ne kaha, yuddh khatm kiye bina Russia-Europe ke beech naya suraksha samjhauta khatarnak hoga, khaas taur par EU ke liye; Ukraine, America aur Russia ke beech ek hafte me trilateral baatchit hogi.",
-   "category": "World",
-   "exam_angle": "Russia-Ukraine yuddh aur Europe ki suraksha vyavastha — antarrashtriya sambandh ke liye mahatvapurna.",
-   "source": "Tribune India",
-   "source_url": "https://www.tribuneindia.com/news/world/zelenskyy-warns-against-russia-europe-security-deal-says-it-could-be-dangerous-for-eu/",
-   "genuineness": "verified",
-   "outlets": [
-    "CNN",
-    "ANI",
-    "The New Voice of Ukraine",
-    "RBC-Ukraine"
-   ],
-   "image": null,
-   "image_credit": null
-  },
-  {
-   "id": "world-20261107-1926-02",
-   "published_ist": "2026-11-07T08:12:00+05:30",
-   "headline": "Houston: Police ab ICE ko kam sahyog degi",
-   "detail": "Houston ke Mayor John Whitmire ne karyakari aadesh se police ko nirdesh diya ki ab ICE ko sirf tab suchit kiya jaye jab giraftaar vyakti par jail yogya aarop ho aur ICE warrant bhi ho; mamuli traffic rok par sirf challan milega, koi suchna nahi.",
-   "category": "World",
-   "exam_angle": "America me sthaniya police aur sanghiya immigration pravartan — sanghwad aur rajneeti ke liye mahatvapurna.",
-   "source": "Reuters",
-   "source_url": "https://www.reuters.com/legal/government/houston-mayor-curtails-police-cooperation-with-ice-saying-elections-matter-2026-11-07/",
-   "genuineness": "verified",
-   "outlets": [
-    "Reuters",
-    "BBC",
-    "Associated Press",
-    "USA Today"
-   ],
-   "image": null,
-   "image_credit": null
-  },
-  {
-   "id": "world-20261107-1022-02",
-   "published_ist": "2026-11-07T08:01:00+05:30",
-   "headline": "FDA: Zolgensma gene therapy se tumour ka khatra",
-   "detail": "America ki FDA ne Novartis ki Zolgensma gene therapy se tumour ke khatre ki jaanch shuru ki; do bachchon me vector ke DNA judne ke saboot mile, kul nau mamle darj hue.",
-   "category": "World",
-   "exam_angle": "Gene therapy ki suraksha aur FDA ki nigrani — swasthya aur vigyan ke liye mahatvapurna.",
-   "source": "FDA",
-   "source_url": "https://www.fda.gov/vaccines-blood-biologics/safety-availability-biologics/fda-investigating-serious-risk-malignancy-linked-zolgensma-gene-therapy",
-   "genuineness": "verified",
-   "outlets": [
-    "FDA",
-    "Reuters",
-    "South China Morning Post",
-    "The Hindu BusinessLine"
    ],
    "image": null,
    "image_credit": null
