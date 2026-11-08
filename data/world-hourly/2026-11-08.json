@@ -592,6 +592,41 @@
    ],
    "image": null,
    "image_credit": null
+  },
+  {
+   "id": "world-20261108-1522-01",
+   "published_ist": "2026-11-08T10:40:00+05:30",
+   "headline": "Hormuz: Do tanker mine se takraakar jal uthe",
+   "detail": "IRGC ke daave ke mutaabik do tel tanker Hormuz me mine se takraakar jal uthe; swatantra pushti abhi baaki hai, aur jahazon ke naam nahi bataye gaye.",
+   "category": "World",
+   "exam_angle": "Hormuz jalmarg aur America-Iran tanav — urja suraksha ke liye mahatvapurna.",
+   "source": "The Hindu",
+   "source_url": "https://www.thehindu.com/news/international/iran-says-two-tankers-caught-fire-in-hormuz-after-hitting-mines/article71680557.ece",
+   "genuineness": "corroborated",
+   "outlets": [
+    "AFP",
+    "NDTV Profit"
+   ],
+   "image": null,
+   "image_credit": null
+  },
+  {
+   "id": "world-20261108-0722-01",
+   "published_ist": "2026-11-08T06:59:00+05:30",
+   "headline": "Paraguay: Peña prosecutors ke saamne pesh hue",
+   "detail": "Ueno Bank ke collapse par Senate ne Peña ko hataya tha; house arrest ke baad woh shanivaar subah Attorney General ke saamne pesh hue, Alliana naye rashtrapati ban chuke hain. (Update: Shanivaar ko un par 'breach of trust' ke aarop lage aur judge ne sainya suvidha me pre-trial custody ka aadesh diya; woh aaropon se inkaar kar rahe hain.)",
+   "category": "World",
+   "exam_angle": "Mahabhiyog aur banking sankat — governance aur vittiya niyaman ke liye mahatvapurna.",
+   "source": "Al Jazeera",
+   "source_url": "https://www.aljazeera.com/economy/2026/11/7/paraguays-ousted-president-charged-over-banking-scandal?traffic_source=rss",
+   "genuineness": "verified",
+   "outlets": [
+    "Reuters",
+    "Al Jazeera",
+    "AFP"
+   ],
+   "image": "../images/world/world-20261108-0722-01.jpg",
+   "image_credit": "Presidencia de Ecuador, public domain (Wikimedia Commons)"
   }
  ]
 }
