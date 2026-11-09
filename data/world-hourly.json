@@ -1,6 +1,69 @@
 {
-  "updated_ist": "2026-11-09T16:25:42+05:30",
+  "updated_ist": "2026-11-09T17:24:09+05:30",
   "items": [
+    {
+      "id": "world-20261109-1722-01",
+      "published_ist": "2026-11-09T09:51:00+05:30",
+      "headline": "Trump: Deportation neeti 'too tough' rahi",
+      "detail": "CBS ke 60 Minutes interview me Trump ne mana — nirvasan neeti 'too tough' rahi; naukri aur parivar wale pravasiyon ko hatane se midterm me party ko nuksan hua; phir bhi neeti badalne ki ghoshna nahi ki, ICE ka lagbhag 19,000 giraftari prati hafta ka lakshya barkarar hai.",
+      "category": "World",
+      "exam_angle": "America ki pravasi neeti aur midterm chunav — antarrashtriya rajneeti ke liye mahatvapurna.",
+      "source": "The Statesman",
+      "source_url": "https://www.thestatesman.com/world/trump-says-deportation-policy-might-be-too-tough-after-us-midterm-losses-1503660308.html",
+      "genuineness": "verified",
+      "outlets": [
+        "The Statesman",
+        "Business Standard",
+        "The Times of India",
+        "CNBC TV18",
+        "Businessday",
+        "Seoul Economic Daily"
+      ],
+      "image": "../images/world/world-20261109-1722-01.jpg",
+      "image_credit": "The Statesman"
+    },
+    {
+      "id": "world-20261109-1722-02",
+      "published_ist": "2026-11-09T14:30:00+05:30",
+      "headline": "Ukraine: EU se turant madad ka mechanism",
+      "detail": "Zelenskyy ne von der Leyen se baat ke baad kaha — EU ne Ukraine ke liye vishesh aapatkalin sahayata mechanism sakriya kiya; Russia ke hamlo se bijli, paani aur heating sankat me Kyiv, Dnipro, Sumy, Donetsk aur Kherson ko turant vitt milega; Abu Dhabi vaarta se pehle sthiti par bhi sahmati bani.",
+      "category": "World",
+      "exam_angle": "Ukraine yuddh aur EU ki sahayata — antarrashtriya sambandh ke liye mahatvapurna.",
+      "source": "Ukrinform",
+      "source_url": "https://www.ukrinform.net/rubric-polytics/4182833-eu-to-activate-special-emergency-mechanism-for-ukraine-zelensky.html",
+      "genuineness": "verified",
+      "outlets": [
+        "Ukrinform",
+        "Al Jazeera",
+        "Interfax-Ukraine",
+        "Ukrainska Pravda",
+        "Türkiye Today",
+        "Georgia Today"
+      ],
+      "image": null,
+      "image_credit": null
+    },
+    {
+      "id": "world-20261109-1722-03",
+      "published_ist": "2026-11-09T11:52:00+05:30",
+      "headline": "Australia: Gmail par umar jaanch ka khatra",
+      "detail": "Google ne Australia ki Senate sunwai me chetavani di — Digital Duty of Care bill ki umar-jaanch shart 18 se kam umar walo ke liye Gmail, messaging aur file storage band karwa sakti hai; bill pratinidhi sabha se pass ho chuka hai, Senate me atka hai; Meta, TikTok aur Snap ne bhi aisi hi chinta jatai.",
+      "category": "World",
+      "exam_angle": "Digital niyaman aur online suraksha kanoon — shasan aur takneek ke liye mahatvapurna.",
+      "source": "Reuters",
+      "source_url": "https://www.reuters.com/legal/litigation/google-says-new-australian-internet-safety-bill-could-cut-off-under-18s-gmail-2026-11-09/",
+      "genuineness": "verified",
+      "outlets": [
+        "Reuters",
+        "The Hindu",
+        "Gulf News",
+        "The Straits Times",
+        "Channel News Asia",
+        "CNBC TV18"
+      ],
+      "image": null,
+      "image_credit": null
+    },
     {
       "id": "world-20261109-1622-01",
       "published_ist": "2026-11-09T15:04:00+05:30",
@@ -85,8 +148,8 @@
     {
       "id": "world-20261109-1522-03",
       "published_ist": "2026-11-09T12:32:00+05:30",
-      "headline": "Crete: Naav me 12 pravasiyon ke shav mile",
-      "detail": "Greece ke tatrakshak ne Crete ke dakshin me ek pravasi naav se 12 shav baramad kiye aur 18 logon ko bachaya; maut ka karan abhi agyaat hai; usi raat do aur naavon se 87 pravasi bachaye gaye.",
+      "headline": "Crete: Naav me 13 pravasiyon ki maut",
+      "detail": "Greece ke tatrakshak ne Crete ke dakshin me ek pravasi naav se 12 shav baramad kiye aur 18 logon ko bachaya; aspatal le jaye gaye 4 me se ek ki baad me maut ho gayi, kul 13 ki maut; maut ka karan abhi agyaat hai; usi raat do aur naavon se 87 pravasi bachaye gaye. (Corrected: pehle 12 maut batayi gayi thi; aspatal me ek aur ki maut ke baad kul sankhya 13 hui.)",
       "category": "World",
       "exam_angle": "Bhoomadhya sagar me pravasi sankat aur EU seema niti — antarrashtriya sambandh ke liye mahatvapurna.",
       "source": "The Hindu",
@@ -412,45 +475,6 @@
       ],
       "image": null,
       "image_credit": null
-    },
-    {
-      "id": "world-20261109-0726-01",
-      "published_ist": "2026-11-08T19:25:00+05:30",
-      "headline": "Abu Dhabi vaarta me Europe bhi shamil",
-      "detail": "France ke videsh mantri ne kaha — 10-11 November ko Abu Dhabi me America ki madhyasthata wali Ukraine-Russia vaarta me Europe bhi hissa lega; Witkoff dono deshon ke pratinidhimandalon ko ek saath laayenge.",
-      "category": "World",
-      "exam_angle": "Ukraine yuddh aur shanti vaarta me Europe ki bhumika — antarrashtriya sambandh ke liye mahatvapurna.",
-      "source": "The Hindu",
-      "source_url": "https://www.thehindu.com/news/international/europe-will-be-represented-at-us-mediated-ukraine-talks-in-abu-dhabi-france/article71681017.ece",
-      "genuineness": "verified",
-      "outlets": [
-        "Reuters",
-        "The Hindu",
-        "The Straits Times",
-        "The Hindu BusinessLine"
-      ],
-      "image": null,
-      "image_credit": null
-    },
-    {
-      "id": "world-20261108-2222-01",
-      "published_ist": "2026-11-08T18:30:00+05:30",
-      "headline": "Katz: Iran mission abhi adhoora hai",
-      "detail": "Israel ke Raksha Mantri Katz ne kaha Iran par mission abhi poora nahi hua aur Tehran parmanu hathiyar ki koshish phir se kar raha hai — daava Tehran kharij karta hai; Hezbollah ko bhi chetavani di.",
-      "category": "World",
-      "exam_angle": "America-Israel-Iran tanav aur parmanu mudda — antarrashtriya sambandh ke liye mahatvapurna.",
-      "source": "The Hindu",
-      "source_url": "https://www.thehindu.com/news/international/israel-defence-minister-says-mission-not-complete-on-iran/article71680896.ece",
-      "genuineness": "verified",
-      "outlets": [
-        "The Hindu",
-        "Times Now",
-        "Arab News",
-        "NDTV",
-        "India TV"
-      ],
-      "image": "../images/world/world-20261108-2222-01.jpg",
-      "image_credit": "Shlomi Amsalem, CC BY-SA 4.0 (Wikimedia Commons)"
     }
   ]
 }
