@@ -1,6 +1,26 @@
 {
-  "updated_ist": "2026-11-09T08:25:50+05:30",
+  "updated_ist": "2026-11-09T09:26:47+05:30",
   "items": [
+    {
+      "id": "world-20261109-0922-01",
+      "published_ist": "2026-11-09T05:26:00+05:30",
+      "headline": "Trump: APEC me Xi-Putin se milenge",
+      "detail": "Trump ne kaha — 18-19 November ko Shenzhen me APEC shikhar par Xi Jinping aur Vladimir Putin se milne ki ummeed hai; Iran yuddh khatm karne aur parmanu nishastrikaran par baat hogi.",
+      "category": "World",
+      "exam_angle": "America-China-Russia trilateral vaarta aur parmanu nishastrikaran — antarrashtriya sambandh ke liye mahatvapurna.",
+      "source": "Reuters",
+      "source_url": "https://www.reuters.com/world/china/trump-thinks-he-will-meet-xi-putin-china-apec-summit-2026-11-09/",
+      "genuineness": "verified",
+      "outlets": [
+        "Reuters",
+        "Nikkei Asia",
+        "Kyodo News",
+        "The Japan Times",
+        "Gulf News"
+      ],
+      "image": null,
+      "image_credit": null
+    },
     {
       "id": "world-20261109-0822-03",
       "published_ist": "2026-11-09T07:12:00+05:30",
@@ -431,24 +451,6 @@
       ],
       "image": null,
       "image_credit": null
-    },
-    {
-      "id": "world-20261108-2122-01",
-      "published_ist": "2026-11-08T00:05:00+05:30",
-      "headline": "Paraguay: Peña ko hirasat me rakhne ka aadesh",
-      "detail": "Judge ne poorv rashtrapati Santiago Peña ko Ueno Bank ghotaale me hirasat me rakhne ka aadesh diya; kendriya bank pramukh Carvallo bhi hirasat me, 12 lakh bachatkartaon ko $160 million lautaye gaye.",
-      "category": "World",
-      "exam_angle": "Banking ghotaala aur mahabhiyog — jama guarantee aur kendriya bank ki swatantrata par sawaal.",
-      "source": "Al Jazeera",
-      "source_url": "https://www.aljazeera.com/economy/2026/11/7/paraguays-ousted-president-charged-over-banking-scandal?traffic_source=rss",
-      "genuineness": "verified",
-      "outlets": [
-        "Reuters",
-        "Al Jazeera",
-        "AFP"
-      ],
-      "image": "../images/world/world-20261108-2122-01.jpg",
-      "image_credit": "Presidencia de Ecuador, public domain (Wikimedia Commons)"
     }
   ]
 }
