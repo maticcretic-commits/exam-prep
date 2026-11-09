@@ -346,6 +346,45 @@
       ],
       "image": null,
       "image_credit": null
+    },
+    {
+      "id": "world-20261109-1222-01",
+      "published_ist": "2026-11-09T06:49:00+05:30",
+      "headline": "Khor Mor: Drone hamle se bijli gayab",
+      "detail": "Iraq ke Kurdistan me Khor Mor gas field par raat ko drone hamla — aag lagi, utpadan ruka; 2.8 GW bijli gayi, 70% se zyada ilaka andhere me; koi hatahat nahi, zimmedaari kisi ne nahi li.",
+      "category": "World",
+      "exam_angle": "Iraq-Kurdistan urja sankat aur kshetriya tanav — urja suraksha ke liye mahatvapurna.",
+      "source": "Al Jazeera",
+      "source_url": "https://www.aljazeera.com/news/2026/11/9/drone-attack-suspends-production-at-iraqs-khor-mor-gasfield",
+      "genuineness": "verified",
+      "outlets": [
+        "Al Jazeera",
+        "Reuters",
+        "Gulf News",
+        "Kurdistan24"
+      ],
+      "image": "../images/world/world-20261109-1222-01.jpg",
+      "image_credit": "Al Jazeera"
+    },
+    {
+      "id": "world-20261109-1222-02",
+      "published_ist": "2026-11-09T09:50:00+05:30",
+      "headline": "Hasina: Passport maanga, wapsi ka sanket",
+      "detail": "Bangladesh ki apadasth PM Sheikh Hasina ne Delhi sthit dutavas se naya passport aur pehchan patra maanga — December me wapsi aur adalat ke saamne surrender ki yojna; Dhaka ne kaha pratyarpan sandhi se hi wapsi hogi.",
+      "category": "World",
+      "exam_angle": "Bangladesh ki rajneeti aur Bharat-Bangladesh sambandh — antarrashtriya sambandh ke liye mahatvapurna.",
+      "source": "Reuters",
+      "source_url": "https://www.reuters.com/world/asia-pacific/hasina-seeks-new-passport-clearest-sign-bangladesh-return-2026-11-09/",
+      "genuineness": "verified",
+      "outlets": [
+        "Reuters",
+        "AP",
+        "The Hindu BusinessLine",
+        "SCMP",
+        "The Straits Times"
+      ],
+      "image": "../images/world/world-20261109-1222-02.jpg",
+      "image_credit": "The Hindu BusinessLine"
     }
   ]
 }
