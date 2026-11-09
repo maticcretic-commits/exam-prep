@@ -1,24 +1,44 @@
 {
-  "updated_ist": "2026-11-09T19:27:35+05:30",
+  "updated_ist": "2026-11-09T20:26:34+05:30",
   "items": [
     {
-      "id": "world-20261109-1922-01",
-      "published_ist": "2026-11-08T17:00:00+05:30",
-      "headline": "Misr: Train takkar me 7 ki maut",
-      "detail": "Cairo ke dakshin Al-Ayyat me Giza-Fayoum train peeche se khadi Cairo-Aswan train se takra gayi — kai dibbe patri se utre; 7 ki maut, 112 ghayal; Rashtrapati Sisi ne jaanch ke aadesh diye.",
+      "id": "world-20261109-2022-01",
+      "published_ist": "2026-11-09T19:44:00+05:30",
+      "headline": "Dakshin Africa: ANC ki sabse badi haar",
+      "detail": "Sthaniya chunav me ANC ko sirf 31% vote mile — 1994 ke baad sabse kharab nateeja; DA 25% ke saath doosre sthan par; mahasachiv Mbalula ne ise 'catastrophic' kaha; ab gathbandhan ki baatchit hogi.",
       "category": "World",
-      "exam_angle": "Misr me rail haadse aur suraksha — antarrashtriya samachar ke liye mahatvapurna.",
-      "source": "Channel News Asia",
-      "source_url": "https://www.channelnewsasia.com/world/egypt-train-collision-kills-7-injures-112-says-health-ministry-6534371?cid=cna_flip_070214",
+      "exam_angle": "Dakshin Africa me loktantra aur gathbandhan rajneeti — antarrashtriya sambandh ke liye mahatvapurna.",
+      "source": "Al Jazeera",
+      "source_url": "https://www.aljazeera.com/news/2026/11/9/what-catastrophic-south-africa-local-election-results-mean-for-anc",
+      "genuineness": "verified",
+      "outlets": [
+        "Al Jazeera",
+        "Reuters",
+        "AP",
+        "AFP"
+      ],
+      "image": "../images/world/world-20261109-2022-01.jpg",
+      "image_credit": "Al Jazeera"
+    },
+    {
+      "id": "world-20261109-2022-02",
+      "published_ist": "2026-11-09T18:09:00+05:30",
+      "headline": "Novaya Gazeta band, Moscow karyalaya khaali",
+      "detail": "Russia ke swatantra akhbaar Novaya Gazeta ne aaj antim sampadakiya baithak ke baad apna Moscow karyalaya khaali kar diya — 'foreign agent' ka darja aur daan par rok ke baad kaam jaari rakhna namumkin hua; sansthapak Muratov ne abhivyakti ki swatantrata ki appeal ki.",
+      "category": "World",
+      "exam_angle": "Russia me media swatantrata aur press par dabav — antarrashtriya sambandh ke liye mahatvapurna.",
+      "source": "TimesLIVE",
+      "source_url": "https://www.timeslive.co.za/news/world/2026-11-09-novaya-gazeta-closes-after-years-of-defiant-reporting-in-russia/",
       "genuineness": "verified",
       "outlets": [
         "Reuters",
-        "CNN",
-        "Al Jazeera",
-        "The National"
+        "Le Monde",
+        "The Times",
+        "Times of Israel",
+        "AFP"
       ],
-      "image": "../images/world/world-20261109-1922-01.jpg",
-      "image_credit": "Channel News Asia"
+      "image": "../images/world/world-20261109-2022-02.jpg",
+      "image_credit": "TimesLIVE"
     },
     {
       "id": "world-20261109-1922-02",
@@ -38,6 +58,25 @@
       ],
       "image": "../images/world/world-20261109-1922-02.jpg",
       "image_credit": "Euromaidan Press"
+    },
+    {
+      "id": "world-20261109-2022-03",
+      "published_ist": "2026-11-09T16:48:00+05:30",
+      "headline": "2026 chaar sabse garm saalon me",
+      "detail": "WMO ki report ke mutabik January-September 2026 me vaishvik tapman audyogik-kal se pehle ke star se 1.47°C upar raha — 2026 chaar sabse garm saalon me se ek hoga; El Niño ke majboot hone se garmi aur charam mausam 2027 tak jaari rahega.",
+      "category": "World",
+      "exam_angle": "Jalvayu parivartan, El Niño aur COP31 — paryavaran aur antarrashtriya sambandh ke liye mahatvapurna.",
+      "source": "The Hindu",
+      "source_url": "https://www.thehindu.com/sci-tech/energy-and-environment/2026-to-be-one-of-four-warmest-years-on-record-world-meteorological-organization/article71682272.ece",
+      "genuineness": "verified",
+      "outlets": [
+        "The Hindu",
+        "Le Monde",
+        "Reuters",
+        "WMO"
+      ],
+      "image": null,
+      "image_credit": null
     },
     {
       "id": "world-20261109-1922-03",
@@ -60,143 +99,6 @@
       "image_credit": "The Kyiv Independent"
     },
     {
-      "id": "world-20261109-1922-04",
-      "published_ist": "2026-11-09T07:30:00+05:30",
-      "headline": "Nvidia: CEO par jasusi jaanch",
-      "detail": "Nvidia ke board ne CEO Jensen Huang par videshi jasusi ke nishane par hone ke aaropon par swatantra jaanch shuru ki — board ke mutabik ab tak rashtriya suraksha ya company ke rahasya se samjhaute ka koi saboot nahi mila; Huang jaanch me sahyog karenge.",
-      "category": "World",
-      "exam_angle": "America-China chip yuddh aur takneek suraksha — antarrashtriya sambandh aur arthvyavastha ke liye mahatvapurna.",
-      "source": "Al Jazeera",
-      "source_url": "https://www.aljazeera.com/news/2026/11/9/why-is-nvidias-jensen-huang-at-the-centre-of-a-us-china-spy-scandal?traffic_source=rss",
-      "genuineness": "verified",
-      "outlets": [
-        "Al Jazeera",
-        "Associated Press",
-        "Reuters",
-        "The New York Times"
-      ],
-      "image": "../images/world/world-20261109-1922-04.jpg",
-      "image_credit": "Al Jazeera"
-    },
-    {
-      "id": "world-20261109-1822-01",
-      "published_ist": "2026-11-09T07:35:00+05:30",
-      "headline": "Paris: G7 mantriyon ki Ukraine-Iran baithak",
-      "detail": "Paris me G7 videsh mantriyon ki do din ki baithak shuru — Ukraine me nishpaksh shanti aur Iran par naye hamle rokne par charcha; America ke videsh mantri Marco Rubio dono din shamil honge; Abu Dhabi me Russia-Ukraine vaarta se pehle Europe ki chinta par bhi baat hogi.",
-      "category": "World",
-      "exam_angle": "G7, Ukraine yuddh aur Iran tanaav — antarrashtriya sambandh ke liye mahatvapurna.",
-      "source": "The Hindu",
-      "source_url": "https://www.thehindu.com/news/international/g7-ministers-meeting-in-paris-russia-ukraine-conflict-us-israel-strikes-on-iran/article71681281.ece",
-      "genuineness": "verified",
-      "outlets": [
-        "AFP",
-        "Outlook India",
-        "Khaama"
-      ],
-      "image": null,
-      "image_credit": null
-    },
-    {
-      "id": "world-20261109-1822-03",
-      "published_ist": "2026-11-09T12:05:00+05:30",
-      "headline": "Kraków: Hamlaavar ki maut, ghar me 3 shav",
-      "detail": "Kraków me 6 logon ki hatya karne wala 24 saal ka hamlaavar aspatal me mar gaya — police se muthbhed me ghayal hua tha; uske ghar se mata-pita aur behen ke shav mile; jaanch aatankwadi hamle ke roop me jaari hai.",
-      "category": "World",
-      "exam_angle": "Europe me suraksha aur aatankwadi jaanch — antarrashtriya sambandh ke liye mahatvapurna.",
-      "source": "The Hindu",
-      "source_url": "https://www.thehindu.com/news/international/krakow-shooting-suspect-dies-poland-police/article71681652.ece",
-      "genuineness": "verified",
-      "outlets": [
-        "Reuters",
-        "The Hindu",
-        "Al Jazeera",
-        "AP"
-      ],
-      "image": "../images/world/world-20261109-1822-03.jpg",
-      "image_credit": "The Hindu"
-    },
-    {
-      "id": "world-20261109-1822-04",
-      "published_ist": "2026-11-09T10:49:00+05:30",
-      "headline": "Taiyuan: Imarat me aag, 14 ki maut",
-      "detail": "China ke Taiyuan shahar me ek unchi imarat me aag lagne se kam se kam 14 logon ki maut, 38 ko aspatal bheja gaya; aag lagbhag do ghante me bujhai gayi, kaaran ki jaanch jaari hai.",
-      "category": "World",
-      "exam_angle": null,
-      "source": "Korea Times",
-      "source_url": "https://www.koreatimes.co.kr/amp/world/20261109/fire-in-china-apartment-building-kills-14-state-media",
-      "genuineness": "verified",
-      "outlets": [
-        "AFP",
-        "Reuters",
-        "Daily Pioneer"
-      ],
-      "image": "../images/world/world-20261109-1822-04.jpg",
-      "image_credit": "Korea Times"
-    },
-    {
-      "id": "world-20261109-1722-01",
-      "published_ist": "2026-11-09T09:51:00+05:30",
-      "headline": "Trump: Deportation neeti 'too tough' rahi",
-      "detail": "CBS ke 60 Minutes interview me Trump ne mana — nirvasan neeti 'too tough' rahi; naukri aur parivar wale pravasiyon ko hatane se midterm me party ko nuksan hua; phir bhi neeti badalne ki ghoshna nahi ki, ICE ka lagbhag 19,000 giraftari prati hafta ka lakshya barkarar hai.",
-      "category": "World",
-      "exam_angle": "America ki pravasi neeti aur midterm chunav — antarrashtriya rajneeti ke liye mahatvapurna.",
-      "source": "The Statesman",
-      "source_url": "https://www.thestatesman.com/world/trump-says-deportation-policy-might-be-too-tough-after-us-midterm-losses-1503660308.html",
-      "genuineness": "verified",
-      "outlets": [
-        "The Statesman",
-        "Business Standard",
-        "The Times of India",
-        "CNBC TV18",
-        "Businessday",
-        "Seoul Economic Daily"
-      ],
-      "image": "../images/world/world-20261109-1722-01.jpg",
-      "image_credit": "The Statesman"
-    },
-    {
-      "id": "world-20261109-1722-02",
-      "published_ist": "2026-11-09T14:30:00+05:30",
-      "headline": "Ukraine: EU se turant madad ka mechanism",
-      "detail": "Zelenskyy ne von der Leyen se baat ke baad kaha — EU ne Ukraine ke liye vishesh aapatkalin sahayata mechanism sakriya kiya; Russia ke hamlo se bijli, paani aur heating sankat me Kyiv, Dnipro, Sumy, Donetsk aur Kherson ko turant vitt milega; Abu Dhabi vaarta se pehle sthiti par bhi sahmati bani.",
-      "category": "World",
-      "exam_angle": "Ukraine yuddh aur EU ki sahayata — antarrashtriya sambandh ke liye mahatvapurna.",
-      "source": "Ukrinform",
-      "source_url": "https://www.ukrinform.net/rubric-polytics/4182833-eu-to-activate-special-emergency-mechanism-for-ukraine-zelensky.html",
-      "genuineness": "verified",
-      "outlets": [
-        "Ukrinform",
-        "Al Jazeera",
-        "Interfax-Ukraine",
-        "Ukrainska Pravda",
-        "Türkiye Today",
-        "Georgia Today"
-      ],
-      "image": null,
-      "image_credit": null
-    },
-    {
-      "id": "world-20261109-1722-03",
-      "published_ist": "2026-11-09T11:52:00+05:30",
-      "headline": "Australia: Gmail par umar jaanch ka khatra",
-      "detail": "Google ne Australia ki Senate sunwai me chetavani di — Digital Duty of Care bill ki umar-jaanch shart 18 se kam umar walo ke liye Gmail, messaging aur file storage band karwa sakti hai; bill pratinidhi sabha se pass ho chuka hai, Senate me atka hai; Meta, TikTok aur Snap ne bhi aisi hi chinta jatai.",
-      "category": "World",
-      "exam_angle": "Digital niyaman aur online suraksha kanoon — shasan aur takneek ke liye mahatvapurna.",
-      "source": "Reuters",
-      "source_url": "https://www.reuters.com/legal/litigation/google-says-new-australian-internet-safety-bill-could-cut-off-under-18s-gmail-2026-11-09/",
-      "genuineness": "verified",
-      "outlets": [
-        "Reuters",
-        "The Hindu",
-        "Gulf News",
-        "The Straits Times",
-        "Channel News Asia",
-        "CNBC TV18"
-      ],
-      "image": null,
-      "image_credit": null
-    },
-    {
       "id": "world-20261109-1622-01",
       "published_ist": "2026-11-09T15:04:00+05:30",
       "headline": "Iran: Do din me vaarta ka prastaav",
@@ -212,26 +114,6 @@
         "Arab News",
         "The Hindu BusinessLine",
         "Channel News Asia"
-      ],
-      "image": null,
-      "image_credit": null
-    },
-    {
-      "id": "world-20261109-1622-02",
-      "published_ist": "2026-11-09T06:38:00+05:30",
-      "headline": "Senegal: Naav doobi, 34 ki maut",
-      "detail": "Senegal ke Kebemer tat par pravasi naav doob gayi — kam se kam 34 ki maut, sirf ek ko bachaya gaya; naav Spain ke Canary Islands ki ore ja rahi thi; mrityu sankhya abhi asthaayi hai, khoj jaari hai.",
-      "category": "World",
-      "exam_angle": "Atlantic pravasi marg aur EU seema niti — antarrashtriya sambandh ke liye mahatvapurna.",
-      "source": "Dawn",
-      "source_url": "https://www.dawn.com/news/2043175/21-killed-as-migrant-boat-sinks-off-senegal",
-      "genuineness": "verified",
-      "outlets": [
-        "Dawn",
-        "TRT World",
-        "InfoMigrants",
-        "The Times of India",
-        "London Daily News"
       ],
       "image": null,
       "image_credit": null
@@ -258,6 +140,27 @@
       "image_credit": null
     },
     {
+      "id": "world-20261109-1722-02",
+      "published_ist": "2026-11-09T14:30:00+05:30",
+      "headline": "Ukraine: EU se turant madad ka mechanism",
+      "detail": "Zelenskyy ne von der Leyen se baat ke baad kaha — EU ne Ukraine ke liye vishesh aapatkalin sahayata mechanism sakriya kiya; Russia ke hamlo se bijli, paani aur heating sankat me Kyiv, Dnipro, Sumy, Donetsk aur Kherson ko turant vitt milega; Abu Dhabi vaarta se pehle sthiti par bhi sahmati bani.",
+      "category": "World",
+      "exam_angle": "Ukraine yuddh aur EU ki sahayata — antarrashtriya sambandh ke liye mahatvapurna.",
+      "source": "Ukrinform",
+      "source_url": "https://www.ukrinform.net/rubric-polytics/4182833-eu-to-activate-special-emergency-mechanism-for-ukraine-zelensky.html",
+      "genuineness": "verified",
+      "outlets": [
+        "Ukrinform",
+        "Al Jazeera",
+        "Interfax-Ukraine",
+        "Ukrainska Pravda",
+        "Türkiye Today",
+        "Georgia Today"
+      ],
+      "image": null,
+      "image_credit": null
+    },
+    {
       "id": "world-20261109-1522-03",
       "published_ist": "2026-11-09T12:32:00+05:30",
       "headline": "Crete: Naav me 13 pravasiyon ki maut",
@@ -273,6 +176,259 @@
         "Arab News",
         "The Times of India",
         "The New Indian Express"
+      ],
+      "image": null,
+      "image_credit": null
+    },
+    {
+      "id": "world-20261109-1822-03",
+      "published_ist": "2026-11-09T12:05:00+05:30",
+      "headline": "Kraków: Hamlaavar ki maut, ghar me 3 shav",
+      "detail": "Kraków me 6 logon ki hatya karne wala 24 saal ka hamlaavar aspatal me mar gaya — police se muthbhed me ghayal hua tha; uske ghar se mata-pita aur behen ke shav mile; jaanch aatankwadi hamle ke roop me jaari hai.",
+      "category": "World",
+      "exam_angle": "Europe me suraksha aur aatankwadi jaanch — antarrashtriya sambandh ke liye mahatvapurna.",
+      "source": "The Hindu",
+      "source_url": "https://www.thehindu.com/news/international/krakow-shooting-suspect-dies-poland-police/article71681652.ece",
+      "genuineness": "verified",
+      "outlets": [
+        "Reuters",
+        "The Hindu",
+        "Al Jazeera",
+        "AP"
+      ],
+      "image": "../images/world/world-20261109-1822-03.jpg",
+      "image_credit": "The Hindu"
+    },
+    {
+      "id": "world-20261109-1722-03",
+      "published_ist": "2026-11-09T11:52:00+05:30",
+      "headline": "Australia: Gmail par umar jaanch ka khatra",
+      "detail": "Google ne Australia ki Senate sunwai me chetavani di — Digital Duty of Care bill ki umar-jaanch shart 18 se kam umar walo ke liye Gmail, messaging aur file storage band karwa sakti hai; bill pratinidhi sabha se pass ho chuka hai, Senate me atka hai; Meta, TikTok aur Snap ne bhi aisi hi chinta jatai.",
+      "category": "World",
+      "exam_angle": "Digital niyaman aur online suraksha kanoon — shasan aur takneek ke liye mahatvapurna.",
+      "source": "Reuters",
+      "source_url": "https://www.reuters.com/legal/litigation/google-says-new-australian-internet-safety-bill-could-cut-off-under-18s-gmail-2026-11-09/",
+      "genuineness": "verified",
+      "outlets": [
+        "Reuters",
+        "The Hindu",
+        "Gulf News",
+        "The Straits Times",
+        "Channel News Asia",
+        "CNBC TV18"
+      ],
+      "image": null,
+      "image_credit": null
+    },
+    {
+      "id": "world-20261109-1122-01",
+      "published_ist": "2026-11-09T10:52:00+05:30",
+      "headline": "Kraków: Goli baari me 6 ki maut, shok",
+      "detail": "Poland ke Kraków ke aitihasik Main Market Square me shanivaar ko 24 saal ke hamlaavar ne goliyan chalayi — 6 ki maut, 15 ghayal; hamlaavar Somvaar subah aspatal me mar gaya; uske ghar se uske mata-pita aur behen ke shav bhi mile; Poland me 8-9 November ko rashtriya shok, aatankwaad jaanch shuru.",
+      "category": "World",
+      "exam_angle": "Poland me durlabh saamoohik goli baari aur aatankwaad jaanch — antarrashtriya sambandh aur suraksha ke liye mahatvapurna.",
+      "source": "Reuters",
+      "source_url": "https://www.koreatimes.co.kr/amp/world/20261108/poland-in-shock-after-6-die-in-krakow-mass-shooting",
+      "genuineness": "verified",
+      "outlets": [
+        "Reuters",
+        "AFP",
+        "Mathrubhumi",
+        "Khaleej Times",
+        "The Statesman"
+      ],
+      "image": null,
+      "image_credit": null
+    },
+    {
+      "id": "world-20261109-2022-04",
+      "published_ist": "2026-11-09T10:50:00+05:30",
+      "headline": "Kirishi refinery par drone hamla, aag",
+      "detail": "Ukraine ke drone hamle me Russia ki doosri sabse badi refinery Kirishi me aag lag gayi — Leningrad ke governor ne hamle ki pushti ki; hawai raksha ne 113 drone giraye; girte malbe se ek mahila ki maut.",
+      "category": "World",
+      "exam_angle": "Ukraine yuddh aur urja buniyadi dhanche par hamle — antarrashtriya sambandh ke liye mahatvapurna.",
+      "source": "Ukrainska Pravda",
+      "source_url": "https://www.pravda.com.ua/eng/news/2026/11/09/8061870/",
+      "genuineness": "verified",
+      "outlets": [
+        "Ukrainska Pravda",
+        "Al Jazeera",
+        "The Kyiv Independent",
+        "The New Voice of Ukraine"
+      ],
+      "image": null,
+      "image_credit": null
+    },
+    {
+      "id": "world-20261109-1822-04",
+      "published_ist": "2026-11-09T10:49:00+05:30",
+      "headline": "Taiyuan: Imarat me aag, 14 ki maut",
+      "detail": "China ke Taiyuan shahar me ek unchi imarat me aag lagne se kam se kam 14 logon ki maut, 38 ko aspatal bheja gaya; aag lagbhag do ghante me bujhai gayi, kaaran ki jaanch jaari hai.",
+      "category": "World",
+      "exam_angle": null,
+      "source": "Korea Times",
+      "source_url": "https://www.koreatimes.co.kr/amp/world/20261109/fire-in-china-apartment-building-kills-14-state-media",
+      "genuineness": "verified",
+      "outlets": [
+        "AFP",
+        "Reuters",
+        "Daily Pioneer"
+      ],
+      "image": "../images/world/world-20261109-1822-04.jpg",
+      "image_credit": "Korea Times"
+    },
+    {
+      "id": "world-20261109-1122-02",
+      "published_ist": "2026-11-09T10:48:00+05:30",
+      "headline": "Gaza: Baarish se 70,000 tent doobe",
+      "detail": "Gaza me shanivaar se bhaari baarish se lagbhag 70,000 tent doob gaye — hazaaron visthapit beghar; Deir al-Balah ke paas ret ka teela girne se 3 bachchon samet 5 ki maut; UNICEF ke mutaabik 1 lakh se zyada logon ko vaikalpik aashray chahiye.",
+      "category": "World",
+      "exam_angle": "Gaza me manaviya sankat aur sardiyon me aashray ki kami — antarrashtriya sambandh ke liye mahatvapurna.",
+      "source": "Al Jazeera",
+      "source_url": "https://www.aljazeera.com/amp/features/2026/11/9/tents-dont-protect-us-rains-flood-displaced-palestinians-in-gaza",
+      "genuineness": "verified",
+      "outlets": [
+        "Al Jazeera",
+        "Haaretz",
+        "Times of Israel",
+        "ReliefWeb"
+      ],
+      "image": null,
+      "image_credit": null
+    },
+    {
+      "id": "world-20261109-1722-01",
+      "published_ist": "2026-11-09T09:51:00+05:30",
+      "headline": "Trump: Deportation neeti 'too tough' rahi",
+      "detail": "CBS ke 60 Minutes interview me Trump ne mana — nirvasan neeti 'too tough' rahi; naukri aur parivar wale pravasiyon ko hatane se midterm me party ko nuksan hua; phir bhi neeti badalne ki ghoshna nahi ki, ICE ka lagbhag 19,000 giraftari prati hafta ka lakshya barkarar hai.",
+      "category": "World",
+      "exam_angle": "America ki pravasi neeti aur midterm chunav — antarrashtriya rajneeti ke liye mahatvapurna.",
+      "source": "The Statesman",
+      "source_url": "https://www.thestatesman.com/world/trump-says-deportation-policy-might-be-too-tough-after-us-midterm-losses-1503660308.html",
+      "genuineness": "verified",
+      "outlets": [
+        "The Statesman",
+        "Business Standard",
+        "The Times of India",
+        "CNBC TV18",
+        "Businessday",
+        "Seoul Economic Daily"
+      ],
+      "image": "../images/world/world-20261109-1722-01.jpg",
+      "image_credit": "The Statesman"
+    },
+    {
+      "id": "world-20261109-1222-02",
+      "published_ist": "2026-11-09T09:50:00+05:30",
+      "headline": "Hasina: Passport maanga, wapsi ka sanket",
+      "detail": "Bangladesh ki apadasth PM Sheikh Hasina ne Delhi sthit dutavas se naya passport aur pehchan patra maanga — December me wapsi aur adalat ke saamne surrender ki yojna; Dhaka ne kaha pratyarpan sandhi se hi wapsi hogi. (Updated: Dhaka ne passport dene se saaf inkaar kar diya — pratyarpan hi ekmatra rasta hai.)",
+      "category": "World",
+      "exam_angle": "Bangladesh ki rajneeti aur Bharat-Bangladesh sambandh — antarrashtriya sambandh ke liye mahatvapurna.",
+      "source": "Reuters",
+      "source_url": "https://www.reuters.com/world/asia-pacific/hasina-seeks-new-passport-clearest-sign-bangladesh-return-2026-11-09/",
+      "genuineness": "verified",
+      "outlets": [
+        "Reuters",
+        "AP",
+        "The Hindu BusinessLine",
+        "SCMP",
+        "The Straits Times"
+      ],
+      "image": "../images/world/world-20261109-1222-02.jpg",
+      "image_credit": "The Hindu BusinessLine"
+    },
+    {
+      "id": "world-20261109-1122-03",
+      "published_ist": "2026-11-09T09:13:00+05:30",
+      "headline": "China: America par 24% tariff sthagan badha",
+      "detail": "China ne America se aayat par 24% atirikt shulk ka sthagan do mahine aur badha diya — 10 November se lagu, 10% shulk barkarar; dono deshon ke beech $60 arab ke paraspar shulk katauti package par baat jaari hai.",
+      "category": "World",
+      "exam_angle": "America-China vyapaar yuddh viram aur shulk neeti — arthvyavastha ke liye mahatvapurna.",
+      "source": "Reuters",
+      "source_url": "https://www.reuters.com/world/asia-pacific/china-extends-suspension-24-tariff-us-imports-two-months-2026-11-09/",
+      "genuineness": "verified",
+      "outlets": [
+        "Reuters",
+        "Firstpost",
+        "Business Standard",
+        "CNBC TV18",
+        "The Edge"
+      ],
+      "image": null,
+      "image_credit": null
+    },
+    {
+      "id": "world-20261109-1322-01",
+      "published_ist": "2026-11-09T08:14:00+05:30",
+      "headline": "America: Shutdown khatm hone ki ore",
+      "detail": "Senate ne Ravivar raat 60-40 se sarkar kholne ki deal aage badhayi — 40 din se band sarkar, itihas ki sabse lambi; 8 Democrats ne saath diya; House me Budhvar ko vote ki ummeed, phir Trump ke hastakshar.",
+      "category": "World",
+      "exam_angle": "America ki sarkar band hone ka record aur Senate ki prakriya — antarrashtriya rajneeti ke liye mahatvapurna.",
+      "source": "Times of Oman",
+      "source_url": "https://timesofoman.com/article/164872-us-senate-votes-to-end-shutdown-paving-way-for-government-reopening",
+      "genuineness": "verified",
+      "outlets": [
+        "Reuters",
+        "Associated Press",
+        "Politico",
+        "Fox News",
+        "Times of Oman"
+      ],
+      "image": "../images/world/world-20261109-1322-01.jpg",
+      "image_credit": "Noclip, Public domain (Wikimedia Commons)"
+    },
+    {
+      "id": "world-20261109-1822-01",
+      "published_ist": "2026-11-09T07:35:00+05:30",
+      "headline": "Paris: G7 mantriyon ki Ukraine-Iran baithak",
+      "detail": "Paris me G7 videsh mantriyon ki do din ki baithak shuru — Ukraine me nishpaksh shanti aur Iran par naye hamle rokne par charcha; America ke videsh mantri Marco Rubio dono din shamil honge; Abu Dhabi me Russia-Ukraine vaarta se pehle Europe ki chinta par bhi baat hogi.",
+      "category": "World",
+      "exam_angle": "G7, Ukraine yuddh aur Iran tanaav — antarrashtriya sambandh ke liye mahatvapurna.",
+      "source": "The Hindu",
+      "source_url": "https://www.thehindu.com/news/international/g7-ministers-meeting-in-paris-russia-ukraine-conflict-us-israel-strikes-on-iran/article71681281.ece",
+      "genuineness": "verified",
+      "outlets": [
+        "AFP",
+        "Outlook India",
+        "Khaama"
+      ],
+      "image": null,
+      "image_credit": null
+    },
+    {
+      "id": "world-20261109-1922-04",
+      "published_ist": "2026-11-09T07:30:00+05:30",
+      "headline": "Nvidia: CEO par jasusi jaanch",
+      "detail": "Nvidia ke board ne CEO Jensen Huang par videshi jasusi ke nishane par hone ke aaropon par swatantra jaanch shuru ki — board ke mutabik ab tak rashtriya suraksha ya company ke rahasya se samjhaute ka koi saboot nahi mila; Huang jaanch me sahyog karenge.",
+      "category": "World",
+      "exam_angle": "America-China chip yuddh aur takneek suraksha — antarrashtriya sambandh aur arthvyavastha ke liye mahatvapurna.",
+      "source": "Al Jazeera",
+      "source_url": "https://www.aljazeera.com/news/2026/11/9/why-is-nvidias-jensen-huang-at-the-centre-of-a-us-china-spy-scandal?traffic_source=rss",
+      "genuineness": "verified",
+      "outlets": [
+        "Al Jazeera",
+        "Associated Press",
+        "Reuters",
+        "The New York Times"
+      ],
+      "image": "../images/world/world-20261109-1922-04.jpg",
+      "image_credit": "Al Jazeera"
+    },
+    {
+      "id": "world-20261109-0822-03",
+      "published_ist": "2026-11-09T07:12:00+05:30",
+      "headline": "Trump aaj Qatar ke PM se milenge",
+      "detail": "Trump aaj White House me Qatar ke PM Sheikh Mohammed bin Abdulrahman Al Thani se milenge — Qatar Iran se vaarta me naye prastaav laa raha hai; Rubio ne kaha vaarta me khaas pragati nahi hui.",
+      "category": "World",
+      "exam_angle": "America-Iran parmanu vaarta me Qatar ki madhyasthata — antarrashtriya sambandh ke liye mahatvapurna.",
+      "source": "Reuters",
+      "source_url": "https://www.reuters.com/world/middle-east/trump-meet-qatars-prime-minister-iran-diplomacy-faces-hurdles-2026-11-09/",
+      "genuineness": "verified",
+      "outlets": [
+        "Reuters",
+        "Associated Press",
+        "The Jerusalem Post",
+        "Times Now"
       ],
       "image": null,
       "image_credit": null
@@ -297,26 +453,6 @@
       "image_credit": "NPR"
     },
     {
-      "id": "world-20261109-1322-01",
-      "published_ist": "2026-11-09T08:14:00+05:30",
-      "headline": "America: Shutdown khatm hone ki ore",
-      "detail": "Senate ne Ravivar raat 60-40 se sarkar kholne ki deal aage badhayi — 40 din se band sarkar, itihas ki sabse lambi; 8 Democrats ne saath diya; House me Budhvar ko vote ki ummeed, phir Trump ke hastakshar.",
-      "category": "World",
-      "exam_angle": "America ki sarkar band hone ka record aur Senate ki prakriya — antarrashtriya rajneeti ke liye mahatvapurna.",
-      "source": "Times of Oman",
-      "source_url": "https://timesofoman.com/article/164872-us-senate-votes-to-end-shutdown-paving-way-for-government-reopening",
-      "genuineness": "verified",
-      "outlets": [
-        "Reuters",
-        "Associated Press",
-        "Politico",
-        "Fox News",
-        "Times of Oman"
-      ],
-      "image": "../images/world/world-20261109-1322-01.jpg",
-      "image_credit": "Noclip, Public domain (Wikimedia Commons)"
-    },
-    {
       "id": "world-20261109-1222-01",
       "published_ist": "2026-11-09T06:49:00+05:30",
       "headline": "Khor Mor: Drone hamle se bijli gayab",
@@ -334,143 +470,6 @@
       ],
       "image": "../images/world/world-20261109-1222-01.jpg",
       "image_credit": "Al Jazeera"
-    },
-    {
-      "id": "world-20261109-1222-02",
-      "published_ist": "2026-11-09T09:50:00+05:30",
-      "headline": "Hasina: Passport maanga, wapsi ka sanket",
-      "detail": "Bangladesh ki apadasth PM Sheikh Hasina ne Delhi sthit dutavas se naya passport aur pehchan patra maanga — December me wapsi aur adalat ke saamne surrender ki yojna; Dhaka ne kaha pratyarpan sandhi se hi wapsi hogi. (Updated: Dhaka ne passport dene se saaf inkaar kar diya — pratyarpan hi ekmatra rasta hai.)",
-      "category": "World",
-      "exam_angle": "Bangladesh ki rajneeti aur Bharat-Bangladesh sambandh — antarrashtriya sambandh ke liye mahatvapurna.",
-      "source": "Reuters",
-      "source_url": "https://www.reuters.com/world/asia-pacific/hasina-seeks-new-passport-clearest-sign-bangladesh-return-2026-11-09/",
-      "genuineness": "verified",
-      "outlets": [
-        "Reuters",
-        "AP",
-        "The Hindu BusinessLine",
-        "SCMP",
-        "The Straits Times"
-      ],
-      "image": "../images/world/world-20261109-1222-02.jpg",
-      "image_credit": "The Hindu BusinessLine"
-    },
-    {
-      "id": "world-20261109-1122-01",
-      "published_ist": "2026-11-09T10:52:00+05:30",
-      "headline": "Kraków: Goli baari me 6 ki maut, shok",
-      "detail": "Poland ke Kraków ke aitihasik Main Market Square me shanivaar ko 24 saal ke hamlaavar ne goliyan chalayi — 6 ki maut, 15 ghayal; hamlaavar Somvaar subah aspatal me mar gaya; uske ghar se uske mata-pita aur behen ke shav bhi mile; Poland me 8-9 November ko rashtriya shok, aatankwaad jaanch shuru.",
-      "category": "World",
-      "exam_angle": "Poland me durlabh saamoohik goli baari aur aatankwaad jaanch — antarrashtriya sambandh aur suraksha ke liye mahatvapurna.",
-      "source": "Reuters",
-      "source_url": "https://www.koreatimes.co.kr/amp/world/20261108/poland-in-shock-after-6-die-in-krakow-mass-shooting",
-      "genuineness": "verified",
-      "outlets": [
-        "Reuters",
-        "AFP",
-        "Mathrubhumi",
-        "Khaleej Times",
-        "The Statesman"
-      ],
-      "image": null,
-      "image_credit": null
-    },
-    {
-      "id": "world-20261109-1122-02",
-      "published_ist": "2026-11-09T10:48:00+05:30",
-      "headline": "Gaza: Baarish se 70,000 tent doobe",
-      "detail": "Gaza me shanivaar se bhaari baarish se lagbhag 70,000 tent doob gaye — hazaaron visthapit beghar; Deir al-Balah ke paas ret ka teela girne se 3 bachchon samet 5 ki maut; UNICEF ke mutaabik 1 lakh se zyada logon ko vaikalpik aashray chahiye.",
-      "category": "World",
-      "exam_angle": "Gaza me manaviya sankat aur sardiyon me aashray ki kami — antarrashtriya sambandh ke liye mahatvapurna.",
-      "source": "Al Jazeera",
-      "source_url": "https://www.aljazeera.com/amp/features/2026/11/9/tents-dont-protect-us-rains-flood-displaced-palestinians-in-gaza",
-      "genuineness": "verified",
-      "outlets": [
-        "Al Jazeera",
-        "Haaretz",
-        "Times of Israel",
-        "ReliefWeb"
-      ],
-      "image": null,
-      "image_credit": null
-    },
-    {
-      "id": "world-20261109-1122-03",
-      "published_ist": "2026-11-09T09:13:00+05:30",
-      "headline": "China: America par 24% tariff sthagan badha",
-      "detail": "China ne America se aayat par 24% atirikt shulk ka sthagan do mahine aur badha diya — 10 November se lagu, 10% shulk barkarar; dono deshon ke beech $60 arab ke paraspar shulk katauti package par baat jaari hai.",
-      "category": "World",
-      "exam_angle": "America-China vyapaar yuddh viram aur shulk neeti — arthvyavastha ke liye mahatvapurna.",
-      "source": "Reuters",
-      "source_url": "https://www.reuters.com/world/asia-pacific/china-extends-suspension-24-tariff-us-imports-two-months-2026-11-09/",
-      "genuineness": "verified",
-      "outlets": [
-        "Reuters",
-        "Firstpost",
-        "Business Standard",
-        "CNBC TV18",
-        "The Edge"
-      ],
-      "image": null,
-      "image_credit": null
-    },
-    {
-      "id": "world-20261109-1022-01",
-      "published_ist": "2026-11-09T01:22:00+05:30",
-      "headline": "Iraq: Iran seema band karne ki maang",
-      "detail": "America ke Vitt Mantralaya ne Iraq se Iran se lagti lagbhag sabhi seema chaukiyan band karne ko kaha, sirf do khuli rahengi; Iraq ke Videsh Mantri Fuad Hussein ne kaha band karna mushkil hai aur arthvyavastha par asar padega, baatcheet jaari hai.",
-      "category": "World",
-      "exam_angle": "America-Iran tanav me Iraq ki bhoomika aur arthik pratibandh — antarrashtriya sambandh ke liye mahatvapurna.",
-      "source": "Reuters",
-      "source_url": "https://www.reuters.com/world/middle-east/us-asks-iraq-shut-most-iran-border-crossings-iraqi-foreign-minister-says-2026-11-08/",
-      "genuineness": "verified",
-      "outlets": [
-        "Reuters",
-        "Arab News",
-        "The Jerusalem Post",
-        "The Hindu BusinessLine"
-      ],
-      "image": "../images/world/world-20261109-1022-01.jpg",
-      "image_credit": "U.S. Department of State, public domain (Wikimedia Commons)"
-    },
-    {
-      "id": "world-20261109-0922-01",
-      "published_ist": "2026-11-09T05:26:00+05:30",
-      "headline": "Trump: APEC me Xi-Putin se milenge",
-      "detail": "Trump ne kaha — 18-19 November ko Shenzhen me APEC shikhar par Xi Jinping aur Vladimir Putin se milne ki ummeed hai; Iran yuddh khatm karne aur parmanu nishastrikaran par baat hogi.",
-      "category": "World",
-      "exam_angle": "America-China-Russia trilateral vaarta aur parmanu nishastrikaran — antarrashtriya sambandh ke liye mahatvapurna.",
-      "source": "Reuters",
-      "source_url": "https://www.reuters.com/world/china/trump-thinks-he-will-meet-xi-putin-china-apec-summit-2026-11-09/",
-      "genuineness": "verified",
-      "outlets": [
-        "Reuters",
-        "Nikkei Asia",
-        "Kyodo News",
-        "The Japan Times",
-        "Gulf News"
-      ],
-      "image": null,
-      "image_credit": null
-    },
-    {
-      "id": "world-20261109-0822-03",
-      "published_ist": "2026-11-09T07:12:00+05:30",
-      "headline": "Trump aaj Qatar ke PM se milenge",
-      "detail": "Trump aaj White House me Qatar ke PM Sheikh Mohammed bin Abdulrahman Al Thani se milenge — Qatar Iran se vaarta me naye prastaav laa raha hai; Rubio ne kaha vaarta me khaas pragati nahi hui.",
-      "category": "World",
-      "exam_angle": "America-Iran parmanu vaarta me Qatar ki madhyasthata — antarrashtriya sambandh ke liye mahatvapurna.",
-      "source": "Reuters",
-      "source_url": "https://www.reuters.com/world/middle-east/trump-meet-qatars-prime-minister-iran-diplomacy-faces-hurdles-2026-11-09/",
-      "genuineness": "verified",
-      "outlets": [
-        "Reuters",
-        "Associated Press",
-        "The Jerusalem Post",
-        "Times Now"
-      ],
-      "image": null,
-      "image_credit": null
     }
   ]
 }
