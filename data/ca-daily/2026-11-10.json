@@ -1,0 +1,77 @@
+{
+ "date": "2026-11-10",
+ "date_hi": "10 November 2026",
+ "date_en": "10 November 2026",
+ "episodes": [
+  {
+   "episode": 101,
+   "video_hi": "3hI35S1DiMw",
+   "video_hinglish": "3hI35S1DiMw",
+   "capsules": [
+    {
+     "id": "ca-ep101-s1",
+     "headline_hi": "Dilli mein Diwali ke baad hawa sabse zehreeli",
+     "headline_hinglish": "Dilli mein Diwali ke baad hawa sabse zehreeli",
+     "detail_hi": "Diwali ke baad Dilli ki hawa paanch saal mein sabse kharab rahi, AQI 376; pandrah stationon par 'severe' darj hua.",
+     "detail_hinglish": "Diwali ke baad Dilli ki hawa paanch saal mein sabse kharab rahi, AQI 376; pandrah stationon par 'severe' darj hua.",
+     "category_hi": "Environment",
+     "category_en": "Environment"
+    },
+    {
+     "id": "ca-ep101-s2",
+     "headline_hi": "Punjab mein ek din mein 1,152 parali aag",
+     "headline_hinglish": "Punjab mein ek din mein 1,152 parali aag",
+     "detail_hi": "Diwali par Punjab mein ek din mein ek hazaar ek sau bawan parali ki aag lagi, is mausam ki sabse badi ek-din ki badhotri.",
+     "detail_hinglish": "Diwali par Punjab mein ek din mein ek hazaar ek sau bawan parali ki aag lagi, is mausam ki sabse badi ek-din ki badhotri.",
+     "category_hi": "Agriculture",
+     "category_en": "Agriculture"
+    },
+    {
+     "id": "ca-ep101-s3",
+     "headline_hi": "Anuj Shrivatri Bharat ke 100ve Grandmaster bane",
+     "headline_hinglish": "Anuj Shrivatri Bharat ke 100ve Grandmaster bane",
+     "detail_hi": "Anuj Shrivatri ne Philippines mein ASEAN Plus Open jeetkar Bharat ke sauve Grandmaster ka khitaab haasil kiya.",
+     "detail_hinglish": "Anuj Shrivatri ne Philippines mein ASEAN Plus Open jeetkar Bharat ke sauve Grandmaster ka khitaab haasil kiya.",
+     "category_hi": "Sports",
+     "category_en": "Sports"
+    },
+    {
+     "id": "ca-ep101-s4",
+     "headline_hi": "Bharat ki arthvyavastha 7.4% badhegi, NSO anumaan",
+     "headline_hinglish": "Bharat ki arthvyavastha 7.4% badhegi, NSO anumaan",
+     "detail_hi": "NSO ke pehle agrim anumaan ke mutabik is vitt varsh mein Bharat ki GDP saat dashamlav chaar pratishat badhegi.",
+     "detail_hinglish": "NSO ke pehle agrim anumaan ke mutabik is vitt varsh mein Bharat ki GDP saat dashamlav chaar pratishat badhegi.",
+     "category_hi": "Economy",
+     "category_en": "Economy"
+    },
+    {
+     "id": "ca-ep101-s5",
+     "headline_hi": "INS Surat Oman mein Naseem Al Bahr abhyaas mein",
+     "headline_hinglish": "INS Surat Oman mein Naseem Al Bahr abhyaas mein",
+     "detail_hi": "INS Surat Oman ke Muscat pahuncha, pandrahve Bharat-Oman samudri abhyaas Naseem Al Bahr mein hissa lega.",
+     "detail_hinglish": "INS Surat Oman ke Muscat pahuncha, pandrahve Bharat-Oman samudri abhyaas Naseem Al Bahr mein hissa lega.",
+     "category_hi": "Defence",
+     "category_en": "Defence"
+    }
+   ],
+   "mcq": {
+    "id": "ca-ep101-mcq",
+    "q_hi": "Bharat ke 100ve Grandmaster kaun bane?",
+    "q_hinglish": "Bharat ke 100ve Grandmaster kaun bane?",
+    "options_hi": [
+     "D Gukesh",
+     "Anuj Shrivatri",
+     "R Praggnanandhaa",
+     "Arjun Erigaisi"
+    ],
+    "options_hinglish": [
+     "D Gukesh",
+     "Anuj Shrivatri",
+     "R Praggnanandhaa",
+     "Arjun Erigaisi"
+    ],
+    "answer_index": 1
+   }
+  }
+ ]
+}
