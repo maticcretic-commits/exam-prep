@@ -72,6 +72,76 @@
     ],
     "answer_index": 1
    }
+  },
+  {
+   "episode": 98,
+   "video_hi": "X-hWiHuLrN4",
+   "video_hinglish": "X-hWiHuLrN4",
+   "capsules": [
+    {
+     "id": "ca-ep98-s1",
+     "headline_hi": "Delhi ki hawa severe, AQI 400 paar",
+     "headline_hinglish": "Delhi ki hawa severe, AQI 400 paar",
+     "detail_hi": "Diwali ki raat ke baad Delhi ka AQI 400 paar kar gaya; kai ilakon mein hawa 'severe' category mein pahunch gayi.",
+     "detail_hinglish": "Diwali ki raat ke baad Delhi ka AQI 400 paar kar gaya; kai ilakon mein hawa 'severe' category mein pahunch gayi.",
+     "category_hi": "Environment",
+     "category_en": "Environment"
+    },
+    {
+     "id": "ca-ep98-s2",
+     "headline_hi": "SBI ki Texas mein pehli branch khuli",
+     "headline_hinglish": "SBI ki Texas mein pehli branch khuli",
+     "detail_hi": "SBI ki California subsidiary ne Texas mein apni pehli branch kholi; America mein ab kul aath locations ho gaye.",
+     "detail_hinglish": "SBI ki California subsidiary ne Texas mein apni pehli branch kholi; America mein ab kul aath locations ho gaye.",
+     "category_hi": "Banking",
+     "category_en": "Banking"
+    },
+    {
+     "id": "ca-ep98-s3",
+     "headline_hi": "FSSAI ne 3,280 tonne khana zabt kiya",
+     "headline_hinglish": "FSSAI ne 3,280 tonne khana zabt kiya",
+     "detail_hi": "Tyoharon ke dauran desh bhar mein paneer, ghee aur mithai samet lagbhag 82 crore rupaye ka khana zabt hua.",
+     "detail_hinglish": "Tyoharon ke dauran desh bhar mein paneer, ghee aur mithai samet lagbhag 82 crore rupaye ka khana zabt hua.",
+     "category_hi": "Health",
+     "category_en": "Health"
+    },
+    {
+     "id": "ca-ep98-s4",
+     "headline_hi": "PM Modi ne Bastar mein jawanon sang Diwali",
+     "headline_hinglish": "PM Modi ne Bastar mein jawanon sang Diwali",
+     "detail_hi": "Pradhan Mantri ne Chhattisgarh ke Bastar mein CoBRA base par suraksha balon ke saath Diwali manayi.",
+     "detail_hinglish": "Pradhan Mantri ne Chhattisgarh ke Bastar mein CoBRA base par suraksha balon ke saath Diwali manayi.",
+     "category_hi": "Security",
+     "category_en": "National"
+    },
+    {
+     "id": "ca-ep98-s5",
+     "headline_hi": "Yemen se 19 Bharatiya navik wapas laaye gaye",
+     "headline_hinglish": "Yemen se 19 Bharatiya navik wapas laaye gaye",
+     "detail_hi": "Yemen ke Hodeidah aur Sana'a mein do hafte se fase 19 Bharatiya navikon ko surakshit wapas laya gaya.",
+     "detail_hinglish": "Yemen ke Hodeidah aur Sana'a mein do hafte se fase 19 Bharatiya navikon ko surakshit wapas laya gaya.",
+     "category_hi": "World",
+     "category_en": "National"
+    }
+   ],
+   "mcq": {
+    "id": "ca-ep98-mcq",
+    "q_hi": "FSSAI ne festive drive mein kitna khana zabt kiya?",
+    "q_hinglish": "FSSAI ne festive drive mein kitna khana zabt kiya?",
+    "options_hi": [
+     "1,280 tonne",
+     "2,280 tonne",
+     "3,280 tonne",
+     "4,280 tonne"
+    ],
+    "options_hinglish": [
+     "1,280 tonne",
+     "2,280 tonne",
+     "3,280 tonne",
+     "4,280 tonne"
+    ],
+    "answer_index": 2
+   }
   }
  ]
 }
