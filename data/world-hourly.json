@@ -1,6 +1,25 @@
 {
-  "updated_ist": "2026-11-09T09:26:47+05:30",
+  "updated_ist": "2026-11-09T10:27:05+05:30",
   "items": [
+    {
+      "id": "world-20261109-1022-01",
+      "published_ist": "2026-11-09T01:22:00+05:30",
+      "headline": "Iraq: Iran seema band karne ki maang",
+      "detail": "America ke Vitt Mantralaya ne Iraq se Iran se lagti lagbhag sabhi seema chaukiyan band karne ko kaha, sirf do khuli rahengi; Iraq ke Videsh Mantri Fuad Hussein ne kaha band karna mushkil hai aur arthvyavastha par asar padega, baatcheet jaari hai.",
+      "category": "World",
+      "exam_angle": "America-Iran tanav me Iraq ki bhoomika aur arthik pratibandh — antarrashtriya sambandh ke liye mahatvapurna.",
+      "source": "Reuters",
+      "source_url": "https://www.reuters.com/world/middle-east/us-asks-iraq-shut-most-iran-border-crossings-iraqi-foreign-minister-says-2026-11-08/",
+      "genuineness": "verified",
+      "outlets": [
+        "Reuters",
+        "Arab News",
+        "The Jerusalem Post",
+        "The Hindu BusinessLine"
+      ],
+      "image": "../images/world/world-20261109-1022-01.jpg",
+      "image_credit": "U.S. Department of State, public domain (Wikimedia Commons)"
+    },
     {
       "id": "world-20261109-0922-01",
       "published_ist": "2026-11-09T05:26:00+05:30",
@@ -335,119 +354,6 @@
       "outlets": [
         "AFP",
         "NDTV Profit"
-      ],
-      "image": null,
-      "image_credit": null
-    },
-    {
-      "id": "world-20261108-1122-01",
-      "published_ist": "2026-11-08T09:31:00+05:30",
-      "headline": "Oman ki khaadi: UAE ne 22 log bachaye",
-      "detail": "Oman ki khaadi me maalvahak jahaz me aag lagne par UAE National Guard ne 22 arab nagrikon ko bachaya; sabhi sthir haalat me hain.",
-      "category": "World",
-      "exam_angle": "Hormuz ke aas-paas samudri suraksha — antarrashtriya vyapar ke liye mahatvapurna.",
-      "source": "The Times of India",
-      "source_url": "https://timesofindia.indiatimes.com/world/middle-east/uae-rescues-22-arab-nationals-after-fire-breaks-out-aboard-cargo-ship/articleshow/135650778.cms",
-      "genuineness": "verified",
-      "outlets": [
-        "Al Jazeera",
-        "Gulf News",
-        "The Times of India",
-        "Kuwait Times"
-      ],
-      "image": null,
-      "image_credit": null
-    },
-    {
-      "id": "world-20261109-0822-01",
-      "published_ist": "2026-11-08T08:04:00+05:30",
-      "headline": "America ne Iron Gate task force banayi",
-      "detail": "CENTCOM ne shanivaar ko Task Force Iron Gate banayi — Iran ke zameeni raston se hathiyar aur pratibandhit saaman ki aawajahi rokne ke liye; Tampa me lagbhag 20 logon ki team, samudri naakabandi ke saath-saath zameen aur Caspian Sea par nazar rakhegi.",
-      "category": "World",
-      "exam_angle": "America-Iran tanav aur naakabandi — antarrashtriya sambandh ke liye mahatvapurna.",
-      "source": "Al Jazeera",
-      "source_url": "https://www.aljazeera.com/news/2026/11/8/us-launches-task-force-to-disrupt-irans-land-based-supply-routes?traffic_source=rss",
-      "genuineness": "verified",
-      "outlets": [
-        "Al Jazeera",
-        "The Economic Times",
-        "The Tribune",
-        "Reuters"
-      ],
-      "image": null,
-      "image_credit": null
-    },
-    {
-      "id": "world-20261109-0726-05",
-      "published_ist": "2026-11-08T06:30:00+05:30",
-      "headline": "Japan: 5.7 ka bhookamp, 22 ghayal",
-      "detail": "Madhya Japan me subah 1:04 baje 5.7 teevrata ka bhookamp aaya — kam se kam 22 log ghayal, dukaanon ke sheeshe toote, rail sewayein ruki; JMA ne aane wale dinon me tez jhatkon ki chetavani di, tsunami ki chetavani nahi.",
-      "category": "World",
-      "exam_angle": "Japan me bhookamp aur JMA ki chetavani — bhugol aur aapda prabandhan ke liye mahatvapurna.",
-      "source": "The Hindu",
-      "source_url": "https://www.thehindu.com/news/international/strong-earthquake-strikes-japan/article71680450.ece",
-      "genuineness": "verified",
-      "outlets": [
-        "The Hindu",
-        "Associated Press",
-        "Indian Express",
-        "Outlook India"
-      ],
-      "image": null,
-      "image_credit": null
-    },
-    {
-      "id": "world-20261108-1822-02",
-      "published_ist": "2026-11-08T06:06:00+05:30",
-      "headline": "Zaporizhzhia: Parmanu plant phir andhere me",
-      "detail": "Zaporizhzhia parmanu sanyantra ki baahari bijli 8 November ko subah 2:36 baje phir band ho gayi — saal ki 16vi baar; diesel generator se cooling jaari hai, IAEA ke mutaabik vikiran star samanya hai.",
-      "category": "World",
-      "exam_angle": "Parmanu suraksha aur IAEA ki bhoomika — antarrashtriya suraksha ke liye mahatvapurna.",
-      "source": "Nikkei Asia",
-      "source_url": "https://asia.nikkei.com/politics/ukraine-war/ukraine-s-zaporizhzhia-nuclear-plant-again-relies-on-backup-power",
-      "genuineness": "verified",
-      "outlets": [
-        "Reuters",
-        "IAEA",
-        "Ukrinform",
-        "Kyiv Post"
-      ],
-      "image": "../images/world/world-20261108-1822-02.jpg",
-      "image_credit": "Ralf1969, CC BY-SA 3.0 (Wikimedia Commons)"
-    },
-    {
-      "id": "world-20261108-1622-03",
-      "published_ist": "2026-11-08T05:49:00+05:30",
-      "headline": "Iran: Missile range ki seema hataayi",
-      "detail": "IRGC pravakta Mohebbi ne kaha 2,000 km ki swayam-lagayi missile seema 'hata di gayi hai'; unhone yeh nahi bataya ki Iran ke paas isse lambi doori ki missile hai ya nahi.",
-      "category": "World",
-      "exam_angle": "Iran ka missile karyakram aur aprasar — antarrashtriya suraksha ke liye mahatvapurna.",
-      "source": "The Times of India",
-      "source_url": "https://timesofindia.indiatimes.com/world/middle-east/irans-irgc-claims-self-imposed-2000-km-ballistic-missile-range-limit-has-been-lifted/articleshow/135649066.cms",
-      "genuineness": "verified",
-      "outlets": [
-        "Associated Press",
-        "The Times of Israel",
-        "Gulf News"
-      ],
-      "image": null,
-      "image_credit": null
-    },
-    {
-      "id": "world-20261109-0822-04",
-      "published_ist": "2026-11-08T04:30:00+05:30",
-      "headline": "Nigeria ne U-17 Mahila World Cup jeeta",
-      "detail": "Nigeria ne Japan ko 2-1 se haraakar FIFA U-17 Mahila World Cup jeeta — Africa ki pehli team jisne mahila FIFA khitaab jeeta; Bashiru aur Umejiaku ne goal kiye, Umejiaku ko Golden Ball mila.",
-      "category": "World",
-      "exam_angle": "FIFA U-17 Mahila World Cup 2026 aur Africa ki pehli jeet — khel ke liye mahatvapurna.",
-      "source": "FIFA",
-      "source_url": "https://www.fifa.com/en/tournaments/womens/u17womensworldcup/morocco-2026/articles/rabat-japan-nigeria-report?searchOverlay=1",
-      "genuineness": "verified",
-      "outlets": [
-        "FIFA",
-        "Punch",
-        "Leadership",
-        "Legit"
       ],
       "image": null,
       "image_credit": null
