@@ -1,6 +1,67 @@
 {
-  "updated_ist": "2026-11-09T14:25:36+05:30",
+  "updated_ist": "2026-11-09T15:22:16+05:30",
   "items": [
+    {
+      "id": "world-20261109-1522-01",
+      "published_ist": "2026-11-09T14:46:00+05:30",
+      "headline": "COP31: Antalya me jalvayu sammelan shuru",
+      "detail": "Sanyukt Rashtra ka COP31 aaj Turkey ke Antalya me shuru hua — lagbhag 200 desh 20 November tak utsarjan, anukoolan aur jalvayu vitt par vaarta karenge; Turkey ki adhyakshata me bijli ki hissedari 2035 tak 35% karne ka lakshya hai.",
+      "category": "World",
+      "exam_angle": "COP31 aur jalvayu vaarta — paryavaran aur antarrashtriya sangathan ke liye mahatvapurna.",
+      "source": "The Nation",
+      "source_url": "https://www.nation.com.pk/09-Nov-2026/cop31-climate-summit-opens-t-rkiye-amid-calls-stronger-action",
+      "genuineness": "verified",
+      "outlets": [
+        "The Nation",
+        "Le Monde",
+        "TRT World",
+        "The Indian Express",
+        "The Jerusalem Post",
+        "Le Temps"
+      ],
+      "image": null,
+      "image_credit": null
+    },
+    {
+      "id": "world-20261109-1522-02",
+      "published_ist": "2026-11-08T15:23:00+05:30",
+      "headline": "Riyadh: Houthi hamle se Aramco tower kshatigrast",
+      "detail": "Yemen ke Houthi samooh ne Ravivar ko Riyadh ke vittiya jile me Aramco tower par missile-drone hamla kiya — urja mantralaya ne halki kshati aur koi hatahat nahi bataya; BBC Verify ki tasveeron me kai manzilon ki khidkiyan tooti dikhi.",
+      "category": "World",
+      "exam_angle": "West Asia me Houthi hamle aur urja suraksha — antarrashtriya sambandh ke liye mahatvapurna.",
+      "source": "The Economic Times",
+      "source_url": "https://economictimes.indiatimes.com/news/defence/saudi-aramco-building-in-riyadh-damaged-in-attempted-attack-says-energy-ministry/articleshow/135656281.cms",
+      "genuineness": "verified",
+      "outlets": [
+        "The Economic Times",
+        "Reuters",
+        "BBC",
+        "Al Jazeera",
+        "Addis Standard"
+      ],
+      "image": null,
+      "image_credit": null
+    },
+    {
+      "id": "world-20261109-1522-03",
+      "published_ist": "2026-11-09T12:32:00+05:30",
+      "headline": "Crete: Naav me 12 pravasiyon ke shav mile",
+      "detail": "Greece ke tatrakshak ne Crete ke dakshin me ek pravasi naav se 12 shav baramad kiye aur 18 logon ko bachaya; maut ka karan abhi agyaat hai; usi raat do aur naavon se 87 pravasi bachaye gaye.",
+      "category": "World",
+      "exam_angle": "Bhoomadhya sagar me pravasi sankat aur EU seema niti — antarrashtriya sambandh ke liye mahatvapurna.",
+      "source": "The Hindu",
+      "source_url": "https://www.thehindu.com/news/international/greek-boat-sailing-off-the-island-of-crete/article71681703.ece",
+      "genuineness": "verified",
+      "outlets": [
+        "Reuters",
+        "The Hindu",
+        "Arab News",
+        "The Times of India",
+        "The New Indian Express"
+      ],
+      "image": null,
+      "image_credit": null
+    },
     {
       "id": "world-20261109-1422-02",
       "published_ist": "2026-11-09T06:50:00+05:30",
@@ -386,25 +447,6 @@
       ],
       "image": null,
       "image_credit": null
-    },
-    {
-      "id": "world-20261108-1722-01",
-      "published_ist": "2026-11-08T15:04:00+05:30",
-      "headline": "Senegal: Naav doobne se 21 ki maut",
-      "detail": "Senegal ke uttar-paschimi tat par pravasiyon ki naav doob gayi — kam se kam 21 ki maut, ek ko bachaya gaya; grih mantralaya ke mutaabik mrityu sankhya asthayi hai, khoj jaari hai.",
-      "category": "World",
-      "exam_angle": "Africa se Europe ka Atlantic pravasi marg aur samudri suraksha — antarrashtriya sambandh ke liye mahatvapurna.",
-      "source": "The Hindu",
-      "source_url": "https://www.thehindu.com/news/international/migrant-boat-sinks-off-senegal-death-toll/article71680824.ece",
-      "genuineness": "corroborated",
-      "outlets": [
-        "The Hindu",
-        "Moneycontrol",
-        "WION",
-        "Seneweb"
-      ],
-      "image": "../images/world/world-20261108-1722-01.jpg",
-      "image_credit": "HaguardDuNord, CC BY-SA 3.0 (Wikimedia Commons)"
     }
   ]
 }
