@@ -229,6 +229,26 @@
       ],
       "image": null,
       "image_credit": null
+    },
+    {
+      "id": "world-20261109-0922-01",
+      "published_ist": "2026-11-09T05:26:00+05:30",
+      "headline": "Trump: APEC me Xi-Putin se milenge",
+      "detail": "Trump ne kaha — 18-19 November ko Shenzhen me APEC shikhar par Xi Jinping aur Vladimir Putin se milne ki ummeed hai; Iran yuddh khatm karne aur parmanu nishastrikaran par baat hogi.",
+      "category": "World",
+      "exam_angle": "America-China-Russia trilateral vaarta aur parmanu nishastrikaran — antarrashtriya sambandh ke liye mahatvapurna.",
+      "source": "Reuters",
+      "source_url": "https://www.reuters.com/world/china/trump-thinks-he-will-meet-xi-putin-china-apec-summit-2026-11-09/",
+      "genuineness": "verified",
+      "outlets": [
+        "Reuters",
+        "Nikkei Asia",
+        "Kyodo News",
+        "The Japan Times",
+        "Gulf News"
+      ],
+      "image": null,
+      "image_credit": null
     }
   ]
 }
