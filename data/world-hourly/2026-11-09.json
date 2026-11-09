@@ -1,0 +1,63 @@
+{
+  "date": "2026-11-09",
+  "items": [
+    {
+      "id": "world-20261109-0622-01",
+      "published_ist": "2026-11-09T06:14:00+05:30",
+      "headline": "Trump: Iran par hamla 'highly unlikely'",
+      "detail": "Trump ne CNN ko kaha — Iran se vaarta me pragati rahi to dobara hamla 'highly unlikely'; mazboot samjhote par nirbhar; saath hi chetavani di — 38 pulon samet lakshya tay hain, teen vimanvahak taiyaar; Iran ke videsh mantri ne vaarta ruki rehne ki baat kahi.",
+      "category": "World",
+      "exam_angle": "America-Iran parmanu vaarta aur Hormuz — antarrashtriya sambandh ke liye mahatvapurna.",
+      "source": "India TV",
+      "source_url": "https://www.indiatvnews.com/news/world/they-are-failing-nation-trump-says-fresh-us-strikes-on-iran-highly-unlikely-if-talks-show-progress-latest-updates-2026-11-09-1058978",
+      "genuineness": "verified",
+      "outlets": [
+        "CNN",
+        "Reuters",
+        "The Times of Israel",
+        "Ynet"
+      ],
+      "image": null,
+      "image_credit": null
+    },
+    {
+      "id": "world-20261109-0622-02",
+      "published_ist": "2026-11-09T03:46:00+05:30",
+      "headline": "Nvidia: CEO Huang par jaanch shuru",
+      "detail": "Nvidia board ne CEO Jensen Huang par swatantra jaanch shuru ki — aarop hai ki ve ek mahila ke sampark me the jise America cheeni jasusi se jodta hai; Huang ne staff ko patra me sambandh sweekara, board ko abhi koi raaz leak hone ka saboot nahi mila, ve CEO bane rahenge.",
+      "category": "World",
+      "exam_angle": "AI chip niryat niyantran aur America-China tech takraav — arthvyavastha aur antarrashtriya sambandh ke liye mahatvapurna.",
+      "source": "Al Jazeera",
+      "source_url": "https://www.aljazeera.com/amp/news/2026/11/8/us-chipmaker-nvidia-investigates-ceo-jensen-huang-over-affair",
+      "genuineness": "verified",
+      "outlets": [
+        "The Wall Street Journal",
+        "The New York Times",
+        "Al Jazeera",
+        "The Register",
+        "MarketWatch"
+      ],
+      "image": "../images/world/world-20261109-0622-02.jpg",
+      "image_credit": "Anderseidesvik, CC BY-SA 4.0 (Wikimedia Commons)"
+    },
+    {
+      "id": "world-20261108-2024-02",
+      "published_ist": "2026-11-08T19:51:00+05:30",
+      "headline": "Giza: Train takkar me 7 ki maut, 112 ghayal",
+      "detail": "Giza ke Al-Ayyat jile me Giza-Fayoum train peeche se Cairo-Aswan train se takrayi, ek train patri se utri; swasthya mantralaya ke mutabik 7 ki maut, 112 ghayal, 45 ko aspatal se chhutti; Rashtrapati Sisi ne jaanch ka aadesh diya. (Updated: pehle 64 ghayal bataye gaye the, maut ki pushti nahi hui thi.)",
+      "category": "World",
+      "exam_angle": "Rail suraksha aur haadsa prabandhan — parivahan aur shasan ke liye mahatvapurna.",
+      "source": "CNN",
+      "source_url": "https://www.cnn.com/2026/11/08/africa/egypt-train-collision-deaths-intl?cid=external-feeds_iluminar_meta",
+      "genuineness": "verified",
+      "outlets": [
+        "CNN",
+        "SCMP",
+        "Channel News Asia",
+        "Arab News"
+      ],
+      "image": null,
+      "image_credit": null
+    }
+  ]
+}
