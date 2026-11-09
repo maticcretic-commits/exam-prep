@@ -142,6 +142,76 @@
     ],
     "answer_index": 2
    }
+  },
+  {
+   "episode": 99,
+   "video_hi": "4uOK1wKLRr0",
+   "video_hinglish": "4uOK1wKLRr0",
+   "capsules": [
+    {
+     "id": "ca-ep99-s1",
+     "headline_hi": "Sansad satra 88 din se khula, record toota",
+     "headline_hinglish": "Sansad satra 88 din se khula, record toota",
+     "detail_hi": "Teen August ko anishchit kaal ke liye sthagit Monsoon session 88 din se prorogue nahi hua; 2008 ka 87 din ka record toot gaya.",
+     "detail_hinglish": "Teen August ko anishchit kaal ke liye sthagit Monsoon session 88 din se prorogue nahi hua; 2008 ka 87 din ka record toot gaya.",
+     "category_hi": "Polity",
+     "category_en": "Polity"
+    },
+    {
+     "id": "ca-ep99-s2",
+     "headline_hi": "Rupay mazboot, dollar 93.74 par aaya",
+     "headline_hinglish": "Rupay mazboot, dollar 93.74 par aaya",
+     "detail_hi": "Crude 100 dollar se neeche aane aur America ke midterm natijon ke baad rupay 24 paise chadhkar 93.74 par pahunch gaya.",
+     "detail_hinglish": "Crude 100 dollar se neeche aane aur America ke midterm natijon ke baad rupay 24 paise chadhkar 93.74 par pahunch gaya.",
+     "category_hi": "Economy",
+     "category_en": "Economy"
+    },
+    {
+     "id": "ca-ep99-s3",
+     "headline_hi": "Chennai Open final dhund ke kaaran tala",
+     "headline_hinglish": "Chennai Open final dhund ke kaaran tala",
+     "detail_hi": "Diwali ke baad ke dhund aur baarish ke kaaran Chennai Open mahila singles final Somvaar tak taal diya gaya.",
+     "detail_hinglish": "Diwali ke baad ke dhund aur baarish ke kaaran Chennai Open mahila singles final Somvaar tak taal diya gaya.",
+     "category_hi": "Sports",
+     "category_en": "Sports"
+    },
+    {
+     "id": "ca-ep99-s4",
+     "headline_hi": "Telangana: ek crore mahilayein karodpati banengi",
+     "headline_hinglish": "Telangana: ek crore mahilayein karodpati banengi",
+     "detail_hi": "Mukhyamantri Revanth Reddy ne 2034 tak ek crore mahilaon ko self-help groups ke zariye karodpati banane ka lakshya rakha.",
+     "detail_hinglish": "Mukhyamantri Revanth Reddy ne 2034 tak ek crore mahilaon ko self-help groups ke zariye karodpati banane ka lakshya rakha.",
+     "category_hi": "Schemes",
+     "category_en": "Schemes"
+    },
+    {
+     "id": "ca-ep99-s5",
+     "headline_hi": "LK Advani 99 ke hue, 100vein saal mein",
+     "headline_hinglish": "LK Advani 99 ke hue, 100vein saal mein",
+     "detail_hi": "PM Modi ne Advani ke ghar jaakar unhe 99vein janmdin par badhai di; ve ab 100vein saal mein hain.",
+     "detail_hinglish": "PM Modi ne Advani ke ghar jaakar unhe 99vein janmdin par badhai di; ve ab 100vein saal mein hain.",
+     "category_hi": "Polity",
+     "category_en": "Polity"
+    }
+   ],
+   "mcq": {
+    "id": "ca-ep99-mcq",
+    "q_hi": "Monsoon session kitne din se prorogue nahi hua hai?",
+    "q_hinglish": "Monsoon session kitne din se prorogue nahi hua hai?",
+    "options_hi": [
+     "76 din",
+     "88 din",
+     "87 din",
+     "54 din"
+    ],
+    "options_hinglish": [
+     "76 din",
+     "88 din",
+     "87 din",
+     "54 din"
+    ],
+    "answer_index": 1
+   }
   }
  ]
 }
