@@ -1,6 +1,65 @@
 {
-  "updated_ist": "2026-11-09T12:26:00+05:30",
+  "updated_ist": "2026-11-09T13:33:45+05:30",
   "items": [
+    {
+      "id": "world-20261109-1322-01",
+      "published_ist": "2026-11-09T08:14:00+05:30",
+      "headline": "America: Shutdown khatm hone ki ore",
+      "detail": "Senate ne Ravivar raat 60-40 se sarkar kholne ki deal aage badhayi — 40 din se band sarkar, itihas ki sabse lambi; 8 Democrats ne saath diya; House me Budhvar ko vote ki ummeed, phir Trump ke hastakshar.",
+      "category": "World",
+      "exam_angle": "America ki sarkar band hone ka record aur Senate ki prakriya — antarrashtriya rajneeti ke liye mahatvapurna.",
+      "source": "Times of Oman",
+      "source_url": "https://timesofoman.com/article/164872-us-senate-votes-to-end-shutdown-paving-way-for-government-reopening",
+      "genuineness": "verified",
+      "outlets": [
+        "Reuters",
+        "Associated Press",
+        "Politico",
+        "Fox News",
+        "Times of Oman"
+      ],
+      "image": "../images/world/world-20261109-1322-01.jpg",
+      "image_credit": "Noclip, Public domain (Wikimedia Commons)"
+    },
+    {
+      "id": "world-20261109-1322-02",
+      "published_ist": "2026-11-08T21:11:00+05:30",
+      "headline": "Zaporizhzhia: Bijli wapas, khatra abhi bhi",
+      "detail": "Ukraine ke Zaporizhzhia parmanu sanyantra ko Ravivar shaam bahari bijli wapas mili — 330 kV line phir judi; yuddh me 27vi baar bijli gayi thi; IAEA ne kaha suraksha jokhim abhi bhi hai.",
+      "category": "World",
+      "exam_angle": "Zaporizhzhia parmanu sanyantra aur IAEA ki bhoomika — urja suraksha aur antarrashtriya sangathan ke liye mahatvapurna.",
+      "source": "Kyiv Independent",
+      "source_url": "https://kyivindependent.com/power-to-zaporizhzhia-nuclear-power-plant-cut-restored-iaea-says/",
+      "genuineness": "verified",
+      "outlets": [
+        "Reuters",
+        "IAEA",
+        "Energoatom",
+        "Kyiv Independent"
+      ],
+      "image": "../images/world/world-20261109-1322-02.jpg",
+      "image_credit": "Ralf1969, CC BY-SA 3.0 (Wikimedia Commons)"
+    },
+    {
+      "id": "world-20261109-1322-03",
+      "published_ist": "2026-11-08T17:49:00+05:30",
+      "headline": "South Africa: ANC ki sabse badi haar",
+      "detail": "ANC ko sthaniya chunav me sirf 30.76% vote mile — 1994 ke baad sabse kharab natija; 8 bade mahanagaron me kisi me bahumat nahi; ab gathbandhan ki baatchit hogi.",
+      "category": "World",
+      "exam_angle": "Dakshin Africa me ANC ka patan aur gathbandhan rajneeti — antarrashtriya sambandh ke liye mahatvapurna.",
+      "source": "Al Jazeera",
+      "source_url": "https://www.aljazeera.com/news/2026/11/8/south-africas-anc-suffers-setback-in-local-elections?traffic_source=rss",
+      "genuineness": "verified",
+      "outlets": [
+        "Al Jazeera",
+        "BBC",
+        "Associated Press",
+        "Dawn",
+        "Punch"
+      ],
+      "image": "../images/world/world-20261109-1322-03.jpg",
+      "image_credit": "Al Jazeera"
+    },
     {
       "id": "world-20261109-1222-01",
       "published_ist": "2026-11-09T06:49:00+05:30",
@@ -44,7 +103,7 @@
       "id": "world-20261109-1122-01",
       "published_ist": "2026-11-09T10:52:00+05:30",
       "headline": "Kraków: Goli baari me 6 ki maut, shok",
-      "detail": "Poland ke Kraków ke aitihasik Main Market Square me shanivaar ko 24 saal ke hamlaavar ne goliyan chalayi — 6 ki maut, 15 ghayal; uske ghar se uske mata-pita aur behen ke shav bhi mile; Poland me 8-9 November ko rashtriya shok, aatankwaad jaanch shuru.",
+      "detail": "Poland ke Kraków ke aitihasik Main Market Square me shanivaar ko 24 saal ke hamlaavar ne goliyan chalayi — 6 ki maut, 15 ghayal; hamlaavar Somvaar subah aspatal me mar gaya; uske ghar se uske mata-pita aur behen ke shav bhi mile; Poland me 8-9 November ko rashtriya shok, aatankwaad jaanch shuru.",
       "category": "World",
       "exam_angle": "Poland me durlabh saamoohik goli baari aur aatankwaad jaanch — antarrashtriya sambandh aur suraksha ke liye mahatvapurna.",
       "source": "Reuters",
@@ -327,80 +386,6 @@
       ],
       "image": "../images/world/world-20261108-1722-01.jpg",
       "image_credit": "HaguardDuNord, CC BY-SA 3.0 (Wikimedia Commons)"
-    },
-    {
-      "id": "world-20261108-1322-01",
-      "published_ist": "2026-11-08T13:10:00+05:30",
-      "headline": "Riyadh: Houthi missile roke gaye",
-      "detail": "Saudi gathbandhan ne Riyadh ki taraf daage gaye do ballistic aur do cruise missile rok diye; rajdhani me dhamakon ki awaaz suni gayi, Aramco imarat ko nuksan ki khabar hai.",
-      "category": "World",
-      "exam_angle": "Saudi-Yemen sangharsh aur Khadi me tel suraksha — antarrashtriya sambandh ke liye mahatvapurna.",
-      "source": "Al Jazeera",
-      "source_url": "https://www.aljazeera.com/news/2026/11/8/saudi-arabia-intercepts-houthi-missiles-targeting-riyadh-eastern-province",
-      "genuineness": "verified",
-      "outlets": [
-        "Al Jazeera",
-        "Arab News",
-        "Reuters",
-        "Firstpost"
-      ],
-      "image": "../images/world/world-20261108-1322-01.jpg",
-      "image_credit": "B.alotaby, CC BY-SA 4.0 (Wikimedia Commons)"
-    },
-    {
-      "id": "world-20261109-0726-02",
-      "published_ist": "2026-11-08T13:02:00+05:30",
-      "headline": "Eisenkot ko Israel sarkar banane ka mauka",
-      "detail": "Rashtrapati Herzog ne Gadi Eisenkot ko sarkar banane ka pehla mauka diya — 67 sansadon ne unka samarthan kiya, Netanyahu ko 46 mile; Eisenkot ke paas 28 din hain, bahumat ke liye 61 vote chahiye.",
-      "category": "World",
-      "exam_angle": "Israel me sarkar gathan aur Knesset ganit — antarrashtriya sambandh ke liye mahatvapurna.",
-      "source": "The Week",
-      "source_url": "https://www.theweek.in/news/middle-east/2026/11/08/eisenkot-gets-first-shot-at-forming-government-but-61-seat-majority-remains-elusive.amp.html",
-      "genuineness": "verified",
-      "outlets": [
-        "The Week",
-        "CNN",
-        "Haaretz",
-        "The Times of Israel"
-      ],
-      "image": "../images/world/world-20261109-0726-02.jpg",
-      "image_credit": "Ronen Horesh / Knesset Archives, Wikimedia Commons (CC BY-SA 4.0)"
-    },
-    {
-      "id": "world-20261108-1622-01",
-      "published_ist": "2026-11-08T12:51:00+05:30",
-      "headline": "COP31: Guterres ne 'moment of truth' kaha",
-      "detail": "Sanyukt Rashtra mahasachiv Guterres ne COP31 (9–20 November, Turkey) ko 'moment of truth' kaha; yeh unka aakhri COP hai, karyakal December me khatm ho raha hai.",
-      "category": "World",
-      "exam_angle": "COP31 aur Paris Agreement ka 1.5°C lakshya — jalvayu parivartan ke liye mahatvapurna.",
-      "source": "The Economic Times",
-      "source_url": "https://economictimes.indiatimes.com/news/environment/global-warming/cop31-a-moment-of-truth-un-chief-guterres-urges-world-leaders-to-act-now-on-climate-change/articleshow/135653565.cms",
-      "genuineness": "corroborated",
-      "outlets": [
-        "Associated Press",
-        "The Economic Times"
-      ],
-      "image": "../images/world/world-20261108-1622-01.jpg",
-      "image_credit": "Xuthoria, CC BY-SA 4.0 (Wikimedia Commons)"
-    },
-    {
-      "id": "world-20261109-0726-03",
-      "published_ist": "2026-11-08T12:44:00+05:30",
-      "headline": "Sanaa ke paas hamle me 33 ki maut",
-      "detail": "Houthi swasthya mantralaya ke anusaar, Sanaa ke paas Bani Hushaysh me hawai hamle me kam se kam 33 log maare gaye, 39 ghayal — marne walon me 13 bachche; Houthi ne Saudi Arabia ko zimmedaar thahraya, Riyadh ne jaanch ki baat kahi, Reuters swatantra pushti nahi kar saka.",
-      "category": "World",
-      "exam_angle": "Yemen me phir bhadka sangharsh aur Saudi-Houthi takraav — antarrashtriya sambandh ke liye mahatvapurna.",
-      "source": "The Tribune",
-      "source_url": "https://www.tribuneindia.com/news/world/houthi-run-health-ministry-says-airstrikes-kill-33-near-yemen-capital/",
-      "genuineness": "verified",
-      "outlets": [
-        "Reuters",
-        "The Tribune",
-        "Outlook India",
-        "AAP"
-      ],
-      "image": null,
-      "image_credit": null
     }
   ]
 }
