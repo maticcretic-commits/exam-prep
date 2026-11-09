@@ -954,6 +954,82 @@
       ],
       "image": null,
       "image_credit": null
+    },
+    {
+      "id": "world-20261109-2222-03",
+      "published_ist": "2026-11-09T21:53:00+05:30",
+      "headline": "Trump ne midterm nateejon par sawal uthaye",
+      "detail": "Trump ne Truth Social par bina saboot ke midterm chunav me dhokhadhadi ka aarop lagaya; pehle unhone nateeje sweekar karne ki baat kahi thi.",
+      "category": "World",
+      "exam_angle": "America me chunav aur loktantra par bahas — antarrashtriya sambandh ke liye mahatvapurna.",
+      "source": "Times of India",
+      "source_url": "https://timesofindia.indiatimes.com/world/us/anybody-believe-this-was-honest-trump-flips-stance-on-midterms-result-revives-2020-style-fraud-claims/articleshow/135687611.cms",
+      "genuineness": "verified",
+      "outlets": [
+        "Times of India",
+        "Economic Times",
+        "WION",
+        "Times of Israel"
+      ],
+      "image": null,
+      "image_credit": null
+    },
+    {
+      "id": "world-20261109-2222-02",
+      "published_ist": "2026-11-09T20:39:00+05:30",
+      "headline": "Russell Brand ko 10.5 saal ki jail",
+      "detail": "London ki adalat ne Brand ko ek balatkar aur teen yaun hamlo ka doshi paakar 10 saal 6 mahine ki saza sunayi; judge ne unhe 'sexual predator' kaha.",
+      "category": "World",
+      "exam_angle": null,
+      "source": "CNN",
+      "source_url": "https://www.cnn.com/2026/11/09/entertainment/russell-brand-rape-sentence-prison-intl?cid=external-feeds_iluminar_meta",
+      "genuineness": "verified",
+      "outlets": [
+        "CNN",
+        "The Times",
+        "Telegraph India",
+        "The Observer"
+      ],
+      "image": null,
+      "image_credit": null
+    },
+    {
+      "id": "world-20261109-2222-01",
+      "published_ist": "2026-11-09T18:59:00+05:30",
+      "headline": "Izmir: Steel plant me dhamaka, 10 ki maut",
+      "detail": "HABAS steel plant me crane girne se furnace me visfot hua; 15 ghayal, 4 laapata, bachav kaam jaari hai.",
+      "category": "World",
+      "exam_angle": "Audyogik durghatna aur suraksha manak — aapda prabandhan ke liye mahatvapurna.",
+      "source": "Gulf News (AP)",
+      "source_url": "https://gulfnews.com/world/mena/felt-like-an-earthquake-six-dead-in-blast-at-steel-factory-near-turkeys-izmir-officials-1.500741316",
+      "genuineness": "verified",
+      "outlets": [
+        "AP",
+        "AFP",
+        "Firstpost",
+        "Bianet"
+      ],
+      "image": null,
+      "image_credit": null
+    },
+    {
+      "id": "world-20261109-2222-04",
+      "published_ist": "2026-11-09T15:09:00+05:30",
+      "headline": "Bangladesh ne Hasina ka passport thukraya",
+      "detail": "Dhaka ne Hasina ke naye passport aur NID ke anurodh ko kharij kiya aur Bharat se unke pratyarpan ki maang dohrai.",
+      "category": "World",
+      "exam_angle": "Bangladesh me rajnaitik sankat aur Bharat-Bangladesh sambandh — antarrashtriya sambandh ke liye mahatvapurna.",
+      "source": "Firstpost",
+      "source_url": "https://www.firstpost.com/world/sheikh-hasina-bangladesh-return-passport-request-matrix-chambers-letter-extradition-umhayun-kabir-statement-14058785.html",
+      "genuineness": "verified",
+      "outlets": [
+        "Reuters",
+        "Firstpost",
+        "Telegraph India",
+        "The Straits Times"
+      ],
+      "image": null,
+      "image_credit": null
     }
   ]
 }
