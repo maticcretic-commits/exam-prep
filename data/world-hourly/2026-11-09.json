@@ -934,6 +934,26 @@
       ],
       "image": null,
       "image_credit": null
+    },
+    {
+      "id": "world-20261109-2122-01",
+      "published_ist": "2026-11-09T17:00:00+05:30",
+      "headline": "Hormuz: Tanker me aag, chaalak dal surakshit",
+      "detail": "Khasab ke paas ek tanker me aag lagi aur chaalak dal ko nikala gaya, ek ghante baad doosre tanker par hamla hua; Iran ka daava hai ki do tanker mine se takraaye, America ne ek jahaaz ko nishkriya kar diya.",
+      "category": "World",
+      "exam_angle": "Hormuz jalmarg se duniya ke tel ka lagbhag paanchva hissa guzarta hai; UKMTO aur samudri suraksha UPSC ke liye mahatvapurna.",
+      "source": "Riviera",
+      "source_url": "https://www.rivieramm.com/news-content-hub/news-content-hub/tankers-hit-in-hormuz-us-strikes-bulker-qeshm-island-launches-task-force-90512",
+      "genuineness": "verified",
+      "outlets": [
+        "UKMTO",
+        "Dawn",
+        "Splash247",
+        "Riviera",
+        "AFP"
+      ],
+      "image": null,
+      "image_credit": null
     }
   ]
 }
