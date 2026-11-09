@@ -780,6 +780,83 @@
       ],
       "image": "../images/world/world-20261109-1822-04.jpg",
       "image_credit": "Korea Times"
+    },
+    {
+      "id": "world-20261109-1922-01",
+      "published_ist": "2026-11-08T17:00:00+05:30",
+      "headline": "Misr: Train takkar me 7 ki maut",
+      "detail": "Cairo ke dakshin Al-Ayyat me Giza-Fayoum train peeche se khadi Cairo-Aswan train se takra gayi — kai dibbe patri se utre; 7 ki maut, 112 ghayal; Rashtrapati Sisi ne jaanch ke aadesh diye.",
+      "category": "World",
+      "exam_angle": "Misr me rail haadse aur suraksha — antarrashtriya samachar ke liye mahatvapurna.",
+      "source": "Channel News Asia",
+      "source_url": "https://www.channelnewsasia.com/world/egypt-train-collision-kills-7-injures-112-says-health-ministry-6534371?cid=cna_flip_070214",
+      "genuineness": "verified",
+      "outlets": [
+        "Reuters",
+        "CNN",
+        "Al Jazeera",
+        "The National"
+      ],
+      "image": "../images/world/world-20261109-1922-01.jpg",
+      "image_credit": "Channel News Asia"
+    },
+    {
+      "id": "world-20261109-1922-02",
+      "published_ist": "2026-11-09T17:45:00+05:30",
+      "headline": "Odesa: Godaam par hamla, 3 ki maut",
+      "detail": "Odesa me Russia ke drone hamle me kindergarten aur school ke khane ka godam jal gaya — 2 mahila aur 1 purush ki maut, 1 mahila gambhir ghayal; hamla Abu Dhabi vaarta se ek din pehle hua.",
+      "category": "World",
+      "exam_angle": "Ukraine yuddh aur nagrik nishane — antarrashtriya sambandh ke liye mahatvapurna.",
+      "source": "Euromaidan Press",
+      "source_url": "https://euromaidanpress.com/2026/11/09/russia-kills-three-at-a-store-of-kindergarten-food-in-odesa-after-setting-a-kremenchuk-hotel-ablaze/",
+      "genuineness": "verified",
+      "outlets": [
+        "Euromaidan Press",
+        "Ukrainska Pravda",
+        "Interfax-Ukraine",
+        "Ukrinform"
+      ],
+      "image": "../images/world/world-20261109-1922-02.jpg",
+      "image_credit": "Euromaidan Press"
+    },
+    {
+      "id": "world-20261109-1922-03",
+      "published_ist": "2026-11-09T16:35:00+05:30",
+      "headline": "Ukraine par 317 drone hamle",
+      "detail": "Russia ne raat bhar Ukraine par 317 drone chhode, jinme 105 jet-powered the — vayu raksha ne zyadatar ko roka, phir bhi 31 jagah hamle hue; 28 log ghayal aur Dnipropetrovsk me 6 lakh se zyada logon ki bijli gayi.",
+      "category": "World",
+      "exam_angle": "Ukraine yuddh aur urja par hamle — antarrashtriya sambandh ke liye mahatvapurna.",
+      "source": "The Kyiv Independent",
+      "source_url": "https://kyivindependent.com/russian-attacks-injure-28-across-ukraine-over-past-day-as-russia-continues-strikes-on-energy-infrastructure/",
+      "genuineness": "verified",
+      "outlets": [
+        "The Kyiv Independent",
+        "Euromaidan Press",
+        "Rubryka",
+        "Interfax-Ukraine",
+        "Al Jazeera"
+      ],
+      "image": "../images/world/world-20261109-1922-03.jpg",
+      "image_credit": "The Kyiv Independent"
+    },
+    {
+      "id": "world-20261109-1922-04",
+      "published_ist": "2026-11-09T07:30:00+05:30",
+      "headline": "Nvidia: CEO par jasusi jaanch",
+      "detail": "Nvidia ke board ne CEO Jensen Huang par videshi jasusi ke nishane par hone ke aaropon par swatantra jaanch shuru ki — board ke mutabik ab tak rashtriya suraksha ya company ke rahasya se samjhaute ka koi saboot nahi mila; Huang jaanch me sahyog karenge.",
+      "category": "World",
+      "exam_angle": "America-China chip yuddh aur takneek suraksha — antarrashtriya sambandh aur arthvyavastha ke liye mahatvapurna.",
+      "source": "Al Jazeera",
+      "source_url": "https://www.aljazeera.com/news/2026/11/9/why-is-nvidias-jensen-huang-at-the-centre-of-a-us-china-spy-scandal?traffic_source=rss",
+      "genuineness": "verified",
+      "outlets": [
+        "Al Jazeera",
+        "Associated Press",
+        "Reuters",
+        "The New York Times"
+      ],
+      "image": "../images/world/world-20261109-1922-04.jpg",
+      "image_credit": "Al Jazeera"
     }
   ]
 }
