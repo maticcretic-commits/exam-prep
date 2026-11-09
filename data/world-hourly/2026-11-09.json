@@ -707,6 +707,79 @@
       ],
       "image": null,
       "image_credit": null
+    },
+    {
+      "id": "world-20261109-1822-01",
+      "published_ist": "2026-11-09T07:35:00+05:30",
+      "headline": "Paris: G7 mantriyon ki Ukraine-Iran baithak",
+      "detail": "Paris me G7 videsh mantriyon ki do din ki baithak shuru — Ukraine me nishpaksh shanti aur Iran par naye hamle rokne par charcha; America ke videsh mantri Marco Rubio dono din shamil honge; Abu Dhabi me Russia-Ukraine vaarta se pehle Europe ki chinta par bhi baat hogi.",
+      "category": "World",
+      "exam_angle": "G7, Ukraine yuddh aur Iran tanaav — antarrashtriya sambandh ke liye mahatvapurna.",
+      "source": "The Hindu",
+      "source_url": "https://www.thehindu.com/news/international/g7-ministers-meeting-in-paris-russia-ukraine-conflict-us-israel-strikes-on-iran/article71681281.ece",
+      "genuineness": "verified",
+      "outlets": [
+        "AFP",
+        "Outlook India",
+        "Khaama"
+      ],
+      "image": null,
+      "image_credit": null
+    },
+    {
+      "id": "world-20261109-1822-02",
+      "published_ist": "2026-11-08T15:43:00+05:30",
+      "headline": "Riyadh: Aramco tower par Houthi hamla",
+      "detail": "Riyadh ke King Abdullah Financial District me Saudi Aramco ke tower par Houthi missile hamle se kai manzilon ki khidkiyan tooti, koi hatahat nahi; Saudi raksha ne do missile roke; Houthi ne hamle ki zimmedari li.",
+      "category": "World",
+      "exam_angle": "West Asia me tanaav aur urja suraksha — antarrashtriya sambandh ke liye mahatvapurna.",
+      "source": "The Times of Israel",
+      "source_url": "https://www.timesofisrael.com/houthis-fire-cruise-missiles-at-saudi-arabia-riyadhs-aramco-tower-damaged-by-debris/",
+      "genuineness": "verified",
+      "outlets": [
+        "The Times of Israel",
+        "The Business Times",
+        "Reuters"
+      ],
+      "image": null,
+      "image_credit": null
+    },
+    {
+      "id": "world-20261109-1822-03",
+      "published_ist": "2026-11-09T12:05:00+05:30",
+      "headline": "Kraków: Hamlaavar ki maut, ghar me 3 shav",
+      "detail": "Kraków me 6 logon ki hatya karne wala 24 saal ka hamlaavar aspatal me mar gaya — police se muthbhed me ghayal hua tha; uske ghar se mata-pita aur behen ke shav mile; jaanch aatankwadi hamle ke roop me jaari hai.",
+      "category": "World",
+      "exam_angle": "Europe me suraksha aur aatankwadi jaanch — antarrashtriya sambandh ke liye mahatvapurna.",
+      "source": "The Hindu",
+      "source_url": "https://www.thehindu.com/news/international/krakow-shooting-suspect-dies-poland-police/article71681652.ece",
+      "genuineness": "verified",
+      "outlets": [
+        "Reuters",
+        "The Hindu",
+        "Al Jazeera",
+        "AP"
+      ],
+      "image": "../images/world/world-20261109-1822-03.jpg",
+      "image_credit": "The Hindu"
+    },
+    {
+      "id": "world-20261109-1822-04",
+      "published_ist": "2026-11-09T10:49:00+05:30",
+      "headline": "Taiyuan: Imarat me aag, 14 ki maut",
+      "detail": "China ke Taiyuan shahar me ek unchi imarat me aag lagne se kam se kam 14 logon ki maut, 38 ko aspatal bheja gaya; aag lagbhag do ghante me bujhai gayi, kaaran ki jaanch jaari hai.",
+      "category": "World",
+      "exam_angle": null,
+      "source": "Korea Times",
+      "source_url": "https://www.koreatimes.co.kr/amp/world/20261109/fire-in-china-apartment-building-kills-14-state-media",
+      "genuineness": "verified",
+      "outlets": [
+        "AFP",
+        "Reuters",
+        "Daily Pioneer"
+      ],
+      "image": "../images/world/world-20261109-1822-04.jpg",
+      "image_credit": "Korea Times"
     }
   ]
 }
