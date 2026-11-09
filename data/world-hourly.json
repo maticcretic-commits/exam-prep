@@ -1,6 +1,83 @@
 {
-  "updated_ist": "2026-11-09T18:24:34+05:30",
+  "updated_ist": "2026-11-09T19:27:35+05:30",
   "items": [
+    {
+      "id": "world-20261109-1922-01",
+      "published_ist": "2026-11-08T17:00:00+05:30",
+      "headline": "Misr: Train takkar me 7 ki maut",
+      "detail": "Cairo ke dakshin Al-Ayyat me Giza-Fayoum train peeche se khadi Cairo-Aswan train se takra gayi — kai dibbe patri se utre; 7 ki maut, 112 ghayal; Rashtrapati Sisi ne jaanch ke aadesh diye.",
+      "category": "World",
+      "exam_angle": "Misr me rail haadse aur suraksha — antarrashtriya samachar ke liye mahatvapurna.",
+      "source": "Channel News Asia",
+      "source_url": "https://www.channelnewsasia.com/world/egypt-train-collision-kills-7-injures-112-says-health-ministry-6534371?cid=cna_flip_070214",
+      "genuineness": "verified",
+      "outlets": [
+        "Reuters",
+        "CNN",
+        "Al Jazeera",
+        "The National"
+      ],
+      "image": "../images/world/world-20261109-1922-01.jpg",
+      "image_credit": "Channel News Asia"
+    },
+    {
+      "id": "world-20261109-1922-02",
+      "published_ist": "2026-11-09T17:45:00+05:30",
+      "headline": "Odesa: Godaam par hamla, 3 ki maut",
+      "detail": "Odesa me Russia ke drone hamle me kindergarten aur school ke khane ka godam jal gaya — 2 mahila aur 1 purush ki maut, 1 mahila gambhir ghayal; hamla Abu Dhabi vaarta se ek din pehle hua.",
+      "category": "World",
+      "exam_angle": "Ukraine yuddh aur nagrik nishane — antarrashtriya sambandh ke liye mahatvapurna.",
+      "source": "Euromaidan Press",
+      "source_url": "https://euromaidanpress.com/2026/11/09/russia-kills-three-at-a-store-of-kindergarten-food-in-odesa-after-setting-a-kremenchuk-hotel-ablaze/",
+      "genuineness": "verified",
+      "outlets": [
+        "Euromaidan Press",
+        "Ukrainska Pravda",
+        "Interfax-Ukraine",
+        "Ukrinform"
+      ],
+      "image": "../images/world/world-20261109-1922-02.jpg",
+      "image_credit": "Euromaidan Press"
+    },
+    {
+      "id": "world-20261109-1922-03",
+      "published_ist": "2026-11-09T16:35:00+05:30",
+      "headline": "Ukraine par 317 drone hamle",
+      "detail": "Russia ne raat bhar Ukraine par 317 drone chhode, jinme 105 jet-powered the — vayu raksha ne zyadatar ko roka, phir bhi 31 jagah hamle hue; 28 log ghayal aur Dnipropetrovsk me 6 lakh se zyada logon ki bijli gayi.",
+      "category": "World",
+      "exam_angle": "Ukraine yuddh aur urja par hamle — antarrashtriya sambandh ke liye mahatvapurna.",
+      "source": "The Kyiv Independent",
+      "source_url": "https://kyivindependent.com/russian-attacks-injure-28-across-ukraine-over-past-day-as-russia-continues-strikes-on-energy-infrastructure/",
+      "genuineness": "verified",
+      "outlets": [
+        "The Kyiv Independent",
+        "Euromaidan Press",
+        "Rubryka",
+        "Interfax-Ukraine",
+        "Al Jazeera"
+      ],
+      "image": "../images/world/world-20261109-1922-03.jpg",
+      "image_credit": "The Kyiv Independent"
+    },
+    {
+      "id": "world-20261109-1922-04",
+      "published_ist": "2026-11-09T07:30:00+05:30",
+      "headline": "Nvidia: CEO par jasusi jaanch",
+      "detail": "Nvidia ke board ne CEO Jensen Huang par videshi jasusi ke nishane par hone ke aaropon par swatantra jaanch shuru ki — board ke mutabik ab tak rashtriya suraksha ya company ke rahasya se samjhaute ka koi saboot nahi mila; Huang jaanch me sahyog karenge.",
+      "category": "World",
+      "exam_angle": "America-China chip yuddh aur takneek suraksha — antarrashtriya sambandh aur arthvyavastha ke liye mahatvapurna.",
+      "source": "Al Jazeera",
+      "source_url": "https://www.aljazeera.com/news/2026/11/9/why-is-nvidias-jensen-huang-at-the-centre-of-a-us-china-spy-scandal?traffic_source=rss",
+      "genuineness": "verified",
+      "outlets": [
+        "Al Jazeera",
+        "Associated Press",
+        "Reuters",
+        "The New York Times"
+      ],
+      "image": "../images/world/world-20261109-1922-04.jpg",
+      "image_credit": "Al Jazeera"
+    },
     {
       "id": "world-20261109-1822-01",
       "published_ist": "2026-11-09T07:35:00+05:30",
@@ -15,24 +92,6 @@
         "AFP",
         "Outlook India",
         "Khaama"
-      ],
-      "image": null,
-      "image_credit": null
-    },
-    {
-      "id": "world-20261109-1822-02",
-      "published_ist": "2026-11-08T15:43:00+05:30",
-      "headline": "Riyadh: Aramco tower par Houthi hamla",
-      "detail": "Riyadh ke King Abdullah Financial District me Saudi Aramco ke tower par Houthi missile hamle se kai manzilon ki khidkiyan tooti, koi hatahat nahi; Saudi raksha ne do missile roke; Houthi ne hamle ki zimmedari li.",
-      "category": "World",
-      "exam_angle": "West Asia me tanaav aur urja suraksha — antarrashtriya sambandh ke liye mahatvapurna.",
-      "source": "The Times of Israel",
-      "source_url": "https://www.timesofisrael.com/houthis-fire-cruise-missiles-at-saudi-arabia-riyadhs-aramco-tower-damaged-by-debris/",
-      "genuineness": "verified",
-      "outlets": [
-        "The Times of Israel",
-        "The Business Times",
-        "Reuters"
       ],
       "image": null,
       "image_credit": null
@@ -178,26 +237,6 @@
       "image_credit": null
     },
     {
-      "id": "world-20261109-1622-03",
-      "published_ist": "2026-11-07T00:38:00+05:30",
-      "headline": "Miller aaj se Trump ke chief of staff",
-      "detail": "Trump ne 6 November ko Stephen Miller ko White House chief of staff banaya — ve aaj se pad sambhalenge, Susie Wiles ki jagah; Wiles Trump ke political operation me jayengi; midterm haar ke baad bada reshuffle.",
-      "category": "World",
-      "exam_angle": "America ki karyapalika aur White House sanrachna — antarrashtriya rajneeti ke liye mahatvapurna.",
-      "source": "Al Jazeera",
-      "source_url": "https://www.aljazeera.com/news/2026/11/6/trump-says-making-adviser-stephen-miller-white-house-chief-of-staff?traffic_source=rss",
-      "genuineness": "verified",
-      "outlets": [
-        "Al Jazeera",
-        "USA Today",
-        "Business Standard",
-        "Haaretz",
-        "The Statesman"
-      ],
-      "image": "../images/world/world-20261109-1622-03.jpg",
-      "image_credit": "Al Jazeera"
-    },
-    {
       "id": "world-20261109-1522-01",
       "published_ist": "2026-11-09T14:46:00+05:30",
       "headline": "COP31: Antalya me jalvayu sammelan shuru",
@@ -276,45 +315,6 @@
       ],
       "image": "../images/world/world-20261109-1322-01.jpg",
       "image_credit": "Noclip, Public domain (Wikimedia Commons)"
-    },
-    {
-      "id": "world-20261109-1322-02",
-      "published_ist": "2026-11-08T21:11:00+05:30",
-      "headline": "Zaporizhzhia: Bijli wapas, khatra abhi bhi",
-      "detail": "Ukraine ke Zaporizhzhia parmanu sanyantra ko Ravivar shaam bahari bijli wapas mili — 330 kV line phir judi; yuddh me 27vi baar bijli gayi thi; IAEA ne kaha suraksha jokhim abhi bhi hai.",
-      "category": "World",
-      "exam_angle": "Zaporizhzhia parmanu sanyantra aur IAEA ki bhoomika — urja suraksha aur antarrashtriya sangathan ke liye mahatvapurna.",
-      "source": "Kyiv Independent",
-      "source_url": "https://kyivindependent.com/power-to-zaporizhzhia-nuclear-power-plant-cut-restored-iaea-says/",
-      "genuineness": "verified",
-      "outlets": [
-        "Reuters",
-        "IAEA",
-        "Energoatom",
-        "Kyiv Independent"
-      ],
-      "image": "../images/world/world-20261109-1322-02.jpg",
-      "image_credit": "Ralf1969, CC BY-SA 3.0 (Wikimedia Commons)"
-    },
-    {
-      "id": "world-20261109-1322-03",
-      "published_ist": "2026-11-08T17:49:00+05:30",
-      "headline": "South Africa: ANC ki sabse badi haar",
-      "detail": "ANC ko sthaniya chunav me sirf 30.76% vote mile — 1994 ke baad sabse kharab natija; 8 bade mahanagaron me kisi me bahumat nahi; ab gathbandhan ki baatchit hogi.",
-      "category": "World",
-      "exam_angle": "Dakshin Africa me ANC ka patan aur gathbandhan rajneeti — antarrashtriya sambandh ke liye mahatvapurna.",
-      "source": "Al Jazeera",
-      "source_url": "https://www.aljazeera.com/news/2026/11/8/south-africas-anc-suffers-setback-in-local-elections?traffic_source=rss",
-      "genuineness": "verified",
-      "outlets": [
-        "Al Jazeera",
-        "BBC",
-        "Associated Press",
-        "Dawn",
-        "Punch"
-      ],
-      "image": "../images/world/world-20261109-1322-03.jpg",
-      "image_credit": "Al Jazeera"
     },
     {
       "id": "world-20261109-1222-01",
