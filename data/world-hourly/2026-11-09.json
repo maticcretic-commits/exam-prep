@@ -249,6 +249,25 @@
       ],
       "image": null,
       "image_credit": null
+    },
+    {
+      "id": "world-20261109-1022-01",
+      "published_ist": "2026-11-09T01:22:00+05:30",
+      "headline": "Iraq: Iran seema band karne ki maang",
+      "detail": "America ke Vitt Mantralaya ne Iraq se Iran se lagti lagbhag sabhi seema chaukiyan band karne ko kaha, sirf do khuli rahengi; Iraq ke Videsh Mantri Fuad Hussein ne kaha band karna mushkil hai aur arthvyavastha par asar padega, baatcheet jaari hai.",
+      "category": "World",
+      "exam_angle": "America-Iran tanav me Iraq ki bhoomika aur arthik pratibandh — antarrashtriya sambandh ke liye mahatvapurna.",
+      "source": "Reuters",
+      "source_url": "https://www.reuters.com/world/middle-east/us-asks-iraq-shut-most-iran-border-crossings-iraqi-foreign-minister-says-2026-11-08/",
+      "genuineness": "verified",
+      "outlets": [
+        "Reuters",
+        "Arab News",
+        "The Jerusalem Post",
+        "The Hindu BusinessLine"
+      ],
+      "image": "../images/world/world-20261109-1022-01.jpg",
+      "image_credit": "U.S. Department of State, public domain (Wikimedia Commons)"
     }
   ]
 }
