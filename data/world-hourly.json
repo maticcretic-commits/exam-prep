@@ -1,6 +1,45 @@
 {
-  "updated_ist": "2026-11-08T22:24:33+05:30",
+  "updated_ist": "2026-11-09T06:31:10+05:30",
   "items": [
+    {
+      "id": "world-20261109-0622-01",
+      "published_ist": "2026-11-09T06:14:00+05:30",
+      "headline": "Trump: Iran par hamla 'highly unlikely'",
+      "detail": "Trump ne CNN ko kaha — Iran se vaarta me pragati rahi to dobara hamla 'highly unlikely'; mazboot samjhote par nirbhar; saath hi chetavani di — 38 pulon samet lakshya tay hain, teen vimanvahak taiyaar; Iran ke videsh mantri ne vaarta ruki rehne ki baat kahi.",
+      "category": "World",
+      "exam_angle": "America-Iran parmanu vaarta aur Hormuz — antarrashtriya sambandh ke liye mahatvapurna.",
+      "source": "India TV",
+      "source_url": "https://www.indiatvnews.com/news/world/they-are-failing-nation-trump-says-fresh-us-strikes-on-iran-highly-unlikely-if-talks-show-progress-latest-updates-2026-11-09-1058978",
+      "genuineness": "verified",
+      "outlets": [
+        "CNN",
+        "Reuters",
+        "The Times of Israel",
+        "Ynet"
+      ],
+      "image": null,
+      "image_credit": null
+    },
+    {
+      "id": "world-20261109-0622-02",
+      "published_ist": "2026-11-09T03:46:00+05:30",
+      "headline": "Nvidia: CEO Huang par jaanch shuru",
+      "detail": "Nvidia board ne CEO Jensen Huang par swatantra jaanch shuru ki — aarop hai ki ve ek mahila ke sampark me the jise America cheeni jasusi se jodta hai; Huang ne staff ko patra me sambandh sweekara, board ko abhi koi raaz leak hone ka saboot nahi mila, ve CEO bane rahenge.",
+      "category": "World",
+      "exam_angle": "AI chip niryat niyantran aur America-China tech takraav — arthvyavastha aur antarrashtriya sambandh ke liye mahatvapurna.",
+      "source": "Al Jazeera",
+      "source_url": "https://www.aljazeera.com/amp/news/2026/11/8/us-chipmaker-nvidia-investigates-ceo-jensen-huang-over-affair",
+      "genuineness": "verified",
+      "outlets": [
+        "The Wall Street Journal",
+        "The New York Times",
+        "Al Jazeera",
+        "The Register",
+        "MarketWatch"
+      ],
+      "image": "../images/world/world-20261109-0622-02.jpg",
+      "image_credit": "Anderseidesvik, CC BY-SA 4.0 (Wikimedia Commons)"
+    },
     {
       "id": "world-20261108-2222-01",
       "published_ist": "2026-11-08T18:30:00+05:30",
@@ -78,17 +117,18 @@
     {
       "id": "world-20261108-2024-02",
       "published_ist": "2026-11-08T19:51:00+05:30",
-      "headline": "Giza: Train takkar me 64 ghayal",
-      "detail": "Giza ke Al-Ayyat jile me Giza-Fayoum train peeche se Cairo-Aswan train se takrayi, ek train patri se utri; swasthya mantralaya ke mutabik 64 ghayal, maut ki abhi koi pushti nahi.",
+      "headline": "Giza: Train takkar me 7 ki maut, 112 ghayal",
+      "detail": "Giza ke Al-Ayyat jile me Giza-Fayoum train peeche se Cairo-Aswan train se takrayi, ek train patri se utri; swasthya mantralaya ke mutabik 7 ki maut, 112 ghayal, 45 ko aspatal se chhutti; Rashtrapati Sisi ne jaanch ka aadesh diya. (Updated: pehle 64 ghayal bataye gaye the, maut ki pushti nahi hui thi.)",
       "category": "World",
       "exam_angle": "Rail suraksha aur haadsa prabandhan — parivahan aur shasan ke liye mahatvapurna.",
-      "source": "The Times of India",
-      "source_url": "https://timesofindia.indiatimes.com/world/rest-of-world/egypt-train-collision-over-60-injured-as-passenger-train-derails-after-hitting-another-train-in-giza/articleshow/135660889.cms",
+      "source": "CNN",
+      "source_url": "https://www.cnn.com/2026/11/08/africa/egypt-train-collision-deaths-intl?cid=external-feeds_iluminar_meta",
       "genuineness": "verified",
       "outlets": [
-        "Associated Press",
-        "Arab News",
-        "NDTV"
+        "CNN",
+        "SCMP",
+        "Channel News Asia",
+        "Arab News"
       ],
       "image": null,
       "image_credit": null
@@ -402,44 +442,6 @@
         "Gulf News",
         "The Times of India",
         "Kuwait Times"
-      ],
-      "image": null,
-      "image_credit": null
-    },
-    {
-      "id": "world-20261108-1122-02",
-      "published_ist": "2026-11-07T22:59:00+05:30",
-      "headline": "Syria: Yemen sainik bhejne se inkaar",
-      "detail": "Damascus ne kaha Yemen ko sainik bhejne ki khabrein bebuniyad hain; Saudi se sahyog sirf prashikshan aur salah tak simit rahega.",
-      "category": "World",
-      "exam_angle": "Mecca Pact aur Madhya Purv me badalti Saudi-Syria dosti — antarrashtriya sambandh ke liye mahatvapurna.",
-      "source": "Reuters",
-      "source_url": "https://www.reuters.com/world/asia-pacific/syria-denies-plans-send-troops-yemen-saudi-military-ties-deepen-2026-11-07/",
-      "genuineness": "verified",
-      "outlets": [
-        "Reuters",
-        "Agence France-Presse",
-        "Arab News",
-        "TRT World"
-      ],
-      "image": null,
-      "image_credit": null
-    },
-    {
-      "id": "world-20261108-1122-03",
-      "published_ist": "2026-11-07T22:31:00+05:30",
-      "headline": "America: Iraq se Iran seema band karne ko kaha",
-      "detail": "America ne Iraq se kaha Iran ke saath sirf do seema crossing khule rakhe; Tehran-samarthak milicia ke samarthan par sainya karravai ki chetavni bhi di.",
-      "category": "World",
-      "exam_angle": "America-Iran tanav me Iraq ki bhoomika — Madhya Purv ki rajneeti ke liye mahatvapurna.",
-      "source": "Moneycontrol",
-      "source_url": "https://www.moneycontrol.com/world/us-asks-iraq-to-shut-border-crossings-with-iran-warns-against-backing-tehran-linked-militias-article-14074626.html/amp",
-      "genuineness": "verified",
-      "outlets": [
-        "Al Jazeera",
-        "Shafaq News",
-        "Moneycontrol",
-        "Mehr News"
       ],
       "image": null,
       "image_credit": null
