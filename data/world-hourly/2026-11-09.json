@@ -544,6 +544,86 @@
       ],
       "image": null,
       "image_credit": null
+    },
+    {
+      "id": "world-20261109-1622-01",
+      "published_ist": "2026-11-09T15:04:00+05:30",
+      "headline": "Iran: Do din me vaarta ka prastaav",
+      "detail": "Iran ne kaha — do din me America se shanti vaarta phir shuru ho sakti hai; shart hai pratibandh aur nausena naakabandi hate aur har morche par yuddh ruke; America ke videsh mantri Rubio ne in sharton ko kharij kar diya tha.",
+      "category": "World",
+      "exam_angle": "America-Iran parmanu vaarta aur pratibandh — antarrashtriya sambandh ke liye mahatvapurna.",
+      "source": "Reuters",
+      "source_url": "https://www.reuters.com/world/iran-defends-two-day-proposal-peace-talks-after-us-rejects-conditions-2026-11-09/",
+      "genuineness": "corroborated",
+      "outlets": [
+        "Reuters",
+        "The Jerusalem Post",
+        "Arab News",
+        "The Hindu BusinessLine",
+        "Channel News Asia"
+      ],
+      "image": null,
+      "image_credit": null
+    },
+    {
+      "id": "world-20261109-1622-02",
+      "published_ist": "2026-11-09T06:38:00+05:30",
+      "headline": "Senegal: Naav doobi, 34 ki maut",
+      "detail": "Senegal ke Kebemer tat par pravasi naav doob gayi — kam se kam 34 ki maut, sirf ek ko bachaya gaya; naav Spain ke Canary Islands ki ore ja rahi thi; mrityu sankhya abhi asthaayi hai, khoj jaari hai.",
+      "category": "World",
+      "exam_angle": "Atlantic pravasi marg aur EU seema niti — antarrashtriya sambandh ke liye mahatvapurna.",
+      "source": "Dawn",
+      "source_url": "https://www.dawn.com/news/2043175/21-killed-as-migrant-boat-sinks-off-senegal",
+      "genuineness": "verified",
+      "outlets": [
+        "Dawn",
+        "TRT World",
+        "InfoMigrants",
+        "The Times of India",
+        "London Daily News"
+      ],
+      "image": null,
+      "image_credit": null
+    },
+    {
+      "id": "world-20261109-1622-03",
+      "published_ist": "2026-11-07T00:38:00+05:30",
+      "headline": "Miller aaj se Trump ke chief of staff",
+      "detail": "Trump ne 6 November ko Stephen Miller ko White House chief of staff banaya — ve aaj se pad sambhalenge, Susie Wiles ki jagah; Wiles Trump ke political operation me jayengi; midterm haar ke baad bada reshuffle.",
+      "category": "World",
+      "exam_angle": "America ki karyapalika aur White House sanrachna — antarrashtriya rajneeti ke liye mahatvapurna.",
+      "source": "Al Jazeera",
+      "source_url": "https://www.aljazeera.com/news/2026/11/6/trump-says-making-adviser-stephen-miller-white-house-chief-of-staff?traffic_source=rss",
+      "genuineness": "verified",
+      "outlets": [
+        "Al Jazeera",
+        "USA Today",
+        "Business Standard",
+        "Haaretz",
+        "The Statesman"
+      ],
+      "image": "../images/world/world-20261109-1622-03.jpg",
+      "image_credit": "Al Jazeera"
+    },
+    {
+      "id": "world-20261109-1222-02",
+      "published_ist": "2026-11-09T09:50:00+05:30",
+      "headline": "Hasina: Passport maanga, wapsi ka sanket",
+      "detail": "Bangladesh ki apadasth PM Sheikh Hasina ne Delhi sthit dutavas se naya passport aur pehchan patra maanga — December me wapsi aur adalat ke saamne surrender ki yojna; Dhaka ne kaha pratyarpan sandhi se hi wapsi hogi. (Updated: Dhaka ne passport dene se saaf inkaar kar diya — pratyarpan hi ekmatra rasta hai.)",
+      "category": "World",
+      "exam_angle": "Bangladesh ki rajneeti aur Bharat-Bangladesh sambandh — antarrashtriya sambandh ke liye mahatvapurna.",
+      "source": "Reuters",
+      "source_url": "https://www.reuters.com/world/asia-pacific/hasina-seeks-new-passport-clearest-sign-bangladesh-return-2026-11-09/",
+      "genuineness": "verified",
+      "outlets": [
+        "Reuters",
+        "AP",
+        "The Hindu BusinessLine",
+        "SCMP",
+        "The Straits Times"
+      ],
+      "image": "../images/world/world-20261109-1222-02.jpg",
+      "image_credit": "The Hindu BusinessLine"
     }
   ]
 }
