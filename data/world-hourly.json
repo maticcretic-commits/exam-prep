@@ -1,6 +1,84 @@
 {
-  "updated_ist": "2026-11-09T10:27:05+05:30",
+  "updated_ist": "2026-11-09T11:25:36+05:30",
   "items": [
+    {
+      "id": "world-20261109-1122-01",
+      "published_ist": "2026-11-09T10:52:00+05:30",
+      "headline": "Kraków: Goli baari me 6 ki maut, shok",
+      "detail": "Poland ke Kraków ke aitihasik Main Market Square me shanivaar ko 24 saal ke hamlaavar ne goliyan chalayi — 6 ki maut, 15 ghayal; uske ghar se uske mata-pita aur behen ke shav bhi mile; Poland me 8-9 November ko rashtriya shok, aatankwaad jaanch shuru.",
+      "category": "World",
+      "exam_angle": "Poland me durlabh saamoohik goli baari aur aatankwaad jaanch — antarrashtriya sambandh aur suraksha ke liye mahatvapurna.",
+      "source": "Reuters",
+      "source_url": "https://www.koreatimes.co.kr/amp/world/20261108/poland-in-shock-after-6-die-in-krakow-mass-shooting",
+      "genuineness": "verified",
+      "outlets": [
+        "Reuters",
+        "AFP",
+        "Mathrubhumi",
+        "Khaleej Times",
+        "The Statesman"
+      ],
+      "image": null,
+      "image_credit": null
+    },
+    {
+      "id": "world-20261109-1122-02",
+      "published_ist": "2026-11-09T10:48:00+05:30",
+      "headline": "Gaza: Baarish se 70,000 tent doobe",
+      "detail": "Gaza me shanivaar se bhaari baarish se lagbhag 70,000 tent doob gaye — hazaaron visthapit beghar; Deir al-Balah ke paas ret ka teela girne se 3 bachchon samet 5 ki maut; UNICEF ke mutaabik 1 lakh se zyada logon ko vaikalpik aashray chahiye.",
+      "category": "World",
+      "exam_angle": "Gaza me manaviya sankat aur sardiyon me aashray ki kami — antarrashtriya sambandh ke liye mahatvapurna.",
+      "source": "Al Jazeera",
+      "source_url": "https://www.aljazeera.com/amp/features/2026/11/9/tents-dont-protect-us-rains-flood-displaced-palestinians-in-gaza",
+      "genuineness": "verified",
+      "outlets": [
+        "Al Jazeera",
+        "Haaretz",
+        "Times of Israel",
+        "ReliefWeb"
+      ],
+      "image": null,
+      "image_credit": null
+    },
+    {
+      "id": "world-20261109-1122-03",
+      "published_ist": "2026-11-09T09:13:00+05:30",
+      "headline": "China: America par 24% tariff sthagan badha",
+      "detail": "China ne America se aayat par 24% atirikt shulk ka sthagan do mahine aur badha diya — 10 November se lagu, 10% shulk barkarar; dono deshon ke beech $60 arab ke paraspar shulk katauti package par baat jaari hai.",
+      "category": "World",
+      "exam_angle": "America-China vyapaar yuddh viram aur shulk neeti — arthvyavastha ke liye mahatvapurna.",
+      "source": "Reuters",
+      "source_url": "https://www.reuters.com/world/asia-pacific/china-extends-suspension-24-tariff-us-imports-two-months-2026-11-09/",
+      "genuineness": "verified",
+      "outlets": [
+        "Reuters",
+        "Firstpost",
+        "Business Standard",
+        "CNBC TV18",
+        "The Edge"
+      ],
+      "image": null,
+      "image_credit": null
+    },
+    {
+      "id": "world-20261109-1122-04",
+      "published_ist": "2026-11-08T08:02:00+05:30",
+      "headline": "Oman ki Khadi: America ne jahaz roka",
+      "detail": "America ki sena ne Oman ki Khadi me St Kitts ke jhande wale jahaz M/V Huda ko rok diya — CENTCOM ke mutaabik jahaz ne Iran bandargah se lautte hue naakabandi todne ki koshish ki aur chetavani nazarandaaz ki; hamle se pehle chaalak dal ko nishana bana hissa khaali karne ko kaha gaya.",
+      "category": "World",
+      "exam_angle": "America-Iran naakabandi aur Hormuz jalmarg — urja suraksha ke liye mahatvapurna.",
+      "source": "Reuters",
+      "source_url": "https://www.thehindubusinessline.com/news/world/us-military-says-it-fired-on-commercial-vessel-in-gulf-of-oman-after-it-attempted-to-breach-blockade/article71680478.ece",
+      "genuineness": "verified",
+      "outlets": [
+        "Reuters",
+        "Times of Israel",
+        "India TV",
+        "Gulf News"
+      ],
+      "image": null,
+      "image_credit": null
+    },
     {
       "id": "world-20261109-1022-01",
       "published_ist": "2026-11-09T01:22:00+05:30",
