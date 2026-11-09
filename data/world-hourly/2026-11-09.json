@@ -857,6 +857,83 @@
       ],
       "image": "../images/world/world-20261109-1922-04.jpg",
       "image_credit": "Al Jazeera"
+    },
+    {
+      "id": "world-20261109-2022-01",
+      "published_ist": "2026-11-09T19:44:00+05:30",
+      "headline": "Dakshin Africa: ANC ki sabse badi haar",
+      "detail": "Sthaniya chunav me ANC ko sirf 31% vote mile — 1994 ke baad sabse kharab nateeja; DA 25% ke saath doosre sthan par; mahasachiv Mbalula ne ise 'catastrophic' kaha; ab gathbandhan ki baatchit hogi.",
+      "category": "World",
+      "exam_angle": "Dakshin Africa me loktantra aur gathbandhan rajneeti — antarrashtriya sambandh ke liye mahatvapurna.",
+      "source": "Al Jazeera",
+      "source_url": "https://www.aljazeera.com/news/2026/11/9/what-catastrophic-south-africa-local-election-results-mean-for-anc",
+      "genuineness": "verified",
+      "outlets": [
+        "Al Jazeera",
+        "Reuters",
+        "AP",
+        "AFP"
+      ],
+      "image": "../images/world/world-20261109-2022-01.jpg",
+      "image_credit": "Al Jazeera"
+    },
+    {
+      "id": "world-20261109-2022-02",
+      "published_ist": "2026-11-09T18:09:00+05:30",
+      "headline": "Novaya Gazeta band, Moscow karyalaya khaali",
+      "detail": "Russia ke swatantra akhbaar Novaya Gazeta ne aaj antim sampadakiya baithak ke baad apna Moscow karyalaya khaali kar diya — 'foreign agent' ka darja aur daan par rok ke baad kaam jaari rakhna namumkin hua; sansthapak Muratov ne abhivyakti ki swatantrata ki appeal ki.",
+      "category": "World",
+      "exam_angle": "Russia me media swatantrata aur press par dabav — antarrashtriya sambandh ke liye mahatvapurna.",
+      "source": "TimesLIVE",
+      "source_url": "https://www.timeslive.co.za/news/world/2026-11-09-novaya-gazeta-closes-after-years-of-defiant-reporting-in-russia/",
+      "genuineness": "verified",
+      "outlets": [
+        "Reuters",
+        "Le Monde",
+        "The Times",
+        "Times of Israel",
+        "AFP"
+      ],
+      "image": "../images/world/world-20261109-2022-02.jpg",
+      "image_credit": "TimesLIVE"
+    },
+    {
+      "id": "world-20261109-2022-03",
+      "published_ist": "2026-11-09T16:48:00+05:30",
+      "headline": "2026 chaar sabse garm saalon me",
+      "detail": "WMO ki report ke mutabik January-September 2026 me vaishvik tapman audyogik-kal se pehle ke star se 1.47°C upar raha — 2026 chaar sabse garm saalon me se ek hoga; El Niño ke majboot hone se garmi aur charam mausam 2027 tak jaari rahega.",
+      "category": "World",
+      "exam_angle": "Jalvayu parivartan, El Niño aur COP31 — paryavaran aur antarrashtriya sambandh ke liye mahatvapurna.",
+      "source": "The Hindu",
+      "source_url": "https://www.thehindu.com/sci-tech/energy-and-environment/2026-to-be-one-of-four-warmest-years-on-record-world-meteorological-organization/article71682272.ece",
+      "genuineness": "verified",
+      "outlets": [
+        "The Hindu",
+        "Le Monde",
+        "Reuters",
+        "WMO"
+      ],
+      "image": null,
+      "image_credit": null
+    },
+    {
+      "id": "world-20261109-2022-04",
+      "published_ist": "2026-11-09T10:50:00+05:30",
+      "headline": "Kirishi refinery par drone hamla, aag",
+      "detail": "Ukraine ke drone hamle me Russia ki doosri sabse badi refinery Kirishi me aag lag gayi — Leningrad ke governor ne hamle ki pushti ki; hawai raksha ne 113 drone giraye; girte malbe se ek mahila ki maut.",
+      "category": "World",
+      "exam_angle": "Ukraine yuddh aur urja buniyadi dhanche par hamle — antarrashtriya sambandh ke liye mahatvapurna.",
+      "source": "Ukrainska Pravda",
+      "source_url": "https://www.pravda.com.ua/eng/news/2026/11/09/8061870/",
+      "genuineness": "verified",
+      "outlets": [
+        "Ukrainska Pravda",
+        "Al Jazeera",
+        "The Kyiv Independent",
+        "The New Voice of Ukraine"
+      ],
+      "image": null,
+      "image_credit": null
     }
   ]
 }
