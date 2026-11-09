@@ -385,6 +385,85 @@
       ],
       "image": "../images/world/world-20261109-1222-02.jpg",
       "image_credit": "The Hindu BusinessLine"
+    },
+    {
+      "id": "world-20261109-1322-01",
+      "published_ist": "2026-11-09T08:14:00+05:30",
+      "headline": "America: Shutdown khatm hone ki ore",
+      "detail": "Senate ne Ravivar raat 60-40 se sarkar kholne ki deal aage badhayi — 40 din se band sarkar, itihas ki sabse lambi; 8 Democrats ne saath diya; House me Budhvar ko vote ki ummeed, phir Trump ke hastakshar.",
+      "category": "World",
+      "exam_angle": "America ki sarkar band hone ka record aur Senate ki prakriya — antarrashtriya rajneeti ke liye mahatvapurna.",
+      "source": "Times of Oman",
+      "source_url": "https://timesofoman.com/article/164872-us-senate-votes-to-end-shutdown-paving-way-for-government-reopening",
+      "genuineness": "verified",
+      "outlets": [
+        "Reuters",
+        "Associated Press",
+        "Politico",
+        "Fox News",
+        "Times of Oman"
+      ],
+      "image": "../images/world/world-20261109-1322-01.jpg",
+      "image_credit": "Noclip, Public domain (Wikimedia Commons)"
+    },
+    {
+      "id": "world-20261109-1322-02",
+      "published_ist": "2026-11-08T21:11:00+05:30",
+      "headline": "Zaporizhzhia: Bijli wapas, khatra abhi bhi",
+      "detail": "Ukraine ke Zaporizhzhia parmanu sanyantra ko Ravivar shaam bahari bijli wapas mili — 330 kV line phir judi; yuddh me 27vi baar bijli gayi thi; IAEA ne kaha suraksha jokhim abhi bhi hai.",
+      "category": "World",
+      "exam_angle": "Zaporizhzhia parmanu sanyantra aur IAEA ki bhoomika — urja suraksha aur antarrashtriya sangathan ke liye mahatvapurna.",
+      "source": "Kyiv Independent",
+      "source_url": "https://kyivindependent.com/power-to-zaporizhzhia-nuclear-power-plant-cut-restored-iaea-says/",
+      "genuineness": "verified",
+      "outlets": [
+        "Reuters",
+        "IAEA",
+        "Energoatom",
+        "Kyiv Independent"
+      ],
+      "image": "../images/world/world-20261109-1322-02.jpg",
+      "image_credit": "Ralf1969, CC BY-SA 3.0 (Wikimedia Commons)"
+    },
+    {
+      "id": "world-20261109-1322-03",
+      "published_ist": "2026-11-08T17:49:00+05:30",
+      "headline": "South Africa: ANC ki sabse badi haar",
+      "detail": "ANC ko sthaniya chunav me sirf 30.76% vote mile — 1994 ke baad sabse kharab natija; 8 bade mahanagaron me kisi me bahumat nahi; ab gathbandhan ki baatchit hogi.",
+      "category": "World",
+      "exam_angle": "Dakshin Africa me ANC ka patan aur gathbandhan rajneeti — antarrashtriya sambandh ke liye mahatvapurna.",
+      "source": "Al Jazeera",
+      "source_url": "https://www.aljazeera.com/news/2026/11/8/south-africas-anc-suffers-setback-in-local-elections?traffic_source=rss",
+      "genuineness": "verified",
+      "outlets": [
+        "Al Jazeera",
+        "BBC",
+        "Associated Press",
+        "Dawn",
+        "Punch"
+      ],
+      "image": "../images/world/world-20261109-1322-03.jpg",
+      "image_credit": "Al Jazeera"
+    },
+    {
+      "id": "world-20261109-1122-01",
+      "published_ist": "2026-11-09T10:52:00+05:30",
+      "headline": "Kraków: Goli baari me 6 ki maut, shok",
+      "detail": "Poland ke Kraków ke aitihasik Main Market Square me shanivaar ko 24 saal ke hamlaavar ne goliyan chalayi — 6 ki maut, 15 ghayal; hamlaavar Somvaar subah aspatal me mar gaya; uske ghar se uske mata-pita aur behen ke shav bhi mile; Poland me 8-9 November ko rashtriya shok, aatankwaad jaanch shuru.",
+      "category": "World",
+      "exam_angle": "Poland me durlabh saamoohik goli baari aur aatankwaad jaanch — antarrashtriya sambandh aur suraksha ke liye mahatvapurna.",
+      "source": "Reuters",
+      "source_url": "https://www.koreatimes.co.kr/amp/world/20261108/poland-in-shock-after-6-die-in-krakow-mass-shooting",
+      "genuineness": "verified",
+      "outlets": [
+        "Reuters",
+        "AFP",
+        "Mathrubhumi",
+        "Khaleej Times",
+        "The Statesman"
+      ],
+      "image": null,
+      "image_credit": null
     }
   ]
 }
