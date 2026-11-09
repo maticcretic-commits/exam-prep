@@ -58,6 +58,101 @@
       ],
       "image": null,
       "image_credit": null
+    },
+    {
+      "id": "world-20261109-0726-01",
+      "published_ist": "2026-11-08T19:25:00+05:30",
+      "headline": "Abu Dhabi vaarta me Europe bhi shamil",
+      "detail": "France ke videsh mantri ne kaha — 10-11 November ko Abu Dhabi me America ki madhyasthata wali Ukraine-Russia vaarta me Europe bhi hissa lega; Witkoff dono deshon ke pratinidhimandalon ko ek saath laayenge.",
+      "category": "World",
+      "exam_angle": "Ukraine yuddh aur shanti vaarta me Europe ki bhumika — antarrashtriya sambandh ke liye mahatvapurna.",
+      "source": "The Hindu",
+      "source_url": "https://www.thehindu.com/news/international/europe-will-be-represented-at-us-mediated-ukraine-talks-in-abu-dhabi-france/article71681017.ece",
+      "genuineness": "verified",
+      "outlets": [
+        "Reuters",
+        "The Hindu",
+        "The Straits Times",
+        "The Hindu BusinessLine"
+      ],
+      "image": null,
+      "image_credit": null
+    },
+    {
+      "id": "world-20261109-0726-02",
+      "published_ist": "2026-11-08T13:02:00+05:30",
+      "headline": "Eisenkot ko Israel sarkar banane ka mauka",
+      "detail": "Rashtrapati Herzog ne Gadi Eisenkot ko sarkar banane ka pehla mauka diya — 67 sansadon ne unka samarthan kiya, Netanyahu ko 46 mile; Eisenkot ke paas 28 din hain, bahumat ke liye 61 vote chahiye.",
+      "category": "World",
+      "exam_angle": "Israel me sarkar gathan aur Knesset ganit — antarrashtriya sambandh ke liye mahatvapurna.",
+      "source": "The Week",
+      "source_url": "https://www.theweek.in/news/middle-east/2026/11/08/eisenkot-gets-first-shot-at-forming-government-but-61-seat-majority-remains-elusive.amp.html",
+      "genuineness": "verified",
+      "outlets": [
+        "The Week",
+        "CNN",
+        "Haaretz",
+        "The Times of Israel"
+      ],
+      "image": "../images/world/world-20261109-0726-02.jpg",
+      "image_credit": "Ronen Horesh / Knesset Archives, Wikimedia Commons (CC BY-SA 4.0)"
+    },
+    {
+      "id": "world-20261109-0726-03",
+      "published_ist": "2026-11-08T12:44:00+05:30",
+      "headline": "Sanaa ke paas hamle me 33 ki maut",
+      "detail": "Houthi swasthya mantralaya ke anusaar, Sanaa ke paas Bani Hushaysh me hawai hamle me kam se kam 33 log maare gaye, 39 ghayal — marne walon me 13 bachche; Houthi ne Saudi Arabia ko zimmedaar thahraya, Riyadh ne jaanch ki baat kahi, Reuters swatantra pushti nahi kar saka.",
+      "category": "World",
+      "exam_angle": "Yemen me phir bhadka sangharsh aur Saudi-Houthi takraav — antarrashtriya sambandh ke liye mahatvapurna.",
+      "source": "The Tribune",
+      "source_url": "https://www.tribuneindia.com/news/world/houthi-run-health-ministry-says-airstrikes-kill-33-near-yemen-capital/",
+      "genuineness": "verified",
+      "outlets": [
+        "Reuters",
+        "The Tribune",
+        "Outlook India",
+        "AAP"
+      ],
+      "image": null,
+      "image_credit": null
+    },
+    {
+      "id": "world-20261109-0726-04",
+      "published_ist": "2026-11-08T11:20:00+05:30",
+      "headline": "Congo: Ebola clinic par hamla, mareez bhaage",
+      "detail": "Congo ke North Kivu me Cantine gaon par raat ke hamle me kam se kam 33 nagrik maare gaye; ADF ko zimmedaar thahraya gaya — paas ke Kelekele aspatal se lagbhag 180 mareez bhaag nikle, jinme Ebola ka ek pusht aur paanch sandeh wale mareez bhi the.",
+      "category": "World",
+      "exam_angle": "Congo me Ebola prakop aur sashastra hinsa — swasthya aur antarrashtriya sambandh ke liye mahatvapurna.",
+      "source": "TimesLIVE",
+      "source_url": "https://www.timeslive.co.za/news/world/2026-11-08-islamist-militants-force-ebola-patients-to-flee-in-deadly-drc-raid/",
+      "genuineness": "verified",
+      "outlets": [
+        "Reuters",
+        "Al Jazeera",
+        "Associated Press",
+        "TimesLIVE"
+      ],
+      "image": null,
+      "image_credit": null
+    },
+    {
+      "id": "world-20261109-0726-05",
+      "published_ist": "2026-11-08T06:30:00+05:30",
+      "headline": "Japan: 5.7 ka bhookamp, 22 ghayal",
+      "detail": "Madhya Japan me subah 1:04 baje 5.7 teevrata ka bhookamp aaya — kam se kam 22 log ghayal, dukaanon ke sheeshe toote, rail sewayein ruki; JMA ne aane wale dinon me tez jhatkon ki chetavani di, tsunami ki chetavani nahi.",
+      "category": "World",
+      "exam_angle": "Japan me bhookamp aur JMA ki chetavani — bhugol aur aapda prabandhan ke liye mahatvapurna.",
+      "source": "The Hindu",
+      "source_url": "https://www.thehindu.com/news/international/strong-earthquake-strikes-japan/article71680450.ece",
+      "genuineness": "verified",
+      "outlets": [
+        "The Hindu",
+        "Associated Press",
+        "Indian Express",
+        "Outlook India"
+      ],
+      "image": null,
+      "image_credit": null
     }
   ]
 }
