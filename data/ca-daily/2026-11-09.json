@@ -212,6 +212,76 @@
     ],
     "answer_index": 1
    }
+  },
+  {
+   "episode": 100,
+   "video_hi": "0hMW7tCdB1k",
+   "video_hinglish": "0hMW7tCdB1k",
+   "capsules": [
+    {
+     "id": "ca-ep100-s1",
+     "headline_hi": "COP31 Antalya mein shuru, Bharat ki finance maang",
+     "headline_hinglish": "COP31 Antalya mein shuru, Bharat ki finance maang",
+     "detail_hi": "Antalya mein COP31 aaj se shuru; Bharat ne climate finance par faisla lene ki maang rakhi.",
+     "detail_hinglish": "Antalya mein COP31 aaj se shuru; Bharat ne climate finance par faisla lene ki maang rakhi.",
+     "category_hi": "Environment",
+     "category_en": "Environment"
+    },
+    {
+     "id": "ca-ep100-s2",
+     "headline_hi": "Bharat-EU saatvi samiksha baithak Delhi mein",
+     "headline_hinglish": "Bharat-EU saatvi samiksha baithak Delhi mein",
+     "detail_hi": "Nayi Dilli mein Bharat aur EU ne saatvi Strategic Partnership Review baithak mein vyapaar aur suraksha par baat ki.",
+     "detail_hinglish": "Nayi Dilli mein Bharat aur EU ne saatvi Strategic Partnership Review baithak mein vyapaar aur suraksha par baat ki.",
+     "category_hi": "IR",
+     "category_en": "National"
+    },
+    {
+     "id": "ca-ep100-s3",
+     "headline_hi": "Delhi: seva mein deri par 250 rupay jurmana",
+     "headline_hinglish": "Delhi: seva mein deri par 250 rupay jurmana",
+     "detail_hi": "Naye kanoon ke tahat sarkari seva mein deri par adhikari par roz 250 rupay, zyada se zyada 5,000 rupay ka jurmana hoga.",
+     "detail_hinglish": "Naye kanoon ke tahat sarkari seva mein deri par adhikari par roz 250 rupay, zyada se zyada 5,000 rupay ka jurmana hoga.",
+     "category_hi": "Polity",
+     "category_en": "Polity"
+    },
+    {
+     "id": "ca-ep100-s4",
+     "headline_hi": "Mumbai mein Diwali par 137 aag ki ghatnayein",
+     "headline_hinglish": "Mumbai mein Diwali par 137 aag ki ghatnayein",
+     "detail_hi": "Diwali par Mumbai mein patakhon se 137 jagah aag lagi, ek din ka sabse zyada record; aakashi patakhe 25 November tak band.",
+     "detail_hinglish": "Diwali par Mumbai mein patakhon se 137 jagah aag lagi, ek din ka sabse zyada record; aakashi patakhe 25 November tak band.",
+     "category_hi": "Disaster",
+     "category_en": "National"
+    },
+    {
+     "id": "ca-ep100-s5",
+     "headline_hi": "CSIR-UGC NET form aaj raat band honge",
+     "headline_hinglish": "CSIR-UGC NET form aaj raat band honge",
+     "detail_hi": "CSIR-UGC NET ke aavedan aaj raat gyarah bajkar pachas minute par band ho jayenge; pariksha ke liye form bharna zaroori hai.",
+     "detail_hinglish": "CSIR-UGC NET ke aavedan aaj raat gyarah bajkar pachas minute par band ho jayenge; pariksha ke liye form bharna zaroori hai.",
+     "category_hi": "Education",
+     "category_en": "Education"
+    }
+   ],
+   "mcq": {
+    "id": "ca-ep100-mcq",
+    "q_hi": "COP31 sammelan kahan ho raha hai?",
+    "q_hinglish": "COP31 sammelan kahan ho raha hai?",
+    "options_hi": [
+     "Dubai",
+     "Glasgow",
+     "Antalya",
+     "Baku"
+    ],
+    "options_hinglish": [
+     "Dubai",
+     "Glasgow",
+     "Antalya",
+     "Baku"
+    ],
+    "answer_index": 2
+   }
   }
  ]
 }
