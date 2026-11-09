@@ -153,6 +153,82 @@
       ],
       "image": null,
       "image_credit": null
+    },
+    {
+      "id": "world-20261109-0822-01",
+      "published_ist": "2026-11-08T08:04:00+05:30",
+      "headline": "America ne Iron Gate task force banayi",
+      "detail": "CENTCOM ne shanivaar ko Task Force Iron Gate banayi — Iran ke zameeni raston se hathiyar aur pratibandhit saaman ki aawajahi rokne ke liye; Tampa me lagbhag 20 logon ki team, samudri naakabandi ke saath-saath zameen aur Caspian Sea par nazar rakhegi.",
+      "category": "World",
+      "exam_angle": "America-Iran tanav aur naakabandi — antarrashtriya sambandh ke liye mahatvapurna.",
+      "source": "Al Jazeera",
+      "source_url": "https://www.aljazeera.com/news/2026/11/8/us-launches-task-force-to-disrupt-irans-land-based-supply-routes?traffic_source=rss",
+      "genuineness": "verified",
+      "outlets": [
+        "Al Jazeera",
+        "The Economic Times",
+        "The Tribune",
+        "Reuters"
+      ],
+      "image": null,
+      "image_credit": null
+    },
+    {
+      "id": "world-20261109-0822-02",
+      "published_ist": "2026-11-09T03:46:00+05:30",
+      "headline": "Pope Leo Argentina pahunche, Milei ko sandesh",
+      "detail": "Pope Leo XIV ravivaar ko Buenos Aires pahunche — lagbhag 40 saal me pehli papal yatra; unhone kaha arthvyavastha ko insaan ki seva karni chahiye, Milei ki katauti neeti par narmi se sawaal uthaye.",
+      "category": "World",
+      "exam_angle": "Pope Leo XIV ki pehli Latin America yatra aur Vatican ki bhoomika — antarrashtriya sambandh ke liye mahatvapurna.",
+      "source": "Al Jazeera",
+      "source_url": "https://www.aljazeera.com/news/2026/11/8/president-milei-welcomes-pope-leo-during-historic-visit-to-argentina",
+      "genuineness": "verified",
+      "outlets": [
+        "Associated Press",
+        "Al Jazeera",
+        "Buenos Aires Times",
+        "Free Malaysia Today"
+      ],
+      "image": "../images/world/world-20261109-0822-02.jpg",
+      "image_credit": "Al Jazeera"
+    },
+    {
+      "id": "world-20261109-0822-03",
+      "published_ist": "2026-11-09T07:12:00+05:30",
+      "headline": "Trump aaj Qatar ke PM se milenge",
+      "detail": "Trump aaj White House me Qatar ke PM Sheikh Mohammed bin Abdulrahman Al Thani se milenge — Qatar Iran se vaarta me naye prastaav laa raha hai; Rubio ne kaha vaarta me khaas pragati nahi hui.",
+      "category": "World",
+      "exam_angle": "America-Iran parmanu vaarta me Qatar ki madhyasthata — antarrashtriya sambandh ke liye mahatvapurna.",
+      "source": "Reuters",
+      "source_url": "https://www.reuters.com/world/middle-east/trump-meet-qatars-prime-minister-iran-diplomacy-faces-hurdles-2026-11-09/",
+      "genuineness": "verified",
+      "outlets": [
+        "Reuters",
+        "Associated Press",
+        "The Jerusalem Post",
+        "Times Now"
+      ],
+      "image": null,
+      "image_credit": null
+    },
+    {
+      "id": "world-20261109-0822-04",
+      "published_ist": "2026-11-08T04:30:00+05:30",
+      "headline": "Nigeria ne U-17 Mahila World Cup jeeta",
+      "detail": "Nigeria ne Japan ko 2-1 se haraakar FIFA U-17 Mahila World Cup jeeta — Africa ki pehli team jisne mahila FIFA khitaab jeeta; Bashiru aur Umejiaku ne goal kiye, Umejiaku ko Golden Ball mila.",
+      "category": "World",
+      "exam_angle": "FIFA U-17 Mahila World Cup 2026 aur Africa ki pehli jeet — khel ke liye mahatvapurna.",
+      "source": "FIFA",
+      "source_url": "https://www.fifa.com/en/tournaments/womens/u17womensworldcup/morocco-2026/articles/rabat-japan-nigeria-report?searchOverlay=1",
+      "genuineness": "verified",
+      "outlets": [
+        "FIFA",
+        "Punch",
+        "Leadership",
+        "Legit"
+      ],
+      "image": null,
+      "image_credit": null
     }
   ]
 }
