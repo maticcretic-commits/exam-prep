@@ -1,6 +1,25 @@
 {
-  "updated_ist": "2026-11-09T13:33:45+05:30",
+  "updated_ist": "2026-11-09T14:25:36+05:30",
   "items": [
+    {
+      "id": "world-20261109-1422-02",
+      "published_ist": "2026-11-09T06:50:00+05:30",
+      "headline": "Paraguay: Bank dooba, Rashtrapati hataaye gaye",
+      "detail": "Ueno Bank ke doobne se lakhon ki bachat phans gayi; Rashtrapati Santiago Peña ne 5 November ko istifa diya, Senate ne 6 November ko unhe hata diya; 7 November ko dhokhadhadi ke aarop me hiraasat me liye gaye; up-Rashtrapati Pedro Alliana naye Rashtrapati bane.",
+      "category": "World",
+      "exam_angle": "Banking niyaman ki nakami se rashtrapati ka patan — vittiya sankat aur loktantra ke liye case study.",
+      "source": "NPR",
+      "source_url": "https://www.wmot.org/2026-11-09/how-a-bank-collapse-left-millions-in-limbo-and-toppled-paraguays-president",
+      "genuineness": "verified",
+      "outlets": [
+        "NPR",
+        "IwPost",
+        "Gujarat Samachar",
+        "Suara Garut"
+      ],
+      "image": "../images/world/world-20261109-1422-02.jpg",
+      "image_credit": "NPR"
+    },
     {
       "id": "world-20261109-1322-01",
       "published_ist": "2026-11-09T08:14:00+05:30",
