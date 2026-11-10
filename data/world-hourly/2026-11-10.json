@@ -726,6 +726,44 @@
       ],
       "image": null,
       "image_credit": null
+    },
+    {
+      "id": "world-20261110-2122-01",
+      "published_ist": "2026-11-10T20:12:00+05:30",
+      "headline": "UAE ke paani me ADNOC jahaz par hamla",
+      "detail": "Arabian Gulf me UAE ke samudri kshetra me hamle ke baad ADNOC Logistics and Services ke ek jahaz ko nuksaan pahuncha; jahaz ki pehchan aur nuksaan ka vivaran abhi nahi diya gaya.",
+      "category": "World",
+      "exam_angle": "Khadi me samudri suraksha aur oorja vyaapaar par hamle — antarrashtriya sambandh ke liye mahatvapurna.",
+      "source": "WAM",
+      "source_url": "https://www.wam.ae/en/article/c36ot7v-adnoc-logistics-services-vessel-sustained-damage",
+      "genuineness": "verified",
+      "outlets": [
+        "WAM",
+        "Khaleej Times",
+        "Gulf News",
+        "Emirates 24|7"
+      ],
+      "image": null,
+      "image_credit": null
+    },
+    {
+      "id": "world-20261110-2122-02",
+      "published_ist": "2026-11-10T15:22:00+05:30",
+      "headline": "France: Iran par fridge hack ka aarop",
+      "detail": "France ne Iran ke rajdoot ko bulakar virodh jataya — Iran ke Revolutionary Guard par October me saikadon supermarket ke fridge hack karne ka aarop hai; Paris EU pratibandh chahta hai, Iran ne aarop kharij kiya.",
+      "category": "World",
+      "exam_angle": "France-Iran cyber takraav aur hybrid warfare — antarrashtriya suraksha ke liye mahatvapurna.",
+      "source": "Reuters",
+      "source_url": "https://www.reuters.com/world/europe/france-summons-iran-envoy-over-supermarket-fridge-hack-warns-response-2026-11-10/",
+      "genuineness": "verified",
+      "outlets": [
+        "Reuters",
+        "AFP",
+        "AP",
+        "Al Jazeera"
+      ],
+      "image": null,
+      "image_credit": null
     }
   ]
 }
