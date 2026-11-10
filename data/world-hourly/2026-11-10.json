@@ -616,6 +616,44 @@
       ],
       "image": null,
       "image_credit": null
+    },
+    {
+      "id": "world-20261110-1924-01",
+      "published_ist": "2026-11-10T17:29:00+05:30",
+      "headline": "Kenya me al-Shabaab hamle me 8 ki maut",
+      "detail": "Mandera me sadak-nirman team ki suraksha gaadi par sandehspad al-Shabaab hamle me 5 mazdoor, 2 police reservist aur driver mare gaye; hamla subah 7 baje hua.",
+      "category": "World",
+      "exam_angle": "Kenya-Somalia seema par al-Shabaab aur suraksha — antarrashtriya suraksha ke liye mahatvapurna.",
+      "source": "Reuters",
+      "source_url": "https://www.reuters.com/world/africa/eight-people-killed-kenyas-northeast-suspected-al-shabaab-attack-2026-11-10/",
+      "genuineness": "verified",
+      "outlets": [
+        "Reuters",
+        "Capital FM",
+        "The Eastleigh Voice",
+        "Addis Standard"
+      ],
+      "image": null,
+      "image_credit": null
+    },
+    {
+      "id": "world-20261110-1924-02",
+      "published_ist": "2026-11-10T17:27:00+05:30",
+      "headline": "Spain me train driver hadtaal, 40% train radd",
+      "detail": "Saal ki doosri ghaatak rail durghatna ke baad Spain ke train driver mangalvaar ko hadtaal par gaye; Renfe ne 40% lambi-doori ki train radd ki, 4,042 yatri prabhavit hue.",
+      "category": "World",
+      "exam_angle": "Spain me rail suraksha sankat aur mazdoor andolan — pariksha ke liye mahatvapurna.",
+      "source": "Reuters",
+      "source_url": "https://www.reuters.com/world/europe/train-drivers-strike-spain-after-two-deadly-crashes-year-2026-11-10/",
+      "genuineness": "verified",
+      "outlets": [
+        "Reuters",
+        "Times of India",
+        "MENAFN",
+        "Asharq Al-Awsat"
+      ],
+      "image": null,
+      "image_credit": null
     }
   ]
 }
