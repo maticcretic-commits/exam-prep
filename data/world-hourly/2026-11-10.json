@@ -234,6 +234,42 @@
       ],
       "image": "../images/world/world-20261110-0822-01.jpg",
       "image_credit": "Office of the President, Taiwan (CC BY 4.0)"
+    },
+    {
+      "id": "world-20261110-0922-01",
+      "published_ist": "2026-11-10T00:57:00+05:30",
+      "headline": "Pope ne Argentina me peediton se mulaqaat ki",
+      "detail": "Pope Leo XIV ne Buenos Aires me paanch pujari-durvyavahar peediton se ek ghante se zyada baat ki; Vatican ne kaha — suraksha upaay mazboot karne ka vaada, yatra me aisi aur mulaqaatein hongi.",
+      "category": "World",
+      "exam_angle": "Pope ki Latin America yatra aur Vatican ki suraksha neeti — antarrashtriya sambandh ke liye mahatvapurna.",
+      "source": "Al Jazeera",
+      "source_url": "https://www.aljazeera.com/amp/news/2026/11/9/pope-meets-with-clergy-abuse-survivors-in-argentina",
+      "genuineness": "verified",
+      "outlets": [
+        "Reuters",
+        "AP",
+        "Al Jazeera",
+        "Channel News Asia"
+      ],
+      "image": "../images/world/world-20261110-0922-01.jpg",
+      "image_credit": "Al Jazeera"
+    },
+    {
+      "id": "world-20261110-0922-02",
+      "published_ist": "2026-11-09T20:29:00+05:30",
+      "headline": "China ne America par niyantran ki rok badhayi",
+      "detail": "China ne 11 americi sansthaon par pratibandh aur 16 sansthaon ko dual-use vastuon ke niryat par rok do mahine aur badha di; 24% atirikt tariff par rok bhi aaj se do mahine badhegi.",
+      "category": "World",
+      "exam_angle": "China-America vyaapaar vaarta aur niryat niyantran — arthvyavastha aur antarrashtriya sambandh ke liye mahatvapurna.",
+      "source": "China Daily",
+      "source_url": "https://www.chinadaily.com.cn/a/202611/09/WS6af1dfe2e4b03ebf8519b610.html",
+      "genuineness": "corroborated",
+      "outlets": [
+        "China Daily",
+        "BusinessToday"
+      ],
+      "image": null,
+      "image_credit": null
     }
   ]
 }
