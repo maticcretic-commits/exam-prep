@@ -1,0 +1,93 @@
+{
+  "date": "2026-11-10",
+  "items": [
+    {
+      "id": "world-20261110-0622-01",
+      "published_ist": "2026-11-10T00:12:00+05:30",
+      "headline": "Russia-Ukraine: Zameen par narmi ke sanket",
+      "detail": "Abu Dhabi me aaj se shuru ho rahi America ki madhyasthata wali vaarta se pehle ek americi adhikari ne kaha — dono paksh niji taur par zameen ki adla-badli par lacheele hain; Ukraine ke liye suraksha guarantee bhi agenda me hai.",
+      "category": "World",
+      "exam_angle": "Abu Dhabi vaarta aur Ukraine yuddh — antarrashtriya sambandh ke liye mahatvapurna.",
+      "source": "Reuters",
+      "source_url": "https://www.reuters.com/world/europe/russia-ukraine-showing-flexibility-territory-us-official-says-2026-11-09/",
+      "genuineness": "corroborated",
+      "outlets": [
+        "Reuters",
+        "The Straits Times"
+      ],
+      "image": null,
+      "image_credit": null
+    },
+    {
+      "id": "world-20261110-0622-02",
+      "published_ist": "2026-11-10T04:01:00+05:30",
+      "headline": "Trump: Iran se jang 'practically khatm'",
+      "detail": "Qatar ke pradhanmantri se mulaqaat ke baad Trump ne kaha Iran sainya roop se 'effectively over' hai aur hamle dobara shuru hona 'quite unlikely' hai; nausainik nakabandi aur Operation Iron Gate jaari rahenge.",
+      "category": "World",
+      "exam_angle": "Iran yuddh aur Paschimi Asia ki sthiti — antarrashtriya sambandh ke liye mahatvapurna.",
+      "source": "Al Jazeera",
+      "source_url": "https://www.aljazeera.com/news/2026/11/9/trump-calls-iran-war-effectively-over-after-talks-with-qatar-pm",
+      "genuineness": "verified",
+      "outlets": [
+        "Al Jazeera",
+        "AP",
+        "New York Post"
+      ],
+      "image": null,
+      "image_credit": null
+    },
+    {
+      "id": "world-20261110-0622-03",
+      "published_ist": "2026-11-09T14:44:00+05:30",
+      "headline": "China ne rare earth rok January tak badhayi",
+      "detail": "China ne naye rare earth niryat niyantran par rok do mahine badha di, ab 10 January tak; America ke saath vyaapaar samjhaute par baatchit jaari hai aur 24% tariff par rok bhi badhi hai.",
+      "category": "World",
+      "exam_angle": "Rare earth aur China-America vyaapaar — arthvyavastha aur antarrashtriya sambandh ke liye mahatvapurna.",
+      "source": "Reuters",
+      "source_url": "https://www.reuters.com/world/china/china-extends-suspension-new-rare-earth-controls-until-january-2026-11-09/",
+      "genuineness": "corroborated",
+      "outlets": [
+        "Reuters",
+        "The National"
+      ],
+      "image": null,
+      "image_credit": null
+    },
+    {
+      "id": "world-20261110-0622-04",
+      "published_ist": "2026-11-09T17:57:00+05:30",
+      "headline": "IMF ki Ukraine sameeksha se $1.67bn milega",
+      "detail": "IMF ne Ukraine ke $8.1bn karz karyakram ki doosri-teesri sameeksha shuru ki; manzoori par $1.67bn ki kisht milegi, jabki Ukraine ko agle saal $70bn ki kami ka saamna hai.",
+      "category": "World",
+      "exam_angle": "IMF aur Ukraine arthvyavastha — antarrashtriya vittiya sansthaon ke liye mahatvapurna.",
+      "source": "Reuters",
+      "source_url": "https://www.reuters.com/business/imf-launches-ukraine-loan-review-that-could-unlock-167-billion-2026-11-09/",
+      "genuineness": "verified",
+      "outlets": [
+        "Reuters",
+        "Kyiv Independent",
+        "Interfax-Ukraine"
+      ],
+      "image": null,
+      "image_credit": null
+    },
+    {
+      "id": "world-20261110-0622-05",
+      "published_ist": "2026-11-09T17:50:00+05:30",
+      "headline": "Canada ne Russia par naye pratibandh lagaye",
+      "detail": "Canada ne Paris me G7 mantriyon ki baithak ke dauraan Russia ki 38 sansthaon aur 24 vyaktiyon par pratibandh lagaye — ballistic missile takneek, cyber gatividhi aur crypto ke zariye yuddh ko fund karne wale network nishane par.",
+      "category": "World",
+      "exam_angle": "Pratibandh aur G7 — antarrashtriya sambandh ke liye mahatvapurna.",
+      "source": "Government of Canada",
+      "source_url": "https://www.canada.ca/en/global-affairs/news/2026/11/minister-anand-announces-additional-sanctions-to-reduce-russias-missile-capabilities-and-raise-economic-costs.html",
+      "genuineness": "verified",
+      "outlets": [
+        "Government of Canada",
+        "Reuters",
+        "Kyiv Independent"
+      ],
+      "image": null,
+      "image_credit": null
+    }
+  ]
+}
