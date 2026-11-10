@@ -1,5 +1,5 @@
 {
-  "updated_ist": "2026-11-10T06:25:39+05:30",
+  "updated_ist": "2026-11-10T07:27:02+05:30",
   "items": [
     {
       "id": "world-20261110-0622-02",
@@ -32,6 +32,43 @@
       "outlets": [
         "Reuters",
         "The Straits Times"
+      ],
+      "image": null,
+      "image_credit": null
+    },
+    {
+      "id": "world-20261110-0722-01",
+      "published_ist": "2026-11-09T22:20:00+05:30",
+      "headline": "Pope ki Buenos Aires sabha me 25 lakh",
+      "detail": "Pope Leo XIV ki Buenos Aires me khuli sabha me Vatican ke mutabik 25 lakh log jute — 1987 ke baad Argentina ki pehli papal yatra me unke karyakal ki sabse badi bheed; Pope ne samaj ke sabse kamzor varg ki suraksha ki appeal ki.",
+      "category": "World",
+      "exam_angle": "Pope ki Latin America yatra aur Vatican ki bhoomika — antarrashtriya sambandh ke liye mahatvapurna.",
+      "source": "Korea Times (Reuters)",
+      "source_url": "https://www.koreatimes.co.kr/world/20261110/pope-leo-mass-in-buenos-aires-draws-record-crowd-of-25-million-vatican-says",
+      "genuineness": "verified",
+      "outlets": [
+        "Reuters",
+        "AFP",
+        "Buenos Aires Herald"
+      ],
+      "image": "../images/world/world-20261110-0722-01.jpg",
+      "image_credit": "Gobierno de la Ciudad de Buenos Aires (CC BY 2.5 ar)"
+    },
+    {
+      "id": "world-20261110-0722-02",
+      "published_ist": "2026-11-09T22:03:00+05:30",
+      "headline": "France: Iran ne supermarket fridge hack kiye",
+      "detail": "France ne kaha October me 700 supermarkets ke fridge hack karne ke peeche Iran ke IRGC se judi Shahid Kaveh unit thi; Iran ke raajdoot ko bulaya gaya aur EU pratibandh ki maang ki gayi.",
+      "category": "World",
+      "exam_angle": "Cyber hamla aur Iran-France tanav — antarrashtriya suraksha ke liye mahatvapurna.",
+      "source": "Al Jazeera",
+      "source_url": "https://www.aljazeera.com/amp/news/2026/11/9/france-accuses-iran-of-cyberattack-on-european-fridges",
+      "genuineness": "verified",
+      "outlets": [
+        "Reuters",
+        "Al Jazeera",
+        "CNN",
+        "AP"
       ],
       "image": null,
       "image_credit": null
@@ -247,6 +284,25 @@
       "image_credit": "The Kyiv Independent"
     },
     {
+      "id": "world-20261110-0722-03",
+      "published_ist": "2026-11-09T15:41:00+05:30",
+      "headline": "APEC me Trump-Xi-Putin mulakaat sambhav",
+      "detail": "Trump ne kaha Shenzhen me 18-19 November ko APEC shikhar ke dauraan Xi Jinping aur Putin se milne ki ummeed hai; agenda me Ukraine yuddh, Iran aur parmanu hathiyar niyantran; Beijing ne baatchit se inkaar nahi kiya.",
+      "category": "World",
+      "exam_angle": "APEC aur mahashaktiyon ki tri-pakshiya baatchit — antarrashtriya sambandh ke liye mahatvapurna.",
+      "source": "The Hindu",
+      "source_url": "https://www.thehindu.com/news/international/us-china-russia-leaders-to-meet-next-week-says-trump-beijing-says-in-communication-with-parties/article71682111.ece",
+      "genuineness": "verified",
+      "outlets": [
+        "Reuters",
+        "The Hindu",
+        "AP",
+        "Times Now"
+      ],
+      "image": null,
+      "image_credit": null
+    },
+    {
       "id": "world-20261109-2222-04",
       "published_ist": "2026-11-09T15:09:00+05:30",
       "headline": "Bangladesh ne Hasina ka passport thukraya",
@@ -403,63 +459,6 @@
       ],
       "image": null,
       "image_credit": null
-    },
-    {
-      "id": "world-20261109-1122-01",
-      "published_ist": "2026-11-09T10:52:00+05:30",
-      "headline": "Kraków: Goli baari me 6 ki maut, shok",
-      "detail": "Poland ke Kraków ke aitihasik Main Market Square me shanivaar ko 24 saal ke hamlaavar ne goliyan chalayi — 6 ki maut, 15 ghayal; hamlaavar Somvaar subah aspatal me mar gaya; uske ghar se uske mata-pita aur behen ke shav bhi mile; Poland me 8-9 November ko rashtriya shok, aatankwaad jaanch shuru.",
-      "category": "World",
-      "exam_angle": "Poland me durlabh saamoohik goli baari aur aatankwaad jaanch — antarrashtriya sambandh aur suraksha ke liye mahatvapurna.",
-      "source": "Reuters",
-      "source_url": "https://www.koreatimes.co.kr/amp/world/20261108/poland-in-shock-after-6-die-in-krakow-mass-shooting",
-      "genuineness": "verified",
-      "outlets": [
-        "Reuters",
-        "AFP",
-        "Mathrubhumi",
-        "Khaleej Times",
-        "The Statesman"
-      ],
-      "image": null,
-      "image_credit": null
-    },
-    {
-      "id": "world-20261109-2022-04",
-      "published_ist": "2026-11-09T10:50:00+05:30",
-      "headline": "Kirishi refinery par drone hamla, aag",
-      "detail": "Ukraine ke drone hamle me Russia ki doosri sabse badi refinery Kirishi me aag lag gayi — Leningrad ke governor ne hamle ki pushti ki; hawai raksha ne 113 drone giraye; girte malbe se ek mahila ki maut.",
-      "category": "World",
-      "exam_angle": "Ukraine yuddh aur urja buniyadi dhanche par hamle — antarrashtriya sambandh ke liye mahatvapurna.",
-      "source": "Ukrainska Pravda",
-      "source_url": "https://www.pravda.com.ua/eng/news/2026/11/09/8061870/",
-      "genuineness": "verified",
-      "outlets": [
-        "Ukrainska Pravda",
-        "Al Jazeera",
-        "The Kyiv Independent",
-        "The New Voice of Ukraine"
-      ],
-      "image": null,
-      "image_credit": null
-    },
-    {
-      "id": "world-20261109-1822-04",
-      "published_ist": "2026-11-09T10:49:00+05:30",
-      "headline": "Taiyuan: Imarat me aag, 14 ki maut",
-      "detail": "China ke Taiyuan shahar me ek unchi imarat me aag lagne se kam se kam 14 logon ki maut, 38 ko aspatal bheja gaya; aag lagbhag do ghante me bujhai gayi, kaaran ki jaanch jaari hai.",
-      "category": "World",
-      "exam_angle": null,
-      "source": "Korea Times",
-      "source_url": "https://www.koreatimes.co.kr/amp/world/20261109/fire-in-china-apartment-building-kills-14-state-media",
-      "genuineness": "verified",
-      "outlets": [
-        "AFP",
-        "Reuters",
-        "Daily Pioneer"
-      ],
-      "image": "../images/world/world-20261109-1822-04.jpg",
-      "image_credit": "Korea Times"
     }
   ]
 }
