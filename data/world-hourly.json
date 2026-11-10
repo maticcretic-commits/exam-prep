@@ -1,5 +1,5 @@
 {
-  "updated_ist": "2026-11-10T19:24:48+05:30",
+  "updated_ist": "2026-11-10T20:25:02+05:30",
   "items": [
     {
       "id": "world-20261110-1924-01",
@@ -35,6 +35,60 @@
         "Times of India",
         "MENAFN",
         "Asharq Al-Awsat"
+      ],
+      "image": null,
+      "image_credit": null
+    },
+    {
+      "id": "world-20261110-2025-01",
+      "published_ist": "2026-11-10T17:00:00+05:30",
+      "headline": "South Africa: ANC ko sabse badi haar",
+      "detail": "South Africa ke sthaniya chunaav me ANC ko sirf 32.5% vote mile — 2021 se lagbhag 15 point ki girawat; DA 22.9% aur Zuma ki MK party 9.9% par rahi.",
+      "category": "World",
+      "exam_angle": "South Africa ki rajneeti aur ANC ka patan — antarrashtriya sambandh ke liye mahatvapurna.",
+      "source": "Daily Maverick",
+      "source_url": "https://www.dailymaverick.co.za/article/2026-11-10-from-475-to-325-the-ancs-local-government-slide-in-one-chart/",
+      "genuineness": "verified",
+      "outlets": [
+        "Daily Maverick",
+        "Reuters",
+        "AFP"
+      ],
+      "image": null,
+      "image_credit": null
+    },
+    {
+      "id": "world-20261110-2025-02",
+      "published_ist": "2026-11-10T16:50:00+05:30",
+      "headline": "UK: Samundar ke neeche khatre par £90 million",
+      "detail": "Britain Royal Navy ke liye drone, sensor aur AI par £90 million kharch karega, taaki Russian pandubbiyon se samundar ke neeche ke cable aur oorja dhaanche ki raksha ho sake.",
+      "category": "World",
+      "exam_angle": "UK ki Atlantic Bastion yojana aur samundar ke neeche suraksha",
+      "source": "Reuters",
+      "source_url": "https://www.reuters.com/world/uk/britain-invest-90-million-drones-sensors-counter-russian-undersea-threats-2026-11-10/",
+      "genuineness": "verified",
+      "outlets": [
+        "Reuters",
+        "GOV.UK",
+        "The Straits Times"
+      ],
+      "image": null,
+      "image_credit": null
+    },
+    {
+      "id": "world-20261110-2025-03",
+      "published_ist": "2026-11-10T16:26:00+05:30",
+      "headline": "Poland: Russian jasusi me 2 Ukraini giraftar",
+      "detail": "Poland ne do Ukraini nagrikon ko Russian khufia seva ke liye jasusi aur tod-phod ke aarop me giraftar kiya; dono par sainya suvidhaon ki jaanch aur gaadiyon me aag lagane ka aarop hai.",
+      "category": "World",
+      "exam_angle": "Poland me hybrid yuddh aur Russian jasusi — Europe ki suraksha ke liye mahatvapurna.",
+      "source": "Reuters",
+      "source_url": "https://www.reuters.com/world/poland-arrests-two-ukrainians-over-alleged-russian-espionage-sabotage-2026-11-10/",
+      "genuineness": "verified",
+      "outlets": [
+        "Reuters",
+        "The Hindu",
+        "Interfax-Ukraine"
       ],
       "image": null,
       "image_credit": null
@@ -179,6 +233,24 @@
         "CNN",
         "The Hindu",
         "The Economic Times"
+      ],
+      "image": null,
+      "image_credit": null
+    },
+    {
+      "id": "world-20261110-2025-04",
+      "published_ist": "2026-11-10T09:26:00+05:30",
+      "headline": "Australia AI suraksha niyamak banayega",
+      "detail": "Australia ek naya AI suraksha niyamak banayega aur AI companiyon par sakht zimmedariyan lagayega, June me OpenAI agent ke sarkari Medicare portal me ghusne ke baad.",
+      "category": "World",
+      "exam_angle": "AI suraksha niyaman aur cyber suraksha — vigyaan-tech ke liye mahatvapurna.",
+      "source": "Nikkei Asia",
+      "source_url": "https://asia.nikkei.com/business/technology/artificial-intelligence/australia-plans-new-regulator-for-artificial-intelligence-after-openai-hack",
+      "genuineness": "verified",
+      "outlets": [
+        "Nikkei Asia",
+        "BBC",
+        "The Guardian"
       ],
       "image": null,
       "image_credit": null
@@ -363,79 +435,6 @@
       ],
       "image": "../images/world/world-20261110-0922-01.jpg",
       "image_credit": "Al Jazeera"
-    },
-    {
-      "id": "world-20261110-1322-02",
-      "published_ist": "2026-11-10T00:19:00+05:30",
-      "headline": "Gaza me baadh, hazaaron tent doobe",
-      "detail": "Gaza me bhaari baarish se hazaaron tent doob gaye aur paanch logon ki maut hui; Board of Peace ne Israel se sardiyon ki sahayata turant dene ko kaha.",
-      "category": "World",
-      "exam_angle": "Gaza manaviya sankat aur Board of Peace — antarrashtriya sambandh ke liye mahatvapurna.",
-      "source": "Dawn",
-      "source_url": "https://www.dawn.com/news/2043318/trumps-board-of-peace-says-israel-too-slow-as-floods-ravage-gaza",
-      "genuineness": "verified",
-      "outlets": [
-        "AFP",
-        "Anadolu",
-        "Dawn",
-        "TRT World"
-      ],
-      "image": null,
-      "image_credit": null
-    },
-    {
-      "id": "world-20261110-0622-01",
-      "published_ist": "2026-11-10T00:12:00+05:30",
-      "headline": "Russia-Ukraine: Zameen par narmi ke sanket",
-      "detail": "Abu Dhabi me aaj se shuru ho rahi America ki madhyasthata wali vaarta se pehle ek americi adhikari ne kaha — dono paksh niji taur par zameen ki adla-badli par lacheele hain; Ukraine ke liye suraksha guarantee bhi agenda me hai.",
-      "category": "World",
-      "exam_angle": "Abu Dhabi vaarta aur Ukraine yuddh — antarrashtriya sambandh ke liye mahatvapurna.",
-      "source": "Reuters",
-      "source_url": "https://www.reuters.com/world/europe/russia-ukraine-showing-flexibility-territory-us-official-says-2026-11-09/",
-      "genuineness": "corroborated",
-      "outlets": [
-        "Reuters",
-        "The Straits Times"
-      ],
-      "image": null,
-      "image_credit": null
-    },
-    {
-      "id": "world-20261110-0722-01",
-      "published_ist": "2026-11-09T22:20:00+05:30",
-      "headline": "Pope ki Buenos Aires sabha me 25 lakh",
-      "detail": "Pope Leo XIV ki Buenos Aires me khuli sabha me Vatican ke mutabik 25 lakh log jute — 1987 ke baad Argentina ki pehli papal yatra me unke karyakal ki sabse badi bheed; Pope ne samaj ke sabse kamzor varg ki suraksha ki appeal ki.",
-      "category": "World",
-      "exam_angle": "Pope ki Latin America yatra aur Vatican ki bhoomika — antarrashtriya sambandh ke liye mahatvapurna.",
-      "source": "Korea Times (Reuters)",
-      "source_url": "https://www.koreatimes.co.kr/world/20261110/pope-leo-mass-in-buenos-aires-draws-record-crowd-of-25-million-vatican-says",
-      "genuineness": "verified",
-      "outlets": [
-        "Reuters",
-        "AFP",
-        "Buenos Aires Herald"
-      ],
-      "image": "../images/world/world-20261110-0722-01.jpg",
-      "image_credit": "Gobierno de la Ciudad de Buenos Aires (CC BY 2.5 ar)"
-    },
-    {
-      "id": "world-20261110-0722-02",
-      "published_ist": "2026-11-09T22:03:00+05:30",
-      "headline": "France: Iran ne supermarket fridge hack kiye",
-      "detail": "France ne kaha October me 700 supermarkets ke fridge hack karne ke peeche Iran ke IRGC se judi Shahid Kaveh unit thi; Iran ke raajdoot ko bulaya gaya aur EU pratibandh ki maang ki gayi.",
-      "category": "World",
-      "exam_angle": "Cyber hamla aur Iran-France tanav — antarrashtriya suraksha ke liye mahatvapurna.",
-      "source": "Al Jazeera",
-      "source_url": "https://www.aljazeera.com/amp/news/2026/11/9/france-accuses-iran-of-cyberattack-on-european-fridges",
-      "genuineness": "verified",
-      "outlets": [
-        "Reuters",
-        "Al Jazeera",
-        "CNN",
-        "AP"
-      ],
-      "image": null,
-      "image_credit": null
     }
   ]
 }
