@@ -1,5 +1,5 @@
 {
-  "updated_ist": "2026-11-10T08:26:24+05:30",
+  "updated_ist": "2026-11-10T09:25:53+05:30",
   "items": [
     {
       "id": "world-20261110-0822-03",
@@ -71,6 +71,25 @@
       ],
       "image": null,
       "image_credit": null
+    },
+    {
+      "id": "world-20261110-0922-01",
+      "published_ist": "2026-11-10T00:57:00+05:30",
+      "headline": "Pope ne Argentina me peediton se mulaqaat ki",
+      "detail": "Pope Leo XIV ne Buenos Aires me paanch pujari-durvyavahar peediton se ek ghante se zyada baat ki; Vatican ne kaha — suraksha upaay mazboot karne ka vaada, yatra me aisi aur mulaqaatein hongi.",
+      "category": "World",
+      "exam_angle": "Pope ki Latin America yatra aur Vatican ki suraksha neeti — antarrashtriya sambandh ke liye mahatvapurna.",
+      "source": "Al Jazeera",
+      "source_url": "https://www.aljazeera.com/amp/news/2026/11/9/pope-meets-with-clergy-abuse-survivors-in-argentina",
+      "genuineness": "verified",
+      "outlets": [
+        "Reuters",
+        "AP",
+        "Al Jazeera",
+        "Channel News Asia"
+      ],
+      "image": "../images/world/world-20261110-0922-01.jpg",
+      "image_credit": "Al Jazeera"
     },
     {
       "id": "world-20261110-0622-01",
@@ -160,6 +179,23 @@
         "The Times",
         "Telegraph India",
         "The Observer"
+      ],
+      "image": null,
+      "image_credit": null
+    },
+    {
+      "id": "world-20261110-0922-02",
+      "published_ist": "2026-11-09T20:29:00+05:30",
+      "headline": "China ne America par niyantran ki rok badhayi",
+      "detail": "China ne 11 americi sansthaon par pratibandh aur 16 sansthaon ko dual-use vastuon ke niryat par rok do mahine aur badha di; 24% atirikt tariff par rok bhi aaj se do mahine badhegi.",
+      "category": "World",
+      "exam_angle": "China-America vyaapaar vaarta aur niryat niyantran — arthvyavastha aur antarrashtriya sambandh ke liye mahatvapurna.",
+      "source": "China Daily",
+      "source_url": "https://www.chinadaily.com.cn/a/202611/09/WS6af1dfe2e4b03ebf8519b610.html",
+      "genuineness": "corroborated",
+      "outlets": [
+        "China Daily",
+        "BusinessToday"
       ],
       "image": null,
       "image_credit": null
@@ -408,44 +444,6 @@
         "Arab News",
         "The Hindu BusinessLine",
         "Channel News Asia"
-      ],
-      "image": null,
-      "image_credit": null
-    },
-    {
-      "id": "world-20261109-1522-01",
-      "published_ist": "2026-11-09T14:46:00+05:30",
-      "headline": "COP31: Antalya me jalvayu sammelan shuru",
-      "detail": "Sanyukt Rashtra ka COP31 aaj Turkey ke Antalya me shuru hua — lagbhag 200 desh 20 November tak utsarjan, anukoolan aur jalvayu vitt par vaarta karenge; Turkey ki adhyakshata me bijli ki hissedari 2035 tak 35% karne ka lakshya hai.",
-      "category": "World",
-      "exam_angle": "COP31 aur jalvayu vaarta — paryavaran aur antarrashtriya sangathan ke liye mahatvapurna.",
-      "source": "The Nation",
-      "source_url": "https://www.nation.com.pk/09-Nov-2026/cop31-climate-summit-opens-t-rkiye-amid-calls-stronger-action",
-      "genuineness": "verified",
-      "outlets": [
-        "The Nation",
-        "Le Monde",
-        "TRT World",
-        "The Indian Express",
-        "The Jerusalem Post",
-        "Le Temps"
-      ],
-      "image": null,
-      "image_credit": null
-    },
-    {
-      "id": "world-20261110-0622-03",
-      "published_ist": "2026-11-09T14:44:00+05:30",
-      "headline": "China ne rare earth rok January tak badhayi",
-      "detail": "China ne naye rare earth niryat niyantran par rok do mahine badha di, ab 10 January tak; America ke saath vyaapaar samjhaute par baatchit jaari hai aur 24% tariff par rok bhi badhi hai.",
-      "category": "World",
-      "exam_angle": "Rare earth aur China-America vyaapaar — arthvyavastha aur antarrashtriya sambandh ke liye mahatvapurna.",
-      "source": "Reuters",
-      "source_url": "https://www.reuters.com/world/china/china-extends-suspension-new-rare-earth-controls-until-january-2026-11-09/",
-      "genuineness": "corroborated",
-      "outlets": [
-        "Reuters",
-        "The National"
       ],
       "image": null,
       "image_credit": null
