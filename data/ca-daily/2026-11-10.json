@@ -72,6 +72,76 @@
     ],
     "answer_index": 1
    }
+  },
+  {
+   "episode": 102,
+   "video_hi": "Jlz4uJ4kUhM",
+   "video_hinglish": "Jlz4uJ4kUhM",
+   "capsules": [
+    {
+     "id": "ca-ep102-s1",
+     "headline_hi": "DLF Everstone ke saath 3,750 crore lagayega",
+     "headline_hinglish": "DLF Everstone ke saath 3,750 crore lagayega",
+     "detail_hi": "DLF Singapore ki Everstone ke saath milkar IREO ke Bharat ke karobar mein 3,750 crore rupay ka nivesh karega.",
+     "detail_hinglish": "DLF Singapore ki Everstone ke saath milkar IREO ke Bharat ke karobar mein 3,750 crore rupay ka nivesh karega.",
+     "category_hi": "Economy",
+     "category_en": "Economy"
+    },
+    {
+     "id": "ca-ep102-s2",
+     "headline_hi": "Cancer ki 1,364 dawaiyan sasti hui",
+     "headline_hinglish": "Cancer ki 1,364 dawaiyan sasti hui",
+     "detail_hi": "Cancer ki dawaiyon ke 1,364 formulations ke naye MRP aaj se lagu, marizon ko badi rahat milegi.",
+     "detail_hinglish": "Cancer ki dawaiyon ke 1,364 formulations ke naye MRP aaj se lagu, marizon ko badi rahat milegi.",
+     "category_hi": "Health",
+     "category_en": "Health"
+    },
+    {
+     "id": "ca-ep102-s3",
+     "headline_hi": "TRAI ke naye port charges niyam 2027 se",
+     "headline_hinglish": "TRAI ke naye port charges niyam 2027 se",
+     "detail_hi": "TRAI ne telecom port charges ke naye niyam jaari kiye, IP-based connection par saaf keemat; 1 January 2027 se lagu.",
+     "detail_hinglish": "TRAI ne telecom port charges ke naye niyam jaari kiye, IP-based connection par saaf keemat; 1 January 2027 se lagu.",
+     "category_hi": "Telecom",
+     "category_en": "National"
+    },
+    {
+     "id": "ca-ep102-s4",
+     "headline_hi": "Chennai ko 1,000 AC electric buses milengi",
+     "headline_hinglish": "Chennai ko 1,000 AC electric buses milengi",
+     "detail_hi": "Tamil Nadu ne Chennai MTC ke liye 1,000 AC electric buses khareedne ko manzoori di, GCC model par chalengi.",
+     "detail_hinglish": "Tamil Nadu ne Chennai MTC ke liye 1,000 AC electric buses khareedne ko manzoori di, GCC model par chalengi.",
+     "category_hi": "Infrastructure",
+     "category_en": "National"
+    },
+    {
+     "id": "ca-ep102-s5",
+     "headline_hi": "Odisha mein 4,708 crore ka pumped storage",
+     "headline_hinglish": "Odisha mein 4,708 crore ka pumped storage",
+     "detail_hi": "Odisha cabinet ne 4,708 crore rupay ke pumped storage project ko manzoori di, bijli bhandaran badhega.",
+     "detail_hinglish": "Odisha cabinet ne 4,708 crore rupay ke pumped storage project ko manzoori di, bijli bhandaran badhega.",
+     "category_hi": "Energy",
+     "category_en": "National"
+    }
+   ],
+   "mcq": {
+    "id": "ca-ep102-mcq",
+    "q_hi": "Cancer ki dawaiyon ke kitne formulations ke naye MRP lagu hue?",
+    "q_hinglish": "Cancer ki dawaiyon ke kitne formulations ke naye MRP lagu hue?",
+    "options_hi": [
+     "750",
+     "1,000",
+     "2,000",
+     "1,364"
+    ],
+    "options_hinglish": [
+     "750",
+     "1,000",
+     "2,000",
+     "1,364"
+    ],
+    "answer_index": 3
+   }
   }
  ]
 }
