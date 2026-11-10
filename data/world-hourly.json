@@ -1,6 +1,41 @@
 {
-  "updated_ist": "2026-11-09T22:24:40+05:30",
+  "updated_ist": "2026-11-10T06:25:39+05:30",
   "items": [
+    {
+      "id": "world-20261110-0622-02",
+      "published_ist": "2026-11-10T04:01:00+05:30",
+      "headline": "Trump: Iran se jang 'practically khatm'",
+      "detail": "Qatar ke pradhanmantri se mulaqaat ke baad Trump ne kaha Iran sainya roop se 'effectively over' hai aur hamle dobara shuru hona 'quite unlikely' hai; nausainik nakabandi aur Operation Iron Gate jaari rahenge.",
+      "category": "World",
+      "exam_angle": "Iran yuddh aur Paschimi Asia ki sthiti — antarrashtriya sambandh ke liye mahatvapurna.",
+      "source": "Al Jazeera",
+      "source_url": "https://www.aljazeera.com/news/2026/11/9/trump-calls-iran-war-effectively-over-after-talks-with-qatar-pm",
+      "genuineness": "verified",
+      "outlets": [
+        "Al Jazeera",
+        "AP",
+        "New York Post"
+      ],
+      "image": null,
+      "image_credit": null
+    },
+    {
+      "id": "world-20261110-0622-01",
+      "published_ist": "2026-11-10T00:12:00+05:30",
+      "headline": "Russia-Ukraine: Zameen par narmi ke sanket",
+      "detail": "Abu Dhabi me aaj se shuru ho rahi America ki madhyasthata wali vaarta se pehle ek americi adhikari ne kaha — dono paksh niji taur par zameen ki adla-badli par lacheele hain; Ukraine ke liye suraksha guarantee bhi agenda me hai.",
+      "category": "World",
+      "exam_angle": "Abu Dhabi vaarta aur Ukraine yuddh — antarrashtriya sambandh ke liye mahatvapurna.",
+      "source": "Reuters",
+      "source_url": "https://www.reuters.com/world/europe/russia-ukraine-showing-flexibility-territory-us-official-says-2026-11-09/",
+      "genuineness": "corroborated",
+      "outlets": [
+        "Reuters",
+        "The Straits Times"
+      ],
+      "image": null,
+      "image_credit": null
+    },
     {
       "id": "world-20261109-2222-03",
       "published_ist": "2026-11-09T21:53:00+05:30",
@@ -96,6 +131,42 @@
       ],
       "image": "../images/world/world-20261109-2022-02.jpg",
       "image_credit": "TimesLIVE"
+    },
+    {
+      "id": "world-20261110-0622-04",
+      "published_ist": "2026-11-09T17:57:00+05:30",
+      "headline": "IMF ki Ukraine sameeksha se $1.67bn milega",
+      "detail": "IMF ne Ukraine ke $8.1bn karz karyakram ki doosri-teesri sameeksha shuru ki; manzoori par $1.67bn ki kisht milegi, jabki Ukraine ko agle saal $70bn ki kami ka saamna hai.",
+      "category": "World",
+      "exam_angle": "IMF aur Ukraine arthvyavastha — antarrashtriya vittiya sansthaon ke liye mahatvapurna.",
+      "source": "Reuters",
+      "source_url": "https://www.reuters.com/business/imf-launches-ukraine-loan-review-that-could-unlock-167-billion-2026-11-09/",
+      "genuineness": "verified",
+      "outlets": [
+        "Reuters",
+        "Kyiv Independent",
+        "Interfax-Ukraine"
+      ],
+      "image": null,
+      "image_credit": null
+    },
+    {
+      "id": "world-20261110-0622-05",
+      "published_ist": "2026-11-09T17:50:00+05:30",
+      "headline": "Canada ne Russia par naye pratibandh lagaye",
+      "detail": "Canada ne Paris me G7 mantriyon ki baithak ke dauraan Russia ki 38 sansthaon aur 24 vyaktiyon par pratibandh lagaye — ballistic missile takneek, cyber gatividhi aur crypto ke zariye yuddh ko fund karne wale network nishane par.",
+      "category": "World",
+      "exam_angle": "Pratibandh aur G7 — antarrashtriya sambandh ke liye mahatvapurna.",
+      "source": "Government of Canada",
+      "source_url": "https://www.canada.ca/en/global-affairs/news/2026/11/minister-anand-announces-additional-sanctions-to-reduce-russias-missile-capabilities-and-raise-economic-costs.html",
+      "genuineness": "verified",
+      "outlets": [
+        "Government of Canada",
+        "Reuters",
+        "Kyiv Independent"
+      ],
+      "image": null,
+      "image_credit": null
     },
     {
       "id": "world-20261109-1922-02",
@@ -231,6 +302,23 @@
         "The Indian Express",
         "The Jerusalem Post",
         "Le Temps"
+      ],
+      "image": null,
+      "image_credit": null
+    },
+    {
+      "id": "world-20261110-0622-03",
+      "published_ist": "2026-11-09T14:44:00+05:30",
+      "headline": "China ne rare earth rok January tak badhayi",
+      "detail": "China ne naye rare earth niryat niyantran par rok do mahine badha di, ab 10 January tak; America ke saath vyaapaar samjhaute par baatchit jaari hai aur 24% tariff par rok bhi badhi hai.",
+      "category": "World",
+      "exam_angle": "Rare earth aur China-America vyaapaar — arthvyavastha aur antarrashtriya sambandh ke liye mahatvapurna.",
+      "source": "Reuters",
+      "source_url": "https://www.reuters.com/world/china/china-extends-suspension-new-rare-earth-controls-until-january-2026-11-09/",
+      "genuineness": "corroborated",
+      "outlets": [
+        "Reuters",
+        "The National"
       ],
       "image": null,
       "image_credit": null
@@ -372,106 +460,6 @@
       ],
       "image": "../images/world/world-20261109-1822-04.jpg",
       "image_credit": "Korea Times"
-    },
-    {
-      "id": "world-20261109-1122-02",
-      "published_ist": "2026-11-09T10:48:00+05:30",
-      "headline": "Gaza: Baarish se 70,000 tent doobe",
-      "detail": "Gaza me shanivaar se bhaari baarish se lagbhag 70,000 tent doob gaye — hazaaron visthapit beghar; Deir al-Balah ke paas ret ka teela girne se 3 bachchon samet 5 ki maut; UNICEF ke mutaabik 1 lakh se zyada logon ko vaikalpik aashray chahiye.",
-      "category": "World",
-      "exam_angle": "Gaza me manaviya sankat aur sardiyon me aashray ki kami — antarrashtriya sambandh ke liye mahatvapurna.",
-      "source": "Al Jazeera",
-      "source_url": "https://www.aljazeera.com/amp/features/2026/11/9/tents-dont-protect-us-rains-flood-displaced-palestinians-in-gaza",
-      "genuineness": "verified",
-      "outlets": [
-        "Al Jazeera",
-        "Haaretz",
-        "Times of Israel",
-        "ReliefWeb"
-      ],
-      "image": null,
-      "image_credit": null
-    },
-    {
-      "id": "world-20261109-1722-01",
-      "published_ist": "2026-11-09T09:51:00+05:30",
-      "headline": "Trump: Deportation neeti 'too tough' rahi",
-      "detail": "CBS ke 60 Minutes interview me Trump ne mana — nirvasan neeti 'too tough' rahi; naukri aur parivar wale pravasiyon ko hatane se midterm me party ko nuksan hua; phir bhi neeti badalne ki ghoshna nahi ki, ICE ka lagbhag 19,000 giraftari prati hafta ka lakshya barkarar hai.",
-      "category": "World",
-      "exam_angle": "America ki pravasi neeti aur midterm chunav — antarrashtriya rajneeti ke liye mahatvapurna.",
-      "source": "The Statesman",
-      "source_url": "https://www.thestatesman.com/world/trump-says-deportation-policy-might-be-too-tough-after-us-midterm-losses-1503660308.html",
-      "genuineness": "verified",
-      "outlets": [
-        "The Statesman",
-        "Business Standard",
-        "The Times of India",
-        "CNBC TV18",
-        "Businessday",
-        "Seoul Economic Daily"
-      ],
-      "image": "../images/world/world-20261109-1722-01.jpg",
-      "image_credit": "The Statesman"
-    },
-    {
-      "id": "world-20261109-1222-02",
-      "published_ist": "2026-11-09T09:50:00+05:30",
-      "headline": "Hasina: Passport maanga, wapsi ka sanket",
-      "detail": "Bangladesh ki apadasth PM Sheikh Hasina ne Delhi sthit dutavas se naya passport aur pehchan patra maanga — December me wapsi aur adalat ke saamne surrender ki yojna; Dhaka ne kaha pratyarpan sandhi se hi wapsi hogi. (Updated: Dhaka ne passport dene se saaf inkaar kar diya — pratyarpan hi ekmatra rasta hai.)",
-      "category": "World",
-      "exam_angle": "Bangladesh ki rajneeti aur Bharat-Bangladesh sambandh — antarrashtriya sambandh ke liye mahatvapurna.",
-      "source": "Reuters",
-      "source_url": "https://www.reuters.com/world/asia-pacific/hasina-seeks-new-passport-clearest-sign-bangladesh-return-2026-11-09/",
-      "genuineness": "verified",
-      "outlets": [
-        "Reuters",
-        "AP",
-        "The Hindu BusinessLine",
-        "SCMP",
-        "The Straits Times"
-      ],
-      "image": "../images/world/world-20261109-1222-02.jpg",
-      "image_credit": "The Hindu BusinessLine"
-    },
-    {
-      "id": "world-20261109-1122-03",
-      "published_ist": "2026-11-09T09:13:00+05:30",
-      "headline": "China: America par 24% tariff sthagan badha",
-      "detail": "China ne America se aayat par 24% atirikt shulk ka sthagan do mahine aur badha diya — 10 November se lagu, 10% shulk barkarar; dono deshon ke beech $60 arab ke paraspar shulk katauti package par baat jaari hai.",
-      "category": "World",
-      "exam_angle": "America-China vyapaar yuddh viram aur shulk neeti — arthvyavastha ke liye mahatvapurna.",
-      "source": "Reuters",
-      "source_url": "https://www.reuters.com/world/asia-pacific/china-extends-suspension-24-tariff-us-imports-two-months-2026-11-09/",
-      "genuineness": "verified",
-      "outlets": [
-        "Reuters",
-        "Firstpost",
-        "Business Standard",
-        "CNBC TV18",
-        "The Edge"
-      ],
-      "image": null,
-      "image_credit": null
-    },
-    {
-      "id": "world-20261109-1322-01",
-      "published_ist": "2026-11-09T08:14:00+05:30",
-      "headline": "America: Shutdown khatm hone ki ore",
-      "detail": "Senate ne Ravivar raat 60-40 se sarkar kholne ki deal aage badhayi — 40 din se band sarkar, itihas ki sabse lambi; 8 Democrats ne saath diya; House me Budhvar ko vote ki ummeed, phir Trump ke hastakshar.",
-      "category": "World",
-      "exam_angle": "America ki sarkar band hone ka record aur Senate ki prakriya — antarrashtriya rajneeti ke liye mahatvapurna.",
-      "source": "Times of Oman",
-      "source_url": "https://timesofoman.com/article/164872-us-senate-votes-to-end-shutdown-paving-way-for-government-reopening",
-      "genuineness": "verified",
-      "outlets": [
-        "Reuters",
-        "Associated Press",
-        "Politico",
-        "Fox News",
-        "Times of Oman"
-      ],
-      "image": "../images/world/world-20261109-1322-01.jpg",
-      "image_credit": "Noclip, Public domain (Wikimedia Commons)"
     }
   ]
 }
