@@ -1,6 +1,59 @@
 {
-  "updated_ist": "2026-11-10T07:27:02+05:30",
+  "updated_ist": "2026-11-10T08:26:24+05:30",
   "items": [
+    {
+      "id": "world-20261110-0822-03",
+      "published_ist": "2026-11-10T08:24:00+05:30",
+      "headline": "Damascus me Macron ke hotel ke paas do dhamake",
+      "detail": "Syria yatra ke dusre din Damascus me Four Seasons Hotel ke paas do visfot hue, 18 log ghayal hue jinme chaar policekarmi hain; Macron surakshit hain aur unki yatra jaari rahegi.",
+      "category": "World",
+      "exam_angle": "Assad ke baad Syria me pehli badi pashchimi yatra — antarrashtriya sambandh ke liye mahatvapurna.",
+      "source": "RNZ (AFP)",
+      "source_url": "https://www.rnz.co.nz/news/world/684290/bomb-attacks-wound-18-in-damascus-as-french-president-emmanuel-macron-visits",
+      "genuineness": "verified",
+      "outlets": [
+        "AFP",
+        "RNZ",
+        "Zee News"
+      ],
+      "image": null,
+      "image_credit": null
+    },
+    {
+      "id": "world-20261110-0822-02",
+      "published_ist": "2026-11-10T06:25:00+05:30",
+      "headline": "Houthi hamle me Riyadh ki Aramco imarat ko nuksaan",
+      "detail": "Yemen ke Houthi samuh ke hamle me Riyadh ki Aramco prashasanik imarat ko seemit nuksaan pahuncha, koi hatahat nahi; Houthi ne zimmedari li, aur Madina me East-West tel pipeline par bhi hamla hua, aag bujha di gayi.",
+      "category": "World",
+      "exam_angle": "Hormuz aur Paschimi Asia me tanaav — antarrashtriya sambandh ke liye mahatvapurna.",
+      "source": "Reuters",
+      "source_url": "https://www.reuters.com/world/middle-east/saudi-official-inspects-aramco-riyadh-office-after-houthi-attack-2026-11-10/",
+      "genuineness": "corroborated",
+      "outlets": [
+        "Reuters",
+        "SPA"
+      ],
+      "image": null,
+      "image_credit": null
+    },
+    {
+      "id": "world-20261110-0822-04",
+      "published_ist": "2026-11-10T04:25:00+05:30",
+      "headline": "Nvidia aarop: America me chip kanoon sakht hoga",
+      "detail": "Nvidia ke CEO Jensen Huang ke ek sandehspad Chinese agent se sambandh ki khabar ke baad America ki Congress chip niryat par sakht kanoon lane ki taraf badh rahi hai; China ne aarop ko 'smear campaign' kaha hai.",
+      "category": "World",
+      "exam_angle": "America-China chip yuddh aur takniki pratibandh — antarrashtriya sambandh ke liye mahatvapurna.",
+      "source": "Reuters",
+      "source_url": "https://www.reuters.com/legal/litigation/nvidia-spy-allegations-likely-spur-laws-to-tighten-chinas-access-ai-chips-2026-11-09/",
+      "genuineness": "corroborated",
+      "outlets": [
+        "Reuters",
+        "Tribune India",
+        "Mathrubhumi"
+      ],
+      "image": null,
+      "image_credit": null
+    },
     {
       "id": "world-20261110-0622-02",
       "published_ist": "2026-11-10T04:01:00+05:30",
@@ -129,6 +182,24 @@
       ],
       "image": "../images/world/world-20261109-2022-01.jpg",
       "image_credit": "Al Jazeera"
+    },
+    {
+      "id": "world-20261110-0822-01",
+      "published_ist": "2026-11-09T19:14:00+05:30",
+      "headline": "Paraguay: Hataye gaye rashtrapati ke ghar chhapa",
+      "detail": "Ueno Bank ke dhahne ke baad Senate ne shukravaar ko rashtrapati Santiago Peña ko pad se hataya; ravivaar ko police ne unke ghar par chhapa mara, unpar vishwasghat aur niji laabh ke aarop hain, aur ve sainya suvidha me hirasat me hain.",
+      "category": "World",
+      "exam_angle": "Bank sankat se rashtrapati ka patan — Latin America ki rajniti aur banking niyaman ke liye mahatvapurna.",
+      "source": "Al Jazeera",
+      "source_url": "https://www.aljazeera.com/news/2026/11/9/paraguay-raids-ex-presidents-home-why-a-bank-crash-brought-down-pena?traffic_source=rss",
+      "genuineness": "verified",
+      "outlets": [
+        "Al Jazeera",
+        "AP",
+        "AFP"
+      ],
+      "image": "../images/world/world-20261110-0822-01.jpg",
+      "image_credit": "Office of the President, Taiwan (CC BY 4.0)"
     },
     {
       "id": "world-20261109-2222-01",
@@ -375,87 +446,6 @@
       "outlets": [
         "Reuters",
         "The National"
-      ],
-      "image": null,
-      "image_credit": null
-    },
-    {
-      "id": "world-20261109-1722-02",
-      "published_ist": "2026-11-09T14:30:00+05:30",
-      "headline": "Ukraine: EU se turant madad ka mechanism",
-      "detail": "Zelenskyy ne von der Leyen se baat ke baad kaha — EU ne Ukraine ke liye vishesh aapatkalin sahayata mechanism sakriya kiya; Russia ke hamlo se bijli, paani aur heating sankat me Kyiv, Dnipro, Sumy, Donetsk aur Kherson ko turant vitt milega; Abu Dhabi vaarta se pehle sthiti par bhi sahmati bani.",
-      "category": "World",
-      "exam_angle": "Ukraine yuddh aur EU ki sahayata — antarrashtriya sambandh ke liye mahatvapurna.",
-      "source": "Ukrinform",
-      "source_url": "https://www.ukrinform.net/rubric-polytics/4182833-eu-to-activate-special-emergency-mechanism-for-ukraine-zelensky.html",
-      "genuineness": "verified",
-      "outlets": [
-        "Ukrinform",
-        "Al Jazeera",
-        "Interfax-Ukraine",
-        "Ukrainska Pravda",
-        "Türkiye Today",
-        "Georgia Today"
-      ],
-      "image": null,
-      "image_credit": null
-    },
-    {
-      "id": "world-20261109-1522-03",
-      "published_ist": "2026-11-09T12:32:00+05:30",
-      "headline": "Crete: Naav me 13 pravasiyon ki maut",
-      "detail": "Greece ke tatrakshak ne Crete ke dakshin me ek pravasi naav se 12 shav baramad kiye aur 18 logon ko bachaya; aspatal le jaye gaye 4 me se ek ki baad me maut ho gayi, kul 13 ki maut; maut ka karan abhi agyaat hai; usi raat do aur naavon se 87 pravasi bachaye gaye. (Corrected: pehle 12 maut batayi gayi thi; aspatal me ek aur ki maut ke baad kul sankhya 13 hui.)",
-      "category": "World",
-      "exam_angle": "Bhoomadhya sagar me pravasi sankat aur EU seema niti — antarrashtriya sambandh ke liye mahatvapurna.",
-      "source": "The Hindu",
-      "source_url": "https://www.thehindu.com/news/international/greek-boat-sailing-off-the-island-of-crete/article71681703.ece",
-      "genuineness": "verified",
-      "outlets": [
-        "Reuters",
-        "The Hindu",
-        "Arab News",
-        "The Times of India",
-        "The New Indian Express"
-      ],
-      "image": null,
-      "image_credit": null
-    },
-    {
-      "id": "world-20261109-1822-03",
-      "published_ist": "2026-11-09T12:05:00+05:30",
-      "headline": "Kraków: Hamlaavar ki maut, ghar me 3 shav",
-      "detail": "Kraków me 6 logon ki hatya karne wala 24 saal ka hamlaavar aspatal me mar gaya — police se muthbhed me ghayal hua tha; uske ghar se mata-pita aur behen ke shav mile; jaanch aatankwadi hamle ke roop me jaari hai.",
-      "category": "World",
-      "exam_angle": "Europe me suraksha aur aatankwadi jaanch — antarrashtriya sambandh ke liye mahatvapurna.",
-      "source": "The Hindu",
-      "source_url": "https://www.thehindu.com/news/international/krakow-shooting-suspect-dies-poland-police/article71681652.ece",
-      "genuineness": "verified",
-      "outlets": [
-        "Reuters",
-        "The Hindu",
-        "Al Jazeera",
-        "AP"
-      ],
-      "image": "../images/world/world-20261109-1822-03.jpg",
-      "image_credit": "The Hindu"
-    },
-    {
-      "id": "world-20261109-1722-03",
-      "published_ist": "2026-11-09T11:52:00+05:30",
-      "headline": "Australia: Gmail par umar jaanch ka khatra",
-      "detail": "Google ne Australia ki Senate sunwai me chetavani di — Digital Duty of Care bill ki umar-jaanch shart 18 se kam umar walo ke liye Gmail, messaging aur file storage band karwa sakti hai; bill pratinidhi sabha se pass ho chuka hai, Senate me atka hai; Meta, TikTok aur Snap ne bhi aisi hi chinta jatai.",
-      "category": "World",
-      "exam_angle": "Digital niyaman aur online suraksha kanoon — shasan aur takneek ke liye mahatvapurna.",
-      "source": "Reuters",
-      "source_url": "https://www.reuters.com/legal/litigation/google-says-new-australian-internet-safety-bill-could-cut-off-under-18s-gmail-2026-11-09/",
-      "genuineness": "verified",
-      "outlets": [
-        "Reuters",
-        "The Hindu",
-        "Gulf News",
-        "The Straits Times",
-        "Channel News Asia",
-        "CNBC TV18"
       ],
       "image": null,
       "image_credit": null
