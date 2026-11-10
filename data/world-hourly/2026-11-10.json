@@ -1,477 +1,513 @@
 {
-  "date": "2026-11-10",
-  "items": [
-    {
-      "id": "world-20261110-0822-03",
-      "published_ist": "2026-11-10T08:24:00+05:30",
-      "headline": "Damascus me Macron ke hotel ke paas do dhamake",
-      "detail": "Syria yatra ke dusre din Damascus me Four Seasons Hotel ke paas do visfot hue, 18 log ghayal hue jinme chaar policekarmi hain; Macron surakshit hain aur unki yatra jaari rahegi.",
-      "category": "World",
-      "exam_angle": "Assad ke baad Syria me pehli badi pashchimi yatra — antarrashtriya sambandh ke liye mahatvapurna.",
-      "source": "RNZ (AFP)",
-      "source_url": "https://www.rnz.co.nz/news/world/684290/bomb-attacks-wound-18-in-damascus-as-french-president-emmanuel-macron-visits",
-      "genuineness": "verified",
-      "outlets": [
-        "AFP",
-        "RNZ",
-        "Zee News"
-      ],
-      "image": null,
-      "image_credit": null
-    },
-    {
-      "id": "world-20261110-0822-02",
-      "published_ist": "2026-11-10T06:25:00+05:30",
-      "headline": "Houthi hamle me Riyadh ki Aramco imarat ko nuksaan",
-      "detail": "Yemen ke Houthi samuh ke hamle me Riyadh ki Aramco prashasanik imarat ko seemit nuksaan pahuncha, koi hatahat nahi; Houthi ne zimmedari li, aur Madina me East-West tel pipeline par bhi hamla hua, aag bujha di gayi.",
-      "category": "World",
-      "exam_angle": "Hormuz aur Paschimi Asia me tanaav — antarrashtriya sambandh ke liye mahatvapurna.",
-      "source": "Reuters",
-      "source_url": "https://www.reuters.com/world/middle-east/saudi-official-inspects-aramco-riyadh-office-after-houthi-attack-2026-11-10/",
-      "genuineness": "corroborated",
-      "outlets": [
-        "Reuters",
-        "SPA"
-      ],
-      "image": null,
-      "image_credit": null
-    },
-    {
-      "id": "world-20261110-0822-04",
-      "published_ist": "2026-11-10T04:25:00+05:30",
-      "headline": "Nvidia aarop: America me chip kanoon sakht hoga",
-      "detail": "Nvidia ke CEO Jensen Huang ke ek sandehspad Chinese agent se sambandh ki khabar ke baad America ki Congress chip niryat par sakht kanoon lane ki taraf badh rahi hai; China ne aarop ko 'smear campaign' kaha hai.",
-      "category": "World",
-      "exam_angle": "America-China chip yuddh aur takniki pratibandh — antarrashtriya sambandh ke liye mahatvapurna.",
-      "source": "Reuters",
-      "source_url": "https://www.reuters.com/legal/litigation/nvidia-spy-allegations-likely-spur-laws-to-tighten-chinas-access-ai-chips-2026-11-09/",
-      "genuineness": "corroborated",
-      "outlets": [
-        "Reuters",
-        "Tribune India",
-        "Mathrubhumi"
-      ],
-      "image": null,
-      "image_credit": null
-    },
-    {
-      "id": "world-20261110-0622-02",
-      "published_ist": "2026-11-10T04:01:00+05:30",
-      "headline": "Trump: Iran se jang 'practically khatm'",
-      "detail": "Qatar ke pradhanmantri se mulaqaat ke baad Trump ne kaha Iran sainya roop se 'effectively over' hai aur hamle dobara shuru hona 'quite unlikely' hai; nausainik nakabandi aur Operation Iron Gate jaari rahenge.",
-      "category": "World",
-      "exam_angle": "Iran yuddh aur Paschimi Asia ki sthiti — antarrashtriya sambandh ke liye mahatvapurna.",
-      "source": "Al Jazeera",
-      "source_url": "https://www.aljazeera.com/news/2026/11/9/trump-calls-iran-war-effectively-over-after-talks-with-qatar-pm",
-      "genuineness": "verified",
-      "outlets": [
-        "Al Jazeera",
-        "AP",
-        "New York Post"
-      ],
-      "image": null,
-      "image_credit": null
-    },
-    {
-      "id": "world-20261110-0922-01",
-      "published_ist": "2026-11-10T00:57:00+05:30",
-      "headline": "Pope ne Argentina me peediton se mulaqaat ki",
-      "detail": "Pope Leo XIV ne Buenos Aires me paanch pujari-durvyavahar peediton se ek ghante se zyada baat ki; Vatican ne kaha — suraksha upaay mazboot karne ka vaada, yatra me aisi aur mulaqaatein hongi.",
-      "category": "World",
-      "exam_angle": "Pope ki Latin America yatra aur Vatican ki suraksha neeti — antarrashtriya sambandh ke liye mahatvapurna.",
-      "source": "Al Jazeera",
-      "source_url": "https://www.aljazeera.com/amp/news/2026/11/9/pope-meets-with-clergy-abuse-survivors-in-argentina",
-      "genuineness": "verified",
-      "outlets": [
-        "Reuters",
-        "AP",
-        "Al Jazeera",
-        "Channel News Asia"
-      ],
-      "image": "../images/world/world-20261110-0922-01.jpg",
-      "image_credit": "Al Jazeera"
-    },
-    {
-      "id": "world-20261110-0622-01",
-      "published_ist": "2026-11-10T00:12:00+05:30",
-      "headline": "Russia-Ukraine: Zameen par narmi ke sanket",
-      "detail": "Abu Dhabi me aaj se shuru ho rahi America ki madhyasthata wali vaarta se pehle ek americi adhikari ne kaha — dono paksh niji taur par zameen ki adla-badli par lacheele hain; Ukraine ke liye suraksha guarantee bhi agenda me hai.",
-      "category": "World",
-      "exam_angle": "Abu Dhabi vaarta aur Ukraine yuddh — antarrashtriya sambandh ke liye mahatvapurna.",
-      "source": "Reuters",
-      "source_url": "https://www.reuters.com/world/europe/russia-ukraine-showing-flexibility-territory-us-official-says-2026-11-09/",
-      "genuineness": "corroborated",
-      "outlets": [
-        "Reuters",
-        "The Straits Times"
-      ],
-      "image": null,
-      "image_credit": null
-    },
-    {
-      "id": "world-20261110-0722-01",
-      "published_ist": "2026-11-09T22:20:00+05:30",
-      "headline": "Pope ki Buenos Aires sabha me 25 lakh",
-      "detail": "Pope Leo XIV ki Buenos Aires me khuli sabha me Vatican ke mutabik 25 lakh log jute — 1987 ke baad Argentina ki pehli papal yatra me unke karyakal ki sabse badi bheed; Pope ne samaj ke sabse kamzor varg ki suraksha ki appeal ki.",
-      "category": "World",
-      "exam_angle": "Pope ki Latin America yatra aur Vatican ki bhoomika — antarrashtriya sambandh ke liye mahatvapurna.",
-      "source": "Korea Times (Reuters)",
-      "source_url": "https://www.koreatimes.co.kr/world/20261110/pope-leo-mass-in-buenos-aires-draws-record-crowd-of-25-million-vatican-says",
-      "genuineness": "verified",
-      "outlets": [
-        "Reuters",
-        "AFP",
-        "Buenos Aires Herald"
-      ],
-      "image": "../images/world/world-20261110-0722-01.jpg",
-      "image_credit": "Gobierno de la Ciudad de Buenos Aires (CC BY 2.5 ar)"
-    },
-    {
-      "id": "world-20261110-0722-02",
-      "published_ist": "2026-11-09T22:03:00+05:30",
-      "headline": "France: Iran ne supermarket fridge hack kiye",
-      "detail": "France ne kaha October me 700 supermarkets ke fridge hack karne ke peeche Iran ke IRGC se judi Shahid Kaveh unit thi; Iran ke raajdoot ko bulaya gaya aur EU pratibandh ki maang ki gayi.",
-      "category": "World",
-      "exam_angle": "Cyber hamla aur Iran-France tanav — antarrashtriya suraksha ke liye mahatvapurna.",
-      "source": "Al Jazeera",
-      "source_url": "https://www.aljazeera.com/amp/news/2026/11/9/france-accuses-iran-of-cyberattack-on-european-fridges",
-      "genuineness": "verified",
-      "outlets": [
-        "Reuters",
-        "Al Jazeera",
-        "CNN",
-        "AP"
-      ],
-      "image": null,
-      "image_credit": null
-    },
-    {
-      "id": "world-20261110-0922-02",
-      "published_ist": "2026-11-09T20:29:00+05:30",
-      "headline": "China ne America par niyantran ki rok badhayi",
-      "detail": "China ne 11 americi sansthaon par pratibandh aur 16 sansthaon ko dual-use vastuon ke niryat par rok do mahine aur badha di; 24% atirikt tariff par rok bhi aaj se do mahine badhegi.",
-      "category": "World",
-      "exam_angle": "China-America vyaapaar vaarta aur niryat niyantran — arthvyavastha aur antarrashtriya sambandh ke liye mahatvapurna.",
-      "source": "China Daily",
-      "source_url": "https://www.chinadaily.com.cn/a/202611/09/WS6af1dfe2e4b03ebf8519b610.html",
-      "genuineness": "corroborated",
-      "outlets": [
-        "China Daily",
-        "BusinessToday"
-      ],
-      "image": null,
-      "image_credit": null
-    },
-    {
-      "id": "world-20261110-1022-02",
-      "published_ist": "2026-11-09T19:21:00+05:30",
-      "headline": "COP31 Antalya me shuru, bijli par zor",
-      "detail": "Turkiye ke Antalya me COP31 shuru hua — Turkiye mezban, Australia vaarta ka netritva karega; 2035 tak bijli ki hissedari 35% karne ka prastaav aur jalvayu vitt par zor.",
-      "category": "World",
-      "exam_angle": "COP31 aur Paris samjhauta — paryavaran aur antarrashtriya sambandh ke liye mahatvapurna.",
-      "source": "COP31 Presidency",
-      "source_url": "https://cop31.tr/news-detail/cop31-president-opens-un-climate-summit-calls-for-action",
-      "genuineness": "verified",
-      "outlets": [
-        "COP31 Presidency",
-        "Le Monde",
-        "The Cable"
-      ],
-      "image": null,
-      "image_credit": null
-    },
-    {
-      "id": "world-20261110-0822-01",
-      "published_ist": "2026-11-09T19:14:00+05:30",
-      "headline": "Paraguay: Hataye gaye rashtrapati ke ghar chhapa",
-      "detail": "Ueno Bank ke dhahne ke baad Senate ne shukravaar ko rashtrapati Santiago Peña ko pad se hataya; ravivaar ko police ne unke ghar par chhapa mara, unpar vishwasghat aur niji laabh ke aarop hain, aur ve sainya suvidha me hirasat me hain.",
-      "category": "World",
-      "exam_angle": "Bank sankat se rashtrapati ka patan — Latin America ki rajniti aur banking niyaman ke liye mahatvapurna.",
-      "source": "Al Jazeera",
-      "source_url": "https://www.aljazeera.com/news/2026/11/9/paraguay-raids-ex-presidents-home-why-a-bank-crash-brought-down-pena?traffic_source=rss",
-      "genuineness": "verified",
-      "outlets": [
-        "Al Jazeera",
-        "AP",
-        "AFP"
-      ],
-      "image": "../images/world/world-20261110-0822-01.jpg",
-      "image_credit": "Office of the President, Taiwan (CC BY 4.0)"
-    },
-    {
-      "id": "world-20261110-1022-03",
-      "published_ist": "2026-11-09T18:25:00+05:30",
-      "headline": "Japan Philippines ko radar-drone dega",
-      "detail": "Japan ne Philippines ko 4.3 arab yen ($27 million) ke tahat tateeya radar aur nigrani drone dene ka samjhauta kiya — OSA ke tahat pehli baar taiyaar raksha upkaran ka transfer.",
-      "category": "World",
-      "exam_angle": "Dakshin Cheen Sagar aur Japan-Philippines raksha sahyog — antarrashtriya sambandh ke liye mahatvapurna.",
-      "source": "NHK",
-      "source_url": "https://www3.nhk.or.jp/nhkworld/news/20261109de73177/",
-      "genuineness": "verified",
-      "outlets": [
-        "NHK",
-        "Nikkei Asia",
-        "AP"
-      ],
-      "image": null,
-      "image_credit": null
-    },
-    {
-      "id": "world-20261110-0622-04",
-      "published_ist": "2026-11-09T17:57:00+05:30",
-      "headline": "IMF ki Ukraine sameeksha se $1.67bn milega",
-      "detail": "IMF ne Ukraine ke $8.1bn karz karyakram ki doosri-teesri sameeksha shuru ki; manzoori par $1.67bn ki kisht milegi, jabki Ukraine ko agle saal $70bn ki kami ka saamna hai.",
-      "category": "World",
-      "exam_angle": "IMF aur Ukraine arthvyavastha — antarrashtriya vittiya sansthaon ke liye mahatvapurna.",
-      "source": "Reuters",
-      "source_url": "https://www.reuters.com/business/imf-launches-ukraine-loan-review-that-could-unlock-167-billion-2026-11-09/",
-      "genuineness": "verified",
-      "outlets": [
-        "Reuters",
-        "Kyiv Independent",
-        "Interfax-Ukraine"
-      ],
-      "image": null,
-      "image_credit": null
-    },
-    {
-      "id": "world-20261110-0622-05",
-      "published_ist": "2026-11-09T17:50:00+05:30",
-      "headline": "Canada ne Russia par naye pratibandh lagaye",
-      "detail": "Canada ne Paris me G7 mantriyon ki baithak ke dauraan Russia ki 38 sansthaon aur 24 vyaktiyon par pratibandh lagaye — ballistic missile takneek, cyber gatividhi aur crypto ke zariye yuddh ko fund karne wale network nishane par.",
-      "category": "World",
-      "exam_angle": "Pratibandh aur G7 — antarrashtriya sambandh ke liye mahatvapurna.",
-      "source": "Government of Canada",
-      "source_url": "https://www.canada.ca/en/global-affairs/news/2026/11/minister-anand-announces-additional-sanctions-to-reduce-russias-missile-capabilities-and-raise-economic-costs.html",
-      "genuineness": "verified",
-      "outlets": [
-        "Government of Canada",
-        "Reuters",
-        "Kyiv Independent"
-      ],
-      "image": null,
-      "image_credit": null
-    },
-    {
-      "id": "world-20261110-0722-03",
-      "published_ist": "2026-11-09T15:41:00+05:30",
-      "headline": "APEC me Trump-Xi-Putin mulakaat sambhav",
-      "detail": "Trump ne kaha Shenzhen me 18-19 November ko APEC shikhar ke dauraan Xi Jinping aur Putin se milne ki ummeed hai; agenda me Ukraine yuddh, Iran aur parmanu hathiyar niyantran; Beijing ne baatchit se inkaar nahi kiya.",
-      "category": "World",
-      "exam_angle": "APEC aur mahashaktiyon ki tri-pakshiya baatchit — antarrashtriya sambandh ke liye mahatvapurna.",
-      "source": "The Hindu",
-      "source_url": "https://www.thehindu.com/news/international/us-china-russia-leaders-to-meet-next-week-says-trump-beijing-says-in-communication-with-parties/article71682111.ece",
-      "genuineness": "verified",
-      "outlets": [
-        "Reuters",
-        "The Hindu",
-        "AP",
-        "Times Now"
-      ],
-      "image": null,
-      "image_credit": null
-    },
-    {
-      "id": "world-20261110-0622-03",
-      "published_ist": "2026-11-09T14:44:00+05:30",
-      "headline": "China ne rare earth rok January tak badhayi",
-      "detail": "China ne naye rare earth niryat niyantran par rok do mahine badha di, ab 10 January tak; America ke saath vyaapaar samjhaute par baatchit jaari hai aur 24% tariff par rok bhi badhi hai.",
-      "category": "World",
-      "exam_angle": "Rare earth aur China-America vyaapaar — arthvyavastha aur antarrashtriya sambandh ke liye mahatvapurna.",
-      "source": "Reuters",
-      "source_url": "https://www.reuters.com/world/china/china-extends-suspension-new-rare-earth-controls-until-january-2026-11-09/",
-      "genuineness": "corroborated",
-      "outlets": [
-        "Reuters",
-        "The National"
-      ],
-      "image": null,
-      "image_credit": null
-    },
-    {
-      "id": "world-20261110-0722-04",
-      "published_ist": "2026-11-09T11:48:00+05:30",
-      "headline": "Goldin ke avashesh 10 km surang me mile",
-      "detail": "IDF ne ek saal baad bataya — Hamas ne Lt. Hadar Goldin ke avashesh Rafah ki 10 km lambi surang me rakhe the; June 2026 tak 16 km ka network 30,000 cubic meter concrete se seal kar diya gaya; avashesh 9 November 2025 ko laute the.",
-      "category": "World",
-      "exam_angle": "Gaza yuddhaviram aur bandhak wapsi — antarrashtriya sambandh ke liye mahatvapurna.",
-      "source": "UA News",
-      "source_url": "https://ua.news/en/dovkolo-svitu/tsakhal-zaiaviv-shcho-khamas-utrimuvav-ostanki-goldina-v-tuneli-rafakha-jerusalem-post",
-      "genuineness": "verified",
-      "outlets": [
-        "Jerusalem Post",
-        "Israel National News",
-        "Israel Today",
-        "UA News"
-      ],
-      "image": null,
-      "image_credit": null
-    },
-    {
-      "id": "world-20261110-1125-01",
-      "published_ist": "2026-11-10T07:39:00+05:30",
-      "headline": "Riyadh ki taraf do Houthi missile giraye",
-      "detail": "Saudi netritva wale gathbandhan ne Riyadh ki taraf daage gaye ek ballistic aur ek cruise missile ko rok kar nasht kar diya; dakshin kshetra ki taraf daaga ek aur missile bhi giraya gaya, koi nuksaan ki khabar nahi.",
-      "category": "World",
-      "exam_angle": "Houthi-Saudi tanav aur Hormuz — antarrashtriya sambandh ke liye mahatvapurna.",
-      "source": "Reuters",
-      "source_url": "https://www.reuters.com/world/middle-east/saudi-led-coalition-says-it-intercepts-two-houthi-missiles-fired-towards-riyadh-2026-11-10/",
-      "genuineness": "verified",
-      "outlets": [
-        "Reuters",
-        "Al Jazeera",
-        "The Economic Times"
-      ],
-      "image": null,
-      "image_credit": null
-    },
-    {
-      "id": "world-20261110-1125-02",
-      "published_ist": "2026-11-10T10:35:00+05:30",
-      "headline": "China ka trade surplus $1.04 trillion paar",
-      "detail": "China ka vyaapaar adhishesh January-October me $1.04 trillion raha — doosre saal $1 trillion paar, pichhle saal se ek mahina pehle; October me niryat 35.2% badha, AI upkaran ki maang ne badhat di.",
-      "category": "World",
-      "exam_angle": "China ki arthvyavastha aur vaishvik vyaapaar — arthvyavastha aur antarrashtriya sambandh ke liye mahatvapurna.",
-      "source": "The Hindu",
-      "source_url": "https://www.thehindu.com/news/international/china-says-2026-trade-surplus-surpassed-1-trillion-in-october/article71685001.ece",
-      "genuineness": "verified",
-      "outlets": [
-        "Reuters",
-        "CNN",
-        "The Hindu",
-        "The Economic Times"
-      ],
-      "image": null,
-      "image_credit": null
-    },
-    {
-      "id": "world-20261110-1125-03",
-      "published_ist": "2026-11-09T21:54:00+05:30",
-      "headline": "Syria: Yemen me sena bhejne ki yojana nahi",
-      "detail": "Syria ke videsh mantri Asaad al-Shaibani ne kaha Yemen me Syria ki koi sena nahi hai aur nikat bhavishya me bhejne ki yojana bhi nahi; Saudi Arabia ke saath raksha samjhauta sena punarnirman aur prashikshan tak seemit hai.",
-      "category": "World",
-      "exam_angle": "Paschimi Asia aur Saudi-Syria raksha samjhauta — antarrashtriya sambandh ke liye mahatvapurna.",
-      "source": "The National",
-      "source_url": "https://www.thenationalnews.com/news/mena/2026/11/09/syria-has-no-plans-to-send-troops-to-fight-houthis-in-yemen-in-near-future/",
-      "genuineness": "verified",
-      "outlets": [
-        "The National",
-        "TRT World",
-        "Rudaw",
-        "Arab News"
-      ],
-      "image": null,
-      "image_credit": null
-    },
-    {
-      "id": "world-20261110-1322-01",
-      "published_ist": "2026-11-10T12:10:00+05:30",
-      "headline": "Abu Dhabi me Ukraine shaanti vaarta shuru",
-      "detail": "Russia, Ukraine aur America ke beech do din ki teen-pakshiya vaarta Abu Dhabi me shuru hui — February ke baad pehli baar; suraksha guarantee aur yuddh-viraam par baat hogi.",
-      "category": "World",
-      "exam_angle": "Russia-Ukraine yuddh aur shaanti vaarta — antarrashtriya sambandh ke liye mahatvapurna.",
-      "source": "The Hindu",
-      "source_url": "https://www.thehindu.com/news/international/us-brokered-talks-are-set-to-start-in-abu-dhabi-to-discuss-ukraine-russia-peace-deal/article71685183.ece",
-      "genuineness": "verified",
-      "outlets": [
-        "AP",
-        "Reuters",
-        "Outlook India"
-      ],
-      "image": null,
-      "image_credit": null
-    },
-    {
-      "id": "world-20261110-1322-02",
-      "published_ist": "2026-11-10T00:19:00+05:30",
-      "headline": "Gaza me baadh, hazaaron tent doobe",
-      "detail": "Gaza me bhaari baarish se hazaaron tent doob gaye aur paanch logon ki maut hui; Board of Peace ne Israel se sardiyon ki sahayata turant dene ko kaha.",
-      "category": "World",
-      "exam_angle": "Gaza manaviya sankat aur Board of Peace — antarrashtriya sambandh ke liye mahatvapurna.",
-      "source": "Dawn",
-      "source_url": "https://www.dawn.com/news/2043318/trumps-board-of-peace-says-israel-too-slow-as-floods-ravage-gaza",
-      "genuineness": "verified",
-      "outlets": [
-        "AFP",
-        "Anadolu",
-        "Dawn",
-        "TRT World"
-      ],
-      "image": null,
-      "image_credit": null
-    },
-    {
-      "id": "world-20261110-1322-03",
-      "published_ist": "2026-11-09T14:18:00+05:30",
-      "headline": "Krakow hamle ka hamlaavaran hospital me mara",
-      "detail": "Krakow ke Main Market Square me golibaari karne wala 24 saal ka hamlaavaran hospital me mar gaya; hamle me chhah log mare gaye jinme ek British nagrik bhi hai, 16 ghayal hue.",
-      "category": "World",
-      "exam_angle": "Poland me 1989 ke baad sabse bada samuhik hamla — antarrashtriya suraksha ke liye mahatvapurna.",
-      "source": "Times of India",
-      "source_url": "https://timesofindia.indiatimes.com/world/europe/krakow-shooting-gunman-who-killed-six-people-dies-in-hospital/articleshow/135676414.cms",
-      "genuineness": "verified",
-      "outlets": [
-        "CNN",
-        "The Times",
-        "Times of India"
-      ],
-      "image": "../images/world/world-20261110-1322-03.jpg",
-      "image_credit": "Jorge Lascar, CC BY 2.0 (Wikimedia Commons)"
-    },
-    {
-      "id": "world-20261110-1322-04",
-      "published_ist": "2026-11-08T10:34:00+05:30",
-      "headline": "Eisenkot ko Israel sarkaar banane ka kaam",
-      "detail": "Israel ke Rashtrapati Herzog ne Gadi Eisenkot ko sarkaar banane ka kaam saunpa; 67 sansadon ne unka samarthan kiya, Netanyahu ko 46 mile; 28 din me gathbandhan banana hoga.",
-      "category": "World",
-      "exam_angle": "Israel me satta parivartan — antarrashtriya sambandh ke liye mahatvapurna.",
-      "source": "Times of India",
-      "source_url": "https://timesofindia.indiatimes.com/world/middle-east/is-netanyahus-time-up-10-things-to-know-as-rival-gadi-eisenkot-gets-shot-at-power-in-israel/articleshow/135651806.cms",
-      "genuineness": "verified",
-      "outlets": [
-        "Times of Israel",
-        "Haaretz",
-        "Times of India",
-        "Outlook India"
-      ],
-      "image": null,
-      "image_credit": null
-    },
-    {
-      "id": "world-20261110-1422-01",
-      "published_ist": "2026-11-10T09:14:00+05:30",
-      "headline": "Eisenkot ko Israel sarkar banane ka mauka",
-      "detail": "Rashtrapati Herzog ne Gadi Eisenkot ko sarkar banane ka pehla mauka diya — 67 sansadon ne sifarish ki; Netanyahu ki ekta-sarkar peshkash Yashar ne thukra di.",
-      "category": "World",
-      "exam_angle": "Israel me sarkar-gathan aur Netanyahu ke baad ki rajneeti — antarrashtriya sambandh ke liye mahatvapurna.",
-      "source": "Outlook India",
-      "source_url": "https://www.outlookindia.com/amp/story/international/israel-pm-race-gadi-eisenkot-replace-benjamin-netanyahu-government-formation-coalition-crisis-2026",
-      "genuineness": "verified",
-      "outlets": [
-        "Reuters",
-        "Dawn",
-        "Haaretz",
-        "Outlook India"
-      ],
-      "image": "../images/world/world-20261110-1422-01.jpg",
-      "image_credit": "Mark Neyman / GPO, CC BY-SA 3.0 (Wikimedia Commons)"
-    },
-    {
-      "id": "world-20261110-1422-02",
-      "published_ist": "2026-11-10T14:04:00+05:30",
-      "headline": "Anthropic ka $70bn IPO plan wapas liya",
-      "detail": "Anthropic ne $70–80 prati share par lagbhag 867 million share bechne ki IPO filing banks ko bheji, phir keemat galat batakar wapas le li; roadshow mangalvaar se shuru hone ki ummeed hai.",
-      "category": "World",
-      "exam_angle": "Duniya ka sabse bada AI IPO aur tech nivesh — arthvyavastha ke liye mahatvapurna.",
-      "source": "The Telegraph",
-      "source_url": "https://www.telegraphindia.com/amp/business/anthropics-blockbuster-usd-70-billion-ipo-plan-briefly-sent-to-banks-then-pulled-back/cid/2188723",
-      "genuineness": "corroborated",
-      "outlets": [
-        "Reuters",
-        "CoinCentral"
-      ],
-      "image": null,
-      "image_credit": null
-    }
-  ]
+ "date": "2026-11-10",
+ "items": [
+  {
+   "id": "world-20261110-0822-03",
+   "published_ist": "2026-11-10T08:24:00+05:30",
+   "headline": "Damascus me Macron ke hotel ke paas do dhamake",
+   "detail": "Syria yatra ke dusre din Damascus me Four Seasons Hotel ke paas do visfot hue, 18 log ghayal hue jinme chaar policekarmi hain; Macron surakshit hain aur unki yatra jaari rahegi.",
+   "category": "World",
+   "exam_angle": "Assad ke baad Syria me pehli badi pashchimi yatra — antarrashtriya sambandh ke liye mahatvapurna.",
+   "source": "RNZ (AFP)",
+   "source_url": "https://www.rnz.co.nz/news/world/684290/bomb-attacks-wound-18-in-damascus-as-french-president-emmanuel-macron-visits",
+   "genuineness": "verified",
+   "outlets": [
+    "AFP",
+    "RNZ",
+    "Zee News"
+   ],
+   "image": null,
+   "image_credit": null
+  },
+  {
+   "id": "world-20261110-0822-02",
+   "published_ist": "2026-11-10T06:25:00+05:30",
+   "headline": "Houthi hamle me Riyadh ki Aramco imarat ko nuksaan",
+   "detail": "Yemen ke Houthi samuh ke hamle me Riyadh ki Aramco prashasanik imarat ko seemit nuksaan pahuncha, koi hatahat nahi; Houthi ne zimmedari li, aur Madina me East-West tel pipeline par bhi hamla hua, aag bujha di gayi.",
+   "category": "World",
+   "exam_angle": "Hormuz aur Paschimi Asia me tanaav — antarrashtriya sambandh ke liye mahatvapurna.",
+   "source": "Reuters",
+   "source_url": "https://www.reuters.com/world/middle-east/saudi-official-inspects-aramco-riyadh-office-after-houthi-attack-2026-11-10/",
+   "genuineness": "corroborated",
+   "outlets": [
+    "Reuters",
+    "SPA"
+   ],
+   "image": null,
+   "image_credit": null
+  },
+  {
+   "id": "world-20261110-0822-04",
+   "published_ist": "2026-11-10T04:25:00+05:30",
+   "headline": "Nvidia aarop: America me chip kanoon sakht hoga",
+   "detail": "Nvidia ke CEO Jensen Huang ke ek sandehspad Chinese agent se sambandh ki khabar ke baad America ki Congress chip niryat par sakht kanoon lane ki taraf badh rahi hai; China ne aarop ko 'smear campaign' kaha hai.",
+   "category": "World",
+   "exam_angle": "America-China chip yuddh aur takniki pratibandh — antarrashtriya sambandh ke liye mahatvapurna.",
+   "source": "Reuters",
+   "source_url": "https://www.reuters.com/legal/litigation/nvidia-spy-allegations-likely-spur-laws-to-tighten-chinas-access-ai-chips-2026-11-09/",
+   "genuineness": "corroborated",
+   "outlets": [
+    "Reuters",
+    "Tribune India",
+    "Mathrubhumi"
+   ],
+   "image": null,
+   "image_credit": null
+  },
+  {
+   "id": "world-20261110-0622-02",
+   "published_ist": "2026-11-10T04:01:00+05:30",
+   "headline": "Trump: Iran se jang 'practically khatm'",
+   "detail": "Qatar ke pradhanmantri se mulaqaat ke baad Trump ne kaha Iran sainya roop se 'effectively over' hai aur hamle dobara shuru hona 'quite unlikely' hai; nausainik nakabandi aur Operation Iron Gate jaari rahenge.",
+   "category": "World",
+   "exam_angle": "Iran yuddh aur Paschimi Asia ki sthiti — antarrashtriya sambandh ke liye mahatvapurna.",
+   "source": "Al Jazeera",
+   "source_url": "https://www.aljazeera.com/news/2026/11/9/trump-calls-iran-war-effectively-over-after-talks-with-qatar-pm",
+   "genuineness": "verified",
+   "outlets": [
+    "Al Jazeera",
+    "AP",
+    "New York Post"
+   ],
+   "image": null,
+   "image_credit": null
+  },
+  {
+   "id": "world-20261110-0922-01",
+   "published_ist": "2026-11-10T00:57:00+05:30",
+   "headline": "Pope ne Argentina me peediton se mulaqaat ki",
+   "detail": "Pope Leo XIV ne Buenos Aires me paanch pujari-durvyavahar peediton se ek ghante se zyada baat ki; Vatican ne kaha — suraksha upaay mazboot karne ka vaada, yatra me aisi aur mulaqaatein hongi.",
+   "category": "World",
+   "exam_angle": "Pope ki Latin America yatra aur Vatican ki suraksha neeti — antarrashtriya sambandh ke liye mahatvapurna.",
+   "source": "Al Jazeera",
+   "source_url": "https://www.aljazeera.com/amp/news/2026/11/9/pope-meets-with-clergy-abuse-survivors-in-argentina",
+   "genuineness": "verified",
+   "outlets": [
+    "Reuters",
+    "AP",
+    "Al Jazeera",
+    "Channel News Asia"
+   ],
+   "image": "../images/world/world-20261110-0922-01.jpg",
+   "image_credit": "Al Jazeera"
+  },
+  {
+   "id": "world-20261110-0622-01",
+   "published_ist": "2026-11-10T00:12:00+05:30",
+   "headline": "Russia-Ukraine: Zameen par narmi ke sanket",
+   "detail": "Abu Dhabi me aaj se shuru ho rahi America ki madhyasthata wali vaarta se pehle ek americi adhikari ne kaha — dono paksh niji taur par zameen ki adla-badli par lacheele hain; Ukraine ke liye suraksha guarantee bhi agenda me hai.",
+   "category": "World",
+   "exam_angle": "Abu Dhabi vaarta aur Ukraine yuddh — antarrashtriya sambandh ke liye mahatvapurna.",
+   "source": "Reuters",
+   "source_url": "https://www.reuters.com/world/europe/russia-ukraine-showing-flexibility-territory-us-official-says-2026-11-09/",
+   "genuineness": "corroborated",
+   "outlets": [
+    "Reuters",
+    "The Straits Times"
+   ],
+   "image": null,
+   "image_credit": null
+  },
+  {
+   "id": "world-20261110-0722-01",
+   "published_ist": "2026-11-09T22:20:00+05:30",
+   "headline": "Pope ki Buenos Aires sabha me 25 lakh",
+   "detail": "Pope Leo XIV ki Buenos Aires me khuli sabha me Vatican ke mutabik 25 lakh log jute — 1987 ke baad Argentina ki pehli papal yatra me unke karyakal ki sabse badi bheed; Pope ne samaj ke sabse kamzor varg ki suraksha ki appeal ki.",
+   "category": "World",
+   "exam_angle": "Pope ki Latin America yatra aur Vatican ki bhoomika — antarrashtriya sambandh ke liye mahatvapurna.",
+   "source": "Korea Times (Reuters)",
+   "source_url": "https://www.koreatimes.co.kr/world/20261110/pope-leo-mass-in-buenos-aires-draws-record-crowd-of-25-million-vatican-says",
+   "genuineness": "verified",
+   "outlets": [
+    "Reuters",
+    "AFP",
+    "Buenos Aires Herald"
+   ],
+   "image": "../images/world/world-20261110-0722-01.jpg",
+   "image_credit": "Gobierno de la Ciudad de Buenos Aires (CC BY 2.5 ar)"
+  },
+  {
+   "id": "world-20261110-0722-02",
+   "published_ist": "2026-11-09T22:03:00+05:30",
+   "headline": "France: Iran ne supermarket fridge hack kiye",
+   "detail": "France ne kaha October me 700 supermarkets ke fridge hack karne ke peeche Iran ke IRGC se judi Shahid Kaveh unit thi; Iran ke raajdoot ko bulaya gaya aur EU pratibandh ki maang ki gayi.",
+   "category": "World",
+   "exam_angle": "Cyber hamla aur Iran-France tanav — antarrashtriya suraksha ke liye mahatvapurna.",
+   "source": "Al Jazeera",
+   "source_url": "https://www.aljazeera.com/amp/news/2026/11/9/france-accuses-iran-of-cyberattack-on-european-fridges",
+   "genuineness": "verified",
+   "outlets": [
+    "Reuters",
+    "Al Jazeera",
+    "CNN",
+    "AP"
+   ],
+   "image": null,
+   "image_credit": null
+  },
+  {
+   "id": "world-20261110-0922-02",
+   "published_ist": "2026-11-09T20:29:00+05:30",
+   "headline": "China ne America par niyantran ki rok badhayi",
+   "detail": "China ne 11 americi sansthaon par pratibandh aur 16 sansthaon ko dual-use vastuon ke niryat par rok do mahine aur badha di; 24% atirikt tariff par rok bhi aaj se do mahine badhegi.",
+   "category": "World",
+   "exam_angle": "China-America vyaapaar vaarta aur niryat niyantran — arthvyavastha aur antarrashtriya sambandh ke liye mahatvapurna.",
+   "source": "China Daily",
+   "source_url": "https://www.chinadaily.com.cn/a/202611/09/WS6af1dfe2e4b03ebf8519b610.html",
+   "genuineness": "corroborated",
+   "outlets": [
+    "China Daily",
+    "BusinessToday"
+   ],
+   "image": null,
+   "image_credit": null
+  },
+  {
+   "id": "world-20261110-1022-02",
+   "published_ist": "2026-11-09T19:21:00+05:30",
+   "headline": "COP31 Antalya me shuru, bijli par zor",
+   "detail": "Turkiye ke Antalya me COP31 shuru hua — Turkiye mezban, Australia vaarta ka netritva karega; 2035 tak bijli ki hissedari 35% karne ka prastaav aur jalvayu vitt par zor.",
+   "category": "World",
+   "exam_angle": "COP31 aur Paris samjhauta — paryavaran aur antarrashtriya sambandh ke liye mahatvapurna.",
+   "source": "COP31 Presidency",
+   "source_url": "https://cop31.tr/news-detail/cop31-president-opens-un-climate-summit-calls-for-action",
+   "genuineness": "verified",
+   "outlets": [
+    "COP31 Presidency",
+    "Le Monde",
+    "The Cable"
+   ],
+   "image": null,
+   "image_credit": null
+  },
+  {
+   "id": "world-20261110-0822-01",
+   "published_ist": "2026-11-09T19:14:00+05:30",
+   "headline": "Paraguay: Hataye gaye rashtrapati ke ghar chhapa",
+   "detail": "Ueno Bank ke dhahne ke baad Senate ne shukravaar ko rashtrapati Santiago Peña ko pad se hataya; ravivaar ko police ne unke ghar par chhapa mara, unpar vishwasghat aur niji laabh ke aarop hain, aur ve sainya suvidha me hirasat me hain.",
+   "category": "World",
+   "exam_angle": "Bank sankat se rashtrapati ka patan — Latin America ki rajniti aur banking niyaman ke liye mahatvapurna.",
+   "source": "Al Jazeera",
+   "source_url": "https://www.aljazeera.com/news/2026/11/9/paraguay-raids-ex-presidents-home-why-a-bank-crash-brought-down-pena?traffic_source=rss",
+   "genuineness": "verified",
+   "outlets": [
+    "Al Jazeera",
+    "AP",
+    "AFP"
+   ],
+   "image": "../images/world/world-20261110-0822-01.jpg",
+   "image_credit": "Office of the President, Taiwan (CC BY 4.0)"
+  },
+  {
+   "id": "world-20261110-1022-03",
+   "published_ist": "2026-11-09T18:25:00+05:30",
+   "headline": "Japan Philippines ko radar-drone dega",
+   "detail": "Japan ne Philippines ko 4.3 arab yen ($27 million) ke tahat tateeya radar aur nigrani drone dene ka samjhauta kiya — OSA ke tahat pehli baar taiyaar raksha upkaran ka transfer.",
+   "category": "World",
+   "exam_angle": "Dakshin Cheen Sagar aur Japan-Philippines raksha sahyog — antarrashtriya sambandh ke liye mahatvapurna.",
+   "source": "NHK",
+   "source_url": "https://www3.nhk.or.jp/nhkworld/news/20261109de73177/",
+   "genuineness": "verified",
+   "outlets": [
+    "NHK",
+    "Nikkei Asia",
+    "AP"
+   ],
+   "image": null,
+   "image_credit": null
+  },
+  {
+   "id": "world-20261110-0622-04",
+   "published_ist": "2026-11-09T17:57:00+05:30",
+   "headline": "IMF ki Ukraine sameeksha se $1.67bn milega",
+   "detail": "IMF ne Ukraine ke $8.1bn karz karyakram ki doosri-teesri sameeksha shuru ki; manzoori par $1.67bn ki kisht milegi, jabki Ukraine ko agle saal $70bn ki kami ka saamna hai.",
+   "category": "World",
+   "exam_angle": "IMF aur Ukraine arthvyavastha — antarrashtriya vittiya sansthaon ke liye mahatvapurna.",
+   "source": "Reuters",
+   "source_url": "https://www.reuters.com/business/imf-launches-ukraine-loan-review-that-could-unlock-167-billion-2026-11-09/",
+   "genuineness": "verified",
+   "outlets": [
+    "Reuters",
+    "Kyiv Independent",
+    "Interfax-Ukraine"
+   ],
+   "image": null,
+   "image_credit": null
+  },
+  {
+   "id": "world-20261110-0622-05",
+   "published_ist": "2026-11-09T17:50:00+05:30",
+   "headline": "Canada ne Russia par naye pratibandh lagaye",
+   "detail": "Canada ne Paris me G7 mantriyon ki baithak ke dauraan Russia ki 38 sansthaon aur 24 vyaktiyon par pratibandh lagaye — ballistic missile takneek, cyber gatividhi aur crypto ke zariye yuddh ko fund karne wale network nishane par.",
+   "category": "World",
+   "exam_angle": "Pratibandh aur G7 — antarrashtriya sambandh ke liye mahatvapurna.",
+   "source": "Government of Canada",
+   "source_url": "https://www.canada.ca/en/global-affairs/news/2026/11/minister-anand-announces-additional-sanctions-to-reduce-russias-missile-capabilities-and-raise-economic-costs.html",
+   "genuineness": "verified",
+   "outlets": [
+    "Government of Canada",
+    "Reuters",
+    "Kyiv Independent"
+   ],
+   "image": null,
+   "image_credit": null
+  },
+  {
+   "id": "world-20261110-0722-03",
+   "published_ist": "2026-11-09T15:41:00+05:30",
+   "headline": "APEC me Trump-Xi-Putin mulakaat sambhav",
+   "detail": "Trump ne kaha Shenzhen me 18-19 November ko APEC shikhar ke dauraan Xi Jinping aur Putin se milne ki ummeed hai; agenda me Ukraine yuddh, Iran aur parmanu hathiyar niyantran; Beijing ne baatchit se inkaar nahi kiya.",
+   "category": "World",
+   "exam_angle": "APEC aur mahashaktiyon ki tri-pakshiya baatchit — antarrashtriya sambandh ke liye mahatvapurna.",
+   "source": "The Hindu",
+   "source_url": "https://www.thehindu.com/news/international/us-china-russia-leaders-to-meet-next-week-says-trump-beijing-says-in-communication-with-parties/article71682111.ece",
+   "genuineness": "verified",
+   "outlets": [
+    "Reuters",
+    "The Hindu",
+    "AP",
+    "Times Now"
+   ],
+   "image": null,
+   "image_credit": null
+  },
+  {
+   "id": "world-20261110-0622-03",
+   "published_ist": "2026-11-09T14:44:00+05:30",
+   "headline": "China ne rare earth rok January tak badhayi",
+   "detail": "China ne naye rare earth niryat niyantran par rok do mahine badha di, ab 10 January tak; America ke saath vyaapaar samjhaute par baatchit jaari hai aur 24% tariff par rok bhi badhi hai.",
+   "category": "World",
+   "exam_angle": "Rare earth aur China-America vyaapaar — arthvyavastha aur antarrashtriya sambandh ke liye mahatvapurna.",
+   "source": "Reuters",
+   "source_url": "https://www.reuters.com/world/china/china-extends-suspension-new-rare-earth-controls-until-january-2026-11-09/",
+   "genuineness": "corroborated",
+   "outlets": [
+    "Reuters",
+    "The National"
+   ],
+   "image": null,
+   "image_credit": null
+  },
+  {
+   "id": "world-20261110-0722-04",
+   "published_ist": "2026-11-09T11:48:00+05:30",
+   "headline": "Goldin ke avashesh 10 km surang me mile",
+   "detail": "IDF ne ek saal baad bataya — Hamas ne Lt. Hadar Goldin ke avashesh Rafah ki 10 km lambi surang me rakhe the; June 2026 tak 16 km ka network 30,000 cubic meter concrete se seal kar diya gaya; avashesh 9 November 2025 ko laute the.",
+   "category": "World",
+   "exam_angle": "Gaza yuddhaviram aur bandhak wapsi — antarrashtriya sambandh ke liye mahatvapurna.",
+   "source": "UA News",
+   "source_url": "https://ua.news/en/dovkolo-svitu/tsakhal-zaiaviv-shcho-khamas-utrimuvav-ostanki-goldina-v-tuneli-rafakha-jerusalem-post",
+   "genuineness": "verified",
+   "outlets": [
+    "Jerusalem Post",
+    "Israel National News",
+    "Israel Today",
+    "UA News"
+   ],
+   "image": null,
+   "image_credit": null
+  },
+  {
+   "id": "world-20261110-1125-01",
+   "published_ist": "2026-11-10T07:39:00+05:30",
+   "headline": "Riyadh ki taraf do Houthi missile giraye",
+   "detail": "Saudi netritva wale gathbandhan ne Riyadh ki taraf daage gaye ek ballistic aur ek cruise missile ko rok kar nasht kar diya; dakshin kshetra ki taraf daaga ek aur missile bhi giraya gaya, koi nuksaan ki khabar nahi.",
+   "category": "World",
+   "exam_angle": "Houthi-Saudi tanav aur Hormuz — antarrashtriya sambandh ke liye mahatvapurna.",
+   "source": "Reuters",
+   "source_url": "https://www.reuters.com/world/middle-east/saudi-led-coalition-says-it-intercepts-two-houthi-missiles-fired-towards-riyadh-2026-11-10/",
+   "genuineness": "verified",
+   "outlets": [
+    "Reuters",
+    "Al Jazeera",
+    "The Economic Times"
+   ],
+   "image": null,
+   "image_credit": null
+  },
+  {
+   "id": "world-20261110-1125-02",
+   "published_ist": "2026-11-10T10:35:00+05:30",
+   "headline": "China ka trade surplus $1.04 trillion paar",
+   "detail": "China ka vyaapaar adhishesh January-October me $1.04 trillion raha — doosre saal $1 trillion paar, pichhle saal se ek mahina pehle; October me niryat 35.2% badha, AI upkaran ki maang ne badhat di.",
+   "category": "World",
+   "exam_angle": "China ki arthvyavastha aur vaishvik vyaapaar — arthvyavastha aur antarrashtriya sambandh ke liye mahatvapurna.",
+   "source": "The Hindu",
+   "source_url": "https://www.thehindu.com/news/international/china-says-2026-trade-surplus-surpassed-1-trillion-in-october/article71685001.ece",
+   "genuineness": "verified",
+   "outlets": [
+    "Reuters",
+    "CNN",
+    "The Hindu",
+    "The Economic Times"
+   ],
+   "image": null,
+   "image_credit": null
+  },
+  {
+   "id": "world-20261110-1125-03",
+   "published_ist": "2026-11-09T21:54:00+05:30",
+   "headline": "Syria: Yemen me sena bhejne ki yojana nahi",
+   "detail": "Syria ke videsh mantri Asaad al-Shaibani ne kaha Yemen me Syria ki koi sena nahi hai aur nikat bhavishya me bhejne ki yojana bhi nahi; Saudi Arabia ke saath raksha samjhauta sena punarnirman aur prashikshan tak seemit hai.",
+   "category": "World",
+   "exam_angle": "Paschimi Asia aur Saudi-Syria raksha samjhauta — antarrashtriya sambandh ke liye mahatvapurna.",
+   "source": "The National",
+   "source_url": "https://www.thenationalnews.com/news/mena/2026/11/09/syria-has-no-plans-to-send-troops-to-fight-houthis-in-yemen-in-near-future/",
+   "genuineness": "verified",
+   "outlets": [
+    "The National",
+    "TRT World",
+    "Rudaw",
+    "Arab News"
+   ],
+   "image": null,
+   "image_credit": null
+  },
+  {
+   "id": "world-20261110-1322-01",
+   "published_ist": "2026-11-10T12:10:00+05:30",
+   "headline": "Abu Dhabi me Ukraine shaanti vaarta shuru",
+   "detail": "Russia, Ukraine aur America ke beech do din ki teen-pakshiya vaarta Abu Dhabi me shuru hui — February ke baad pehli baar; suraksha guarantee aur yuddh-viraam par baat hogi.",
+   "category": "World",
+   "exam_angle": "Russia-Ukraine yuddh aur shaanti vaarta — antarrashtriya sambandh ke liye mahatvapurna.",
+   "source": "The Hindu",
+   "source_url": "https://www.thehindu.com/news/international/us-brokered-talks-are-set-to-start-in-abu-dhabi-to-discuss-ukraine-russia-peace-deal/article71685183.ece",
+   "genuineness": "verified",
+   "outlets": [
+    "AP",
+    "Reuters",
+    "Outlook India"
+   ],
+   "image": null,
+   "image_credit": null
+  },
+  {
+   "id": "world-20261110-1322-02",
+   "published_ist": "2026-11-10T00:19:00+05:30",
+   "headline": "Gaza me baadh, hazaaron tent doobe",
+   "detail": "Gaza me bhaari baarish se hazaaron tent doob gaye aur paanch logon ki maut hui; Board of Peace ne Israel se sardiyon ki sahayata turant dene ko kaha.",
+   "category": "World",
+   "exam_angle": "Gaza manaviya sankat aur Board of Peace — antarrashtriya sambandh ke liye mahatvapurna.",
+   "source": "Dawn",
+   "source_url": "https://www.dawn.com/news/2043318/trumps-board-of-peace-says-israel-too-slow-as-floods-ravage-gaza",
+   "genuineness": "verified",
+   "outlets": [
+    "AFP",
+    "Anadolu",
+    "Dawn",
+    "TRT World"
+   ],
+   "image": null,
+   "image_credit": null
+  },
+  {
+   "id": "world-20261110-1322-03",
+   "published_ist": "2026-11-09T14:18:00+05:30",
+   "headline": "Krakow hamle ka hamlaavaran hospital me mara",
+   "detail": "Krakow ke Main Market Square me golibaari karne wala 24 saal ka hamlaavaran hospital me mar gaya; hamle me chhah log mare gaye jinme ek British nagrik bhi hai, 16 ghayal hue.",
+   "category": "World",
+   "exam_angle": "Poland me 1989 ke baad sabse bada samuhik hamla — antarrashtriya suraksha ke liye mahatvapurna.",
+   "source": "Times of India",
+   "source_url": "https://timesofindia.indiatimes.com/world/europe/krakow-shooting-gunman-who-killed-six-people-dies-in-hospital/articleshow/135676414.cms",
+   "genuineness": "verified",
+   "outlets": [
+    "CNN",
+    "The Times",
+    "Times of India"
+   ],
+   "image": "../images/world/world-20261110-1322-03.jpg",
+   "image_credit": "Jorge Lascar, CC BY 2.0 (Wikimedia Commons)"
+  },
+  {
+   "id": "world-20261110-1322-04",
+   "published_ist": "2026-11-08T10:34:00+05:30",
+   "headline": "Eisenkot ko Israel sarkaar banane ka kaam",
+   "detail": "Israel ke Rashtrapati Herzog ne Gadi Eisenkot ko sarkaar banane ka kaam saunpa; 67 sansadon ne unka samarthan kiya, Netanyahu ko 46 mile; 28 din me gathbandhan banana hoga.",
+   "category": "World",
+   "exam_angle": "Israel me satta parivartan — antarrashtriya sambandh ke liye mahatvapurna.",
+   "source": "Times of India",
+   "source_url": "https://timesofindia.indiatimes.com/world/middle-east/is-netanyahus-time-up-10-things-to-know-as-rival-gadi-eisenkot-gets-shot-at-power-in-israel/articleshow/135651806.cms",
+   "genuineness": "verified",
+   "outlets": [
+    "Times of Israel",
+    "Haaretz",
+    "Times of India",
+    "Outlook India"
+   ],
+   "image": null,
+   "image_credit": null
+  },
+  {
+   "id": "world-20261110-1422-01",
+   "published_ist": "2026-11-10T09:14:00+05:30",
+   "headline": "Eisenkot ko Israel sarkar banane ka mauka",
+   "detail": "Rashtrapati Herzog ne Gadi Eisenkot ko sarkar banane ka pehla mauka diya — 67 sansadon ne sifarish ki; Netanyahu ki ekta-sarkar peshkash Yashar ne thukra di.",
+   "category": "World",
+   "exam_angle": "Israel me sarkar-gathan aur Netanyahu ke baad ki rajneeti — antarrashtriya sambandh ke liye mahatvapurna.",
+   "source": "Outlook India",
+   "source_url": "https://www.outlookindia.com/amp/story/international/israel-pm-race-gadi-eisenkot-replace-benjamin-netanyahu-government-formation-coalition-crisis-2026",
+   "genuineness": "verified",
+   "outlets": [
+    "Reuters",
+    "Dawn",
+    "Haaretz",
+    "Outlook India"
+   ],
+   "image": "../images/world/world-20261110-1422-01.jpg",
+   "image_credit": "Mark Neyman / GPO, CC BY-SA 3.0 (Wikimedia Commons)"
+  },
+  {
+   "id": "world-20261110-1422-02",
+   "published_ist": "2026-11-10T14:04:00+05:30",
+   "headline": "Anthropic ka $70bn IPO plan wapas liya",
+   "detail": "Anthropic ne $70–80 prati share par lagbhag 867 million share bechne ki IPO filing banks ko bheji, phir keemat galat batakar wapas le li; roadshow mangalvaar se shuru hone ki ummeed hai.",
+   "category": "World",
+   "exam_angle": "Duniya ka sabse bada AI IPO aur tech nivesh — arthvyavastha ke liye mahatvapurna.",
+   "source": "The Telegraph",
+   "source_url": "https://www.telegraphindia.com/amp/business/anthropics-blockbuster-usd-70-billion-ipo-plan-briefly-sent-to-banks-then-pulled-back/cid/2188723",
+   "genuineness": "corroborated",
+   "outlets": [
+    "Reuters",
+    "CoinCentral"
+   ],
+   "image": null,
+   "image_credit": null
+  },
+  {
+   "id": "world-20261110-1627-01",
+   "published_ist": "2026-11-10T16:23:00+05:30",
+   "headline": "Denmark Ukraine ko $721 million ke hathiyar dega",
+   "detail": "Denmark Ukraine ko 4.8 billion kroner (lagbhag $721 million) ke sainya upkaran dega; videsh mantri ne TV2 ko bataya, yeh 32va sahayata package hoga.",
+   "category": "World",
+   "exam_angle": "Denmark ki Ukraine sahayata aur NATO sahyog",
+   "source": "Militarnyi",
+   "source_url": "https://militarnyi.com/en/news/640-million-on-weapons-denmark-to-provide-ukraine-with-32nd-defence-aid-package/",
+   "genuineness": "corroborated",
+   "outlets": [
+    "DR",
+    "Times Now"
+   ],
+   "image": null,
+   "image_credit": null
+  },
+  {
+   "id": "world-20261110-1627-02",
+   "published_ist": "2026-11-10T15:51:00+05:30",
+   "headline": "8 kshetron me Ukraine ki bijli par hamla",
+   "detail": "Ukrenergo ke anusaar Russia ne raat bhar Kyiv, Kharkiv, Sumy sahit 8 kshetron ki oorja suvidhaon par hamla kiya, 6 kshetron me bijli gul ho gayi.",
+   "category": "World",
+   "exam_angle": "Russia-Ukraine yuddh: oorja dhaanche par hamle",
+   "source": "Reuters",
+   "source_url": "https://www.reuters.com/business/energy/russia-attacks-energy-facilities-eight-ukrainian-regions-grid-operator-says-2026-11-10/",
+   "genuineness": "verified",
+   "outlets": [
+    "Reuters",
+    "Ukrinform",
+    "UNN",
+    "LB.ua"
+   ],
+   "image": null,
+   "image_credit": null
+  }
+ ]
 }
