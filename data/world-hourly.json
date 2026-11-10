@@ -1,5 +1,5 @@
 {
-  "updated_ist": "2026-11-10T09:25:53+05:30",
+  "updated_ist": "2026-11-10T10:27:13+05:30",
   "items": [
     {
       "id": "world-20261110-0822-03",
@@ -220,6 +220,24 @@
       "image_credit": "Al Jazeera"
     },
     {
+      "id": "world-20261110-1022-02",
+      "published_ist": "2026-11-09T19:21:00+05:30",
+      "headline": "COP31 Antalya me shuru, bijli par zor",
+      "detail": "Turkiye ke Antalya me COP31 shuru hua — Turkiye mezban, Australia vaarta ka netritva karega; 2035 tak bijli ki hissedari 35% karne ka prastaav aur jalvayu vitt par zor.",
+      "category": "World",
+      "exam_angle": "COP31 aur Paris samjhauta — paryavaran aur antarrashtriya sambandh ke liye mahatvapurna.",
+      "source": "COP31 Presidency",
+      "source_url": "https://cop31.tr/news-detail/cop31-president-opens-un-climate-summit-calls-for-action",
+      "genuineness": "verified",
+      "outlets": [
+        "COP31 Presidency",
+        "Le Monde",
+        "The Cable"
+      ],
+      "image": null,
+      "image_credit": null
+    },
+    {
       "id": "world-20261110-0822-01",
       "published_ist": "2026-11-09T19:14:00+05:30",
       "headline": "Paraguay: Hataye gaye rashtrapati ke ghar chhapa",
@@ -252,6 +270,24 @@
         "AFP",
         "Firstpost",
         "Bianet"
+      ],
+      "image": null,
+      "image_credit": null
+    },
+    {
+      "id": "world-20261110-1022-03",
+      "published_ist": "2026-11-09T18:25:00+05:30",
+      "headline": "Japan Philippines ko radar-drone dega",
+      "detail": "Japan ne Philippines ko 4.3 arab yen ($27 million) ke tahat tateeya radar aur nigrani drone dene ka samjhauta kiya — OSA ke tahat pehli baar taiyaar raksha upkaran ka transfer.",
+      "category": "World",
+      "exam_angle": "Dakshin Cheen Sagar aur Japan-Philippines raksha sahyog — antarrashtriya sambandh ke liye mahatvapurna.",
+      "source": "NHK",
+      "source_url": "https://www3.nhk.or.jp/nhkworld/news/20261109de73177/",
+      "genuineness": "verified",
+      "outlets": [
+        "NHK",
+        "Nikkei Asia",
+        "AP"
       ],
       "image": null,
       "image_credit": null
@@ -405,45 +441,6 @@
         "The Hindu",
         "AP",
         "Times Now"
-      ],
-      "image": null,
-      "image_credit": null
-    },
-    {
-      "id": "world-20261109-2222-04",
-      "published_ist": "2026-11-09T15:09:00+05:30",
-      "headline": "Bangladesh ne Hasina ka passport thukraya",
-      "detail": "Dhaka ne Hasina ke naye passport aur NID ke anurodh ko kharij kiya aur Bharat se unke pratyarpan ki maang dohrai.",
-      "category": "World",
-      "exam_angle": "Bangladesh me rajnaitik sankat aur Bharat-Bangladesh sambandh — antarrashtriya sambandh ke liye mahatvapurna.",
-      "source": "Firstpost",
-      "source_url": "https://www.firstpost.com/world/sheikh-hasina-bangladesh-return-passport-request-matrix-chambers-letter-extradition-umhayun-kabir-statement-14058785.html",
-      "genuineness": "verified",
-      "outlets": [
-        "Reuters",
-        "Firstpost",
-        "Telegraph India",
-        "The Straits Times"
-      ],
-      "image": null,
-      "image_credit": null
-    },
-    {
-      "id": "world-20261109-1622-01",
-      "published_ist": "2026-11-09T15:04:00+05:30",
-      "headline": "Iran: Do din me vaarta ka prastaav",
-      "detail": "Iran ne kaha — do din me America se shanti vaarta phir shuru ho sakti hai; shart hai pratibandh aur nausena naakabandi hate aur har morche par yuddh ruke; America ke videsh mantri Rubio ne in sharton ko kharij kar diya tha.",
-      "category": "World",
-      "exam_angle": "America-Iran parmanu vaarta aur pratibandh — antarrashtriya sambandh ke liye mahatvapurna.",
-      "source": "Reuters",
-      "source_url": "https://www.reuters.com/world/iran-defends-two-day-proposal-peace-talks-after-us-rejects-conditions-2026-11-09/",
-      "genuineness": "corroborated",
-      "outlets": [
-        "Reuters",
-        "The Jerusalem Post",
-        "Arab News",
-        "The Hindu BusinessLine",
-        "Channel News Asia"
       ],
       "image": null,
       "image_credit": null
