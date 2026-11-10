@@ -212,6 +212,76 @@
     ],
     "answer_index": 1
    }
+  },
+  {
+   "episode": 104,
+   "video_hi": "TD-XVjeLHuM",
+   "video_hinglish": "TD-XVjeLHuM",
+   "capsules": [
+    {
+     "id": "ca-ep104-s1",
+     "headline_hi": "Berozgari 5.1% par aayi, grameen mein rahat",
+     "headline_hinglish": "Berozgari 5.1% par aayi, grameen mein rahat",
+     "detail_hi": "PLFS July-September 2026: berozgari 5.4% se girkar 5.1% hui, grameen 4.3% par.",
+     "detail_hinglish": "PLFS July-September 2026: berozgari 5.4% se girkar 5.1% hui, grameen 4.3% par.",
+     "category_hi": "Economy",
+     "category_en": "Economy"
+    },
+    {
+     "id": "ca-ep104-s2",
+     "headline_hi": "Dilli mein Yamuna par pehli cruise safari",
+     "headline_hinglish": "Dilli mein Yamuna par pehli cruise safari",
+     "detail_hi": "Namo Yamuna River Safari shuru, Sonia Vihar se Jagatpur tak 6 kilometre ka safar.",
+     "detail_hinglish": "Namo Yamuna River Safari shuru, Sonia Vihar se Jagatpur tak 6 kilometre ka safar.",
+     "category_hi": "Infrastructure",
+     "category_en": "National"
+    },
+    {
+     "id": "ca-ep104-s3",
+     "headline_hi": "RBI ne Abhyudaya Bank par rok ek saal badhai",
+     "headline_hinglish": "RBI ne Abhyudaya Bank par rok ek saal badhai",
+     "detail_hi": "Mumbai ke Abhyudaya Co-operative Bank ke board ki supersession 24 November 2026 se ek saal aur badhi.",
+     "detail_hinglish": "Mumbai ke Abhyudaya Co-operative Bank ke board ki supersession 24 November 2026 se ek saal aur badhi.",
+     "category_hi": "Banking",
+     "category_en": "Banking"
+    },
+    {
+     "id": "ca-ep104-s4",
+     "headline_hi": "Pehli Bharatiya jodi WTA doubles final mein",
+     "headline_hinglish": "Pehli Bharatiya jodi WTA doubles final mein",
+     "detail_hi": "Vaishnavi Adkar aur Rutuja Bhosale Chennai Open mein pehli all-Indian jodi bankar final mein pahunchein.",
+     "detail_hinglish": "Vaishnavi Adkar aur Rutuja Bhosale Chennai Open mein pehli all-Indian jodi bankar final mein pahunchein.",
+     "category_hi": "Sports",
+     "category_en": "Sports"
+    },
+    {
+     "id": "ca-ep104-s5",
+     "headline_hi": "Yemen se 19 Bharatiya navik surakshit nikale",
+     "headline_hinglish": "Yemen se 19 Bharatiya navik surakshit nikale",
+     "detail_hi": "Bharatiya dutawas ne Hodeidah aur Sana'a mein do hafte se fase 19 navikon ko nikala.",
+     "detail_hinglish": "Bharatiya dutawas ne Hodeidah aur Sana'a mein do hafte se fase 19 navikon ko nikala.",
+     "category_hi": "International",
+     "category_en": "National"
+    }
+   ],
+   "mcq": {
+    "id": "ca-ep104-mcq",
+    "q_hi": "July-September 2026 mein Bharat ki berozgari dar kitni rahi?",
+    "q_hinglish": "July-September 2026 mein Bharat ki berozgari dar kitni rahi?",
+    "options_hi": [
+     "5.4%",
+     "6.8%",
+     "5.1%",
+     "4.3%"
+    ],
+    "options_hinglish": [
+     "5.4%",
+     "6.8%",
+     "5.1%",
+     "4.3%"
+    ],
+    "answer_index": 2
+   }
   }
  ]
 }
