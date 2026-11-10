@@ -436,6 +436,42 @@
       ],
       "image": null,
       "image_credit": null
+    },
+    {
+      "id": "world-20261110-1422-01",
+      "published_ist": "2026-11-10T09:14:00+05:30",
+      "headline": "Eisenkot ko Israel sarkar banane ka mauka",
+      "detail": "Rashtrapati Herzog ne Gadi Eisenkot ko sarkar banane ka pehla mauka diya — 67 sansadon ne sifarish ki; Netanyahu ki ekta-sarkar peshkash Yashar ne thukra di.",
+      "category": "World",
+      "exam_angle": "Israel me sarkar-gathan aur Netanyahu ke baad ki rajneeti — antarrashtriya sambandh ke liye mahatvapurna.",
+      "source": "Outlook India",
+      "source_url": "https://www.outlookindia.com/amp/story/international/israel-pm-race-gadi-eisenkot-replace-benjamin-netanyahu-government-formation-coalition-crisis-2026",
+      "genuineness": "verified",
+      "outlets": [
+        "Reuters",
+        "Dawn",
+        "Haaretz",
+        "Outlook India"
+      ],
+      "image": "../images/world/world-20261110-1422-01.jpg",
+      "image_credit": "Mark Neyman / GPO, CC BY-SA 3.0 (Wikimedia Commons)"
+    },
+    {
+      "id": "world-20261110-1422-02",
+      "published_ist": "2026-11-10T14:04:00+05:30",
+      "headline": "Anthropic ka $70bn IPO plan wapas liya",
+      "detail": "Anthropic ne $70–80 prati share par lagbhag 867 million share bechne ki IPO filing banks ko bheji, phir keemat galat batakar wapas le li; roadshow mangalvaar se shuru hone ki ummeed hai.",
+      "category": "World",
+      "exam_angle": "Duniya ka sabse bada AI IPO aur tech nivesh — arthvyavastha ke liye mahatvapurna.",
+      "source": "The Telegraph",
+      "source_url": "https://www.telegraphindia.com/amp/business/anthropics-blockbuster-usd-70-billion-ipo-plan-briefly-sent-to-banks-then-pulled-back/cid/2188723",
+      "genuineness": "corroborated",
+      "outlets": [
+        "Reuters",
+        "CoinCentral"
+      ],
+      "image": null,
+      "image_credit": null
     }
   ]
 }
