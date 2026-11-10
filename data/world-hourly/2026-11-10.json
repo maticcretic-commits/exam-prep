@@ -306,6 +306,62 @@
       ],
       "image": null,
       "image_credit": null
+    },
+    {
+      "id": "world-20261110-1125-01",
+      "published_ist": "2026-11-10T07:39:00+05:30",
+      "headline": "Riyadh ki taraf do Houthi missile giraye",
+      "detail": "Saudi netritva wale gathbandhan ne Riyadh ki taraf daage gaye ek ballistic aur ek cruise missile ko rok kar nasht kar diya; dakshin kshetra ki taraf daaga ek aur missile bhi giraya gaya, koi nuksaan ki khabar nahi.",
+      "category": "World",
+      "exam_angle": "Houthi-Saudi tanav aur Hormuz — antarrashtriya sambandh ke liye mahatvapurna.",
+      "source": "Reuters",
+      "source_url": "https://www.reuters.com/world/middle-east/saudi-led-coalition-says-it-intercepts-two-houthi-missiles-fired-towards-riyadh-2026-11-10/",
+      "genuineness": "verified",
+      "outlets": [
+        "Reuters",
+        "Al Jazeera",
+        "The Economic Times"
+      ],
+      "image": null,
+      "image_credit": null
+    },
+    {
+      "id": "world-20261110-1125-02",
+      "published_ist": "2026-11-10T10:35:00+05:30",
+      "headline": "China ka trade surplus $1.04 trillion paar",
+      "detail": "China ka vyaapaar adhishesh January-October me $1.04 trillion raha — doosre saal $1 trillion paar, pichhle saal se ek mahina pehle; October me niryat 35.2% badha, AI upkaran ki maang ne badhat di.",
+      "category": "World",
+      "exam_angle": "China ki arthvyavastha aur vaishvik vyaapaar — arthvyavastha aur antarrashtriya sambandh ke liye mahatvapurna.",
+      "source": "The Hindu",
+      "source_url": "https://www.thehindu.com/news/international/china-says-2026-trade-surplus-surpassed-1-trillion-in-october/article71685001.ece",
+      "genuineness": "verified",
+      "outlets": [
+        "Reuters",
+        "CNN",
+        "The Hindu",
+        "The Economic Times"
+      ],
+      "image": null,
+      "image_credit": null
+    },
+    {
+      "id": "world-20261110-1125-03",
+      "published_ist": "2026-11-09T21:54:00+05:30",
+      "headline": "Syria: Yemen me sena bhejne ki yojana nahi",
+      "detail": "Syria ke videsh mantri Asaad al-Shaibani ne kaha Yemen me Syria ki koi sena nahi hai aur nikat bhavishya me bhejne ki yojana bhi nahi; Saudi Arabia ke saath raksha samjhauta sena punarnirman aur prashikshan tak seemit hai.",
+      "category": "World",
+      "exam_angle": "Paschimi Asia aur Saudi-Syria raksha samjhauta — antarrashtriya sambandh ke liye mahatvapurna.",
+      "source": "The National",
+      "source_url": "https://www.thenationalnews.com/news/mena/2026/11/09/syria-has-no-plans-to-send-troops-to-fight-houthis-in-yemen-in-near-future/",
+      "genuineness": "verified",
+      "outlets": [
+        "The National",
+        "TRT World",
+        "Rudaw",
+        "Arab News"
+      ],
+      "image": null,
+      "image_credit": null
     }
   ]
 }
