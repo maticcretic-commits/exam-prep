@@ -163,6 +163,77 @@
       ],
       "image": null,
       "image_credit": null
+    },
+    {
+      "id": "world-20261110-0822-03",
+      "published_ist": "2026-11-10T08:24:00+05:30",
+      "headline": "Damascus me Macron ke hotel ke paas do dhamake",
+      "detail": "Syria yatra ke dusre din Damascus me Four Seasons Hotel ke paas do visfot hue, 18 log ghayal hue jinme chaar policekarmi hain; Macron surakshit hain aur unki yatra jaari rahegi.",
+      "category": "World",
+      "exam_angle": "Assad ke baad Syria me pehli badi pashchimi yatra — antarrashtriya sambandh ke liye mahatvapurna.",
+      "source": "RNZ (AFP)",
+      "source_url": "https://www.rnz.co.nz/news/world/684290/bomb-attacks-wound-18-in-damascus-as-french-president-emmanuel-macron-visits",
+      "genuineness": "verified",
+      "outlets": [
+        "AFP",
+        "RNZ",
+        "Zee News"
+      ],
+      "image": null,
+      "image_credit": null
+    },
+    {
+      "id": "world-20261110-0822-02",
+      "published_ist": "2026-11-10T06:25:00+05:30",
+      "headline": "Houthi hamle me Riyadh ki Aramco imarat ko nuksaan",
+      "detail": "Yemen ke Houthi samuh ke hamle me Riyadh ki Aramco prashasanik imarat ko seemit nuksaan pahuncha, koi hatahat nahi; Houthi ne zimmedari li, aur Madina me East-West tel pipeline par bhi hamla hua, aag bujha di gayi.",
+      "category": "World",
+      "exam_angle": "Hormuz aur Paschimi Asia me tanaav — antarrashtriya sambandh ke liye mahatvapurna.",
+      "source": "Reuters",
+      "source_url": "https://www.reuters.com/world/middle-east/saudi-official-inspects-aramco-riyadh-office-after-houthi-attack-2026-11-10/",
+      "genuineness": "corroborated",
+      "outlets": [
+        "Reuters",
+        "SPA"
+      ],
+      "image": null,
+      "image_credit": null
+    },
+    {
+      "id": "world-20261110-0822-04",
+      "published_ist": "2026-11-10T04:25:00+05:30",
+      "headline": "Nvidia aarop: America me chip kanoon sakht hoga",
+      "detail": "Nvidia ke CEO Jensen Huang ke ek sandehspad Chinese agent se sambandh ki khabar ke baad America ki Congress chip niryat par sakht kanoon lane ki taraf badh rahi hai; China ne aarop ko 'smear campaign' kaha hai.",
+      "category": "World",
+      "exam_angle": "America-China chip yuddh aur takniki pratibandh — antarrashtriya sambandh ke liye mahatvapurna.",
+      "source": "Reuters",
+      "source_url": "https://www.reuters.com/legal/litigation/nvidia-spy-allegations-likely-spur-laws-to-tighten-chinas-access-ai-chips-2026-11-09/",
+      "genuineness": "corroborated",
+      "outlets": [
+        "Reuters",
+        "Tribune India",
+        "Mathrubhumi"
+      ],
+      "image": null,
+      "image_credit": null
+    },
+    {
+      "id": "world-20261110-0822-01",
+      "published_ist": "2026-11-09T19:14:00+05:30",
+      "headline": "Paraguay: Hataye gaye rashtrapati ke ghar chhapa",
+      "detail": "Ueno Bank ke dhahne ke baad Senate ne shukravaar ko rashtrapati Santiago Peña ko pad se hataya; ravivaar ko police ne unke ghar par chhapa mara, unpar vishwasghat aur niji laabh ke aarop hain, aur ve sainya suvidha me hirasat me hain.",
+      "category": "World",
+      "exam_angle": "Bank sankat se rashtrapati ka patan — Latin America ki rajniti aur banking niyaman ke liye mahatvapurna.",
+      "source": "Al Jazeera",
+      "source_url": "https://www.aljazeera.com/news/2026/11/9/paraguay-raids-ex-presidents-home-why-a-bank-crash-brought-down-pena?traffic_source=rss",
+      "genuineness": "verified",
+      "outlets": [
+        "Al Jazeera",
+        "AP",
+        "AFP"
+      ],
+      "image": "../images/world/world-20261110-0822-01.jpg",
+      "image_credit": "Office of the President, Taiwan (CC BY 4.0)"
     }
   ]
 }
