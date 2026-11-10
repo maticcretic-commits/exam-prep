@@ -1,6 +1,61 @@
 {
-  "updated_ist": "2026-11-10T11:25:04+05:30",
+  "updated_ist": "2026-11-10T13:27:41+05:30",
   "items": [
+    {
+      "id": "world-20261110-1322-01",
+      "published_ist": "2026-11-10T12:10:00+05:30",
+      "headline": "Abu Dhabi me Ukraine shaanti vaarta shuru",
+      "detail": "Russia, Ukraine aur America ke beech do din ki teen-pakshiya vaarta Abu Dhabi me shuru hui — February ke baad pehli baar; suraksha guarantee aur yuddh-viraam par baat hogi.",
+      "category": "World",
+      "exam_angle": "Russia-Ukraine yuddh aur shaanti vaarta — antarrashtriya sambandh ke liye mahatvapurna.",
+      "source": "The Hindu",
+      "source_url": "https://www.thehindu.com/news/international/us-brokered-talks-are-set-to-start-in-abu-dhabi-to-discuss-ukraine-russia-peace-deal/article71685183.ece",
+      "genuineness": "verified",
+      "outlets": [
+        "AP",
+        "Reuters",
+        "Outlook India"
+      ],
+      "image": null,
+      "image_credit": null
+    },
+    {
+      "id": "world-20261110-1322-02",
+      "published_ist": "2026-11-10T00:19:00+05:30",
+      "headline": "Gaza me baadh, hazaaron tent doobe",
+      "detail": "Gaza me bhaari baarish se hazaaron tent doob gaye aur paanch logon ki maut hui; Board of Peace ne Israel se sardiyon ki sahayata turant dene ko kaha.",
+      "category": "World",
+      "exam_angle": "Gaza manaviya sankat aur Board of Peace — antarrashtriya sambandh ke liye mahatvapurna.",
+      "source": "Dawn",
+      "source_url": "https://www.dawn.com/news/2043318/trumps-board-of-peace-says-israel-too-slow-as-floods-ravage-gaza",
+      "genuineness": "verified",
+      "outlets": [
+        "AFP",
+        "Anadolu",
+        "Dawn",
+        "TRT World"
+      ],
+      "image": null,
+      "image_credit": null
+    },
+    {
+      "id": "world-20261110-1322-03",
+      "published_ist": "2026-11-09T14:18:00+05:30",
+      "headline": "Krakow hamle ka hamlaavaran hospital me mara",
+      "detail": "Krakow ke Main Market Square me golibaari karne wala 24 saal ka hamlaavaran hospital me mar gaya; hamle me chhah log mare gaye jinme ek British nagrik bhi hai, 16 ghayal hue.",
+      "category": "World",
+      "exam_angle": "Poland me 1989 ke baad sabse bada samuhik hamla — antarrashtriya suraksha ke liye mahatvapurna.",
+      "source": "Times of India",
+      "source_url": "https://timesofindia.indiatimes.com/world/europe/krakow-shooting-gunman-who-killed-six-people-dies-in-hospital/articleshow/135676414.cms",
+      "genuineness": "verified",
+      "outlets": [
+        "CNN",
+        "The Times",
+        "Times of India"
+      ],
+      "image": "../images/world/world-20261110-1322-03.jpg",
+      "image_credit": "Jorge Lascar, CC BY 2.0 (Wikimedia Commons)"
+    },
     {
       "id": "world-20261110-1125-02",
       "published_ist": "2026-11-10T10:35:00+05:30",
@@ -382,63 +437,6 @@
         "Reuters",
         "Kyiv Independent",
         "Interfax-Ukraine"
-      ],
-      "image": null,
-      "image_credit": null
-    },
-    {
-      "id": "world-20261110-0622-05",
-      "published_ist": "2026-11-09T17:50:00+05:30",
-      "headline": "Canada ne Russia par naye pratibandh lagaye",
-      "detail": "Canada ne Paris me G7 mantriyon ki baithak ke dauraan Russia ki 38 sansthaon aur 24 vyaktiyon par pratibandh lagaye — ballistic missile takneek, cyber gatividhi aur crypto ke zariye yuddh ko fund karne wale network nishane par.",
-      "category": "World",
-      "exam_angle": "Pratibandh aur G7 — antarrashtriya sambandh ke liye mahatvapurna.",
-      "source": "Government of Canada",
-      "source_url": "https://www.canada.ca/en/global-affairs/news/2026/11/minister-anand-announces-additional-sanctions-to-reduce-russias-missile-capabilities-and-raise-economic-costs.html",
-      "genuineness": "verified",
-      "outlets": [
-        "Government of Canada",
-        "Reuters",
-        "Kyiv Independent"
-      ],
-      "image": null,
-      "image_credit": null
-    },
-    {
-      "id": "world-20261109-1922-02",
-      "published_ist": "2026-11-09T17:45:00+05:30",
-      "headline": "Odesa: Godaam par hamla, 3 ki maut",
-      "detail": "Odesa me Russia ke drone hamle me kindergarten aur school ke khane ka godam jal gaya — 2 mahila aur 1 purush ki maut, 1 mahila gambhir ghayal; hamla Abu Dhabi vaarta se ek din pehle hua.",
-      "category": "World",
-      "exam_angle": "Ukraine yuddh aur nagrik nishane — antarrashtriya sambandh ke liye mahatvapurna.",
-      "source": "Euromaidan Press",
-      "source_url": "https://euromaidanpress.com/2026/11/09/russia-kills-three-at-a-store-of-kindergarten-food-in-odesa-after-setting-a-kremenchuk-hotel-ablaze/",
-      "genuineness": "verified",
-      "outlets": [
-        "Euromaidan Press",
-        "Ukrainska Pravda",
-        "Interfax-Ukraine",
-        "Ukrinform"
-      ],
-      "image": "../images/world/world-20261109-1922-02.jpg",
-      "image_credit": "Euromaidan Press"
-    },
-    {
-      "id": "world-20261109-2122-01",
-      "published_ist": "2026-11-09T17:00:00+05:30",
-      "headline": "Hormuz: Tanker me aag, chaalak dal surakshit",
-      "detail": "Khasab ke paas ek tanker me aag lagi aur chaalak dal ko nikala gaya, ek ghante baad doosre tanker par hamla hua; Iran ka daava hai ki do tanker mine se takraaye, America ne ek jahaaz ko nishkriya kar diya.",
-      "category": "World",
-      "exam_angle": "Hormuz jalmarg se duniya ke tel ka lagbhag paanchva hissa guzarta hai; UKMTO aur samudri suraksha UPSC ke liye mahatvapurna.",
-      "source": "Riviera",
-      "source_url": "https://www.rivieramm.com/news-content-hub/news-content-hub/tankers-hit-in-hormuz-us-strikes-bulker-qeshm-island-launches-task-force-90512",
-      "genuineness": "verified",
-      "outlets": [
-        "UKMTO",
-        "Dawn",
-        "Splash247",
-        "Riviera",
-        "AFP"
       ],
       "image": null,
       "image_credit": null
