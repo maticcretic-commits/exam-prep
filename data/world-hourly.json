@@ -1,6 +1,25 @@
 {
-  "updated_ist": "2026-11-10T20:25:02+05:30",
+  "updated_ist": "2026-11-10T21:27:08+05:30",
   "items": [
+    {
+      "id": "world-20261110-2122-01",
+      "published_ist": "2026-11-10T20:12:00+05:30",
+      "headline": "UAE ke paani me ADNOC jahaz par hamla",
+      "detail": "Arabian Gulf me UAE ke samudri kshetra me hamle ke baad ADNOC Logistics and Services ke ek jahaz ko nuksaan pahuncha; jahaz ki pehchan aur nuksaan ka vivaran abhi nahi diya gaya.",
+      "category": "World",
+      "exam_angle": "Khadi me samudri suraksha aur oorja vyaapaar par hamle — antarrashtriya sambandh ke liye mahatvapurna.",
+      "source": "WAM",
+      "source_url": "https://www.wam.ae/en/article/c36ot7v-adnoc-logistics-services-vessel-sustained-damage",
+      "genuineness": "verified",
+      "outlets": [
+        "WAM",
+        "Khaleej Times",
+        "Gulf News",
+        "Emirates 24|7"
+      ],
+      "image": null,
+      "image_credit": null
+    },
     {
       "id": "world-20261110-1924-01",
       "published_ist": "2026-11-10T17:29:00+05:30",
@@ -143,6 +162,25 @@
         "Ukrinform",
         "UNN",
         "LB.ua"
+      ],
+      "image": null,
+      "image_credit": null
+    },
+    {
+      "id": "world-20261110-2122-02",
+      "published_ist": "2026-11-10T15:22:00+05:30",
+      "headline": "France: Iran par fridge hack ka aarop",
+      "detail": "France ne Iran ke rajdoot ko bulakar virodh jataya — Iran ke Revolutionary Guard par October me saikadon supermarket ke fridge hack karne ka aarop hai; Paris EU pratibandh chahta hai, Iran ne aarop kharij kiya.",
+      "category": "World",
+      "exam_angle": "France-Iran cyber takraav aur hybrid warfare — antarrashtriya suraksha ke liye mahatvapurna.",
+      "source": "Reuters",
+      "source_url": "https://www.reuters.com/world/europe/france-summons-iran-envoy-over-supermarket-fridge-hack-warns-response-2026-11-10/",
+      "genuineness": "verified",
+      "outlets": [
+        "Reuters",
+        "AFP",
+        "AP",
+        "Al Jazeera"
       ],
       "image": null,
       "image_credit": null
@@ -398,43 +436,6 @@
       ],
       "image": null,
       "image_credit": null
-    },
-    {
-      "id": "world-20261110-0622-02",
-      "published_ist": "2026-11-10T04:01:00+05:30",
-      "headline": "Trump: Iran se jang 'practically khatm'",
-      "detail": "Qatar ke pradhanmantri se mulaqaat ke baad Trump ne kaha Iran sainya roop se 'effectively over' hai aur hamle dobara shuru hona 'quite unlikely' hai; nausainik nakabandi aur Operation Iron Gate jaari rahenge.",
-      "category": "World",
-      "exam_angle": "Iran yuddh aur Paschimi Asia ki sthiti — antarrashtriya sambandh ke liye mahatvapurna.",
-      "source": "Al Jazeera",
-      "source_url": "https://www.aljazeera.com/news/2026/11/9/trump-calls-iran-war-effectively-over-after-talks-with-qatar-pm",
-      "genuineness": "verified",
-      "outlets": [
-        "Al Jazeera",
-        "AP",
-        "New York Post"
-      ],
-      "image": null,
-      "image_credit": null
-    },
-    {
-      "id": "world-20261110-0922-01",
-      "published_ist": "2026-11-10T00:57:00+05:30",
-      "headline": "Pope ne Argentina me peediton se mulaqaat ki",
-      "detail": "Pope Leo XIV ne Buenos Aires me paanch pujari-durvyavahar peediton se ek ghante se zyada baat ki; Vatican ne kaha — suraksha upaay mazboot karne ka vaada, yatra me aisi aur mulaqaatein hongi.",
-      "category": "World",
-      "exam_angle": "Pope ki Latin America yatra aur Vatican ki suraksha neeti — antarrashtriya sambandh ke liye mahatvapurna.",
-      "source": "Al Jazeera",
-      "source_url": "https://www.aljazeera.com/amp/news/2026/11/9/pope-meets-with-clergy-abuse-survivors-in-argentina",
-      "genuineness": "verified",
-      "outlets": [
-        "Reuters",
-        "AP",
-        "Al Jazeera",
-        "Channel News Asia"
-      ],
-      "image": "../images/world/world-20261110-0922-01.jpg",
-      "image_credit": "Al Jazeera"
     }
   ]
 }
