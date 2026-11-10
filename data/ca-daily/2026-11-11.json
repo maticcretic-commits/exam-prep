@@ -1,0 +1,77 @@
+{
+ "date": "2026-11-11",
+ "date_hi": "11 November 2026",
+ "date_en": "11 November 2026",
+ "episodes": [
+  {
+   "episode": 105,
+   "video_hi": "qUEQC6iqIfM",
+   "video_hinglish": "qUEQC6iqIfM",
+   "capsules": [
+    {
+     "id": "ca-ep105-s1",
+     "headline_hi": "307 saal purani Mahabharata pandulipi ko UNESCO samman",
+     "headline_hinglish": "307 saal purani Mahabharata pandulipi ko UNESCO samman",
+     "detail_hi": "Visva-Bharati ki Karna Parva pandulipi Memory of the World Asia-Pacific Register mein shamil hui.",
+     "detail_hinglish": "Visva-Bharati ki Karna Parva pandulipi Memory of the World Asia-Pacific Register mein shamil hui.",
+     "category_hi": "Culture",
+     "category_en": "National"
+    },
+    {
+     "id": "ca-ep105-s2",
+     "headline_hi": "Digital arrest rokne par Supreme Court sakht",
+     "headline_hinglish": "Digital arrest rokne par Supreme Court sakht",
+     "detail_hi": "WhatsApp aur platforms se Supreme Court ne digital arrest scams rokne ke upaay batane ko kaha.",
+     "detail_hinglish": "WhatsApp aur platforms se Supreme Court ne digital arrest scams rokne ke upaay batane ko kaha.",
+     "category_hi": "Polity",
+     "category_en": "Polity"
+    },
+    {
+     "id": "ca-ep105-s3",
+     "headline_hi": "50 sabse pradushit shehron mein 47 Bharat ke",
+     "headline_hinglish": "50 sabse pradushit shehron mein 47 Bharat ke",
+     "detail_hi": "Diwali ke baad Dilli ki hawa paanch saal mein sabse zehreeli, GRAP Stage III jaari.",
+     "detail_hinglish": "Diwali ke baad Dilli ki hawa paanch saal mein sabse zehreeli, GRAP Stage III jaari.",
+     "category_hi": "Environment",
+     "category_en": "Environment"
+    },
+    {
+     "id": "ca-ep105-s4",
+     "headline_hi": "ICSE ISC 2027 ki date sheet jaari",
+     "headline_hinglish": "ICSE ISC 2027 ki date sheet jaari",
+     "detail_hi": "CISCE ne 2027 ki ICSE aur ISC parikshaon ki date sheet jaari kar di.",
+     "detail_hinglish": "CISCE ne 2027 ki ICSE aur ISC parikshaon ki date sheet jaari kar di.",
+     "category_hi": "Education",
+     "category_en": "Education"
+    },
+    {
+     "id": "ca-ep105-s5",
+     "headline_hi": "Mahila pistol team ne Doha mein gold jeeta",
+     "headline_hinglish": "Mahila pistol team ne Doha mein gold jeeta",
+     "detail_hi": "Manu Bhaker, Esha Singh aur Divya ne 25 metre pistol team event mein Bharat ko doosra gold dilaya.",
+     "detail_hinglish": "Manu Bhaker, Esha Singh aur Divya ne 25 metre pistol team event mein Bharat ko doosra gold dilaya.",
+     "category_hi": "Sports",
+     "category_en": "Sports"
+    }
+   ],
+   "mcq": {
+    "id": "ca-ep105-mcq",
+    "q_hi": "Visva-Bharati ki 307 saal purani Mahabharata pandulipi mein kaun sa parva darj hai?",
+    "q_hinglish": "Visva-Bharati ki 307 saal purani Mahabharata pandulipi mein kaun sa parva darj hai?",
+    "options_hi": [
+     "Bhishma Parva",
+     "Karna Parva",
+     "Drona Parva",
+     "Shanti Parva"
+    ],
+    "options_hinglish": [
+     "Bhishma Parva",
+     "Karna Parva",
+     "Drona Parva",
+     "Shanti Parva"
+    ],
+    "answer_index": 1
+   }
+  }
+ ]
+}
