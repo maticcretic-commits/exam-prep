@@ -1,6 +1,44 @@
 {
-  "updated_ist": "2026-11-10T18:24:00+05:30",
+  "updated_ist": "2026-11-10T19:24:48+05:30",
   "items": [
+    {
+      "id": "world-20261110-1924-01",
+      "published_ist": "2026-11-10T17:29:00+05:30",
+      "headline": "Kenya me al-Shabaab hamle me 8 ki maut",
+      "detail": "Mandera me sadak-nirman team ki suraksha gaadi par sandehspad al-Shabaab hamle me 5 mazdoor, 2 police reservist aur driver mare gaye; hamla subah 7 baje hua.",
+      "category": "World",
+      "exam_angle": "Kenya-Somalia seema par al-Shabaab aur suraksha — antarrashtriya suraksha ke liye mahatvapurna.",
+      "source": "Reuters",
+      "source_url": "https://www.reuters.com/world/africa/eight-people-killed-kenyas-northeast-suspected-al-shabaab-attack-2026-11-10/",
+      "genuineness": "verified",
+      "outlets": [
+        "Reuters",
+        "Capital FM",
+        "The Eastleigh Voice",
+        "Addis Standard"
+      ],
+      "image": null,
+      "image_credit": null
+    },
+    {
+      "id": "world-20261110-1924-02",
+      "published_ist": "2026-11-10T17:27:00+05:30",
+      "headline": "Spain me train driver hadtaal, 40% train radd",
+      "detail": "Saal ki doosri ghaatak rail durghatna ke baad Spain ke train driver mangalvaar ko hadtaal par gaye; Renfe ne 40% lambi-doori ki train radd ki, 4,042 yatri prabhavit hue.",
+      "category": "World",
+      "exam_angle": "Spain me rail suraksha sankat aur mazdoor andolan — pariksha ke liye mahatvapurna.",
+      "source": "Reuters",
+      "source_url": "https://www.reuters.com/world/europe/train-drivers-strike-spain-after-two-deadly-crashes-year-2026-11-10/",
+      "genuineness": "verified",
+      "outlets": [
+        "Reuters",
+        "Times of India",
+        "MENAFN",
+        "Asharq Al-Awsat"
+      ],
+      "image": null,
+      "image_credit": null
+    },
     {
       "id": "world-20261110-1627-01",
       "published_ist": "2026-11-10T16:23:00+05:30",
@@ -395,44 +433,6 @@
         "Al Jazeera",
         "CNN",
         "AP"
-      ],
-      "image": null,
-      "image_credit": null
-    },
-    {
-      "id": "world-20261110-1125-03",
-      "published_ist": "2026-11-09T21:54:00+05:30",
-      "headline": "Syria: Yemen me sena bhejne ki yojana nahi",
-      "detail": "Syria ke videsh mantri Asaad al-Shaibani ne kaha Yemen me Syria ki koi sena nahi hai aur nikat bhavishya me bhejne ki yojana bhi nahi; Saudi Arabia ke saath raksha samjhauta sena punarnirman aur prashikshan tak seemit hai.",
-      "category": "World",
-      "exam_angle": "Paschimi Asia aur Saudi-Syria raksha samjhauta — antarrashtriya sambandh ke liye mahatvapurna.",
-      "source": "The National",
-      "source_url": "https://www.thenationalnews.com/news/mena/2026/11/09/syria-has-no-plans-to-send-troops-to-fight-houthis-in-yemen-in-near-future/",
-      "genuineness": "verified",
-      "outlets": [
-        "The National",
-        "TRT World",
-        "Rudaw",
-        "Arab News"
-      ],
-      "image": null,
-      "image_credit": null
-    },
-    {
-      "id": "world-20261109-2222-03",
-      "published_ist": "2026-11-09T21:53:00+05:30",
-      "headline": "Trump ne midterm nateejon par sawal uthaye",
-      "detail": "Trump ne Truth Social par bina saboot ke midterm chunav me dhokhadhadi ka aarop lagaya; pehle unhone nateeje sweekar karne ki baat kahi thi.",
-      "category": "World",
-      "exam_angle": "America me chunav aur loktantra par bahas — antarrashtriya sambandh ke liye mahatvapurna.",
-      "source": "Times of India",
-      "source_url": "https://timesofindia.indiatimes.com/world/us/anybody-believe-this-was-honest-trump-flips-stance-on-midterms-result-revives-2020-style-fraud-claims/articleshow/135687611.cms",
-      "genuineness": "verified",
-      "outlets": [
-        "Times of India",
-        "Economic Times",
-        "WION",
-        "Times of Israel"
       ],
       "image": null,
       "image_credit": null
