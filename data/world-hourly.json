@@ -1,6 +1,82 @@
 {
-  "updated_ist": "2026-11-10T21:27:08+05:30",
+  "updated_ist": "2026-11-10T22:25:46+05:30",
   "items": [
+    {
+      "id": "world-20261110-2225-01",
+      "published_ist": "2026-11-10T03:28:00+05:30",
+      "headline": "Zaporizhzhia nuclear plant par drone hamla, 2 mare",
+      "detail": "IAEA ne bataya — somvaar ko drone hamle me Zaporizhzhia nuclear plant ka ek karmchari aur paas ke thermal plant ka ek karmchari mara gaya; pramukh Grossi ne hamlo ki ninda ki.",
+      "category": "World",
+      "exam_angle": "Parmanu suraksha aur IAEA ki bhoomika — antarrashtriya sambandh ke liye mahatvapurna.",
+      "source": "Kyiv Independent",
+      "source_url": "https://kyivindependent.com/drone-strike-kills-worker-at-zaporizhzhia-nuclear-power-plant-iaea-says/",
+      "genuineness": "verified",
+      "outlets": [
+        "IAEA",
+        "Kyiv Independent",
+        "TRT World",
+        "LB.ua"
+      ],
+      "image": null,
+      "image_credit": null
+    },
+    {
+      "id": "world-20261110-2225-02",
+      "published_ist": "2026-11-10T21:55:00+05:30",
+      "headline": "Russia ki tel refining kshamata 30% giri",
+      "detail": "Reuters ke anusaar October ke ant se Ukraine ke drone hamlo ne Russia ki tel shodhan kshamata lagbhag 30% ghata di; pichhle hafte 35 me se 9 badi refinery prabhavit hui aur Kirishi refinery me aag lagi.",
+      "category": "World",
+      "exam_angle": "Russia-Ukraine oorja yuddh aur vaishvik tel bazaar — arthvyavastha ke liye mahatvapurna.",
+      "source": "Reuters",
+      "source_url": "https://www.reuters.com/business/energy/recent-ukrainian-attacks-have-reduced-russias-oil-processing-capacity-by-30-2026-11-10/",
+      "genuineness": "verified",
+      "outlets": [
+        "Reuters",
+        "Kyiv Independent",
+        "Ukrainska Pravda",
+        "Hromadske"
+      ],
+      "image": null,
+      "image_credit": null
+    },
+    {
+      "id": "world-20261110-2225-03",
+      "published_ist": "2026-11-10T05:28:00+05:30",
+      "headline": "WMO: Dharti ki garmi record star par",
+      "detail": "WMO ki report — January-September 2026 ka tapman pre-industrial star se 1.47°C upar raha aur 2026 chaar sabse garm saalon me se ek banega; El Niño December tak record-mazboot hone ki ummeed hai.",
+      "category": "World",
+      "exam_angle": "WMO State of the Climate 2026 aur COP31 — paryavaran ke liye mahatvapurna.",
+      "source": "Telegraph India",
+      "source_url": "https://www.telegraphindia.com/india/2026-among-four-warmest-years-on-record-amid-el-nino-global-climate-report-warns-prnt/cid/2188661",
+      "genuineness": "verified",
+      "outlets": [
+        "WMO",
+        "Telegraph India",
+        "IOL",
+        "National Herald"
+      ],
+      "image": null,
+      "image_credit": null
+    },
+    {
+      "id": "world-20261110-2225-04",
+      "published_ist": "2026-11-09T21:25:00+05:30",
+      "headline": "Netanyahu ekta-sarkar par baatchit ko taiyaar",
+      "detail": "Mandate milne ke ek din baad Netanyahu ne kaha — ve kisi bhi dal se rashtriya ekta-sarkar par baatchit ko taiyaar hain, ise 'absolute necessity' bataya; unka kehna hai Likud ko sarkar ka netritva karna chahiye.",
+      "category": "World",
+      "exam_angle": "Israel me sarkar-gathan aur Netanyahu ke baad ki rajneeti — antarrashtriya sambandh ke liye mahatvapurna.",
+      "source": "Moneycontrol",
+      "source_url": "https://www.moneycontrol.com/world/netanyahu-signals-openness-to-joining-gadi-eisenkot-s-unity-government-calls-it-an-absolute-necessity-article-14075764.html/amp",
+      "genuineness": "verified",
+      "outlets": [
+        "Times of Israel",
+        "Moneycontrol",
+        "India TV",
+        "Times Now"
+      ],
+      "image": null,
+      "image_credit": null
+    },
     {
       "id": "world-20261110-2122-01",
       "published_ist": "2026-11-10T20:12:00+05:30",
@@ -297,7 +373,7 @@
       "id": "world-20261110-1422-01",
       "published_ist": "2026-11-10T09:14:00+05:30",
       "headline": "Eisenkot ko Israel sarkar banane ka mauka",
-      "detail": "Rashtrapati Herzog ne Gadi Eisenkot ko sarkar banane ka pehla mauka diya — 67 sansadon ne sifarish ki; Netanyahu ki ekta-sarkar peshkash Yashar ne thukra di.",
+      "detail": "Rashtrapati Herzog ne Gadi Eisenkot ko sarkar banane ka pehla mauka diya — 67 sansadon ne sifarish ki; Eisenkot ne Netanyahu ke Likud ko apne netritva wali sarkar me shamil hone ka nyota diya. (Corrected: Yashar ke rukh wala hissa sudhara gaya.)",
       "category": "World",
       "exam_angle": "Israel me sarkar-gathan aur Netanyahu ke baad ki rajneeti — antarrashtriya sambandh ke liye mahatvapurna.",
       "source": "Outlook India",
@@ -362,77 +438,6 @@
         "Reuters",
         "Al Jazeera",
         "The Economic Times"
-      ],
-      "image": null,
-      "image_credit": null
-    },
-    {
-      "id": "world-20261110-1822-04",
-      "published_ist": "2026-11-10T07:14:00+05:30",
-      "headline": "Turkey steel plant dhamake me 17 ki maut",
-      "detail": "Izmir ke Aliaga me Habas steel plant me crane girne se visfot hua, 17 mazdoor mare aur 12 ghayal hue; jaanch jaari hai aur paanch log giraftar hue.",
-      "category": "World",
-      "exam_angle": "Turkey me audyogik haadse aur suraksha niyam — pariksha ke liye mahatvapurna.",
-      "source": "Times of India",
-      "source_url": "https://timesofindia.indiatimes.com/world/middle-east/deadly-explosion-at-turkey-steel-factory-kills-17-workers-injures-12-others/articleshow/135696426.cms",
-      "genuineness": "verified",
-      "outlets": [
-        "BBC",
-        "Times of India",
-        "Hürriyet"
-      ],
-      "image": null,
-      "image_credit": null
-    },
-    {
-      "id": "world-20261110-1822-05",
-      "published_ist": "2026-11-10T06:43:00+05:30",
-      "headline": "Senegal-Crete naav hadson me 56 pravasi mare",
-      "detail": "Senegal aur Crete ke paas hue naav hadson me kam se kam 56 pravasi mare; IOM ne khatarnak samudri raston par phir chetavani di.",
-      "category": "World",
-      "exam_angle": "Pravasan aur manavtavadi sankat — antarrashtriya sambandh ke liye mahatvapurna.",
-      "source": "ReliefWeb (IOM)",
-      "source_url": "https://reliefweb.int/report/senegal/shipwrecks-senegal-and-crete-kill-least-56-migrants",
-      "genuineness": "verified",
-      "outlets": [
-        "IOM",
-        "Manila Times",
-        "dpa/GNA"
-      ],
-      "image": null,
-      "image_credit": null
-    },
-    {
-      "id": "world-20261110-0822-02",
-      "published_ist": "2026-11-10T06:25:00+05:30",
-      "headline": "Houthi hamle me Riyadh ki Aramco imarat ko nuksaan",
-      "detail": "Yemen ke Houthi samuh ke hamle me Riyadh ki Aramco prashasanik imarat ko seemit nuksaan pahuncha, koi hatahat nahi; Houthi ne zimmedari li, aur Madina me East-West tel pipeline par bhi hamla hua, aag bujha di gayi.",
-      "category": "World",
-      "exam_angle": "Hormuz aur Paschimi Asia me tanaav — antarrashtriya sambandh ke liye mahatvapurna.",
-      "source": "Reuters",
-      "source_url": "https://www.reuters.com/world/middle-east/saudi-official-inspects-aramco-riyadh-office-after-houthi-attack-2026-11-10/",
-      "genuineness": "corroborated",
-      "outlets": [
-        "Reuters",
-        "SPA"
-      ],
-      "image": null,
-      "image_credit": null
-    },
-    {
-      "id": "world-20261110-0822-04",
-      "published_ist": "2026-11-10T04:25:00+05:30",
-      "headline": "Nvidia aarop: America me chip kanoon sakht hoga",
-      "detail": "Nvidia ke CEO Jensen Huang ke ek sandehspad Chinese agent se sambandh ki khabar ke baad America ki Congress chip niryat par sakht kanoon lane ki taraf badh rahi hai; China ne aarop ko 'smear campaign' kaha hai.",
-      "category": "World",
-      "exam_angle": "America-China chip yuddh aur takniki pratibandh — antarrashtriya sambandh ke liye mahatvapurna.",
-      "source": "Reuters",
-      "source_url": "https://www.reuters.com/legal/litigation/nvidia-spy-allegations-likely-spur-laws-to-tighten-chinas-access-ai-chips-2026-11-09/",
-      "genuineness": "corroborated",
-      "outlets": [
-        "Reuters",
-        "Tribune India",
-        "Mathrubhumi"
       ],
       "image": null,
       "image_credit": null
