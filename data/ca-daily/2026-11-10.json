@@ -142,6 +142,76 @@
     ],
     "answer_index": 3
    }
+  },
+  {
+   "episode": 103,
+   "video_hi": "3zCvpG5AfZU",
+   "video_hinglish": "3zCvpG5AfZU",
+   "capsules": [
+    {
+     "id": "ca-ep103-s1",
+     "headline_hi": "Haj 2027: Bharat ko 1,75,025 ka kota mila",
+     "headline_hinglish": "Haj 2027: Bharat ko 1,75,025 ka kota mila",
+     "detail_hi": "Bharat aur Saudi Arabia ne Jeddah mein Haj 2027 samjhauta sign kiya, kota pichhle saal jitna hi raha.",
+     "detail_hinglish": "Bharat aur Saudi Arabia ne Jeddah mein Haj 2027 samjhauta sign kiya, kota pichhle saal jitna hi raha.",
+     "category_hi": "International",
+     "category_en": "National"
+    },
+    {
+     "id": "ca-ep103-s2",
+     "headline_hi": "Van bhoomi par vyavsayik kheti ka adhikar nahi",
+     "headline_hinglish": "Van bhoomi par vyavsayik kheti ka adhikar nahi",
+     "detail_hi": "Megamalai mamle mein court ne kaha, van adhikar kanoon mein vyavsayik fasal ki kheti ka koi adhikar nahi.",
+     "detail_hinglish": "Megamalai mamle mein court ne kaha, van adhikar kanoon mein vyavsayik fasal ki kheti ka koi adhikar nahi.",
+     "category_hi": "Environment",
+     "category_en": "Environment"
+    },
+    {
+     "id": "ca-ep103-s3",
+     "headline_hi": "Manipur mein Census 2027 par rok jaari",
+     "headline_hinglish": "Manipur mein Census 2027 par rok jaari",
+     "detail_hi": "High Court ne Census 2027 par rok 30 April 2027 tak badhai, saat yachikaon par faisla tab tak hoga.",
+     "detail_hinglish": "High Court ne Census 2027 par rok 30 April 2027 tak badhai, saat yachikaon par faisla tab tak hoga.",
+     "category_hi": "Polity",
+     "category_en": "Polity"
+    },
+    {
+     "id": "ca-ep103-s4",
+     "headline_hi": "Bina 4G wale gaon 75% kam hue",
+     "headline_hinglish": "Bina 4G wale gaon 75% kam hue",
+     "detail_hi": "DoT ke aankde: 2022 mein 45,180 gaon bina 4G the, 2026 mein sirf 11,372 bache.",
+     "detail_hinglish": "DoT ke aankde: 2022 mein 45,180 gaon bina 4G the, 2026 mein sirf 11,372 bache.",
+     "category_hi": "Telecom",
+     "category_en": "National"
+    },
+    {
+     "id": "ca-ep103-s5",
+     "headline_hi": "Diwali par sone ki bikri 62,000 crore",
+     "headline_hinglish": "Diwali par sone ki bikri 62,000 crore",
+     "detail_hi": "Dhanteras aur Diwali par sone ke gehno ki bikri 15-20% badhkar lagbhag 62,000 crore rupay hui.",
+     "detail_hinglish": "Dhanteras aur Diwali par sone ke gehno ki bikri 15-20% badhkar lagbhag 62,000 crore rupay hui.",
+     "category_hi": "Economy",
+     "category_en": "Economy"
+    }
+   ],
+   "mcq": {
+    "id": "ca-ep103-mcq",
+    "q_hi": "Haj 2027 ke liye Bharat ka kota kitna tay hua hai?",
+    "q_hinglish": "Haj 2027 ke liye Bharat ka kota kitna tay hua hai?",
+    "options_hi": [
+     "1,50,025",
+     "1,75,025",
+     "1,60,000",
+     "2,00,000"
+    ],
+    "options_hinglish": [
+     "1,50,025",
+     "1,75,025",
+     "1,60,000",
+     "2,00,000"
+    ],
+    "answer_index": 1
+   }
   }
  ]
 }
