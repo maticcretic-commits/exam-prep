@@ -764,6 +764,101 @@
       ],
       "image": null,
       "image_credit": null
+    },
+    {
+      "id": "world-20261110-2225-01",
+      "published_ist": "2026-11-10T03:28:00+05:30",
+      "headline": "Zaporizhzhia nuclear plant par drone hamla, 2 mare",
+      "detail": "IAEA ne bataya — somvaar ko drone hamle me Zaporizhzhia nuclear plant ka ek karmchari aur paas ke thermal plant ka ek karmchari mara gaya; pramukh Grossi ne hamlo ki ninda ki.",
+      "category": "World",
+      "exam_angle": "Parmanu suraksha aur IAEA ki bhoomika — antarrashtriya sambandh ke liye mahatvapurna.",
+      "source": "Kyiv Independent",
+      "source_url": "https://kyivindependent.com/drone-strike-kills-worker-at-zaporizhzhia-nuclear-power-plant-iaea-says/",
+      "genuineness": "verified",
+      "outlets": [
+        "IAEA",
+        "Kyiv Independent",
+        "TRT World",
+        "LB.ua"
+      ],
+      "image": null,
+      "image_credit": null
+    },
+    {
+      "id": "world-20261110-2225-02",
+      "published_ist": "2026-11-10T21:55:00+05:30",
+      "headline": "Russia ki tel refining kshamata 30% giri",
+      "detail": "Reuters ke anusaar October ke ant se Ukraine ke drone hamlo ne Russia ki tel shodhan kshamata lagbhag 30% ghata di; pichhle hafte 35 me se 9 badi refinery prabhavit hui aur Kirishi refinery me aag lagi.",
+      "category": "World",
+      "exam_angle": "Russia-Ukraine oorja yuddh aur vaishvik tel bazaar — arthvyavastha ke liye mahatvapurna.",
+      "source": "Reuters",
+      "source_url": "https://www.reuters.com/business/energy/recent-ukrainian-attacks-have-reduced-russias-oil-processing-capacity-by-30-2026-11-10/",
+      "genuineness": "verified",
+      "outlets": [
+        "Reuters",
+        "Kyiv Independent",
+        "Ukrainska Pravda",
+        "Hromadske"
+      ],
+      "image": null,
+      "image_credit": null
+    },
+    {
+      "id": "world-20261110-2225-03",
+      "published_ist": "2026-11-10T05:28:00+05:30",
+      "headline": "WMO: Dharti ki garmi record star par",
+      "detail": "WMO ki report — January-September 2026 ka tapman pre-industrial star se 1.47°C upar raha aur 2026 chaar sabse garm saalon me se ek banega; El Niño December tak record-mazboot hone ki ummeed hai.",
+      "category": "World",
+      "exam_angle": "WMO State of the Climate 2026 aur COP31 — paryavaran ke liye mahatvapurna.",
+      "source": "Telegraph India",
+      "source_url": "https://www.telegraphindia.com/india/2026-among-four-warmest-years-on-record-amid-el-nino-global-climate-report-warns-prnt/cid/2188661",
+      "genuineness": "verified",
+      "outlets": [
+        "WMO",
+        "Telegraph India",
+        "IOL",
+        "National Herald"
+      ],
+      "image": null,
+      "image_credit": null
+    },
+    {
+      "id": "world-20261110-2225-04",
+      "published_ist": "2026-11-09T21:25:00+05:30",
+      "headline": "Netanyahu ekta-sarkar par baatchit ko taiyaar",
+      "detail": "Mandate milne ke ek din baad Netanyahu ne kaha — ve kisi bhi dal se rashtriya ekta-sarkar par baatchit ko taiyaar hain, ise 'absolute necessity' bataya; unka kehna hai Likud ko sarkar ka netritva karna chahiye.",
+      "category": "World",
+      "exam_angle": "Israel me sarkar-gathan aur Netanyahu ke baad ki rajneeti — antarrashtriya sambandh ke liye mahatvapurna.",
+      "source": "Moneycontrol",
+      "source_url": "https://www.moneycontrol.com/world/netanyahu-signals-openness-to-joining-gadi-eisenkot-s-unity-government-calls-it-an-absolute-necessity-article-14075764.html/amp",
+      "genuineness": "verified",
+      "outlets": [
+        "Times of Israel",
+        "Moneycontrol",
+        "India TV",
+        "Times Now"
+      ],
+      "image": null,
+      "image_credit": null
+    },
+    {
+      "id": "world-20261110-1422-01",
+      "published_ist": "2026-11-10T09:14:00+05:30",
+      "headline": "Eisenkot ko Israel sarkar banane ka mauka",
+      "detail": "Rashtrapati Herzog ne Gadi Eisenkot ko sarkar banane ka pehla mauka diya — 67 sansadon ne sifarish ki; Eisenkot ne Netanyahu ke Likud ko apne netritva wali sarkar me shamil hone ka nyota diya. (Corrected: Yashar ke rukh wala hissa sudhara gaya.)",
+      "category": "World",
+      "exam_angle": "Israel me sarkar-gathan aur Netanyahu ke baad ki rajneeti — antarrashtriya sambandh ke liye mahatvapurna.",
+      "source": "Outlook India",
+      "source_url": "https://www.outlookindia.com/amp/story/international/israel-pm-race-gadi-eisenkot-replace-benjamin-netanyahu-government-formation-coalition-crisis-2026",
+      "genuineness": "verified",
+      "outlets": [
+        "Reuters",
+        "Dawn",
+        "Haaretz",
+        "Outlook India"
+      ],
+      "image": "../images/world/world-20261110-1422-01.jpg",
+      "image_credit": "Mark Neyman / GPO, CC BY-SA 3.0 (Wikimedia Commons)"
     }
   ]
 }
