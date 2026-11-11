@@ -634,6 +634,42 @@
       ],
       "image": null,
       "image_credit": null
+    },
+    {
+      "id": "world-20261111-1822-01",
+      "published_ist": "2026-11-11T04:44:00+05:30",
+      "headline": "Congo me Ebola: 11,000 se zyada case",
+      "detail": "Congo sarkar ke naye aankdon me Bundibugyo Ebola ke 11,042 case aur 5,387 mautein darj hain; 26 me se 8 praanton me faila prakop ab tak ka doosra sabse bada hai.",
+      "category": "World",
+      "exam_angle": "Ebola prakop aur WHO ki bhoomika — swasthya aur antarrashtriya sangathan ke liye mahatvapurna.",
+      "source": "Reuters",
+      "source_url": "https://www.reuters.com/business/healthcare-pharmaceuticals/congos-ebola-cases-surpass-11000-government-data-show-2026-11-10/",
+      "genuineness": "verified",
+      "outlets": [
+        "Reuters",
+        "Associated Press",
+        "Outlook India"
+      ],
+      "image": null,
+      "image_credit": null
+    },
+    {
+      "id": "world-20261111-1822-02",
+      "published_ist": "2026-11-11T13:37:00+05:30",
+      "headline": "Hormuz me phir tanker me aag",
+      "detail": "Iran ki sena ne kaha ki aaj subah ek tanker ne Hormuz ke poorv me pratibandhit kshetra me mine se takrakar aag pakad li; Mangalvaar ko bhi teen tanker jal uthe the.",
+      "category": "World",
+      "exam_angle": "Hormuz se tel vyapaar aur antarrashtriya suraksha — arthvyavastha ke liye mahatvapurna.",
+      "source": "The Hindu",
+      "source_url": "https://www.thehindu.com/news/international/iran-says-tanker-struck-mine-caught-fire-in-hormuz/article71688841.ece",
+      "genuineness": "verified",
+      "outlets": [
+        "AFP",
+        "Al Mayadeen",
+        "Xinhua"
+      ],
+      "image": null,
+      "image_credit": null
     }
   ],
   "date": "2026-11-11"
