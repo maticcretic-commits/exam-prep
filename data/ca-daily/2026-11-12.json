@@ -1,0 +1,77 @@
+{
+ "date": "2026-11-12",
+ "date_hi": "12 November 2026",
+ "date_en": "12 November 2026",
+ "episodes": [
+  {
+   "episode": 109,
+   "video_hi": "ublCG_Bq_ys",
+   "video_hinglish": "ublCG_Bq_ys",
+   "capsules": [
+    {
+     "id": "ca-ep109-s1",
+     "headline_hi": "Kulgam mein CRPF camp par atanki hamla",
+     "headline_hinglish": "Kulgam mein CRPF camp par atanki hamla",
+     "detail_hi": "Kulgam ke Mir Bazar mein CRPF checkpoint par atankwadi hamla, jawan ghayal; suraksha balon ne search operation shuru kiya.",
+     "detail_hinglish": "Kulgam ke Mir Bazar mein CRPF checkpoint par atankwadi hamla, jawan ghayal; suraksha balon ne search operation shuru kiya.",
+     "category_hi": "Security",
+     "category_en": "National"
+    },
+    {
+     "id": "ca-ep109-s2",
+     "headline_hi": "Delhi ki hawa very poor, AQI 305",
+     "headline_hinglish": "Delhi ki hawa very poor, AQI 305",
+     "detail_hi": "Delhi mein AQI 305, hawa 'very poor'; FICCI ke mutabik pradushan se saalana 95 billion dollar ka nuksan.",
+     "detail_hinglish": "Delhi mein AQI 305, hawa 'very poor'; FICCI ke mutabik pradushan se saalana 95 billion dollar ka nuksan.",
+     "category_hi": "Environment",
+     "category_en": "Environment"
+    },
+    {
+     "id": "ca-ep109-s3",
+     "headline_hi": "Lithium battery black mass export par rok",
+     "headline_hinglish": "Lithium battery black mass export par rok",
+     "detail_hi": "Kendra ne lithium-ion battery black mass ke export par rok lagayi, taaki desh mein battery recycling aur refining mazboot ho.",
+     "detail_hinglish": "Kendra ne lithium-ion battery black mass ke export par rok lagayi, taaki desh mein battery recycling aur refining mazboot ho.",
+     "category_hi": "Economy",
+     "category_en": "Economy"
+    },
+    {
+     "id": "ca-ep109-s4",
+     "headline_hi": "Hardik Pandya Punjab Kings mein, 18 crore deal",
+     "headline_hinglish": "Hardik Pandya Punjab Kings mein, 18 crore deal",
+     "detail_hi": "IPL 2027 se pehle MI ne Hardik Pandya ko PBKS ko 18 crore mein trade kiya, badle mein Arshdeep Singh mile.",
+     "detail_hinglish": "IPL 2027 se pehle MI ne Hardik Pandya ko PBKS ko 18 crore mein trade kiya, badle mein Arshdeep Singh mile.",
+     "category_hi": "Sports",
+     "category_en": "Sports"
+    },
+    {
+     "id": "ca-ep109-s5",
+     "headline_hi": "Hyderabad mein Bharat Summit, 70 deshon ke pratinidhi",
+     "headline_hinglish": "Hyderabad mein Bharat Summit, 70 deshon ke pratinidhi",
+     "detail_hi": "Hyderabad mein Bharat Summit 12 se 14 November tak, 70 deshon se 1,000 se zyada pratinidhi, videsh neeti par charcha.",
+     "detail_hinglish": "Hyderabad mein Bharat Summit 12 se 14 November tak, 70 deshon se 1,000 se zyada pratinidhi, videsh neeti par charcha.",
+     "category_hi": "Polity",
+     "category_en": "Polity"
+    }
+   ],
+   "mcq": {
+    "id": "ca-ep109-mcq",
+    "q_hi": "Kendra ne kis ke export par rok lagayi hai?",
+    "q_hinglish": "Kendra ne kis ke export par rok lagayi hai?",
+    "options_hi": [
+     "Kachcha tel",
+     "Lithium-ion battery black mass",
+     "Gehun",
+     "Chawal"
+    ],
+    "options_hinglish": [
+     "Kachcha tel",
+     "Lithium-ion battery black mass",
+     "Gehun",
+     "Chawal"
+    ],
+    "answer_index": 1
+   }
+  }
+ ]
+}
