@@ -1,5 +1,5 @@
 {
-  "updated_ist": "2026-11-11T19:25:40+05:30",
+  "updated_ist": "2026-11-11T20:25:15+05:30",
   "items": [
     {
       "id": "world-20261111-1922-01",
@@ -246,6 +246,23 @@
       "image_credit": null
     },
     {
+      "id": "world-20261111-2022-02",
+      "published_ist": "2026-11-11T08:31:00+05:30",
+      "headline": "Seongnam me bus ne 32 gaadiyan takrai",
+      "detail": "Seoul ke paas Seongnam me subah ki bheed me ek bus 32 gaadiyon se takra gayi, 57 log ghayal hue jinme 9 gambhir; driver ne brake fail hone ki baat kahi, sharaab nahi mili.",
+      "category": "World",
+      "exam_angle": null,
+      "source": "The Hindu",
+      "source_url": "https://www.thehindu.com/news/international/bus-crashes-into-32-vehicles-in-seongnam-south-korea-on-november-11-2026/article71688192.ece",
+      "genuineness": "corroborated",
+      "outlets": [
+        "Associated Press",
+        "Yonhap News Agency"
+      ],
+      "image": "../images/world/world-20261111-2022-02.jpg",
+      "image_credit": "The Hindu"
+    },
+    {
       "id": "world-20261111-1622-01",
       "published_ist": "2026-11-11T06:46:00+05:30",
       "headline": "Jim Jordan bane House Republican neta",
@@ -302,6 +319,24 @@
       "image_credit": null
     },
     {
+      "id": "world-20261111-2022-03",
+      "published_ist": "2026-11-11T05:17:00+05:30",
+      "headline": "Trump ka BBC par $10bn case chalega",
+      "detail": "Florida ke judge ne Trump ke BBC ke khilaf $10 billion ke maan-hani case ko aage badhne diya, lekin trade-practices wala daava kharij kar diya; faisla BBC ki zimmedari tay nahi karta, sirf case chalega.",
+      "category": "World",
+      "exam_angle": "Media ki zimmedari aur maan-hani kanoon — media ethics ke liye mahatvapurna.",
+      "source": "Reuters",
+      "source_url": "https://www.reuters.com/legal/government/us-judge-says-trumps-10-billion-bbc-defamation-case-can-proceed-2026-11-10/",
+      "genuineness": "verified",
+      "outlets": [
+        "Reuters",
+        "Khaama Press",
+        "Blue News Network"
+      ],
+      "image": null,
+      "image_credit": null
+    },
+    {
       "id": "world-20261111-1822-01",
       "published_ist": "2026-11-11T04:44:00+05:30",
       "headline": "Congo me Ebola: 11,000 se zyada case",
@@ -318,6 +353,24 @@
       ],
       "image": null,
       "image_credit": null
+    },
+    {
+      "id": "world-20261111-2022-01",
+      "published_ist": "2026-11-11T04:06:00+05:30",
+      "headline": "Hegseth ke khilaf mahabhiyog ruka, 211-204",
+      "detail": "America ki House ne 211-204 se raksha mantri Hegseth ke khilaf mahabhiyog ke 8 aarop Judiciary Committee ko bhej diye; prastav lane wale Republican Massie akele virodh me the, Democrats January me phir koshish kar sakte hain.",
+      "category": "World",
+      "exam_angle": "America me mahabhiyog prakriya aur Congress ki shaktiyan — polity ke liye mahatvapurna.",
+      "source": "Al Jazeera",
+      "source_url": "https://www.aljazeera.com/news/2026/11/10/us-house-begins-vote-on-motion-to-advance-impeachment-of-pete-hegseth?traffic_source=rss",
+      "genuineness": "verified",
+      "outlets": [
+        "Al Jazeera",
+        "The Wall Street Journal",
+        "Reuters"
+      ],
+      "image": "../images/world/world-20261111-2022-01.jpg",
+      "image_credit": "Reuters via Al Jazeera"
     },
     {
       "id": "world-20261111-1022-01",
@@ -389,62 +442,6 @@
         "The Wall Street Journal",
         "The Times",
         "Metropolitan Police"
-      ],
-      "image": null,
-      "image_credit": null
-    },
-    {
-      "id": "world-20261111-0822-01",
-      "published_ist": "2026-11-10T23:26:00+05:30",
-      "headline": "Houthi hamle: Riyadh me dhamake, missile roka gaya",
-      "detail": "Houthi vidrohiyon ne Mangalvaar ko Riyadh airport aur Aramco suvidhaon par naye missile-drone hamle ka daava kiya; Saudi gathbandhan ne Riyadh ki ore aayi ballistic missile ko rok diya.",
-      "category": "World",
-      "exam_angle": "Yemen-Saudi sangharsh aur tel suraksha — antarrashtriya sambandh ke liye mahatvapurna.",
-      "source": "Mathrubhumi",
-      "source_url": "https://english.mathrubhumi.com/amp/news/world/houthis-attack-riyadh-airport-aramco-saudi-arabia-hn0rgh79",
-      "genuineness": "verified",
-      "outlets": [
-        "Mathrubhumi",
-        "The National",
-        "Gulf Today"
-      ],
-      "image": null,
-      "image_credit": null
-    },
-    {
-      "id": "world-20261111-1622-02",
-      "published_ist": "2026-11-10T22:42:00+05:30",
-      "headline": "Trinidad me samlaingik sambandh par pratibandh khatm",
-      "detail": "London ki Privy Council ne Trinidad aur Tobago ke aupaniveshik kaal ke kaanoon ko asamvaidhanik bataya; vyaskon ke beech sahmati se samlaingik sambandh ab apradh nahi, faisla antim hai.",
-      "category": "World",
-      "exam_angle": "Aupaniveshik kaanoon, manavadhikar aur nyayik sameeksha — Caribbean me LGBTQ adhikar ka aitihasik faisla.",
-      "source": "CNN",
-      "source_url": "https://www.cnn.com/2026/11/10/americas/trinidad-tobago-gay-sex-law-latam-intl?cid=external-feeds_iluminar_meta",
-      "genuineness": "verified",
-      "outlets": [
-        "Reuters",
-        "Associated Press",
-        "CNN",
-        "The Jerusalem Post"
-      ],
-      "image": null,
-      "image_credit": null
-    },
-    {
-      "id": "world-20261111-1422-03",
-      "published_ist": "2026-11-10T22:30:00+05:30",
-      "headline": "Norway ne data center grid roka",
-      "detail": "Norway ke grid operator Statnett ne 9 November se naye data centers ke liye grid capacity reservation rok di; sarkar 2027 me licensing laayegi aur crypto mining ko prathamikta nahi degi.",
-      "category": "World",
-      "exam_angle": "AI data center aur oorja neeti — arthvyavastha ke liye mahatvapurna.",
-      "source": "Environment Energy Leader",
-      "source_url": "https://www.environmentenergyleader.com/articles/45530-norway-halts-new-grid-reservations-for-server-facilities",
-      "genuineness": "verified",
-      "outlets": [
-        "Statnett",
-        "Environment Energy Leader",
-        "Unite.ai",
-        "Nordisk Post"
       ],
       "image": null,
       "image_credit": null
