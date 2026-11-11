@@ -57,6 +57,63 @@
       ],
       "image": null,
       "image_credit": null
+    },
+    {
+      "id": "world-20261111-0722-01",
+      "published_ist": "2026-11-10T18:43:00+05:30",
+      "headline": "Kohre me Bulgaria highway par 86 gaadiyan takrayin",
+      "detail": "Bulgaria ki Trakia motorway par ghane kohre me do bade haadse hue — 86 gaadiyan takrayin, 12 log mare aur 46 ghayal hue.",
+      "category": "World",
+      "exam_angle": null,
+      "source": "Daily Sabah",
+      "source_url": "https://www.dailysabah.com/world/europe/bulgaria-highway-pileup-due-to-dense-fog-kills-12-injures-dozens/amp",
+      "genuineness": "verified",
+      "outlets": [
+        "Daily Sabah",
+        "The Sun",
+        "JFeed",
+        "UNN"
+      ],
+      "image": null,
+      "image_credit": null
+    },
+    {
+      "id": "world-20261111-0722-02",
+      "published_ist": "2026-11-11T01:13:00+05:30",
+      "headline": "Jail se UK airbase par hamle ki sajish",
+      "detail": "America ne aarop lagaya ki New York ki jail se Iranian operative Mohammad Dawood Al-Saadi ne coded messages se UK ke RAF Fairford base par hamle ki sajish rachayi; do aur logon par bhi aarop lage.",
+      "category": "World",
+      "exam_angle": "America-Iran tanaav aur antarrashtriya suraksha — antarrashtriya sambandh ke liye mahatvapurna.",
+      "source": "CNN",
+      "source_url": "https://www.cnn.com/2026/11/10/politics/fairford-terror-plot-arrest?cid=external-feeds_iluminar_meta",
+      "genuineness": "verified",
+      "outlets": [
+        "CNN",
+        "The Times",
+        "New York Post"
+      ],
+      "image": null,
+      "image_credit": null
+    },
+    {
+      "id": "world-20261111-0722-04",
+      "published_ist": "2026-11-10T20:46:00+05:30",
+      "headline": "UNICEF: Gaza me baadh ka khatra, marammat ruki",
+      "detail": "UNICEF ne kaha Israel ne Gaza ke Sheikh Radwan basin ki marammat ke liye saaman ki aamad roki; bhaari baarish se hazaaron tent doob chuke hain aur ret ke teele girne se chaar log mare.",
+      "category": "World",
+      "exam_angle": null,
+      "source": "Arab News",
+      "source_url": "https://www.arabnews.com/middle-east/unicef-says-israel-blocks-gaza-basin-repairs-warns-of-flood-risk-3010982",
+      "genuineness": "verified",
+      "outlets": [
+        "Reuters",
+        "Arab News",
+        "The Jerusalem Post",
+        "Dawn"
+      ],
+      "image": null,
+      "image_credit": null
     }
-  ]
+  ],
+  "updated_ist": "2026-11-11T07:22:00+05:30"
 }
