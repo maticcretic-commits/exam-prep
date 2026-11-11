@@ -1,5 +1,5 @@
 {
-  "date": "2026-11-11",
+  "updated_ist": "2026-11-11T16:24:58+05:30",
   "items": [
     {
       "id": "world-20261111-0622-01",
@@ -541,6 +541,63 @@
       ],
       "image": null,
       "image_credit": null
+    },
+    {
+      "id": "world-20261111-1622-01",
+      "published_ist": "2026-11-11T06:46:00+05:30",
+      "headline": "Jim Jordan bane House Republican neta",
+      "detail": "House Republicans ne Jim Jordan ko 106-73 se agla minority leader chuna; woh January se Mike Johnson ki jagah lenge, jab Democrats sadan sambhalenge.",
+      "category": "World",
+      "exam_angle": "America ke midterm ke baad Congress netritva badla — US rajneeti aur midterm parinam ke liye mahatvapurna.",
+      "source": "NPR",
+      "source_url": "https://www.nprillinois.org/2026-11-10/house-gop-elects-jim-jordan-as-new-leader-as-the-party-looks-to-rebuild-from-midterms",
+      "genuineness": "verified",
+      "outlets": [
+        "NPR",
+        "USA Today",
+        "New York Post",
+        "The Jerusalem Post"
+      ],
+      "image": "../images/world/world-20261111-1622-01.jpg",
+      "image_credit": "NPR"
+    },
+    {
+      "id": "world-20261111-1622-02",
+      "published_ist": "2026-11-10T22:42:00+05:30",
+      "headline": "Trinidad me samlaingik sambandh par pratibandh khatm",
+      "detail": "London ki Privy Council ne Trinidad aur Tobago ke aupaniveshik kaal ke kaanoon ko asamvaidhanik bataya; vyaskon ke beech sahmati se samlaingik sambandh ab apradh nahi, faisla antim hai.",
+      "category": "World",
+      "exam_angle": "Aupaniveshik kaanoon, manavadhikar aur nyayik sameeksha — Caribbean me LGBTQ adhikar ka aitihasik faisla.",
+      "source": "CNN",
+      "source_url": "https://www.cnn.com/2026/11/10/americas/trinidad-tobago-gay-sex-law-latam-intl?cid=external-feeds_iluminar_meta",
+      "genuineness": "verified",
+      "outlets": [
+        "Reuters",
+        "Associated Press",
+        "CNN",
+        "The Jerusalem Post"
+      ],
+      "image": null,
+      "image_credit": null
+    },
+    {
+      "id": "world-20261111-1622-03",
+      "published_ist": "2026-11-11T12:05:00+05:30",
+      "headline": "COP31: netaon ka shikhar sammelan aaj se",
+      "detail": "Antalya me COP31 ke netaon ke shikhar sammelan me duniya bhar ke neta jalvayu par bhaashan denge; Turkey bijli ki hissedari 2035 tak 35% karne ka prastav rakhega, America doosre saal bhi shamil nahi.",
+      "category": "World",
+      "exam_angle": "COP31, 1.5°C lakshya aur jalvayu vitt — paryavaran aur antarrashtriya sammelan ke liye mahatvapurna.",
+      "source": "Rappler",
+      "source_url": "https://www.rappler.com/world/global-affairs/leaders-address-cop31-november-11-2026/",
+      "genuineness": "verified",
+      "outlets": [
+        "Rappler",
+        "ANews",
+        "The Indian Express"
+      ],
+      "image": null,
+      "image_credit": null
     }
-  ]
+  ],
+  "date": "2026-11-11"
 }
