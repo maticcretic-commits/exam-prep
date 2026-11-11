@@ -72,6 +72,76 @@
     ],
     "answer_index": 1
    }
+  },
+  {
+   "episode": 106,
+   "video_hi": "HyfdcwbxWPw",
+   "video_hinglish": "HyfdcwbxWPw",
+   "capsules": [
+    {
+     "id": "ca-ep106-s1",
+     "headline_hi": "Aathve Vetan Aayog ko ek saal poora",
+     "headline_hinglish": "Aathve Vetan Aayog ko ek saal poora",
+     "detail_hi": "Teen November 2025 ko bana Aayog May 2027 tak report dega.",
+     "detail_hinglish": "Teen November 2025 ko bana Aayog May 2027 tak report dega.",
+     "category_hi": "Economy",
+     "category_en": "Economy"
+    },
+    {
+     "id": "ca-ep106-s2",
+     "headline_hi": "Aaryavir Sehwag ke 160 ne dilaya semi-final",
+     "headline_hinglish": "Aaryavir Sehwag ke 160 ne dilaya semi-final",
+     "detail_hi": "UAE ke khilaf 168 gendon par 160 run, Bharat 70 run se jeeta.",
+     "detail_hinglish": "UAE ke khilaf 168 gendon par 160 run, Bharat 70 run se jeeta.",
+     "category_hi": "Sports",
+     "category_en": "Sports"
+    },
+    {
+     "id": "ca-ep106-s3",
+     "headline_hi": "Red Fort blast: ek aaropi ab bhi farar",
+     "headline_hinglish": "Red Fort blast: ek aaropi ab bhi farar",
+     "detail_hi": "NIA ne do chargesheet dayar ki, Muzafar Ahmad Rather Afghanistan mein mana ja raha hai.",
+     "detail_hinglish": "NIA ne do chargesheet dayar ki, Muzafar Ahmad Rather Afghanistan mein mana ja raha hai.",
+     "category_hi": "Security",
+     "category_en": "National"
+    },
+    {
+     "id": "ca-ep106-s4",
+     "headline_hi": "Myanmar se bina kagaz aaye saat videshi giraftar",
+     "headline_hinglish": "Myanmar se bina kagaz aaye saat videshi giraftar",
+     "detail_hi": "NIA ne ek American aur chhe Ukrainian nagrikon ko giraftar kiya.",
+     "detail_hinglish": "NIA ne ek American aur chhe Ukrainian nagrikon ko giraftar kiya.",
+     "category_hi": "Security",
+     "category_en": "National"
+    },
+    {
+     "id": "ca-ep106-s5",
+     "headline_hi": "Iran khatre ke beech America ne viman hataye",
+     "headline_hinglish": "Iran khatre ke beech America ne viman hataye",
+     "detail_hi": "America ne Britain ke air base se apne sainya viman hata liye.",
+     "detail_hinglish": "America ne Britain ke air base se apne sainya viman hata liye.",
+     "category_hi": "International",
+     "category_en": "National"
+    }
+   ],
+   "mcq": {
+    "id": "ca-ep106-mcq",
+    "q_hi": "Aathve Vetan Aayog ki adhyaksh kaun hain?",
+    "q_hinglish": "Aathve Vetan Aayog ki adhyaksh kaun hain?",
+    "options_hi": [
+     "Justice Sanjiv Khanna",
+     "Justice Chandrachud",
+     "Justice Ranjana Prakash Desai",
+     "Justice Gavai"
+    ],
+    "options_hinglish": [
+     "Justice Sanjiv Khanna",
+     "Justice Chandrachud",
+     "Justice Ranjana Prakash Desai",
+     "Justice Gavai"
+    ],
+    "answer_index": 2
+   }
   }
  ]
 }
