@@ -1,41 +1,43 @@
 {
-  "updated_ist": "2026-11-11T18:24:57+05:30",
+  "updated_ist": "2026-11-11T19:25:40+05:30",
   "items": [
     {
-      "id": "world-20261111-1822-02",
-      "published_ist": "2026-11-11T13:37:00+05:30",
-      "headline": "Hormuz me phir tanker me aag",
-      "detail": "Iran ki sena ne kaha ki aaj subah ek tanker ne Hormuz ke poorv me pratibandhit kshetra me mine se takrakar aag pakad li; Mangalvaar ko bhi teen tanker jal uthe the.",
+      "id": "world-20261111-1922-01",
+      "published_ist": "2026-11-11T17:49:00+05:30",
+      "headline": "Abu Dhabi: badi kaidi adla-badli par sahmati",
+      "detail": "America ki madhyasthata wali Abu Dhabi vaarta me Russia aur Ukraine badi kaidi adla-badli par sahmat hue; Kushner ne ise yuddh ki sabse badi kaidi rihai bataya, aankde kal tay honge, yuddhviram par abhi koi sahmati nahi.",
       "category": "World",
-      "exam_angle": "Hormuz se tel vyapaar aur antarrashtriya suraksha — arthvyavastha ke liye mahatvapurna.",
-      "source": "The Hindu",
-      "source_url": "https://www.thehindu.com/news/international/iran-says-tanker-struck-mine-caught-fire-in-hormuz/article71688841.ece",
+      "exam_angle": "Russia-Ukraine shaanti vaarta aur kaidi adla-badli — antarrashtriya sambandh ke liye mahatvapurna.",
+      "source": "The Week",
+      "source_url": "https://www.theweek.in/wire-updates/international/2026/11/11/russia-ukraine-agree-to-large-exchange-of-prisoners-of-war-officials-at-abu-dhabi-talks-say.html",
       "genuineness": "verified",
       "outlets": [
-        "AFP",
-        "Al Mayadeen",
-        "Xinhua"
+        "Associated Press",
+        "Gulf News",
+        "CGTN",
+        "Firstpost"
       ],
       "image": null,
       "image_credit": null
     },
     {
-      "id": "world-20261111-1822-01",
-      "published_ist": "2026-11-11T04:44:00+05:30",
-      "headline": "Congo me Ebola: 11,000 se zyada case",
-      "detail": "Congo sarkar ke naye aankdon me Bundibugyo Ebola ke 11,042 case aur 5,387 mautein darj hain; 26 me se 8 praanton me faila prakop ab tak ka doosra sabse bada hai.",
+      "id": "world-20261111-1922-02",
+      "published_ist": "2026-11-11T16:49:00+05:30",
+      "headline": "Gibran ke khilaf mahabhiyog yachika, 120 sansad",
+      "detail": "Indonesia ki sansad me aath dalon ke 120 sansadon ne up-rashtrapati Gibran Rakabuming Raka ke khilaf mahabhiyog ki yachika di; unhone Mangalvaar ko rashtrapati Prabowo se istifa ka irada bhi jataya tha.",
       "category": "World",
-      "exam_angle": "Ebola prakop aur WHO ki bhoomika — swasthya aur antarrashtriya sangathan ke liye mahatvapurna.",
+      "exam_angle": "Indonesia me up-rashtrapati par mahabhiyog prakriya — dakshin-poorv Asia ki rajneeti ke liye mahatvapurna.",
       "source": "Reuters",
-      "source_url": "https://www.reuters.com/business/healthcare-pharmaceuticals/congos-ebola-cases-surpass-11000-government-data-show-2026-11-10/",
+      "source_url": "https://bworldonline.com/world/2026/11/11/793031/over-100-indonesian-lawmakers-sign-petition-that-could-lead-to-vice-presidents-impeachment/",
       "genuineness": "verified",
       "outlets": [
         "Reuters",
-        "Associated Press",
-        "Outlook India"
+        "The Straits Times",
+        "Nikkei Asia",
+        "Malay Mail"
       ],
-      "image": null,
-      "image_credit": null
+      "image": "../images/world/world-20261111-1922-02.jpg",
+      "image_credit": "Reuters via BusinessWorld"
     },
     {
       "id": "world-20261111-1722-01",
@@ -54,6 +56,24 @@
       ],
       "image": "../images/world/world-20261111-1722-01.jpg",
       "image_credit": "Reuters via Al Jazeera"
+    },
+    {
+      "id": "world-20261111-1822-02",
+      "published_ist": "2026-11-11T13:37:00+05:30",
+      "headline": "Hormuz me phir tanker me aag",
+      "detail": "Iran ki sena ne kaha ki aaj subah ek tanker ne Hormuz ke poorv me pratibandhit kshetra me mine se takrakar aag pakad li; Mangalvaar ko bhi teen tanker jal uthe the.",
+      "category": "World",
+      "exam_angle": "Hormuz se tel vyapaar aur antarrashtriya suraksha — arthvyavastha ke liye mahatvapurna.",
+      "source": "The Hindu",
+      "source_url": "https://www.thehindu.com/news/international/iran-says-tanker-struck-mine-caught-fire-in-hormuz/article71688841.ece",
+      "genuineness": "verified",
+      "outlets": [
+        "AFP",
+        "Al Mayadeen",
+        "Xinhua"
+      ],
+      "image": null,
+      "image_credit": null
     },
     {
       "id": "world-20261111-1522-02",
@@ -282,6 +302,24 @@
       "image_credit": null
     },
     {
+      "id": "world-20261111-1822-01",
+      "published_ist": "2026-11-11T04:44:00+05:30",
+      "headline": "Congo me Ebola: 11,000 se zyada case",
+      "detail": "Congo sarkar ke naye aankdon me Bundibugyo Ebola ke 11,042 case aur 5,387 mautein darj hain; 26 me se 8 praanton me faila prakop ab tak ka doosra sabse bada hai.",
+      "category": "World",
+      "exam_angle": "Ebola prakop aur WHO ki bhoomika — swasthya aur antarrashtriya sangathan ke liye mahatvapurna.",
+      "source": "Reuters",
+      "source_url": "https://www.reuters.com/business/healthcare-pharmaceuticals/congos-ebola-cases-surpass-11000-government-data-show-2026-11-10/",
+      "genuineness": "verified",
+      "outlets": [
+        "Reuters",
+        "Associated Press",
+        "Outlook India"
+      ],
+      "image": null,
+      "image_credit": null
+    },
+    {
       "id": "world-20261111-1022-01",
       "published_ist": "2026-11-11T04:04:00+05:30",
       "headline": "Seoul ke paas bus haadsa, 57 ghayal",
@@ -407,43 +445,6 @@
         "Environment Energy Leader",
         "Unite.ai",
         "Nordisk Post"
-      ],
-      "image": null,
-      "image_credit": null
-    },
-    {
-      "id": "world-20261111-1122-03",
-      "published_ist": "2026-11-10T21:57:00+05:30",
-      "headline": "Anthropic IPO: $70-78 prati share, $1 trillion mulya",
-      "detail": "Claude banane wali Anthropic ne IPO ke liye $70 se $78 prati share ka daam tay kiya; $64.4 billion tak jutakar company ka mulya lagbhag $1 trillion ho sakta hai — AI boom ki sabse badi pariksha.",
-      "category": "World",
-      "exam_angle": "AI boom aur duniya ke sabse bade IPO me se ek — arthvyavastha ke liye mahatvapurna.",
-      "source": "Reuters",
-      "source_url": "https://www.reuters.com/legal/transactional/view-anthropic-targets-1-trillion-ipo-valuation-key-test-ai-market-2026-11-10/",
-      "genuineness": "verified",
-      "outlets": [
-        "Reuters",
-        "CNN",
-        "The Korea Times"
-      ],
-      "image": null,
-      "image_credit": null
-    },
-    {
-      "id": "world-20261110-2225-02",
-      "published_ist": "2026-11-10T21:55:00+05:30",
-      "headline": "Russia ki tel refining kshamata 30% giri",
-      "detail": "Reuters ke anusaar October ke ant se Ukraine ke drone hamlo ne Russia ki tel shodhan kshamata lagbhag 30% ghata di; pichhle hafte 35 me se 9 badi refinery prabhavit hui aur Kirishi refinery me aag lagi.",
-      "category": "World",
-      "exam_angle": "Russia-Ukraine oorja yuddh aur vaishvik tel bazaar — arthvyavastha ke liye mahatvapurna.",
-      "source": "Reuters",
-      "source_url": "https://www.reuters.com/business/energy/recent-ukrainian-attacks-have-reduced-russias-oil-processing-capacity-by-30-2026-11-10/",
-      "genuineness": "verified",
-      "outlets": [
-        "Reuters",
-        "Kyiv Independent",
-        "Ukrainska Pravda",
-        "Hromadske"
       ],
       "image": null,
       "image_credit": null
