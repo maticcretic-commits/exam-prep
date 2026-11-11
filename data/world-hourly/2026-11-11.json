@@ -597,6 +597,43 @@
       ],
       "image": null,
       "image_credit": null
+    },
+    {
+      "id": "world-20261111-1722-01",
+      "published_ist": "2026-11-11T15:48:00+05:30",
+      "headline": "Spain me 14 saal baad aam hadtaal",
+      "detail": "Awaas sankat par laakhon mazdoor hadtaal par gaye; 29 November ke chunaav se pehle parivahan aur factory ka kaam thap hua.",
+      "category": "World",
+      "exam_angle": "Awaas sankat aur shramik andolan — Spain ke 29 November chunaav se pehle ka bada mudda; UPSC ke liye antarrashtriya arthvyavastha aur shram muddon se juda.",
+      "source": "Al Jazeera",
+      "source_url": "https://www.aljazeera.com/news/2026/11/11/spains-first-general-strike-in-14-years-begins",
+      "genuineness": "verified",
+      "outlets": [
+        "Reuters",
+        "Al Jazeera",
+        "Associated Press"
+      ],
+      "image": "../images/world/world-20261111-1722-01.jpg",
+      "image_credit": "Reuters via Al Jazeera"
+    },
+    {
+      "id": "world-20261111-1722-02",
+      "published_ist": "2026-11-11T06:27:00+05:30",
+      "headline": "Rubio: Iran par bade hamle ki zaroorat nahi",
+      "detail": "Videsh mantri Marco Rubio ne Paris me kaha ki Iran par aarthik dabav itna asardar hai ki bade sainya hamle ki zaroorat nahi hai.",
+      "category": "World",
+      "exam_angle": "America-Iran tanaav aur aarthik pratibandh — Hormuz aur paschim Asia ki sthiti se juda.",
+      "source": "Dawn",
+      "source_url": "https://www.dawn.com/news/2043645/iran-urges-us-to-meet-terms-for-hormuz-opening",
+      "genuineness": "verified",
+      "outlets": [
+        "Dawn",
+        "News18",
+        "Arab News",
+        "The Standard"
+      ],
+      "image": null,
+      "image_credit": null
     }
   ],
   "date": "2026-11-11"
