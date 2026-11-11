@@ -1,59 +1,20 @@
 {
-  "updated_ist": "2026-11-11T06:26:50+05:30",
+  "updated_ist": "2026-11-11T07:22:00+05:30",
   "items": [
     {
-      "id": "world-20261111-0622-01",
-      "published_ist": "2026-11-10T13:30:00+05:30",
-      "headline": "Oviedo me backpack dhamaka, police adhikari ki maut",
-      "detail": "Spain ke Oviedo me goli-bari ki jaanch ke dauraan ek backpack me chhupa bomb phata — ek police adhikari aur uska kutta mare gaye, bomb-nirodhak visheshagya gambhir roop se ghayal hua.",
+      "id": "world-20261111-0722-02",
+      "published_ist": "2026-11-11T01:13:00+05:30",
+      "headline": "Jail se UK airbase par hamle ki sajish",
+      "detail": "America ne aarop lagaya ki New York ki jail se Iranian operative Mohammad Dawood Al-Saadi ne coded messages se UK ke RAF Fairford base par hamle ki sajish rachayi; do aur logon par bhi aarop lage.",
       "category": "World",
-      "exam_angle": null,
-      "source": "Times Now",
-      "source_url": "https://www.timesnownews.com/world/europe/horror-in-spain-backpack-explosion-kills-police-officer-in-oviedo-bomb-expert-loses-leg-article-156489913",
-      "genuineness": "verified",
-      "outlets": [
-        "Times Now",
-        "JFeed",
-        "The News",
-        "Deutsche Welle"
-      ],
-      "image": null,
-      "image_credit": null
-    },
-    {
-      "id": "world-20261111-0622-02",
-      "published_ist": "2026-11-10T13:10:00+05:30",
-      "headline": "Iran khatre par America ne UK base se vimaan hataye",
-      "detail": "Iran se khatre ke baad America ne RAF Mildenhall se kam se kam 10 tanker vimaan asthaayi roop se Germany, Spain aur Scotland bhej diye; base ki suraksha star bhi badhaya gaya.",
-      "category": "World",
-      "exam_angle": "America-Iran tanaav aur paschimi sainya taiyaari — antarrashtriya sambandh ke liye mahatvapurna.",
+      "exam_angle": "America-Iran tanaav aur antarrashtriya suraksha — antarrashtriya sambandh ke liye mahatvapurna.",
       "source": "CNN",
-      "source_url": "https://www.cnn.com/2026/11/10/world/us-moves-aircraft-british-military-base-intl?cid=external-feeds_iluminar_meta",
+      "source_url": "https://www.cnn.com/2026/11/10/politics/fairford-terror-plot-arrest?cid=external-feeds_iluminar_meta",
       "genuineness": "verified",
       "outlets": [
         "CNN",
-        "The Wall Street Journal",
-        "The National",
-        "Reuters"
-      ],
-      "image": null,
-      "image_credit": null
-    },
-    {
-      "id": "world-20261111-0622-03",
-      "published_ist": "2026-11-10T18:24:00+05:30",
-      "headline": "Abu Dhabi vaarta: pehla din kathin, aaj doosra din",
-      "detail": "Ukraine-Russia-America vaarta ka pehla satra lagbhag 4 ghante chala; Kremlin ne ise 'kathin lekin rachnaatmak' bataya — suraksha guarantee aur oorja-yuddhviram par baatchit aaj 11 November ko phir shuru hogi.",
-      "category": "World",
-      "exam_angle": "Ukraine shaanti vaarta aur suraksha guarantee — antarrashtriya sambandh ke liye mahatvapurna.",
-      "source": "Associated Press",
-      "source_url": "https://apnews.com/article/3d878a3e56d5df5bd198a6d20c824d18",
-      "genuineness": "verified",
-      "outlets": [
-        "Associated Press",
-        "Interfax-Ukraine",
-        "Reuters",
-        "NewsCubby"
+        "The Times",
+        "New York Post"
       ],
       "image": null,
       "image_credit": null
@@ -78,6 +39,25 @@
       "image_credit": null
     },
     {
+      "id": "world-20261111-0722-04",
+      "published_ist": "2026-11-10T20:46:00+05:30",
+      "headline": "UNICEF: Gaza me baadh ka khatra, marammat ruki",
+      "detail": "UNICEF ne kaha Israel ne Gaza ke Sheikh Radwan basin ki marammat ke liye saaman ki aamad roki; bhaari baarish se hazaaron tent doob chuke hain aur ret ke teele girne se chaar log mare.",
+      "category": "World",
+      "exam_angle": null,
+      "source": "Arab News",
+      "source_url": "https://www.arabnews.com/middle-east/unicef-says-israel-blocks-gaza-basin-repairs-warns-of-flood-risk-3010982",
+      "genuineness": "verified",
+      "outlets": [
+        "Reuters",
+        "Arab News",
+        "The Jerusalem Post",
+        "Dawn"
+      ],
+      "image": null,
+      "image_credit": null
+    },
+    {
       "id": "world-20261110-2122-01",
       "published_ist": "2026-11-10T20:12:00+05:30",
       "headline": "UAE ke paani me ADNOC jahaz par hamla",
@@ -92,6 +72,44 @@
         "Khaleej Times",
         "Gulf News",
         "Emirates 24|7"
+      ],
+      "image": null,
+      "image_credit": null
+    },
+    {
+      "id": "world-20261111-0722-01",
+      "published_ist": "2026-11-10T18:43:00+05:30",
+      "headline": "Kohre me Bulgaria highway par 86 gaadiyan takrayin",
+      "detail": "Bulgaria ki Trakia motorway par ghane kohre me do bade haadse hue — 86 gaadiyan takrayin, 12 log mare aur 46 ghayal hue.",
+      "category": "World",
+      "exam_angle": null,
+      "source": "Daily Sabah",
+      "source_url": "https://www.dailysabah.com/world/europe/bulgaria-highway-pileup-due-to-dense-fog-kills-12-injures-dozens/amp",
+      "genuineness": "verified",
+      "outlets": [
+        "Daily Sabah",
+        "The Sun",
+        "JFeed",
+        "UNN"
+      ],
+      "image": null,
+      "image_credit": null
+    },
+    {
+      "id": "world-20261111-0622-03",
+      "published_ist": "2026-11-10T18:24:00+05:30",
+      "headline": "Abu Dhabi vaarta: pehla din kathin, aaj doosra din",
+      "detail": "Ukraine-Russia-America vaarta ka pehla satra lagbhag 4 ghante chala; Kremlin ne ise 'kathin lekin rachnaatmak' bataya — suraksha guarantee aur oorja-yuddhviram par baatchit aaj 11 November ko phir shuru hogi.",
+      "category": "World",
+      "exam_angle": "Ukraine shaanti vaarta aur suraksha guarantee — antarrashtriya sambandh ke liye mahatvapurna.",
+      "source": "Associated Press",
+      "source_url": "https://apnews.com/article/3d878a3e56d5df5bd198a6d20c824d18",
+      "genuineness": "verified",
+      "outlets": [
+        "Associated Press",
+        "Interfax-Ukraine",
+        "Reuters",
+        "NewsCubby"
       ],
       "image": null,
       "image_credit": null
@@ -315,6 +333,44 @@
       "image_credit": null
     },
     {
+      "id": "world-20261111-0622-01",
+      "published_ist": "2026-11-10T13:30:00+05:30",
+      "headline": "Oviedo me backpack dhamaka, police adhikari ki maut",
+      "detail": "Spain ke Oviedo me goli-bari ki jaanch ke dauraan ek backpack me chhupa bomb phata — ek police adhikari aur uska kutta mare gaye, bomb-nirodhak visheshagya gambhir roop se ghayal hua.",
+      "category": "World",
+      "exam_angle": null,
+      "source": "Times Now",
+      "source_url": "https://www.timesnownews.com/world/europe/horror-in-spain-backpack-explosion-kills-police-officer-in-oviedo-bomb-expert-loses-leg-article-156489913",
+      "genuineness": "verified",
+      "outlets": [
+        "Times Now",
+        "JFeed",
+        "The News",
+        "Deutsche Welle"
+      ],
+      "image": null,
+      "image_credit": null
+    },
+    {
+      "id": "world-20261111-0622-02",
+      "published_ist": "2026-11-10T13:10:00+05:30",
+      "headline": "Iran khatre par America ne UK base se vimaan hataye",
+      "detail": "Iran se khatre ke baad America ne RAF Mildenhall se kam se kam 10 tanker vimaan asthaayi roop se Germany, Spain aur Scotland bhej diye; base ki suraksha star bhi badhaya gaya.",
+      "category": "World",
+      "exam_angle": "America-Iran tanaav aur paschimi sainya taiyaari — antarrashtriya sambandh ke liye mahatvapurna.",
+      "source": "CNN",
+      "source_url": "https://www.cnn.com/2026/11/10/world/us-moves-aircraft-british-military-base-intl?cid=external-feeds_iluminar_meta",
+      "genuineness": "verified",
+      "outlets": [
+        "CNN",
+        "The Wall Street Journal",
+        "The National",
+        "Reuters"
+      ],
+      "image": null,
+      "image_credit": null
+    },
+    {
       "id": "world-20261110-1322-01",
       "published_ist": "2026-11-10T12:10:00+05:30",
       "headline": "Abu Dhabi me Ukraine shaanti vaarta shuru",
@@ -387,60 +443,6 @@
       ],
       "image": "../images/world/world-20261110-1422-01.jpg",
       "image_credit": "Mark Neyman / GPO, CC BY-SA 3.0 (Wikimedia Commons)"
-    },
-    {
-      "id": "world-20261110-1822-03",
-      "published_ist": "2026-11-10T08:43:00+05:30",
-      "headline": "Boeing 2,500 naukriyan kaatega, utpadan dheema",
-      "detail": "Boeing apne commercial airplanes division ki lagbhag 5% naukriyan kaatega, karib 2,500 pad prabhavit honge; 737 MAX ka utpadan lakshya 2027 tak tal gaya hai.",
-      "category": "World",
-      "exam_angle": "Vishva arthvyavastha aur aviation udyog — pariksha ke liye mahatvapurna.",
-      "source": "Business Standard",
-      "source_url": "https://www.business-standard.com/amp/world-news/boeing-to-cut-5-of-commercial-aircraft-workforce-amid-production-delay-126111000092_1.html",
-      "genuineness": "verified",
-      "outlets": [
-        "Reuters",
-        "Leeham News",
-        "Business Standard"
-      ],
-      "image": null,
-      "image_credit": null
-    },
-    {
-      "id": "world-20261110-0822-03",
-      "published_ist": "2026-11-10T08:24:00+05:30",
-      "headline": "Damascus me Macron ke hotel ke paas do dhamake",
-      "detail": "Syria yatra ke dusre din Damascus me Four Seasons Hotel ke paas do visfot hue, 18 log ghayal hue jinme chaar policekarmi hain; Macron surakshit hain aur unki yatra jaari rahegi.",
-      "category": "World",
-      "exam_angle": "Assad ke baad Syria me pehli badi pashchimi yatra — antarrashtriya sambandh ke liye mahatvapurna.",
-      "source": "RNZ (AFP)",
-      "source_url": "https://www.rnz.co.nz/news/world/684290/bomb-attacks-wound-18-in-damascus-as-french-president-emmanuel-macron-visits",
-      "genuineness": "verified",
-      "outlets": [
-        "AFP",
-        "RNZ",
-        "Zee News"
-      ],
-      "image": null,
-      "image_credit": null
-    },
-    {
-      "id": "world-20261110-1125-01",
-      "published_ist": "2026-11-10T07:39:00+05:30",
-      "headline": "Riyadh ki taraf do Houthi missile giraye",
-      "detail": "Saudi netritva wale gathbandhan ne Riyadh ki taraf daage gaye ek ballistic aur ek cruise missile ko rok kar nasht kar diya; dakshin kshetra ki taraf daaga ek aur missile bhi giraya gaya, koi nuksaan ki khabar nahi.",
-      "category": "World",
-      "exam_angle": "Houthi-Saudi tanav aur Hormuz — antarrashtriya sambandh ke liye mahatvapurna.",
-      "source": "Reuters",
-      "source_url": "https://www.reuters.com/world/middle-east/saudi-led-coalition-says-it-intercepts-two-houthi-missiles-fired-towards-riyadh-2026-11-10/",
-      "genuineness": "verified",
-      "outlets": [
-        "Reuters",
-        "Al Jazeera",
-        "The Economic Times"
-      ],
-      "image": null,
-      "image_credit": null
     }
   ]
 }
