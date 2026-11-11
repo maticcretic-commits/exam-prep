@@ -1,5 +1,5 @@
 {
-  "updated_ist": "2026-11-11T11:22:00+05:30",
+  "updated_ist": "2026-11-11T12:26:57+05:30",
   "items": [
     {
       "id": "world-20261111-1122-01",
@@ -40,19 +40,20 @@
       "image_credit": null
     },
     {
-      "id": "world-20261111-1122-03",
-      "published_ist": "2026-11-10T21:57:00+05:30",
-      "headline": "Anthropic IPO: $70-78 prati share, $1 trillion mulya",
-      "detail": "Claude banane wali Anthropic ne IPO ke liye $70 se $78 prati share ka daam tay kiya; $64.4 billion tak jutakar company ka mulya lagbhag $1 trillion ho sakta hai — AI boom ki sabse badi pariksha.",
+      "id": "world-20261111-1222-02",
+      "published_ist": "2026-11-11T09:06:00+05:30",
+      "headline": "Nvidia ne Wachtell ko jaanch saunpi",
+      "detail": "Nvidia ne Wachtell, Lipton, Rosen & Katz ko CEO Jensen Huang ke kathit Chinese jasus se sambandh ki swatantra jaanch ke liye bulaya; FBI alag se jaanch kar raha hai.",
       "category": "World",
-      "exam_angle": "AI boom aur duniya ke sabse bade IPO me se ek — arthvyavastha ke liye mahatvapurna.",
-      "source": "Reuters",
-      "source_url": "https://www.reuters.com/legal/transactional/view-anthropic-targets-1-trillion-ipo-valuation-key-test-ai-market-2026-11-10/",
+      "exam_angle": "Nvidia, AI chip aur rashtriya suraksha",
+      "source": "Free Press Journal",
+      "source_url": "https://www.freepressjournal.in/amp/tech/nvidia-hires-top-us-law-firm-to-investigate-ceo-jensen-huangs-alleged-link-to-chinese-spy",
       "genuineness": "verified",
       "outlets": [
-        "Reuters",
-        "CNN",
-        "The Korea Times"
+        "Free Press Journal",
+        "CNBC TV18",
+        "The Economic Times",
+        "USA Today"
       ],
       "image": null,
       "image_credit": null
@@ -113,6 +114,26 @@
       "image_credit": null
     },
     {
+      "id": "world-20261111-1222-04",
+      "published_ist": "2026-11-11T00:15:00+05:30",
+      "headline": "UK me US sena adhikari jasusi me giraftar",
+      "detail": "Britain me NATO unit me tainat 41 saal ke US sena adhikari ko Russia se judi jasusi ke sandeh me giraftar kiya gaya; woh London me hirasat me hai.",
+      "category": "World",
+      "exam_angle": "NATO aur Russian jasusi",
+      "source": "Metropolitan Police",
+      "source_url": "https://news.met.police.uk/news/member-of-us-army-arrested-as-part-of-counter-terrorism-policing-investigation-514875",
+      "genuineness": "verified",
+      "outlets": [
+        "CNN",
+        "Arab News",
+        "The Wall Street Journal",
+        "The Times",
+        "Metropolitan Police"
+      ],
+      "image": null,
+      "image_credit": null
+    },
+    {
       "id": "world-20261111-0822-01",
       "published_ist": "2026-11-10T23:26:00+05:30",
       "headline": "Houthi hamle: Riyadh me dhamake, missile roka gaya",
@@ -126,6 +147,24 @@
         "Mathrubhumi",
         "The National",
         "Gulf Today"
+      ],
+      "image": null,
+      "image_credit": null
+    },
+    {
+      "id": "world-20261111-1122-03",
+      "published_ist": "2026-11-10T21:57:00+05:30",
+      "headline": "Anthropic IPO: $70-78 prati share, $1 trillion mulya",
+      "detail": "Claude banane wali Anthropic ne IPO ke liye $70 se $78 prati share ka daam tay kiya; $64.4 billion tak jutakar company ka mulya lagbhag $1 trillion ho sakta hai — AI boom ki sabse badi pariksha.",
+      "category": "World",
+      "exam_angle": "AI boom aur duniya ke sabse bade IPO me se ek — arthvyavastha ke liye mahatvapurna.",
+      "source": "Reuters",
+      "source_url": "https://www.reuters.com/legal/transactional/view-anthropic-targets-1-trillion-ipo-valuation-key-test-ai-market-2026-11-10/",
+      "genuineness": "verified",
+      "outlets": [
+        "Reuters",
+        "CNN",
+        "The Korea Times"
       ],
       "image": null,
       "image_credit": null
@@ -404,43 +443,6 @@
       "outlets": [
         "DR",
         "Times Now"
-      ],
-      "image": null,
-      "image_credit": null
-    },
-    {
-      "id": "world-20261110-1822-01",
-      "published_ist": "2026-11-10T15:52:00+05:30",
-      "headline": "M. John Harrison ne Booker Prize jeeta",
-      "detail": "81 saal ke M. John Harrison ko unke upanyas 'The End of Everything' ke liye 2026 Booker Prize mila; ve is puraskar ke sabse umr-daraaz vijeta bane.",
-      "category": "World",
-      "exam_angle": "Booker Prize 2026 — sahitya aur puraskar ke liye mahatvapurna.",
-      "source": "Al Jazeera",
-      "source_url": "https://www.aljazeera.com/news/2026/11/10/uk-author-m-john-harrisons-end-of-everything-wins-booker-prize",
-      "genuineness": "verified",
-      "outlets": [
-        "Al Jazeera",
-        "CNN",
-        "The Times"
-      ],
-      "image": null,
-      "image_credit": null
-    },
-    {
-      "id": "world-20261110-1627-02",
-      "published_ist": "2026-11-10T15:51:00+05:30",
-      "headline": "8 kshetron me Ukraine ki bijli par hamla",
-      "detail": "Ukrenergo ke anusaar Russia ne raat bhar Kyiv, Kharkiv, Sumy sahit 8 kshetron ki oorja suvidhaon par hamla kiya, 6 kshetron me bijli gul ho gayi.",
-      "category": "World",
-      "exam_angle": "Russia-Ukraine yuddh: oorja dhaanche par hamle",
-      "source": "Reuters",
-      "source_url": "https://www.reuters.com/business/energy/russia-attacks-energy-facilities-eight-ukrainian-regions-grid-operator-says-2026-11-10/",
-      "genuineness": "verified",
-      "outlets": [
-        "Reuters",
-        "Ukrinform",
-        "UNN",
-        "LB.ua"
       ],
       "image": null,
       "image_credit": null
