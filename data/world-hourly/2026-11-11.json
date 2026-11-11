@@ -1,5 +1,5 @@
 {
- "updated_ist": "2026-11-11T21:27:01+05:30",
+ "updated_ist": "2026-11-11T22:27:24+05:30",
  "items": [
   {
    "id": "world-20261111-0622-01",
@@ -794,6 +794,60 @@
     "Reuters",
     "Al Jazeera",
     "The Times of India"
+   ],
+   "image": null,
+   "image_credit": null
+  },
+  {
+   "id": "world-20261111-2226-01",
+   "published_ist": "2026-11-11T05:44:00+05:30",
+   "headline": "America ne 3 Iran samarthak aaropiyon par case",
+   "detail": "America ke Justice Department ne mangalwar ko teen aaropiyon par RAF Fairford air base par hamle ki sajish aur Europe-America me lagbhag 20 hamlo me shamil hone ka aarop lagaya; ye aarop abhi adalat me saabit nahi hue hain.",
+   "category": "World",
+   "exam_angle": "Iran-America tanav aur antarrashtriya suraksha — antarrashtriya sambandh ke liye mahatvapurna.",
+   "source": "The Hindu",
+   "source_url": "https://www.thehindu.com/news/international/us-charges-three-iranian-operatives-over-uk-airbase-plot/article71687536.ece",
+   "genuineness": "verified",
+   "outlets": [
+    "The Hindu",
+    "The National",
+    "Al Jazeera"
+   ],
+   "image": null,
+   "image_credit": null
+  },
+  {
+   "id": "world-20261111-2226-02",
+   "published_ist": "2026-11-11T08:54:00+05:30",
+   "headline": "Israel ki nayi sansad shapath, sarkar nahi",
+   "detail": "Mangalwar ko Israel ki 26th Knesset ke 120 sansadon ne shapath li, lekin kisi ke paas bahumat nahi hai; Netanyahu caretaker PM bane rahenge aur Eisenkot ke paas sarkar banane ke liye 6 December tak ka samay hai.",
+   "category": "World",
+   "exam_angle": "Israel ki rajneeti aur sansadiya vyavastha — antarrashtriya sambandh ke liye mahatvapurna.",
+   "source": "Reuters",
+   "source_url": "https://www.reuters.com/world/israels-parliament-sworn-eisenkot-tries-forge-government-2026-11-10/",
+   "genuineness": "verified",
+   "outlets": [
+    "Reuters",
+    "The Times of Israel",
+    "Bangkok Post"
+   ],
+   "image": "../images/world/world-20261111-2226-02.jpg",
+   "image_credit": "Gary Todd, CC0, via Wikimedia Commons"
+  },
+  {
+   "id": "world-20261111-2226-03",
+   "published_ist": "2026-11-11T11:54:00+05:30",
+   "headline": "Britain: US sena adhikari jasusi aarop me giraftar",
+   "detail": "Britain me NATO unit me tainat 41 saal ke ek senior US sena adhikari ko Russia ke liye jasusi ke sandeh me giraftar kiya gaya; police ne saaf kiya ki iska RAF Fairford wale mamle se koi lena-dena nahi hai.",
+   "category": "World",
+   "exam_angle": "NATO, jasusi aur antarrashtriya suraksha — antarrashtriya sambandh ke liye mahatvapurna.",
+   "source": "The Times of Israel",
+   "source_url": "https://www.timesofisrael.com/senior-us-officer-in-nato-unit-arrested-in-uk-on-suspicion-of-spying-for-russia/amp/",
+   "genuineness": "verified",
+   "outlets": [
+    "CNN",
+    "Reuters",
+    "Associated Press"
    ],
    "image": null,
    "image_credit": null
