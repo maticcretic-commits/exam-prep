@@ -142,6 +142,76 @@
     ],
     "answer_index": 2
    }
+  },
+  {
+   "episode": 107,
+   "video_hi": "cSavXC9HEg4",
+   "video_hinglish": "cSavXC9HEg4",
+   "capsules": [
+    {
+     "id": "ca-ep107-s1",
+     "headline_hi": "Cancer ki dawaiyan sasti, bachat 3,540 crore",
+     "headline_hinglish": "Cancer ki dawaiyan sasti, bachat 3,540 crore",
+     "detail_hi": "NPPA ne 137 cancer dawaiyon par margin cap lagaya, 679 brand aadhe se zyada saste.",
+     "detail_hinglish": "NPPA ne 137 cancer dawaiyon par margin cap lagaya, 679 brand aadhe se zyada saste.",
+     "category_hi": "Economy",
+     "category_en": "Economy"
+    },
+    {
+     "id": "ca-ep107-s2",
+     "headline_hi": "Digital arrest par Supreme Court ne manga jawab",
+     "headline_hinglish": "Digital arrest par Supreme Court ne manga jawab",
+     "detail_hi": "WhatsApp aur platforms se roktham ke upaay batane ko kaha, sunwai 23 November ko.",
+     "detail_hinglish": "WhatsApp aur platforms se roktham ke upaay batane ko kaha, sunwai 23 November ko.",
+     "category_hi": "Polity",
+     "category_en": "Polity"
+    },
+    {
+     "id": "ca-ep107-s3",
+     "headline_hi": "Agniveeron ko mile do saal ka extra samay",
+     "headline_hinglish": "Agniveeron ko mile do saal ka extra samay",
+     "detail_hi": "Chune na gaye 75 pratishat Agniveeron ko niyamit bharti se pehle do saal aur milenge.",
+     "detail_hinglish": "Chune na gaye 75 pratishat Agniveeron ko niyamit bharti se pehle do saal aur milenge.",
+     "category_hi": "Defence",
+     "category_en": "Defence"
+    },
+    {
+     "id": "ca-ep107-s4",
+     "headline_hi": "Cyclone Murasu ne barbaad ki 52,000 hectare fasal",
+     "headline_hinglish": "Cyclone Murasu ne barbaad ki 52,000 hectare fasal",
+     "detail_hi": "Teen November ko Ongole ke paas landfall, hawa 110 kilometre prati ghanta.",
+     "detail_hinglish": "Teen November ko Ongole ke paas landfall, hawa 110 kilometre prati ghanta.",
+     "category_hi": "Geography",
+     "category_en": "National"
+    },
+    {
+     "id": "ca-ep107-s5",
+     "headline_hi": "307 saal purani Mahabharat pandulipi UNESCO register mein",
+     "headline_hinglish": "307 saal purani Mahabharat pandulipi UNESCO register mein",
+     "detail_hi": "Visva-Bharati mein rakhi taad-patra pandulipi Memory of the World list mein shamil.",
+     "detail_hinglish": "Visva-Bharati mein rakhi taad-patra pandulipi Memory of the World list mein shamil.",
+     "category_hi": "Culture",
+     "category_en": "National"
+    }
+   ],
+   "mcq": {
+    "id": "ca-ep107-mcq",
+    "q_hi": "Teen sau saat saal purani Mahabharat pandulipi kis university mein rakhi hai?",
+    "q_hinglish": "Teen sau saat saal purani Mahabharat pandulipi kis university mein rakhi hai?",
+    "options_hi": [
+     "Nalanda University",
+     "Visva-Bharati University",
+     "Banaras Hindu University",
+     "Delhi University"
+    ],
+    "options_hinglish": [
+     "Nalanda University",
+     "Visva-Bharati University",
+     "Banaras Hindu University",
+     "Delhi University"
+    ],
+    "answer_index": 1
+   }
   }
  ]
 }
