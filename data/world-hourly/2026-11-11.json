@@ -113,7 +113,78 @@
       ],
       "image": null,
       "image_credit": null
+    },
+    {
+      "id": "world-20261111-0822-01",
+      "published_ist": "2026-11-10T23:26:00+05:30",
+      "headline": "Houthi hamle: Riyadh me dhamake, missile roka gaya",
+      "detail": "Houthi vidrohiyon ne Mangalvaar ko Riyadh airport aur Aramco suvidhaon par naye missile-drone hamle ka daava kiya; Saudi gathbandhan ne Riyadh ki ore aayi ballistic missile ko rok diya.",
+      "category": "World",
+      "exam_angle": "Yemen-Saudi sangharsh aur tel suraksha — antarrashtriya sambandh ke liye mahatvapurna.",
+      "source": "Mathrubhumi",
+      "source_url": "https://english.mathrubhumi.com/amp/news/world/houthis-attack-riyadh-airport-aramco-saudi-arabia-hn0rgh79",
+      "genuineness": "verified",
+      "outlets": [
+        "Mathrubhumi",
+        "The National",
+        "Gulf Today"
+      ],
+      "image": null,
+      "image_credit": null
+    },
+    {
+      "id": "world-20261111-0822-02",
+      "published_ist": "2026-11-10T13:39:00+05:30",
+      "headline": "Nvidia: jasusi aarop par jaanch, share gire",
+      "detail": "Nvidia ke board ne CEO Jensen Huang par China se jude jasusi aaropon ki swatantra jaanch shuru ki; khabar ke baad company ke share 4% se zyada gire — China ne aarop kharij kiye.",
+      "category": "World",
+      "exam_angle": "AI chip niryat pratibandh aur America-China tech tanaav — arthvyavastha ke liye mahatvapurna.",
+      "source": "IOL",
+      "source_url": "https://iol.co.za/business/economy/2026-11-10-nvidia-shares-tumble-as-board-investigates-reports-of-china-linked-spy-claims/",
+      "genuineness": "verified",
+      "outlets": [
+        "AFP",
+        "New Straits Times",
+        "Fortune India"
+      ],
+      "image": null,
+      "image_credit": null
+    },
+    {
+      "id": "world-20261111-0822-03",
+      "published_ist": "2026-11-10T09:25:23+05:30",
+      "headline": "Trump: Iran yuddh 'lagbhag khatm', hamle ruke",
+      "detail": "Rashtrapati Trump ne Qatar ke PM se mulaqaat ke baad kaha Iran yuddh sainik roop se 'lagbhag khatm' hai aur naye hamle abhi zaroori nahi — lekin America 'taiyaar' rahega.",
+      "category": "World",
+      "exam_angle": "America-Iran yuddh aur Qatar ki madhyasthata — antarrashtriya sambandh ke liye mahatvapurna.",
+      "source": "Business Standard",
+      "source_url": "https://www.business-standard.com/amp/world-news/trump-signals-ending-iran-war-says-further-airstrikes-won-t-be-necessary-126111000125_1.html",
+      "genuineness": "verified",
+      "outlets": [
+        "Al Jazeera",
+        "Business Standard",
+        "Economic Times"
+      ],
+      "image": null,
+      "image_credit": null
+    },
+    {
+      "id": "world-20261111-0822-04",
+      "published_ist": "2026-11-09T17:17:00+05:30",
+      "headline": "Senegal me naav doobne se 39 ki maut",
+      "detail": "Senegal ke uttari tat par Spain ja rahi pravasi naav palat gayi — 39 log mare, sirf ek bacha; shuru me mrityu sankhya 21 batayi gayi thi.",
+      "category": "World",
+      "exam_angle": "Atlantic pravasi route aur antarrashtriya palayan — antarrashtriya sambandh ke liye mahatvapurna.",
+      "source": "Times of India",
+      "source_url": "https://timesofindia.indiatimes.com/world/europe/34-dead-as-migrant-boat-capsizes-off-senegal-on-perilous-route-to-spains-canary-islands/articleshow/135680169.cms",
+      "genuineness": "verified",
+      "outlets": [
+        "AFP",
+        "Times of India",
+        "InfoMigrants"
+      ],
+      "image": null,
+      "image_credit": null
     }
-  ],
-  "updated_ist": "2026-11-11T07:22:00+05:30"
+  ]
 }
