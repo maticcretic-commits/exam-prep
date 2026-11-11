@@ -1,5 +1,5 @@
 {
- "updated_ist": "2026-11-11T21:27:01+05:30",
+ "updated_ist": "2026-11-11T22:27:24+05:30",
  "items": [
   {
    "id": "world-20261111-2122-01",
@@ -149,6 +149,24 @@
    "image_credit": null
   },
   {
+   "id": "world-20261111-2226-03",
+   "published_ist": "2026-11-11T11:54:00+05:30",
+   "headline": "Britain: US sena adhikari jasusi aarop me giraftar",
+   "detail": "Britain me NATO unit me tainat 41 saal ke ek senior US sena adhikari ko Russia ke liye jasusi ke sandeh me giraftar kiya gaya; police ne saaf kiya ki iska RAF Fairford wale mamle se koi lena-dena nahi hai.",
+   "category": "World",
+   "exam_angle": "NATO, jasusi aur antarrashtriya suraksha — antarrashtriya sambandh ke liye mahatvapurna.",
+   "source": "The Times of Israel",
+   "source_url": "https://www.timesofisrael.com/senior-us-officer-in-nato-unit-arrested-in-uk-on-suspicion-of-spying-for-russia/amp/",
+   "genuineness": "verified",
+   "outlets": [
+    "CNN",
+    "Reuters",
+    "Associated Press"
+   ],
+   "image": null,
+   "image_credit": null
+  },
+  {
    "id": "world-20261111-1522-01",
    "published_ist": "2026-11-11T11:00:00+05:30",
    "headline": "Lithuania me drone: NATO jets hue scramble",
@@ -262,6 +280,24 @@
    "image_credit": null
   },
   {
+   "id": "world-20261111-2226-02",
+   "published_ist": "2026-11-11T08:54:00+05:30",
+   "headline": "Israel ki nayi sansad shapath, sarkar nahi",
+   "detail": "Mangalwar ko Israel ki 26th Knesset ke 120 sansadon ne shapath li, lekin kisi ke paas bahumat nahi hai; Netanyahu caretaker PM bane rahenge aur Eisenkot ke paas sarkar banane ke liye 6 December tak ka samay hai.",
+   "category": "World",
+   "exam_angle": "Israel ki rajneeti aur sansadiya vyavastha — antarrashtriya sambandh ke liye mahatvapurna.",
+   "source": "Reuters",
+   "source_url": "https://www.reuters.com/world/israels-parliament-sworn-eisenkot-tries-forge-government-2026-11-10/",
+   "genuineness": "verified",
+   "outlets": [
+    "Reuters",
+    "The Times of Israel",
+    "Bangkok Post"
+   ],
+   "image": "../images/world/world-20261111-2226-02.jpg",
+   "image_credit": "Gary Todd, CC0, via Wikimedia Commons"
+  },
+  {
    "id": "world-20261111-1322-01",
    "published_ist": "2026-11-11T08:47:00+05:30",
    "headline": "Trump ka BBC par maan-hani mukadma aage badhega",
@@ -355,6 +391,24 @@
    "image_credit": null
   },
   {
+   "id": "world-20261111-2226-01",
+   "published_ist": "2026-11-11T05:44:00+05:30",
+   "headline": "America ne 3 Iran samarthak aaropiyon par case",
+   "detail": "America ke Justice Department ne mangalwar ko teen aaropiyon par RAF Fairford air base par hamle ki sajish aur Europe-America me lagbhag 20 hamlo me shamil hone ka aarop lagaya; ye aarop abhi adalat me saabit nahi hue hain.",
+   "category": "World",
+   "exam_angle": "Iran-America tanav aur antarrashtriya suraksha — antarrashtriya sambandh ke liye mahatvapurna.",
+   "source": "The Hindu",
+   "source_url": "https://www.thehindu.com/news/international/us-charges-three-iranian-operatives-over-uk-airbase-plot/article71687536.ece",
+   "genuineness": "verified",
+   "outlets": [
+    "The Hindu",
+    "The National",
+    "Al Jazeera"
+   ],
+   "image": null,
+   "image_credit": null
+  },
+  {
    "id": "world-20261111-2022-03",
    "published_ist": "2026-11-11T05:17:00+05:30",
    "headline": "Trump ka BBC par $10bn case chalega",
@@ -386,60 +440,6 @@
     "Reuters",
     "Associated Press",
     "Outlook India"
-   ],
-   "image": null,
-   "image_credit": null
-  },
-  {
-   "id": "world-20261111-2022-01",
-   "published_ist": "2026-11-11T04:06:00+05:30",
-   "headline": "Hegseth ke khilaf mahabhiyog ruka, 211-204",
-   "detail": "America ki House ne 211-204 se raksha mantri Hegseth ke khilaf mahabhiyog ke 8 aarop Judiciary Committee ko bhej diye; prastav lane wale Republican Massie akele virodh me the, Democrats January me phir koshish kar sakte hain.",
-   "category": "World",
-   "exam_angle": "America me mahabhiyog prakriya aur Congress ki shaktiyan — polity ke liye mahatvapurna.",
-   "source": "Al Jazeera",
-   "source_url": "https://www.aljazeera.com/news/2026/11/10/us-house-begins-vote-on-motion-to-advance-impeachment-of-pete-hegseth?traffic_source=rss",
-   "genuineness": "verified",
-   "outlets": [
-    "Al Jazeera",
-    "The Wall Street Journal",
-    "Reuters"
-   ],
-   "image": "../images/world/world-20261111-2022-01.jpg",
-   "image_credit": "Reuters via Al Jazeera"
-  },
-  {
-   "id": "world-20261111-1022-01",
-   "published_ist": "2026-11-11T04:04:00+05:30",
-   "headline": "Seoul ke paas bus haadsa, 57 ghayal",
-   "detail": "Seongnam ke Bundang me subah ek city bus ne signal par khadi 32 gaadiyon ko takkar maari; 9 log gambhir roop se aur 48 halke ghayal hue, kisi ki jaan ko khatra nahi.",
-   "category": "World",
-   "exam_angle": null,
-   "source": "Reuters",
-   "source_url": "https://www.reuters.com/world/asia-pacific/nine-people-seriously-hurt-south-korea-bus-crash-involving-multiple-vehicles-2026-11-11/",
-   "genuineness": "verified",
-   "outlets": [
-    "Reuters",
-    "Channel News Asia",
-    "The Hindu",
-    "The Jerusalem Post"
-   ],
-   "image": null,
-   "image_credit": null
-  },
-  {
-   "id": "world-20261111-1322-04",
-   "published_ist": "2026-11-11T02:24:00+05:30",
-   "headline": "Zelensky: Europe november tak pratinidhi chune",
-   "detail": "Ukraine ke rashtrapati Zelensky ne kaha Europe ko November ke ant tak shanti vaarta ke liye apna pratinidhi chunna chahiye, behtar hoga 19 November ko Germany me hone wali Coalition of the Willing baithak me faisla ho.",
-   "category": "World",
-   "exam_angle": "Russia-Ukraine shanti vaarta me Europe ki bhoomika — antarrashtriya sambandh ke liye mahatvapurna.",
-   "source": "Anews",
-   "source_url": "https://www.anews.com.tr/middle-east/2026/11/10/europe-to-choose-its-rep-for-ukraine-russia-talks-zelensky",
-   "genuineness": "corroborated",
-   "outlets": [
-    "Anews",
-    "Politico"
    ],
    "image": null,
    "image_credit": null
