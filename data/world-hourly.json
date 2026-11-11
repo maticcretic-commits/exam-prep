@@ -1,5 +1,5 @@
 {
-  "updated_ist": "2026-11-11T12:26:57+05:30",
+  "updated_ist": "2026-11-11T13:27:42+05:30",
   "items": [
     {
       "id": "world-20261111-1122-01",
@@ -40,6 +40,25 @@
       "image_credit": null
     },
     {
+      "id": "world-20261111-1322-03",
+      "published_ist": "2026-11-11T10:01:00+05:30",
+      "headline": "Iran khatre par Bessent sainya base gaye",
+      "detail": "America ke vitt mantri Scott Bessent kathit Iran khatre ke baad apne Washington ghar se sainya base chale gaye; vitt vibhaag ne kaha ve Iran ke khatron se dareinge nahi, khatre ki gambhirta abhi spasht nahi.",
+      "category": "World",
+      "exam_angle": "America-Iran tanaav aur Iran par pratibandh abhiyan — antarrashtriya sambandh ke liye mahatvapurna.",
+      "source": "The Times of India",
+      "source_url": "https://timesofindia.indiatimes.com/world/us/us-treasury-secretary-scott-bessent-moves-to-military-base-after-alleged-iranian-threats/articleshow/135724620.cms",
+      "genuineness": "verified",
+      "outlets": [
+        "The Times of India",
+        "The New York Times",
+        "Reuters",
+        "USA Today"
+      ],
+      "image": null,
+      "image_credit": null
+    },
+    {
       "id": "world-20261111-1222-02",
       "published_ist": "2026-11-11T09:06:00+05:30",
       "headline": "Nvidia ne Wachtell ko jaanch saunpi",
@@ -54,6 +73,26 @@
         "CNBC TV18",
         "The Economic Times",
         "USA Today"
+      ],
+      "image": null,
+      "image_credit": null
+    },
+    {
+      "id": "world-20261111-1322-01",
+      "published_ist": "2026-11-11T08:47:00+05:30",
+      "headline": "Trump ka BBC par maan-hani mukadma aage badhega",
+      "detail": "Florida ke federal judge Jeffrey Kuntz ne BBC ki kharij karne ki arzi thukra di; Trump ka kehna hai BBC documentary ne 6 January 2021 ke bhashan ko tod-marod kar dikhaya, Florida kanoon wala daava kharij hua.",
+      "category": "World",
+      "exam_angle": "America me media-maan-hani mukadme — antarrashtriya sambandh ke liye mahatvapurna.",
+      "source": "Business Standard",
+      "source_url": "https://www.business-standard.com/world-news/trump-s-10-billion-defamation-suit-against-bbc-beats-dismissal-attempt-126111100122_1.html",
+      "genuineness": "verified",
+      "outlets": [
+        "Business Standard",
+        "Malay Mail",
+        "NDTV",
+        "Dawn",
+        "The Wrap"
       ],
       "image": null,
       "image_credit": null
@@ -91,6 +130,23 @@
         "Channel News Asia",
         "The Hindu",
         "The Jerusalem Post"
+      ],
+      "image": null,
+      "image_credit": null
+    },
+    {
+      "id": "world-20261111-1322-04",
+      "published_ist": "2026-11-11T02:24:00+05:30",
+      "headline": "Zelensky: Europe november tak pratinidhi chune",
+      "detail": "Ukraine ke rashtrapati Zelensky ne kaha Europe ko November ke ant tak shanti vaarta ke liye apna pratinidhi chunna chahiye, behtar hoga 19 November ko Germany me hone wali Coalition of the Willing baithak me faisla ho.",
+      "category": "World",
+      "exam_angle": "Russia-Ukraine shanti vaarta me Europe ki bhoomika — antarrashtriya sambandh ke liye mahatvapurna.",
+      "source": "Anews",
+      "source_url": "https://www.anews.com.tr/middle-east/2026/11/10/europe-to-choose-its-rep-for-ukraine-russia-talks-zelensky",
+      "genuineness": "corroborated",
+      "outlets": [
+        "Anews",
+        "Politico"
       ],
       "image": null,
       "image_credit": null
@@ -390,59 +446,6 @@
         "Daily Maverick",
         "Reuters",
         "AFP"
-      ],
-      "image": null,
-      "image_credit": null
-    },
-    {
-      "id": "world-20261110-2025-02",
-      "published_ist": "2026-11-10T16:50:00+05:30",
-      "headline": "UK: Samundar ke neeche khatre par £90 million",
-      "detail": "Britain Royal Navy ke liye drone, sensor aur AI par £90 million kharch karega, taaki Russian pandubbiyon se samundar ke neeche ke cable aur oorja dhaanche ki raksha ho sake.",
-      "category": "World",
-      "exam_angle": "UK ki Atlantic Bastion yojana aur samundar ke neeche suraksha",
-      "source": "Reuters",
-      "source_url": "https://www.reuters.com/world/uk/britain-invest-90-million-drones-sensors-counter-russian-undersea-threats-2026-11-10/",
-      "genuineness": "verified",
-      "outlets": [
-        "Reuters",
-        "GOV.UK",
-        "The Straits Times"
-      ],
-      "image": null,
-      "image_credit": null
-    },
-    {
-      "id": "world-20261110-2025-03",
-      "published_ist": "2026-11-10T16:26:00+05:30",
-      "headline": "Poland: Russian jasusi me 2 Ukraini giraftar",
-      "detail": "Poland ne do Ukraini nagrikon ko Russian khufia seva ke liye jasusi aur tod-phod ke aarop me giraftar kiya; dono par sainya suvidhaon ki jaanch aur gaadiyon me aag lagane ka aarop hai.",
-      "category": "World",
-      "exam_angle": "Poland me hybrid yuddh aur Russian jasusi — Europe ki suraksha ke liye mahatvapurna.",
-      "source": "Reuters",
-      "source_url": "https://www.reuters.com/world/poland-arrests-two-ukrainians-over-alleged-russian-espionage-sabotage-2026-11-10/",
-      "genuineness": "verified",
-      "outlets": [
-        "Reuters",
-        "The Hindu",
-        "Interfax-Ukraine"
-      ],
-      "image": null,
-      "image_credit": null
-    },
-    {
-      "id": "world-20261110-1627-01",
-      "published_ist": "2026-11-10T16:23:00+05:30",
-      "headline": "Denmark Ukraine ko $721 million ke hathiyar dega",
-      "detail": "Denmark Ukraine ko 4.8 billion kroner (lagbhag $721 million) ke sainya upkaran dega; videsh mantri ne TV2 ko bataya, yeh 32va sahayata package hoga.",
-      "category": "World",
-      "exam_angle": "Denmark ki Ukraine sahayata aur NATO sahyog",
-      "source": "Militarnyi",
-      "source_url": "https://militarnyi.com/en/news/640-million-on-weapons-denmark-to-provide-ukraine-with-32nd-defence-aid-package/",
-      "genuineness": "corroborated",
-      "outlets": [
-        "DR",
-        "Times Now"
       ],
       "image": null,
       "image_credit": null
