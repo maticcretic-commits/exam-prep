@@ -1,6 +1,24 @@
 {
-  "updated_ist": "2026-11-11T16:24:58+05:30",
+  "updated_ist": "2026-11-11T17:24:17+05:30",
   "items": [
+    {
+      "id": "world-20261111-1722-01",
+      "published_ist": "2026-11-11T15:48:00+05:30",
+      "headline": "Spain me 14 saal baad aam hadtaal",
+      "detail": "Awaas sankat par laakhon mazdoor hadtaal par gaye; 29 November ke chunaav se pehle parivahan aur factory ka kaam thap hua.",
+      "category": "World",
+      "exam_angle": "Awaas sankat aur shramik andolan — Spain ke 29 November chunaav se pehle ka bada mudda; UPSC ke liye antarrashtriya arthvyavastha aur shram muddon se juda.",
+      "source": "Al Jazeera",
+      "source_url": "https://www.aljazeera.com/news/2026/11/11/spains-first-general-strike-in-14-years-begins",
+      "genuineness": "verified",
+      "outlets": [
+        "Reuters",
+        "Al Jazeera",
+        "Associated Press"
+      ],
+      "image": "../images/world/world-20261111-1722-01.jpg",
+      "image_credit": "Reuters via Al Jazeera"
+    },
     {
       "id": "world-20261111-1522-02",
       "published_ist": "2026-11-11T12:53:00+05:30",
@@ -189,6 +207,25 @@
       ],
       "image": "../images/world/world-20261111-1622-01.jpg",
       "image_credit": "NPR"
+    },
+    {
+      "id": "world-20261111-1722-02",
+      "published_ist": "2026-11-11T06:27:00+05:30",
+      "headline": "Rubio: Iran par bade hamle ki zaroorat nahi",
+      "detail": "Videsh mantri Marco Rubio ne Paris me kaha ki Iran par aarthik dabav itna asardar hai ki bade sainya hamle ki zaroorat nahi hai.",
+      "category": "World",
+      "exam_angle": "America-Iran tanaav aur aarthik pratibandh — Hormuz aur paschim Asia ki sthiti se juda.",
+      "source": "Dawn",
+      "source_url": "https://www.dawn.com/news/2043645/iran-urges-us-to-meet-terms-for-hormuz-opening",
+      "genuineness": "verified",
+      "outlets": [
+        "Dawn",
+        "News18",
+        "Arab News",
+        "The Standard"
+      ],
+      "image": null,
+      "image_credit": null
     },
     {
       "id": "world-20261111-1022-04",
@@ -409,44 +446,6 @@
         "Arab News",
         "The Jerusalem Post",
         "Dawn"
-      ],
-      "image": null,
-      "image_credit": null
-    },
-    {
-      "id": "world-20261111-0922-02",
-      "published_ist": "2026-11-10T20:45:00+05:30",
-      "headline": "America: mehngai 0.4% badhi, byaaj badhne ki ummeed",
-      "detail": "America me October me mehngai 0.4% badhi aur core mehngai 0.3% rahi — ummeed se zyada; Fed December me byaaj badha sakta hai, aadha point bhi charcha me hai.",
-      "category": "World",
-      "exam_angle": "America ki mehngai aur Fed ki byaaj dar — arthvyavastha ke liye mahatvapurna.",
-      "source": "Economic Times",
-      "source_url": "https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/traders-raise-odds-of-50-bps-fed-rate-hike-as-cpi-rise-exceeds-expectations/articleshow/135714586.cms",
-      "genuineness": "verified",
-      "outlets": [
-        "Economic Times",
-        "USA Today",
-        "Barron's",
-        "HousingWire"
-      ],
-      "image": null,
-      "image_credit": null
-    },
-    {
-      "id": "world-20261110-2122-01",
-      "published_ist": "2026-11-10T20:12:00+05:30",
-      "headline": "UAE ke paani me ADNOC jahaz par hamla",
-      "detail": "Arabian Gulf me UAE ke samudri kshetra me hamle ke baad ADNOC Logistics and Services ke ek jahaz ko nuksaan pahuncha; jahaz ki pehchan aur nuksaan ka vivaran abhi nahi diya gaya.",
-      "category": "World",
-      "exam_angle": "Khadi me samudri suraksha aur oorja vyaapaar par hamle — antarrashtriya sambandh ke liye mahatvapurna.",
-      "source": "WAM",
-      "source_url": "https://www.wam.ae/en/article/c36ot7v-adnoc-logistics-services-vessel-sustained-damage",
-      "genuineness": "verified",
-      "outlets": [
-        "WAM",
-        "Khaleej Times",
-        "Gulf News",
-        "Emirates 24|7"
       ],
       "image": null,
       "image_credit": null
