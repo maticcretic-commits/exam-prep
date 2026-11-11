@@ -22,113 +22,113 @@ ROOT = Path(__file__).resolve().parent.parent
 # legacy counts established via the page's real parse path (node eval)
 EXPECTED = {
     "ssc": {
-        "questions": 1076,
-        "oneliners": 559,
-        "capsules": 502
+        "questions": 1081,
+        "oneliners": 564,
+        "capsules": 507
     },
     "pte": {
-        "questions": 772,
-        "oneliners": 81,
-        "capsules": 67
+        "questions": 776,
+        "oneliners": 83,
+        "capsules": 69
     },
     "toefl": {
-        "questions": 862,
-        "oneliners": 90,
-        "capsules": 80
+        "questions": 866,
+        "oneliners": 92,
+        "capsules": 82
     },
     "gre": {
-        "questions": 777,
+        "questions": 780,
+        "oneliners": 82,
+        "capsules": 72
+    },
+    "gmat": {
+        "questions": 788,
         "oneliners": 80,
         "capsules": 70
     },
-    "gmat": {
-        "questions": 783,
-        "oneliners": 78,
-        "capsules": 68
-    },
     "sat": {
-        "questions": 770,
-        "oneliners": 82,
-        "capsules": 67
+        "questions": 772,
+        "oneliners": 84,
+        "capsules": 69
     },
     "ielts": {
-        "questions": 813,
-        "oneliners": 96,
-        "capsules": 82,
+        "questions": 818,
+        "oneliners": 98,
+        "capsules": 84,
         "resources": 100
     },
     "railways": {
-        "questions": 1151,
-        "capsules": 111,
-        "oneliners": 120
+        "questions": 1155,
+        "capsules": 115,
+        "oneliners": 124
     },
     "law": {
-        "questions": 979,
-        "capsules": 297,
-        "oneliners": 409
+        "questions": 984,
+        "capsules": 301,
+        "oneliners": 413
     },
     "neet": {
-        "questions": 1270,
-        "oneliners": 521,
-        "capsules": 118
+        "questions": 1275,
+        "oneliners": 525,
+        "capsules": 122
     },
     "bpsc": {
-        "questions": 2212,
-        "capsules": 1116,
-        "oneliners": 1044
+        "questions": 2217,
+        "capsules": 1120,
+        "oneliners": 1048
     },
     "banking-certs": {
-        "questions": 2339,
-        "oneliners": 1205,
-        "capsules": 393,
+        "questions": 2344,
+        "oneliners": 1209,
+        "capsules": 397,
         "videos": 48
     },
     "upsc": {
-        "questions": 1246,
-        "oneliners": 149,
-        "capsules": 158
+        "questions": 1251,
+        "oneliners": 154,
+        "capsules": 163
     },
     "jee": {
-        "questions": 1346,
-        "oneliners": 453,
-        "capsules": 105
+        "questions": 1350,
+        "oneliners": 457,
+        "capsules": 109
     },
     "banking": {
-        "questions": 1109,
-        "capsules": 175,
-        "oneliners": 148
+        "questions": 1114,
+        "capsules": 179,
+        "oneliners": 152
     },
     "defence": {
-        "questions": 1226,
-        "capsules": 133,
-        "oneliners": 130
+        "questions": 1231,
+        "capsules": 137,
+        "oneliners": 134
     },
     "current-affairs": {
-        "questions": 1034,
-        "oneliners": 230,
-        "capsules": 220
+        "questions": 1039,
+        "oneliners": 236,
+        "capsules": 226
     },
     "software-ai-tech": {
-        "questions": 1035,
-        "oneliners": 527,
-        "capsules": 148
+        "questions": 1040,
+        "oneliners": 531,
+        "capsules": 152
     },
     "teaching": {
-        "questions": 971,
-        "capsules": 113,
-        "oneliners": 113
+        "questions": 976,
+        "capsules": 117,
+        "oneliners": 117
     },
     "ca": {
-        "questions": 1109,
-        "oneliners": 116,
-        "capsules": 115
+        "questions": 1114,
+        "oneliners": 120,
+        "capsules": 119
     },
     "sarkari-vacancies": {
-        "questions": 98,
-        "oneliners": 78,
-        "capsules": 56,
+        "questions": 103,
+        "oneliners": 83,
+        "capsules": 61,
         "videos": 0,
-        "listings": 301
+        "listings": 302
     }
 }
 
