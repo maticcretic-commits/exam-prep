@@ -1,6 +1,44 @@
 {
-  "updated_ist": "2026-11-11T14:25:35+05:30",
+  "updated_ist": "2026-11-11T15:24:08+05:30",
   "items": [
+    {
+      "id": "world-20261111-1522-02",
+      "published_ist": "2026-11-11T12:53:00+05:30",
+      "headline": "Iran ne Argentina ki sena 'aatankwadi' kahi",
+      "detail": "Iran ne Argentina ki nausena aur vayusena ko aatankwadi sangathan ghoshit kiya; Buenos Aires ne April me IRGC ko aatankwadi ghoshit kiya tha, Iran ne ise usi ka badla bataya.",
+      "category": "World",
+      "exam_angle": "Iran-Argentina tanaav aur parasparik pratibandh — antarrashtriya sambandh ke liye mahatvapurna.",
+      "source": "Times Now",
+      "source_url": "https://www.timesnownews.com/world/middle-east/iran-retaliates-against-argentina-declares-its-navy-and-air-force-terrorist-organisations-article-156493472",
+      "genuineness": "verified",
+      "outlets": [
+        "Times Now",
+        "Reuters",
+        "Al Jazeera",
+        "The Times of Israel"
+      ],
+      "image": null,
+      "image_credit": null
+    },
+    {
+      "id": "world-20261111-1522-01",
+      "published_ist": "2026-11-11T11:00:00+05:30",
+      "headline": "Lithuania me drone: NATO jets hue scramble",
+      "detail": "Belarus ki taraf se aaye sandeh wale drone par Lithuania me raat bhar do baar hawai alert jaari hua; NATO ke ladaku vimaan do baar ude, ek drone hawai seema me ghusa aur Latvia ki taraf nikal gaya, Vilnius aur Kaunas airport kuch der ke liye band rahe.",
+      "category": "World",
+      "exam_angle": "NATO ki Baltic Air Policing aur drone ghuspaith par pratikriya — antarrashtriya suraksha ke liye mahatvapurna.",
+      "source": "TRT World",
+      "source_url": "https://www.trtworld.com/article/744363f5b968/amp",
+      "genuineness": "verified",
+      "outlets": [
+        "TRT World",
+        "Reuters",
+        "Times Now",
+        "Anadolu Agency"
+      ],
+      "image": null,
+      "image_credit": null
+    },
     {
       "id": "world-20261111-1122-01",
       "published_ist": "2026-11-11T10:31:00+05:30",
@@ -409,43 +447,6 @@
         "The Sun",
         "JFeed",
         "UNN"
-      ],
-      "image": null,
-      "image_credit": null
-    },
-    {
-      "id": "world-20261111-0922-01",
-      "published_ist": "2026-11-10T18:40:00+05:30",
-      "headline": "Senate ne shutdown khatm karne wala bill pass kiya",
-      "detail": "America ki Senate ne Somvaar raat 60-40 se funding bill pass kiya — 41 din se chal raha sabse lamba shutdown khatm hone ke kareeb; ab Budhvaar shaam ko House me vote hoga.",
-      "category": "World",
-      "exam_angle": "America ka sabse lamba shutdown aur Congress ki funding prakriya — antarrashtriya sambandh aur arthvyavastha ke liye mahatvapurna.",
-      "source": "NewsOneUSA",
-      "source_url": "https://newsoneusa.com/senate-passes-deal-to-end-longest-us-government-shutdown-as-house-vote-nears/",
-      "genuineness": "verified",
-      "outlets": [
-        "Fox News",
-        "Bloomberg",
-        "The Well News"
-      ],
-      "image": null,
-      "image_credit": null
-    },
-    {
-      "id": "world-20261111-0622-03",
-      "published_ist": "2026-11-10T18:24:00+05:30",
-      "headline": "Abu Dhabi vaarta: pehla din kathin, aaj doosra din",
-      "detail": "Ukraine-Russia-America vaarta ka pehla satra lagbhag 4 ghante chala; Kremlin ne ise 'kathin lekin rachnaatmak' bataya — suraksha guarantee aur oorja-yuddhviram par baatchit aaj 11 November ko phir shuru hogi.",
-      "category": "World",
-      "exam_angle": "Ukraine shaanti vaarta aur suraksha guarantee — antarrashtriya sambandh ke liye mahatvapurna.",
-      "source": "Associated Press",
-      "source_url": "https://apnews.com/article/3d878a3e56d5df5bd198a6d20c824d18",
-      "genuineness": "verified",
-      "outlets": [
-        "Associated Press",
-        "Interfax-Ukraine",
-        "Reuters",
-        "NewsCubby"
       ],
       "image": null,
       "image_credit": null
