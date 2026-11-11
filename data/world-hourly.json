@@ -1,6 +1,42 @@
 {
-  "updated_ist": "2026-11-11T17:24:17+05:30",
+  "updated_ist": "2026-11-11T18:24:57+05:30",
   "items": [
+    {
+      "id": "world-20261111-1822-02",
+      "published_ist": "2026-11-11T13:37:00+05:30",
+      "headline": "Hormuz me phir tanker me aag",
+      "detail": "Iran ki sena ne kaha ki aaj subah ek tanker ne Hormuz ke poorv me pratibandhit kshetra me mine se takrakar aag pakad li; Mangalvaar ko bhi teen tanker jal uthe the.",
+      "category": "World",
+      "exam_angle": "Hormuz se tel vyapaar aur antarrashtriya suraksha — arthvyavastha ke liye mahatvapurna.",
+      "source": "The Hindu",
+      "source_url": "https://www.thehindu.com/news/international/iran-says-tanker-struck-mine-caught-fire-in-hormuz/article71688841.ece",
+      "genuineness": "verified",
+      "outlets": [
+        "AFP",
+        "Al Mayadeen",
+        "Xinhua"
+      ],
+      "image": null,
+      "image_credit": null
+    },
+    {
+      "id": "world-20261111-1822-01",
+      "published_ist": "2026-11-11T04:44:00+05:30",
+      "headline": "Congo me Ebola: 11,000 se zyada case",
+      "detail": "Congo sarkar ke naye aankdon me Bundibugyo Ebola ke 11,042 case aur 5,387 mautein darj hain; 26 me se 8 praanton me faila prakop ab tak ka doosra sabse bada hai.",
+      "category": "World",
+      "exam_angle": "Ebola prakop aur WHO ki bhoomika — swasthya aur antarrashtriya sangathan ke liye mahatvapurna.",
+      "source": "Reuters",
+      "source_url": "https://www.reuters.com/business/healthcare-pharmaceuticals/congos-ebola-cases-surpass-11000-government-data-show-2026-11-10/",
+      "genuineness": "verified",
+      "outlets": [
+        "Reuters",
+        "Associated Press",
+        "Outlook India"
+      ],
+      "image": null,
+      "image_credit": null
+    },
     {
       "id": "world-20261111-1722-01",
       "published_ist": "2026-11-11T15:48:00+05:30",
@@ -408,44 +444,6 @@
         "Kyiv Independent",
         "Ukrainska Pravda",
         "Hromadske"
-      ],
-      "image": null,
-      "image_credit": null
-    },
-    {
-      "id": "world-20261111-1422-02",
-      "published_ist": "2026-11-10T21:02:00+05:30",
-      "headline": "China ne US sainikon ke avashesh saunpe",
-      "detail": "Chengdu me hue samaroh me China ne America ko WWII ke Hump Route par laapata hue US vayu-sainikon ke avashesh saunpe; pehchan ke liye America me DNA jaanch hogi.",
-      "category": "World",
-      "exam_angle": "WWII ka Hump Route — itihaas ke liye mahatvapurna.",
-      "source": "China Daily",
-      "source_url": "https://www.chinadaily.com.cn/a/202611/10/WS6af33921e4b03ebf8519ba36.html",
-      "genuineness": "verified",
-      "outlets": [
-        "Xinhua",
-        "China Daily",
-        "TRT World",
-        "ANI"
-      ],
-      "image": null,
-      "image_credit": null
-    },
-    {
-      "id": "world-20261111-0722-04",
-      "published_ist": "2026-11-10T20:46:00+05:30",
-      "headline": "UNICEF: Gaza me baadh ka khatra, marammat ruki",
-      "detail": "UNICEF ne kaha Israel ne Gaza ke Sheikh Radwan basin ki marammat ke liye saaman ki aamad roki; bhaari baarish se hazaaron tent doob chuke hain aur ret ke teele girne se chaar log mare.",
-      "category": "World",
-      "exam_angle": null,
-      "source": "Arab News",
-      "source_url": "https://www.arabnews.com/middle-east/unicef-says-israel-blocks-gaza-basin-repairs-warns-of-flood-risk-3010982",
-      "genuineness": "verified",
-      "outlets": [
-        "Reuters",
-        "Arab News",
-        "The Jerusalem Post",
-        "Dawn"
       ],
       "image": null,
       "image_credit": null
