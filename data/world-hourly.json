@@ -1,6 +1,62 @@
 {
-  "updated_ist": "2026-11-11T10:22:00+05:30",
+  "updated_ist": "2026-11-11T11:22:00+05:30",
   "items": [
+    {
+      "id": "world-20261111-1122-01",
+      "published_ist": "2026-11-11T10:31:00+05:30",
+      "headline": "North Hollywood haadsa: gaadi ne 3 ko kuchla",
+      "detail": "Los Angeles ke North Hollywood me ek safed SUV metro station ke paas paidal chal rahe logon aur thele walon par chadh gayi; 3 log mare aur 3 gambhir roop se ghayal hue, haadse ki wajah abhi jaanch me hai.",
+      "category": "World",
+      "exam_angle": null,
+      "source": "Reuters",
+      "source_url": "https://www.reuters.com/world/us/three-dead-after-vehicle-hits-pedestrians-los-angeles-fire-department-says-2026-11-11/",
+      "genuineness": "verified",
+      "outlets": [
+        "Reuters",
+        "Associated Press",
+        "The Jerusalem Post",
+        "Deccan Herald"
+      ],
+      "image": null,
+      "image_credit": null
+    },
+    {
+      "id": "world-20261111-1122-02",
+      "published_ist": "2026-11-11T10:02:00+05:30",
+      "headline": "House ne Hegseth ke khilaf mahabhiyog roka",
+      "detail": "America ki House ne 211-204 se raksha mantri Pete Hegseth ke khilaf mahabhiyog prastav ko committee ko bhej diya; Iran yuddh par aaropon par turant vote ab nahi hoga, Democrats January me phir koshish kar sakte hain.",
+      "category": "World",
+      "exam_angle": "America me mahabhiyog prakriya aur Iran yuddh par Congress ki bhoomika — antarrashtriya sambandh ke liye mahatvapurna.",
+      "source": "Reuters",
+      "source_url": "https://www.dailymaverick.co.za/article/2026-11-11-us-house-blocks-bid-to-impeach-defense-secretary-hegseth/",
+      "genuineness": "verified",
+      "outlets": [
+        "Reuters",
+        "The Wall Street Journal",
+        "Al Jazeera",
+        "The Hindu"
+      ],
+      "image": null,
+      "image_credit": null
+    },
+    {
+      "id": "world-20261111-1122-03",
+      "published_ist": "2026-11-10T21:57:00+05:30",
+      "headline": "Anthropic IPO: $70-78 prati share, $1 trillion mulya",
+      "detail": "Claude banane wali Anthropic ne IPO ke liye $70 se $78 prati share ka daam tay kiya; $64.4 billion tak jutakar company ka mulya lagbhag $1 trillion ho sakta hai — AI boom ki sabse badi pariksha.",
+      "category": "World",
+      "exam_angle": "AI boom aur duniya ke sabse bade IPO me se ek — arthvyavastha ke liye mahatvapurna.",
+      "source": "Reuters",
+      "source_url": "https://www.reuters.com/legal/transactional/view-anthropic-targets-1-trillion-ipo-valuation-key-test-ai-market-2026-11-10/",
+      "genuineness": "verified",
+      "outlets": [
+        "Reuters",
+        "CNN",
+        "The Korea Times"
+      ],
+      "image": null,
+      "image_credit": null
+    },
     {
       "id": "world-20261111-1022-04",
       "published_ist": "2026-11-11T06:20:00+05:30",
@@ -385,61 +441,6 @@
         "Ukrinform",
         "UNN",
         "LB.ua"
-      ],
-      "image": null,
-      "image_credit": null
-    },
-    {
-      "id": "world-20261110-2122-02",
-      "published_ist": "2026-11-10T15:22:00+05:30",
-      "headline": "France: Iran par fridge hack ka aarop",
-      "detail": "France ne Iran ke rajdoot ko bulakar virodh jataya — Iran ke Revolutionary Guard par October me saikadon supermarket ke fridge hack karne ka aarop hai; Paris EU pratibandh chahta hai, Iran ne aarop kharij kiya.",
-      "category": "World",
-      "exam_angle": "France-Iran cyber takraav aur hybrid warfare — antarrashtriya suraksha ke liye mahatvapurna.",
-      "source": "Reuters",
-      "source_url": "https://www.reuters.com/world/europe/france-summons-iran-envoy-over-supermarket-fridge-hack-warns-response-2026-11-10/",
-      "genuineness": "verified",
-      "outlets": [
-        "Reuters",
-        "AFP",
-        "AP",
-        "Al Jazeera"
-      ],
-      "image": null,
-      "image_credit": null
-    },
-    {
-      "id": "world-20261110-1727-01",
-      "published_ist": "2026-11-10T14:31:00+05:30",
-      "headline": "Congo me 66 sainikon ko maut ki saza",
-      "detail": "Purvi Congo ki sainya adalat ne 66 sainikon ko dushman ke saamne kayarta, baghawat aur aadesh na manne par maut ki saza sunayi; 4 ko bari kar diya gaya, ek ko 10 saal ki jail hui.",
-      "category": "World",
-      "exam_angle": "Congo me M23 sangharsh aur sainya anushasan",
-      "source": "Geneva Times",
-      "source_url": "https://thegenevatimes.ch/dr-congo-conflict-at-least-66-congolese-soldiers-sentenced-to-death-for-cowardice/",
-      "genuineness": "verified",
-      "outlets": [
-        "Anadolu Agency",
-        "Radio Okapi",
-        "ACP"
-      ],
-      "image": "../images/world/world-20261110-1727-01.jpg",
-      "image_credit": "OAF Nation"
-    },
-    {
-      "id": "world-20261110-1822-02",
-      "published_ist": "2026-11-10T14:08:00+05:30",
-      "headline": "California ne billionaire tax prastav kharij kiya",
-      "detail": "California ke matdataon ne ek-baar ke 5% billionaire tax wale Proposition 40 ko 52.8% se kharij kar diya; AP ne 'no' paksh ki jeet ghoshit ki.",
-      "category": "World",
-      "exam_angle": "America me kar niti aur chunav — pariksha ke liye mahatvapurna.",
-      "source": "Al Jazeera",
-      "source_url": "https://www.aljazeera.com/news/2026/11/10/california-voters-reject-billionaire-tax?traffic_source=rss",
-      "genuineness": "verified",
-      "outlets": [
-        "Associated Press",
-        "Al Jazeera",
-        "Le Monde"
       ],
       "image": null,
       "image_credit": null
