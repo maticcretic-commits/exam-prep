@@ -1,6 +1,43 @@
 {
-  "updated_ist": "2026-11-11T09:24:38+05:30",
+  "updated_ist": "2026-11-11T10:22:00+05:30",
   "items": [
+    {
+      "id": "world-20261111-1022-04",
+      "published_ist": "2026-11-11T06:20:00+05:30",
+      "headline": "Kryvyi Rih par drone hamla, bijli-paani band",
+      "detail": "Ukraine ke Kryvyi Rih me raat ko drone hamle se sheher ke ek hisse ki bijli gayi aur paani-garmi ki suvidha prabhavit hui; sheher ke raksha pramukh ke anusaar ghar, school aur kindergarten ko bhi nuksaan pahuncha.",
+      "category": "World",
+      "exam_angle": "Russia-Ukraine yuddh me oorja par hamle — antarrashtriya sambandh ke liye mahatvapurna.",
+      "source": "Reuters",
+      "source_url": "https://www.reuters.com/world/europe/drone-attack-leaves-part-ukraines-kryvyi-rih-without-power-2026-11-10/",
+      "genuineness": "corroborated",
+      "outlets": [
+        "Reuters",
+        "Kyiv Post",
+        "UNN"
+      ],
+      "image": null,
+      "image_credit": null
+    },
+    {
+      "id": "world-20261111-1022-01",
+      "published_ist": "2026-11-11T04:04:00+05:30",
+      "headline": "Seoul ke paas bus haadsa, 57 ghayal",
+      "detail": "Seongnam ke Bundang me subah ek city bus ne signal par khadi 32 gaadiyon ko takkar maari; 9 log gambhir roop se aur 48 halke ghayal hue, kisi ki jaan ko khatra nahi.",
+      "category": "World",
+      "exam_angle": null,
+      "source": "Reuters",
+      "source_url": "https://www.reuters.com/world/asia-pacific/nine-people-seriously-hurt-south-korea-bus-crash-involving-multiple-vehicles-2026-11-11/",
+      "genuineness": "verified",
+      "outlets": [
+        "Reuters",
+        "Channel News Asia",
+        "The Hindu",
+        "The Jerusalem Post"
+      ],
+      "image": null,
+      "image_credit": null
+    },
     {
       "id": "world-20261111-0722-02",
       "published_ist": "2026-11-11T01:13:00+05:30",
@@ -109,6 +146,43 @@
         "Khaleej Times",
         "Gulf News",
         "Emirates 24|7"
+      ],
+      "image": null,
+      "image_credit": null
+    },
+    {
+      "id": "world-20261111-1022-02",
+      "published_ist": "2026-11-10T19:31:00+05:30",
+      "headline": "Indonesia ke up-rashtrapati ne istifa ki peshkash ki",
+      "detail": "Up-rashtrapati Gibran Rakabuming Raka ne Rashtrapati Prabowo se mulakaat me istife ki ichha jataayi; shiksha dastavezon par adalat ke faisle ke baad unki yogyata par sawal uth rahe hain, rashtrapati ne abhi faisla nahi liya.",
+      "category": "World",
+      "exam_angle": "Indonesia ki rajneeti aur up-rashtrapati ki yogyata vivaad — antarrashtriya sambandh ke liye mahatvapurna.",
+      "source": "AP",
+      "source_url": "https://www.wcmu.org/national-world-news/2026-11-10/indonesias-vp-offers-resignation-as-questions-mount-over-his-eligibility",
+      "genuineness": "verified",
+      "outlets": [
+        "AP",
+        "Reuters",
+        "The Business Times"
+      ],
+      "image": null,
+      "image_credit": null
+    },
+    {
+      "id": "world-20261111-1022-03",
+      "published_ist": "2026-11-10T19:30:00+05:30",
+      "headline": "Israel ki nayi Knesset ne shapath li",
+      "detail": "October ke chunaav ke baad Israel ki 120 sadasya wali nayi Knesset ne shapath li; kisi gut ko bahumat nahi mila aur Gadi Eisenkot sarkar banane ki koshish kar rahe hain, Netanyahu karyavahak PM bane rahenge.",
+      "category": "World",
+      "exam_angle": "Israel ki rajneeti aur sarkar gathan — antarrashtriya sambandh ke liye mahatvapurna.",
+      "source": "Reuters",
+      "source_url": "https://www.reuters.com/world/israels-parliament-sworn-eisenkot-tries-forge-government-2026-11-10/",
+      "genuineness": "verified",
+      "outlets": [
+        "Reuters",
+        "BBC",
+        "The National",
+        "Khaleej Times"
       ],
       "image": null,
       "image_credit": null
@@ -366,79 +440,6 @@
         "Associated Press",
         "Al Jazeera",
         "Le Monde"
-      ],
-      "image": null,
-      "image_credit": null
-    },
-    {
-      "id": "world-20261110-1422-02",
-      "published_ist": "2026-11-10T14:04:00+05:30",
-      "headline": "Anthropic ka $70bn IPO plan wapas liya",
-      "detail": "Anthropic ne $70–80 prati share par lagbhag 867 million share bechne ki IPO filing banks ko bheji, phir keemat galat batakar wapas le li; roadshow mangalvaar se shuru hone ki ummeed hai.",
-      "category": "World",
-      "exam_angle": "Duniya ka sabse bada AI IPO aur tech nivesh — arthvyavastha ke liye mahatvapurna.",
-      "source": "The Telegraph",
-      "source_url": "https://www.telegraphindia.com/amp/business/anthropics-blockbuster-usd-70-billion-ipo-plan-briefly-sent-to-banks-then-pulled-back/cid/2188723",
-      "genuineness": "corroborated",
-      "outlets": [
-        "Reuters",
-        "CoinCentral"
-      ],
-      "image": null,
-      "image_credit": null
-    },
-    {
-      "id": "world-20261111-0822-02",
-      "published_ist": "2026-11-10T13:39:00+05:30",
-      "headline": "Nvidia: jasusi aarop par jaanch, share gire",
-      "detail": "Nvidia ke board ne CEO Jensen Huang par China se jude jasusi aaropon ki swatantra jaanch shuru ki; khabar ke baad company ke share 4% se zyada gire — China ne aarop kharij kiye.",
-      "category": "World",
-      "exam_angle": "AI chip niryat pratibandh aur America-China tech tanaav — arthvyavastha ke liye mahatvapurna.",
-      "source": "IOL",
-      "source_url": "https://iol.co.za/business/economy/2026-11-10-nvidia-shares-tumble-as-board-investigates-reports-of-china-linked-spy-claims/",
-      "genuineness": "verified",
-      "outlets": [
-        "AFP",
-        "New Straits Times",
-        "Fortune India"
-      ],
-      "image": null,
-      "image_credit": null
-    },
-    {
-      "id": "world-20261111-0622-01",
-      "published_ist": "2026-11-10T13:30:00+05:30",
-      "headline": "Oviedo me backpack dhamaka, police adhikari ki maut",
-      "detail": "Spain ke Oviedo me goli-bari ki jaanch ke dauraan ek backpack me chhupa bomb phata — ek police adhikari aur uska kutta mare gaye, bomb-nirodhak visheshagya gambhir roop se ghayal hua.",
-      "category": "World",
-      "exam_angle": null,
-      "source": "Times Now",
-      "source_url": "https://www.timesnownews.com/world/europe/horror-in-spain-backpack-explosion-kills-police-officer-in-oviedo-bomb-expert-loses-leg-article-156489913",
-      "genuineness": "verified",
-      "outlets": [
-        "Times Now",
-        "JFeed",
-        "The News",
-        "Deutsche Welle"
-      ],
-      "image": null,
-      "image_credit": null
-    },
-    {
-      "id": "world-20261111-0622-02",
-      "published_ist": "2026-11-10T13:10:00+05:30",
-      "headline": "Iran khatre par America ne UK base se vimaan hataye",
-      "detail": "Iran se khatre ke baad America ne RAF Mildenhall se kam se kam 10 tanker vimaan asthaayi roop se Germany, Spain aur Scotland bhej diye; base ki suraksha star bhi badhaya gaya.",
-      "category": "World",
-      "exam_angle": "America-Iran tanaav aur paschimi sainya taiyaari — antarrashtriya sambandh ke liye mahatvapurna.",
-      "source": "CNN",
-      "source_url": "https://www.cnn.com/2026/11/10/world/us-moves-aircraft-british-military-base-intl?cid=external-feeds_iluminar_meta",
-      "genuineness": "verified",
-      "outlets": [
-        "CNN",
-        "The Wall Street Journal",
-        "The National",
-        "Reuters"
       ],
       "image": null,
       "image_credit": null
