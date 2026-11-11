@@ -296,6 +296,62 @@
       ],
       "image": null,
       "image_credit": null
+    },
+    {
+      "id": "world-20261111-1122-01",
+      "published_ist": "2026-11-11T10:31:00+05:30",
+      "headline": "North Hollywood haadsa: gaadi ne 3 ko kuchla",
+      "detail": "Los Angeles ke North Hollywood me ek safed SUV metro station ke paas paidal chal rahe logon aur thele walon par chadh gayi; 3 log mare aur 3 gambhir roop se ghayal hue, haadse ki wajah abhi jaanch me hai.",
+      "category": "World",
+      "exam_angle": null,
+      "source": "Reuters",
+      "source_url": "https://www.reuters.com/world/us/three-dead-after-vehicle-hits-pedestrians-los-angeles-fire-department-says-2026-11-11/",
+      "genuineness": "verified",
+      "outlets": [
+        "Reuters",
+        "Associated Press",
+        "The Jerusalem Post",
+        "Deccan Herald"
+      ],
+      "image": null,
+      "image_credit": null
+    },
+    {
+      "id": "world-20261111-1122-02",
+      "published_ist": "2026-11-11T10:02:00+05:30",
+      "headline": "House ne Hegseth ke khilaf mahabhiyog roka",
+      "detail": "America ki House ne 211-204 se raksha mantri Pete Hegseth ke khilaf mahabhiyog prastav ko committee ko bhej diya; Iran yuddh par aaropon par turant vote ab nahi hoga, Democrats January me phir koshish kar sakte hain.",
+      "category": "World",
+      "exam_angle": "America me mahabhiyog prakriya aur Iran yuddh par Congress ki bhoomika — antarrashtriya sambandh ke liye mahatvapurna.",
+      "source": "Reuters",
+      "source_url": "https://www.dailymaverick.co.za/article/2026-11-11-us-house-blocks-bid-to-impeach-defense-secretary-hegseth/",
+      "genuineness": "verified",
+      "outlets": [
+        "Reuters",
+        "The Wall Street Journal",
+        "Al Jazeera",
+        "The Hindu"
+      ],
+      "image": null,
+      "image_credit": null
+    },
+    {
+      "id": "world-20261111-1122-03",
+      "published_ist": "2026-11-10T21:57:00+05:30",
+      "headline": "Anthropic IPO: $70-78 prati share, $1 trillion mulya",
+      "detail": "Claude banane wali Anthropic ne IPO ke liye $70 se $78 prati share ka daam tay kiya; $64.4 billion tak jutakar company ka mulya lagbhag $1 trillion ho sakta hai — AI boom ki sabse badi pariksha.",
+      "category": "World",
+      "exam_angle": "AI boom aur duniya ke sabse bade IPO me se ek — arthvyavastha ke liye mahatvapurna.",
+      "source": "Reuters",
+      "source_url": "https://www.reuters.com/legal/transactional/view-anthropic-targets-1-trillion-ipo-valuation-key-test-ai-market-2026-11-10/",
+      "genuineness": "verified",
+      "outlets": [
+        "Reuters",
+        "CNN",
+        "The Korea Times"
+      ],
+      "image": null,
+      "image_credit": null
     }
   ]
 }
