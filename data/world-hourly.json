@@ -1,5 +1,5 @@
 {
-  "updated_ist": "2026-11-11T13:27:42+05:30",
+  "updated_ist": "2026-11-11T14:25:35+05:30",
   "items": [
     {
       "id": "world-20261111-1122-01",
@@ -54,6 +54,24 @@
         "The New York Times",
         "Reuters",
         "USA Today"
+      ],
+      "image": null,
+      "image_credit": null
+    },
+    {
+      "id": "world-20261111-1422-01",
+      "published_ist": "2026-11-11T09:12:00+05:30",
+      "headline": "Abu Dhabi: badi kaidi adla-badli par charcha",
+      "detail": "Zelensky ne kaha Abu Dhabi vaarta me 1,000-1,000 ya 1,500-1,500 ke format me bade paimane par kaidi adla-badli par charcha hui; America ke pratinidhi is mudde par Russia se baat karenge, yuddhviram par abhi koi sahmati nahi.",
+      "category": "World",
+      "exam_angle": "Russia-Ukraine shaanti vaarta aur kaidi adla-badli — antarrashtriya sambandh ke liye mahatvapurna.",
+      "source": "The Korea Herald",
+      "source_url": "https://www.koreaherald.com/article/10933638",
+      "genuineness": "verified",
+      "outlets": [
+        "Associated Press",
+        "AFP",
+        "Ukrinform"
       ],
       "image": null,
       "image_credit": null
@@ -208,6 +226,25 @@
       "image_credit": null
     },
     {
+      "id": "world-20261111-1422-03",
+      "published_ist": "2026-11-10T22:30:00+05:30",
+      "headline": "Norway ne data center grid roka",
+      "detail": "Norway ke grid operator Statnett ne 9 November se naye data centers ke liye grid capacity reservation rok di; sarkar 2027 me licensing laayegi aur crypto mining ko prathamikta nahi degi.",
+      "category": "World",
+      "exam_angle": "AI data center aur oorja neeti — arthvyavastha ke liye mahatvapurna.",
+      "source": "Environment Energy Leader",
+      "source_url": "https://www.environmentenergyleader.com/articles/45530-norway-halts-new-grid-reservations-for-server-facilities",
+      "genuineness": "verified",
+      "outlets": [
+        "Statnett",
+        "Environment Energy Leader",
+        "Unite.ai",
+        "Nordisk Post"
+      ],
+      "image": null,
+      "image_credit": null
+    },
+    {
       "id": "world-20261111-1122-03",
       "published_ist": "2026-11-10T21:57:00+05:30",
       "headline": "Anthropic IPO: $70-78 prati share, $1 trillion mulya",
@@ -240,6 +277,25 @@
         "Kyiv Independent",
         "Ukrainska Pravda",
         "Hromadske"
+      ],
+      "image": null,
+      "image_credit": null
+    },
+    {
+      "id": "world-20261111-1422-02",
+      "published_ist": "2026-11-10T21:02:00+05:30",
+      "headline": "China ne US sainikon ke avashesh saunpe",
+      "detail": "Chengdu me hue samaroh me China ne America ko WWII ke Hump Route par laapata hue US vayu-sainikon ke avashesh saunpe; pehchan ke liye America me DNA jaanch hogi.",
+      "category": "World",
+      "exam_angle": "WWII ka Hump Route — itihaas ke liye mahatvapurna.",
+      "source": "China Daily",
+      "source_url": "https://www.chinadaily.com.cn/a/202611/10/WS6af33921e4b03ebf8519ba36.html",
+      "genuineness": "verified",
+      "outlets": [
+        "Xinhua",
+        "China Daily",
+        "TRT World",
+        "ANI"
       ],
       "image": null,
       "image_credit": null
@@ -390,62 +446,6 @@
         "Interfax-Ukraine",
         "Reuters",
         "NewsCubby"
-      ],
-      "image": null,
-      "image_credit": null
-    },
-    {
-      "id": "world-20261110-1924-01",
-      "published_ist": "2026-11-10T17:29:00+05:30",
-      "headline": "Kenya me al-Shabaab hamle me 8 ki maut",
-      "detail": "Mandera me sadak-nirman team ki suraksha gaadi par sandehspad al-Shabaab hamle me 5 mazdoor, 2 police reservist aur driver mare gaye; hamla subah 7 baje hua.",
-      "category": "World",
-      "exam_angle": "Kenya-Somalia seema par al-Shabaab aur suraksha — antarrashtriya suraksha ke liye mahatvapurna.",
-      "source": "Reuters",
-      "source_url": "https://www.reuters.com/world/africa/eight-people-killed-kenyas-northeast-suspected-al-shabaab-attack-2026-11-10/",
-      "genuineness": "verified",
-      "outlets": [
-        "Reuters",
-        "Capital FM",
-        "The Eastleigh Voice",
-        "Addis Standard"
-      ],
-      "image": null,
-      "image_credit": null
-    },
-    {
-      "id": "world-20261110-1924-02",
-      "published_ist": "2026-11-10T17:27:00+05:30",
-      "headline": "Spain me train driver hadtaal, 40% train radd",
-      "detail": "Saal ki doosri ghaatak rail durghatna ke baad Spain ke train driver mangalvaar ko hadtaal par gaye; Renfe ne 40% lambi-doori ki train radd ki, 4,042 yatri prabhavit hue.",
-      "category": "World",
-      "exam_angle": "Spain me rail suraksha sankat aur mazdoor andolan — pariksha ke liye mahatvapurna.",
-      "source": "Reuters",
-      "source_url": "https://www.reuters.com/world/europe/train-drivers-strike-spain-after-two-deadly-crashes-year-2026-11-10/",
-      "genuineness": "verified",
-      "outlets": [
-        "Reuters",
-        "Times of India",
-        "MENAFN",
-        "Asharq Al-Awsat"
-      ],
-      "image": null,
-      "image_credit": null
-    },
-    {
-      "id": "world-20261110-2025-01",
-      "published_ist": "2026-11-10T17:00:00+05:30",
-      "headline": "South Africa: ANC ko sabse badi haar",
-      "detail": "South Africa ke sthaniya chunaav me ANC ko sirf 32.5% vote mile — 2021 se lagbhag 15 point ki girawat; DA 22.9% aur Zuma ki MK party 9.9% par rahi.",
-      "category": "World",
-      "exam_angle": "South Africa ki rajneeti aur ANC ka patan — antarrashtriya sambandh ke liye mahatvapurna.",
-      "source": "Daily Maverick",
-      "source_url": "https://www.dailymaverick.co.za/article/2026-11-10-from-475-to-325-the-ancs-local-government-slide-in-one-chart/",
-      "genuineness": "verified",
-      "outlets": [
-        "Daily Maverick",
-        "Reuters",
-        "AFP"
       ],
       "image": null,
       "image_credit": null
