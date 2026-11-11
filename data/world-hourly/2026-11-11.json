@@ -1,5 +1,5 @@
 {
-  "updated_ist": "2026-11-11T16:24:58+05:30",
+  "updated_ist": "2026-11-11T19:25:40+05:30",
   "items": [
     {
       "id": "world-20261111-0622-01",
@@ -670,6 +670,44 @@
       ],
       "image": null,
       "image_credit": null
+    },
+    {
+      "id": "world-20261111-1922-01",
+      "published_ist": "2026-11-11T17:49:00+05:30",
+      "headline": "Abu Dhabi: badi kaidi adla-badli par sahmati",
+      "detail": "America ki madhyasthata wali Abu Dhabi vaarta me Russia aur Ukraine badi kaidi adla-badli par sahmat hue; Kushner ne ise yuddh ki sabse badi kaidi rihai bataya, aankde kal tay honge, yuddhviram par abhi koi sahmati nahi.",
+      "category": "World",
+      "exam_angle": "Russia-Ukraine shaanti vaarta aur kaidi adla-badli — antarrashtriya sambandh ke liye mahatvapurna.",
+      "source": "The Week",
+      "source_url": "https://www.theweek.in/wire-updates/international/2026/11/11/russia-ukraine-agree-to-large-exchange-of-prisoners-of-war-officials-at-abu-dhabi-talks-say.html",
+      "genuineness": "verified",
+      "outlets": [
+        "Associated Press",
+        "Gulf News",
+        "CGTN",
+        "Firstpost"
+      ],
+      "image": null,
+      "image_credit": null
+    },
+    {
+      "id": "world-20261111-1922-02",
+      "published_ist": "2026-11-11T16:49:00+05:30",
+      "headline": "Gibran ke khilaf mahabhiyog yachika, 120 sansad",
+      "detail": "Indonesia ki sansad me aath dalon ke 120 sansadon ne up-rashtrapati Gibran Rakabuming Raka ke khilaf mahabhiyog ki yachika di; unhone Mangalvaar ko rashtrapati Prabowo se istifa ka irada bhi jataya tha.",
+      "category": "World",
+      "exam_angle": "Indonesia me up-rashtrapati par mahabhiyog prakriya — dakshin-poorv Asia ki rajneeti ke liye mahatvapurna.",
+      "source": "Reuters",
+      "source_url": "https://bworldonline.com/world/2026/11/11/793031/over-100-indonesian-lawmakers-sign-petition-that-could-lead-to-vice-presidents-impeachment/",
+      "genuineness": "verified",
+      "outlets": [
+        "Reuters",
+        "The Straits Times",
+        "Nikkei Asia",
+        "Malay Mail"
+      ],
+      "image": "../images/world/world-20261111-1922-02.jpg",
+      "image_credit": "Reuters via BusinessWorld"
     }
   ],
   "date": "2026-11-11"
