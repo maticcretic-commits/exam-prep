@@ -222,6 +222,80 @@
       ],
       "image": null,
       "image_credit": null
+    },
+    {
+      "id": "world-20261111-1022-01",
+      "published_ist": "2026-11-11T04:04:00+05:30",
+      "headline": "Seoul ke paas bus haadsa, 57 ghayal",
+      "detail": "Seongnam ke Bundang me subah ek city bus ne signal par khadi 32 gaadiyon ko takkar maari; 9 log gambhir roop se aur 48 halke ghayal hue, kisi ki jaan ko khatra nahi.",
+      "category": "World",
+      "exam_angle": null,
+      "source": "Reuters",
+      "source_url": "https://www.reuters.com/world/asia-pacific/nine-people-seriously-hurt-south-korea-bus-crash-involving-multiple-vehicles-2026-11-11/",
+      "genuineness": "verified",
+      "outlets": [
+        "Reuters",
+        "Channel News Asia",
+        "The Hindu",
+        "The Jerusalem Post"
+      ],
+      "image": null,
+      "image_credit": null
+    },
+    {
+      "id": "world-20261111-1022-02",
+      "published_ist": "2026-11-10T19:31:00+05:30",
+      "headline": "Indonesia ke up-rashtrapati ne istifa ki peshkash ki",
+      "detail": "Up-rashtrapati Gibran Rakabuming Raka ne Rashtrapati Prabowo se mulakaat me istife ki ichha jataayi; shiksha dastavezon par adalat ke faisle ke baad unki yogyata par sawal uth rahe hain, rashtrapati ne abhi faisla nahi liya.",
+      "category": "World",
+      "exam_angle": "Indonesia ki rajneeti aur up-rashtrapati ki yogyata vivaad — antarrashtriya sambandh ke liye mahatvapurna.",
+      "source": "AP",
+      "source_url": "https://www.wcmu.org/national-world-news/2026-11-10/indonesias-vp-offers-resignation-as-questions-mount-over-his-eligibility",
+      "genuineness": "verified",
+      "outlets": [
+        "AP",
+        "Reuters",
+        "The Business Times"
+      ],
+      "image": null,
+      "image_credit": null
+    },
+    {
+      "id": "world-20261111-1022-03",
+      "published_ist": "2026-11-10T19:30:00+05:30",
+      "headline": "Israel ki nayi Knesset ne shapath li",
+      "detail": "October ke chunaav ke baad Israel ki 120 sadasya wali nayi Knesset ne shapath li; kisi gut ko bahumat nahi mila aur Gadi Eisenkot sarkar banane ki koshish kar rahe hain, Netanyahu karyavahak PM bane rahenge.",
+      "category": "World",
+      "exam_angle": "Israel ki rajneeti aur sarkar gathan — antarrashtriya sambandh ke liye mahatvapurna.",
+      "source": "Reuters",
+      "source_url": "https://www.reuters.com/world/israels-parliament-sworn-eisenkot-tries-forge-government-2026-11-10/",
+      "genuineness": "verified",
+      "outlets": [
+        "Reuters",
+        "BBC",
+        "The National",
+        "Khaleej Times"
+      ],
+      "image": null,
+      "image_credit": null
+    },
+    {
+      "id": "world-20261111-1022-04",
+      "published_ist": "2026-11-11T06:20:00+05:30",
+      "headline": "Kryvyi Rih par drone hamla, bijli-paani band",
+      "detail": "Ukraine ke Kryvyi Rih me raat ko drone hamle se sheher ke ek hisse ki bijli gayi aur paani-garmi ki suvidha prabhavit hui; sheher ke raksha pramukh ke anusaar ghar, school aur kindergarten ko bhi nuksaan pahuncha.",
+      "category": "World",
+      "exam_angle": "Russia-Ukraine yuddh me oorja par hamle — antarrashtriya sambandh ke liye mahatvapurna.",
+      "source": "Reuters",
+      "source_url": "https://www.reuters.com/world/europe/drone-attack-leaves-part-ukraines-kryvyi-rih-without-power-2026-11-10/",
+      "genuineness": "corroborated",
+      "outlets": [
+        "Reuters",
+        "Kyiv Post",
+        "UNN"
+      ],
+      "image": null,
+      "image_credit": null
     }
   ]
 }
