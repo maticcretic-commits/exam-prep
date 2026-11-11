@@ -212,6 +212,76 @@
     ],
     "answer_index": 1
    }
+  },
+  {
+   "episode": 108,
+   "video_hi": "ARYRrxl2Tb8",
+   "video_hinglish": "ARYRrxl2Tb8",
+   "capsules": [
+    {
+     "id": "ca-ep108-s1",
+     "headline_hi": "Rabi khad subsidy manzoor, 62,370 crore ka outlay",
+     "headline_hinglish": "Rabi khad subsidy manzoor, 62,370 crore ka outlay",
+     "detail_hi": "Cabinet ne Rabi 2026-27 ke liye Phosphatic aur Potassic khad par NBS rates manzoor ki, kul outlay 62,370 crore rupaye.",
+     "detail_hinglish": "Cabinet ne Rabi 2026-27 ke liye Phosphatic aur Potassic khad par NBS rates manzoor ki, kul outlay 62,370 crore rupaye.",
+     "category_hi": "Economy",
+     "category_en": "Economy"
+    },
+    {
+     "id": "ca-ep108-s2",
+     "headline_hi": "COP31 mein Bharat ne manga fair climate deal",
+     "headline_hinglish": "COP31 mein Bharat ne manga fair climate deal",
+     "detail_hi": "Antalya mein Bharat ne kaha, viksit desh climate finance ke vaade poore karein.",
+     "detail_hinglish": "Antalya mein Bharat ne kaha, viksit desh climate finance ke vaade poore karein.",
+     "category_hi": "Environment",
+     "category_en": "Environment"
+    },
+    {
+     "id": "ca-ep108-s3",
+     "headline_hi": "Stand-Up India ab 2031 tak, 4,111 crore corpus",
+     "headline_hinglish": "Stand-Up India ab 2031 tak, 4,111 crore corpus",
+     "detail_hi": "Cabinet ne Stand-Up India yojana March 2031 tak badhayi, guarantee corpus 4,111 crore rupaye.",
+     "detail_hinglish": "Cabinet ne Stand-Up India yojana March 2031 tak badhayi, guarantee corpus 4,111 crore rupaye.",
+     "category_hi": "Economy",
+     "category_en": "Economy"
+    },
+    {
+     "id": "ca-ep108-s4",
+     "headline_hi": "Niraj Kumar ko shooting bronze, LA 2028 quota",
+     "headline_hinglish": "Niraj Kumar ko shooting bronze, LA 2028 quota",
+     "detail_hi": "Doha World Championship mein 50 metre rifle 3 positions mein bronze, LA 2028 ka quota bhi mila.",
+     "detail_hinglish": "Doha World Championship mein 50 metre rifle 3 positions mein bronze, LA 2028 ka quota bhi mila.",
+     "category_hi": "Sports",
+     "category_en": "Sports"
+    },
+    {
+     "id": "ca-ep108-s5",
+     "headline_hi": "Delhi mein shuru hui Namo Yamuna River Safari",
+     "headline_hinglish": "Delhi mein shuru hui Namo Yamuna River Safari",
+     "detail_hi": "Yamuna par cruise seva shuru, paryatan aur nadi safai ko milegi nayi pehchan.",
+     "detail_hinglish": "Yamuna par cruise seva shuru, paryatan aur nadi safai ko milegi nayi pehchan.",
+     "category_hi": "Tourism",
+     "category_en": "National"
+    }
+   ],
+   "mcq": {
+    "id": "ca-ep108-mcq",
+    "q_hi": "Stand-Up India yojana ab kab tak chalegi?",
+    "q_hinglish": "Stand-Up India yojana ab kab tak chalegi?",
+    "options_hi": [
+     "March 2028",
+     "March 2026",
+     "March 2031",
+     "March 2035"
+    ],
+    "options_hinglish": [
+     "March 2028",
+     "March 2026",
+     "March 2031",
+     "March 2035"
+    ],
+    "answer_index": 2
+   }
   }
  ]
 }
