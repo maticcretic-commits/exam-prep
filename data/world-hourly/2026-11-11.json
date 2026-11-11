@@ -185,6 +185,43 @@
       ],
       "image": null,
       "image_credit": null
+    },
+    {
+      "id": "world-20261111-0922-01",
+      "published_ist": "2026-11-10T18:40:00+05:30",
+      "headline": "Senate ne shutdown khatm karne wala bill pass kiya",
+      "detail": "America ki Senate ne Somvaar raat 60-40 se funding bill pass kiya — 41 din se chal raha sabse lamba shutdown khatm hone ke kareeb; ab Budhvaar shaam ko House me vote hoga.",
+      "category": "World",
+      "exam_angle": "America ka sabse lamba shutdown aur Congress ki funding prakriya — antarrashtriya sambandh aur arthvyavastha ke liye mahatvapurna.",
+      "source": "NewsOneUSA",
+      "source_url": "https://newsoneusa.com/senate-passes-deal-to-end-longest-us-government-shutdown-as-house-vote-nears/",
+      "genuineness": "verified",
+      "outlets": [
+        "Fox News",
+        "Bloomberg",
+        "The Well News"
+      ],
+      "image": null,
+      "image_credit": null
+    },
+    {
+      "id": "world-20261111-0922-02",
+      "published_ist": "2026-11-10T20:45:00+05:30",
+      "headline": "America: mehngai 0.4% badhi, byaaj badhne ki ummeed",
+      "detail": "America me October me mehngai 0.4% badhi aur core mehngai 0.3% rahi — ummeed se zyada; Fed December me byaaj badha sakta hai, aadha point bhi charcha me hai.",
+      "category": "World",
+      "exam_angle": "America ki mehngai aur Fed ki byaaj dar — arthvyavastha ke liye mahatvapurna.",
+      "source": "Economic Times",
+      "source_url": "https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/traders-raise-odds-of-50-bps-fed-rate-hike-as-cpi-rise-exceeds-expectations/articleshow/135714586.cms",
+      "genuineness": "verified",
+      "outlets": [
+        "Economic Times",
+        "USA Today",
+        "Barron's",
+        "HousingWire"
+      ],
+      "image": null,
+      "image_credit": null
     }
   ]
 }
