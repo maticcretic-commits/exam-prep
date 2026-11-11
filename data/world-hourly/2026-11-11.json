@@ -352,6 +352,45 @@
       ],
       "image": null,
       "image_credit": null
+    },
+    {
+      "id": "world-20261111-1222-02",
+      "published_ist": "2026-11-11T09:06:00+05:30",
+      "headline": "Nvidia ne Wachtell ko jaanch saunpi",
+      "detail": "Nvidia ne Wachtell, Lipton, Rosen & Katz ko CEO Jensen Huang ke kathit Chinese jasus se sambandh ki swatantra jaanch ke liye bulaya; FBI alag se jaanch kar raha hai.",
+      "category": "World",
+      "exam_angle": "Nvidia, AI chip aur rashtriya suraksha",
+      "source": "Free Press Journal",
+      "source_url": "https://www.freepressjournal.in/amp/tech/nvidia-hires-top-us-law-firm-to-investigate-ceo-jensen-huangs-alleged-link-to-chinese-spy",
+      "genuineness": "verified",
+      "outlets": [
+        "Free Press Journal",
+        "CNBC TV18",
+        "The Economic Times",
+        "USA Today"
+      ],
+      "image": null,
+      "image_credit": null
+    },
+    {
+      "id": "world-20261111-1222-04",
+      "published_ist": "2026-11-11T00:15:00+05:30",
+      "headline": "UK me US sena adhikari jasusi me giraftar",
+      "detail": "Britain me NATO unit me tainat 41 saal ke US sena adhikari ko Russia se judi jasusi ke sandeh me giraftar kiya gaya; woh London me hirasat me hai.",
+      "category": "World",
+      "exam_angle": "NATO aur Russian jasusi",
+      "source": "Metropolitan Police",
+      "source_url": "https://news.met.police.uk/news/member-of-us-army-arrested-as-part-of-counter-terrorism-policing-investigation-514875",
+      "genuineness": "verified",
+      "outlets": [
+        "CNN",
+        "Arab News",
+        "The Wall Street Journal",
+        "The Times",
+        "Metropolitan Police"
+      ],
+      "image": null,
+      "image_credit": null
     }
   ]
 }
