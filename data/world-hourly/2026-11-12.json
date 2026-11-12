@@ -1,7 +1,79 @@
 {
   "date": "2026-11-12",
-  "updated_ist": "2026-11-12T19:32:06+05:30",
+  "updated_ist": "2026-11-12T20:27:05+05:30",
   "items": [
+    {
+      "id": "world-20261112-2022-02",
+      "published_ist": "2026-11-12T18:07:00+05:30",
+      "headline": "Congo Ebola: MSF ne chhute case ki chetavni di",
+      "detail": "MSF ne kaha Congo me Ebola ke kai case chhoot rahe hain aur aspatalon me failav jaari hai; sarkari aankde 11,042 case aur 5,387 maut batate hain, WHO ke mutabik 1,000 se zyada sampark kho gaye hain.",
+      "category": "World",
+      "exam_angle": "Congo me Ebola prakop aur WHO ki bhoomika — vaishvik swasthya aur antarrashtriya sangathan ke liye ahem.",
+      "source": "The Daily Pioneer",
+      "source_url": "https://dailypioneer.com/amp/story/world/congos-ebola-outbreak-passes-11000-cases-with-5387-dead",
+      "genuineness": "verified",
+      "outlets": [
+        "Associated Press",
+        "World Health Organization",
+        "Reuters"
+      ],
+      "image": "../images/world/world-20261112-2022-02.jpg",
+      "image_credit": "CDC/Cynthia Goldsmith, Wikimedia Commons (Public domain)"
+    },
+    {
+      "id": "world-20261112-2022-04",
+      "published_ist": "2026-11-11T21:21:00+05:30",
+      "headline": "Kohat hamle me 10 police jawan mare gaye",
+      "detail": "Khyber Pakhtunkhwa ke Kohat me budhwar ko aatankwadiyon ne police team par hamla kiya; DSP samet 10 jawan mare gaye aur police ke mutabik jawabi karvai me 18 hamlaawar bhi mare gaye, TTP ne zimmedari li hai.",
+      "category": "World",
+      "exam_angle": "Pakistan me aatankwad aur padosi desh ki suraksha — antarrashtriya sambandh ke liye ahem.",
+      "source": "The Express Tribune",
+      "source_url": "https://tribune.com.pk/story/2639771/at-least-10-policemen-including-dsp-martyred-in-terrorist-attack-on-kohat-police-team",
+      "genuineness": "verified",
+      "outlets": [
+        "The Express Tribune",
+        "TRT World",
+        "Associated Press"
+      ],
+      "image": null,
+      "image_credit": null
+    },
+    {
+      "id": "world-20261112-2022-03",
+      "published_ist": "2026-11-11T13:54:00+05:30",
+      "headline": "Krakow golibari: 6 ki maut, hamlaawar bhi mara",
+      "detail": "7 November ko Krakow ke Main Market Square me golibari me 6 log mare gaye aur 16 ghayal hue; hamlaawar police se goli lagne ke baad 9 November ko aspatal me mar gaya, Poland ne hamle ki aatankwadi jaanch shuru ki hai.",
+      "category": "World",
+      "exam_angle": "Europe me aatankwadi hamla aur suraksha — antarrashtriya sambandh ke liye mahatvapurna.",
+      "source": "CNN",
+      "source_url": "https://www.cnn.com/2026/11/09/europe/krakow-shooting-poland-gunman-dead-intl-hnk?cid=external-feeds_iluminar_meta",
+      "genuineness": "verified",
+      "outlets": [
+        "CNN",
+        "BBC",
+        "The Guardian"
+      ],
+      "image": "../images/world/world-20261112-2022-03.jpg",
+      "image_credit": "Andrzej O, Wikimedia Commons (CC BY-SA 4.0)"
+    },
+    {
+      "id": "world-20261112-2022-01",
+      "published_ist": "2026-11-10T16:17:00+05:30",
+      "headline": "Eisenkot ko Israel sarkar banane ka mauka",
+      "detail": "Rashtrapati Herzog ne 8 November ko Gadi Eisenkot ko sarkar banane ka mauka diya; 10 November ko nayi Knesset ne shapath li aur vipaksh ne Matan Kahana ko speaker ummidwar banaya, Eisenkot ke paas 28 din hain.",
+      "category": "World",
+      "exam_angle": "Israel me sarkar gathan aur West Asia ki sthirata — antarrashtriya sambandh ke liye mahatvapurna.",
+      "source": "Dawn",
+      "source_url": "https://www.dawn.com/news/2043517/israels-parliament-sworn-in-as-eisenkot-tries-to-forge-a-government",
+      "genuineness": "verified",
+      "outlets": [
+        "Dawn",
+        "News18",
+        "China Daily"
+      ],
+      "image": "../images/world/world-20261112-2022-01.jpg",
+      "image_credit": "Yahav Trudler, Wikimedia Commons (CC BY-SA 3.0)"
+    },
     {
       "id": "world-20261112-1922-01",
       "published_ist": "2026-11-12T17:58:00+05:30",
