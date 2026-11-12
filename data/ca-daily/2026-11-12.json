@@ -212,6 +212,76 @@
     ],
     "answer_index": 1
    }
+  },
+  {
+   "episode": 112,
+   "video_hi": "bNQP3h9cKv8",
+   "video_hinglish": "bNQP3h9cKv8",
+   "capsules": [
+    {
+     "id": "ca-ep112-s1",
+     "headline_hi": "Mehngai 6.09%, RBI ki seema paar",
+     "headline_hinglish": "Mehngai 6.09%, RBI ki seema paar",
+     "detail_hi": "October mein retail inflation 6.09% rahi, khane ki mehngai 8.94%, pyaaz 116% mehnga.",
+     "detail_hinglish": "October mein retail inflation 6.09% rahi, khane ki mehngai 8.94%, pyaaz 116% mehnga.",
+     "category_hi": "Economy",
+     "category_en": "Economy"
+    },
+    {
+     "id": "ca-ep112-s2",
+     "headline_hi": "North-South Block banega duniya ka sabse bada museum",
+     "headline_hinglish": "North-South Block banega duniya ka sabse bada museum",
+     "detail_hi": "Cabinet ne 3,230 crore ke Yuge Yugeen Bharat Museum ko manzoori di, pehli gallery 2027 mein khulegi.",
+     "detail_hinglish": "Cabinet ne 3,230 crore ke Yuge Yugeen Bharat Museum ko manzoori di, pehli gallery 2027 mein khulegi.",
+     "category_hi": "Culture",
+     "category_en": "National"
+    },
+    {
+     "id": "ca-ep112-s3",
+     "headline_hi": "Battery black mass ke export par rok",
+     "headline_hinglish": "Battery black mass ke export par rok",
+     "detail_hi": "Sarkar ne lithium-ion battery black mass ke export par rok lagayi, desh mein recycling aur refining badhane ke liye.",
+     "detail_hinglish": "Sarkar ne lithium-ion battery black mass ke export par rok lagayi, desh mein recycling aur refining badhane ke liye.",
+     "category_hi": "Environment",
+     "category_en": "Environment"
+    },
+    {
+     "id": "ca-ep112-s4",
+     "headline_hi": "670 km ki nayi Vande Bharat, Bengaluru-Goa",
+     "headline_hinglish": "670 km ki nayi Vande Bharat, Bengaluru-Goa",
+     "detail_hi": "Bengaluru-Mangaluru-Madgaon Vande Bharat 13 November ko shuru hogi, 670 km ki sabse lambi chair-car seva.",
+     "detail_hinglish": "Bengaluru-Mangaluru-Madgaon Vande Bharat 13 November ko shuru hogi, 670 km ki sabse lambi chair-car seva.",
+     "category_hi": "Infrastructure",
+     "category_en": "National"
+    },
+    {
+     "id": "ca-ep112-s5",
+     "headline_hi": "Hardik Pandya ab Punjab Kings mein, 18 crore",
+     "headline_hinglish": "Hardik Pandya ab Punjab Kings mein, 18 crore",
+     "detail_hi": "Mumbai Indians ne Hardik Pandya ko 18 crore mein Punjab Kings ko diya, badle mein Arshdeep Singh mile.",
+     "detail_hinglish": "Mumbai Indians ne Hardik Pandya ko 18 crore mein Punjab Kings ko diya, badle mein Arshdeep Singh mile.",
+     "category_hi": "Sports",
+     "category_en": "Sports"
+    }
+   ],
+   "mcq": {
+    "id": "ca-ep112-mcq",
+    "q_hi": "October 2026 mein retail inflation kitni rahi?",
+    "q_hinglish": "October 2026 mein retail inflation kitni rahi?",
+    "options_hi": [
+     "5.54%",
+     "5.09%",
+     "6.09%",
+     "6.63%"
+    ],
+    "options_hinglish": [
+     "5.54%",
+     "5.09%",
+     "6.09%",
+     "6.63%"
+    ],
+    "answer_index": 2
+   }
   }
  ]
 }
