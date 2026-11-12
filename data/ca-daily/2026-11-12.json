@@ -72,6 +72,76 @@
     ],
     "answer_index": 1
    }
+  },
+  {
+   "episode": 110,
+   "video_hi": "RFHbKrXUa-g",
+   "video_hinglish": "RFHbKrXUa-g",
+   "capsules": [
+    {
+     "id": "ca-ep110-s1",
+     "headline_hi": "Moody's ne Bharat ki growth forecast 7% ki",
+     "headline_hinglish": "Moody's ne Bharat ki growth forecast 7% ki",
+     "detail_hi": "Moody's ne FY27 ke liye Bharat ki GDP growth forecast 6.5% se badhakar 7% kar di, majboot arthvyavastha ka hawala diya.",
+     "detail_hinglish": "Moody's ne FY27 ke liye Bharat ki GDP growth forecast 6.5% se badhakar 7% kar di, majboot arthvyavastha ka hawala diya.",
+     "category_hi": "Economy",
+     "category_en": "Economy"
+    },
+    {
+     "id": "ca-ep110-s2",
+     "headline_hi": "INS Betwa refit, 498 crore ka contract",
+     "headline_hinglish": "INS Betwa refit, 498 crore ka contract",
+     "detail_hi": "Raksha Mantralaya ne Cochin Shipyard se INS Betwa ke refit aur re-powering ke liye 498.58 crore ka contract sign kiya.",
+     "detail_hinglish": "Raksha Mantralaya ne Cochin Shipyard se INS Betwa ke refit aur re-powering ke liye 498.58 crore ka contract sign kiya.",
+     "category_hi": "Defence",
+     "category_en": "Defence"
+    },
+    {
+     "id": "ca-ep110-s3",
+     "headline_hi": "North-South Block banega Yuge Yugeen Bharat Museum",
+     "headline_hinglish": "North-South Block banega Yuge Yugeen Bharat Museum",
+     "detail_hi": "Cabinet ne North aur South Block ko Yuge Yugeen Bharat National Museum mein badalne ke liye 3,230 crore manzoor kiye.",
+     "detail_hinglish": "Cabinet ne North aur South Block ko Yuge Yugeen Bharat National Museum mein badalne ke liye 3,230 crore manzoor kiye.",
+     "category_hi": "Culture",
+     "category_en": "National"
+    },
+    {
+     "id": "ca-ep110-s4",
+     "headline_hi": "India ne Maldives ko 1-0 se hara diya",
+     "headline_hinglish": "India ne Maldives ko 1-0 se hara diya",
+     "detail_hi": "Dhaka mein SAFF Championship ke Group B match mein India ne Maldives ko 1-0 se harakar semi-final mein jagah banayi.",
+     "detail_hinglish": "Dhaka mein SAFF Championship ke Group B match mein India ne Maldives ko 1-0 se harakar semi-final mein jagah banayi.",
+     "category_hi": "Sports",
+     "category_en": "Sports"
+    },
+    {
+     "id": "ca-ep110-s5",
+     "headline_hi": "Bengal ki Khadi mein depression, TN mein barish",
+     "headline_hinglish": "Bengal ki Khadi mein depression, TN mein barish",
+     "detail_hi": "Bengal ki Khadi mein depression bana, IMD ne Tamil Nadu aur Puducherry mein bhari barish ki chetavni di.",
+     "detail_hinglish": "Bengal ki Khadi mein depression bana, IMD ne Tamil Nadu aur Puducherry mein bhari barish ki chetavni di.",
+     "category_hi": "Weather",
+     "category_en": "National"
+    }
+   ],
+   "mcq": {
+    "id": "ca-ep110-mcq",
+    "q_hi": "Moody's ne Bharat ki FY27 GDP growth forecast kitni kar di hai?",
+    "q_hinglish": "Moody's ne Bharat ki FY27 GDP growth forecast kitni kar di hai?",
+    "options_hi": [
+     "6%",
+     "6.5%",
+     "7%",
+     "7.5%"
+    ],
+    "options_hinglish": [
+     "6%",
+     "6.5%",
+     "7%",
+     "7.5%"
+    ],
+    "answer_index": 2
+   }
   }
  ]
 }
