@@ -1,6 +1,6 @@
 {
   "date": "2026-11-12",
-  "updated_ist": "2026-11-12T08:26:15+05:30",
+  "updated_ist": "2026-11-12T09:26:34+05:30",
   "items": [
     {
       "id": "world-20261112-0822-01",
@@ -166,6 +166,60 @@
         "Reuters",
         "Associated Press",
         "CBS"
+      ],
+      "image": null,
+      "image_credit": null
+    },
+    {
+      "id": "world-20261112-0925-01",
+      "published_ist": "2026-11-12T03:30:00+05:30",
+      "headline": "Pope Leo XIV Peru pahunche, ghar wapsi",
+      "detail": "Pope Leo XIV budhwar ko Peru pahunche — apni dakshin America yatra ka aakhri charan; ve wahan 20 saal se zyada missionary aur Chiclayo ke bishop rahe, aur chhah din me Lima, Chiclayo, Cusco aur Amazon ka daura karenge.",
+      "category": "World",
+      "exam_angle": null,
+      "source": "Vatican News",
+      "source_url": "https://www.vaticannews.va/en/pope/news/2026-11/pope-leo-arrives-in-peru-for-final-leg-of-apostolic-journey.html",
+      "genuineness": "verified",
+      "outlets": [
+        "Vatican News",
+        "Associated Press",
+        "CNN"
+      ],
+      "image": "../images/world/world-20261112-0925-01.jpg",
+      "image_credit": "Vatican News"
+    },
+    {
+      "id": "world-20261112-0925-02",
+      "published_ist": "2026-11-11T23:08:00+05:30",
+      "headline": "COP31: Iran ne yuddh nuksan ka muawza manga",
+      "detail": "COP31 me Iran ke Rashtrapati Pezeshkian ne kaha ki America aur Israel ke hamlo se hue paryavaran nuksan ka muawza milna chahiye, aur yuddh ke samay ki zimmedari ko jalvayu pratibaddhataon se joda jana chahiye.",
+      "category": "World",
+      "exam_angle": "Jalvayu sammelan aur yuddh ka paryavaran prabhav — COP31 ke liye mahatvapurna.",
+      "source": "Reuters",
+      "source_url": "https://krro.com/2026/11/11/iran-tells-cop31-it-wants-compensation-for-environmental-damage-from-us-israeli-strikes/",
+      "genuineness": "verified",
+      "outlets": [
+        "Reuters",
+        "The Jerusalem Post",
+        "Vietnam.vn"
+      ],
+      "image": null,
+      "image_credit": null
+    },
+    {
+      "id": "world-20261112-0925-03",
+      "published_ist": "2026-11-11T23:02:00+05:30",
+      "headline": "Brazil ne Facebook par $1.3M jurmana lagaya",
+      "detail": "Brazil ki chunav adalat ne Meta ke Facebook par 7.5 million reais (lagbhag $1.3 million) ka jurmana lagaya, kyunki usne pichle mahine ke rashtrapati chunav ke dauran adalat ke aadeshon ka poori tarah palan nahi kiya; adalat ne kaha chunav ko janbujhkar prabhavit karne ka saboot abhi nahi mila.",
+      "category": "World",
+      "exam_angle": "Social media aur chunav aachar sanhita — chunav me platform ki bhoomika.",
+      "source": "Associated Press",
+      "source_url": "https://www.lanacion.com.ar/usa/brazil-fines-facebook-13-million-for-failing-to-comply-with-court-orders-during-election-nid11112026/",
+      "genuineness": "verified",
+      "outlets": [
+        "Reuters",
+        "Associated Press",
+        "Agence France-Presse"
       ],
       "image": null,
       "image_credit": null
