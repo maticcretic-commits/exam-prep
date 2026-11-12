@@ -1,43 +1,136 @@
 {
- "updated_ist": "2026-11-12T06:25:46+05:30",
- "items": [
-  {
-   "id": "world-20261112-0622-01",
-   "published_ist": "2026-11-11T17:54:00+05:30",
-   "headline": "Kohat me hamla: 10 police shaheed",
-   "detail": "Khyber Pakhtunkhwa ke Kohat me avaidh sone ki khanan ke khilaf operation se laut rahi police team par hamla hua; DSP Haidar Zaman samet 10 police karmchari shaheed hue, 18 hamlaawar bhi maare gaye.",
-   "category": "World",
-   "exam_angle": "Pakistan me aatankwad aur suraksha sthiti — padosi desh ke halaat, antarrashtriya sambandh ke liye mahatvapurna.",
-   "source": "Dawn",
-   "source_url": "https://www.dawn.com/news/print/2043793",
-   "genuineness": "verified",
-   "outlets": [
-    "Dawn",
-    "The Express Tribune",
-    "Pakistan Today",
-    "Associated Press"
-   ],
-   "image": "../images/world/world-20261112-0622-01.jpg",
-   "image_credit": "Dawn"
-  },
-  {
-   "id": "world-20261112-0622-02",
-   "published_ist": "2026-11-11T22:10:00+05:30",
-   "headline": "Storm Charles: Portugal me sab band",
-   "detail": "Atlantic toofan Charles ke aane par Portugal me lagbhag 8,000 school band rahe aur 300 se zyada udanein radd hui; 120 km/h se zyada ki hawa chali, lekin bada nuksan nahi hua.",
-   "category": "World",
-   "exam_angle": "Charam mausam aur jalvayu parivartan — COP31 ke dauraan ka mahatvapurna mudda.",
-   "source": "Al Jazeera",
-   "source_url": "https://www.aljazeera.com/news/2026/11/11/portugal-cancels-300-plus-flights-shuts-schools-ahead-of-storm-charles?traffic_source=rss",
-   "genuineness": "verified",
-   "outlets": [
-    "Associated Press",
-    "Al Jazeera",
-    "Reuters"
-   ],
-   "image": "../images/world/world-20261112-0622-02.jpg",
-   "image_credit": "EPA via Al Jazeera"
-  }
- ],
- "date": "2026-11-12"
+  "date": "2026-11-12",
+  "updated_ist": "2026-11-12T07:26:31+05:30",
+  "items": [
+    {
+      "id": "world-20261112-0622-02",
+      "published_ist": "2026-11-11T22:10:00+05:30",
+      "headline": "Storm Charles: Portugal me sab band",
+      "detail": "Atlantic toofan Charles ke aane par Portugal me lagbhag 8,000 school band rahe aur 300 se zyada udanein radd hui; 120 km/h se zyada ki hawa chali, lekin bada nuksan nahi hua.",
+      "category": "World",
+      "exam_angle": "Charam mausam aur jalvayu parivartan — COP31 ke dauraan ka mahatvapurna mudda.",
+      "source": "Al Jazeera",
+      "source_url": "https://www.aljazeera.com/news/2026/11/11/portugal-cancels-300-plus-flights-shuts-schools-ahead-of-storm-charles?traffic_source=rss",
+      "genuineness": "verified",
+      "outlets": [
+        "Associated Press",
+        "Al Jazeera",
+        "Reuters"
+      ],
+      "image": "../images/world/world-20261112-0622-02.jpg",
+      "image_credit": "EPA via Al Jazeera"
+    },
+    {
+      "id": "world-20261112-0722-02",
+      "published_ist": "2026-11-11T19:56:00+05:30",
+      "headline": "Abu Dhabi vaarta khatm, safalta nahi",
+      "detail": "America ki madhyasthata wali Abu Dhabi vaarta do din baad khatm hui; badi kaidi adla-badli par sahmati bani, lekin yuddh-viram ya seema par koi safalta nahi mili; Kushner aur Witkoff ab Putin se milne Moscow jayenge.",
+      "category": "World",
+      "exam_angle": "Russia-Ukraine yuddh aur shanti vaarta — antarrashtriya sambandh ke liye mahatvapurna.",
+      "source": "Associated Press",
+      "source_url": "https://www.military.com/russia-and-ukraine-agree-to-a-large-prisoner-exchange-as-talks-conclude-with-no-major-breakthrough",
+      "genuineness": "verified",
+      "outlets": [
+        "Associated Press",
+        "Reuters",
+        "The Express Tribune"
+      ],
+      "image": null,
+      "image_credit": null
+    },
+    {
+      "id": "world-20261112-0722-01",
+      "published_ist": "2026-11-11T19:13:00+05:30",
+      "headline": "Iran: Europe ke US base bhi nishane par",
+      "detail": "Iran ke suraksha pramukh Mohsen Rezaei ne kaha, America ne phir hamla kiya to Europe me sthit US sainya base bhi nishana banenge; unhone samriddh uranium desh se bahar na bhejne ki baat bhi dohrai.",
+      "category": "World",
+      "exam_angle": "West Asia me tanav aur America-Iran takraav — antarrashtriya sambandh ke liye mahatvapurna.",
+      "source": "The Express Tribune",
+      "source_url": "https://tribune.com.pk/story/2639857/iran-warns-of-strikes-on-us-bases-in-europe",
+      "genuineness": "verified",
+      "outlets": [
+        "AFP",
+        "Haaretz",
+        "News18",
+        "Rediff"
+      ],
+      "image": null,
+      "image_credit": null
+    },
+    {
+      "id": "world-20261112-0622-01",
+      "published_ist": "2026-11-11T17:54:00+05:30",
+      "headline": "Kohat me hamla: 10 police shaheed",
+      "detail": "Khyber Pakhtunkhwa ke Kohat me avaidh sone ki khanan ke khilaf operation se laut rahi police team par hamla hua; DSP Haidar Zaman samet 10 police karmchari shaheed hue, 18 hamlaawar bhi maare gaye.",
+      "category": "World",
+      "exam_angle": "Pakistan me aatankwad aur suraksha sthiti — padosi desh ke halaat, antarrashtriya sambandh ke liye mahatvapurna.",
+      "source": "Dawn",
+      "source_url": "https://www.dawn.com/news/print/2043793",
+      "genuineness": "verified",
+      "outlets": [
+        "Dawn",
+        "The Express Tribune",
+        "Pakistan Today",
+        "Associated Press"
+      ],
+      "image": "../images/world/world-20261112-0622-01.jpg",
+      "image_credit": "Dawn"
+    },
+    {
+      "id": "world-20261112-0722-03",
+      "published_ist": "2026-11-11T11:27:00+05:30",
+      "headline": "Maldives: Israeli passport par sthayi rok ka bill",
+      "detail": "Maldives ke Rashtrapati Muizzu ne sansad me bill pesh kiya jo Israeli passport walon ke pravesh par bina shart sthayi rok lagayega; pehle ki rok Gaza yuddh se judi thi, kanoon abhi bana nahi hai.",
+      "category": "World",
+      "exam_angle": "Maldives aur West Asia ki rajneeti — padosi deshon ke sambandh ke liye mahatvapurna.",
+      "source": "The Times of Israel",
+      "source_url": "https://www.timesofisrael.com/liveblog_entry/maldives-moves-to-make-ban-on-israeli-passport-holders-permanent/",
+      "genuineness": "verified",
+      "outlets": [
+        "The Times of Israel",
+        "The Jerusalem Post",
+        "Ynet",
+        "Maldives Independent"
+      ],
+      "image": null,
+      "image_credit": null
+    },
+    {
+      "id": "world-20261112-0722-05",
+      "published_ist": "2026-11-11T11:00:46+05:30",
+      "headline": "Naya COVID variant PJ.2.1 kai deshon me",
+      "detail": "SARS-CoV-2 ka naya variant PJ.2.1 America, Spain, France, Singapore aur Australia samet kai deshon me mila; WHO is par nazar rakhe hue hai, lekin gambhir bimari ke zyada khatre ka koi saboot abhi nahi hai.",
+      "category": "World",
+      "exam_angle": "Swasthya aur WHO ki nigrani — vigyan aur swasthya ke liye mahatvapurna.",
+      "source": "The Indian Express",
+      "source_url": "https://indianexpress.com/article/lifestyle/health/new-covid-variant-p-j-2-1-indians-symptoms-causes-prevention-experts-10958390/",
+      "genuineness": "verified",
+      "outlets": [
+        "The Indian Express",
+        "News18",
+        "Khaleej Times",
+        "Mathrubhumi"
+      ],
+      "image": null,
+      "image_credit": null
+    },
+    {
+      "id": "world-20261112-0722-04",
+      "published_ist": "2026-11-11T10:59:32+05:30",
+      "headline": "Kennedy parivar Trump ke arch ke khilaf",
+      "detail": "Kennedy parivar ke nau sadasyon ne adalat se Trump ki 250-foot ki smarak arch par rok lagane ki mang ki; unka kehna hai arch se Arlington me unke parijanon ki kabron par chhaya padegi.",
+      "category": "World",
+      "exam_angle": null,
+      "source": "The Telegraph (India)",
+      "source_url": "https://www.telegraphindia.com/world/kennedy-family-joins-legal-fight-to-stop-donald-trumps-proposed-washington-triumphal-arch/cid/2188879",
+      "genuineness": "verified",
+      "outlets": [
+        "Reuters",
+        "Associated Press",
+        "CBS"
+      ],
+      "image": null,
+      "image_credit": null
+    }
+  ]
 }
