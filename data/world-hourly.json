@@ -1,6 +1,66 @@
 {
-  "updated_ist": "2026-11-12T14:28:13+05:30",
+  "updated_ist": "2026-11-12T15:24:56+05:30",
   "items": [
+    {
+      "id": "world-20261112-1522-01",
+      "published_ist": "2026-11-12T14:23:00+05:30",
+      "headline": "China: Nvidia jasusi daave America ki 'nakabandi' chaal",
+      "detail": "China ne kaha America Nvidia CEO Jensen Huang par jasusi ke aaropon ko China par takniki 'nakabandi' lagane ke bahane ke roop me istemal kar raha hai; Beijing ne aaropon ko be-buniyad batakar khariz kiya, jabki Nvidia ne swatantra jaanch shuru ki hai.",
+      "category": "World",
+      "exam_angle": "America-China takniki yuddh aur AI chip pratibandh — antarrashtriya sambandh ke liye mahatvapurna.",
+      "source": "Channel News Asia",
+      "source_url": "https://www.channelnewsasia.com/east-asia/china-us-nvidia-spy-claims-justify-ai-chips-blockade-6545491",
+      "genuineness": "verified",
+      "outlets": [
+        "Channel News Asia",
+        "The Straits Times",
+        "The New York Times",
+        "The Wall Street Journal",
+        "The Economic Times"
+      ],
+      "image": "../images/world/world-20261112-1522-01.jpg",
+      "image_credit": "Anderseidesvik, Wikimedia Commons (CC BY-SA 4.0)"
+    },
+    {
+      "id": "world-20261112-1522-02",
+      "published_ist": "2026-11-10T07:14:00+05:30",
+      "headline": "Turkey steel plant blast: 17 mazdooron ki maut",
+      "detail": "Turkey ke Izmir ke paas Habas steel plant me dhamake ke baad kam se kam 17 mazdooron ki maut hui aur 12 ghayal hue; swasthya mantri ke mutabik ek gambhir ghayal mazdoor ki baad me maut se toll 17 hua, jaanch me 6 log giraftar hue.",
+      "category": "World",
+      "exam_angle": "Turkey me audyogik suraksha aur mazdoor suraksha — antarrashtriya samachar ke liye mahatvapurna.",
+      "source": "The Times of India",
+      "source_url": "https://timesofindia.indiatimes.com/world/middle-east/deadly-explosion-at-turkey-steel-factory-kills-17-workers-injures-12-others/articleshow/135696426.cms",
+      "genuineness": "verified",
+      "outlets": [
+        "BBC",
+        "The Times of India",
+        "Hürriyet",
+        "AFP",
+        "Daily Mirror"
+      ],
+      "image": "../images/world/world-20261112-1522-02.jpg",
+      "image_credit": "The Times of India"
+    },
+    {
+      "id": "world-20261112-1522-03",
+      "published_ist": "2026-11-09T23:45:00+05:30",
+      "headline": "Russell Brand ko balatkar par 10.5 saal jail",
+      "detail": "London ki Southwark Crown Court ne British comedian Russell Brand ko ek balatkar aur teen yaun hamlo ke liye 10 saal 6 mahine ki saza sunayi; judge ne unhe 'sexual predator' kaha aur ve aajivan sex offenders register par rahenge.",
+      "category": "World",
+      "exam_angle": null,
+      "source": "Otago Daily Times",
+      "source_url": "https://www.odt.co.nz/news/world/sexual-predator-comedian-russell-brand-jailed-for-10-years-for-rape-assault-hqg0m8dk",
+      "genuineness": "verified",
+      "outlets": [
+        "CNN",
+        "The Times",
+        "Dawn",
+        "The Standard",
+        "Otago Daily Times"
+      ],
+      "image": "../images/world/world-20261112-1522-03.jpg",
+      "image_credit": "Eva Rinaldi, Wikimedia Commons (CC BY-SA 2.0)"
+    },
     {
       "id": "world-20261112-1122-01",
       "published_ist": "2026-11-12T09:43:00+05:30",
@@ -117,7 +177,7 @@
     {
       "id": "world-20261112-0822-01",
       "published_ist": "2026-11-12T02:30:00+05:30",
-      "headline": "Brooklyn me imarat giri: 1 ki maut",
+      "headline": "Brooklyn me imarat giri: 2 ki maut",
       "detail": "New York ke Brooklyn ke Flatbush me budhwar shaam ek 3-manzila imarat paas ki khudai wali jagah me gir gayi; kam se kam 2 ki maut aur 17 ghayal hue, jinme 4 gambhir aur 7 bachche hain; malbe me fase logon ki talash jaari hai, lagbhag 250 damkalkarmi lage hain. [Sudhara gaya — pehle 1 maut aur 12 ghayal bataye gaye the.]",
       "category": "World",
       "exam_angle": "Shahri suraksha aur imarat niyam — nagar prashasan aur apda prabandhan ke liye mahatvapurna.",
@@ -387,62 +447,6 @@
       ],
       "image": null,
       "image_credit": null
-    },
-    {
-      "id": "world-20261111-1722-01",
-      "published_ist": "2026-11-11T15:48:00+05:30",
-      "headline": "Spain me 14 saal baad aam hadtaal",
-      "detail": "Awaas sankat par 2012 ke baad pehli deshvyapi aam hadtaal me laakhon log sadkon par utre; Madrid me lagbhag 1,20,000 aur Barcelona me 55,000 pradarshankari the, shaam ko dono shahron me jhadapen hui aur aansu gas chali, desh bhar me kam se kam 73 giraftariyan hui; 29 November ko chunaav hai.",
-      "category": "World",
-      "exam_angle": "Awaas sankat aur shramik andolan — Spain ke 29 November chunaav se pehle ka bada mudda; UPSC ke liye antarrashtriya arthvyavastha aur shram muddon se juda.",
-      "source": "Al Jazeera",
-      "source_url": "https://www.aljazeera.com/news/2026/11/11/spains-first-general-strike-in-14-years-begins",
-      "genuineness": "verified",
-      "outlets": [
-        "Reuters",
-        "Al Jazeera",
-        "Associated Press",
-        "AFP"
-      ],
-      "image": "../images/world/world-20261111-1722-01.jpg",
-      "image_credit": "Reuters via Al Jazeera"
-    },
-    {
-      "id": "world-20261111-2122-02",
-      "published_ist": "2026-11-11T15:34:00+05:30",
-      "headline": "Russia ki refining kshamata 30% ghata",
-      "detail": "Ukraine ke drone hamlo se October ke ant se Russia ki tel refining kshamata lagbhag 30% kam hui; Kirishi refinery par hamle me aag lagi aur ek mahila ki maut hui.",
-      "category": "World",
-      "exam_angle": "Russia-Ukraine yuddh, urja suraksha aur global tel bazaar — antarrashtriya sambandh ke liye mahatvapurna.",
-      "source": "The Times of India",
-      "source_url": "https://timesofindia.indiatimes.com/business/international-business/russias-oil-game-runs-dry-as-ukrainian-drones-knock-out-30-of-refining-capacity/articleshow/135731724.cms",
-      "genuineness": "verified",
-      "outlets": [
-        "Reuters",
-        "Al Jazeera",
-        "The Times of India"
-      ],
-      "image": null,
-      "image_credit": null
-    },
-    {
-      "id": "world-20261112-1025-03",
-      "published_ist": "2026-11-11T15:17:00+05:30",
-      "headline": "Imran Khan raat me aspatal, aankh ka ilaaj",
-      "detail": "Pakistan ke jail me band poorv PM Imran Khan ko 10-11 November ki raat aankh ki jaanch aur injection ke liye Islamabad ke PIMS aspatal le jaya gaya aur subah wapas Adiala jail bhej diya gaya; aspatal ne kaha ve sthir hain, jabki unki party ne Supreme Court ke niji aspatal wale aadesh ka hawala dekar sawal uthaye.",
-      "category": "World",
-      "exam_angle": "Pakistan ki rajneeti — padosi desh ke halaat ke liye mahatvapurna.",
-      "source": "Al Jazeera",
-      "source_url": "https://www.aljazeera.com/amp/news/2026/11/11/pakistans-pti-demands-access-to-jailed-khan-after-overnight-hospital-visit",
-      "genuineness": "verified",
-      "outlets": [
-        "Al Jazeera",
-        "Dawn",
-        "Geo TV",
-        "Reuters"
-      ],
-      "image": "../images/world/world-20261112-1025-03.jpg",
-      "image_credit": "Al Jazeera"
     }
   ]
 }
