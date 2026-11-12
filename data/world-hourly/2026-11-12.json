@@ -1,621 +1,658 @@
 {
- "date": "2026-11-12",
- "updated_ist": "2026-11-12T18:28:59+05:30",
- "items": [
-  {
-   "id": "world-20261112-0822-01",
-   "published_ist": "2026-11-12T02:30:00+05:30",
-   "headline": "Brooklyn me imarat giri: 1 ki maut",
-   "detail": "New York ke Brooklyn ke Flatbush me budhwar shaam ek 3-manzila imarat paas ki khudai wali jagah me gir gayi; kam se kam 1 ki maut aur 12 ghayal hue, jinme 6 gambhir hain; malbe me fase logon ki talash jaari hai, lagbhag 250 damkalkarmi lage hain.",
-   "category": "World",
-   "exam_angle": "Shahri suraksha aur imarat niyam — nagar prashasan aur apda prabandhan ke liye mahatvapurna.",
-   "source": "CNN",
-   "source_url": "https://www.cnn.com/2026/11/11/us/brooklyn-new-york-building-collapse?cid=external-feeds_iluminar_meta",
-   "genuineness": "verified",
-   "outlets": [
-    "CNN",
-    "NBC",
-    "Reuters",
-    "Engineering News-Record"
-   ],
-   "image": null,
-   "image_credit": null
-  },
-  {
-   "id": "world-20261112-0622-02",
-   "published_ist": "2026-11-11T22:10:00+05:30",
-   "headline": "Storm Charles: Portugal me sab band",
-   "detail": "Atlantic toofan Charles ke aane par Portugal me lagbhag 8,000 school band rahe aur 300 se zyada udanein radd hui; 120 km/h se zyada ki hawa chali, lekin bada nuksan nahi hua.",
-   "category": "World",
-   "exam_angle": "Charam mausam aur jalvayu parivartan — COP31 ke dauraan ka mahatvapurna mudda.",
-   "source": "Al Jazeera",
-   "source_url": "https://www.aljazeera.com/news/2026/11/11/portugal-cancels-300-plus-flights-shuts-schools-ahead-of-storm-charles?traffic_source=rss",
-   "genuineness": "verified",
-   "outlets": [
-    "Associated Press",
-    "Al Jazeera",
-    "Reuters"
-   ],
-   "image": "../images/world/world-20261112-0622-02.jpg",
-   "image_credit": "EPA via Al Jazeera"
-  },
-  {
-   "id": "world-20261112-0722-02",
-   "published_ist": "2026-11-11T19:56:00+05:30",
-   "headline": "Abu Dhabi vaarta khatm, safalta nahi",
-   "detail": "America ki madhyasthata wali Abu Dhabi vaarta do din baad khatm hui; badi kaidi adla-badli par sahmati bani, lekin yuddh-viram ya seema par koi safalta nahi mili; Kushner aur Witkoff ab Putin se milne Moscow jayenge.",
-   "category": "World",
-   "exam_angle": "Russia-Ukraine yuddh aur shanti vaarta — antarrashtriya sambandh ke liye mahatvapurna.",
-   "source": "Associated Press",
-   "source_url": "https://www.military.com/russia-and-ukraine-agree-to-a-large-prisoner-exchange-as-talks-conclude-with-no-major-breakthrough",
-   "genuineness": "verified",
-   "outlets": [
-    "Associated Press",
-    "Reuters",
-    "The Express Tribune"
-   ],
-   "image": null,
-   "image_credit": null
-  },
-  {
-   "id": "world-20261112-0722-01",
-   "published_ist": "2026-11-11T19:13:00+05:30",
-   "headline": "Iran: Europe ke US base bhi nishane par",
-   "detail": "Iran ke suraksha pramukh Mohsen Rezaei ne kaha, America ne phir hamla kiya to Europe me sthit US sainya base bhi nishana banenge; unhone samriddh uranium desh se bahar na bhejne ki baat bhi dohrai.",
-   "category": "World",
-   "exam_angle": "West Asia me tanav aur America-Iran takraav — antarrashtriya sambandh ke liye mahatvapurna.",
-   "source": "The Express Tribune",
-   "source_url": "https://tribune.com.pk/story/2639857/iran-warns-of-strikes-on-us-bases-in-europe",
-   "genuineness": "verified",
-   "outlets": [
-    "AFP",
-    "Haaretz",
-    "News18",
-    "Rediff"
-   ],
-   "image": null,
-   "image_credit": null
-  },
-  {
-   "id": "world-20261112-0822-02",
-   "published_ist": "2026-11-11T19:05:00+05:30",
-   "headline": "Italy: farzi bomb dhamki se 300 school khali",
-   "detail": "Italy ke lagbhag 6,300 schoolon ko email par farzi bomb ki dhamki mili, jiske baad kam se kam 300 school khali karaye gaye; Scotland aur Northern Ireland me bhi aisi dhamki mili, lekin wahan koi khatra nahi mana gaya aur koi visfotak nahi mila.",
-   "category": "World",
-   "exam_angle": "Europe me hybrid warfare aur cyber-suraksha — antarrashtriya suraksha ke liye mahatvapurna.",
-   "source": "Al Jazeera",
-   "source_url": "https://www.aljazeera.com/amp/news/2026/11/11/at-least-300-italian-schools-evacuated-after-email-bomb-alerts",
-   "genuineness": "verified",
-   "outlets": [
-    "Reuters",
-    "Al Jazeera",
-    "The Times",
-    "Ynet"
-   ],
-   "image": null,
-   "image_credit": null
-  },
-  {
-   "id": "world-20261112-0622-01",
-   "published_ist": "2026-11-11T17:54:00+05:30",
-   "headline": "Kohat me hamla: 10 police shaheed",
-   "detail": "Khyber Pakhtunkhwa ke Kohat me avaidh sone ki khanan ke khilaf operation se laut rahi police team par hamla hua; DSP Haidar Zaman samet 10 police karmchari shaheed hue, 18 hamlaawar bhi maare gaye.",
-   "category": "World",
-   "exam_angle": "Pakistan me aatankwad aur suraksha sthiti — padosi desh ke halaat, antarrashtriya sambandh ke liye mahatvapurna.",
-   "source": "Dawn",
-   "source_url": "https://www.dawn.com/news/print/2043793",
-   "genuineness": "verified",
-   "outlets": [
-    "Dawn",
-    "The Express Tribune",
-    "Pakistan Today",
-    "Associated Press"
-   ],
-   "image": "../images/world/world-20261112-0622-01.jpg",
-   "image_credit": "Dawn"
-  },
-  {
-   "id": "world-20261112-0722-03",
-   "published_ist": "2026-11-11T11:27:00+05:30",
-   "headline": "Maldives: Israeli passport par sthayi rok ka bill",
-   "detail": "Maldives ke Rashtrapati Muizzu ne sansad me bill pesh kiya jo Israeli passport walon ke pravesh par bina shart sthayi rok lagayega; pehle ki rok Gaza yuddh se judi thi, kanoon abhi bana nahi hai.",
-   "category": "World",
-   "exam_angle": "Maldives aur West Asia ki rajneeti — padosi deshon ke sambandh ke liye mahatvapurna.",
-   "source": "The Times of Israel",
-   "source_url": "https://www.timesofisrael.com/liveblog_entry/maldives-moves-to-make-ban-on-israeli-passport-holders-permanent/",
-   "genuineness": "verified",
-   "outlets": [
-    "The Times of Israel",
-    "The Jerusalem Post",
-    "Ynet",
-    "Maldives Independent"
-   ],
-   "image": null,
-   "image_credit": null
-  },
-  {
-   "id": "world-20261112-0722-05",
-   "published_ist": "2026-11-11T11:00:46+05:30",
-   "headline": "Naya COVID variant PJ.2.1 kai deshon me",
-   "detail": "SARS-CoV-2 ka naya variant PJ.2.1 America, Spain, France, Singapore aur Australia samet kai deshon me mila; WHO is par nazar rakhe hue hai, lekin gambhir bimari ke zyada khatre ka koi saboot abhi nahi hai.",
-   "category": "World",
-   "exam_angle": "Swasthya aur WHO ki nigrani — vigyan aur swasthya ke liye mahatvapurna.",
-   "source": "The Indian Express",
-   "source_url": "https://indianexpress.com/article/lifestyle/health/new-covid-variant-p-j-2-1-indians-symptoms-causes-prevention-experts-10958390/",
-   "genuineness": "verified",
-   "outlets": [
-    "The Indian Express",
-    "News18",
-    "Khaleej Times",
-    "Mathrubhumi"
-   ],
-   "image": null,
-   "image_credit": null
-  },
-  {
-   "id": "world-20261112-0722-04",
-   "published_ist": "2026-11-11T10:59:32+05:30",
-   "headline": "Kennedy parivar Trump ke arch ke khilaf",
-   "detail": "Kennedy parivar ke nau sadasyon ne adalat se Trump ki 250-foot ki smarak arch par rok lagane ki mang ki; unka kehna hai arch se Arlington me unke parijanon ki kabron par chhaya padegi.",
-   "category": "World",
-   "exam_angle": null,
-   "source": "The Telegraph (India)",
-   "source_url": "https://www.telegraphindia.com/world/kennedy-family-joins-legal-fight-to-stop-donald-trumps-proposed-washington-triumphal-arch/cid/2188879",
-   "genuineness": "verified",
-   "outlets": [
-    "Reuters",
-    "Associated Press",
-    "CBS"
-   ],
-   "image": null,
-   "image_credit": null
-  },
-  {
-   "id": "world-20261112-0925-01",
-   "published_ist": "2026-11-12T03:30:00+05:30",
-   "headline": "Pope Leo XIV Peru pahunche, ghar wapsi",
-   "detail": "Pope Leo XIV budhwar ko Peru pahunche — apni dakshin America yatra ka aakhri charan; ve wahan 20 saal se zyada missionary aur Chiclayo ke bishop rahe, aur chhah din me Lima, Chiclayo, Cusco aur Amazon ka daura karenge.",
-   "category": "World",
-   "exam_angle": null,
-   "source": "Vatican News",
-   "source_url": "https://www.vaticannews.va/en/pope/news/2026-11/pope-leo-arrives-in-peru-for-final-leg-of-apostolic-journey.html",
-   "genuineness": "verified",
-   "outlets": [
-    "Vatican News",
-    "Associated Press",
-    "CNN"
-   ],
-   "image": "../images/world/world-20261112-0925-01.jpg",
-   "image_credit": "Vatican News"
-  },
-  {
-   "id": "world-20261112-0925-02",
-   "published_ist": "2026-11-11T23:08:00+05:30",
-   "headline": "COP31: Iran ne yuddh nuksan ka muawza manga",
-   "detail": "COP31 me Iran ke Rashtrapati Pezeshkian ne kaha ki America aur Israel ke hamlo se hue paryavaran nuksan ka muawza milna chahiye, aur yuddh ke samay ki zimmedari ko jalvayu pratibaddhataon se joda jana chahiye.",
-   "category": "World",
-   "exam_angle": "Jalvayu sammelan aur yuddh ka paryavaran prabhav — COP31 ke liye mahatvapurna.",
-   "source": "Reuters",
-   "source_url": "https://krro.com/2026/11/11/iran-tells-cop31-it-wants-compensation-for-environmental-damage-from-us-israeli-strikes/",
-   "genuineness": "verified",
-   "outlets": [
-    "Reuters",
-    "The Jerusalem Post",
-    "Vietnam.vn"
-   ],
-   "image": null,
-   "image_credit": null
-  },
-  {
-   "id": "world-20261112-0925-03",
-   "published_ist": "2026-11-11T23:02:00+05:30",
-   "headline": "Brazil ne Facebook par $1.3M jurmana lagaya",
-   "detail": "Brazil ki chunav adalat ne Meta ke Facebook par 7.5 million reais (lagbhag $1.3 million) ka jurmana lagaya, kyunki usne pichle mahine ke rashtrapati chunav ke dauran adalat ke aadeshon ka poori tarah palan nahi kiya; adalat ne kaha chunav ko janbujhkar prabhavit karne ka saboot abhi nahi mila.",
-   "category": "World",
-   "exam_angle": "Social media aur chunav aachar sanhita — chunav me platform ki bhoomika.",
-   "source": "Associated Press",
-   "source_url": "https://www.lanacion.com.ar/usa/brazil-fines-facebook-13-million-for-failing-to-comply-with-court-orders-during-election-nid11112026/",
-   "genuineness": "verified",
-   "outlets": [
-    "Reuters",
-    "Associated Press",
-    "Agence France-Presse"
-   ],
-   "image": null,
-   "image_credit": null
-  },
-  {
-   "id": "world-20261112-1025-01",
-   "published_ist": "2026-11-11T20:48:00+05:30",
-   "headline": "Indonesia ke uprashtrapati Gibran ne istifa diya",
-   "detail": "Indonesia ke uprashtrapati Gibran Rakabuming Raka ne budhwar ko Rashtrapati Prabowo Subianto ko apna istifa saunp diya; Supreme Court ne unka shiksha samkakshata praman-patra radd kar diya tha aur 120 sansadon ne mahabhiyog ki prakriya shuru ki thi. Istifa sweekar hua ya nahi, abhi spasht nahi hai.",
-   "category": "World",
-   "exam_angle": "Indonesia ki rajneeti aur samvaidhanik yogyata — dakshin-poorv Asia ke liye mahatvapurna.",
-   "source": "Reuters",
-   "source_url": "https://www.timeslive.co.za/news/world/2026-11-11-indonesias-vice-president-has-resigned-aide-says-stoking-political-uncertainty/",
-   "genuineness": "verified",
-   "outlets": [
-    "Reuters",
-    "The Straits Times",
-    "Bangkok Post"
-   ],
-   "image": "../images/world/world-20261112-1025-01.jpg",
-   "image_credit": "TimesLIVE"
-  },
-  {
-   "id": "world-20261112-1025-02",
-   "published_ist": "2026-11-11T23:43:00+05:30",
-   "headline": "America me Russia ke rajdut Darchiev ka nidhan",
-   "detail": "America me Russia ke rajdut Alexander Darchiev ka 66 saal ki umr me Moscow me achanak nidhan ho gaya, Russia ke videsh mantralaya ne budhwar ko bataya; ve March 2025 se is pad par the aur lambe samay se beemar the.",
-   "category": "World",
-   "exam_angle": "Russia-America sambandh — antarrashtriya sambandh ke liye mahatvapurna.",
-   "source": "CNN",
-   "source_url": "https://www.cnn.com/2026/11/11/europe/russian-ambassador-to-us-dies-intl?cid=external-feeds_iluminar_meta",
-   "genuineness": "verified",
-   "outlets": [
-    "CNN",
-    "Al Jazeera",
-    "AFP"
-   ],
-   "image": null,
-   "image_credit": null
-  },
-  {
-   "id": "world-20261112-1025-03",
-   "published_ist": "2026-11-11T15:17:00+05:30",
-   "headline": "Imran Khan raat me aspatal, aankh ka ilaaj",
-   "detail": "Pakistan ke jail me band poorv PM Imran Khan ko 10-11 November ki raat aankh ki jaanch aur injection ke liye Islamabad ke PIMS aspatal le jaya gaya aur subah wapas Adiala jail bhej diya gaya; aspatal ne kaha ve sthir hain, jabki unki party ne Supreme Court ke niji aspatal wale aadesh ka hawala dekar sawal uthaye.",
-   "category": "World",
-   "exam_angle": "Pakistan ki rajneeti — padosi desh ke halaat ke liye mahatvapurna.",
-   "source": "Al Jazeera",
-   "source_url": "https://www.aljazeera.com/amp/news/2026/11/11/pakistans-pti-demands-access-to-jailed-khan-after-overnight-hospital-visit",
-   "genuineness": "verified",
-   "outlets": [
-    "Al Jazeera",
-    "Dawn",
-    "Geo TV",
-    "Reuters"
-   ],
-   "image": "../images/world/world-20261112-1025-03.jpg",
-   "image_credit": "Al Jazeera"
-  },
-  {
-   "id": "world-20261112-1025-04",
-   "published_ist": "2026-11-11T20:27:00+05:30",
-   "headline": "4 EU desh Merz ki shart ke khilaf",
-   "detail": "Slovakia, Czech Republic, Hungary aur Bulgaria ne Germany ke Chancellor Friedrich Merz ki shart ko thukra diya — ve EU ke agle saat saal ke budget ki manzoori ko Ukraine ko nayi madad se jodne ke khilaf hain; Slovakia ke PM Fico ne ise 'blackmail' kaha aur veto ki dhamki di.",
-   "category": "World",
-   "exam_angle": "EU ki rajneeti aur Ukraine ko madad — antarrashtriya sangathan ke liye mahatvapurna.",
-   "source": "ClashReport",
-   "source_url": "https://clashreport.com/world/articles/eu-budget-dispute-deepens-over-merz-s-ukraine-aid-ultimatum-1dj3fz0ekzci",
-   "genuineness": "corroborated",
-   "outlets": [
-    "Euronews",
-    "ClashReport"
-   ],
-   "image": "../images/world/world-20261112-1025-04.jpg",
-   "image_credit": "ClashReport"
-  },
-  {
-   "id": "world-20261112-0822-01",
-   "published_ist": "2026-11-12T02:30:00+05:30",
-   "headline": "Brooklyn me imarat giri: 1 ki maut",
-   "detail": "New York ke Brooklyn ke Flatbush me budhwar shaam ek 3-manzila imarat paas ki khudai wali jagah me gir gayi; kam se kam 2 ki maut aur 17 ghayal hue, jinme 4 gambhir aur 7 bachche hain; malbe me fase logon ki talash jaari hai, lagbhag 250 damkalkarmi lage hain. [Sudhara gaya — pehle 1 maut aur 12 ghayal bataye gaye the.]",
-   "category": "World",
-   "exam_angle": "Shahri suraksha aur imarat niyam — nagar prashasan aur apda prabandhan ke liye mahatvapurna.",
-   "source": "CNN",
-   "source_url": "https://www.cnn.com/2026/11/11/us/brooklyn-new-york-building-collapse?cid=external-feeds_iluminar_meta",
-   "genuineness": "verified",
-   "outlets": [
-    "CNN",
-    "NBC",
-    "Reuters",
-    "Engineering News-Record"
-   ],
-   "image": null,
-   "image_credit": null
-  },
-  {
-   "id": "world-20261112-1122-01",
-   "published_ist": "2026-11-12T09:43:00+05:30",
-   "headline": "Mississippi se 1874 ke baad pehle Black senator",
-   "detail": "Democrat Scott Colom ne Mississippi Senate chunav me Republican Cindy Hyde-Smith ko lagbhag 4,600 voton se haraya; ve 1874 ke baad rajya ke pehle Black senator bane aur 1982 ke baad pehle Democrat senator.",
-   "category": "World",
-   "exam_angle": "America ke midterm chunav aur nagrik adhikar itihas — antarrashtriya rajneeti ke liye mahatvapurna.",
-   "source": "Reuters",
-   "source_url": "https://hi99.com/2026/11/11/democrat-colom-wins-mississippi-senate-seat-becomes-states-first-black-senator-since-1874/",
-   "genuineness": "verified",
-   "outlets": [
-    "Reuters",
-    "Associated Press",
-    "NDTV",
-    "The Straits Times"
-   ],
-   "image": "../images/world/world-20261112-1122-01.jpg",
-   "image_credit": "The Straits Times"
-  },
-  {
-   "id": "world-20261112-1122-02",
-   "published_ist": "2026-11-12T04:25:00+05:30",
-   "headline": "Nasser aspatal par hamla, 4 ki maut",
-   "detail": "Khan Younis ke Nasser Medical Complex par subah-subeh Israeli hawai hamle me kam se kam 4 log mare gaye aur kai ghayal hue; hamle me aspatal ki ICU aur surgery ward ko nuksan pahuncha, Gaza civil defence ne bataya; Israeli sena ki taraf se abhi koi tippani nahi aayi.",
-   "category": "World",
-   "exam_angle": "Gaza yuddh-viram aur West Asia tanav — antarrashtriya sambandh ke liye mahatvapurna.",
-   "source": "Reuters",
-   "source_url": "https://www.reuters.com/world/middle-east/israeli-strike-southern-gaza-hospital-kills-four-gaza-civil-defence-says-2026-11-11/",
-   "genuineness": "verified",
-   "outlets": [
-    "Reuters",
-    "Al Jazeera",
-    "Anadolu Agency",
-    "NDTV"
-   ],
-   "image": "../images/world/world-20261112-1122-02.jpg",
-   "image_credit": "Reuters via Al Jazeera"
-  },
-  {
-   "id": "world-20261112-1122-03",
-   "published_ist": "2026-11-11T16:40:00+05:30",
-   "headline": "Bulgaria motorway par takkar, 12 ki maut",
-   "detail": "Bulgaria ke Yambol ke paas Trakia motorway par ghani dhundh me 86 se zyada gaadiyon ki takkar me kam se kam 12 log mare gaye aur 48 ghayal hue; PM Radev ne aankdon ki pushti ki.",
-   "category": "World",
-   "exam_angle": "Sadak suraksha aur apda prabandhan — Europe ke liye mahatvapurna.",
-   "source": "ANI",
-   "source_url": "https://economictimes.indiatimes.com/news/india/eam-jaishankar-condoles-loss-of-lives-in-bulgaria-road-accident-killing-atleast-12-injuring-48/articleshow/135734892.cms",
-   "genuineness": "corroborated",
-   "outlets": [
-    "Euronews",
-    "BBC"
-   ],
-   "image": null,
-   "image_credit": null
-  },
-  {
-   "id": "world-20261112-1222-01",
-   "published_ist": "2026-11-12T09:02:00+05:30",
-   "headline": "Trump-Netanyahu me Iran par takraar",
-   "detail": "Israeli media ke mutabik hafte ke ant me phone par Trump aur Netanyahu ke beech Iran par yuddh phir shuru karne ko lekar tez behes hui, ek sutra ne ise 'shouting match from hell' kaha; Netanyahu ke karyalaya ne ise 'fake news' batakar khariz kiya, jabki Trump ne kaha abhi dobara hamla zaroori nahi lagta.",
-   "category": "World",
-   "exam_angle": "America-Israel sambandh aur Iran par yuddh ki sambhavna — antarrashtriya sambandh ke liye mahatvapurna.",
-   "source": "The Tribune",
-   "source_url": "https://www.tribuneindia.com/news/world/shouting-match-trump-netanyahu-clash-over-future-of-iran-war-report/",
-   "genuineness": "verified",
-   "outlets": [
-    "Ynet",
-    "Yedioth Ahronoth",
-    "New York Post",
-    "TRT World"
-   ],
-   "image": null,
-   "image_credit": null
-  },
-  {
-   "id": "world-20261112-1222-02",
-   "published_ist": "2026-11-12T06:59:00+05:30",
-   "headline": "Kushner-Witkoff guruvaar ko Putin se milenge",
-   "detail": "America ke doot Jared Kushner aur Steve Witkoff guruvaar ko Moscow me Rashtrapati Putin se milenge; Axios ke mutabik ve Russia se Europe ke saath naye suraksha samjhote ka prastav mangenge aur agle daur ki vaarta me Europe ki bhagidari par zor denge, phir Dublin me Zelensky se milenge.",
-   "category": "World",
-   "exam_angle": "Russia-Ukraine shanti vaarta aur Europe ki suraksha vyavastha — antarrashtriya sambandh ke liye mahatvapurna.",
-   "source": "The Economic Times",
-   "source_url": "https://economictimes.indiatimes.com/news/international/world-news/trump-envoys-to-meet-putin-as-us-pushes-ukraine-peace-deal-new-europe-russia-security-framework-reports-axios/articleshow/135751924.cms",
-   "genuineness": "verified",
-   "outlets": [
-    "Axios",
-    "The Economic Times",
-    "The Times of India",
-    "The Jerusalem Post"
-   ],
-   "image": "../images/world/world-20261112-1222-02.jpg",
-   "image_credit": "The Economic Times"
-  },
-  {
-   "id": "world-20261112-1322-02",
-   "published_ist": "2026-11-12T08:29:00+05:30",
-   "headline": "SS United States dooba, sabse bada reef",
-   "detail": "Duniya ka sabse tez samudri jahaz SS United States Florida ke paas janboojhkar duboya gaya — 990 foot lamba jahaz ab duniya ka sabse bada kritrim reef banega, gotaakhoro ke liye 12 November se khulega.",
-   "category": "World",
-   "exam_angle": "Samudri paryavaran aur kritrim reef — paryavaran ke liye mahatvapurna.",
-   "source": "USA Today",
-   "source_url": "https://www.usatoday.com/story/graphics/2026/11/11/ss-united-states-scuba-diving/87125612007/",
-   "genuineness": "verified",
-   "outlets": [
-    "Associated Press",
-    "USA Today",
-    "WHRO",
-    "Pensacola News Journal"
-   ],
-   "image": "../images/world/world-20261112-1322-02.jpg",
-   "image_credit": "Okaloosa County Tourist Development Dept (Public domain)"
-  },
-  {
-   "id": "world-20261111-1722-01",
-   "published_ist": "2026-11-11T15:48:00+05:30",
-   "headline": "Spain me 14 saal baad aam hadtaal",
-   "detail": "Awaas sankat par 2012 ke baad pehli deshvyapi aam hadtaal me laakhon log sadkon par utre; Madrid me lagbhag 1,20,000 aur Barcelona me 55,000 pradarshankari the, shaam ko dono shahron me jhadapen hui aur aansu gas chali, desh bhar me kam se kam 73 giraftariyan hui; 29 November ko chunaav hai.",
-   "category": "World",
-   "exam_angle": "Awaas sankat aur shramik andolan — Spain ke 29 November chunaav se pehle ka bada mudda; UPSC ke liye antarrashtriya arthvyavastha aur shram muddon se juda.",
-   "source": "Al Jazeera",
-   "source_url": "https://www.aljazeera.com/news/2026/11/11/spains-first-general-strike-in-14-years-begins",
-   "genuineness": "verified",
-   "outlets": [
-    "Reuters",
-    "Al Jazeera",
-    "Associated Press",
-    "AFP"
-   ],
-   "image": "../images/world/world-20261111-1722-01.jpg",
-   "image_credit": "Reuters via Al Jazeera"
-  },
-  {
-   "id": "world-20261112-1522-01",
-   "published_ist": "2026-11-12T14:23:00+05:30",
-   "headline": "China: Nvidia jasusi daave America ki 'nakabandi' chaal",
-   "detail": "China ne kaha America Nvidia CEO Jensen Huang par jasusi ke aaropon ko China par takniki 'nakabandi' lagane ke bahane ke roop me istemal kar raha hai; Beijing ne aaropon ko be-buniyad batakar khariz kiya, jabki Nvidia ne swatantra jaanch shuru ki hai.",
-   "category": "World",
-   "exam_angle": "America-China takniki yuddh aur AI chip pratibandh — antarrashtriya sambandh ke liye mahatvapurna.",
-   "source": "Channel News Asia",
-   "source_url": "https://www.channelnewsasia.com/east-asia/china-us-nvidia-spy-claims-justify-ai-chips-blockade-6545491",
-   "genuineness": "verified",
-   "outlets": [
-    "Channel News Asia",
-    "The Straits Times",
-    "The New York Times",
-    "The Wall Street Journal",
-    "The Economic Times"
-   ],
-   "image": "../images/world/world-20261112-1522-01.jpg",
-   "image_credit": "Anderseidesvik, Wikimedia Commons (CC BY-SA 4.0)"
-  },
-  {
-   "id": "world-20261112-1522-02",
-   "published_ist": "2026-11-10T07:14:00+05:30",
-   "headline": "Turkey steel plant blast: 17 mazdooron ki maut",
-   "detail": "Turkey ke Izmir ke paas Habas steel plant me dhamake ke baad kam se kam 17 mazdooron ki maut hui aur 12 ghayal hue; swasthya mantri ke mutabik ek gambhir ghayal mazdoor ki baad me maut se toll 17 hua, jaanch me 6 log giraftar hue.",
-   "category": "World",
-   "exam_angle": "Turkey me audyogik suraksha aur mazdoor suraksha — antarrashtriya samachar ke liye mahatvapurna.",
-   "source": "The Times of India",
-   "source_url": "https://timesofindia.indiatimes.com/world/middle-east/deadly-explosion-at-turkey-steel-factory-kills-17-workers-injures-12-others/articleshow/135696426.cms",
-   "genuineness": "verified",
-   "outlets": [
-    "BBC",
-    "The Times of India",
-    "Hürriyet",
-    "AFP",
-    "Daily Mirror"
-   ],
-   "image": "../images/world/world-20261112-1522-02.jpg",
-   "image_credit": "The Times of India"
-  },
-  {
-   "id": "world-20261112-1522-03",
-   "published_ist": "2026-11-09T23:45:00+05:30",
-   "headline": "Russell Brand ko balatkar par 10.5 saal jail",
-   "detail": "London ki Southwark Crown Court ne British comedian Russell Brand ko ek balatkar aur teen yaun hamlo ke liye 10 saal 6 mahine ki saza sunayi; judge ne unhe 'sexual predator' kaha aur ve aajivan sex offenders register par rahenge.",
-   "category": "World",
-   "exam_angle": null,
-   "source": "Otago Daily Times",
-   "source_url": "https://www.odt.co.nz/news/world/sexual-predator-comedian-russell-brand-jailed-for-10-years-for-rape-assault-hqg0m8dk",
-   "genuineness": "verified",
-   "outlets": [
-    "CNN",
-    "The Times",
-    "Dawn",
-    "The Standard",
-    "Otago Daily Times"
-   ],
-   "image": "../images/world/world-20261112-1522-03.jpg",
-   "image_credit": "Eva Rinaldi, Wikimedia Commons (CC BY-SA 2.0)"
-  },
-  {
-   "id": "world-20261112-1624-01",
-   "published_ist": "2026-11-12T12:21:00+05:30",
-   "headline": "Nepal: van khaai me giri, 10 ki maut",
-   "detail": "Chhath ke liye Kathmandu se Sarlahi ja rahi electric van Makwanpur me sadak se lagbhag 500 meter neeche gir gayi; 10 ki maut hui aur kai ghayal hue, haadse ki jaanch jaari hai.",
-   "category": "World",
-   "exam_angle": "Padosi desh Nepal me sadak suraksha aur apda prabandhan — antarrashtriya sambandh ke liye mahatvapurna.",
-   "source": "The Hindu",
-   "source_url": "https://www.thehindu.com/news/international/nepal-passenger-vehicle-plunges-off-steep-slope-deaths/article71692640.ece",
-   "genuineness": "verified",
-   "outlets": [
-    "The Hindu",
-    "The Himalayan Times",
-    "MyRepublica",
-    "Deccan Herald"
-   ],
-   "image": null,
-   "image_credit": null
-  },
-  {
-   "id": "world-20261112-1624-02",
-   "published_ist": "2026-11-12T09:20:00+05:30",
-   "headline": "Israel cabinet: Iran hamle ki taiyaari badhao",
-   "detail": "Israel ki suraksha cabinet ne sena ko Iran par sambhav hamle ki taiyaari badhane ka nirdesh diya, KAN ne bataya; vipaksh neta Eisenkot ne nayi sarkar banne tak bina turant khatre ke sainya karwai se mana kiya.",
-   "category": "World",
-   "exam_angle": "Israel-Iran takraav aur West Asia ki suraksha — antarrashtriya sambandh ke liye mahatvapurna.",
-   "source": "Al Jazeera",
-   "source_url": "https://www.aljazeera.com/amp/news/2026/11/12/iran-warns-of-expanded-retaliation-as-israel-reportedly-readies-to-attack",
-   "genuineness": "verified",
-   "outlets": [
-    "KAN",
-    "Al Jazeera",
-    "The Jerusalem Post",
-    "The Times of India"
-   ],
-   "image": "../images/world/world-20261112-1624-02.jpg",
-   "image_credit": "Avi Ohayon, Wikimedia Commons (CC BY-SA)"
-  },
-  {
-   "id": "world-20261112-1122-02",
-   "published_ist": "2026-11-12T04:25:00+05:30",
-   "headline": "Nasser aspatal par hamla, 4 ki maut",
-   "detail": "Khan Younis ke Nasser Medical Complex par subah-subeh Israeli hawai hamle me kam se kam 6 log mare gaye, jinme ek surgeon bhi hain, aur 20 se zyada ghayal hue; Israeli sena ne kaha usne Hamas ke Khan Younis Brigade commander Muhammad Abu Ismail ko nishana banaya. [Sudhara gaya — pehle 4 ki maut batayi gayi thi.]",
-   "category": "World",
-   "exam_angle": "Gaza yuddh-viram aur West Asia tanav — antarrashtriya sambandh ke liye mahatvapurna.",
-   "source": "Reuters",
-   "source_url": "https://www.reuters.com/world/middle-east/israeli-strike-southern-gaza-hospital-kills-four-gaza-civil-defence-says-2026-11-11/",
-   "genuineness": "verified",
-   "outlets": [
-    "Reuters",
-    "Al Jazeera",
-    "Anadolu Agency",
-    "NDTV"
-   ],
-   "image": "../images/world/world-20261112-1122-02.jpg",
-   "image_credit": "Reuters via Al Jazeera"
-  },
-  {
-   "id": "world-20261112-1722-01",
-   "published_ist": "2026-11-12T08:43:00+05:30",
-   "headline": "G7: Taiwan ke paas China ki harkat khatra",
-   "detail": "G7 videsh mantriyon ne Paris me sanyukt ghoshna me kaha, Taiwan ke poorv me China ki badhti harkatein kshetriya sthirata aur samudri aazadi ke liye khatra hain; China ne June se wahan coast guard gasht badhai hai.",
-   "category": "World",
-   "exam_angle": "Taiwan Strait aur Indo-Pacific me shakti santulan — antarrashtriya sambandh ke liye mahatvapurna.",
-   "source": "The Hindu",
-   "source_url": "https://www.thehindu.com/news/international/g7-foreign-ministers-say-chinas-actions-east-of-taiwan-threaten-stability/article71692205.ece",
-   "genuineness": "corroborated",
-   "outlets": [
-    "Reuters",
-    "The Hindu",
-    "Taipei Times"
-   ],
-   "image": "../images/world/world-20261112-1722-01.jpg",
-   "image_credit": "Reuters via The Hindu"
-  },
-  {
-   "id": "world-20261112-1830-01",
-   "published_ist": "2026-11-12T14:02:00+05:30",
-   "headline": "Hormuz me 2 tanker dhamakon se band",
-   "detail": "Budhwar raat Hormuz Strait me 2 supertanker dhamakon ke baad band ho gaye — IRGC ke mutabik dono me 40 lakh barrel se zyada tel tha aur ve 'bina anumati' wale raste par ja rahe the; dhamake ki wajah abhi saaf nahi hai.",
-   "category": "World",
-   "exam_angle": "Hormuz Strait duniya ke tel vyapar ka sabse mahatvapurna rasta hai — energy suraksha ke liye ahem.",
-   "source": "The Hindu",
-   "source_url": "https://www.thehindu.com/news/international/irans-guards-say-accident-left-two-tankers-on-fire-in-hormuz/article71692872.ece",
-   "genuineness": "verified",
-   "outlets": [
-    "Reuters",
-    "The Hindu",
-    "Anadolu"
-   ],
-   "image": null,
-   "image_credit": null
-  },
-  {
-   "id": "world-20261112-1830-02",
-   "published_ist": "2026-11-12T04:13:00+05:30",
-   "headline": "Nvidia: CEO Huang ko hatane par board",
-   "detail": "Nvidia ke board ne CEO Jensen Huang ko hatane par vichaar shuru kiya — WSJ ke mutabik do sambandhon ke baad board ne unke bhavishya par faisla lene ke liye baithak bulayi; khabar ke baad Nvidia ke share lagbhag 8% gire.",
-   "category": "World",
-   "exam_angle": "AI chip kshetra me corporate governance aur America-China tech takraar — arthvyavastha aur antarrashtriya sambandh ke liye mahatvapurna.",
-   "source": "Reuters",
-   "source_url": "https://www.reuters.com/technology/nvidia-is-preparing-oust-ceo-jensen-huang-wsj-reports-2026-11-11/",
-   "genuineness": "corroborated",
-   "outlets": [
-    "The Wall Street Journal",
-    "Reuters",
-    "The New York Times"
-   ],
-   "image": "../images/world/world-20261112-1830-02.jpg",
-   "image_credit": "Anderseidesvik, Wikimedia Commons (CC BY-SA 4.0)"
-  }
- ]
+  "date": "2026-11-12",
+  "updated_ist": "2026-11-12T19:32:06+05:30",
+  "items": [
+    {
+      "id": "world-20261112-1922-01",
+      "published_ist": "2026-11-12T17:58:00+05:30",
+      "headline": "Trump: Mexico roko, warna tariff dugna",
+      "detail": "Trump ne dhamki di — agar Mexico lagbhag 1,500 pravasiyon ke kafile ko nahi rokta to America Mexico par tariff turant dugna kar dega; kafila mangalwar ko Tapachula se chala tha.",
+      "category": "World",
+      "exam_angle": "America-Mexico vyapar aur pravasan ka sambandh — antarrashtriya sambandh ke liye ahem mudda.",
+      "source": "Reuters",
+      "source_url": "https://www.reuters.com/world/us/trump-threatens-double-tariffs-mexico-if-it-does-not-halt-migrants-2026-11-12/",
+      "genuineness": "verified",
+      "outlets": [
+        "Reuters",
+        "The Times of India",
+        "New York Post"
+      ],
+      "image": "../images/world/world-20261112-1922-01.jpg",
+      "image_credit": "New York Post"
+    },
+    {
+      "id": "world-20261112-1922-02",
+      "published_ist": "2026-11-12T07:44:00+05:30",
+      "headline": "Kyiv me drone hamla, 1 ki maut",
+      "detail": "Russia ne raat bhar Ukraine par bada hamla kiya — Kyiv me ek drone nau-manzila imarat se takraya, 44 saal ki mahila ki maut aur 7 ghayal; Russia ka kehna hai usne Kyiv ke paas missile aur drone factory ko nishana banaya.",
+      "category": "World",
+      "exam_angle": "Russia-Ukraine yuddh aur nagrik suraksha — antarrashtriya sangharsh ka ahem mudda.",
+      "source": "Ukrainska Pravda",
+      "source_url": "https://www.pravda.com.ua/eng/news/2026/11/12/8062448/",
+      "genuineness": "verified",
+      "outlets": [
+        "Reuters",
+        "Ukrainska Pravda",
+        "Interfax-Ukraine",
+        "Kyiv Post"
+      ],
+      "image": "../images/world/world-20261112-1922-02.jpg",
+      "image_credit": "Ukrainska Pravda"
+    },
+    {
+      "id": "world-20261112-0822-01",
+      "published_ist": "2026-11-12T02:30:00+05:30",
+      "headline": "Brooklyn me imarat giri: 1 ki maut",
+      "detail": "New York ke Brooklyn ke Flatbush me budhwar shaam ek 3-manzila imarat paas ki khudai wali jagah me gir gayi; kam se kam 1 ki maut aur 12 ghayal hue, jinme 6 gambhir hain; malbe me fase logon ki talash jaari hai, lagbhag 250 damkalkarmi lage hain.",
+      "category": "World",
+      "exam_angle": "Shahri suraksha aur imarat niyam — nagar prashasan aur apda prabandhan ke liye mahatvapurna.",
+      "source": "CNN",
+      "source_url": "https://www.cnn.com/2026/11/11/us/brooklyn-new-york-building-collapse?cid=external-feeds_iluminar_meta",
+      "genuineness": "verified",
+      "outlets": [
+        "CNN",
+        "NBC",
+        "Reuters",
+        "Engineering News-Record"
+      ],
+      "image": null,
+      "image_credit": null
+    },
+    {
+      "id": "world-20261112-0622-02",
+      "published_ist": "2026-11-11T22:10:00+05:30",
+      "headline": "Storm Charles: Portugal me sab band",
+      "detail": "Atlantic toofan Charles ke aane par Portugal me lagbhag 8,000 school band rahe aur 300 se zyada udanein radd hui; 120 km/h se zyada ki hawa chali, lekin bada nuksan nahi hua.",
+      "category": "World",
+      "exam_angle": "Charam mausam aur jalvayu parivartan — COP31 ke dauraan ka mahatvapurna mudda.",
+      "source": "Al Jazeera",
+      "source_url": "https://www.aljazeera.com/news/2026/11/11/portugal-cancels-300-plus-flights-shuts-schools-ahead-of-storm-charles?traffic_source=rss",
+      "genuineness": "verified",
+      "outlets": [
+        "Associated Press",
+        "Al Jazeera",
+        "Reuters"
+      ],
+      "image": "../images/world/world-20261112-0622-02.jpg",
+      "image_credit": "EPA via Al Jazeera"
+    },
+    {
+      "id": "world-20261112-0722-02",
+      "published_ist": "2026-11-11T19:56:00+05:30",
+      "headline": "Abu Dhabi vaarta khatm, safalta nahi",
+      "detail": "America ki madhyasthata wali Abu Dhabi vaarta do din baad khatm hui; badi kaidi adla-badli par sahmati bani, lekin yuddh-viram ya seema par koi safalta nahi mili; Kushner aur Witkoff ab Putin se milne Moscow jayenge.",
+      "category": "World",
+      "exam_angle": "Russia-Ukraine yuddh aur shanti vaarta — antarrashtriya sambandh ke liye mahatvapurna.",
+      "source": "Associated Press",
+      "source_url": "https://www.military.com/russia-and-ukraine-agree-to-a-large-prisoner-exchange-as-talks-conclude-with-no-major-breakthrough",
+      "genuineness": "verified",
+      "outlets": [
+        "Associated Press",
+        "Reuters",
+        "The Express Tribune"
+      ],
+      "image": null,
+      "image_credit": null
+    },
+    {
+      "id": "world-20261112-0722-01",
+      "published_ist": "2026-11-11T19:13:00+05:30",
+      "headline": "Iran: Europe ke US base bhi nishane par",
+      "detail": "Iran ke suraksha pramukh Mohsen Rezaei ne kaha, America ne phir hamla kiya to Europe me sthit US sainya base bhi nishana banenge; unhone samriddh uranium desh se bahar na bhejne ki baat bhi dohrai.",
+      "category": "World",
+      "exam_angle": "West Asia me tanav aur America-Iran takraav — antarrashtriya sambandh ke liye mahatvapurna.",
+      "source": "The Express Tribune",
+      "source_url": "https://tribune.com.pk/story/2639857/iran-warns-of-strikes-on-us-bases-in-europe",
+      "genuineness": "verified",
+      "outlets": [
+        "AFP",
+        "Haaretz",
+        "News18",
+        "Rediff"
+      ],
+      "image": null,
+      "image_credit": null
+    },
+    {
+      "id": "world-20261112-0822-02",
+      "published_ist": "2026-11-11T19:05:00+05:30",
+      "headline": "Italy: farzi bomb dhamki se 300 school khali",
+      "detail": "Italy ke lagbhag 6,300 schoolon ko email par farzi bomb ki dhamki mili, jiske baad kam se kam 300 school khali karaye gaye; Scotland aur Northern Ireland me bhi aisi dhamki mili, lekin wahan koi khatra nahi mana gaya aur koi visfotak nahi mila.",
+      "category": "World",
+      "exam_angle": "Europe me hybrid warfare aur cyber-suraksha — antarrashtriya suraksha ke liye mahatvapurna.",
+      "source": "Al Jazeera",
+      "source_url": "https://www.aljazeera.com/amp/news/2026/11/11/at-least-300-italian-schools-evacuated-after-email-bomb-alerts",
+      "genuineness": "verified",
+      "outlets": [
+        "Reuters",
+        "Al Jazeera",
+        "The Times",
+        "Ynet"
+      ],
+      "image": null,
+      "image_credit": null
+    },
+    {
+      "id": "world-20261112-0622-01",
+      "published_ist": "2026-11-11T17:54:00+05:30",
+      "headline": "Kohat me hamla: 10 police shaheed",
+      "detail": "Khyber Pakhtunkhwa ke Kohat me avaidh sone ki khanan ke khilaf operation se laut rahi police team par hamla hua; DSP Haidar Zaman samet 10 police karmchari shaheed hue, 18 hamlaawar bhi maare gaye.",
+      "category": "World",
+      "exam_angle": "Pakistan me aatankwad aur suraksha sthiti — padosi desh ke halaat, antarrashtriya sambandh ke liye mahatvapurna.",
+      "source": "Dawn",
+      "source_url": "https://www.dawn.com/news/print/2043793",
+      "genuineness": "verified",
+      "outlets": [
+        "Dawn",
+        "The Express Tribune",
+        "Pakistan Today",
+        "Associated Press"
+      ],
+      "image": "../images/world/world-20261112-0622-01.jpg",
+      "image_credit": "Dawn"
+    },
+    {
+      "id": "world-20261112-0722-03",
+      "published_ist": "2026-11-11T11:27:00+05:30",
+      "headline": "Maldives: Israeli passport par sthayi rok ka bill",
+      "detail": "Maldives ke Rashtrapati Muizzu ne sansad me bill pesh kiya jo Israeli passport walon ke pravesh par bina shart sthayi rok lagayega; pehle ki rok Gaza yuddh se judi thi, kanoon abhi bana nahi hai.",
+      "category": "World",
+      "exam_angle": "Maldives aur West Asia ki rajneeti — padosi deshon ke sambandh ke liye mahatvapurna.",
+      "source": "The Times of Israel",
+      "source_url": "https://www.timesofisrael.com/liveblog_entry/maldives-moves-to-make-ban-on-israeli-passport-holders-permanent/",
+      "genuineness": "verified",
+      "outlets": [
+        "The Times of Israel",
+        "The Jerusalem Post",
+        "Ynet",
+        "Maldives Independent"
+      ],
+      "image": null,
+      "image_credit": null
+    },
+    {
+      "id": "world-20261112-0722-05",
+      "published_ist": "2026-11-11T11:00:46+05:30",
+      "headline": "Naya COVID variant PJ.2.1 kai deshon me",
+      "detail": "SARS-CoV-2 ka naya variant PJ.2.1 America, Spain, France, Singapore aur Australia samet kai deshon me mila; WHO is par nazar rakhe hue hai, lekin gambhir bimari ke zyada khatre ka koi saboot abhi nahi hai.",
+      "category": "World",
+      "exam_angle": "Swasthya aur WHO ki nigrani — vigyan aur swasthya ke liye mahatvapurna.",
+      "source": "The Indian Express",
+      "source_url": "https://indianexpress.com/article/lifestyle/health/new-covid-variant-p-j-2-1-indians-symptoms-causes-prevention-experts-10958390/",
+      "genuineness": "verified",
+      "outlets": [
+        "The Indian Express",
+        "News18",
+        "Khaleej Times",
+        "Mathrubhumi"
+      ],
+      "image": null,
+      "image_credit": null
+    },
+    {
+      "id": "world-20261112-0722-04",
+      "published_ist": "2026-11-11T10:59:32+05:30",
+      "headline": "Kennedy parivar Trump ke arch ke khilaf",
+      "detail": "Kennedy parivar ke nau sadasyon ne adalat se Trump ki 250-foot ki smarak arch par rok lagane ki mang ki; unka kehna hai arch se Arlington me unke parijanon ki kabron par chhaya padegi.",
+      "category": "World",
+      "exam_angle": null,
+      "source": "The Telegraph (India)",
+      "source_url": "https://www.telegraphindia.com/world/kennedy-family-joins-legal-fight-to-stop-donald-trumps-proposed-washington-triumphal-arch/cid/2188879",
+      "genuineness": "verified",
+      "outlets": [
+        "Reuters",
+        "Associated Press",
+        "CBS"
+      ],
+      "image": null,
+      "image_credit": null
+    },
+    {
+      "id": "world-20261112-0925-01",
+      "published_ist": "2026-11-12T03:30:00+05:30",
+      "headline": "Pope Leo XIV Peru pahunche, ghar wapsi",
+      "detail": "Pope Leo XIV budhwar ko Peru pahunche — apni dakshin America yatra ka aakhri charan; ve wahan 20 saal se zyada missionary aur Chiclayo ke bishop rahe, aur chhah din me Lima, Chiclayo, Cusco aur Amazon ka daura karenge.",
+      "category": "World",
+      "exam_angle": null,
+      "source": "Vatican News",
+      "source_url": "https://www.vaticannews.va/en/pope/news/2026-11/pope-leo-arrives-in-peru-for-final-leg-of-apostolic-journey.html",
+      "genuineness": "verified",
+      "outlets": [
+        "Vatican News",
+        "Associated Press",
+        "CNN"
+      ],
+      "image": "../images/world/world-20261112-0925-01.jpg",
+      "image_credit": "Vatican News"
+    },
+    {
+      "id": "world-20261112-0925-02",
+      "published_ist": "2026-11-11T23:08:00+05:30",
+      "headline": "COP31: Iran ne yuddh nuksan ka muawza manga",
+      "detail": "COP31 me Iran ke Rashtrapati Pezeshkian ne kaha ki America aur Israel ke hamlo se hue paryavaran nuksan ka muawza milna chahiye, aur yuddh ke samay ki zimmedari ko jalvayu pratibaddhataon se joda jana chahiye.",
+      "category": "World",
+      "exam_angle": "Jalvayu sammelan aur yuddh ka paryavaran prabhav — COP31 ke liye mahatvapurna.",
+      "source": "Reuters",
+      "source_url": "https://krro.com/2026/11/11/iran-tells-cop31-it-wants-compensation-for-environmental-damage-from-us-israeli-strikes/",
+      "genuineness": "verified",
+      "outlets": [
+        "Reuters",
+        "The Jerusalem Post",
+        "Vietnam.vn"
+      ],
+      "image": null,
+      "image_credit": null
+    },
+    {
+      "id": "world-20261112-0925-03",
+      "published_ist": "2026-11-11T23:02:00+05:30",
+      "headline": "Brazil ne Facebook par $1.3M jurmana lagaya",
+      "detail": "Brazil ki chunav adalat ne Meta ke Facebook par 7.5 million reais (lagbhag $1.3 million) ka jurmana lagaya, kyunki usne pichle mahine ke rashtrapati chunav ke dauran adalat ke aadeshon ka poori tarah palan nahi kiya; adalat ne kaha chunav ko janbujhkar prabhavit karne ka saboot abhi nahi mila.",
+      "category": "World",
+      "exam_angle": "Social media aur chunav aachar sanhita — chunav me platform ki bhoomika.",
+      "source": "Associated Press",
+      "source_url": "https://www.lanacion.com.ar/usa/brazil-fines-facebook-13-million-for-failing-to-comply-with-court-orders-during-election-nid11112026/",
+      "genuineness": "verified",
+      "outlets": [
+        "Reuters",
+        "Associated Press",
+        "Agence France-Presse"
+      ],
+      "image": null,
+      "image_credit": null
+    },
+    {
+      "id": "world-20261112-1025-01",
+      "published_ist": "2026-11-11T20:48:00+05:30",
+      "headline": "Indonesia ke uprashtrapati Gibran ne istifa diya",
+      "detail": "Indonesia ke uprashtrapati Gibran Rakabuming Raka ne budhwar ko Rashtrapati Prabowo Subianto ko apna istifa saunp diya; Supreme Court ne unka shiksha samkakshata praman-patra radd kar diya tha aur 120 sansadon ne mahabhiyog ki prakriya shuru ki thi. Istifa sweekar hua ya nahi, abhi spasht nahi hai.",
+      "category": "World",
+      "exam_angle": "Indonesia ki rajneeti aur samvaidhanik yogyata — dakshin-poorv Asia ke liye mahatvapurna.",
+      "source": "Reuters",
+      "source_url": "https://www.timeslive.co.za/news/world/2026-11-11-indonesias-vice-president-has-resigned-aide-says-stoking-political-uncertainty/",
+      "genuineness": "verified",
+      "outlets": [
+        "Reuters",
+        "The Straits Times",
+        "Bangkok Post"
+      ],
+      "image": "../images/world/world-20261112-1025-01.jpg",
+      "image_credit": "TimesLIVE"
+    },
+    {
+      "id": "world-20261112-1025-02",
+      "published_ist": "2026-11-11T23:43:00+05:30",
+      "headline": "America me Russia ke rajdut Darchiev ka nidhan",
+      "detail": "America me Russia ke rajdut Alexander Darchiev ka 66 saal ki umr me Moscow me achanak nidhan ho gaya, Russia ke videsh mantralaya ne budhwar ko bataya; ve March 2025 se is pad par the aur lambe samay se beemar the.",
+      "category": "World",
+      "exam_angle": "Russia-America sambandh — antarrashtriya sambandh ke liye mahatvapurna.",
+      "source": "CNN",
+      "source_url": "https://www.cnn.com/2026/11/11/europe/russian-ambassador-to-us-dies-intl?cid=external-feeds_iluminar_meta",
+      "genuineness": "verified",
+      "outlets": [
+        "CNN",
+        "Al Jazeera",
+        "AFP"
+      ],
+      "image": null,
+      "image_credit": null
+    },
+    {
+      "id": "world-20261112-1025-03",
+      "published_ist": "2026-11-11T15:17:00+05:30",
+      "headline": "Imran Khan raat me aspatal, aankh ka ilaaj",
+      "detail": "Pakistan ke jail me band poorv PM Imran Khan ko 10-11 November ki raat aankh ki jaanch aur injection ke liye Islamabad ke PIMS aspatal le jaya gaya aur subah wapas Adiala jail bhej diya gaya; aspatal ne kaha ve sthir hain, jabki unki party ne Supreme Court ke niji aspatal wale aadesh ka hawala dekar sawal uthaye.",
+      "category": "World",
+      "exam_angle": "Pakistan ki rajneeti — padosi desh ke halaat ke liye mahatvapurna.",
+      "source": "Al Jazeera",
+      "source_url": "https://www.aljazeera.com/amp/news/2026/11/11/pakistans-pti-demands-access-to-jailed-khan-after-overnight-hospital-visit",
+      "genuineness": "verified",
+      "outlets": [
+        "Al Jazeera",
+        "Dawn",
+        "Geo TV",
+        "Reuters"
+      ],
+      "image": "../images/world/world-20261112-1025-03.jpg",
+      "image_credit": "Al Jazeera"
+    },
+    {
+      "id": "world-20261112-1025-04",
+      "published_ist": "2026-11-11T20:27:00+05:30",
+      "headline": "4 EU desh Merz ki shart ke khilaf",
+      "detail": "Slovakia, Czech Republic, Hungary aur Bulgaria ne Germany ke Chancellor Friedrich Merz ki shart ko thukra diya — ve EU ke agle saat saal ke budget ki manzoori ko Ukraine ko nayi madad se jodne ke khilaf hain; Slovakia ke PM Fico ne ise 'blackmail' kaha aur veto ki dhamki di.",
+      "category": "World",
+      "exam_angle": "EU ki rajneeti aur Ukraine ko madad — antarrashtriya sangathan ke liye mahatvapurna.",
+      "source": "ClashReport",
+      "source_url": "https://clashreport.com/world/articles/eu-budget-dispute-deepens-over-merz-s-ukraine-aid-ultimatum-1dj3fz0ekzci",
+      "genuineness": "corroborated",
+      "outlets": [
+        "Euronews",
+        "ClashReport"
+      ],
+      "image": "../images/world/world-20261112-1025-04.jpg",
+      "image_credit": "ClashReport"
+    },
+    {
+      "id": "world-20261112-0822-01",
+      "published_ist": "2026-11-12T02:30:00+05:30",
+      "headline": "Brooklyn me imarat giri: 1 ki maut",
+      "detail": "New York ke Brooklyn ke Flatbush me budhwar shaam ek 3-manzila imarat paas ki khudai wali jagah me gir gayi; kam se kam 2 ki maut aur 17 ghayal hue, jinme 4 gambhir aur 7 bachche hain; malbe me fase logon ki talash jaari hai, lagbhag 250 damkalkarmi lage hain. [Sudhara gaya — pehle 1 maut aur 12 ghayal bataye gaye the.]",
+      "category": "World",
+      "exam_angle": "Shahri suraksha aur imarat niyam — nagar prashasan aur apda prabandhan ke liye mahatvapurna.",
+      "source": "CNN",
+      "source_url": "https://www.cnn.com/2026/11/11/us/brooklyn-new-york-building-collapse?cid=external-feeds_iluminar_meta",
+      "genuineness": "verified",
+      "outlets": [
+        "CNN",
+        "NBC",
+        "Reuters",
+        "Engineering News-Record"
+      ],
+      "image": null,
+      "image_credit": null
+    },
+    {
+      "id": "world-20261112-1122-01",
+      "published_ist": "2026-11-12T09:43:00+05:30",
+      "headline": "Mississippi se 1874 ke baad pehle Black senator",
+      "detail": "Democrat Scott Colom ne Mississippi Senate chunav me Republican Cindy Hyde-Smith ko lagbhag 4,600 voton se haraya; ve 1874 ke baad rajya ke pehle Black senator bane aur 1982 ke baad pehle Democrat senator.",
+      "category": "World",
+      "exam_angle": "America ke midterm chunav aur nagrik adhikar itihas — antarrashtriya rajneeti ke liye mahatvapurna.",
+      "source": "Reuters",
+      "source_url": "https://hi99.com/2026/11/11/democrat-colom-wins-mississippi-senate-seat-becomes-states-first-black-senator-since-1874/",
+      "genuineness": "verified",
+      "outlets": [
+        "Reuters",
+        "Associated Press",
+        "NDTV",
+        "The Straits Times"
+      ],
+      "image": "../images/world/world-20261112-1122-01.jpg",
+      "image_credit": "The Straits Times"
+    },
+    {
+      "id": "world-20261112-1122-02",
+      "published_ist": "2026-11-12T04:25:00+05:30",
+      "headline": "Nasser aspatal par hamla, 4 ki maut",
+      "detail": "Khan Younis ke Nasser Medical Complex par subah-subeh Israeli hawai hamle me kam se kam 4 log mare gaye aur kai ghayal hue; hamle me aspatal ki ICU aur surgery ward ko nuksan pahuncha, Gaza civil defence ne bataya; Israeli sena ki taraf se abhi koi tippani nahi aayi.",
+      "category": "World",
+      "exam_angle": "Gaza yuddh-viram aur West Asia tanav — antarrashtriya sambandh ke liye mahatvapurna.",
+      "source": "Reuters",
+      "source_url": "https://www.reuters.com/world/middle-east/israeli-strike-southern-gaza-hospital-kills-four-gaza-civil-defence-says-2026-11-11/",
+      "genuineness": "verified",
+      "outlets": [
+        "Reuters",
+        "Al Jazeera",
+        "Anadolu Agency",
+        "NDTV"
+      ],
+      "image": "../images/world/world-20261112-1122-02.jpg",
+      "image_credit": "Reuters via Al Jazeera"
+    },
+    {
+      "id": "world-20261112-1122-03",
+      "published_ist": "2026-11-11T16:40:00+05:30",
+      "headline": "Bulgaria motorway par takkar, 12 ki maut",
+      "detail": "Bulgaria ke Yambol ke paas Trakia motorway par ghani dhundh me 86 se zyada gaadiyon ki takkar me kam se kam 12 log mare gaye aur 48 ghayal hue; PM Radev ne aankdon ki pushti ki.",
+      "category": "World",
+      "exam_angle": "Sadak suraksha aur apda prabandhan — Europe ke liye mahatvapurna.",
+      "source": "ANI",
+      "source_url": "https://economictimes.indiatimes.com/news/india/eam-jaishankar-condoles-loss-of-lives-in-bulgaria-road-accident-killing-atleast-12-injuring-48/articleshow/135734892.cms",
+      "genuineness": "corroborated",
+      "outlets": [
+        "Euronews",
+        "BBC"
+      ],
+      "image": null,
+      "image_credit": null
+    },
+    {
+      "id": "world-20261112-1222-01",
+      "published_ist": "2026-11-12T09:02:00+05:30",
+      "headline": "Trump-Netanyahu me Iran par takraar",
+      "detail": "Israeli media ke mutabik hafte ke ant me phone par Trump aur Netanyahu ke beech Iran par yuddh phir shuru karne ko lekar tez behes hui, ek sutra ne ise 'shouting match from hell' kaha; Netanyahu ke karyalaya ne ise 'fake news' batakar khariz kiya, jabki Trump ne kaha abhi dobara hamla zaroori nahi lagta.",
+      "category": "World",
+      "exam_angle": "America-Israel sambandh aur Iran par yuddh ki sambhavna — antarrashtriya sambandh ke liye mahatvapurna.",
+      "source": "The Tribune",
+      "source_url": "https://www.tribuneindia.com/news/world/shouting-match-trump-netanyahu-clash-over-future-of-iran-war-report/",
+      "genuineness": "verified",
+      "outlets": [
+        "Ynet",
+        "Yedioth Ahronoth",
+        "New York Post",
+        "TRT World"
+      ],
+      "image": null,
+      "image_credit": null
+    },
+    {
+      "id": "world-20261112-1222-02",
+      "published_ist": "2026-11-12T06:59:00+05:30",
+      "headline": "Kushner-Witkoff guruvaar ko Putin se milenge",
+      "detail": "America ke doot Jared Kushner aur Steve Witkoff guruvaar ko Moscow me Rashtrapati Putin se milenge; Axios ke mutabik ve Russia se Europe ke saath naye suraksha samjhote ka prastav mangenge aur agle daur ki vaarta me Europe ki bhagidari par zor denge, phir Dublin me Zelensky se milenge.",
+      "category": "World",
+      "exam_angle": "Russia-Ukraine shanti vaarta aur Europe ki suraksha vyavastha — antarrashtriya sambandh ke liye mahatvapurna.",
+      "source": "The Economic Times",
+      "source_url": "https://economictimes.indiatimes.com/news/international/world-news/trump-envoys-to-meet-putin-as-us-pushes-ukraine-peace-deal-new-europe-russia-security-framework-reports-axios/articleshow/135751924.cms",
+      "genuineness": "verified",
+      "outlets": [
+        "Axios",
+        "The Economic Times",
+        "The Times of India",
+        "The Jerusalem Post"
+      ],
+      "image": "../images/world/world-20261112-1222-02.jpg",
+      "image_credit": "The Economic Times"
+    },
+    {
+      "id": "world-20261112-1322-02",
+      "published_ist": "2026-11-12T08:29:00+05:30",
+      "headline": "SS United States dooba, sabse bada reef",
+      "detail": "Duniya ka sabse tez samudri jahaz SS United States Florida ke paas janboojhkar duboya gaya — 990 foot lamba jahaz ab duniya ka sabse bada kritrim reef banega, gotaakhoro ke liye 12 November se khulega.",
+      "category": "World",
+      "exam_angle": "Samudri paryavaran aur kritrim reef — paryavaran ke liye mahatvapurna.",
+      "source": "USA Today",
+      "source_url": "https://www.usatoday.com/story/graphics/2026/11/11/ss-united-states-scuba-diving/87125612007/",
+      "genuineness": "verified",
+      "outlets": [
+        "Associated Press",
+        "USA Today",
+        "WHRO",
+        "Pensacola News Journal"
+      ],
+      "image": "../images/world/world-20261112-1322-02.jpg",
+      "image_credit": "Okaloosa County Tourist Development Dept (Public domain)"
+    },
+    {
+      "id": "world-20261111-1722-01",
+      "published_ist": "2026-11-11T15:48:00+05:30",
+      "headline": "Spain me 14 saal baad aam hadtaal",
+      "detail": "Awaas sankat par 2012 ke baad pehli deshvyapi aam hadtaal me laakhon log sadkon par utre; Madrid me lagbhag 1,20,000 aur Barcelona me 55,000 pradarshankari the, shaam ko dono shahron me jhadapen hui aur aansu gas chali, desh bhar me kam se kam 73 giraftariyan hui; 29 November ko chunaav hai.",
+      "category": "World",
+      "exam_angle": "Awaas sankat aur shramik andolan — Spain ke 29 November chunaav se pehle ka bada mudda; UPSC ke liye antarrashtriya arthvyavastha aur shram muddon se juda.",
+      "source": "Al Jazeera",
+      "source_url": "https://www.aljazeera.com/news/2026/11/11/spains-first-general-strike-in-14-years-begins",
+      "genuineness": "verified",
+      "outlets": [
+        "Reuters",
+        "Al Jazeera",
+        "Associated Press",
+        "AFP"
+      ],
+      "image": "../images/world/world-20261111-1722-01.jpg",
+      "image_credit": "Reuters via Al Jazeera"
+    },
+    {
+      "id": "world-20261112-1522-01",
+      "published_ist": "2026-11-12T14:23:00+05:30",
+      "headline": "China: Nvidia jasusi daave America ki 'nakabandi' chaal",
+      "detail": "China ne kaha America Nvidia CEO Jensen Huang par jasusi ke aaropon ko China par takniki 'nakabandi' lagane ke bahane ke roop me istemal kar raha hai; Beijing ne aaropon ko be-buniyad batakar khariz kiya, jabki Nvidia ne swatantra jaanch shuru ki hai.",
+      "category": "World",
+      "exam_angle": "America-China takniki yuddh aur AI chip pratibandh — antarrashtriya sambandh ke liye mahatvapurna.",
+      "source": "Channel News Asia",
+      "source_url": "https://www.channelnewsasia.com/east-asia/china-us-nvidia-spy-claims-justify-ai-chips-blockade-6545491",
+      "genuineness": "verified",
+      "outlets": [
+        "Channel News Asia",
+        "The Straits Times",
+        "The New York Times",
+        "The Wall Street Journal",
+        "The Economic Times"
+      ],
+      "image": "../images/world/world-20261112-1522-01.jpg",
+      "image_credit": "Anderseidesvik, Wikimedia Commons (CC BY-SA 4.0)"
+    },
+    {
+      "id": "world-20261112-1522-02",
+      "published_ist": "2026-11-10T07:14:00+05:30",
+      "headline": "Turkey steel plant blast: 17 mazdooron ki maut",
+      "detail": "Turkey ke Izmir ke paas Habas steel plant me dhamake ke baad kam se kam 17 mazdooron ki maut hui aur 12 ghayal hue; swasthya mantri ke mutabik ek gambhir ghayal mazdoor ki baad me maut se toll 17 hua, jaanch me 6 log giraftar hue.",
+      "category": "World",
+      "exam_angle": "Turkey me audyogik suraksha aur mazdoor suraksha — antarrashtriya samachar ke liye mahatvapurna.",
+      "source": "The Times of India",
+      "source_url": "https://timesofindia.indiatimes.com/world/middle-east/deadly-explosion-at-turkey-steel-factory-kills-17-workers-injures-12-others/articleshow/135696426.cms",
+      "genuineness": "verified",
+      "outlets": [
+        "BBC",
+        "The Times of India",
+        "Hürriyet",
+        "AFP",
+        "Daily Mirror"
+      ],
+      "image": "../images/world/world-20261112-1522-02.jpg",
+      "image_credit": "The Times of India"
+    },
+    {
+      "id": "world-20261112-1522-03",
+      "published_ist": "2026-11-09T23:45:00+05:30",
+      "headline": "Russell Brand ko balatkar par 10.5 saal jail",
+      "detail": "London ki Southwark Crown Court ne British comedian Russell Brand ko ek balatkar aur teen yaun hamlo ke liye 10 saal 6 mahine ki saza sunayi; judge ne unhe 'sexual predator' kaha aur ve aajivan sex offenders register par rahenge.",
+      "category": "World",
+      "exam_angle": null,
+      "source": "Otago Daily Times",
+      "source_url": "https://www.odt.co.nz/news/world/sexual-predator-comedian-russell-brand-jailed-for-10-years-for-rape-assault-hqg0m8dk",
+      "genuineness": "verified",
+      "outlets": [
+        "CNN",
+        "The Times",
+        "Dawn",
+        "The Standard",
+        "Otago Daily Times"
+      ],
+      "image": "../images/world/world-20261112-1522-03.jpg",
+      "image_credit": "Eva Rinaldi, Wikimedia Commons (CC BY-SA 2.0)"
+    },
+    {
+      "id": "world-20261112-1624-01",
+      "published_ist": "2026-11-12T12:21:00+05:30",
+      "headline": "Nepal: van khaai me giri, 10 ki maut",
+      "detail": "Chhath ke liye Kathmandu se Sarlahi ja rahi electric van Makwanpur me sadak se lagbhag 500 meter neeche gir gayi; 10 ki maut hui aur kai ghayal hue, haadse ki jaanch jaari hai.",
+      "category": "World",
+      "exam_angle": "Padosi desh Nepal me sadak suraksha aur apda prabandhan — antarrashtriya sambandh ke liye mahatvapurna.",
+      "source": "The Hindu",
+      "source_url": "https://www.thehindu.com/news/international/nepal-passenger-vehicle-plunges-off-steep-slope-deaths/article71692640.ece",
+      "genuineness": "verified",
+      "outlets": [
+        "The Hindu",
+        "The Himalayan Times",
+        "MyRepublica",
+        "Deccan Herald"
+      ],
+      "image": null,
+      "image_credit": null
+    },
+    {
+      "id": "world-20261112-1624-02",
+      "published_ist": "2026-11-12T09:20:00+05:30",
+      "headline": "Israel cabinet: Iran hamle ki taiyaari badhao",
+      "detail": "Israel ki suraksha cabinet ne sena ko Iran par sambhav hamle ki taiyaari badhane ka nirdesh diya, KAN ne bataya; vipaksh neta Eisenkot ne nayi sarkar banne tak bina turant khatre ke sainya karwai se mana kiya.",
+      "category": "World",
+      "exam_angle": "Israel-Iran takraav aur West Asia ki suraksha — antarrashtriya sambandh ke liye mahatvapurna.",
+      "source": "Al Jazeera",
+      "source_url": "https://www.aljazeera.com/amp/news/2026/11/12/iran-warns-of-expanded-retaliation-as-israel-reportedly-readies-to-attack",
+      "genuineness": "verified",
+      "outlets": [
+        "KAN",
+        "Al Jazeera",
+        "The Jerusalem Post",
+        "The Times of India"
+      ],
+      "image": "../images/world/world-20261112-1624-02.jpg",
+      "image_credit": "Avi Ohayon, Wikimedia Commons (CC BY-SA)"
+    },
+    {
+      "id": "world-20261112-1122-02",
+      "published_ist": "2026-11-12T04:25:00+05:30",
+      "headline": "Nasser aspatal par hamla, 4 ki maut",
+      "detail": "Khan Younis ke Nasser Medical Complex par subah-subeh Israeli hawai hamle me kam se kam 6 log mare gaye, jinme ek surgeon bhi hain, aur 20 se zyada ghayal hue; Israeli sena ne kaha usne Hamas ke Khan Younis Brigade commander Muhammad Abu Ismail ko nishana banaya. [Sudhara gaya — pehle 4 ki maut batayi gayi thi.]",
+      "category": "World",
+      "exam_angle": "Gaza yuddh-viram aur West Asia tanav — antarrashtriya sambandh ke liye mahatvapurna.",
+      "source": "Reuters",
+      "source_url": "https://www.reuters.com/world/middle-east/israeli-strike-southern-gaza-hospital-kills-four-gaza-civil-defence-says-2026-11-11/",
+      "genuineness": "verified",
+      "outlets": [
+        "Reuters",
+        "Al Jazeera",
+        "Anadolu Agency",
+        "NDTV"
+      ],
+      "image": "../images/world/world-20261112-1122-02.jpg",
+      "image_credit": "Reuters via Al Jazeera"
+    },
+    {
+      "id": "world-20261112-1722-01",
+      "published_ist": "2026-11-12T08:43:00+05:30",
+      "headline": "G7: Taiwan ke paas China ki harkat khatra",
+      "detail": "G7 videsh mantriyon ne Paris me sanyukt ghoshna me kaha, Taiwan ke poorv me China ki badhti harkatein kshetriya sthirata aur samudri aazadi ke liye khatra hain; China ne June se wahan coast guard gasht badhai hai.",
+      "category": "World",
+      "exam_angle": "Taiwan Strait aur Indo-Pacific me shakti santulan — antarrashtriya sambandh ke liye mahatvapurna.",
+      "source": "The Hindu",
+      "source_url": "https://www.thehindu.com/news/international/g7-foreign-ministers-say-chinas-actions-east-of-taiwan-threaten-stability/article71692205.ece",
+      "genuineness": "corroborated",
+      "outlets": [
+        "Reuters",
+        "The Hindu",
+        "Taipei Times"
+      ],
+      "image": "../images/world/world-20261112-1722-01.jpg",
+      "image_credit": "Reuters via The Hindu"
+    },
+    {
+      "id": "world-20261112-1830-01",
+      "published_ist": "2026-11-12T14:02:00+05:30",
+      "headline": "Hormuz me 2 tanker dhamakon se band",
+      "detail": "Budhwar raat Hormuz Strait me 2 supertanker dhamakon ke baad band ho gaye — IRGC ke mutabik dono me 40 lakh barrel se zyada tel tha aur ve 'bina anumati' wale raste par ja rahe the; dhamake ki wajah abhi saaf nahi hai.",
+      "category": "World",
+      "exam_angle": "Hormuz Strait duniya ke tel vyapar ka sabse mahatvapurna rasta hai — energy suraksha ke liye ahem.",
+      "source": "The Hindu",
+      "source_url": "https://www.thehindu.com/news/international/irans-guards-say-accident-left-two-tankers-on-fire-in-hormuz/article71692872.ece",
+      "genuineness": "verified",
+      "outlets": [
+        "Reuters",
+        "The Hindu",
+        "Anadolu"
+      ],
+      "image": null,
+      "image_credit": null
+    },
+    {
+      "id": "world-20261112-1830-02",
+      "published_ist": "2026-11-12T04:13:00+05:30",
+      "headline": "Nvidia: CEO Huang ko hatane par board",
+      "detail": "Nvidia ke board ne CEO Jensen Huang ko hatane par vichaar shuru kiya — WSJ ke mutabik do sambandhon ke baad board ne unke bhavishya par faisla lene ke liye baithak bulayi; khabar ke baad Nvidia ke share lagbhag 8% gire.",
+      "category": "World",
+      "exam_angle": "AI chip kshetra me corporate governance aur America-China tech takraar — arthvyavastha aur antarrashtriya sambandh ke liye mahatvapurna.",
+      "source": "Reuters",
+      "source_url": "https://www.reuters.com/technology/nvidia-is-preparing-oust-ceo-jensen-huang-wsj-reports-2026-11-11/",
+      "genuineness": "corroborated",
+      "outlets": [
+        "The Wall Street Journal",
+        "Reuters",
+        "The New York Times"
+      ],
+      "image": "../images/world/world-20261112-1830-02.jpg",
+      "image_credit": "Anderseidesvik, Wikimedia Commons (CC BY-SA 4.0)"
+    }
+  ]
 }
