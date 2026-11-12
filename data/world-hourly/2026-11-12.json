@@ -1,6 +1,6 @@
 {
   "date": "2026-11-12",
-  "updated_ist": "2026-11-12T16:24:57+05:30",
+  "updated_ist": "2026-11-12T17:25:37+05:30",
   "items": [
     {
       "id": "world-20261112-0822-01",
@@ -562,6 +562,24 @@
       ],
       "image": "../images/world/world-20261112-1122-02.jpg",
       "image_credit": "Reuters via Al Jazeera"
+    },
+    {
+      "id": "world-20261112-1722-01",
+      "published_ist": "2026-11-12T08:43:00+05:30",
+      "headline": "G7: Taiwan ke paas China ki harkat khatra",
+      "detail": "G7 videsh mantriyon ne Paris me sanyukt ghoshna me kaha, Taiwan ke poorv me China ki badhti harkatein kshetriya sthirata aur samudri aazadi ke liye khatra hain; China ne June se wahan coast guard gasht badhai hai.",
+      "category": "World",
+      "exam_angle": "Taiwan Strait aur Indo-Pacific me shakti santulan — antarrashtriya sambandh ke liye mahatvapurna.",
+      "source": "The Hindu",
+      "source_url": "https://www.thehindu.com/news/international/g7-foreign-ministers-say-chinas-actions-east-of-taiwan-threaten-stability/article71692205.ece",
+      "genuineness": "corroborated",
+      "outlets": [
+        "Reuters",
+        "The Hindu",
+        "Taipei Times"
+      ],
+      "image": "../images/world/world-20261112-1722-01.jpg",
+      "image_credit": "Reuters via The Hindu"
     }
   ]
 }
