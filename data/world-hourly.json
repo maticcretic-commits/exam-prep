@@ -1,5 +1,5 @@
 {
-  "updated_ist": "2026-11-12T13:27:00+05:30",
+  "updated_ist": "2026-11-12T14:28:13+05:30",
   "items": [
     {
       "id": "world-20261112-1122-01",
@@ -392,7 +392,7 @@
       "id": "world-20261111-1722-01",
       "published_ist": "2026-11-11T15:48:00+05:30",
       "headline": "Spain me 14 saal baad aam hadtaal",
-      "detail": "Awaas sankat par laakhon mazdoor hadtaal par gaye; 29 November ke chunaav se pehle parivahan aur factory ka kaam thap hua.",
+      "detail": "Awaas sankat par 2012 ke baad pehli deshvyapi aam hadtaal me laakhon log sadkon par utre; Madrid me lagbhag 1,20,000 aur Barcelona me 55,000 pradarshankari the, shaam ko dono shahron me jhadapen hui aur aansu gas chali, desh bhar me kam se kam 73 giraftariyan hui; 29 November ko chunaav hai.",
       "category": "World",
       "exam_angle": "Awaas sankat aur shramik andolan — Spain ke 29 November chunaav se pehle ka bada mudda; UPSC ke liye antarrashtriya arthvyavastha aur shram muddon se juda.",
       "source": "Al Jazeera",
@@ -401,7 +401,8 @@
       "outlets": [
         "Reuters",
         "Al Jazeera",
-        "Associated Press"
+        "Associated Press",
+        "AFP"
       ],
       "image": "../images/world/world-20261111-1722-01.jpg",
       "image_credit": "Reuters via Al Jazeera"
