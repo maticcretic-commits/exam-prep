@@ -1,5 +1,5 @@
 {
-  "updated_ist": "2026-11-12T11:29:10+05:30",
+  "updated_ist": "2026-11-12T12:26:00+05:30",
   "items": [
     {
       "id": "world-20261112-1122-01",
@@ -19,6 +19,44 @@
       ],
       "image": "../images/world/world-20261112-1122-01.jpg",
       "image_credit": "The Straits Times"
+    },
+    {
+      "id": "world-20261112-1222-01",
+      "published_ist": "2026-11-12T09:02:00+05:30",
+      "headline": "Trump-Netanyahu me Iran par takraar",
+      "detail": "Israeli media ke mutabik hafte ke ant me phone par Trump aur Netanyahu ke beech Iran par yuddh phir shuru karne ko lekar tez behes hui, ek sutra ne ise 'shouting match from hell' kaha; Netanyahu ke karyalaya ne ise 'fake news' batakar khariz kiya, jabki Trump ne kaha abhi dobara hamla zaroori nahi lagta.",
+      "category": "World",
+      "exam_angle": "America-Israel sambandh aur Iran par yuddh ki sambhavna — antarrashtriya sambandh ke liye mahatvapurna.",
+      "source": "The Tribune",
+      "source_url": "https://www.tribuneindia.com/news/world/shouting-match-trump-netanyahu-clash-over-future-of-iran-war-report/",
+      "genuineness": "verified",
+      "outlets": [
+        "Ynet",
+        "Yedioth Ahronoth",
+        "New York Post",
+        "TRT World"
+      ],
+      "image": null,
+      "image_credit": null
+    },
+    {
+      "id": "world-20261112-1222-02",
+      "published_ist": "2026-11-12T06:59:00+05:30",
+      "headline": "Kushner-Witkoff guruvaar ko Putin se milenge",
+      "detail": "America ke doot Jared Kushner aur Steve Witkoff guruvaar ko Moscow me Rashtrapati Putin se milenge; Axios ke mutabik ve Russia se Europe ke saath naye suraksha samjhote ka prastav mangenge aur agle daur ki vaarta me Europe ki bhagidari par zor denge, phir Dublin me Zelensky se milenge.",
+      "category": "World",
+      "exam_angle": "Russia-Ukraine shanti vaarta aur Europe ki suraksha vyavastha — antarrashtriya sambandh ke liye mahatvapurna.",
+      "source": "The Economic Times",
+      "source_url": "https://economictimes.indiatimes.com/news/international/world-news/trump-envoys-to-meet-putin-as-us-pushes-ukraine-peace-deal-new-europe-russia-security-framework-reports-axios/articleshow/135751924.cms",
+      "genuineness": "verified",
+      "outlets": [
+        "Axios",
+        "The Economic Times",
+        "The Times of India",
+        "The Jerusalem Post"
+      ],
+      "image": "../images/world/world-20261112-1222-02.jpg",
+      "image_credit": "The Economic Times"
     },
     {
       "id": "world-20261112-1122-02",
@@ -400,43 +438,6 @@
         "AFP",
         "Al Mayadeen",
         "Xinhua"
-      ],
-      "image": null,
-      "image_credit": null
-    },
-    {
-      "id": "world-20261111-1522-02",
-      "published_ist": "2026-11-11T12:53:00+05:30",
-      "headline": "Iran ne Argentina ki sena 'aatankwadi' kahi",
-      "detail": "Iran ne Argentina ki nausena aur vayusena ko aatankwadi sangathan ghoshit kiya; Buenos Aires ne April me IRGC ko aatankwadi ghoshit kiya tha, Iran ne ise usi ka badla bataya.",
-      "category": "World",
-      "exam_angle": "Iran-Argentina tanaav aur parasparik pratibandh — antarrashtriya sambandh ke liye mahatvapurna.",
-      "source": "Times Now",
-      "source_url": "https://www.timesnownews.com/world/middle-east/iran-retaliates-against-argentina-declares-its-navy-and-air-force-terrorist-organisations-article-156493472",
-      "genuineness": "verified",
-      "outlets": [
-        "Times Now",
-        "Reuters",
-        "Al Jazeera",
-        "The Times of Israel"
-      ],
-      "image": null,
-      "image_credit": null
-    },
-    {
-      "id": "world-20261111-1622-03",
-      "published_ist": "2026-11-11T12:05:00+05:30",
-      "headline": "COP31: netaon ka shikhar sammelan aaj se",
-      "detail": "Antalya me COP31 ke netaon ke shikhar sammelan me duniya bhar ke neta jalvayu par bhaashan denge; Turkey bijli ki hissedari 2035 tak 35% karne ka prastav rakhega, America doosre saal bhi shamil nahi.",
-      "category": "World",
-      "exam_angle": "COP31, 1.5°C lakshya aur jalvayu vitt — paryavaran aur antarrashtriya sammelan ke liye mahatvapurna.",
-      "source": "Rappler",
-      "source_url": "https://www.rappler.com/world/global-affairs/leaders-address-cop31-november-11-2026/",
-      "genuineness": "verified",
-      "outlets": [
-        "Rappler",
-        "ANews",
-        "The Indian Express"
       ],
       "image": null,
       "image_credit": null
