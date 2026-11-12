@@ -1,6 +1,24 @@
 {
-  "updated_ist": "2026-11-12T08:26:15+05:30",
+  "updated_ist": "2026-11-12T09:26:34+05:30",
   "items": [
+    {
+      "id": "world-20261112-0925-01",
+      "published_ist": "2026-11-12T03:30:00+05:30",
+      "headline": "Pope Leo XIV Peru pahunche, ghar wapsi",
+      "detail": "Pope Leo XIV budhwar ko Peru pahunche — apni dakshin America yatra ka aakhri charan; ve wahan 20 saal se zyada missionary aur Chiclayo ke bishop rahe, aur chhah din me Lima, Chiclayo, Cusco aur Amazon ka daura karenge.",
+      "category": "World",
+      "exam_angle": null,
+      "source": "Vatican News",
+      "source_url": "https://www.vaticannews.va/en/pope/news/2026-11/pope-leo-arrives-in-peru-for-final-leg-of-apostolic-journey.html",
+      "genuineness": "verified",
+      "outlets": [
+        "Vatican News",
+        "Associated Press",
+        "CNN"
+      ],
+      "image": "../images/world/world-20261112-0925-01.jpg",
+      "image_credit": "Vatican News"
+    },
     {
       "id": "world-20261112-0822-01",
       "published_ist": "2026-11-12T02:30:00+05:30",
@@ -16,6 +34,42 @@
         "NBC",
         "Reuters",
         "Engineering News-Record"
+      ],
+      "image": null,
+      "image_credit": null
+    },
+    {
+      "id": "world-20261112-0925-02",
+      "published_ist": "2026-11-11T23:08:00+05:30",
+      "headline": "COP31: Iran ne yuddh nuksan ka muawza manga",
+      "detail": "COP31 me Iran ke Rashtrapati Pezeshkian ne kaha ki America aur Israel ke hamlo se hue paryavaran nuksan ka muawza milna chahiye, aur yuddh ke samay ki zimmedari ko jalvayu pratibaddhataon se joda jana chahiye.",
+      "category": "World",
+      "exam_angle": "Jalvayu sammelan aur yuddh ka paryavaran prabhav — COP31 ke liye mahatvapurna.",
+      "source": "Reuters",
+      "source_url": "https://krro.com/2026/11/11/iran-tells-cop31-it-wants-compensation-for-environmental-damage-from-us-israeli-strikes/",
+      "genuineness": "verified",
+      "outlets": [
+        "Reuters",
+        "The Jerusalem Post",
+        "Vietnam.vn"
+      ],
+      "image": null,
+      "image_credit": null
+    },
+    {
+      "id": "world-20261112-0925-03",
+      "published_ist": "2026-11-11T23:02:00+05:30",
+      "headline": "Brazil ne Facebook par $1.3M jurmana lagaya",
+      "detail": "Brazil ki chunav adalat ne Meta ke Facebook par 7.5 million reais (lagbhag $1.3 million) ka jurmana lagaya, kyunki usne pichle mahine ke rashtrapati chunav ke dauran adalat ke aadeshon ka poori tarah palan nahi kiya; adalat ne kaha chunav ko janbujhkar prabhavit karne ka saboot abhi nahi mila.",
+      "category": "World",
+      "exam_angle": "Social media aur chunav aachar sanhita — chunav me platform ki bhoomika.",
+      "source": "Associated Press",
+      "source_url": "https://www.lanacion.com.ar/usa/brazil-fines-facebook-13-million-for-failing-to-comply-with-court-orders-during-election-nid11112026/",
+      "genuineness": "verified",
+      "outlets": [
+        "Reuters",
+        "Associated Press",
+        "Agence France-Presse"
       ],
       "image": null,
       "image_credit": null
@@ -387,62 +441,6 @@
         "The Wall Street Journal",
         "Al Jazeera",
         "The Hindu"
-      ],
-      "image": null,
-      "image_credit": null
-    },
-    {
-      "id": "world-20261111-1322-03",
-      "published_ist": "2026-11-11T10:01:00+05:30",
-      "headline": "Iran khatre par Bessent sainya base gaye",
-      "detail": "America ke vitt mantri Scott Bessent kathit Iran khatre ke baad apne Washington ghar se sainya base chale gaye; vitt vibhaag ne kaha ve Iran ke khatron se dareinge nahi, khatre ki gambhirta abhi spasht nahi.",
-      "category": "World",
-      "exam_angle": "America-Iran tanaav aur Iran par pratibandh abhiyan — antarrashtriya sambandh ke liye mahatvapurna.",
-      "source": "The Times of India",
-      "source_url": "https://timesofindia.indiatimes.com/world/us/us-treasury-secretary-scott-bessent-moves-to-military-base-after-alleged-iranian-threats/articleshow/135724620.cms",
-      "genuineness": "verified",
-      "outlets": [
-        "The Times of India",
-        "The New York Times",
-        "Reuters",
-        "USA Today"
-      ],
-      "image": null,
-      "image_credit": null
-    },
-    {
-      "id": "world-20261111-1422-01",
-      "published_ist": "2026-11-11T09:12:00+05:30",
-      "headline": "Abu Dhabi: badi kaidi adla-badli par charcha",
-      "detail": "Zelensky ne kaha Abu Dhabi vaarta me 1,000-1,000 ya 1,500-1,500 ke format me bade paimane par kaidi adla-badli par charcha hui; America ke pratinidhi is mudde par Russia se baat karenge, yuddhviram par abhi koi sahmati nahi.",
-      "category": "World",
-      "exam_angle": "Russia-Ukraine shaanti vaarta aur kaidi adla-badli — antarrashtriya sambandh ke liye mahatvapurna.",
-      "source": "The Korea Herald",
-      "source_url": "https://www.koreaherald.com/article/10933638",
-      "genuineness": "verified",
-      "outlets": [
-        "Associated Press",
-        "AFP",
-        "Ukrinform"
-      ],
-      "image": null,
-      "image_credit": null
-    },
-    {
-      "id": "world-20261111-1222-02",
-      "published_ist": "2026-11-11T09:06:00+05:30",
-      "headline": "Nvidia ne Wachtell ko jaanch saunpi",
-      "detail": "Nvidia ne Wachtell, Lipton, Rosen & Katz ko CEO Jensen Huang ke kathit Chinese jasus se sambandh ki swatantra jaanch ke liye bulaya; FBI alag se jaanch kar raha hai.",
-      "category": "World",
-      "exam_angle": "Nvidia, AI chip aur rashtriya suraksha",
-      "source": "Free Press Journal",
-      "source_url": "https://www.freepressjournal.in/amp/tech/nvidia-hires-top-us-law-firm-to-investigate-ceo-jensen-huangs-alleged-link-to-chinese-spy",
-      "genuineness": "verified",
-      "outlets": [
-        "Free Press Journal",
-        "CNBC TV18",
-        "The Economic Times",
-        "USA Today"
       ],
       "image": null,
       "image_credit": null
