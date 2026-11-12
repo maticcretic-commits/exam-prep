@@ -142,6 +142,76 @@
     ],
     "answer_index": 2
    }
+  },
+  {
+   "episode": 111,
+   "video_hi": "t2YPu9qxrVs",
+   "video_hinglish": "t2YPu9qxrVs",
+   "capsules": [
+    {
+     "id": "ca-ep111-s1",
+     "headline_hi": "Rabi ke liye 62,370 crore ki khaad subsidy",
+     "headline_hinglish": "Rabi ke liye 62,370 crore ki khaad subsidy",
+     "detail_hi": "Cabinet ne Rabi 2026-27 ke liye 62,370 crore ki fertiliser subsidy manzoor ki, pichhle saal se 64% zyada.",
+     "detail_hinglish": "Cabinet ne Rabi 2026-27 ke liye 62,370 crore ki fertiliser subsidy manzoor ki, pichhle saal se 64% zyada.",
+     "category_hi": "Economy",
+     "category_en": "Economy"
+    },
+    {
+     "id": "ca-ep111-s2",
+     "headline_hi": "Delhi ki hawa phir 'very poor', AQI 307",
+     "headline_hinglish": "Delhi ki hawa phir 'very poor', AQI 307",
+     "detail_hi": "Delhi ka AQI 307 par 'very poor' shreni mein, Jaffarpur mein 399 tak pahuncha, smog chhaya raha.",
+     "detail_hinglish": "Delhi ka AQI 307 par 'very poor' shreni mein, Jaffarpur mein 399 tak pahuncha, smog chhaya raha.",
+     "category_hi": "Environment",
+     "category_en": "Environment"
+    },
+    {
+     "id": "ca-ep111-s3",
+     "headline_hi": "Visa categories 13 se ghata kar 9 ki",
+     "headline_hinglish": "Visa categories 13 se ghata kar 9 ki",
+     "detail_hi": "MHA ne visa categories 13 se 9 aur sub-categories 49 se 23 ki, form ke 65-70% fields kam kiye.",
+     "detail_hinglish": "MHA ne visa categories 13 se 9 aur sub-categories 49 se 23 ki, form ke 65-70% fields kam kiye.",
+     "category_hi": "Governance",
+     "category_en": "National"
+    },
+    {
+     "id": "ca-ep111-s4",
+     "headline_hi": "Cancer dawaaiyan sasti, 679 brands 50% kam",
+     "headline_hinglish": "Cancer dawaaiyan sasti, 679 brands 50% kam",
+     "detail_hi": "NPPA ne 137 cancer dawaon par trade margin cap lagaya, 1,364 formulations saste, 3,540 crore ki bachat.",
+     "detail_hinglish": "NPPA ne 137 cancer dawaon par trade margin cap lagaya, 1,364 formulations saste, 3,540 crore ki bachat.",
+     "category_hi": "Health",
+     "category_en": "Health"
+    },
+    {
+     "id": "ca-ep111-s5",
+     "headline_hi": "Mizoram mein Gen-AI mission, 5,500 students",
+     "headline_hinglish": "Mizoram mein Gen-AI mission, 5,500 students",
+     "detail_hi": "Mizoram CM ne 80 schools ke 5,500 se zyada students ke liye Gen-AI mission launch kiya.",
+     "detail_hinglish": "Mizoram CM ne 80 schools ke 5,500 se zyada students ke liye Gen-AI mission launch kiya.",
+     "category_hi": "Education",
+     "category_en": "Education"
+    }
+   ],
+   "mcq": {
+    "id": "ca-ep111-mcq",
+    "q_hi": "Bharat mein ab mukhya visa categories kitni hain?",
+    "q_hinglish": "Bharat mein ab mukhya visa categories kitni hain?",
+    "options_hi": [
+     "7",
+     "9",
+     "11",
+     "13"
+    ],
+    "options_hinglish": [
+     "7",
+     "9",
+     "11",
+     "13"
+    ],
+    "answer_index": 1
+   }
   }
  ]
 }
