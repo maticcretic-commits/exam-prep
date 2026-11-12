@@ -1,6 +1,6 @@
 {
   "date": "2026-11-12",
-  "updated_ist": "2026-11-12T21:30:20+05:30",
+  "updated_ist": "2026-11-12T22:29:00+05:30",
   "items": [
     {
       "id": "world-20261112-2129-01",
@@ -817,6 +817,99 @@
       ],
       "image": "../images/world/world-20261112-1830-02.jpg",
       "image_credit": "Anderseidesvik, Wikimedia Commons (CC BY-SA 4.0)"
+    },
+    {
+      "id": "world-20261112-2222-01",
+      "published_ist": "2026-11-12T12:08:00+05:30",
+      "headline": "Indonesia: uprashtrapati Gibran ne istifa diya",
+      "detail": "Degree vivad ke beech Gibran Rakabuming Raka ne sansad ko istifa saunpa; Rashtrapati Prabowo ne bhari mann se manzoori de di.",
+      "category": "World",
+      "exam_angle": "Indonesia — samvidhanik uttaradhikar aur chunaav yogyata ka mudda.",
+      "source": "Al Jazeera",
+      "source_url": "https://www.aljazeera.com/news/2026/11/12/indonesia-vice-president-resigns-amid-dispute-over-eligibility?traffic_source=rss",
+      "genuineness": "verified",
+      "outlets": [
+        "Al Jazeera",
+        "SCMP",
+        "The Straits Times",
+        "Business Times"
+      ],
+      "image": "../images/world/world-20261112-2222-01.jpg",
+      "image_credit": "Darwis Triadi & Ministry of State Secretariat, Wikimedia Commons (Public domain)"
+    },
+    {
+      "id": "world-20261112-2222-02",
+      "published_ist": "2026-11-12T10:30:00+05:30",
+      "headline": "Mecca ke paas Houthi missile ka malba gira",
+      "detail": "Saudi hawai raksha ne Mecca ki taraf aaye 2 Houthi ballistic missile giraye; malba Grand Mosque se 21-35 km door gira, koi hataahat nahi.",
+      "category": "World",
+      "exam_angle": "West Asia sangharsh — Houthi-Saudi takraav aur pavitra sthalon ki suraksha.",
+      "source": "The Straits Times",
+      "source_url": "https://www.straitstimes.com/world/middle-east/saudi-arabia-says-debris-from-intercepted-missiles-falls-in-mecca-region?ref=latest",
+      "genuineness": "corroborated",
+      "outlets": [
+        "Reuters",
+        "Al-Monitor",
+        "Saudi Civil Defence"
+      ],
+      "image": null,
+      "image_credit": null
+    },
+    {
+      "id": "world-20261112-2222-03",
+      "published_ist": "2026-11-12T06:20:00+05:30",
+      "headline": "Oman ke dweep par Iran ka hamla",
+      "detail": "Iran ne kaha uski nausena ne Hormuz me Oman ke Didamar dweep ke navigation system par hamla kiya; Reuters ke sutron ne hamle ki pushti ki, nuksan par Oman se matbhed hai.",
+      "category": "World",
+      "exam_angle": "Hormuz jalmarg — tel vyapaar aur samudri suraksha par asar.",
+      "source": "Fox News",
+      "source_url": "https://foxnews.com/world/iran-escalates-hormuz-claims-strike-omani-island-enemy-uses-us-military-ops",
+      "genuineness": "verified",
+      "outlets": [
+        "Reuters",
+        "Fox News",
+        "Times of Israel"
+      ],
+      "image": "../images/world/world-20261112-2222-03.jpg",
+      "image_credit": "Rainer Crummenerl, Wikimedia Commons (CC BY-SA 4.0)"
+    },
+    {
+      "id": "world-20261112-2222-04",
+      "published_ist": "2026-11-12T02:52:00+05:30",
+      "headline": "Iran ki Europe me US thikaanon ko dhamki",
+      "detail": "Suraksha pramukh Mohsen Rezaei ne kaha, America ne dobara hamla kiya to Europe ke US sainya thikaane bhi nishana banenge.",
+      "category": "World",
+      "exam_angle": "Iran-America tanav — West Asia me sainya thikaane aur yuddh ka daira.",
+      "source": "The Straits Times",
+      "source_url": "https://www.straitstimes.com/world/middle-east/iran-security-chief-threatens-to-strike-us-bases-in-europe-if-used-for-attacks?ref=latest",
+      "genuineness": "verified",
+      "outlets": [
+        "The Straits Times",
+        "Free Malaysia Today",
+        "Gulf News",
+        "The Times"
+      ],
+      "image": null,
+      "image_credit": null
+    },
+    {
+      "id": "world-20261112-0822-01",
+      "published_ist": "2026-11-12T02:30:00+05:30",
+      "headline": "Brooklyn me imarat giri: 8 ki maut",
+      "detail": "New York ke Brooklyn ke Flatbush me budhwar shaam ek 3-manzila imarat paas ki khudai wali jagah me gir gayi; ab tak 8 ki maut aur 17 ghayal hue, jinme 3 damkalkarmi hain; malbe me fase logon ki talash jaari hai, lagbhag 250 damkalkarmi lage hain; shahar ne paas ki 'unsafe construction' ko kaaran bataya. [Sudhara gaya — pehle 2 maut bataye gaye the.]",
+      "category": "World",
+      "exam_angle": "Shahri suraksha aur imarat niyam — nagar prashasan aur apda prabandhan ke liye mahatvapurna.",
+      "source": "USA Today",
+      "source_url": "https://www.usatoday.com/story/news/nation/2026/11/12/brooklyn-building-collapse-nyc-updates/92738680007/",
+      "genuineness": "verified",
+      "outlets": [
+        "USA Today",
+        "AP",
+        "CNN",
+        "Reuters"
+      ],
+      "image": null,
+      "image_credit": null
     }
   ]
 }
