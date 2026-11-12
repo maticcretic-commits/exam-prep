@@ -1,6 +1,6 @@
 {
   "date": "2026-11-12",
-  "updated_ist": "2026-11-12T15:24:56+05:30",
+  "updated_ist": "2026-11-12T16:24:57+05:30",
   "items": [
     {
       "id": "world-20261112-0822-01",
@@ -505,6 +505,63 @@
       ],
       "image": "../images/world/world-20261112-1522-03.jpg",
       "image_credit": "Eva Rinaldi, Wikimedia Commons (CC BY-SA 2.0)"
+    },
+    {
+      "id": "world-20261112-1624-01",
+      "published_ist": "2026-11-12T12:21:00+05:30",
+      "headline": "Nepal: van khaai me giri, 10 ki maut",
+      "detail": "Chhath ke liye Kathmandu se Sarlahi ja rahi electric van Makwanpur me sadak se lagbhag 500 meter neeche gir gayi; 10 ki maut hui aur kai ghayal hue, haadse ki jaanch jaari hai.",
+      "category": "World",
+      "exam_angle": "Padosi desh Nepal me sadak suraksha aur apda prabandhan — antarrashtriya sambandh ke liye mahatvapurna.",
+      "source": "The Hindu",
+      "source_url": "https://www.thehindu.com/news/international/nepal-passenger-vehicle-plunges-off-steep-slope-deaths/article71692640.ece",
+      "genuineness": "verified",
+      "outlets": [
+        "The Hindu",
+        "The Himalayan Times",
+        "MyRepublica",
+        "Deccan Herald"
+      ],
+      "image": null,
+      "image_credit": null
+    },
+    {
+      "id": "world-20261112-1624-02",
+      "published_ist": "2026-11-12T09:20:00+05:30",
+      "headline": "Israel cabinet: Iran hamle ki taiyaari badhao",
+      "detail": "Israel ki suraksha cabinet ne sena ko Iran par sambhav hamle ki taiyaari badhane ka nirdesh diya, KAN ne bataya; vipaksh neta Eisenkot ne nayi sarkar banne tak bina turant khatre ke sainya karwai se mana kiya.",
+      "category": "World",
+      "exam_angle": "Israel-Iran takraav aur West Asia ki suraksha — antarrashtriya sambandh ke liye mahatvapurna.",
+      "source": "Al Jazeera",
+      "source_url": "https://www.aljazeera.com/amp/news/2026/11/12/iran-warns-of-expanded-retaliation-as-israel-reportedly-readies-to-attack",
+      "genuineness": "verified",
+      "outlets": [
+        "KAN",
+        "Al Jazeera",
+        "The Jerusalem Post",
+        "The Times of India"
+      ],
+      "image": "../images/world/world-20261112-1624-02.jpg",
+      "image_credit": "Avi Ohayon, Wikimedia Commons (CC BY-SA)"
+    },
+    {
+      "id": "world-20261112-1122-02",
+      "published_ist": "2026-11-12T04:25:00+05:30",
+      "headline": "Nasser aspatal par hamla, 4 ki maut",
+      "detail": "Khan Younis ke Nasser Medical Complex par subah-subeh Israeli hawai hamle me kam se kam 6 log mare gaye, jinme ek surgeon bhi hain, aur 20 se zyada ghayal hue; Israeli sena ne kaha usne Hamas ke Khan Younis Brigade commander Muhammad Abu Ismail ko nishana banaya. [Sudhara gaya — pehle 4 ki maut batayi gayi thi.]",
+      "category": "World",
+      "exam_angle": "Gaza yuddh-viram aur West Asia tanav — antarrashtriya sambandh ke liye mahatvapurna.",
+      "source": "Reuters",
+      "source_url": "https://www.reuters.com/world/middle-east/israeli-strike-southern-gaza-hospital-kills-four-gaza-civil-defence-says-2026-11-11/",
+      "genuineness": "verified",
+      "outlets": [
+        "Reuters",
+        "Al Jazeera",
+        "Anadolu Agency",
+        "NDTV"
+      ],
+      "image": "../images/world/world-20261112-1122-02.jpg",
+      "image_credit": "Reuters via Al Jazeera"
     }
   ]
 }
