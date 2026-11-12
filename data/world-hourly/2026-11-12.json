@@ -1,6 +1,6 @@
 {
   "date": "2026-11-12",
-  "updated_ist": "2026-11-12T11:29:10+05:30",
+  "updated_ist": "2026-11-12T12:26:00+05:30",
   "items": [
     {
       "id": "world-20261112-0822-01",
@@ -369,6 +369,44 @@
       ],
       "image": null,
       "image_credit": null
+    },
+    {
+      "id": "world-20261112-1222-01",
+      "published_ist": "2026-11-12T09:02:00+05:30",
+      "headline": "Trump-Netanyahu me Iran par takraar",
+      "detail": "Israeli media ke mutabik hafte ke ant me phone par Trump aur Netanyahu ke beech Iran par yuddh phir shuru karne ko lekar tez behes hui, ek sutra ne ise 'shouting match from hell' kaha; Netanyahu ke karyalaya ne ise 'fake news' batakar khariz kiya, jabki Trump ne kaha abhi dobara hamla zaroori nahi lagta.",
+      "category": "World",
+      "exam_angle": "America-Israel sambandh aur Iran par yuddh ki sambhavna — antarrashtriya sambandh ke liye mahatvapurna.",
+      "source": "The Tribune",
+      "source_url": "https://www.tribuneindia.com/news/world/shouting-match-trump-netanyahu-clash-over-future-of-iran-war-report/",
+      "genuineness": "verified",
+      "outlets": [
+        "Ynet",
+        "Yedioth Ahronoth",
+        "New York Post",
+        "TRT World"
+      ],
+      "image": null,
+      "image_credit": null
+    },
+    {
+      "id": "world-20261112-1222-02",
+      "published_ist": "2026-11-12T06:59:00+05:30",
+      "headline": "Kushner-Witkoff guruvaar ko Putin se milenge",
+      "detail": "America ke doot Jared Kushner aur Steve Witkoff guruvaar ko Moscow me Rashtrapati Putin se milenge; Axios ke mutabik ve Russia se Europe ke saath naye suraksha samjhote ka prastav mangenge aur agle daur ki vaarta me Europe ki bhagidari par zor denge, phir Dublin me Zelensky se milenge.",
+      "category": "World",
+      "exam_angle": "Russia-Ukraine shanti vaarta aur Europe ki suraksha vyavastha — antarrashtriya sambandh ke liye mahatvapurna.",
+      "source": "The Economic Times",
+      "source_url": "https://economictimes.indiatimes.com/news/international/world-news/trump-envoys-to-meet-putin-as-us-pushes-ukraine-peace-deal-new-europe-russia-security-framework-reports-axios/articleshow/135751924.cms",
+      "genuineness": "verified",
+      "outlets": [
+        "Axios",
+        "The Economic Times",
+        "The Times of India",
+        "The Jerusalem Post"
+      ],
+      "image": "../images/world/world-20261112-1222-02.jpg",
+      "image_credit": "The Economic Times"
     }
   ]
 }
