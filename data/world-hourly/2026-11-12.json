@@ -1,6 +1,6 @@
 {
   "date": "2026-11-12",
-  "updated_ist": "2026-11-12T10:30:09+05:30",
+  "updated_ist": "2026-11-12T11:29:10+05:30",
   "items": [
     {
       "id": "world-20261112-0822-01",
@@ -311,6 +311,61 @@
         "NBC",
         "Reuters",
         "Engineering News-Record"
+      ],
+      "image": null,
+      "image_credit": null
+    },
+    {
+      "id": "world-20261112-1122-01",
+      "published_ist": "2026-11-12T09:43:00+05:30",
+      "headline": "Mississippi se 1874 ke baad pehle Black senator",
+      "detail": "Democrat Scott Colom ne Mississippi Senate chunav me Republican Cindy Hyde-Smith ko lagbhag 4,600 voton se haraya; ve 1874 ke baad rajya ke pehle Black senator bane aur 1982 ke baad pehle Democrat senator.",
+      "category": "World",
+      "exam_angle": "America ke midterm chunav aur nagrik adhikar itihas — antarrashtriya rajneeti ke liye mahatvapurna.",
+      "source": "Reuters",
+      "source_url": "https://hi99.com/2026/11/11/democrat-colom-wins-mississippi-senate-seat-becomes-states-first-black-senator-since-1874/",
+      "genuineness": "verified",
+      "outlets": [
+        "Reuters",
+        "Associated Press",
+        "NDTV",
+        "The Straits Times"
+      ],
+      "image": "../images/world/world-20261112-1122-01.jpg",
+      "image_credit": "The Straits Times"
+    },
+    {
+      "id": "world-20261112-1122-02",
+      "published_ist": "2026-11-12T04:25:00+05:30",
+      "headline": "Nasser aspatal par hamla, 4 ki maut",
+      "detail": "Khan Younis ke Nasser Medical Complex par subah-subeh Israeli hawai hamle me kam se kam 4 log mare gaye aur kai ghayal hue; hamle me aspatal ki ICU aur surgery ward ko nuksan pahuncha, Gaza civil defence ne bataya; Israeli sena ki taraf se abhi koi tippani nahi aayi.",
+      "category": "World",
+      "exam_angle": "Gaza yuddh-viram aur West Asia tanav — antarrashtriya sambandh ke liye mahatvapurna.",
+      "source": "Reuters",
+      "source_url": "https://www.reuters.com/world/middle-east/israeli-strike-southern-gaza-hospital-kills-four-gaza-civil-defence-says-2026-11-11/",
+      "genuineness": "verified",
+      "outlets": [
+        "Reuters",
+        "Al Jazeera",
+        "Anadolu Agency",
+        "NDTV"
+      ],
+      "image": "../images/world/world-20261112-1122-02.jpg",
+      "image_credit": "Reuters via Al Jazeera"
+    },
+    {
+      "id": "world-20261112-1122-03",
+      "published_ist": "2026-11-11T16:40:00+05:30",
+      "headline": "Bulgaria motorway par takkar, 12 ki maut",
+      "detail": "Bulgaria ke Yambol ke paas Trakia motorway par ghani dhundh me 86 se zyada gaadiyon ki takkar me kam se kam 12 log mare gaye aur 48 ghayal hue; PM Radev ne aankdon ki pushti ki.",
+      "category": "World",
+      "exam_angle": "Sadak suraksha aur apda prabandhan — Europe ke liye mahatvapurna.",
+      "source": "ANI",
+      "source_url": "https://economictimes.indiatimes.com/news/india/eam-jaishankar-condoles-loss-of-lives-in-bulgaria-road-accident-killing-atleast-12-injuring-48/articleshow/135734892.cms",
+      "genuineness": "corroborated",
+      "outlets": [
+        "Euronews",
+        "BBC"
       ],
       "image": null,
       "image_credit": null
