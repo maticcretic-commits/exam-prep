@@ -1,7 +1,26 @@
 {
   "date": "2026-11-12",
-  "updated_ist": "2026-11-12T07:26:31+05:30",
+  "updated_ist": "2026-11-12T08:26:15+05:30",
   "items": [
+    {
+      "id": "world-20261112-0822-01",
+      "published_ist": "2026-11-12T02:30:00+05:30",
+      "headline": "Brooklyn me imarat giri: 1 ki maut",
+      "detail": "New York ke Brooklyn ke Flatbush me budhwar shaam ek 3-manzila imarat paas ki khudai wali jagah me gir gayi; kam se kam 1 ki maut aur 12 ghayal hue, jinme 6 gambhir hain; malbe me fase logon ki talash jaari hai, lagbhag 250 damkalkarmi lage hain.",
+      "category": "World",
+      "exam_angle": "Shahri suraksha aur imarat niyam — nagar prashasan aur apda prabandhan ke liye mahatvapurna.",
+      "source": "CNN",
+      "source_url": "https://www.cnn.com/2026/11/11/us/brooklyn-new-york-building-collapse?cid=external-feeds_iluminar_meta",
+      "genuineness": "verified",
+      "outlets": [
+        "CNN",
+        "NBC",
+        "Reuters",
+        "Engineering News-Record"
+      ],
+      "image": null,
+      "image_credit": null
+    },
     {
       "id": "world-20261112-0622-02",
       "published_ist": "2026-11-11T22:10:00+05:30",
@@ -53,6 +72,25 @@
         "Haaretz",
         "News18",
         "Rediff"
+      ],
+      "image": null,
+      "image_credit": null
+    },
+    {
+      "id": "world-20261112-0822-02",
+      "published_ist": "2026-11-11T19:05:00+05:30",
+      "headline": "Italy: farzi bomb dhamki se 300 school khali",
+      "detail": "Italy ke lagbhag 6,300 schoolon ko email par farzi bomb ki dhamki mili, jiske baad kam se kam 300 school khali karaye gaye; Scotland aur Northern Ireland me bhi aisi dhamki mili, lekin wahan koi khatra nahi mana gaya aur koi visfotak nahi mila.",
+      "category": "World",
+      "exam_angle": "Europe me hybrid warfare aur cyber-suraksha — antarrashtriya suraksha ke liye mahatvapurna.",
+      "source": "Al Jazeera",
+      "source_url": "https://www.aljazeera.com/amp/news/2026/11/11/at-least-300-italian-schools-evacuated-after-email-bomb-alerts",
+      "genuineness": "verified",
+      "outlets": [
+        "Reuters",
+        "Al Jazeera",
+        "The Times",
+        "Ynet"
       ],
       "image": null,
       "image_credit": null
