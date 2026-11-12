@@ -1,0 +1,77 @@
+{
+ "date": "2026-11-13",
+ "date_hi": "13 November 2026",
+ "date_en": "13 November 2026",
+ "episodes": [
+  {
+   "episode": 113,
+   "video_hi": "yusqZAJOC50",
+   "video_hinglish": "yusqZAJOC50",
+   "capsules": [
+    {
+     "id": "ca-ep113-s1",
+     "headline_hi": "Stand-Up India 2031 tak, 2.5 lakh udyami",
+     "headline_hinglish": "Stand-Up India 2031 tak, 2.5 lakh udyami",
+     "detail_hi": "Cabinet ne scheme 31 March 2031 tak badhayi, 4,111 crore ke corpus se 2.5 lakh mahila, SC, ST udyamiyon ko madad milegi.",
+     "detail_hinglish": "Cabinet ne scheme 31 March 2031 tak badhayi, 4,111 crore ke corpus se 2.5 lakh mahila, SC, ST udyamiyon ko madad milegi.",
+     "category_hi": "Economy",
+     "category_en": "Economy"
+    },
+    {
+     "id": "ca-ep113-s2",
+     "headline_hi": "Sairang Express ke 6 coach patri se utre",
+     "headline_hinglish": "Sairang Express ke 6 coach patri se utre",
+     "detail_hi": "11 November subah 6:54 baje Digaru ke paas loco aur paanch coach utre, koi maut nahi, chaar ko halki chot lagi.",
+     "detail_hinglish": "11 November subah 6:54 baje Digaru ke paas loco aur paanch coach utre, koi maut nahi, chaar ko halki chot lagi.",
+     "category_hi": "Infrastructure",
+     "category_en": "National"
+    },
+    {
+     "id": "ca-ep113-s3",
+     "headline_hi": "MSCI index mein LIC, Coforge, Meesho shamil",
+     "headline_hinglish": "MSCI index mein LIC, Coforge, Meesho shamil",
+     "detail_hi": "November review mein chaar Bharatiya companiyan shamil hui, Bharat ka weight 12.9% se badhkar 13.1% hoga.",
+     "detail_hinglish": "November review mein chaar Bharatiya companiyan shamil hui, Bharat ka weight 12.9% se badhkar 13.1% hoga.",
+     "category_hi": "Economy",
+     "category_en": "Economy"
+    },
+    {
+     "id": "ca-ep113-s4",
+     "headline_hi": "U19 Asia Cup final mein Bharat vs Pakistan",
+     "headline_hinglish": "U19 Asia Cup final mein Bharat vs Pakistan",
+     "detail_hi": "Lakshya Raichandani ke 93 run se Bharat ne Afghanistan ko 8 wicket se haraya, final 14 November ko hai.",
+     "detail_hinglish": "Lakshya Raichandani ke 93 run se Bharat ne Afghanistan ko 8 wicket se haraya, final 14 November ko hai.",
+     "category_hi": "Sports",
+     "category_en": "Sports"
+    },
+    {
+     "id": "ca-ep113-s5",
+     "headline_hi": "IIT Madras ka free AI course, Class 7-12",
+     "headline_hinglish": "IIT Madras ka free AI course, Class 7-12",
+     "detail_hi": "IIT Madras Pravartak Class 7 se 12 ke students ko AI, EV aur entrepreneurship ki free online training dega.",
+     "detail_hinglish": "IIT Madras Pravartak Class 7 se 12 ke students ko AI, EV aur entrepreneurship ki free online training dega.",
+     "category_hi": "Education",
+     "category_en": "Education"
+    }
+   ],
+   "mcq": {
+    "id": "ca-ep113-mcq",
+    "q_hi": "Stand-Up India Scheme ab kab tak chalegi?",
+    "q_hinglish": "Stand-Up India Scheme ab kab tak chalegi?",
+    "options_hi": [
+     "31 March 2029",
+     "31 March 2031",
+     "31 March 2030",
+     "31 March 2032"
+    ],
+    "options_hinglish": [
+     "31 March 2029",
+     "31 March 2031",
+     "31 March 2030",
+     "31 March 2032"
+    ],
+    "answer_index": 1
+   }
+  }
+ ]
+}
