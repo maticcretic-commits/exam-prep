@@ -1,5 +1,5 @@
 {
-  "updated_ist": "2026-11-12T12:26:00+05:30",
+  "updated_ist": "2026-11-12T13:27:00+05:30",
   "items": [
     {
       "id": "world-20261112-1122-01",
@@ -38,6 +38,25 @@
       ],
       "image": null,
       "image_credit": null
+    },
+    {
+      "id": "world-20261112-1322-02",
+      "published_ist": "2026-11-12T08:29:00+05:30",
+      "headline": "SS United States dooba, sabse bada reef",
+      "detail": "Duniya ka sabse tez samudri jahaz SS United States Florida ke paas janboojhkar duboya gaya — 990 foot lamba jahaz ab duniya ka sabse bada kritrim reef banega, gotaakhoro ke liye 12 November se khulega.",
+      "category": "World",
+      "exam_angle": "Samudri paryavaran aur kritrim reef — paryavaran ke liye mahatvapurna.",
+      "source": "USA Today",
+      "source_url": "https://www.usatoday.com/story/graphics/2026/11/11/ss-united-states-scuba-diving/87125612007/",
+      "genuineness": "verified",
+      "outlets": [
+        "Associated Press",
+        "USA Today",
+        "WHRO",
+        "Pensacola News Journal"
+      ],
+      "image": "../images/world/world-20261112-1322-02.jpg",
+      "image_credit": "Okaloosa County Tourist Development Dept (Public domain)"
     },
     {
       "id": "world-20261112-1222-02",
@@ -423,24 +442,6 @@
       ],
       "image": "../images/world/world-20261112-1025-03.jpg",
       "image_credit": "Al Jazeera"
-    },
-    {
-      "id": "world-20261111-1822-02",
-      "published_ist": "2026-11-11T13:37:00+05:30",
-      "headline": "Hormuz me phir tanker me aag",
-      "detail": "Iran ki sena ne kaha ki aaj subah ek tanker ne Hormuz ke poorv me pratibandhit kshetra me mine se takrakar aag pakad li; Mangalvaar ko bhi teen tanker jal uthe the.",
-      "category": "World",
-      "exam_angle": "Hormuz se tel vyapaar aur antarrashtriya suraksha — arthvyavastha ke liye mahatvapurna.",
-      "source": "The Hindu",
-      "source_url": "https://www.thehindu.com/news/international/iran-says-tanker-struck-mine-caught-fire-in-hormuz/article71688841.ece",
-      "genuineness": "verified",
-      "outlets": [
-        "AFP",
-        "Al Mayadeen",
-        "Xinhua"
-      ],
-      "image": null,
-      "image_credit": null
     }
   ]
 }
