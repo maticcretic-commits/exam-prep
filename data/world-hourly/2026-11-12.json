@@ -1,6 +1,6 @@
 {
   "date": "2026-11-12",
-  "updated_ist": "2026-11-12T14:28:13+05:30",
+  "updated_ist": "2026-11-12T15:24:56+05:30",
   "items": [
     {
       "id": "world-20261112-0822-01",
@@ -445,6 +445,66 @@
       ],
       "image": "../images/world/world-20261111-1722-01.jpg",
       "image_credit": "Reuters via Al Jazeera"
+    },
+    {
+      "id": "world-20261112-1522-01",
+      "published_ist": "2026-11-12T14:23:00+05:30",
+      "headline": "China: Nvidia jasusi daave America ki 'nakabandi' chaal",
+      "detail": "China ne kaha America Nvidia CEO Jensen Huang par jasusi ke aaropon ko China par takniki 'nakabandi' lagane ke bahane ke roop me istemal kar raha hai; Beijing ne aaropon ko be-buniyad batakar khariz kiya, jabki Nvidia ne swatantra jaanch shuru ki hai.",
+      "category": "World",
+      "exam_angle": "America-China takniki yuddh aur AI chip pratibandh — antarrashtriya sambandh ke liye mahatvapurna.",
+      "source": "Channel News Asia",
+      "source_url": "https://www.channelnewsasia.com/east-asia/china-us-nvidia-spy-claims-justify-ai-chips-blockade-6545491",
+      "genuineness": "verified",
+      "outlets": [
+        "Channel News Asia",
+        "The Straits Times",
+        "The New York Times",
+        "The Wall Street Journal",
+        "The Economic Times"
+      ],
+      "image": "../images/world/world-20261112-1522-01.jpg",
+      "image_credit": "Anderseidesvik, Wikimedia Commons (CC BY-SA 4.0)"
+    },
+    {
+      "id": "world-20261112-1522-02",
+      "published_ist": "2026-11-10T07:14:00+05:30",
+      "headline": "Turkey steel plant blast: 17 mazdooron ki maut",
+      "detail": "Turkey ke Izmir ke paas Habas steel plant me dhamake ke baad kam se kam 17 mazdooron ki maut hui aur 12 ghayal hue; swasthya mantri ke mutabik ek gambhir ghayal mazdoor ki baad me maut se toll 17 hua, jaanch me 6 log giraftar hue.",
+      "category": "World",
+      "exam_angle": "Turkey me audyogik suraksha aur mazdoor suraksha — antarrashtriya samachar ke liye mahatvapurna.",
+      "source": "The Times of India",
+      "source_url": "https://timesofindia.indiatimes.com/world/middle-east/deadly-explosion-at-turkey-steel-factory-kills-17-workers-injures-12-others/articleshow/135696426.cms",
+      "genuineness": "verified",
+      "outlets": [
+        "BBC",
+        "The Times of India",
+        "Hürriyet",
+        "AFP",
+        "Daily Mirror"
+      ],
+      "image": "../images/world/world-20261112-1522-02.jpg",
+      "image_credit": "The Times of India"
+    },
+    {
+      "id": "world-20261112-1522-03",
+      "published_ist": "2026-11-09T23:45:00+05:30",
+      "headline": "Russell Brand ko balatkar par 10.5 saal jail",
+      "detail": "London ki Southwark Crown Court ne British comedian Russell Brand ko ek balatkar aur teen yaun hamlo ke liye 10 saal 6 mahine ki saza sunayi; judge ne unhe 'sexual predator' kaha aur ve aajivan sex offenders register par rahenge.",
+      "category": "World",
+      "exam_angle": null,
+      "source": "Otago Daily Times",
+      "source_url": "https://www.odt.co.nz/news/world/sexual-predator-comedian-russell-brand-jailed-for-10-years-for-rape-assault-hqg0m8dk",
+      "genuineness": "verified",
+      "outlets": [
+        "CNN",
+        "The Times",
+        "Dawn",
+        "The Standard",
+        "Otago Daily Times"
+      ],
+      "image": "../images/world/world-20261112-1522-03.jpg",
+      "image_credit": "Eva Rinaldi, Wikimedia Commons (CC BY-SA 2.0)"
     }
   ]
 }
