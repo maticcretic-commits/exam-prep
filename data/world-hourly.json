@@ -1,6 +1,24 @@
 {
- "updated_ist": "2026-11-11T22:27:24+05:30",
+ "updated_ist": "2026-11-12T06:25:46+05:30",
  "items": [
+  {
+   "id": "world-20261112-0622-02",
+   "published_ist": "2026-11-11T22:10:00+05:30",
+   "headline": "Storm Charles: Portugal me sab band",
+   "detail": "Atlantic toofan Charles ke aane par Portugal me lagbhag 8,000 school band rahe aur 300 se zyada udanein radd hui; 120 km/h se zyada ki hawa chali, lekin bada nuksan nahi hua.",
+   "category": "World",
+   "exam_angle": "Charam mausam aur jalvayu parivartan — COP31 ke dauraan ka mahatvapurna mudda.",
+   "source": "Al Jazeera",
+   "source_url": "https://www.aljazeera.com/news/2026/11/11/portugal-cancels-300-plus-flights-shuts-schools-ahead-of-storm-charles?traffic_source=rss",
+   "genuineness": "verified",
+   "outlets": [
+    "Associated Press",
+    "Al Jazeera",
+    "Reuters"
+   ],
+   "image": "../images/world/world-20261112-0622-02.jpg",
+   "image_credit": "EPA via Al Jazeera"
+  },
   {
    "id": "world-20261111-2122-01",
    "published_ist": "2026-11-11T20:16:00+05:30",
@@ -18,6 +36,25 @@
    ],
    "image": null,
    "image_credit": null
+  },
+  {
+   "id": "world-20261112-0622-01",
+   "published_ist": "2026-11-11T17:54:00+05:30",
+   "headline": "Kohat me hamla: 10 police shaheed",
+   "detail": "Khyber Pakhtunkhwa ke Kohat me avaidh sone ki khanan ke khilaf operation se laut rahi police team par hamla hua; DSP Haidar Zaman samet 10 police karmchari shaheed hue, 18 hamlaawar bhi maare gaye.",
+   "category": "World",
+   "exam_angle": "Pakistan me aatankwad aur suraksha sthiti — padosi desh ke halaat, antarrashtriya sambandh ke liye mahatvapurna.",
+   "source": "Dawn",
+   "source_url": "https://www.dawn.com/news/print/2043793",
+   "genuineness": "verified",
+   "outlets": [
+    "Dawn",
+    "The Express Tribune",
+    "Pakistan Today",
+    "Associated Press"
+   ],
+   "image": "../images/world/world-20261112-0622-01.jpg",
+   "image_credit": "Dawn"
   },
   {
    "id": "world-20261111-1922-01",
@@ -404,42 +441,6 @@
     "The Hindu",
     "The National",
     "Al Jazeera"
-   ],
-   "image": null,
-   "image_credit": null
-  },
-  {
-   "id": "world-20261111-2022-03",
-   "published_ist": "2026-11-11T05:17:00+05:30",
-   "headline": "Trump ka BBC par $10bn case chalega",
-   "detail": "Florida ke judge ne Trump ke BBC ke khilaf $10 billion ke maan-hani case ko aage badhne diya, lekin trade-practices wala daava kharij kar diya; faisla BBC ki zimmedari tay nahi karta, sirf case chalega.",
-   "category": "World",
-   "exam_angle": "Media ki zimmedari aur maan-hani kanoon — media ethics ke liye mahatvapurna.",
-   "source": "Reuters",
-   "source_url": "https://www.reuters.com/legal/government/us-judge-says-trumps-10-billion-bbc-defamation-case-can-proceed-2026-11-10/",
-   "genuineness": "verified",
-   "outlets": [
-    "Reuters",
-    "Khaama Press",
-    "Blue News Network"
-   ],
-   "image": null,
-   "image_credit": null
-  },
-  {
-   "id": "world-20261111-1822-01",
-   "published_ist": "2026-11-11T04:44:00+05:30",
-   "headline": "Congo me Ebola: 11,000 se zyada case",
-   "detail": "Congo sarkar ke naye aankdon me Bundibugyo Ebola ke 11,042 case aur 5,387 mautein darj hain; 26 me se 8 praanton me faila prakop ab tak ka doosra sabse bada hai.",
-   "category": "World",
-   "exam_angle": "Ebola prakop aur WHO ki bhoomika — swasthya aur antarrashtriya sangathan ke liye mahatvapurna.",
-   "source": "Reuters",
-   "source_url": "https://www.reuters.com/business/healthcare-pharmaceuticals/congos-ebola-cases-surpass-11000-government-data-show-2026-11-10/",
-   "genuineness": "verified",
-   "outlets": [
-    "Reuters",
-    "Associated Press",
-    "Outlook India"
    ],
    "image": null,
    "image_credit": null
