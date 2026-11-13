@@ -1,6 +1,62 @@
 {
-  "updated_ist": "2026-11-13T17:22:00+05:30",
+  "updated_ist": "2026-11-13T18:26:51+05:30",
   "items": [
+    {
+      "id": "world-20261113-1822-01",
+      "published_ist": "2026-11-13T16:03:00+05:30",
+      "headline": "Indonesia ke up-rashtrapati Gibran ne istifa diya",
+      "detail": "Shiksha yogyata par sawal aur mahabhiyog ke dabav ke beech Gibran Rakabuming Raka ne istifa de diya; sansad 2 December ko naye up-rashtrapati ka chunaav karegi.",
+      "category": "World",
+      "exam_angle": "Indonesia, up-rashtrapati chunaav aur samvaidhanik prakriya — antarrashtriya rajneeti ke liye mahatvapurna.",
+      "source": "Reuters",
+      "source_url": "https://www.reuters.com/world/asia-pacific/indonesias-upper-house-pick-new-vice-president-december-2-its-speaker-says-2026-11-13/",
+      "genuineness": "verified",
+      "outlets": [
+        "Reuters",
+        "Moneycontrol",
+        "South China Morning Post",
+        "Outlook India"
+      ],
+      "image": "../images/world/world-20261113-1822-01.jpg",
+      "image_credit": "Darwis Triadi & Ministry of State Secretariat, Wikimedia Commons (Public domain)"
+    },
+    {
+      "id": "world-20261113-1822-02",
+      "published_ist": "2026-11-13T17:21:00+05:30",
+      "headline": "Iran ne IAEA ko kaha: nirikshan abhi nahi",
+      "detail": "Iran ne UN parmanu agency ko bataya ki America ke hamle ki dhamki ke beech parmanu nirikshan par baat-cheet nahi ho sakti; IAEA ne uranium bhandar ki sthiti ki jaankari na milne par chinta jatayi.",
+      "category": "World",
+      "exam_angle": "IAEA, parmanu nigrani aur Iran — antarrashtriya sangathan aur suraksha ke liye mahatvapurna.",
+      "source": "Al Jazeera",
+      "source_url": "https://www.aljazeera.com/news/2026/11/13/un-watchdog-calls-on-iran-to-reopen-nuclear-facilities-to-inspection",
+      "genuineness": "verified",
+      "outlets": [
+        "Associated Press",
+        "Al Jazeera",
+        "Times of Israel",
+        "The Times of India"
+      ],
+      "image": "../images/world/world-20261113-1822-02.jpg",
+      "image_credit": "IAEA Imagebank, Wikimedia Commons (CC BY 2.0)"
+    },
+    {
+      "id": "world-20261113-1822-03",
+      "published_ist": "2026-11-13T15:23:00+05:30",
+      "headline": "Norway court ne teen tel licence radd kiye",
+      "detail": "Norway ki Supreme Court ne Tyrving, Breidablikk aur Yggdrasil kshetron ke teen tel licence avaidh kar diye, kyunki tel jalane se hone wale utsarjan ka aaklan nahi hua tha; tel utpadan par turant asar nahi padega.",
+      "category": "World",
+      "exam_angle": "Jalvayu mukadma, Scope 3 utsarjan aur Norway ki tel neeti — paryavaran aur antarrashtriya kanoon ke liye mahatvapurna.",
+      "source": "Reuters",
+      "source_url": "https://www.reuters.com/sustainability/climate-energy/norway-supreme-court-rules-against-government-oilfields-case-output-unaffected-2026-11-13/",
+      "genuineness": "verified",
+      "outlets": [
+        "Reuters",
+        "Moneycontrol",
+        "Sweden Herald"
+      ],
+      "image": "../images/world/world-20261113-1822-03.jpg",
+      "image_credit": "Gary Bembridge, Wikimedia Commons (CC BY 2.0)"
+    },
     {
       "id": "world-20261113-1722-01",
       "published_ist": "2026-11-13T15:54:00+05:30",
@@ -36,25 +92,6 @@
       "image_credit": null
     },
     {
-      "id": "world-20261113-1622-01",
-      "published_ist": "2026-11-12T19:49:00+05:30",
-      "headline": "Nvidia CEO Jensen Huang ne istifa diya",
-      "detail": "33 saal se Nvidia chala rahe Huang ne turant prabhav se istifa de diya; CFO Colette Kress antarim CEO bani aur board sthayi CEO ki talaash karega — company ne istife ka kaaran nahi bataya.",
-      "category": "World",
-      "exam_angle": "AI chip udyog aur corporate netritva — arthvyavastha aur takneek ke liye mahatvapurna.",
-      "source": "USA Today",
-      "source_url": "https://www.usatoday.com/story/tech/2026/11/12/jensen-huang-nvidia-ceo-resigns-affair-investigation/92734431007/",
-      "genuineness": "verified",
-      "outlets": [
-        "USA Today",
-        "The Economic Times",
-        "The Indian Express",
-        "Barron's"
-      ],
-      "image": "../images/world/world-20261113-1622-01.jpg",
-      "image_credit": "Anderseidesvik, Wikimedia Commons (CC BY-SA 4.0)"
-    },
-    {
       "id": "world-20261113-1622-02",
       "published_ist": "2026-11-13T06:28:00+05:30",
       "headline": "America ne Japan se sainik kharch teen guna manga",
@@ -85,25 +122,6 @@
         "The Hindu",
         "The New Indian Express",
         "Business Recorder"
-      ],
-      "image": null,
-      "image_credit": null
-    },
-    {
-      "id": "world-20261113-1522-01",
-      "published_ist": "2026-11-12T18:30:00+05:30",
-      "headline": "Washington gym goli: 1 ki maut, 4 ghayal",
-      "detail": "Logan Circle ke Vida Fitness gym me 55 saal ke doctor Matt Lambert ne building manager James Stuart ko goli maar di, phir apne flat se 4 logon ko ghayal kiya aur khud ko goli maar li; vivaad building ki marammat ko lekar tha.",
-      "category": "World",
-      "exam_angle": "America me banduk hinsa aur kanoon-vyavastha — antarrashtriya suraksha ke liye mahatvapurna.",
-      "source": "USA Today",
-      "source_url": "https://www.usatoday.com/story/news/crime/2026/11/12/dc-active-shooting-logan-circle-gym/92739486007/",
-      "genuineness": "verified",
-      "outlets": [
-        "USA Today",
-        "The Wall Street Journal",
-        "The Times",
-        "The New Indian Express"
       ],
       "image": null,
       "image_credit": null
@@ -414,24 +432,6 @@
         "Reuters",
         "BBC",
         "The Times of Israel"
-      ],
-      "image": null,
-      "image_credit": null
-    },
-    {
-      "id": "world-20261113-1127-01",
-      "published_ist": "2026-11-13T01:26:00+05:30",
-      "headline": "Putin: Europe bhi Ukraine vaarta me shamil",
-      "detail": "America ke doot Steve Witkoff ke mutabik, Putin ne agle daur ki Ukraine shaanti vaarta me Europe ke pratinidhiyon ko shamil karne par sahamati di — lekin Kremlin ke sahayak Ushakov ne iski pushti nahi ki; Abu Dhabi vaarta me bade kaidi adla-badli par bhi sahamati bani.",
-      "category": "World",
-      "exam_angle": "Ukraine shaanti vaarta me Europe ki bhoomika aur vaishvik shakti santulan — antarrashtriya sambandh ke liye mahatvapurna.",
-      "source": "The Straits Times",
-      "source_url": "https://www.straitstimes.com/world/europe/putin-lets-europe-join-ukraine-peace-talks-as-kyiv-says-starshield-disrupted-again?ref=top-stories",
-      "genuineness": "verified",
-      "outlets": [
-        "Reuters",
-        "Associated Press",
-        "The Straits Times"
       ],
       "image": null,
       "image_credit": null
