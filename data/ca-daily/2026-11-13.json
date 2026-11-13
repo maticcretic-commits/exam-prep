@@ -142,6 +142,76 @@
     ],
     "answer_index": 1
    }
+  },
+  {
+   "episode": 115,
+   "video_hi": "rQ0eZl8NglI",
+   "video_hinglish": "rQ0eZl8NglI",
+   "capsules": [
+    {
+     "id": "ca-ep115-s1",
+     "headline_hi": "Delhi ki hawa severe, AQI 418",
+     "headline_hinglish": "Delhi ki hawa severe, AQI 418",
+     "detail_hi": "Subah Delhi mein hawa 'severe' category mein rahi, AIIMS ke paas AQI 418 aur Rajokri mein 402 darj hua.",
+     "detail_hinglish": "Subah Delhi mein hawa 'severe' category mein rahi, AIIMS ke paas AQI 418 aur Rajokri mein 402 darj hua.",
+     "category_hi": "Environment",
+     "category_en": "Environment"
+    },
+    {
+     "id": "ca-ep115-s2",
+     "headline_hi": "ISRO ne PSLV third stage test kiya",
+     "headline_hinglish": "ISRO ne PSLV third stage test kiya",
+     "detail_hi": "ISRO ne Sriharikota mein PSLV ke third stage PS3 ka ground static test safal roop se poora kiya.",
+     "detail_hinglish": "ISRO ne Sriharikota mein PSLV ke third stage PS3 ka ground static test safal roop se poora kiya.",
+     "category_hi": "Science",
+     "category_en": "National"
+    },
+    {
+     "id": "ca-ep115-s3",
+     "headline_hi": "Patna ke 200 crore municipal bonds",
+     "headline_hinglish": "Patna ke 200 crore municipal bonds",
+     "detail_hi": "Patna Municipal Corporation ne NSE par 200 crore rupaye ke municipal bonds list kiye, Bihar mein pehli baar.",
+     "detail_hinglish": "Patna Municipal Corporation ne NSE par 200 crore rupaye ke municipal bonds list kiye, Bihar mein pehli baar.",
+     "category_hi": "Economy",
+     "category_en": "Economy"
+    },
+    {
+     "id": "ca-ep115-s4",
+     "headline_hi": "China border par nayi sadkein, ITBP",
+     "headline_hinglish": "China border par nayi sadkein, ITBP",
+     "detail_hi": "Arunachal Pradesh mein China border par ITBP ne nayi sadkein aur border infrastructure ke nirman ko hari jhandi di.",
+     "detail_hinglish": "Arunachal Pradesh mein China border par ITBP ne nayi sadkein aur border infrastructure ke nirman ko hari jhandi di.",
+     "category_hi": "Defence",
+     "category_en": "Defence"
+    },
+    {
+     "id": "ca-ep115-s5",
+     "headline_hi": "India-EU FTA game changer banega",
+     "headline_hinglish": "India-EU FTA game changer banega",
+     "detail_hi": "German envoy ne kaha India-EU Free Trade Agreement game changer sabit hoga, vyapaar aur nivesh badhega.",
+     "detail_hinglish": "German envoy ne kaha India-EU Free Trade Agreement game changer sabit hoga, vyapaar aur nivesh badhega.",
+     "category_hi": "International",
+     "category_en": "National"
+    }
+   ],
+   "mcq": {
+    "id": "ca-ep115-mcq",
+    "q_hi": "Patna Municipal Corporation ne NSE par kitne crore ke municipal bonds list kiye?",
+    "q_hinglish": "Patna Municipal Corporation ne NSE par kitne crore ke municipal bonds list kiye?",
+    "options_hi": [
+     "100 crore",
+     "150 crore",
+     "200 crore",
+     "250 crore"
+    ],
+    "options_hinglish": [
+     "100 crore",
+     "150 crore",
+     "200 crore",
+     "250 crore"
+    ],
+    "answer_index": 2
+   }
   }
  ]
 }
