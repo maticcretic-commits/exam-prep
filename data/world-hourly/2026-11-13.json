@@ -1,6 +1,6 @@
 {
   "date": "2026-11-13",
-  "updated_ist": "2026-11-13T15:22:00+05:30",
+  "updated_ist": "2026-11-13T16:22:00+05:30",
   "items": [
     {
       "id": "world-20261113-0622-01",
@@ -514,6 +514,60 @@
       ],
       "image": "../images/world/world-20261113-1522-02.jpg",
       "image_credit": "The Economic Times"
+    },
+    {
+      "id": "world-20261113-1622-01",
+      "published_ist": "2026-11-12T19:49:00+05:30",
+      "headline": "Nvidia CEO Jensen Huang ne istifa diya",
+      "detail": "33 saal se Nvidia chala rahe Huang ne turant prabhav se istifa de diya; CFO Colette Kress antarim CEO bani aur board sthayi CEO ki talaash karega — company ne istife ka kaaran nahi bataya.",
+      "category": "World",
+      "exam_angle": "AI chip udyog aur corporate netritva — arthvyavastha aur takneek ke liye mahatvapurna.",
+      "source": "USA Today",
+      "source_url": "https://www.usatoday.com/story/tech/2026/11/12/jensen-huang-nvidia-ceo-resigns-affair-investigation/92734431007/",
+      "genuineness": "verified",
+      "outlets": [
+        "USA Today",
+        "The Economic Times",
+        "The Indian Express",
+        "Barron's"
+      ],
+      "image": "../images/world/world-20261113-1622-01.jpg",
+      "image_credit": "Anderseidesvik, Wikimedia Commons (CC BY-SA 4.0)"
+    },
+    {
+      "id": "world-20261113-1622-02",
+      "published_ist": "2026-11-13T06:28:00+05:30",
+      "headline": "America ne Japan se sainik kharch teen guna manga",
+      "detail": "Trump prashasan ne 2027 se paanch saal ke liye sainikon ki mejbani par 3 trillion yen (lagbhag $19 arab) ki maang ki; Japan lagbhag aadha, 1.5 trillion yen, dene par vichaar kar raha hai.",
+      "category": "World",
+      "exam_angle": "America-Japan suraksha gathbandhan aur raksha kharch — antarrashtriya sambandhon ke liye mahatvapurna.",
+      "source": "Kyodo News",
+      "source_url": "https://english.kyodonews.net/articles/-/91235",
+      "genuineness": "corroborated",
+      "outlets": [
+        "Kyodo News",
+        "South China Morning Post"
+      ],
+      "image": null,
+      "image_credit": null
+    },
+    {
+      "id": "world-20261113-1622-03",
+      "published_ist": "2026-11-13T12:43:00+05:30",
+      "headline": "Pakistan: chhaapon me 74 aatankvadi mare gaye",
+      "detail": "Pakistan sena ne Balochistan aur Khyber Pakhtunkhwa me 3 November se chale abhiyaanon me 74 aatankvadiyon ko maarne ka daava kiya; hathiyaar aur visfotak bhi baramad hue.",
+      "category": "World",
+      "exam_angle": "Pakistan me aatankvaad-virodhi abhiyaan — padosi deshon ki suraksha ke liye mahatvapurna.",
+      "source": "The Hindu",
+      "source_url": "https://www.thehindu.com/news/international/74-terrorists-killed-in-multiple-operations-pakistani-army/article71696886.ece",
+      "genuineness": "verified",
+      "outlets": [
+        "The Hindu",
+        "The New Indian Express",
+        "Business Recorder"
+      ],
+      "image": null,
+      "image_credit": null
     }
   ]
 }
