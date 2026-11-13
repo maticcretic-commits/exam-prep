@@ -1,60 +1,55 @@
 {
-  "updated_ist": "2026-11-13T10:29:22+05:30",
+  "updated_ist": "2026-11-13T11:27:59+05:30",
   "items": [
     {
-      "id": "world-20261113-1022-01",
-      "published_ist": "2026-11-13T04:22:00+05:30",
-      "headline": "Kansas governor chunaav: Democrat Holscher jeeti",
-      "detail": "Democrat Cindy Holscher ne Kansas ke governor chunaav me Republican Ty Masterson ko haraya; AP ne guruvaar ko jeet ki ghoshna ki — Holscher ne naye data centre par asthayi rok ka wada kiya tha.",
+      "id": "world-20261113-1127-02",
+      "published_ist": "2026-11-13T10:24:00+05:30",
+      "headline": "Japan PM Takaichi pehli baar China jayengi",
+      "detail": "Japan ki PM Sanae Takaichi 16–19 November ko Philippines aur China jayengi — Shenzhen me APEC shikhar sammelan me hissa lengi; PM banne ke baad unki pehli China yatra hai, Taiwan par unke bayan ke baad se dono deshon ke rishte tanav me hain.",
       "category": "World",
-      "exam_angle": "America ke midterm chunav aur rajyon me satta santulan — antarrashtriya rajneeti ke liye mahatvapurna.",
-      "source": "NPR Illinois",
-      "source_url": "https://www.nprillinois.org/2026-11-12/cindy-holscher-wins-in-kansas-holding-governors-office-for-democrats",
-      "genuineness": "verified",
+      "exam_angle": "Japan-China sambandh aur APEC — antarrashtriya sambandh ke liye mahatvapurna.",
+      "source": "Channel NewsAsia",
+      "source_url": "https://www.channelnewsasia.com/east-asia/japan-sanae-takaichi-first-china-trip-apec-summit-6548471",
+      "genuineness": "corroborated",
       "outlets": [
-        "Associated Press",
-        "NPR",
-        "La Nacion",
-        "The Manila Times"
-      ],
-      "image": "../images/world/world-20261113-1022-01.jpg",
-      "image_credit": "NPR Illinois"
-    },
-    {
-      "id": "world-20261113-1022-02",
-      "published_ist": "2026-11-13T03:48:00+05:30",
-      "headline": "Dark web par vaishvik chhapa: 354 giraftaar",
-      "detail": "Operation TorNado me 14 deshon ki police ne dark web par nasha bechne walon par chhapa mara — 354 giraftaariyan, 5.7 tonne nasha aur $234 million ki sampatti jabt; sabse zyada giraftaariyan America (132) aur Britain (59) me hui.",
-      "category": "World",
-      "exam_angle": "Dark web, fentanyl aur cyber-apradh ke khilaf vaishvik karwai — antarrashtriya suraksha aur cyber-apradh ke liye ahem.",
-      "source": "The Straits Times",
-      "source_url": "https://www.straitstimes.com/world/europe/global-police-crackdown-on-dark-web-nets-350-arrests?ref=top-stories",
-      "genuineness": "verified",
-      "outlets": [
-        "FBI",
-        "The Straits Times",
-        "Malay Mail",
-        "The Manila Times",
-        "Bangkok Post"
+        "AFP",
+        "Lianhe Zaobao"
       ],
       "image": null,
       "image_credit": null
     },
     {
-      "id": "world-20261113-1022-03",
-      "published_ist": "2026-11-12T19:29:00+05:30",
-      "headline": "French frigate Surcouf pehli baar Syria pahuncha",
-      "detail": "France ka frigate Surcouf Syria ke Latakia bandargah par pahuncha — Syria me French yuddhpot ki pehli yatra; 12 November ko dono deshon ke nausena adhikariyon ne samudri sahyog badhane par baatchit ki.",
+      "id": "world-20261113-1127-03",
+      "published_ist": "2026-11-13T09:38:00+05:30",
+      "headline": "Iran ka daava: Bahrain me US radar nishana",
+      "detail": "Iran ke Revolutionary Guards ne daava kiya ki unhone Bahrain me America ke early-warning radar ko nishana banaya — Sirik me telecom tower par hawai hamle ka badla bataya; America ya Bahrain ki taraf se abhi koi pushti nahi aayi.",
       "category": "World",
-      "exam_angle": "Syria-France sainya sahyog aur West Asia me badalta shakti santulan — antarrashtriya sambandh ke liye mahatvapurna.",
-      "source": "Arab News",
-      "source_url": "https://www.arabnews.com/middle-east/france-syria-boost-naval-ties-with-historic-frigate-visit-3011464",
+      "exam_angle": "Hormuz aur West Asia me America-Iran tanav — antarrashtriya suraksha ke liye mahatvapurna.",
+      "source": "Reuters",
+      "source_url": "https://www.reuters.com/world/middle-east/irans-guards-say-they-targeted-us-early-warning-radar-bahrain-2026-11-13/",
+      "genuineness": "corroborated",
+      "outlets": [
+        "Reuters",
+        "Tasnim"
+      ],
+      "image": null,
+      "image_credit": null
+    },
+    {
+      "id": "world-20261113-0822-01",
+      "published_ist": "2026-11-13T07:54:00+05:30",
+      "headline": "Microsoft 365 thap: Outlook-Teams ghanton band",
+      "detail": "Guruvaar ko Microsoft 365 me badi kharabi se Outlook, Teams aur Copilot ghanton band rahe — 74 deshon me asar, Downdetector par 1.38 lakh shikayatein; Microsoft ne kaha server bahaal ho rahe hain, karan ki jaanch jaari hai.",
+      "category": "World",
+      "exam_angle": null,
+      "source": "Malay Mail",
+      "source_url": "https://www.malaymail.com/news/tech-gadgets/2026/11/13/microsoft-scrambles-aggressively-as-widespread-outage-hits-outlook-teams-and-copilot-worldwide/243054",
       "genuineness": "verified",
       "outlets": [
-        "The Jerusalem Post",
-        "Arab News",
-        "Enab Baladi",
-        "MENAFN"
+        "Malay Mail",
+        "Korea Times",
+        "Republic World",
+        "HCA Mag"
       ],
       "image": null,
       "image_credit": null
@@ -78,25 +73,6 @@
       ],
       "image": "../images/world/world-20261113-0922-01.jpg",
       "image_credit": "Reuters via GMA Network"
-    },
-    {
-      "id": "world-20261113-0822-01",
-      "published_ist": "2026-11-13T07:54:00+05:30",
-      "headline": "Microsoft 365 thap: Outlook-Teams ghanton band",
-      "detail": "Guruvaar ko Microsoft 365 me badi kharabi se Outlook, Teams aur Copilot ghanton band rahe — 74 deshon me asar, Downdetector par 1.38 lakh shikayatein; Microsoft ne kaha server bahaal ho rahe hain, karan ki jaanch jaari hai.",
-      "category": "World",
-      "exam_angle": null,
-      "source": "Malay Mail",
-      "source_url": "https://www.malaymail.com/news/tech-gadgets/2026/11/13/microsoft-scrambles-aggressively-as-widespread-outage-hits-outlook-teams-and-copilot-worldwide/243054",
-      "genuineness": "verified",
-      "outlets": [
-        "Malay Mail",
-        "Korea Times",
-        "Republic World",
-        "HCA Mag"
-      ],
-      "image": null,
-      "image_credit": null
     },
     {
       "id": "world-20261113-0822-02",
@@ -156,6 +132,62 @@
       "image_credit": "Al Jazeera"
     },
     {
+      "id": "world-20261113-1127-04",
+      "published_ist": "2026-11-13T05:02:00+05:30",
+      "headline": "Moscow par raat bhar drone hamla, udanein thap",
+      "detail": "Moscow ke mayor ke mutabik raat 9:34 se subah 2:08 ke beech 100 se zyada drone roke gaye; Sheremetyevo, Domodedovo aur Zhukovsky hawai addon par udanein roki gayin; nuksan ya hatahat ki koi pushti nahi.",
+      "category": "World",
+      "exam_angle": "Russia-Ukraine yuddh me drone yuddh aur nagrik havaai suraksha — antarrashtriya suraksha ke liye ahem.",
+      "source": "Kyiv Independent",
+      "source_url": "https://kyivindependent.com/mass-drone-attack-on-moscow-grounds-flights-at-regions-airports/",
+      "genuineness": "corroborated",
+      "outlets": [
+        "Kyiv Independent",
+        "Izvestia"
+      ],
+      "image": null,
+      "image_credit": null
+    },
+    {
+      "id": "world-20261113-1022-01",
+      "published_ist": "2026-11-13T04:22:00+05:30",
+      "headline": "Kansas governor chunaav: Democrat Holscher jeeti",
+      "detail": "Democrat Cindy Holscher ne Kansas ke governor chunaav me Republican Ty Masterson ko haraya; AP ne guruvaar ko jeet ki ghoshna ki — Holscher ne naye data centre par asthayi rok ka wada kiya tha.",
+      "category": "World",
+      "exam_angle": "America ke midterm chunav aur rajyon me satta santulan — antarrashtriya rajneeti ke liye mahatvapurna.",
+      "source": "NPR Illinois",
+      "source_url": "https://www.nprillinois.org/2026-11-12/cindy-holscher-wins-in-kansas-holding-governors-office-for-democrats",
+      "genuineness": "verified",
+      "outlets": [
+        "Associated Press",
+        "NPR",
+        "La Nacion",
+        "The Manila Times"
+      ],
+      "image": "../images/world/world-20261113-1022-01.jpg",
+      "image_credit": "NPR Illinois"
+    },
+    {
+      "id": "world-20261113-1022-02",
+      "published_ist": "2026-11-13T03:48:00+05:30",
+      "headline": "Dark web par vaishvik chhapa: 354 giraftaar",
+      "detail": "Operation TorNado me 14 deshon ki police ne dark web par nasha bechne walon par chhapa mara — 354 giraftaariyan, 5.7 tonne nasha aur $234 million ki sampatti jabt; sabse zyada giraftaariyan America (132) aur Britain (59) me hui.",
+      "category": "World",
+      "exam_angle": "Dark web, fentanyl aur cyber-apradh ke khilaf vaishvik karwai — antarrashtriya suraksha aur cyber-apradh ke liye ahem.",
+      "source": "The Straits Times",
+      "source_url": "https://www.straitstimes.com/world/europe/global-police-crackdown-on-dark-web-nets-350-arrests?ref=top-stories",
+      "genuineness": "verified",
+      "outlets": [
+        "FBI",
+        "The Straits Times",
+        "Malay Mail",
+        "The Manila Times",
+        "Bangkok Post"
+      ],
+      "image": null,
+      "image_credit": null
+    },
+    {
       "id": "world-20261113-0622-01",
       "published_ist": "2026-11-13T03:32:00+05:30",
       "headline": "Italy: doosre din bhi farzi bomb dhamki",
@@ -169,6 +201,24 @@
         "Reuters",
         "BBC",
         "The Times of Israel"
+      ],
+      "image": null,
+      "image_credit": null
+    },
+    {
+      "id": "world-20261113-1127-01",
+      "published_ist": "2026-11-13T01:26:00+05:30",
+      "headline": "Putin: Europe bhi Ukraine vaarta me shamil",
+      "detail": "America ke doot Steve Witkoff ke mutabik, Putin ne agle daur ki Ukraine shaanti vaarta me Europe ke pratinidhiyon ko shamil karne par sahamati di — lekin Kremlin ke sahayak Ushakov ne iski pushti nahi ki; Abu Dhabi vaarta me bade kaidi adla-badli par bhi sahamati bani.",
+      "category": "World",
+      "exam_angle": "Ukraine shaanti vaarta me Europe ki bhoomika aur vaishvik shakti santulan — antarrashtriya sambandh ke liye mahatvapurna.",
+      "source": "The Straits Times",
+      "source_url": "https://www.straitstimes.com/world/europe/putin-lets-europe-join-ukraine-peace-talks-as-kyiv-says-starshield-disrupted-again?ref=top-stories",
+      "genuineness": "verified",
+      "outlets": [
+        "Reuters",
+        "Associated Press",
+        "The Straits Times"
       ],
       "image": null,
       "image_credit": null
@@ -246,6 +296,25 @@
       ],
       "image": "../images/world/world-20261112-2129-01.jpg",
       "image_credit": "Anderseidesvik, Wikimedia Commons (CC BY-SA 4.0)"
+    },
+    {
+      "id": "world-20261113-1022-03",
+      "published_ist": "2026-11-12T19:29:00+05:30",
+      "headline": "French frigate Surcouf pehli baar Syria pahuncha",
+      "detail": "France ka frigate Surcouf Syria ke Latakia bandargah par pahuncha — Syria me French yuddhpot ki pehli yatra; 12 November ko dono deshon ke nausena adhikariyon ne samudri sahyog badhane par baatchit ki.",
+      "category": "World",
+      "exam_angle": "Syria-France sainya sahyog aur West Asia me badalta shakti santulan — antarrashtriya sambandh ke liye mahatvapurna.",
+      "source": "Arab News",
+      "source_url": "https://www.arabnews.com/middle-east/france-syria-boost-naval-ties-with-historic-frigate-visit-3011464",
+      "genuineness": "verified",
+      "outlets": [
+        "The Jerusalem Post",
+        "Arab News",
+        "Enab Baladi",
+        "MENAFN"
+      ],
+      "image": null,
+      "image_credit": null
     },
     {
       "id": "world-20261113-0722-02",
@@ -373,43 +442,6 @@
         "The Himalayan Times",
         "MyRepublica",
         "Deccan Herald"
-      ],
-      "image": null,
-      "image_credit": null
-    },
-    {
-      "id": "world-20261112-2222-01",
-      "published_ist": "2026-11-12T12:08:00+05:30",
-      "headline": "Indonesia: uprashtrapati Gibran ne istifa diya",
-      "detail": "Degree vivad ke beech Gibran Rakabuming Raka ne sansad ko istifa saunpa; Rashtrapati Prabowo ne bhari mann se manzoori de di.",
-      "category": "World",
-      "exam_angle": "Indonesia — samvidhanik uttaradhikar aur chunaav yogyata ka mudda.",
-      "source": "Al Jazeera",
-      "source_url": "https://www.aljazeera.com/news/2026/11/12/indonesia-vice-president-resigns-amid-dispute-over-eligibility?traffic_source=rss",
-      "genuineness": "verified",
-      "outlets": [
-        "Al Jazeera",
-        "SCMP",
-        "The Straits Times",
-        "Business Times"
-      ],
-      "image": "../images/world/world-20261112-2222-01.jpg",
-      "image_credit": "Darwis Triadi & Ministry of State Secretariat, Wikimedia Commons (Public domain)"
-    },
-    {
-      "id": "world-20261112-2222-02",
-      "published_ist": "2026-11-12T10:30:00+05:30",
-      "headline": "Mecca ke paas Houthi missile ka malba gira",
-      "detail": "Saudi hawai raksha ne Mecca ki taraf aaye 2 Houthi ballistic missile giraye; malba Grand Mosque se 21-35 km door gira, koi hataahat nahi.",
-      "category": "World",
-      "exam_angle": "West Asia sangharsh — Houthi-Saudi takraav aur pavitra sthalon ki suraksha.",
-      "source": "The Straits Times",
-      "source_url": "https://www.straitstimes.com/world/middle-east/saudi-arabia-says-debris-from-intercepted-missiles-falls-in-mecca-region?ref=latest",
-      "genuineness": "corroborated",
-      "outlets": [
-        "Reuters",
-        "Al-Monitor",
-        "Saudi Civil Defence"
       ],
       "image": null,
       "image_credit": null
