@@ -1,6 +1,44 @@
 {
-  "updated_ist": "2026-11-13T18:26:51+05:30",
+  "updated_ist": "2026-11-13T19:27:29+05:30",
   "items": [
+    {
+      "id": "world-20261113-1922-01",
+      "published_ist": "2026-11-13T18:20:00+05:30",
+      "headline": "Guinea: khanan pratibandh par jhadap, 10 ki maut",
+      "detail": "Budhvaar ko Siguiri kshetra me pratibandh ki jaanch ke dauraan suraksha balon se jhadap me 10 log mare gaye, jinme paanch videshi nagrik shamil hain; 13 ghayal hue.",
+      "category": "World",
+      "exam_angle": "Paschim Africa me sonaa khanan, paryavaran aur pravasi shramik — vikas aur antarrashtriya sambandh ke liye mahatvapurna.",
+      "source": "Reuters",
+      "source_url": "https://www.reuters.com/world/africa/10-killed-clashes-guinea-after-artisanal-mining-ban-2026-11-13/",
+      "genuineness": "verified",
+      "outlets": [
+        "Reuters",
+        "Seneweb",
+        "The Citizen"
+      ],
+      "image": "../images/world/world-20261113-1922-01.jpg",
+      "image_credit": "darrylkeith, Wikimedia Commons (CC BY-SA 3.0)"
+    },
+    {
+      "id": "world-20261113-1922-02",
+      "published_ist": "2026-11-13T17:36:00+05:30",
+      "headline": "Russia ne Finland ko NATO chhodne ko kaha",
+      "detail": "German akhbaar Bild ki report ke mutabik Abu Dhabi vaarta me Russia ne Finland se NATO chhodne aur Baltic deshon me NATO adde par rok ki maang rakhi; Kremlin ke pravakta Peskov ne is daave se inkaar kiya.",
+      "category": "World",
+      "exam_angle": "NATO vistar aur Europe ki suraksha vyavastha — antarrashtriya sambandh ke liye mahatvapurna.",
+      "source": "Al Jazeera",
+      "source_url": "https://www.aljazeera.com/news/2026/11/13/why-is-ukraine-attacking-russian-warships-in-the-baltic-sea-amid-talks",
+      "genuineness": "verified",
+      "outlets": [
+        "Al Jazeera",
+        "Interfax-Ukraine",
+        "Times Now",
+        "Kyiv Post",
+        "APA"
+      ],
+      "image": "../images/world/world-20261113-1922-02.jpg",
+      "image_credit": "Rory Arnold / No 10 Downing Street, Wikimedia Commons (CC BY 2.0)"
+    },
     {
       "id": "world-20261113-1822-01",
       "published_ist": "2026-11-13T16:03:00+05:30",
@@ -397,44 +435,6 @@
       ],
       "image": "../images/world/world-20261113-1022-01.jpg",
       "image_credit": "NPR Illinois"
-    },
-    {
-      "id": "world-20261113-1022-02",
-      "published_ist": "2026-11-13T03:48:00+05:30",
-      "headline": "Dark web par vaishvik chhapa: 354 giraftaar",
-      "detail": "Operation TorNado me 14 deshon ki police ne dark web par nasha bechne walon par chhapa mara — 354 giraftaariyan, 5.7 tonne nasha aur $234 million ki sampatti jabt; sabse zyada giraftaariyan America (132) aur Britain (59) me hui.",
-      "category": "World",
-      "exam_angle": "Dark web, fentanyl aur cyber-apradh ke khilaf vaishvik karwai — antarrashtriya suraksha aur cyber-apradh ke liye ahem.",
-      "source": "The Straits Times",
-      "source_url": "https://www.straitstimes.com/world/europe/global-police-crackdown-on-dark-web-nets-350-arrests?ref=top-stories",
-      "genuineness": "verified",
-      "outlets": [
-        "FBI",
-        "The Straits Times",
-        "Malay Mail",
-        "The Manila Times",
-        "Bangkok Post"
-      ],
-      "image": null,
-      "image_credit": null
-    },
-    {
-      "id": "world-20261113-0622-01",
-      "published_ist": "2026-11-13T03:32:00+05:30",
-      "headline": "Italy: doosre din bhi farzi bomb dhamki",
-      "detail": "Italy me guruvaar ko bhi 3,778 schoolon ko email se farzi bomb dhamki mili — budhwar ko 6,300 school prabhavit hue the; sirf 77 school khaali karaye gaye, kahin visfotak nahi mila; sarkar ne naya protocol jaari kiya.",
-      "category": "World",
-      "exam_angle": "Europe me hybrid warfare aur cyber-suraksha — antarrashtriya suraksha ke liye mahatvapurna.",
-      "source": "The Straits Times",
-      "source_url": "https://www.straitstimes.com/world/europe/italys-meloni-seeks-to-curb-hoax-bomb-evacuations",
-      "genuineness": "verified",
-      "outlets": [
-        "Reuters",
-        "BBC",
-        "The Times of Israel"
-      ],
-      "image": null,
-      "image_credit": null
     }
   ]
 }
