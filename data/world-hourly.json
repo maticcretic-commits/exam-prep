@@ -1,76 +1,57 @@
 {
-  "updated_ist": "2026-11-12T22:29:00+05:30",
+  "updated_ist": "2026-11-13T06:22:00+05:30",
   "items": [
     {
-      "id": "world-20261112-2222-01",
-      "published_ist": "2026-11-12T12:08:00+05:30",
-      "headline": "Indonesia: uprashtrapati Gibran ne istifa diya",
-      "detail": "Degree vivad ke beech Gibran Rakabuming Raka ne sansad ko istifa saunpa; Rashtrapati Prabowo ne bhari mann se manzoori de di.",
+      "id": "world-20261113-0622-01",
+      "published_ist": "2026-11-13T03:32:00+05:30",
+      "headline": "Italy: doosre din bhi farzi bomb dhamki",
+      "detail": "Italy me guruvaar ko bhi 3,778 schoolon ko email se farzi bomb dhamki mili — budhwar ko 6,300 school prabhavit hue the; sirf 77 school khaali karaye gaye, kahin visfotak nahi mila; sarkar ne naya protocol jaari kiya.",
       "category": "World",
-      "exam_angle": "Indonesia — samvidhanik uttaradhikar aur chunaav yogyata ka mudda.",
-      "source": "Al Jazeera",
-      "source_url": "https://www.aljazeera.com/news/2026/11/12/indonesia-vice-president-resigns-amid-dispute-over-eligibility?traffic_source=rss",
+      "exam_angle": "Europe me hybrid warfare aur cyber-suraksha — antarrashtriya suraksha ke liye mahatvapurna.",
+      "source": "The Straits Times",
+      "source_url": "https://www.straitstimes.com/world/europe/italys-meloni-seeks-to-curb-hoax-bomb-evacuations",
       "genuineness": "verified",
       "outlets": [
-        "Al Jazeera",
-        "SCMP",
-        "The Straits Times",
-        "Business Times"
-      ],
-      "image": "../images/world/world-20261112-2222-01.jpg",
-      "image_credit": "Darwis Triadi & Ministry of State Secretariat, Wikimedia Commons (Public domain)"
-    },
-    {
-      "id": "world-20261112-2222-02",
-      "published_ist": "2026-11-12T10:30:00+05:30",
-      "headline": "Mecca ke paas Houthi missile ka malba gira",
-      "detail": "Saudi hawai raksha ne Mecca ki taraf aaye 2 Houthi ballistic missile giraye; malba Grand Mosque se 21-35 km door gira, koi hataahat nahi.",
-      "category": "World",
-      "exam_angle": "West Asia sangharsh — Houthi-Saudi takraav aur pavitra sthalon ki suraksha.",
-      "source": "The Straits Times",
-      "source_url": "https://www.straitstimes.com/world/middle-east/saudi-arabia-says-debris-from-intercepted-missiles-falls-in-mecca-region?ref=latest",
-      "genuineness": "corroborated",
-      "outlets": [
         "Reuters",
-        "Al-Monitor",
-        "Saudi Civil Defence"
+        "BBC",
+        "The Times of Israel"
       ],
       "image": null,
       "image_credit": null
     },
     {
-      "id": "world-20261112-2222-03",
-      "published_ist": "2026-11-12T06:20:00+05:30",
-      "headline": "Oman ke dweep par Iran ka hamla",
-      "detail": "Iran ne kaha uski nausena ne Hormuz me Oman ke Didamar dweep ke navigation system par hamla kiya; Reuters ke sutron ne hamle ki pushti ki, nuksan par Oman se matbhed hai.",
+      "id": "world-20261113-0622-02",
+      "published_ist": "2026-11-12T21:55:00+05:30",
+      "headline": "Putin: samjhauta nahi, ek sheher me yuddh-viram",
+      "detail": "Putin ne Moscow me America ke dooton Kushner aur Witkoff se milkar kaha — Ukraine par apni kattar maangein nahi chhodega, lekin Kostyantynivka sheher me chhota yuddh-viram aur manaviy mission ka prastav diya; videshi shanti-sena ko ‘yuddh jaari rakhna’ bataya, doot ab Dublin me Zelensky se milenge.",
       "category": "World",
-      "exam_angle": "Hormuz jalmarg — tel vyapaar aur samudri suraksha par asar.",
-      "source": "Fox News",
-      "source_url": "https://foxnews.com/world/iran-escalates-hormuz-claims-strike-omani-island-enemy-uses-us-military-ops",
+      "exam_angle": "Russia-Ukraine shanti vaarta aur Europe ki suraksha vyavastha — antarrashtriya sambandh ke liye mahatvapurna.",
+      "source": "Channel News Asia",
+      "source_url": "https://www.channelnewsasia.com/world/putin-russia-ukraine-war-deal-us-talks-6547041",
       "genuineness": "verified",
       "outlets": [
-        "Reuters",
-        "Fox News",
-        "Times of Israel"
+        "Agence France-Presse",
+        "Al Jazeera",
+        "The Times",
+        "Reuters"
       ],
-      "image": "../images/world/world-20261112-2222-03.jpg",
-      "image_credit": "Rainer Crummenerl, Wikimedia Commons (CC BY-SA 4.0)"
+      "image": null,
+      "image_credit": null
     },
     {
-      "id": "world-20261112-2222-04",
-      "published_ist": "2026-11-12T02:52:00+05:30",
-      "headline": "Iran ki Europe me US thikaanon ko dhamki",
-      "detail": "Suraksha pramukh Mohsen Rezaei ne kaha, America ne dobara hamla kiya to Europe ke US sainya thikaane bhi nishana banenge.",
+      "id": "world-20261113-0622-03",
+      "published_ist": "2026-11-12T21:53:00+05:30",
+      "headline": "Fujairah: truck hadse me 14 ki maut",
+      "detail": "UAE ke Fujairah me budh raat truck bekabu hokar kayi gaadiyon se takraya aur aag lag gayi — 18 car aur 5 truck shamil, 14 ki maut aur 30 ghayal hue; ghayalon me Bharat ke nagrik bhi hain.",
       "category": "World",
-      "exam_angle": "Iran-America tanav — West Asia me sainya thikaane aur yuddh ka daira.",
-      "source": "The Straits Times",
-      "source_url": "https://www.straitstimes.com/world/middle-east/iran-security-chief-threatens-to-strike-us-bases-in-europe-if-used-for-attacks?ref=latest",
+      "exam_angle": "UAE me sadak suraksha aur pravasi Bharatiya — antarrashtriya sambandh ke liye mahatvapurna.",
+      "source": "Al Jazeera",
+      "source_url": "https://www.aljazeera.com/amp/news/2026/11/12/uae-says-14-killed-30-injured-in-fujairah-traffic-accident",
       "genuineness": "verified",
       "outlets": [
-        "The Straits Times",
-        "Free Malaysia Today",
+        "Al Jazeera",
         "Gulf News",
-        "The Times"
+        "Reuters"
       ],
       "image": null,
       "image_credit": null
@@ -93,42 +74,6 @@
       ],
       "image": "../images/world/world-20261112-2129-01.jpg",
       "image_credit": "Anderseidesvik, Wikimedia Commons (CC BY-SA 4.0)"
-    },
-    {
-      "id": "world-20261112-2129-02",
-      "published_ist": "2026-11-12T13:31:00+05:30",
-      "headline": "Spain: aawas par aam hadtaal, lakhon sadak par",
-      "detail": "Spain me 14 saal baad pehli aam hadtaal — awaas ki kimton aur jeevan-yapan ke kharch ke khilaf lakhon log sadak par; Madrid me lagbhag 1.2 lakh aur Barcelona me 50,000 se zyada pradarshankari, kai jagah police se jhadap aur 115 giraftaariyan.",
-      "category": "World",
-      "exam_angle": "Europe me awaas sankat aur jan-andolan — samajik-arthik muddon aur antarrashtriya sambandh ke liye ahem.",
-      "source": "The Express Tribune",
-      "source_url": "https://tribune.com.pk/story/2639882/general-strike-over-housing-brings-out-tens-of-thousands-in-spain",
-      "genuineness": "verified",
-      "outlets": [
-        "Agence France-Presse",
-        "Al Jazeera",
-        "Reuters"
-      ],
-      "image": "../images/world/world-20261112-2129-02.jpg",
-      "image_credit": "Free Malaysia Today"
-    },
-    {
-      "id": "world-20261112-2129-04",
-      "published_ist": "2026-11-12T05:31:00+05:30",
-      "headline": "Abu Dhabi: Russia-Ukraine kaidi adla-badli par sahmat",
-      "detail": "Abu Dhabi me do din ki baatchit ke baad Russia aur Ukraine bade paimane par kaidiyon ki adla-badli par sahmat — har taraf se 1,000 se 1,500 kaidi; yuddh-viram par koi samjhauta nahi hua.",
-      "category": "World",
-      "exam_angle": "Russia-Ukraine yuddh me manaviy samjhauta aur shanti vaarta — antarrashtriya sambandh ke liye ahem.",
-      "source": "NHK World-Japan",
-      "source_url": "https://www3.nhk.or.jp/nhkworld/news/20261112de74531/",
-      "genuineness": "verified",
-      "outlets": [
-        "NHK World-Japan",
-        "Qatar Tribune",
-        "Associated Press"
-      ],
-      "image": null,
-      "image_credit": null
     },
     {
       "id": "world-20261112-2022-02",
@@ -167,23 +112,24 @@
       "image_credit": "New York Post"
     },
     {
-      "id": "world-20261112-1922-02",
-      "published_ist": "2026-11-12T07:44:00+05:30",
-      "headline": "Kyiv me drone hamla, 1 ki maut",
-      "detail": "Russia ne raat bhar Ukraine par bada hamla kiya — Kyiv me ek drone nau-manzila imarat se takraya, 44 saal ki mahila ki maut aur 7 ghayal; Russia ka kehna hai usne Kyiv ke paas missile aur drone factory ko nishana banaya.",
+      "id": "world-20261112-1522-01",
+      "published_ist": "2026-11-12T14:23:00+05:30",
+      "headline": "China: Nvidia jasusi daave America ki 'nakabandi' chaal",
+      "detail": "China ne kaha America Nvidia CEO Jensen Huang par jasusi ke aaropon ko China par takniki 'nakabandi' lagane ke bahane ke roop me istemal kar raha hai; Beijing ne aaropon ko be-buniyad batakar khariz kiya, jabki Nvidia ne swatantra jaanch shuru ki hai.",
       "category": "World",
-      "exam_angle": "Russia-Ukraine yuddh aur nagrik suraksha — antarrashtriya sangharsh ka ahem mudda.",
-      "source": "Ukrainska Pravda",
-      "source_url": "https://www.pravda.com.ua/eng/news/2026/11/12/8062448/",
+      "exam_angle": "America-China takniki yuddh aur AI chip pratibandh — antarrashtriya sambandh ke liye mahatvapurna.",
+      "source": "Channel News Asia",
+      "source_url": "https://www.channelnewsasia.com/east-asia/china-us-nvidia-spy-claims-justify-ai-chips-blockade-6545491",
       "genuineness": "verified",
       "outlets": [
-        "Reuters",
-        "Ukrainska Pravda",
-        "Interfax-Ukraine",
-        "Kyiv Post"
+        "Channel News Asia",
+        "The Straits Times",
+        "The New York Times",
+        "The Wall Street Journal",
+        "The Economic Times"
       ],
-      "image": "../images/world/world-20261112-1922-02.jpg",
-      "image_credit": "Ukrainska Pravda"
+      "image": "../images/world/world-20261112-1522-01.jpg",
+      "image_credit": "Anderseidesvik, Wikimedia Commons (CC BY-SA 4.0)"
     },
     {
       "id": "world-20261112-1830-01",
@@ -204,40 +150,22 @@
       "image_credit": null
     },
     {
-      "id": "world-20261112-1830-02",
-      "published_ist": "2026-11-12T04:13:00+05:30",
-      "headline": "Nvidia: CEO Huang ko hatane par board",
-      "detail": "Nvidia ke board ne CEO Jensen Huang ko hatane par vichaar shuru kiya — WSJ ke mutabik do sambandhon ke baad board ne unke bhavishya par faisla lene ke liye baithak bulayi; khabar ke baad Nvidia ke share lagbhag 8% gire.",
+      "id": "world-20261112-2129-02",
+      "published_ist": "2026-11-12T13:31:00+05:30",
+      "headline": "Spain: aawas par aam hadtaal, lakhon sadak par",
+      "detail": "Spain me 14 saal baad pehli aam hadtaal — awaas ki kimton aur jeevan-yapan ke kharch ke khilaf lakhon log sadak par; Madrid me lagbhag 1.2 lakh aur Barcelona me 50,000 se zyada pradarshankari, kai jagah police se jhadap aur 115 giraftaariyan.",
       "category": "World",
-      "exam_angle": "AI chip kshetra me corporate governance aur America-China tech takraar — arthvyavastha aur antarrashtriya sambandh ke liye mahatvapurna.",
-      "source": "Reuters",
-      "source_url": "https://www.reuters.com/technology/nvidia-is-preparing-oust-ceo-jensen-huang-wsj-reports-2026-11-11/",
-      "genuineness": "corroborated",
+      "exam_angle": "Europe me awaas sankat aur jan-andolan — samajik-arthik muddon aur antarrashtriya sambandh ke liye ahem.",
+      "source": "The Express Tribune",
+      "source_url": "https://tribune.com.pk/story/2639882/general-strike-over-housing-brings-out-tens-of-thousands-in-spain",
+      "genuineness": "verified",
       "outlets": [
-        "The Wall Street Journal",
-        "Reuters",
-        "The New York Times"
+        "Agence France-Presse",
+        "Al Jazeera",
+        "Reuters"
       ],
-      "image": "../images/world/world-20261112-1830-02.jpg",
-      "image_credit": "Anderseidesvik, Wikimedia Commons (CC BY-SA 4.0)"
-    },
-    {
-      "id": "world-20261112-1722-01",
-      "published_ist": "2026-11-12T08:43:00+05:30",
-      "headline": "G7: Taiwan ke paas China ki harkat khatra",
-      "detail": "G7 videsh mantriyon ne Paris me sanyukt ghoshna me kaha, Taiwan ke poorv me China ki badhti harkatein kshetriya sthirata aur samudri aazadi ke liye khatra hain; China ne June se wahan coast guard gasht badhai hai.",
-      "category": "World",
-      "exam_angle": "Taiwan Strait aur Indo-Pacific me shakti santulan — antarrashtriya sambandh ke liye mahatvapurna.",
-      "source": "The Hindu",
-      "source_url": "https://www.thehindu.com/news/international/g7-foreign-ministers-say-chinas-actions-east-of-taiwan-threaten-stability/article71692205.ece",
-      "genuineness": "corroborated",
-      "outlets": [
-        "Reuters",
-        "The Hindu",
-        "Taipei Times"
-      ],
-      "image": "../images/world/world-20261112-1722-01.jpg",
-      "image_credit": "Reuters via The Hindu"
+      "image": "../images/world/world-20261112-2129-02.jpg",
+      "image_credit": "Free Malaysia Today"
     },
     {
       "id": "world-20261112-1624-01",
@@ -259,43 +187,41 @@
       "image_credit": null
     },
     {
-      "id": "world-20261112-1624-02",
-      "published_ist": "2026-11-12T09:20:00+05:30",
-      "headline": "Israel cabinet: Iran hamle ki taiyaari badhao",
-      "detail": "Israel ki suraksha cabinet ne sena ko Iran par sambhav hamle ki taiyaari badhane ka nirdesh diya, KAN ne bataya; vipaksh neta Eisenkot ne nayi sarkar banne tak bina turant khatre ke sainya karwai se mana kiya.",
+      "id": "world-20261112-2222-01",
+      "published_ist": "2026-11-12T12:08:00+05:30",
+      "headline": "Indonesia: uprashtrapati Gibran ne istifa diya",
+      "detail": "Degree vivad ke beech Gibran Rakabuming Raka ne sansad ko istifa saunpa; Rashtrapati Prabowo ne bhari mann se manzoori de di.",
       "category": "World",
-      "exam_angle": "Israel-Iran takraav aur West Asia ki suraksha — antarrashtriya sambandh ke liye mahatvapurna.",
+      "exam_angle": "Indonesia — samvidhanik uttaradhikar aur chunaav yogyata ka mudda.",
       "source": "Al Jazeera",
-      "source_url": "https://www.aljazeera.com/amp/news/2026/11/12/iran-warns-of-expanded-retaliation-as-israel-reportedly-readies-to-attack",
+      "source_url": "https://www.aljazeera.com/news/2026/11/12/indonesia-vice-president-resigns-amid-dispute-over-eligibility?traffic_source=rss",
       "genuineness": "verified",
       "outlets": [
-        "KAN",
         "Al Jazeera",
-        "The Jerusalem Post",
-        "The Times of India"
+        "SCMP",
+        "The Straits Times",
+        "Business Times"
       ],
-      "image": "../images/world/world-20261112-1624-02.jpg",
-      "image_credit": "Avi Ohayon, Wikimedia Commons (CC BY-SA)"
+      "image": "../images/world/world-20261112-2222-01.jpg",
+      "image_credit": "Darwis Triadi & Ministry of State Secretariat, Wikimedia Commons (Public domain)"
     },
     {
-      "id": "world-20261112-1522-01",
-      "published_ist": "2026-11-12T14:23:00+05:30",
-      "headline": "China: Nvidia jasusi daave America ki 'nakabandi' chaal",
-      "detail": "China ne kaha America Nvidia CEO Jensen Huang par jasusi ke aaropon ko China par takniki 'nakabandi' lagane ke bahane ke roop me istemal kar raha hai; Beijing ne aaropon ko be-buniyad batakar khariz kiya, jabki Nvidia ne swatantra jaanch shuru ki hai.",
+      "id": "world-20261112-2222-02",
+      "published_ist": "2026-11-12T10:30:00+05:30",
+      "headline": "Mecca ke paas Houthi missile ka malba gira",
+      "detail": "Saudi hawai raksha ne Mecca ki taraf aaye 2 Houthi ballistic missile giraye; malba Grand Mosque se 21-35 km door gira, koi hataahat nahi.",
       "category": "World",
-      "exam_angle": "America-China takniki yuddh aur AI chip pratibandh — antarrashtriya sambandh ke liye mahatvapurna.",
-      "source": "Channel News Asia",
-      "source_url": "https://www.channelnewsasia.com/east-asia/china-us-nvidia-spy-claims-justify-ai-chips-blockade-6545491",
-      "genuineness": "verified",
+      "exam_angle": "West Asia sangharsh — Houthi-Saudi takraav aur pavitra sthalon ki suraksha.",
+      "source": "The Straits Times",
+      "source_url": "https://www.straitstimes.com/world/middle-east/saudi-arabia-says-debris-from-intercepted-missiles-falls-in-mecca-region?ref=latest",
+      "genuineness": "corroborated",
       "outlets": [
-        "Channel News Asia",
-        "The Straits Times",
-        "The New York Times",
-        "The Wall Street Journal",
-        "The Economic Times"
+        "Reuters",
+        "Al-Monitor",
+        "Saudi Civil Defence"
       ],
-      "image": "../images/world/world-20261112-1522-01.jpg",
-      "image_credit": "Anderseidesvik, Wikimedia Commons (CC BY-SA 4.0)"
+      "image": null,
+      "image_credit": null
     },
     {
       "id": "world-20261112-1122-01",
@@ -317,6 +243,25 @@
       "image_credit": "The Straits Times"
     },
     {
+      "id": "world-20261112-1624-02",
+      "published_ist": "2026-11-12T09:20:00+05:30",
+      "headline": "Israel cabinet: Iran hamle ki taiyaari badhao",
+      "detail": "Israel ki suraksha cabinet ne sena ko Iran par sambhav hamle ki taiyaari badhane ka nirdesh diya, KAN ne bataya; vipaksh neta Eisenkot ne nayi sarkar banne tak bina turant khatre ke sainya karwai se mana kiya.",
+      "category": "World",
+      "exam_angle": "Israel-Iran takraav aur West Asia ki suraksha — antarrashtriya sambandh ke liye mahatvapurna.",
+      "source": "Al Jazeera",
+      "source_url": "https://www.aljazeera.com/amp/news/2026/11/12/iran-warns-of-expanded-retaliation-as-israel-reportedly-readies-to-attack",
+      "genuineness": "verified",
+      "outlets": [
+        "KAN",
+        "Al Jazeera",
+        "The Jerusalem Post",
+        "The Times of India"
+      ],
+      "image": "../images/world/world-20261112-1624-02.jpg",
+      "image_credit": "Avi Ohayon, Wikimedia Commons (CC BY-SA)"
+    },
+    {
       "id": "world-20261112-1222-01",
       "published_ist": "2026-11-12T09:02:00+05:30",
       "headline": "Trump-Netanyahu me Iran par takraar",
@@ -334,6 +279,24 @@
       ],
       "image": null,
       "image_credit": null
+    },
+    {
+      "id": "world-20261112-1722-01",
+      "published_ist": "2026-11-12T08:43:00+05:30",
+      "headline": "G7: Taiwan ke paas China ki harkat khatra",
+      "detail": "G7 videsh mantriyon ne Paris me sanyukt ghoshna me kaha, Taiwan ke poorv me China ki badhti harkatein kshetriya sthirata aur samudri aazadi ke liye khatra hain; China ne June se wahan coast guard gasht badhai hai.",
+      "category": "World",
+      "exam_angle": "Taiwan Strait aur Indo-Pacific me shakti santulan — antarrashtriya sambandh ke liye mahatvapurna.",
+      "source": "The Hindu",
+      "source_url": "https://www.thehindu.com/news/international/g7-foreign-ministers-say-chinas-actions-east-of-taiwan-threaten-stability/article71692205.ece",
+      "genuineness": "corroborated",
+      "outlets": [
+        "Reuters",
+        "The Hindu",
+        "Taipei Times"
+      ],
+      "image": "../images/world/world-20261112-1722-01.jpg",
+      "image_credit": "Reuters via The Hindu"
     },
     {
       "id": "world-20261112-1322-02",
@@ -355,6 +318,25 @@
       "image_credit": "Okaloosa County Tourist Development Dept (Public domain)"
     },
     {
+      "id": "world-20261112-1922-02",
+      "published_ist": "2026-11-12T07:44:00+05:30",
+      "headline": "Kyiv me drone hamla, 1 ki maut",
+      "detail": "Russia ne raat bhar Ukraine par bada hamla kiya — Kyiv me ek drone nau-manzila imarat se takraya, 44 saal ki mahila ki maut aur 7 ghayal; Russia ka kehna hai usne Kyiv ke paas missile aur drone factory ko nishana banaya.",
+      "category": "World",
+      "exam_angle": "Russia-Ukraine yuddh aur nagrik suraksha — antarrashtriya sangharsh ka ahem mudda.",
+      "source": "Ukrainska Pravda",
+      "source_url": "https://www.pravda.com.ua/eng/news/2026/11/12/8062448/",
+      "genuineness": "verified",
+      "outlets": [
+        "Reuters",
+        "Ukrainska Pravda",
+        "Interfax-Ukraine",
+        "Kyiv Post"
+      ],
+      "image": "../images/world/world-20261112-1922-02.jpg",
+      "image_credit": "Ukrainska Pravda"
+    },
+    {
       "id": "world-20261112-1222-02",
       "published_ist": "2026-11-12T06:59:00+05:30",
       "headline": "Kushner-Witkoff guruvaar ko Putin se milenge",
@@ -372,6 +354,42 @@
       ],
       "image": "../images/world/world-20261112-1222-02.jpg",
       "image_credit": "The Economic Times"
+    },
+    {
+      "id": "world-20261112-2222-03",
+      "published_ist": "2026-11-12T06:20:00+05:30",
+      "headline": "Oman ke dweep par Iran ka hamla",
+      "detail": "Iran ne kaha uski nausena ne Hormuz me Oman ke Didamar dweep ke navigation system par hamla kiya; Reuters ke sutron ne hamle ki pushti ki, nuksan par Oman se matbhed hai.",
+      "category": "World",
+      "exam_angle": "Hormuz jalmarg — tel vyapaar aur samudri suraksha par asar.",
+      "source": "Fox News",
+      "source_url": "https://foxnews.com/world/iran-escalates-hormuz-claims-strike-omani-island-enemy-uses-us-military-ops",
+      "genuineness": "verified",
+      "outlets": [
+        "Reuters",
+        "Fox News",
+        "Times of Israel"
+      ],
+      "image": "../images/world/world-20261112-2222-03.jpg",
+      "image_credit": "Rainer Crummenerl, Wikimedia Commons (CC BY-SA 4.0)"
+    },
+    {
+      "id": "world-20261112-2129-04",
+      "published_ist": "2026-11-12T05:31:00+05:30",
+      "headline": "Abu Dhabi: Russia-Ukraine kaidi adla-badli par sahmat",
+      "detail": "Abu Dhabi me do din ki baatchit ke baad Russia aur Ukraine bade paimane par kaidiyon ki adla-badli par sahmat — har taraf se 1,000 se 1,500 kaidi; yuddh-viram par koi samjhauta nahi hua.",
+      "category": "World",
+      "exam_angle": "Russia-Ukraine yuddh me manaviy samjhauta aur shanti vaarta — antarrashtriya sambandh ke liye ahem.",
+      "source": "NHK World-Japan",
+      "source_url": "https://www3.nhk.or.jp/nhkworld/news/20261112de74531/",
+      "genuineness": "verified",
+      "outlets": [
+        "NHK World-Japan",
+        "Qatar Tribune",
+        "Associated Press"
+      ],
+      "image": null,
+      "image_credit": null
     },
     {
       "id": "world-20261112-1122-02",
@@ -393,6 +411,24 @@
       "image_credit": "Reuters via Al Jazeera"
     },
     {
+      "id": "world-20261112-1830-02",
+      "published_ist": "2026-11-12T04:13:00+05:30",
+      "headline": "Nvidia: CEO Huang ko hatane par board",
+      "detail": "Nvidia ke board ne CEO Jensen Huang ko hatane par vichaar shuru kiya — WSJ ke mutabik do sambandhon ke baad board ne unke bhavishya par faisla lene ke liye baithak bulayi; khabar ke baad Nvidia ke share lagbhag 8% gire.",
+      "category": "World",
+      "exam_angle": "AI chip kshetra me corporate governance aur America-China tech takraar — arthvyavastha aur antarrashtriya sambandh ke liye mahatvapurna.",
+      "source": "Reuters",
+      "source_url": "https://www.reuters.com/technology/nvidia-is-preparing-oust-ceo-jensen-huang-wsj-reports-2026-11-11/",
+      "genuineness": "corroborated",
+      "outlets": [
+        "The Wall Street Journal",
+        "Reuters",
+        "The New York Times"
+      ],
+      "image": "../images/world/world-20261112-1830-02.jpg",
+      "image_credit": "Anderseidesvik, Wikimedia Commons (CC BY-SA 4.0)"
+    },
+    {
       "id": "world-20261112-0925-01",
       "published_ist": "2026-11-12T03:30:00+05:30",
       "headline": "Pope Leo XIV Peru pahunche, ghar wapsi",
@@ -409,43 +445,6 @@
       ],
       "image": "../images/world/world-20261112-0925-01.jpg",
       "image_credit": "Vatican News"
-    },
-    {
-      "id": "world-20261112-0822-01",
-      "published_ist": "2026-11-12T02:30:00+05:30",
-      "headline": "Brooklyn me imarat giri: 8 ki maut",
-      "detail": "New York ke Brooklyn ke Flatbush me budhwar shaam ek 3-manzila imarat paas ki khudai wali jagah me gir gayi; ab tak 8 ki maut aur 17 ghayal hue, jinme 3 damkalkarmi hain; malbe me fase logon ki talash jaari hai, lagbhag 250 damkalkarmi lage hain; shahar ne paas ki 'unsafe construction' ko kaaran bataya. [Sudhara gaya — pehle 2 maut bataye gaye the.]",
-      "category": "World",
-      "exam_angle": "Shahri suraksha aur imarat niyam — nagar prashasan aur apda prabandhan ke liye mahatvapurna.",
-      "source": "USA Today",
-      "source_url": "https://www.usatoday.com/story/news/nation/2026/11/12/brooklyn-building-collapse-nyc-updates/92738680007/",
-      "genuineness": "verified",
-      "outlets": [
-        "USA Today",
-        "AP",
-        "CNN",
-        "Reuters"
-      ],
-      "image": null,
-      "image_credit": null
-    },
-    {
-      "id": "world-20261112-1025-02",
-      "published_ist": "2026-11-11T23:43:00+05:30",
-      "headline": "America me Russia ke rajdut Darchiev ka nidhan",
-      "detail": "America me Russia ke rajdut Alexander Darchiev ka 66 saal ki umr me Moscow me achanak nidhan ho gaya, Russia ke videsh mantralaya ne budhwar ko bataya; ve March 2025 se is pad par the aur lambe samay se beemar the.",
-      "category": "World",
-      "exam_angle": "Russia-America sambandh — antarrashtriya sambandh ke liye mahatvapurna.",
-      "source": "CNN",
-      "source_url": "https://www.cnn.com/2026/11/11/europe/russian-ambassador-to-us-dies-intl?cid=external-feeds_iluminar_meta",
-      "genuineness": "verified",
-      "outlets": [
-        "CNN",
-        "Al Jazeera",
-        "AFP"
-      ],
-      "image": null,
-      "image_credit": null
     }
   ]
 }
