@@ -1,6 +1,25 @@
 {
-  "updated_ist": "2026-11-13T19:27:29+05:30",
+  "updated_ist": "2026-11-13T20:27:25+05:30",
   "items": [
+    {
+      "id": "world-20261113-2022-01",
+      "published_ist": "2026-11-13T13:49:00+05:30",
+      "headline": "Moscow me car bomb: ek afsar ki maut",
+      "detail": "Shukravar ko Moscow me car bomb se Ukraine ke poorv PM ke salaahkaar Sergei Zavorotny gambhir ghayal hue; guruvaar ko St. Petersburg me car bomb se ek sainya afsar ki maut hui thi — do din me doosra hamla.",
+      "category": "World",
+      "exam_angle": "Russia ke andar chhaya yuddh aur hatya ke prayas — antarrashtriya suraksha ke liye mahatvapurna.",
+      "source": "Associated Press",
+      "source_url": "https://www.newindianexpress.com/world/2026/Nov/13/bombings-in-russia-kill-a-military-officer-and-injure-an-adviser-to-ukraines-former-prime-minister",
+      "genuineness": "verified",
+      "outlets": [
+        "Associated Press",
+        "Reuters",
+        "The Guardian",
+        "Euromaidan Press"
+      ],
+      "image": "../images/world/world-20261113-2022-01.jpg",
+      "image_credit": "Associated Press"
+    },
     {
       "id": "world-20261113-1922-01",
       "published_ist": "2026-11-13T18:20:00+05:30",
@@ -416,25 +435,6 @@
       ],
       "image": null,
       "image_credit": null
-    },
-    {
-      "id": "world-20261113-1022-01",
-      "published_ist": "2026-11-13T04:22:00+05:30",
-      "headline": "Kansas governor chunaav: Democrat Holscher jeeti",
-      "detail": "Democrat Cindy Holscher ne Kansas ke governor chunaav me Republican Ty Masterson ko haraya; AP ne guruvaar ko jeet ki ghoshna ki — Holscher ne naye data centre par asthayi rok ka wada kiya tha.",
-      "category": "World",
-      "exam_angle": "America ke midterm chunav aur rajyon me satta santulan — antarrashtriya rajneeti ke liye mahatvapurna.",
-      "source": "NPR Illinois",
-      "source_url": "https://www.nprillinois.org/2026-11-12/cindy-holscher-wins-in-kansas-holding-governors-office-for-democrats",
-      "genuineness": "verified",
-      "outlets": [
-        "Associated Press",
-        "NPR",
-        "La Nacion",
-        "The Manila Times"
-      ],
-      "image": "../images/world/world-20261113-1022-01.jpg",
-      "image_credit": "NPR Illinois"
     }
   ]
 }
