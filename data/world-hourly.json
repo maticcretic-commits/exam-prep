@@ -1,6 +1,40 @@
 {
-  "updated_ist": "2026-11-13T16:22:00+05:30",
+  "updated_ist": "2026-11-13T17:22:00+05:30",
   "items": [
+    {
+      "id": "world-20261113-1722-01",
+      "published_ist": "2026-11-13T15:54:00+05:30",
+      "headline": "ASEAN: online scam par sakht kadam",
+      "detail": "Manila shikhar sammelan me ASEAN netaon ne online scam aur manav taskari par 'gambhir chinta' jatayi; draft bayan me America aur China samet sahyogiyon ke saath milkar karwai ka vaada hai.",
+      "category": "World",
+      "exam_angle": "ASEAN, cyber-aparadh aur manav taskari — antarrashtriya sangathan aur suraksha ke liye mahatvapurna.",
+      "source": "Associated Press",
+      "source_url": "https://www.newindianexpress.com/amp/story/world/2026/Nov/13/southeast-asian-leaders-with-us-and-chinese-counterparts-will-renew-alarm-over-online-scams",
+      "genuineness": "corroborated",
+      "outlets": [
+        "Associated Press",
+        "Bilyonaryo News Channel"
+      ],
+      "image": "../images/world/world-20261113-1722-01.jpg",
+      "image_credit": "The New Indian Express"
+    },
+    {
+      "id": "world-20261113-1722-02",
+      "published_ist": "2026-11-13T15:00:00+05:30",
+      "headline": "Trump ke NYAY vibhag par Congress ki jaanch",
+      "detail": "Democrat bahumat wali Congress ke saamne NYAY vibhag ki jaanch ka daur shuru hoga; Attorney General Blanche ne kaha vibhag peeche nahi hatega, jabki ek sahayak ne abhiyojakon ko 'yuddh-stariya' taiyari ki baat kahi.",
+      "category": "World",
+      "exam_angle": "America me karyapalika-vidhayika santulan aur nyayik swatantrata — rajneeti vigyan ke liye mahatvapurna.",
+      "source": "Associated Press",
+      "source_url": "https://www.newindianexpress.com/amp/story/world/2026/Nov/13/trumps-justice-department-faces-a-new-era-of-scrutiny-under-a-democratic-led-congress",
+      "genuineness": "corroborated",
+      "outlets": [
+        "Associated Press",
+        "Bloomberg Law"
+      ],
+      "image": null,
+      "image_credit": null
+    },
     {
       "id": "world-20261113-1622-01",
       "published_ist": "2026-11-12T19:49:00+05:30",
@@ -398,43 +432,6 @@
         "Reuters",
         "Associated Press",
         "The Straits Times"
-      ],
-      "image": null,
-      "image_credit": null
-    },
-    {
-      "id": "world-20261113-1322-01",
-      "published_ist": "2026-11-13T01:08:00+05:30",
-      "headline": "Gaza ke liye 53 deshon ki madad-appeal",
-      "detail": "53 UN sadasya deshon aur sangathanon ne Israel ki aane wali sarkar se Gaza me bina rok-tok madad ki maang ki — UN relief chief Tom Fletcher ne kaha 1.5 lakh se zyada tent aur sardi ka saman bahar ruka hai, sabhi crossing khulni chahiye.",
-      "category": "World",
-      "exam_angle": "Gaza manaviya sankat aur UN — antarrashtriya sambandh ke liye mahatvapurna.",
-      "source": "The National",
-      "source_url": "https://www.thenationalnews.com/news/us/2026/11/12/un-countries-urge-israels-incoming-government-to-open-gaza-to-unrestricted-aid/",
-      "genuineness": "verified",
-      "outlets": [
-        "The National",
-        "Gulf News",
-        "Arab News",
-        "UN OCHA"
-      ],
-      "image": "../images/world/world-20261113-1322-01.jpg",
-      "image_credit": "The National"
-    },
-    {
-      "id": "world-20261113-0722-01",
-      "published_ist": "2026-11-12T23:51:00+05:30",
-      "headline": "Saudi: EU Houthi ko aatanki ghoshit kare",
-      "detail": "Saudi Arabia EU par dabaav daal raha hai ki Yemen ke Iran-samarthit Houthi sangathan ko aatanki sangathan ghoshit kare — Houthi ke Saudi par lagbhag roz ke hamle jaari hain; chhah European adhikariyon ke mutabik zyadaatar sadasya desh hichkicha rahe hain, kyunki isse Yemen shanti vaarta ke raaste band ho sakte hain; faisle ke liye 27 sadasya deshon ki sarvasammati chahiye.",
-      "category": "World",
-      "exam_angle": "Yemen sangharsh, EU ki videsh neeti aur aatankwad-suchi — antarrashtriya sambandh ke liye mahatvapurna.",
-      "source": "Reuters",
-      "source_url": "https://www.reuters.com/world/middle-east/saudi-arabia-puts-pressure-eu-label-yemens-houthis-terrorist-group-2026-11-12/",
-      "genuineness": "corroborated",
-      "outlets": [
-        "Reuters",
-        "Al Jazeera",
-        "The Times of Israel"
       ],
       "image": null,
       "image_credit": null
