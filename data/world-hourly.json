@@ -1,6 +1,60 @@
 {
-  "updated_ist": "2026-11-13T21:28:04+05:30",
+  "updated_ist": "2026-11-13T22:25:00+05:30",
   "items": [
+    {
+      "id": "world-20261113-2222-01",
+      "published_ist": "2026-11-13T20:27:00+05:30",
+      "headline": "Balochistan: checkpoint par car bomb, 5 ki maut",
+      "detail": "Mastung jile ke Kandawa area me Frontier Corps checkpoint par visfotak se bhari car takraai; hamle me 3 hamlaavar aur 2 nagrik mare gaye, 13 ghayal hue — pratibandhit BLA ne zimmedari li.",
+      "category": "World",
+      "exam_angle": "Balochistan me suraksha chunauti aur Pakistan ke andar aatankwad — Dakshin Asia ki suraksha ke liye mahatvapurna.",
+      "source": "The New Indian Express",
+      "source_url": "https://www.newindianexpress.com/amp/story/world/2026/Nov/13/five-killed-13-injured-in-car-bombing-at-security-checkpoint-in-pakistans-balochistan",
+      "genuineness": "verified",
+      "outlets": [
+        "PTI",
+        "WION",
+        "Dawn"
+      ],
+      "image": null,
+      "image_credit": null
+    },
+    {
+      "id": "world-20261113-2222-02",
+      "published_ist": "2026-11-13T19:41:00+05:30",
+      "headline": "Bahrain: America ne 2 Iranian drone giraye",
+      "detail": "CENTCOM ke mutabik Iran ne Bahrain ki taraf do hamlaavar drone bheje, dono ko America ne gira diya — koi nuksan nahi; Iran ke radar par hamle ke daave ko America ne galat bataya.",
+      "category": "World",
+      "exam_angle": "Khadi me America-Iran tanav aur Bahrain me US sainya upasthiti — West Asia ki suraksha ke liye mahatvapurna.",
+      "source": "The Economic Times",
+      "source_url": "https://economictimes.indiatimes.com/news/international/world-news/us-military-downs-2-iranian-attack-drones-as-iran-claims-a-strike-on-a-us-radar-in-bahrain/articleshow/135806230.cms",
+      "genuineness": "verified",
+      "outlets": [
+        "US Central Command (CENTCOM)",
+        "Al Jazeera",
+        "CNN"
+      ],
+      "image": null,
+      "image_credit": null
+    },
+    {
+      "id": "world-20261113-2222-03",
+      "published_ist": "2026-11-13T18:41:00+05:30",
+      "headline": "Nairobi ke paas imarat dhahi: 6 ki maut",
+      "detail": "Shukravar subah Syokimau me nirmanadheen aath-manzila imarat ki upari slab girne se 6 log mare gaye, 5 ghayal hue; 2026 me Kenya me ye 24vaan imarat hadsa hai.",
+      "category": "World",
+      "exam_angle": "Kenya me nirman suraksha aur shahri vikas — vikasheel deshon ke liye mahatvapurna.",
+      "source": "Al Jazeera",
+      "source_url": "https://www.aljazeera.com/news/2026/11/13/kenyan-building-collapse-near-nairobi-kills-six-people?traffic_source=rss",
+      "genuineness": "verified",
+      "outlets": [
+        "Reuters",
+        "Al Jazeera",
+        "Pulse Kenya"
+      ],
+      "image": null,
+      "image_credit": null
+    },
     {
       "id": "world-20261113-2122-01",
       "published_ist": "2026-11-13T13:05:00+05:30",
@@ -375,64 +429,6 @@
       ],
       "image": "../images/world/world-20261113-1222-02.jpg",
       "image_credit": "Al Jazeera"
-    },
-    {
-      "id": "world-20261113-0822-01",
-      "published_ist": "2026-11-13T07:54:00+05:30",
-      "headline": "Microsoft 365 thap: Outlook-Teams ghanton band",
-      "detail": "Guruvaar ko Microsoft 365 me badi kharabi se Outlook, Teams aur Copilot ghanton band rahe — 74 deshon me asar, Downdetector par 1.38 lakh shikayatein; Microsoft ne kaha server bahaal ho rahe hain, karan ki jaanch jaari hai.",
-      "category": "World",
-      "exam_angle": null,
-      "source": "Malay Mail",
-      "source_url": "https://www.malaymail.com/news/tech-gadgets/2026/11/13/microsoft-scrambles-aggressively-as-widespread-outage-hits-outlook-teams-and-copilot-worldwide/243054",
-      "genuineness": "verified",
-      "outlets": [
-        "Malay Mail",
-        "Korea Times",
-        "Republic World",
-        "HCA Mag"
-      ],
-      "image": null,
-      "image_credit": null
-    },
-    {
-      "id": "world-20261113-0922-01",
-      "published_ist": "2026-11-13T07:44:00+05:30",
-      "headline": "Gaza: Nasser Hospital par hamla, 6 ki maut",
-      "detail": "Khan Younis ke Nasser Hospital ki surgery ward par guruvaar subah Israeli hamle me ek surgeon aur 13 saal ke ladke samet 6 ki maut, 27 ghayal; IDF ne kaha Hamas commander nishana tha, WHO ne nuksan ki pushti ki.",
-      "category": "World",
-      "exam_angle": "Yuddh-viram ke bawjood Gaza par hamla — West Asia aur antarrashtriya sangathan ke liye mahatvapurna.",
-      "source": "Firstpost",
-      "source_url": "https://www.firstpost.com/world/6-killed-27-injured-after-israeli-strike-hits-surgical-unit-of-nasser-hospital-in-gaza-14059677.html",
-      "genuineness": "verified",
-      "outlets": [
-        "Reuters",
-        "CNN",
-        "AFP",
-        "Al Jazeera",
-        "Firstpost"
-      ],
-      "image": "../images/world/world-20261113-0922-01.jpg",
-      "image_credit": "Reuters via GMA Network"
-    },
-    {
-      "id": "world-20261113-0822-02",
-      "published_ist": "2026-11-13T07:02:00+05:30",
-      "headline": "Ireland me Zelenskyy se mile Witkoff-Kushner",
-      "detail": "Moscow ke baad America ke doot Witkoff aur Kushner ne Dublin me Zelenskyy se milkar yuddh ke sabse bade kaidi adla-badli ki taiyaari ki pushti ki; agle daur ki baatchit me Europe bhi shamil hoga.",
-      "category": "World",
-      "exam_angle": "Russia-Ukraine shanti vartaa aur Europe ki bhoomika — antarrashtriya sambandhon ke liye mahatvapurna.",
-      "source": "The Tribune",
-      "source_url": "https://www.tribuneindia.com/news/world/zelenskyy-meets-witkoff-kushner-in-ireland-announces-major-prisoner-exchange-greater-european-role-in-ukraine-peace-talks/",
-      "genuineness": "verified",
-      "outlets": [
-        "The Tribune",
-        "CNN",
-        "The Jerusalem Post",
-        "Kyiv Post"
-      ],
-      "image": null,
-      "image_credit": null
     }
   ]
 }
