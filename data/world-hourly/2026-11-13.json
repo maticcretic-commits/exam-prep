@@ -1,0 +1,61 @@
+{
+  "date": "2026-11-13",
+  "updated_ist": "2026-11-13T06:22:00+05:30",
+  "items": [
+    {
+      "id": "world-20261113-0622-01",
+      "published_ist": "2026-11-13T03:32:00+05:30",
+      "headline": "Italy: doosre din bhi farzi bomb dhamki",
+      "detail": "Italy me guruvaar ko bhi 3,778 schoolon ko email se farzi bomb dhamki mili — budhwar ko 6,300 school prabhavit hue the; sirf 77 school khaali karaye gaye, kahin visfotak nahi mila; sarkar ne naya protocol jaari kiya.",
+      "category": "World",
+      "exam_angle": "Europe me hybrid warfare aur cyber-suraksha — antarrashtriya suraksha ke liye mahatvapurna.",
+      "source": "The Straits Times",
+      "source_url": "https://www.straitstimes.com/world/europe/italys-meloni-seeks-to-curb-hoax-bomb-evacuations",
+      "genuineness": "verified",
+      "outlets": [
+        "Reuters",
+        "BBC",
+        "The Times of Israel"
+      ],
+      "image": null,
+      "image_credit": null
+    },
+    {
+      "id": "world-20261113-0622-02",
+      "published_ist": "2026-11-12T21:55:00+05:30",
+      "headline": "Putin: samjhauta nahi, ek sheher me yuddh-viram",
+      "detail": "Putin ne Moscow me America ke dooton Kushner aur Witkoff se milkar kaha — Ukraine par apni kattar maangein nahi chhodega, lekin Kostyantynivka sheher me chhota yuddh-viram aur manaviy mission ka prastav diya; videshi shanti-sena ko ‘yuddh jaari rakhna’ bataya, doot ab Dublin me Zelensky se milenge.",
+      "category": "World",
+      "exam_angle": "Russia-Ukraine shanti vaarta aur Europe ki suraksha vyavastha — antarrashtriya sambandh ke liye mahatvapurna.",
+      "source": "Channel News Asia",
+      "source_url": "https://www.channelnewsasia.com/world/putin-russia-ukraine-war-deal-us-talks-6547041",
+      "genuineness": "verified",
+      "outlets": [
+        "Agence France-Presse",
+        "Al Jazeera",
+        "The Times",
+        "Reuters"
+      ],
+      "image": null,
+      "image_credit": null
+    },
+    {
+      "id": "world-20261113-0622-03",
+      "published_ist": "2026-11-12T21:53:00+05:30",
+      "headline": "Fujairah: truck hadse me 14 ki maut",
+      "detail": "UAE ke Fujairah me budh raat truck bekabu hokar kayi gaadiyon se takraya aur aag lag gayi — 18 car aur 5 truck shamil, 14 ki maut aur 30 ghayal hue; ghayalon me Bharat ke nagrik bhi hain.",
+      "category": "World",
+      "exam_angle": "UAE me sadak suraksha aur pravasi Bharatiya — antarrashtriya sambandh ke liye mahatvapurna.",
+      "source": "Al Jazeera",
+      "source_url": "https://www.aljazeera.com/amp/news/2026/11/12/uae-says-14-killed-30-injured-in-fujairah-traffic-accident",
+      "genuineness": "verified",
+      "outlets": [
+        "Al Jazeera",
+        "Gulf News",
+        "Reuters"
+      ],
+      "image": null,
+      "image_credit": null
+    }
+  ]
+}
