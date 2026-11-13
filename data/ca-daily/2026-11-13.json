@@ -212,6 +212,76 @@
     ],
     "answer_index": 2
    }
+  },
+  {
+   "episode": 116,
+   "video_hi": "GVgkzKU2jug",
+   "video_hinglish": "GVgkzKU2jug",
+   "capsules": [
+    {
+     "id": "ca-ep116-s1",
+     "headline_hi": "India-US trade deal mein tariff fayda",
+     "headline_hinglish": "India-US trade deal mein tariff fayda",
+     "detail_hi": "America ne Bharat ko behtar tariff ka ashwasan diya, samjhota is vitt varsh tak poora hoga.",
+     "detail_hinglish": "America ne Bharat ko behtar tariff ka ashwasan diya, samjhota is vitt varsh tak poora hoga.",
+     "category_hi": "International",
+     "category_en": "National"
+    },
+    {
+     "id": "ca-ep116-s2",
+     "headline_hi": "69,000 crore ki bijli transmission yojana",
+     "headline_hinglish": "69,000 crore ki bijli transmission yojana",
+     "detail_hi": "Samiti ne Bharat ki sabse badi 1150 kV ultra-high-voltage transmission pariyojana ko anumati di, keemat 69,000 crore rupaye.",
+     "detail_hinglish": "Samiti ne Bharat ki sabse badi 1150 kV ultra-high-voltage transmission pariyojana ko anumati di, keemat 69,000 crore rupaye.",
+     "category_hi": "Energy",
+     "category_en": "National"
+    },
+    {
+     "id": "ca-ep116-s3",
+     "headline_hi": "Lalremsiami: Mizoram ki pehli Arjuna vijeta",
+     "headline_hinglish": "Lalremsiami: Mizoram ki pehli Arjuna vijeta",
+     "detail_hi": "Rashtrapati Murmu ne National Sports Awards diye, Lalremsiami Mizoram se Arjuna Award pane wali pehli khiladi bani.",
+     "detail_hinglish": "Rashtrapati Murmu ne National Sports Awards diye, Lalremsiami Mizoram se Arjuna Award pane wali pehli khiladi bani.",
+     "category_hi": "Sports",
+     "category_en": "Sports"
+    },
+    {
+     "id": "ca-ep116-s4",
+     "headline_hi": "Rupaya 94.20 par, dollar ke mukable gira",
+     "headline_hinglish": "Rupaya 94.20 par, dollar ke mukable gira",
+     "detail_hi": "Rupaya aath paise girkar dollar ke mukable 94.20 par band hua, mazboot dollar aur kamzor share bazaar ke karan.",
+     "detail_hinglish": "Rupaya aath paise girkar dollar ke mukable 94.20 par band hua, mazboot dollar aur kamzor share bazaar ke karan.",
+     "category_hi": "Economy",
+     "category_en": "Economy"
+    },
+    {
+     "id": "ca-ep116-s5",
+     "headline_hi": "Microsoft 365 outage se duniya pareshan",
+     "headline_hinglish": "Microsoft 365 outage se duniya pareshan",
+     "detail_hi": "Microsoft Outlook mein badi gadbad se duniya bhar mein hazaaron users pareshan, company ne seemit sudhaar ki baat kahi.",
+     "detail_hinglish": "Microsoft Outlook mein badi gadbad se duniya bhar mein hazaaron users pareshan, company ne seemit sudhaar ki baat kahi.",
+     "category_hi": "Technology",
+     "category_en": "Technology"
+    }
+   ],
+   "mcq": {
+    "id": "ca-ep116-mcq",
+    "q_hi": "Bharat ki sabse badi 1150 kV transmission pariyojana ki keemat kitni hai?",
+    "q_hinglish": "Bharat ki sabse badi 1150 kV transmission pariyojana ki keemat kitni hai?",
+    "options_hi": [
+     "50,000 crore",
+     "69,000 crore",
+     "75,000 crore",
+     "90,000 crore"
+    ],
+    "options_hinglish": [
+     "50,000 crore",
+     "69,000 crore",
+     "75,000 crore",
+     "90,000 crore"
+    ],
+    "answer_index": 1
+   }
   }
  ]
 }
