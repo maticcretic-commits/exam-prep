@@ -1,6 +1,6 @@
 {
   "date": "2026-11-13",
-  "updated_ist": "2026-11-13T11:27:59+05:30",
+  "updated_ist": "2026-11-13T12:27:22+05:30",
   "items": [
     {
       "id": "world-20261113-0622-01",
@@ -331,6 +331,59 @@
       "outlets": [
         "Kyiv Independent",
         "Izvestia"
+      ],
+      "image": null,
+      "image_credit": null
+    },
+    {
+      "id": "world-20261113-1222-03",
+      "published_ist": "2026-11-12T17:08:00+05:30",
+      "headline": "Russia ki 5 sabse badi refinery par hamla",
+      "detail": "Ukraine ke General Staff ne kaha 30 October se Russia ki paanch sabse badi refinery — Omsk, Kirishi, Ryazan, Nizhny Novgorod aur Yaroslavl — par hamle kiye gaye; 11 November ko Omsk refinery me aag lagi.",
+      "category": "World",
+      "exam_angle": "Russia-Ukraine yuddh me urja yuddh — antarrashtriya sambandh ke liye mahatvapurna.",
+      "source": "Interfax-Ukraine",
+      "source_url": "https://en.interfax.com.ua/news/general/1235400.html",
+      "genuineness": "corroborated",
+      "outlets": [
+        "Ukraine General Staff",
+        "Interfax-Ukraine",
+        "Al Jazeera"
+      ],
+      "image": "../images/world/world-20261113-1222-03.jpg",
+      "image_credit": "Interfax-Ukraine"
+    },
+    {
+      "id": "world-20261113-1222-02",
+      "published_ist": "2026-11-13T08:05:00+05:30",
+      "headline": "Finland: Baltic me Russian jahaaz par hamla",
+      "detail": "Finland ki sena ne Gulf of Finland me ek Russian yuddhpot par hamle ka pata lagaya; Ukraine ki Security Service ne hamle ki zimmedari li — Finland ne kaha use koi turant khatra nahi hai.",
+      "category": "World",
+      "exam_angle": "Baltic me NATO-Russia tanav — antarrashtriya suraksha ke liye mahatvapurna.",
+      "source": "Al Jazeera",
+      "source_url": "https://www.aljazeera.com/news/2026/11/13/finland-detects-strike-on-russian-warship-as-zelenskyy-meets-us-envoys?traffic_source=rss",
+      "genuineness": "verified",
+      "outlets": [
+        "Al Jazeera",
+        "Reuters",
+        "Yle"
+      ],
+      "image": "../images/world/world-20261113-1222-02.jpg",
+      "image_credit": "Al Jazeera"
+    },
+    {
+      "id": "world-20261113-1222-01",
+      "published_ist": "2026-11-13T11:02:00+05:30",
+      "headline": "Iran ki chetavni: America ki madad dushmani",
+      "detail": "Iran ke videsh mantralaya ne kaha America ke khilaf karwai me sainya ya rasad madad dene wale deshon ko dushman mana jayega — nausena, sainya upkaran ya karmiyon ki madad bhi isme shamil.",
+      "category": "World",
+      "exam_angle": "Hormuz aur West Asia tanav — antarrashtriya suraksha ke liye mahatvapurna.",
+      "source": "Tribune India",
+      "source_url": "https://www.tribuneindia.com/news/world/iran-warns-states-against-supporting-us-israeli-operations-says-military-assistance-to-washington-will-be-viewed-as-hostile-act/",
+      "genuineness": "corroborated",
+      "outlets": [
+        "ANI",
+        "Press TV"
       ],
       "image": null,
       "image_credit": null
