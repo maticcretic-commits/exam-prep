@@ -1,6 +1,6 @@
 {
   "date": "2026-11-13",
-  "updated_ist": "2026-11-13T19:27:29+05:30",
+  "updated_ist": "2026-11-13T20:27:25+05:30",
   "items": [
     {
       "id": "world-20261113-0622-01",
@@ -696,6 +696,25 @@
       ],
       "image": "../images/world/world-20261113-1922-02.jpg",
       "image_credit": "Rory Arnold / No 10 Downing Street, Wikimedia Commons (CC BY 2.0)"
+    },
+    {
+      "id": "world-20261113-2022-01",
+      "published_ist": "2026-11-13T13:49:00+05:30",
+      "headline": "Moscow me car bomb: ek afsar ki maut",
+      "detail": "Shukravar ko Moscow me car bomb se Ukraine ke poorv PM ke salaahkaar Sergei Zavorotny gambhir ghayal hue; guruvaar ko St. Petersburg me car bomb se ek sainya afsar ki maut hui thi — do din me doosra hamla.",
+      "category": "World",
+      "exam_angle": "Russia ke andar chhaya yuddh aur hatya ke prayas — antarrashtriya suraksha ke liye mahatvapurna.",
+      "source": "Associated Press",
+      "source_url": "https://www.newindianexpress.com/world/2026/Nov/13/bombings-in-russia-kill-a-military-officer-and-injure-an-adviser-to-ukraines-former-prime-minister",
+      "genuineness": "verified",
+      "outlets": [
+        "Associated Press",
+        "Reuters",
+        "The Guardian",
+        "Euromaidan Press"
+      ],
+      "image": "../images/world/world-20261113-2022-01.jpg",
+      "image_credit": "Associated Press"
     }
   ]
 }
