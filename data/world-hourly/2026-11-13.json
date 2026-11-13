@@ -1,6 +1,6 @@
 {
   "date": "2026-11-13",
-  "updated_ist": "2026-11-13T10:29:22+05:30",
+  "updated_ist": "2026-11-13T11:27:59+05:30",
   "items": [
     {
       "id": "world-20261113-0622-01",
@@ -262,6 +262,75 @@
         "Arab News",
         "Enab Baladi",
         "MENAFN"
+      ],
+      "image": null,
+      "image_credit": null
+    },
+    {
+      "id": "world-20261113-1127-01",
+      "published_ist": "2026-11-13T01:26:00+05:30",
+      "headline": "Putin: Europe bhi Ukraine vaarta me shamil",
+      "detail": "America ke doot Steve Witkoff ke mutabik, Putin ne agle daur ki Ukraine shaanti vaarta me Europe ke pratinidhiyon ko shamil karne par sahamati di — lekin Kremlin ke sahayak Ushakov ne iski pushti nahi ki; Abu Dhabi vaarta me bade kaidi adla-badli par bhi sahamati bani.",
+      "category": "World",
+      "exam_angle": "Ukraine shaanti vaarta me Europe ki bhoomika aur vaishvik shakti santulan — antarrashtriya sambandh ke liye mahatvapurna.",
+      "source": "The Straits Times",
+      "source_url": "https://www.straitstimes.com/world/europe/putin-lets-europe-join-ukraine-peace-talks-as-kyiv-says-starshield-disrupted-again?ref=top-stories",
+      "genuineness": "verified",
+      "outlets": [
+        "Reuters",
+        "Associated Press",
+        "The Straits Times"
+      ],
+      "image": null,
+      "image_credit": null
+    },
+    {
+      "id": "world-20261113-1127-02",
+      "published_ist": "2026-11-13T10:24:00+05:30",
+      "headline": "Japan PM Takaichi pehli baar China jayengi",
+      "detail": "Japan ki PM Sanae Takaichi 16–19 November ko Philippines aur China jayengi — Shenzhen me APEC shikhar sammelan me hissa lengi; PM banne ke baad unki pehli China yatra hai, Taiwan par unke bayan ke baad se dono deshon ke rishte tanav me hain.",
+      "category": "World",
+      "exam_angle": "Japan-China sambandh aur APEC — antarrashtriya sambandh ke liye mahatvapurna.",
+      "source": "Channel NewsAsia",
+      "source_url": "https://www.channelnewsasia.com/east-asia/japan-sanae-takaichi-first-china-trip-apec-summit-6548471",
+      "genuineness": "corroborated",
+      "outlets": [
+        "AFP",
+        "Lianhe Zaobao"
+      ],
+      "image": null,
+      "image_credit": null
+    },
+    {
+      "id": "world-20261113-1127-03",
+      "published_ist": "2026-11-13T09:38:00+05:30",
+      "headline": "Iran ka daava: Bahrain me US radar nishana",
+      "detail": "Iran ke Revolutionary Guards ne daava kiya ki unhone Bahrain me America ke early-warning radar ko nishana banaya — Sirik me telecom tower par hawai hamle ka badla bataya; America ya Bahrain ki taraf se abhi koi pushti nahi aayi.",
+      "category": "World",
+      "exam_angle": "Hormuz aur West Asia me America-Iran tanav — antarrashtriya suraksha ke liye mahatvapurna.",
+      "source": "Reuters",
+      "source_url": "https://www.reuters.com/world/middle-east/irans-guards-say-they-targeted-us-early-warning-radar-bahrain-2026-11-13/",
+      "genuineness": "corroborated",
+      "outlets": [
+        "Reuters",
+        "Tasnim"
+      ],
+      "image": null,
+      "image_credit": null
+    },
+    {
+      "id": "world-20261113-1127-04",
+      "published_ist": "2026-11-13T05:02:00+05:30",
+      "headline": "Moscow par raat bhar drone hamla, udanein thap",
+      "detail": "Moscow ke mayor ke mutabik raat 9:34 se subah 2:08 ke beech 100 se zyada drone roke gaye; Sheremetyevo, Domodedovo aur Zhukovsky hawai addon par udanein roki gayin; nuksan ya hatahat ki koi pushti nahi.",
+      "category": "World",
+      "exam_angle": "Russia-Ukraine yuddh me drone yuddh aur nagrik havaai suraksha — antarrashtriya suraksha ke liye ahem.",
+      "source": "Kyiv Independent",
+      "source_url": "https://kyivindependent.com/mass-drone-attack-on-moscow-grounds-flights-at-regions-airports/",
+      "genuineness": "corroborated",
+      "outlets": [
+        "Kyiv Independent",
+        "Izvestia"
       ],
       "image": null,
       "image_credit": null
