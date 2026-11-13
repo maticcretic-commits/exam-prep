@@ -72,6 +72,76 @@
     ],
     "answer_index": 1
    }
+  },
+  {
+   "episode": 114,
+   "video_hi": "0Gvsws2tR1I",
+   "video_hinglish": "0Gvsws2tR1I",
+   "capsules": [
+    {
+     "id": "ca-ep114-s1",
+     "headline_hi": "Mehngai 6.09% par, RBI seema paar",
+     "headline_hinglish": "Mehngai 6.09% par, RBI seema paar",
+     "detail_hi": "October mein retail inflation 6.09% rahi, khadya mehngai 8.94% — do saal mein pehli baar RBI ki 6% seema tooti.",
+     "detail_hinglish": "October mein retail inflation 6.09% rahi, khadya mehngai 8.94% — do saal mein pehli baar RBI ki 6% seema tooti.",
+     "category_hi": "Economy",
+     "category_en": "Economy"
+    },
+    {
+     "id": "ca-ep114-s2",
+     "headline_hi": "Bengaluru Pink Line aaj se shuru",
+     "headline_hinglish": "Bengaluru Pink Line aaj se shuru",
+     "detail_hi": "PM Modi ne Pink Line ka udghatan kiya, teen stationon ke naam badle, kal subah 6 baje se yatri safar kar sakenge.",
+     "detail_hinglish": "PM Modi ne Pink Line ka udghatan kiya, teen stationon ke naam badle, kal subah 6 baje se yatri safar kar sakenge.",
+     "category_hi": "Infrastructure",
+     "category_en": "National"
+    },
+    {
+     "id": "ca-ep114-s3",
+     "headline_hi": "Swachh Survekshan mein Puri avval",
+     "headline_hinglish": "Swachh Survekshan mein Puri avval",
+     "detail_hi": "Rashtrapati Murmu ne Swachh Survekshan Awards 2025-26 diye, tatiya shahron mein Puri pehle number par raha.",
+     "detail_hinglish": "Rashtrapati Murmu ne Swachh Survekshan Awards 2025-26 diye, tatiya shahron mein Puri pehle number par raha.",
+     "category_hi": "Awards",
+     "category_en": "Awards"
+    },
+    {
+     "id": "ca-ep114-s4",
+     "headline_hi": "CII Partnership Summit Vizag mein shuru",
+     "headline_hinglish": "CII Partnership Summit Vizag mein shuru",
+     "detail_hi": "31st CII Partnership Summit 12 November ko Visakhapatnam mein khula, theme hai Navigating the New World Order.",
+     "detail_hinglish": "31st CII Partnership Summit 12 November ko Visakhapatnam mein khula, theme hai Navigating the New World Order.",
+     "category_hi": "Economy",
+     "category_en": "Economy"
+    },
+    {
+     "id": "ca-ep114-s5",
+     "headline_hi": "Booker Prize 2026: M. John Harrison",
+     "headline_hinglish": "Booker Prize 2026: M. John Harrison",
+     "detail_hi": "British lekhak M. John Harrison ko The End of Everything ke liye Booker Prize mila, sabse umr-daraaz vijeta bane.",
+     "detail_hinglish": "British lekhak M. John Harrison ko The End of Everything ke liye Booker Prize mila, sabse umr-daraaz vijeta bane.",
+     "category_hi": "Awards",
+     "category_en": "Awards"
+    }
+   ],
+   "mcq": {
+    "id": "ca-ep114-mcq",
+    "q_hi": "October 2026 mein Bharat ki retail inflation kitni rahi?",
+    "q_hinglish": "October 2026 mein Bharat ki retail inflation kitni rahi?",
+    "options_hi": [
+     "5.54%",
+     "6.09%",
+     "5.09%",
+     "6.54%"
+    ],
+    "options_hinglish": [
+     "5.54%",
+     "6.09%",
+     "5.09%",
+     "6.54%"
+    ],
+    "answer_index": 1
+   }
   }
  ]
 }
