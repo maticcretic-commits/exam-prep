@@ -1,6 +1,6 @@
 {
   "date": "2026-11-13",
-  "updated_ist": "2026-11-13T12:27:22+05:30",
+  "updated_ist": "2026-11-13T14:24:55+05:30",
   "items": [
     {
       "id": "world-20261113-0622-01",
@@ -439,6 +439,41 @@
         "Outlook India",
         "Reuters",
         "The Hindu"
+      ],
+      "image": null,
+      "image_credit": null
+    },
+    {
+      "id": "world-20261113-1422-01",
+      "published_ist": "2026-11-13T13:40:00+05:30",
+      "headline": "Volgograd par 1,198 drone, 4 ki maut",
+      "detail": "Russia ke mutabik raat bhar Ukraine ne lagbhag 1,198 drone bheje — Volgograd ke audyogik kshetra me hamle me 4 karmchari mare aur 2 ghayal hue; 15 se zyada kshetron me drone roke gaye.",
+      "category": "World",
+      "exam_angle": "Russia-Ukraine yuddh aur drone hamle — antarrashtriya suraksha ke liye mahatvapurna.",
+      "source": "The Hindu",
+      "source_url": "https://www.thehindu.com/news/international/russia-says-four-killed-in-major-ukraine-drone-barrage/article71697111.ece",
+      "genuineness": "verified",
+      "outlets": [
+        "Reuters",
+        "AFP",
+        "The Straits Times"
+      ],
+      "image": null,
+      "image_credit": null
+    },
+    {
+      "id": "world-20261113-1422-02",
+      "published_ist": "2026-11-13T11:07:00+05:30",
+      "headline": "COP31: Jalvayu vitt par UN pramukh ka zor",
+      "detail": "Antalya me chal rahe COP31 me UN jalvayu pramukh Simon Stiell ne kaha desh apne vittiya vaade poore karein aur 2035 tak adaptation finance teen guna karne ki koshish tez ho.",
+      "category": "World",
+      "exam_angle": "COP31 aur jalvayu vitt — paryavaran aur antarrashtriya sammelan ke liye mahatvapurna.",
+      "source": "Tribune India",
+      "source_url": "https://www.tribuneindia.com/news/world/climate-finance-in-focus-at-cop31-un-chief-calls-for-delivery-on-pledges/",
+      "genuineness": "corroborated",
+      "outlets": [
+        "ANI",
+        "PTI"
       ],
       "image": null,
       "image_credit": null
