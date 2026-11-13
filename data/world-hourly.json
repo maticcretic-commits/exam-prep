@@ -1,6 +1,26 @@
 {
-  "updated_ist": "2026-11-13T08:31:17+05:30",
+  "updated_ist": "2026-11-13T09:26:05+05:30",
   "items": [
+    {
+      "id": "world-20261113-0922-01",
+      "published_ist": "2026-11-13T07:44:00+05:30",
+      "headline": "Gaza: Nasser Hospital par hamla, 6 ki maut",
+      "detail": "Khan Younis ke Nasser Hospital ki surgery ward par guruvaar subah Israeli hamle me ek surgeon aur 13 saal ke ladke samet 6 ki maut, 27 ghayal; IDF ne kaha Hamas commander nishana tha, WHO ne nuksan ki pushti ki.",
+      "category": "World",
+      "exam_angle": "Yuddh-viram ke bawjood Gaza par hamla — West Asia aur antarrashtriya sangathan ke liye mahatvapurna.",
+      "source": "Firstpost",
+      "source_url": "https://www.firstpost.com/world/6-killed-27-injured-after-israeli-strike-hits-surgical-unit-of-nasser-hospital-in-gaza-14059677.html",
+      "genuineness": "verified",
+      "outlets": [
+        "Reuters",
+        "CNN",
+        "AFP",
+        "Al Jazeera",
+        "Firstpost"
+      ],
+      "image": "../images/world/world-20261113-0922-01.jpg",
+      "image_credit": "Reuters via GMA Network"
+    },
     {
       "id": "world-20261113-0822-01",
       "published_ist": "2026-11-13T07:54:00+05:30",
@@ -354,62 +374,6 @@
       ],
       "image": "../images/world/world-20261112-1122-01.jpg",
       "image_credit": "The Straits Times"
-    },
-    {
-      "id": "world-20261112-1624-02",
-      "published_ist": "2026-11-12T09:20:00+05:30",
-      "headline": "Israel cabinet: Iran hamle ki taiyaari badhao",
-      "detail": "Israel ki suraksha cabinet ne sena ko Iran par sambhav hamle ki taiyaari badhane ka nirdesh diya, KAN ne bataya; vipaksh neta Eisenkot ne nayi sarkar banne tak bina turant khatre ke sainya karwai se mana kiya.",
-      "category": "World",
-      "exam_angle": "Israel-Iran takraav aur West Asia ki suraksha — antarrashtriya sambandh ke liye mahatvapurna.",
-      "source": "Al Jazeera",
-      "source_url": "https://www.aljazeera.com/amp/news/2026/11/12/iran-warns-of-expanded-retaliation-as-israel-reportedly-readies-to-attack",
-      "genuineness": "verified",
-      "outlets": [
-        "KAN",
-        "Al Jazeera",
-        "The Jerusalem Post",
-        "The Times of India"
-      ],
-      "image": "../images/world/world-20261112-1624-02.jpg",
-      "image_credit": "Avi Ohayon, Wikimedia Commons (CC BY-SA)"
-    },
-    {
-      "id": "world-20261112-1222-01",
-      "published_ist": "2026-11-12T09:02:00+05:30",
-      "headline": "Trump-Netanyahu me Iran par takraar",
-      "detail": "Israeli media ke mutabik hafte ke ant me phone par Trump aur Netanyahu ke beech Iran par yuddh phir shuru karne ko lekar tez behes hui, ek sutra ne ise 'shouting match from hell' kaha; Netanyahu ke karyalaya ne ise 'fake news' batakar khariz kiya, jabki Trump ne kaha abhi dobara hamla zaroori nahi lagta.",
-      "category": "World",
-      "exam_angle": "America-Israel sambandh aur Iran par yuddh ki sambhavna — antarrashtriya sambandh ke liye mahatvapurna.",
-      "source": "The Tribune",
-      "source_url": "https://www.tribuneindia.com/news/world/shouting-match-trump-netanyahu-clash-over-future-of-iran-war-report/",
-      "genuineness": "verified",
-      "outlets": [
-        "Ynet",
-        "Yedioth Ahronoth",
-        "New York Post",
-        "TRT World"
-      ],
-      "image": null,
-      "image_credit": null
-    },
-    {
-      "id": "world-20261112-1722-01",
-      "published_ist": "2026-11-12T08:43:00+05:30",
-      "headline": "G7: Taiwan ke paas China ki harkat khatra",
-      "detail": "G7 videsh mantriyon ne Paris me sanyukt ghoshna me kaha, Taiwan ke poorv me China ki badhti harkatein kshetriya sthirata aur samudri aazadi ke liye khatra hain; China ne June se wahan coast guard gasht badhai hai.",
-      "category": "World",
-      "exam_angle": "Taiwan Strait aur Indo-Pacific me shakti santulan — antarrashtriya sambandh ke liye mahatvapurna.",
-      "source": "The Hindu",
-      "source_url": "https://www.thehindu.com/news/international/g7-foreign-ministers-say-chinas-actions-east-of-taiwan-threaten-stability/article71692205.ece",
-      "genuineness": "corroborated",
-      "outlets": [
-        "Reuters",
-        "The Hindu",
-        "Taipei Times"
-      ],
-      "image": "../images/world/world-20261112-1722-01.jpg",
-      "image_credit": "Reuters via The Hindu"
     }
   ]
 }
