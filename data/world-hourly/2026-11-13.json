@@ -1,6 +1,6 @@
 {
   "date": "2026-11-13",
-  "updated_ist": "2026-11-13T07:27:29+05:30",
+  "updated_ist": "2026-11-13T08:31:17+05:30",
   "items": [
     {
       "id": "world-20261113-0622-01",
@@ -130,6 +130,63 @@
       ],
       "image": null,
       "image_credit": null
+    },
+    {
+      "id": "world-20261113-0822-01",
+      "published_ist": "2026-11-13T07:54:00+05:30",
+      "headline": "Microsoft 365 thap: Outlook-Teams ghanton band",
+      "detail": "Guruvaar ko Microsoft 365 me badi kharabi se Outlook, Teams aur Copilot ghanton band rahe — 74 deshon me asar, Downdetector par 1.38 lakh shikayatein; Microsoft ne kaha server bahaal ho rahe hain, karan ki jaanch jaari hai.",
+      "category": "World",
+      "exam_angle": null,
+      "source": "Malay Mail",
+      "source_url": "https://www.malaymail.com/news/tech-gadgets/2026/11/13/microsoft-scrambles-aggressively-as-widespread-outage-hits-outlook-teams-and-copilot-worldwide/243054",
+      "genuineness": "verified",
+      "outlets": [
+        "Malay Mail",
+        "Korea Times",
+        "Republic World",
+        "HCA Mag"
+      ],
+      "image": null,
+      "image_credit": null
+    },
+    {
+      "id": "world-20261113-0822-02",
+      "published_ist": "2026-11-13T07:02:00+05:30",
+      "headline": "Ireland me Zelenskyy se mile Witkoff-Kushner",
+      "detail": "Moscow ke baad America ke doot Witkoff aur Kushner ne Dublin me Zelenskyy se milkar yuddh ke sabse bade kaidi adla-badli ki taiyaari ki pushti ki; agle daur ki baatchit me Europe bhi shamil hoga.",
+      "category": "World",
+      "exam_angle": "Russia-Ukraine shanti vartaa aur Europe ki bhoomika — antarrashtriya sambandhon ke liye mahatvapurna.",
+      "source": "The Tribune",
+      "source_url": "https://www.tribuneindia.com/news/world/zelenskyy-meets-witkoff-kushner-in-ireland-announces-major-prisoner-exchange-greater-european-role-in-ukraine-peace-talks/",
+      "genuineness": "verified",
+      "outlets": [
+        "The Tribune",
+        "CNN",
+        "The Jerusalem Post",
+        "Kyiv Post"
+      ],
+      "image": null,
+      "image_credit": null
+    },
+    {
+      "id": "world-20261113-0822-03",
+      "published_ist": "2026-11-13T05:22:00+05:30",
+      "headline": "Riyadh par Houthi drone, gathbandhan ne roke",
+      "detail": "Guruvaar ko Saudi gathbandhan ne Riyadh kshetra me do aur Eastern Province me ek Houthi drone ko rok kar gira diya; Houthi ne tel aur sainya thikanon par hamle ka daava kiya; UNSC ne Yemen pratibandh ek saal badhaye.",
+      "category": "World",
+      "exam_angle": "Lal Sagar aur Hormuz ke paas tel supply — Bharat ki urja suraksha ke liye mahatvapurna.",
+      "source": "Al Jazeera",
+      "source_url": "https://www.aljazeera.com/news/2026/11/12/yemens-houthis-renew-strikes-on-saudi-arabia-as-unsc-extends-sanctions",
+      "genuineness": "verified",
+      "outlets": [
+        "Al Jazeera",
+        "Arab News",
+        "Gulf News",
+        "NDTV"
+      ],
+      "image": "../images/world/world-20261113-0822-03.jpg",
+      "image_credit": "Al Jazeera"
     }
   ]
 }
