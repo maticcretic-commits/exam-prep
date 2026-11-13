@@ -1,6 +1,44 @@
 {
-  "updated_ist": "2026-11-13T07:27:29+05:30",
+  "updated_ist": "2026-11-13T08:31:17+05:30",
   "items": [
+    {
+      "id": "world-20261113-0822-01",
+      "published_ist": "2026-11-13T07:54:00+05:30",
+      "headline": "Microsoft 365 thap: Outlook-Teams ghanton band",
+      "detail": "Guruvaar ko Microsoft 365 me badi kharabi se Outlook, Teams aur Copilot ghanton band rahe — 74 deshon me asar, Downdetector par 1.38 lakh shikayatein; Microsoft ne kaha server bahaal ho rahe hain, karan ki jaanch jaari hai.",
+      "category": "World",
+      "exam_angle": null,
+      "source": "Malay Mail",
+      "source_url": "https://www.malaymail.com/news/tech-gadgets/2026/11/13/microsoft-scrambles-aggressively-as-widespread-outage-hits-outlook-teams-and-copilot-worldwide/243054",
+      "genuineness": "verified",
+      "outlets": [
+        "Malay Mail",
+        "Korea Times",
+        "Republic World",
+        "HCA Mag"
+      ],
+      "image": null,
+      "image_credit": null
+    },
+    {
+      "id": "world-20261113-0822-02",
+      "published_ist": "2026-11-13T07:02:00+05:30",
+      "headline": "Ireland me Zelenskyy se mile Witkoff-Kushner",
+      "detail": "Moscow ke baad America ke doot Witkoff aur Kushner ne Dublin me Zelenskyy se milkar yuddh ke sabse bade kaidi adla-badli ki taiyaari ki pushti ki; agle daur ki baatchit me Europe bhi shamil hoga.",
+      "category": "World",
+      "exam_angle": "Russia-Ukraine shanti vartaa aur Europe ki bhoomika — antarrashtriya sambandhon ke liye mahatvapurna.",
+      "source": "The Tribune",
+      "source_url": "https://www.tribuneindia.com/news/world/zelenskyy-meets-witkoff-kushner-in-ireland-announces-major-prisoner-exchange-greater-european-role-in-ukraine-peace-talks/",
+      "genuineness": "verified",
+      "outlets": [
+        "The Tribune",
+        "CNN",
+        "The Jerusalem Post",
+        "Kyiv Post"
+      ],
+      "image": null,
+      "image_credit": null
+    },
     {
       "id": "world-20261113-0722-03",
       "published_ist": "2026-11-13T05:29:00+05:30",
@@ -19,6 +57,25 @@
       ],
       "image": null,
       "image_credit": null
+    },
+    {
+      "id": "world-20261113-0822-03",
+      "published_ist": "2026-11-13T05:22:00+05:30",
+      "headline": "Riyadh par Houthi drone, gathbandhan ne roke",
+      "detail": "Guruvaar ko Saudi gathbandhan ne Riyadh kshetra me do aur Eastern Province me ek Houthi drone ko rok kar gira diya; Houthi ne tel aur sainya thikanon par hamle ka daava kiya; UNSC ne Yemen pratibandh ek saal badhaye.",
+      "category": "World",
+      "exam_angle": "Lal Sagar aur Hormuz ke paas tel supply — Bharat ki urja suraksha ke liye mahatvapurna.",
+      "source": "Al Jazeera",
+      "source_url": "https://www.aljazeera.com/news/2026/11/12/yemens-houthis-renew-strikes-on-saudi-arabia-as-unsc-extends-sanctions",
+      "genuineness": "verified",
+      "outlets": [
+        "Al Jazeera",
+        "Arab News",
+        "Gulf News",
+        "NDTV"
+      ],
+      "image": "../images/world/world-20261113-0822-03.jpg",
+      "image_credit": "Al Jazeera"
     },
     {
       "id": "world-20261113-0622-01",
@@ -353,99 +410,6 @@
       ],
       "image": "../images/world/world-20261112-1722-01.jpg",
       "image_credit": "Reuters via The Hindu"
-    },
-    {
-      "id": "world-20261112-1322-02",
-      "published_ist": "2026-11-12T08:29:00+05:30",
-      "headline": "SS United States dooba, sabse bada reef",
-      "detail": "Duniya ka sabse tez samudri jahaz SS United States Florida ke paas janboojhkar duboya gaya — 990 foot lamba jahaz ab duniya ka sabse bada kritrim reef banega, gotaakhoro ke liye 12 November se khulega.",
-      "category": "World",
-      "exam_angle": "Samudri paryavaran aur kritrim reef — paryavaran ke liye mahatvapurna.",
-      "source": "USA Today",
-      "source_url": "https://www.usatoday.com/story/graphics/2026/11/11/ss-united-states-scuba-diving/87125612007/",
-      "genuineness": "verified",
-      "outlets": [
-        "Associated Press",
-        "USA Today",
-        "WHRO",
-        "Pensacola News Journal"
-      ],
-      "image": "../images/world/world-20261112-1322-02.jpg",
-      "image_credit": "Okaloosa County Tourist Development Dept (Public domain)"
-    },
-    {
-      "id": "world-20261112-1922-02",
-      "published_ist": "2026-11-12T07:44:00+05:30",
-      "headline": "Kyiv me drone hamla, 1 ki maut",
-      "detail": "Russia ne raat bhar Ukraine par bada hamla kiya — Kyiv me ek drone nau-manzila imarat se takraya, 44 saal ki mahila ki maut aur 7 ghayal; Russia ka kehna hai usne Kyiv ke paas missile aur drone factory ko nishana banaya.",
-      "category": "World",
-      "exam_angle": "Russia-Ukraine yuddh aur nagrik suraksha — antarrashtriya sangharsh ka ahem mudda.",
-      "source": "Ukrainska Pravda",
-      "source_url": "https://www.pravda.com.ua/eng/news/2026/11/12/8062448/",
-      "genuineness": "verified",
-      "outlets": [
-        "Reuters",
-        "Ukrainska Pravda",
-        "Interfax-Ukraine",
-        "Kyiv Post"
-      ],
-      "image": "../images/world/world-20261112-1922-02.jpg",
-      "image_credit": "Ukrainska Pravda"
-    },
-    {
-      "id": "world-20261112-1222-02",
-      "published_ist": "2026-11-12T06:59:00+05:30",
-      "headline": "Kushner-Witkoff guruvaar ko Putin se milenge",
-      "detail": "America ke doot Jared Kushner aur Steve Witkoff guruvaar ko Moscow me Rashtrapati Putin se milenge; Axios ke mutabik ve Russia se Europe ke saath naye suraksha samjhote ka prastav mangenge aur agle daur ki vaarta me Europe ki bhagidari par zor denge, phir Dublin me Zelensky se milenge.",
-      "category": "World",
-      "exam_angle": "Russia-Ukraine shanti vaarta aur Europe ki suraksha vyavastha — antarrashtriya sambandh ke liye mahatvapurna.",
-      "source": "The Economic Times",
-      "source_url": "https://economictimes.indiatimes.com/news/international/world-news/trump-envoys-to-meet-putin-as-us-pushes-ukraine-peace-deal-new-europe-russia-security-framework-reports-axios/articleshow/135751924.cms",
-      "genuineness": "verified",
-      "outlets": [
-        "Axios",
-        "The Economic Times",
-        "The Times of India",
-        "The Jerusalem Post"
-      ],
-      "image": "../images/world/world-20261112-1222-02.jpg",
-      "image_credit": "The Economic Times"
-    },
-    {
-      "id": "world-20261112-2222-03",
-      "published_ist": "2026-11-12T06:20:00+05:30",
-      "headline": "Oman ke dweep par Iran ka hamla",
-      "detail": "Iran ne kaha uski nausena ne Hormuz me Oman ke Didamar dweep ke navigation system par hamla kiya; Reuters ke sutron ne hamle ki pushti ki, nuksan par Oman se matbhed hai.",
-      "category": "World",
-      "exam_angle": "Hormuz jalmarg — tel vyapaar aur samudri suraksha par asar.",
-      "source": "Fox News",
-      "source_url": "https://foxnews.com/world/iran-escalates-hormuz-claims-strike-omani-island-enemy-uses-us-military-ops",
-      "genuineness": "verified",
-      "outlets": [
-        "Reuters",
-        "Fox News",
-        "Times of Israel"
-      ],
-      "image": "../images/world/world-20261112-2222-03.jpg",
-      "image_credit": "Rainer Crummenerl, Wikimedia Commons (CC BY-SA 4.0)"
-    },
-    {
-      "id": "world-20261112-2129-04",
-      "published_ist": "2026-11-12T05:31:00+05:30",
-      "headline": "Abu Dhabi: Russia-Ukraine kaidi adla-badli par sahmat",
-      "detail": "Abu Dhabi me do din ki baatchit ke baad Russia aur Ukraine bade paimane par kaidiyon ki adla-badli par sahmat — har taraf se 1,000 se 1,500 kaidi; yuddh-viram par koi samjhauta nahi hua.",
-      "category": "World",
-      "exam_angle": "Russia-Ukraine yuddh me manaviy samjhauta aur shanti vaarta — antarrashtriya sambandh ke liye ahem.",
-      "source": "NHK World-Japan",
-      "source_url": "https://www3.nhk.or.jp/nhkworld/news/20261112de74531/",
-      "genuineness": "verified",
-      "outlets": [
-        "NHK World-Japan",
-        "Qatar Tribune",
-        "Associated Press"
-      ],
-      "image": null,
-      "image_credit": null
     }
   ]
 }
