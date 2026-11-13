@@ -1,5 +1,5 @@
 {
-  "updated_ist": "2026-11-13T12:27:22+05:30",
+  "updated_ist": "2026-11-13T13:26:41+05:30",
   "items": [
     {
       "id": "world-20261113-1222-01",
@@ -48,6 +48,42 @@
       "outlets": [
         "Reuters",
         "Tasnim"
+      ],
+      "image": null,
+      "image_credit": null
+    },
+    {
+      "id": "world-20261113-1322-02",
+      "published_ist": "2026-11-13T09:35:00+05:30",
+      "headline": "UN ne Houthi pratibandh 2027 tak badhaye",
+      "detail": "UN Suraksha Parishad ne sarvasammati se Yemen par pratibandh badhaye — Houthi netaon par sampatti-jabti aur yatra-pratibandh 14 November 2027 tak, aur drone-missile banane wale dohre-upyog wale saman par rok kadi ki.",
+      "category": "World",
+      "exam_angle": "Yemen sankat aur UN pratibandh — antarrashtriya suraksha ke liye mahatvapurna.",
+      "source": "Dawn",
+      "source_url": "https://www.dawn.com/news/2044254",
+      "genuineness": "verified",
+      "outlets": [
+        "Dawn",
+        "Gulf News",
+        "Arab News"
+      ],
+      "image": "../images/world/world-20261113-1322-02.jpg",
+      "image_credit": "Dawn"
+    },
+    {
+      "id": "world-20261113-1322-03",
+      "published_ist": "2026-11-13T09:22:00+05:30",
+      "headline": "Trump ne Vance ko Iran vaarta se hataya",
+      "detail": "Trump ne kaha America ko Iran se koi samjhauta nahi chahiye aur up-rashtrapati JD Vance ko Iran vaarta se hatakar gharelu dhokhadhadi ke khilaf abhiyan par lagaya; Vance ne yuddh ki rajnaitik keemat par sawal uthaye the.",
+      "category": "World",
+      "exam_angle": "America-Iran tanav aur Hormuz — antarrashtriya sambandh ke liye mahatvapurna.",
+      "source": "Outlook India",
+      "source_url": "https://www.outlookindia.com/international/donald-trump-orders-jd-vance-iran-war-us-fraud-campaign-midterm-election-losses",
+      "genuineness": "verified",
+      "outlets": [
+        "Outlook India",
+        "Reuters",
+        "The Hindu"
       ],
       "image": null,
       "image_credit": null
@@ -259,6 +295,25 @@
       "image_credit": null
     },
     {
+      "id": "world-20261113-1322-01",
+      "published_ist": "2026-11-13T01:08:00+05:30",
+      "headline": "Gaza ke liye 53 deshon ki madad-appeal",
+      "detail": "53 UN sadasya deshon aur sangathanon ne Israel ki aane wali sarkar se Gaza me bina rok-tok madad ki maang ki — UN relief chief Tom Fletcher ne kaha 1.5 lakh se zyada tent aur sardi ka saman bahar ruka hai, sabhi crossing khulni chahiye.",
+      "category": "World",
+      "exam_angle": "Gaza manaviya sankat aur UN — antarrashtriya sambandh ke liye mahatvapurna.",
+      "source": "The National",
+      "source_url": "https://www.thenationalnews.com/news/us/2026/11/12/un-countries-urge-israels-incoming-government-to-open-gaza-to-unrestricted-aid/",
+      "genuineness": "verified",
+      "outlets": [
+        "The National",
+        "Gulf News",
+        "Arab News",
+        "UN OCHA"
+      ],
+      "image": "../images/world/world-20261113-1322-01.jpg",
+      "image_credit": "The National"
+    },
+    {
       "id": "world-20261113-0722-01",
       "published_ist": "2026-11-12T23:51:00+05:30",
       "headline": "Saudi: EU Houthi ko aatanki ghoshit kare",
@@ -387,62 +442,6 @@
       ],
       "image": "../images/world/world-20261112-2022-02.jpg",
       "image_credit": "CDC/Cynthia Goldsmith, Wikimedia Commons (Public domain)"
-    },
-    {
-      "id": "world-20261112-1922-01",
-      "published_ist": "2026-11-12T17:58:00+05:30",
-      "headline": "Trump: Mexico roko, warna tariff dugna",
-      "detail": "Trump ne dhamki di — agar Mexico lagbhag 1,500 pravasiyon ke kafile ko nahi rokta to America Mexico par tariff turant dugna kar dega; kafila mangalwar ko Tapachula se chala tha.",
-      "category": "World",
-      "exam_angle": "America-Mexico vyapar aur pravasan ka sambandh — antarrashtriya sambandh ke liye ahem mudda.",
-      "source": "Reuters",
-      "source_url": "https://www.reuters.com/world/us/trump-threatens-double-tariffs-mexico-if-it-does-not-halt-migrants-2026-11-12/",
-      "genuineness": "verified",
-      "outlets": [
-        "Reuters",
-        "The Times of India",
-        "New York Post"
-      ],
-      "image": "../images/world/world-20261112-1922-01.jpg",
-      "image_credit": "New York Post"
-    },
-    {
-      "id": "world-20261113-1222-03",
-      "published_ist": "2026-11-12T17:08:00+05:30",
-      "headline": "Russia ki 5 sabse badi refinery par hamla",
-      "detail": "Ukraine ke General Staff ne kaha 30 October se Russia ki paanch sabse badi refinery — Omsk, Kirishi, Ryazan, Nizhny Novgorod aur Yaroslavl — par hamle kiye gaye; 11 November ko Omsk refinery me aag lagi.",
-      "category": "World",
-      "exam_angle": "Russia-Ukraine yuddh me urja yuddh — antarrashtriya sambandh ke liye mahatvapurna.",
-      "source": "Interfax-Ukraine",
-      "source_url": "https://en.interfax.com.ua/news/general/1235400.html",
-      "genuineness": "corroborated",
-      "outlets": [
-        "Ukraine General Staff",
-        "Interfax-Ukraine",
-        "Al Jazeera"
-      ],
-      "image": "../images/world/world-20261113-1222-03.jpg",
-      "image_credit": "Interfax-Ukraine"
-    },
-    {
-      "id": "world-20261112-1522-01",
-      "published_ist": "2026-11-12T14:23:00+05:30",
-      "headline": "China: Nvidia jasusi daave America ki 'nakabandi' chaal",
-      "detail": "China ne kaha America Nvidia CEO Jensen Huang par jasusi ke aaropon ko China par takniki 'nakabandi' lagane ke bahane ke roop me istemal kar raha hai; Beijing ne aaropon ko be-buniyad batakar khariz kiya, jabki Nvidia ne swatantra jaanch shuru ki hai.",
-      "category": "World",
-      "exam_angle": "America-China takniki yuddh aur AI chip pratibandh — antarrashtriya sambandh ke liye mahatvapurna.",
-      "source": "Channel News Asia",
-      "source_url": "https://www.channelnewsasia.com/east-asia/china-us-nvidia-spy-claims-justify-ai-chips-blockade-6545491",
-      "genuineness": "verified",
-      "outlets": [
-        "Channel News Asia",
-        "The Straits Times",
-        "The New York Times",
-        "The Wall Street Journal",
-        "The Economic Times"
-      ],
-      "image": "../images/world/world-20261112-1522-01.jpg",
-      "image_credit": "Anderseidesvik, Wikimedia Commons (CC BY-SA 4.0)"
     }
   ]
 }
