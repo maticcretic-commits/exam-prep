@@ -1,6 +1,6 @@
 {
   "date": "2026-11-13",
-  "updated_ist": "2026-11-13T17:22:00+05:30",
+  "updated_ist": "2026-11-13T18:26:51+05:30",
   "items": [
     {
       "id": "world-20261113-0622-01",
@@ -602,6 +602,62 @@
       ],
       "image": null,
       "image_credit": null
+    },
+    {
+      "id": "world-20261113-1822-01",
+      "published_ist": "2026-11-13T16:03:00+05:30",
+      "headline": "Indonesia ke up-rashtrapati Gibran ne istifa diya",
+      "detail": "Shiksha yogyata par sawal aur mahabhiyog ke dabav ke beech Gibran Rakabuming Raka ne istifa de diya; sansad 2 December ko naye up-rashtrapati ka chunaav karegi.",
+      "category": "World",
+      "exam_angle": "Indonesia, up-rashtrapati chunaav aur samvaidhanik prakriya — antarrashtriya rajneeti ke liye mahatvapurna.",
+      "source": "Reuters",
+      "source_url": "https://www.reuters.com/world/asia-pacific/indonesias-upper-house-pick-new-vice-president-december-2-its-speaker-says-2026-11-13/",
+      "genuineness": "verified",
+      "outlets": [
+        "Reuters",
+        "Moneycontrol",
+        "South China Morning Post",
+        "Outlook India"
+      ],
+      "image": "../images/world/world-20261113-1822-01.jpg",
+      "image_credit": "Darwis Triadi & Ministry of State Secretariat, Wikimedia Commons (Public domain)"
+    },
+    {
+      "id": "world-20261113-1822-02",
+      "published_ist": "2026-11-13T17:21:00+05:30",
+      "headline": "Iran ne IAEA ko kaha: nirikshan abhi nahi",
+      "detail": "Iran ne UN parmanu agency ko bataya ki America ke hamle ki dhamki ke beech parmanu nirikshan par baat-cheet nahi ho sakti; IAEA ne uranium bhandar ki sthiti ki jaankari na milne par chinta jatayi.",
+      "category": "World",
+      "exam_angle": "IAEA, parmanu nigrani aur Iran — antarrashtriya sangathan aur suraksha ke liye mahatvapurna.",
+      "source": "Al Jazeera",
+      "source_url": "https://www.aljazeera.com/news/2026/11/13/un-watchdog-calls-on-iran-to-reopen-nuclear-facilities-to-inspection",
+      "genuineness": "verified",
+      "outlets": [
+        "Associated Press",
+        "Al Jazeera",
+        "Times of Israel",
+        "The Times of India"
+      ],
+      "image": "../images/world/world-20261113-1822-02.jpg",
+      "image_credit": "IAEA Imagebank, Wikimedia Commons (CC BY 2.0)"
+    },
+    {
+      "id": "world-20261113-1822-03",
+      "published_ist": "2026-11-13T15:23:00+05:30",
+      "headline": "Norway court ne teen tel licence radd kiye",
+      "detail": "Norway ki Supreme Court ne Tyrving, Breidablikk aur Yggdrasil kshetron ke teen tel licence avaidh kar diye, kyunki tel jalane se hone wale utsarjan ka aaklan nahi hua tha; tel utpadan par turant asar nahi padega.",
+      "category": "World",
+      "exam_angle": "Jalvayu mukadma, Scope 3 utsarjan aur Norway ki tel neeti — paryavaran aur antarrashtriya kanoon ke liye mahatvapurna.",
+      "source": "Reuters",
+      "source_url": "https://www.reuters.com/sustainability/climate-energy/norway-supreme-court-rules-against-government-oilfields-case-output-unaffected-2026-11-13/",
+      "genuineness": "verified",
+      "outlets": [
+        "Reuters",
+        "Moneycontrol",
+        "Sweden Herald"
+      ],
+      "image": "../images/world/world-20261113-1822-03.jpg",
+      "image_credit": "Gary Bembridge, Wikimedia Commons (CC BY 2.0)"
     }
   ]
 }
