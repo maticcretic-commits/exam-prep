@@ -1,6 +1,25 @@
 {
-  "updated_ist": "2026-11-13T06:22:00+05:30",
+  "updated_ist": "2026-11-13T07:27:29+05:30",
   "items": [
+    {
+      "id": "world-20261113-0722-03",
+      "published_ist": "2026-11-13T05:29:00+05:30",
+      "headline": "Brooklyn imarat dhahi: 8 ki maut",
+      "detail": "New York ke Brooklyn me budhvaar shaam teen-manzila imarat paas ke nirman sthal par gir gayi — 8 ki maut, jinme 2 bachche aur 2 mazdoor shamil, 18 ghayal; shahar ke vibhag ne kaha paas ki khudai me 'asurakshit nirman kaam' kaaran bana; mayor ne 100 se zyada nirman sthalon ki jaanch ke aadesh diye.",
+      "category": "World",
+      "exam_angle": null,
+      "source": "The Times",
+      "source_url": "https://www.thetimes.com/us/news-today/article/eight-killed-brooklyn-flatbush-new-york-building-collapse-8ppmwbrnp",
+      "genuineness": "verified",
+      "outlets": [
+        "The Times",
+        "The Wall Street Journal",
+        "South China Morning Post",
+        "Firstpost"
+      ],
+      "image": null,
+      "image_credit": null
+    },
     {
       "id": "world-20261113-0622-01",
       "published_ist": "2026-11-13T03:32:00+05:30",
@@ -14,6 +33,24 @@
       "outlets": [
         "Reuters",
         "BBC",
+        "The Times of Israel"
+      ],
+      "image": null,
+      "image_credit": null
+    },
+    {
+      "id": "world-20261113-0722-01",
+      "published_ist": "2026-11-12T23:51:00+05:30",
+      "headline": "Saudi: EU Houthi ko aatanki ghoshit kare",
+      "detail": "Saudi Arabia EU par dabaav daal raha hai ki Yemen ke Iran-samarthit Houthi sangathan ko aatanki sangathan ghoshit kare — Houthi ke Saudi par lagbhag roz ke hamle jaari hain; chhah European adhikariyon ke mutabik zyadaatar sadasya desh hichkicha rahe hain, kyunki isse Yemen shanti vaarta ke raaste band ho sakte hain; faisle ke liye 27 sadasya deshon ki sarvasammati chahiye.",
+      "category": "World",
+      "exam_angle": "Yemen sangharsh, EU ki videsh neeti aur aatankwad-suchi — antarrashtriya sambandh ke liye mahatvapurna.",
+      "source": "Reuters",
+      "source_url": "https://www.reuters.com/world/middle-east/saudi-arabia-puts-pressure-eu-label-yemens-houthis-terrorist-group-2026-11-12/",
+      "genuineness": "corroborated",
+      "outlets": [
+        "Reuters",
+        "Al Jazeera",
         "The Times of Israel"
       ],
       "image": null,
@@ -76,6 +113,25 @@
       "image_credit": "Anderseidesvik, Wikimedia Commons (CC BY-SA 4.0)"
     },
     {
+      "id": "world-20261113-0722-02",
+      "published_ist": "2026-11-12T18:30:00+05:30",
+      "headline": "Washington gym firing: 2 ki maut, 4 ghayal",
+      "detail": "Washington DC ke Logan Circle me guruvaar subah VIDA Fitness gym me ek doctor ne firing ki — building manager James Stuart ki maut, 4 log ghayal hue, ek ki haalat gambhir; hamlaawar ne saatvin manzil ke penthouse se bhi goliyan chalaai aur baad me khud ko goli maar li; police ke mutabik building ke kaale phaphundi (black mold) vivaad se jhagra tha.",
+      "category": "World",
+      "exam_angle": null,
+      "source": "New York Post",
+      "source_url": "https://nypost.com/2026/11/12/us-news/victim-in-dc-shooting-idd-as-building-manager-that-matt-lambert-had-a-beef-with-over-moldy-penthouse/",
+      "genuineness": "verified",
+      "outlets": [
+        "Associated Press",
+        "Reuters",
+        "New York Post",
+        "Bloomberg Law"
+      ],
+      "image": null,
+      "image_credit": null
+    },
+    {
       "id": "world-20261112-2022-02",
       "published_ist": "2026-11-12T18:07:00+05:30",
       "headline": "Congo Ebola: MSF ne chhute case ki chetavni di",
@@ -134,17 +190,17 @@
     {
       "id": "world-20261112-1830-01",
       "published_ist": "2026-11-12T14:02:00+05:30",
-      "headline": "Hormuz me 2 tanker dhamakon se band",
-      "detail": "Budhwar raat Hormuz Strait me 2 supertanker dhamakon ke baad band ho gaye — IRGC ke mutabik dono me 40 lakh barrel se zyada tel tha aur ve 'bina anumati' wale raste par ja rahe the; dhamake ki wajah abhi saaf nahi hai.",
+      "headline": "Hormuz: ab kul 4 tanker dhamakon ki chapet me",
+      "detail": "Hormuz Strait me budhwar raat 2 supertanker dhamakon ke baad band ho gaye; guruvaar dopahar ko 2 aur tanker ne surang (mine) se takkar khaai — kul 4 tanker dhamakon ki chapet me aaye; Iran ki sena ke mutabik sabhi ne chetavni nazarandaaz ki thi aur 'bina anumati' wale raste par the; Reuters ke mutabik Iran ke daave ki swatantra pushti abhi nahi hui hai.",
       "category": "World",
       "exam_angle": "Hormuz Strait duniya ke tel vyapar ka sabse mahatvapurna rasta hai — energy suraksha ke liye ahem.",
-      "source": "The Hindu",
-      "source_url": "https://www.thehindu.com/news/international/irans-guards-say-accident-left-two-tankers-on-fire-in-hormuz/article71692872.ece",
+      "source": "Al Arabiya",
+      "source_url": "https://english.alarabiya.net/News/middle-east/2026/11/12/iran-says-two-oil-tankers-carrying-over-four-million-barrels-ablaze-in-hormuz-strait",
       "genuineness": "verified",
       "outlets": [
         "Reuters",
-        "The Hindu",
-        "Anadolu"
+        "Al Arabiya",
+        "The Jerusalem Post"
       ],
       "image": null,
       "image_credit": null
@@ -390,61 +446,6 @@
       ],
       "image": null,
       "image_credit": null
-    },
-    {
-      "id": "world-20261112-1122-02",
-      "published_ist": "2026-11-12T04:25:00+05:30",
-      "headline": "Nasser aspatal par hamla, 6 ki maut",
-      "detail": "Khan Younis ke Nasser Medical Complex par subah-subeh Israeli hawai hamle me kam se kam 6 log mare gaye, jinme ek surgeon bhi hain, aur 20 se zyada ghayal hue; Israeli sena ne kaha usne Hamas ke Khan Younis Brigade commander Muhammad Abu Ismail ko nishana banaya. [Sudhara gaya — pehle 4 ki maut batayi gayi thi.]",
-      "category": "World",
-      "exam_angle": "Gaza yuddh-viram aur West Asia tanav — antarrashtriya sambandh ke liye mahatvapurna.",
-      "source": "Reuters",
-      "source_url": "https://www.reuters.com/world/middle-east/israeli-strike-southern-gaza-hospital-kills-four-gaza-civil-defence-says-2026-11-11/",
-      "genuineness": "verified",
-      "outlets": [
-        "Reuters",
-        "Al Jazeera",
-        "Anadolu Agency",
-        "NDTV"
-      ],
-      "image": "../images/world/world-20261112-1122-02.jpg",
-      "image_credit": "Reuters via Al Jazeera"
-    },
-    {
-      "id": "world-20261112-1830-02",
-      "published_ist": "2026-11-12T04:13:00+05:30",
-      "headline": "Nvidia: CEO Huang ko hatane par board",
-      "detail": "Nvidia ke board ne CEO Jensen Huang ko hatane par vichaar shuru kiya — WSJ ke mutabik do sambandhon ke baad board ne unke bhavishya par faisla lene ke liye baithak bulayi; khabar ke baad Nvidia ke share lagbhag 8% gire.",
-      "category": "World",
-      "exam_angle": "AI chip kshetra me corporate governance aur America-China tech takraar — arthvyavastha aur antarrashtriya sambandh ke liye mahatvapurna.",
-      "source": "Reuters",
-      "source_url": "https://www.reuters.com/technology/nvidia-is-preparing-oust-ceo-jensen-huang-wsj-reports-2026-11-11/",
-      "genuineness": "corroborated",
-      "outlets": [
-        "The Wall Street Journal",
-        "Reuters",
-        "The New York Times"
-      ],
-      "image": "../images/world/world-20261112-1830-02.jpg",
-      "image_credit": "Anderseidesvik, Wikimedia Commons (CC BY-SA 4.0)"
-    },
-    {
-      "id": "world-20261112-0925-01",
-      "published_ist": "2026-11-12T03:30:00+05:30",
-      "headline": "Pope Leo XIV Peru pahunche, ghar wapsi",
-      "detail": "Pope Leo XIV budhwar ko Peru pahunche — apni dakshin America yatra ka aakhri charan; ve wahan 20 saal se zyada missionary aur Chiclayo ke bishop rahe, aur chhah din me Lima, Chiclayo, Cusco aur Amazon ka daura karenge.",
-      "category": "World",
-      "exam_angle": null,
-      "source": "Vatican News",
-      "source_url": "https://www.vaticannews.va/en/pope/news/2026-11/pope-leo-arrives-in-peru-for-final-leg-of-apostolic-journey.html",
-      "genuineness": "verified",
-      "outlets": [
-        "Vatican News",
-        "Associated Press",
-        "CNN"
-      ],
-      "image": "../images/world/world-20261112-0925-01.jpg",
-      "image_credit": "Vatican News"
     }
   ]
 }
