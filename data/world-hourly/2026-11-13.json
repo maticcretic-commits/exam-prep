@@ -1,6 +1,6 @@
 {
   "date": "2026-11-13",
-  "updated_ist": "2026-11-13T20:27:25+05:30",
+  "updated_ist": "2026-11-13T21:28:04+05:30",
   "items": [
     {
       "id": "world-20261113-0622-01",
@@ -715,6 +715,59 @@
       ],
       "image": "../images/world/world-20261113-2022-01.jpg",
       "image_credit": "Associated Press"
+    },
+    {
+      "id": "world-20261113-2122-01",
+      "published_ist": "2026-11-13T13:05:00+05:30",
+      "headline": "Hormuz me LNG tanker par mine hamla",
+      "detail": "IRGC ke mutabik Hormuz Strait me ek LNG tanker ne samudri surang (mine) se takkar khaai aur usme dhamaka hua; tanker ne 'bina anumati' wala rasta liya tha — tanker ka naam aur nuksan ki jaankari abhi nahi mili.",
+      "category": "World",
+      "exam_angle": "Hormuz Strait duniya ke tel aur gas vyapar ka sabse mahatvapurna rasta hai — energy suraksha ke liye ahem.",
+      "source": "The Hindu",
+      "source_url": "https://www.thehindu.com/news/international/tanker-carrying-lng-hit-mine-suffered-explosion-in-hormuz-iran/article71696996.ece",
+      "genuineness": "corroborated",
+      "outlets": [
+        "Reuters",
+        "Iranian state media (IRGC)"
+      ],
+      "image": null,
+      "image_credit": null
+    },
+    {
+      "id": "world-20261113-2122-02",
+      "published_ist": "2026-11-13T03:10:00+05:30",
+      "headline": "North Korea ke hackers ne $400M crypto churaya",
+      "detail": "FBI ke mutabik North Korea samarthit hackers ne pichhle 18 mahine me nakli Zoom/Teams video call ke zariye $400 million se zyada cryptocurrency churayi; 'FaceStealer' naam ki is chaal me peediton ki webcam recording dikhakar malware install karaya gaya — FBI ne 900 se zyada victim video jabt kiye.",
+      "category": "World",
+      "exam_angle": "Cyber suraksha aur cryptocurrency apradh — digital Bharat aur global cyber kanoon ke liye mahatvapurna.",
+      "source": "Reuters",
+      "source_url": "https://www.reuters.com/world/asia-pacific/north-korean-hackers-steal-more-than-400-million-using-video-images-fbi-says-2026-11-12/",
+      "genuineness": "verified",
+      "outlets": [
+        "Reuters",
+        "BBC",
+        "US Department of Justice / FBI"
+      ],
+      "image": null,
+      "image_credit": null
+    },
+    {
+      "id": "world-20261113-2122-03",
+      "published_ist": "2026-11-12T23:11:49+05:30",
+      "headline": "Saudi: EU Houthi ko aatankwadi ghoshit kare",
+      "detail": "Saudi Arabia EU par dabav bana raha hai ki Iran samarthit Houthi sangathan ko aatankwadi sangathan ghoshit kiya jaye; chhah European adhikariyon ke mutabik zyadatar EU desh isse shanti vaarta ko nuksan ka darr batakar hichkich rahe hain — faisle ke liye 27 deshon ki sarvasammati chahiye.",
+      "category": "World",
+      "exam_angle": "Yemen sangharsh aur EU ki videsh neeti — antarrashtriya sangathan aur West Asia ke liye mahatvapurna.",
+      "source": "Reuters",
+      "source_url": "https://www.reuters.com/world/middle-east/saudi-arabia-puts-pressure-eu-label-yemens-houthis-terrorist-group-2026-11-12/",
+      "genuineness": "verified",
+      "outlets": [
+        "Reuters",
+        "Firstpost",
+        "Al Jazeera"
+      ],
+      "image": null,
+      "image_credit": null
     }
   ]
 }
