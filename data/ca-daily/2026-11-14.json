@@ -1,0 +1,77 @@
+{
+ "date": "2026-11-14",
+ "date_hi": "14 November 2026",
+ "date_en": "14 November 2026",
+ "episodes": [
+  {
+   "episode": 117,
+   "video_hi": "AeyGSUPuXMI",
+   "video_hinglish": "AeyGSUPuXMI",
+   "capsules": [
+    {
+     "id": "ca-ep117-s1",
+     "headline_hi": "Bengaluru Metro Pink Line ki shuruaat",
+     "headline_hinglish": "Bengaluru Metro Pink Line ki shuruaat",
+     "detail_hi": "PM Modi ne Kalena Agrahara se Tavarekere tak 7.5 km Pink Line ka udghatan kiya, keemat 3,470 crore rupaye.",
+     "detail_hinglish": "PM Modi ne Kalena Agrahara se Tavarekere tak 7.5 km Pink Line ka udghatan kiya, keemat 3,470 crore rupaye.",
+     "category_hi": "Infrastructure",
+     "category_en": "National"
+    },
+    {
+     "id": "ca-ep117-s2",
+     "headline_hi": "October mein exports 29.9 pratishat badhe",
+     "headline_hinglish": "October mein exports 29.9 pratishat badhe",
+     "detail_hi": "Bharat ke exports October mein 29.9 pratishat badhkar 89.99 billion dollar ho gaye, trade deficit 20.09 billion dollar raha.",
+     "detail_hinglish": "Bharat ke exports October mein 29.9 pratishat badhkar 89.99 billion dollar ho gaye, trade deficit 20.09 billion dollar raha.",
+     "category_hi": "Economy",
+     "category_en": "Economy"
+    },
+    {
+     "id": "ca-ep117-s3",
+     "headline_hi": "TB se mautein 38 pratishat ghateen",
+     "headline_hinglish": "TB se mautein 38 pratishat ghateen",
+     "detail_hi": "WHO report ke mutabik 2015 se Bharat mein TB se mautein 38 pratishat ghateen, treatment success rate 94 pratishat hai.",
+     "detail_hinglish": "WHO report ke mutabik 2015 se Bharat mein TB se mautein 38 pratishat ghateen, treatment success rate 94 pratishat hai.",
+     "category_hi": "Health",
+     "category_en": "Health"
+    },
+    {
+     "id": "ca-ep117-s4",
+     "headline_hi": "Ola par 10 lakh ka jurmana",
+     "headline_hinglish": "Ola par 10 lakh ka jurmana",
+     "detail_hi": "CCPA ne Ola par pre-ride tip feature ke liye 10 lakh rupaye ka jurmana lagaya, ise dark pattern bataya.",
+     "detail_hinglish": "CCPA ne Ola par pre-ride tip feature ke liye 10 lakh rupaye ka jurmana lagaya, ise dark pattern bataya.",
+     "category_hi": "Consumer",
+     "category_en": "National"
+    },
+    {
+     "id": "ca-ep117-s5",
+     "headline_hi": "U19 Asia Cup final: Bharat vs Pakistan",
+     "headline_hinglish": "U19 Asia Cup final: Bharat vs Pakistan",
+     "detail_hi": "Aaj subah saade das baje Oman ke Al Amerat mein Bharat aur Pakistan ke beech U19 Asia Cup ka final khela jayega.",
+     "detail_hinglish": "Aaj subah saade das baje Oman ke Al Amerat mein Bharat aur Pakistan ke beech U19 Asia Cup ka final khela jayega.",
+     "category_hi": "Sports",
+     "category_en": "Sports"
+    }
+   ],
+   "mcq": {
+    "id": "ca-ep117-mcq",
+    "q_hi": "WHO report ke mutabik, 2015 se Bharat mein TB se hone wali mautein kitne pratishat ghateen?",
+    "q_hinglish": "WHO report ke mutabik, 2015 se Bharat mein TB se hone wali mautein kitne pratishat ghateen?",
+    "options_hi": [
+     "28 pratishat",
+     "35 pratishat",
+     "38 pratishat",
+     "45 pratishat"
+    ],
+    "options_hinglish": [
+     "28 pratishat",
+     "35 pratishat",
+     "38 pratishat",
+     "45 pratishat"
+    ],
+    "answer_index": 2
+   }
+  }
+ ]
+}
