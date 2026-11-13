@@ -1,6 +1,6 @@
 {
   "date": "2026-11-13",
-  "updated_ist": "2026-11-13T14:24:55+05:30",
+  "updated_ist": "2026-11-13T15:22:00+05:30",
   "items": [
     {
       "id": "world-20261113-0622-01",
@@ -477,6 +477,43 @@
       ],
       "image": null,
       "image_credit": null
+    },
+    {
+      "id": "world-20261113-1522-01",
+      "published_ist": "2026-11-12T18:30:00+05:30",
+      "headline": "Washington gym goli: 1 ki maut, 4 ghayal",
+      "detail": "Logan Circle ke Vida Fitness gym me 55 saal ke doctor Matt Lambert ne building manager James Stuart ko goli maar di, phir apne flat se 4 logon ko ghayal kiya aur khud ko goli maar li; vivaad building ki marammat ko lekar tha.",
+      "category": "World",
+      "exam_angle": "America me banduk hinsa aur kanoon-vyavastha — antarrashtriya suraksha ke liye mahatvapurna.",
+      "source": "USA Today",
+      "source_url": "https://www.usatoday.com/story/news/crime/2026/11/12/dc-active-shooting-logan-circle-gym/92739486007/",
+      "genuineness": "verified",
+      "outlets": [
+        "USA Today",
+        "The Wall Street Journal",
+        "The Times",
+        "The New Indian Express"
+      ],
+      "image": null,
+      "image_credit": null
+    },
+    {
+      "id": "world-20261113-1522-02",
+      "published_ist": "2026-11-12T15:47:00+05:30",
+      "headline": "Iran ne 'missile city' dikhaya, Europe ko chetavni",
+      "detail": "Iran ne bhumigat suvidha me ballistic aur cruise missile dikhaye; suraksha pramukh Mohsen Rezaei ne kaha America ke naye hamle par Europe samet har us sainya adde ko nishana banaya jayega jahan se hamla hoga.",
+      "category": "World",
+      "exam_angle": "West Asia tanav aur Iran-America sambandh — antarrashtriya suraksha ke liye mahatvapurna.",
+      "source": "The Economic Times",
+      "source_url": "https://economictimes.indiatimes.com/news/defence/iran-unveils-underground-missile-city-warns-us-bases-in-europe-could-face-strikes-if-war-resumes/articleshow/135763206.cms",
+      "genuineness": "verified",
+      "outlets": [
+        "The Economic Times",
+        "Gulf News",
+        "The Express Tribune"
+      ],
+      "image": "../images/world/world-20261113-1522-02.jpg",
+      "image_credit": "The Economic Times"
     }
   ]
 }
