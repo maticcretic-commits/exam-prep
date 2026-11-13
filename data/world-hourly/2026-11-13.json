@@ -1,6 +1,6 @@
 {
   "date": "2026-11-13",
-  "updated_ist": "2026-11-13T08:31:17+05:30",
+  "updated_ist": "2026-11-13T09:26:05+05:30",
   "items": [
     {
       "id": "world-20261113-0622-01",
@@ -187,6 +187,26 @@
       ],
       "image": "../images/world/world-20261113-0822-03.jpg",
       "image_credit": "Al Jazeera"
+    },
+    {
+      "id": "world-20261113-0922-01",
+      "published_ist": "2026-11-13T07:44:00+05:30",
+      "headline": "Gaza: Nasser Hospital par hamla, 6 ki maut",
+      "detail": "Khan Younis ke Nasser Hospital ki surgery ward par guruvaar subah Israeli hamle me ek surgeon aur 13 saal ke ladke samet 6 ki maut, 27 ghayal; IDF ne kaha Hamas commander nishana tha, WHO ne nuksan ki pushti ki.",
+      "category": "World",
+      "exam_angle": "Yuddh-viram ke bawjood Gaza par hamla — West Asia aur antarrashtriya sangathan ke liye mahatvapurna.",
+      "source": "Firstpost",
+      "source_url": "https://www.firstpost.com/world/6-killed-27-injured-after-israeli-strike-hits-surgical-unit-of-nasser-hospital-in-gaza-14059677.html",
+      "genuineness": "verified",
+      "outlets": [
+        "Reuters",
+        "CNN",
+        "AFP",
+        "Al Jazeera",
+        "Firstpost"
+      ],
+      "image": "../images/world/world-20261113-0922-01.jpg",
+      "image_credit": "Reuters via GMA Network"
     }
   ]
 }
