@@ -387,6 +387,61 @@
       ],
       "image": null,
       "image_credit": null
+    },
+    {
+      "id": "world-20261113-1322-01",
+      "published_ist": "2026-11-13T01:08:00+05:30",
+      "headline": "Gaza ke liye 53 deshon ki madad-appeal",
+      "detail": "53 UN sadasya deshon aur sangathanon ne Israel ki aane wali sarkar se Gaza me bina rok-tok madad ki maang ki — UN relief chief Tom Fletcher ne kaha 1.5 lakh se zyada tent aur sardi ka saman bahar ruka hai, sabhi crossing khulni chahiye.",
+      "category": "World",
+      "exam_angle": "Gaza manaviya sankat aur UN — antarrashtriya sambandh ke liye mahatvapurna.",
+      "source": "The National",
+      "source_url": "https://www.thenationalnews.com/news/us/2026/11/12/un-countries-urge-israels-incoming-government-to-open-gaza-to-unrestricted-aid/",
+      "genuineness": "verified",
+      "outlets": [
+        "The National",
+        "Gulf News",
+        "Arab News",
+        "UN OCHA"
+      ],
+      "image": "../images/world/world-20261113-1322-01.jpg",
+      "image_credit": "The National"
+    },
+    {
+      "id": "world-20261113-1322-02",
+      "published_ist": "2026-11-13T09:35:00+05:30",
+      "headline": "UN ne Houthi pratibandh 2027 tak badhaye",
+      "detail": "UN Suraksha Parishad ne sarvasammati se Yemen par pratibandh badhaye — Houthi netaon par sampatti-jabti aur yatra-pratibandh 14 November 2027 tak, aur drone-missile banane wale dohre-upyog wale saman par rok kadi ki.",
+      "category": "World",
+      "exam_angle": "Yemen sankat aur UN pratibandh — antarrashtriya suraksha ke liye mahatvapurna.",
+      "source": "Dawn",
+      "source_url": "https://www.dawn.com/news/2044254",
+      "genuineness": "verified",
+      "outlets": [
+        "Dawn",
+        "Gulf News",
+        "Arab News"
+      ],
+      "image": "../images/world/world-20261113-1322-02.jpg",
+      "image_credit": "Dawn"
+    },
+    {
+      "id": "world-20261113-1322-03",
+      "published_ist": "2026-11-13T09:22:00+05:30",
+      "headline": "Trump ne Vance ko Iran vaarta se hataya",
+      "detail": "Trump ne kaha America ko Iran se koi samjhauta nahi chahiye aur up-rashtrapati JD Vance ko Iran vaarta se hatakar gharelu dhokhadhadi ke khilaf abhiyan par lagaya; Vance ne yuddh ki rajnaitik keemat par sawal uthaye the.",
+      "category": "World",
+      "exam_angle": "America-Iran tanav aur Hormuz — antarrashtriya sambandh ke liye mahatvapurna.",
+      "source": "Outlook India",
+      "source_url": "https://www.outlookindia.com/international/donald-trump-orders-jd-vance-iran-war-us-fraud-campaign-midterm-election-losses",
+      "genuineness": "verified",
+      "outlets": [
+        "Outlook India",
+        "Reuters",
+        "The Hindu"
+      ],
+      "image": null,
+      "image_credit": null
     }
   ]
 }
