@@ -1,6 +1,6 @@
 {
   "date": "2026-11-13",
-  "updated_ist": "2026-11-13T09:26:05+05:30",
+  "updated_ist": "2026-11-13T10:29:22+05:30",
   "items": [
     {
       "id": "world-20261113-0622-01",
@@ -207,6 +207,64 @@
       ],
       "image": "../images/world/world-20261113-0922-01.jpg",
       "image_credit": "Reuters via GMA Network"
+    },
+    {
+      "id": "world-20261113-1022-01",
+      "published_ist": "2026-11-13T04:22:00+05:30",
+      "headline": "Kansas governor chunaav: Democrat Holscher jeeti",
+      "detail": "Democrat Cindy Holscher ne Kansas ke governor chunaav me Republican Ty Masterson ko haraya; AP ne guruvaar ko jeet ki ghoshna ki — Holscher ne naye data centre par asthayi rok ka wada kiya tha.",
+      "category": "World",
+      "exam_angle": "America ke midterm chunav aur rajyon me satta santulan — antarrashtriya rajneeti ke liye mahatvapurna.",
+      "source": "NPR Illinois",
+      "source_url": "https://www.nprillinois.org/2026-11-12/cindy-holscher-wins-in-kansas-holding-governors-office-for-democrats",
+      "genuineness": "verified",
+      "outlets": [
+        "Associated Press",
+        "NPR",
+        "La Nacion",
+        "The Manila Times"
+      ],
+      "image": "../images/world/world-20261113-1022-01.jpg",
+      "image_credit": "NPR Illinois"
+    },
+    {
+      "id": "world-20261113-1022-02",
+      "published_ist": "2026-11-13T03:48:00+05:30",
+      "headline": "Dark web par vaishvik chhapa: 354 giraftaar",
+      "detail": "Operation TorNado me 14 deshon ki police ne dark web par nasha bechne walon par chhapa mara — 354 giraftaariyan, 5.7 tonne nasha aur $234 million ki sampatti jabt; sabse zyada giraftaariyan America (132) aur Britain (59) me hui.",
+      "category": "World",
+      "exam_angle": "Dark web, fentanyl aur cyber-apradh ke khilaf vaishvik karwai — antarrashtriya suraksha aur cyber-apradh ke liye ahem.",
+      "source": "The Straits Times",
+      "source_url": "https://www.straitstimes.com/world/europe/global-police-crackdown-on-dark-web-nets-350-arrests?ref=top-stories",
+      "genuineness": "verified",
+      "outlets": [
+        "FBI",
+        "The Straits Times",
+        "Malay Mail",
+        "The Manila Times",
+        "Bangkok Post"
+      ],
+      "image": null,
+      "image_credit": null
+    },
+    {
+      "id": "world-20261113-1022-03",
+      "published_ist": "2026-11-12T19:29:00+05:30",
+      "headline": "French frigate Surcouf pehli baar Syria pahuncha",
+      "detail": "France ka frigate Surcouf Syria ke Latakia bandargah par pahuncha — Syria me French yuddhpot ki pehli yatra; 12 November ko dono deshon ke nausena adhikariyon ne samudri sahyog badhane par baatchit ki.",
+      "category": "World",
+      "exam_angle": "Syria-France sainya sahyog aur West Asia me badalta shakti santulan — antarrashtriya sambandh ke liye mahatvapurna.",
+      "source": "Arab News",
+      "source_url": "https://www.arabnews.com/middle-east/france-syria-boost-naval-ties-with-historic-frigate-visit-3011464",
+      "genuineness": "verified",
+      "outlets": [
+        "The Jerusalem Post",
+        "Arab News",
+        "Enab Baladi",
+        "MENAFN"
+      ],
+      "image": null,
+      "image_credit": null
     }
   ]
 }
