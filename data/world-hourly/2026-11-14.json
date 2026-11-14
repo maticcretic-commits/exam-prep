@@ -1,0 +1,61 @@
+{
+  "date": "2026-11-14",
+  "updated_ist": "2026-11-14T06:26:00+05:30",
+  "items": [
+    {
+      "id": "world-20261114-0622-01",
+      "published_ist": "2026-11-14T02:24:00+05:30",
+      "headline": "America: FAA ne saari udaanen roki",
+      "detail": "America me air traffic control ke telecom outage ke baad FAA ne desh bhar me saari departing flights rok di — 11 September 2001 ke baad sirf doosri baar aisa nationwide ground stop laga; lagbhag 7,000 flights late ya cancel hui, hamle ka koi sanket nahi.",
+      "category": "World",
+      "exam_angle": "America ke hawai yatayat niyantran tantra ki kamzori aur rashtriya suraksha par asar — UPSC ke liye mahatvapurna.",
+      "source": "Reuters",
+      "source_url": "https://www.reuters.com/world/us/faa-issues-national-ground-stop-due-extraordinary-circumstance-reasons-safety-2026-11-13/",
+      "genuineness": "verified",
+      "outlets": [
+        "Reuters",
+        "USA Today",
+        "Times of India",
+        "The Hindu BusinessLine"
+      ],
+      "image": null,
+      "image_credit": null
+    },
+    {
+      "id": "world-20261114-0622-02",
+      "published_ist": "2026-11-13T22:31:00+05:30",
+      "headline": "Niger: bazaar ja rahe 37 nagrikon ki hatya",
+      "detail": "Paschimi Niger ke Tillaberi kshetra me bazaar ja rahe gaon walon par ghaat lagakar hamla hua — kam se kam 37 log mare gaye, jinme mahilayen aur bachche bhi shamil; hamlaavaron ki pehchan abhi nahi hui.",
+      "category": "World",
+      "exam_angle": "Sahel kshetra me jihadist hinsa aur Tillaberi tri-border sankat — Africa ki suraksha ke liye mahatvapurna.",
+      "source": "The Hindu",
+      "source_url": "https://www.thehindu.com/news/international/armed-men-kill-at-least-37-civilians-in-western-niger-say-local-sources/article71699297.ece",
+      "genuineness": "verified",
+      "outlets": [
+        "AFP",
+        "TASS",
+        "News Central TV"
+      ],
+      "image": null,
+      "image_credit": null
+    },
+    {
+      "id": "world-20261114-0622-03",
+      "published_ist": "2026-11-13T11:18:00+05:30",
+      "headline": "Putin: Europe bhi Ukraine shaanti vaarta me",
+      "detail": "Kremlin me American dooton se baat ke baad Putin ne agle daur ki Ukraine shaanti vaarta me European pratinidhiyon ko shamil karne par sahmati di — halanki Kremlin ne baad me sanket diya ki antim faisla abhi baki hai; Zelensky ne sambhavna ka swagat kiya.",
+      "category": "World",
+      "exam_angle": "Ukraine shaanti vaarta me Europe ki bhumika aur Russia-America kootneeti — antarrashtriya sambandhon ke liye mahatvapurna.",
+      "source": "NDTV",
+      "source_url": "https://www.ndtv.com/world-news/russia-ukraine-war-russian-president-vladimir-putin-agrees-to-let-european-representatives-join-ukraine-peace-talks-12320780/amp/1",
+      "genuineness": "verified",
+      "outlets": [
+        "Reuters",
+        "The Straits Times",
+        "NDTV"
+      ],
+      "image": null,
+      "image_credit": null
+    }
+  ]
+}
