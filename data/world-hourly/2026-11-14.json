@@ -1,6 +1,6 @@
 {
  "date": "2026-11-14",
- "updated_ist": "2026-11-14T09:26:44+05:30",
+ "updated_ist": "2026-11-14T10:25:14+05:30",
  "items": [
   {
    "id": "world-20261114-0622-01",
@@ -218,6 +218,48 @@
     "The Maritime Executive",
     "The Independent",
     "Türkiye Today"
+   ],
+   "image": null,
+   "image_credit": null
+  },
+  {
+   "id": "world-20261114-1022-01",
+   "published_ist": "2026-11-14T04:17:00+05:30",
+   "headline": "Starship kaksha me, booster samundar me gira",
+   "detail": "SpaceX ki Starship 15th test flight me doosri baar kaksha me pahunchi aur 26 Starlink satellite chhode, lekin Super Heavy booster catch ke bajay Gulf of Mexico me gira aur jal utha; jahaaz aaj shaam launch tower par pakde jaane ki koshish karega.",
+   "category": "World",
+   "exam_angle": "Punah-upyog yogya rocket takneek; Chand aur Mangal mission ki taiyari.",
+   "source": "The Hindu",
+   "source_url": "https://www.thehindu.com/sci-tech/science/spacex-launches-15th-starship-flight-with-hopes-of-achieving-first-round-trip/article71700818.ece",
+   "genuineness": "verified",
+   "outlets": [
+    "The Hindu",
+    "Times Now",
+    "Mathrubhumi",
+    "Malay Mail",
+    "Glasgow Times",
+    "Motley Fool"
+   ],
+   "image": null,
+   "image_credit": null
+  },
+  {
+   "id": "world-20261114-1022-02",
+   "published_ist": "2026-11-14T02:31:00+05:30",
+   "headline": "Hormuz me do tanker par mine dhamaka",
+   "detail": "IRGC Navy ke daave ke mutabik Hormuz Strait me bina anumati ke raste se ja rahe do tel tanker samudri surang se takraakar dhamake ke baad jal uthe — ek supertanker bhi shamil; jahaazon ke naam aur nuksan ki jaankari abhi nahi mili.",
+   "category": "World",
+   "exam_angle": "Hormuz Strait se duniya ke tel vyapar ka bada hissa guzarta hai; Paschim Asia me tanav.",
+   "source": "Reuters",
+   "source_url": "https://www.reuters.com/world/middle-east/irans-irgc-says-two-tankers-hit-sea-mines-hormuz-2026-11-13/",
+   "genuineness": "verified",
+   "outlets": [
+    "Reuters",
+    "The Economic Times",
+    "Gulf News",
+    "Channel News Asia",
+    "Mathrubhumi",
+    "Siasat"
    ],
    "image": null,
    "image_credit": null
