@@ -1,6 +1,6 @@
 {
  "date": "2026-11-14",
- "updated_ist": "2026-11-14T08:25:09+05:30",
+ "updated_ist": "2026-11-14T09:26:44+05:30",
  "items": [
   {
    "id": "world-20261114-0622-01",
@@ -181,6 +181,43 @@
     "Reuters",
     "Al Jazeera",
     "Gulf News"
+   ],
+   "image": null,
+   "image_credit": null
+  },
+  {
+   "id": "world-20261114-0922-02",
+   "published_ist": "2026-11-13T16:26:00+05:30",
+   "headline": "Nakli video call se $400 million ki chori",
+   "detail": "Uttar Korea ke hackers ne nakli Zoom aur Teams call aur chori ki webcam video se 18 mahine me 400 million dollar se zyada ki crypto churai; FBI ne 900 se zyada video jabt kiye.",
+   "category": "World",
+   "exam_angle": "Cyber suraksha aur deepfake ka badhta khatra — UPSC ke liye mahatvapurna.",
+   "source": "Times of India",
+   "source_url": "https://timesofindia.indiatimes.com/technology/tech-news/fbi-seizes-over-900-webcam-videos-in-north-korean-hacking-investigation-fake-zoom-and-teams-calls-tricked-tech-workers-into-installing-malware-to-steal-over-400-million/articleshow/135800083.cms",
+   "genuineness": "verified",
+   "outlets": [
+    "Reuters",
+    "Times of India",
+    "New York Post",
+    "Help Net Security"
+   ],
+   "image": null,
+   "image_credit": null
+  },
+  {
+   "id": "world-20261114-0922-03",
+   "published_ist": "2026-11-14T01:26:00+05:30",
+   "headline": "Baltic me Russian jahaaz par drone hamla",
+   "detail": "Ukraine ne Finland ki khaadi me Russian missile corvette Naro-Fominsk par drone hamla kiya; Finland aur Estonia ne hamle ki pushti ki — nagrik samudri kshetra me pehla aisa hamla.",
+   "category": "World",
+   "exam_angle": "Russia-Ukraine yuddh ka Baltic sagar me vistaar — UPSC ke liye mahatvapurna.",
+   "source": "The Maritime Executive",
+   "source_url": "https://maritime-executive.com/article/estonia-confirms-ukrainian-drone-hits-on-russian-corvette-in-the-baltic",
+   "genuineness": "verified",
+   "outlets": [
+    "The Maritime Executive",
+    "The Independent",
+    "Türkiye Today"
    ],
    "image": null,
    "image_credit": null
