@@ -1,6 +1,6 @@
 {
   "date": "2026-11-14",
-  "updated_ist": "2026-11-14T17:25:15+05:30",
+  "updated_ist": "2026-11-14T18:24:13+05:30",
   "items": [
     {
       "id": "world-20261114-0622-01",
@@ -647,6 +647,42 @@
       ],
       "image": "../images/world/world-20261114-1722-03.jpg",
       "image_credit": "Necati Savas / European Union, 2026 / EC - Audiovisual Service (CC BY 4.0)"
+    },
+    {
+      "id": "world-20261114-1822-01",
+      "published_ist": "2026-11-14T15:09:00+05:30",
+      "headline": "California: 9 meter lehron se badh ka khatra",
+      "detail": "America ki mausam vibhaag ne California ke taton par 9 meter tak unchi lehron aur tatiya badh ki chetavani di — San Francisco aur Big Sur ke paas samudra tatbandh paar karke neeche ilakon me paani bhar sakta hai.",
+      "category": "World",
+      "exam_angle": "Charam mausam aur tatiya badh — bhugol aur aapda prabandhan ke liye mahatvapurna.",
+      "source": "Gulf Today",
+      "source_url": "https://www.gulftoday.ae/news/2026/11/14/us-authorities-warn-of-coastal-flooding-in-california",
+      "genuineness": "verified",
+      "outlets": [
+        "Gulf Today",
+        "Economic Times",
+        "Malay Mail"
+      ],
+      "image": null,
+      "image_credit": null
+    },
+    {
+      "id": "world-20261114-1822-02",
+      "published_ist": "2026-11-14T15:42:00+05:30",
+      "headline": "Zelenskyy ko Denmark se €645 million madad",
+      "detail": "Ukraine ke rashtrapati Zelenskyy ne bataya ki Denmark aur Ireland yatra se €645 million raksha package aur €20 million urja package mila, aur Britain ne Russia ke tel par naye pratibandh lagaye.",
+      "category": "World",
+      "exam_angle": "Ukraine yuddh aur Europe ki suraksha — UPSC ke liye mahatvapurna.",
+      "source": "Tribune India",
+      "source_url": "https://www.tribuneindia.com/news/world/concrete-results-from-denmark-ireland-visits-zelenskyy-highlights-e645-mn-danish-defence-package-uk-sanctions/",
+      "genuineness": "verified",
+      "outlets": [
+        "Tribune India",
+        "Times Now",
+        "Kyiv Post"
+      ],
+      "image": null,
+      "image_credit": null
     }
   ]
 }
