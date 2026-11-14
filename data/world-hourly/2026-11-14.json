@@ -1,6 +1,6 @@
 {
   "date": "2026-11-14",
-  "updated_ist": "2026-11-14T18:24:13+05:30",
+  "updated_ist": "2026-11-14T19:26:04+05:30",
   "items": [
     {
       "id": "world-20261114-0622-01",
@@ -680,6 +680,65 @@
         "Tribune India",
         "Times Now",
         "Kyiv Post"
+      ],
+      "image": null,
+      "image_credit": null
+    },
+    {
+      "id": "world-20261114-1926-01",
+      "published_ist": "2026-11-14T17:13:00+05:30",
+      "headline": "America ne Donbas-NATO sauda poocha, Zelenskyy ne bataya",
+      "detail": "Zelenskyy ne bataya ki Abu Dhabi baatchit me America ne pehli baar poocha — NATO sadasyata mile to kya Ukraine Donbas se hat jayega; unhone kaha ilaka nahi chhodenge, lekin poori suraksha package mile to janmat sangrah kara sakte hain.",
+      "category": "World",
+      "exam_angle": "Ukraine yuddh aur NATO vistaar — UPSC ke liye mahatvapurna.",
+      "source": "Reuters",
+      "source_url": "https://www.reuters.com/world/europe/us-floated-idea-ukraine-ceding-donbas-nato-membership-zelenskiy-says-2026-11-14/",
+      "genuineness": "verified",
+      "outlets": [
+        "Reuters",
+        "CNN",
+        "Firstpost",
+        "Al Jazeera",
+        "The Straits Times"
+      ],
+      "image": "../images/world/world-20261114-1926-01.jpg",
+      "image_credit": "Xuthoria, Wikimedia Commons, CC BY-SA 4.0"
+    },
+    {
+      "id": "world-20261114-1926-02",
+      "published_ist": "2026-11-14T00:00:00+05:30",
+      "headline": "Mississippi: tanker se takra kar cruise boat palti",
+      "detail": "New Orleans me tanker Atlantic Asphalt ki steering kharab hone se woh khadi cruise boat American Heritage se takraya — naav palat gayi, lekin 180 se zyada sawaaron me se koi lapata nahi; 32 log aspatal me, kisi ki haalat gambhir nahi.",
+      "category": "World",
+      "exam_angle": null,
+      "source": "The New Indian Express",
+      "source_url": "https://www.newindianexpress.com/world/2026/Nov/14/all-passengers-and-crew-on-new-orleans-cruise-ship-survive-crash-with-tanker-on-mississippi-river-2",
+      "genuineness": "verified",
+      "outlets": [
+        "Reuters",
+        "AFP",
+        "The New Indian Express",
+        "The Indian Express"
+      ],
+      "image": null,
+      "image_credit": null
+    },
+    {
+      "id": "world-20261114-1926-03",
+      "published_ist": "2026-11-14T08:23:00+05:30",
+      "headline": "Britain: America ke hawai adde par drone halchal",
+      "detail": "Britain ke RAF Lakenheath adde par shukravar shaam sandigdh drone halchal par America ki vayu sena ne suraksha jawab diya — koi jawan, viman ya dhancha prabhavit nahi hua, aur sthiti sulajh gayi.",
+      "category": "World",
+      "exam_angle": "Britain me America ke sainya adde par drone — antarrashtriya suraksha ke liye mahatvapurna.",
+      "source": "The Economic Times",
+      "source_url": "https://economictimes.indiatimes.com/news/defence/drone-activity-over-us-base-in-britain-prompts-security-response-us-military-says/articleshow/135820891.cms",
+      "genuineness": "verified",
+      "outlets": [
+        "Reuters",
+        "CNN",
+        "AFP",
+        "The Times of Israel",
+        "The Economic Times"
       ],
       "image": null,
       "image_credit": null
