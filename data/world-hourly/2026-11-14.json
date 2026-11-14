@@ -1,6 +1,6 @@
 {
   "date": "2026-11-14",
-  "updated_ist": "2026-11-14T10:25:14+05:30",
+  "updated_ist": "2026-11-14T14:28:36+05:30",
   "items": [
     {
       "id": "world-20261114-0622-01",
@@ -424,6 +424,61 @@
         "Reuters",
         "IANS",
         "Aaj TV"
+      ],
+      "image": null,
+      "image_credit": null
+    },
+    {
+      "id": "world-20261114-1422-01",
+      "published_ist": "2026-11-14T12:48:00+05:30",
+      "headline": "Microsoft ki saari services phir chalu",
+      "detail": "24 ghante se zyada chale global outage ke baad Microsoft ne kaha Outlook, Teams aur Copilot samet saari services phir se chalu ho gayi; network upgrade me takniki kharabi wajah thi, cyber hamla nahi.",
+      "category": "World",
+      "exam_angle": "Mahatvapurna digital sevaon par nirbharta aur unki kamzori — UPSC ke liye mahatvapurna.",
+      "source": "ETV Bharat",
+      "source_url": "https://www.etvbharat.com/en/technology/microsoft-outage-resolved-outlook-teams-copilot-services-restored-enn26111401887",
+      "genuineness": "verified",
+      "outlets": [
+        "The Telegraph",
+        "The New Indian Express",
+        "Khaleej Times",
+        "ETV Bharat"
+      ],
+      "image": null,
+      "image_credit": null
+    },
+    {
+      "id": "world-20261114-1422-02",
+      "published_ist": "2026-11-14T10:47:00+05:30",
+      "headline": "Hormuz: teesra tanker bhi mine se takraya",
+      "detail": "Iran ki sena ki nausena ne kaha shanivaar ko Hormuz ke poorv me ek aur tel tanker surang se takraakar jal utha; IRGC ke mutabik is saptah kul teen tanker mine se takraye — jahaazon ke naam abhi nahi bataye gaye aur daavon ki swatantra pushti nahi hui.",
+      "category": "World",
+      "exam_angle": "Hormuz Strait se duniya ke tel vyapar ka bada hissa guzarta hai; Paschim Asia me tanav.",
+      "source": "Dawn",
+      "source_url": "https://www.dawn.com/news/2044469",
+      "genuineness": "corroborated",
+      "outlets": [
+        "AFP",
+        "Mehr News",
+        "Gulf Today"
+      ],
+      "image": null,
+      "image_credit": null
+    },
+    {
+      "id": "world-20261114-1422-03",
+      "published_ist": "2026-11-13T18:59:00+05:30",
+      "headline": "COP31: teen deshon ka $10bn climate vaada",
+      "detail": "COP31 me Britain, Norway aur Canada ki development finance sansthaon ne 2030 tak ubharte bazaaron me climate projects ke liye $10 billion jutane ka '10by30' samjhauta kiya; rakam me niji nivesh bhi shamil hoga.",
+      "category": "World",
+      "exam_angle": "COP31, climate finance aur vikas-sheel deshon ka urja badlav — UPSC ke liye mahatvapurna.",
+      "source": "Reuters",
+      "source_url": "https://www.reuters.com/sustainability/cop/uk-norway-canada-launch-10-billion-climate-finance-initiative-2026-11-13/",
+      "genuineness": "verified",
+      "outlets": [
+        "Reuters",
+        "Government of Canada",
+        "Leadership"
       ],
       "image": null,
       "image_credit": null
