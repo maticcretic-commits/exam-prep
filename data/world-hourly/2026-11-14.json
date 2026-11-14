@@ -1,6 +1,6 @@
 {
   "date": "2026-11-14",
-  "updated_ist": "2026-11-14T15:24:53+05:30",
+  "updated_ist": "2026-11-14T16:25:53+05:30",
   "items": [
     {
       "id": "world-20261114-0622-01",
@@ -538,6 +538,60 @@
       ],
       "image": "../images/world/world-20261114-1522-03.jpg",
       "image_credit": "Necati Savas / European Union / Wikimedia Commons (CC BY 4.0)"
+    },
+    {
+      "id": "world-20261114-1622-01",
+      "published_ist": "2026-11-13T23:42:00+05:30",
+      "headline": "Netherlands: tax vivaad me sarkar bachi",
+      "detail": "Shukravaar ki lambi baithak ke baad Netherlands ki gathbandhan sarkar bach gayi — VVD ke virodh ke bawjood D66 aur CDA ka tax package barkarar raha; PM Jetten ne kaha sambandh tanavpurna hain, weekend me aur baatchit hogi.",
+      "category": "World",
+      "exam_angle": "Europe ki paanchvi badi arthvyavastha me alpsankhyak sarkar ka sankat — UPSC ke liye mahatvapurna.",
+      "source": "Reuters",
+      "source_url": "https://www.reuters.com/world/dutch-government-coalition-averts-collapse-dutch-media-report-2026-11-13/",
+      "genuineness": "verified",
+      "outlets": [
+        "Reuters",
+        "NOS",
+        "RTL"
+      ],
+      "image": "../images/world/world-20261114-1622-01.jpg",
+      "image_credit": "Hubertl / Wikimedia Commons (CC BY-SA 4.0)"
+    },
+    {
+      "id": "world-20261114-1622-02",
+      "published_ist": "2026-11-14T03:44:00+05:30",
+      "headline": "Supreme Court: Trump asylum ban ki sunvai",
+      "detail": "America ki Supreme Court ne Trump ke dakshini seema par asylum par pratibandh ki jaanch manzoor ki — nichli adalaton ne ise gair-kanuni bataya tha; sunvai 2027 ke vasant me hogi, faisla June tak aane ki ummeed hai.",
+      "category": "World",
+      "exam_angle": "America me karyapalika ki shakti aur sharanarthi kanoon par faisla — UPSC ke liye mahatvapurna.",
+      "source": "CNN",
+      "source_url": "https://www.cnn.com/2026/11/13/politics/supreme-court-trump-asylum-policy?cid=external-feeds_iluminar_meta",
+      "genuineness": "verified",
+      "outlets": [
+        "CNN",
+        "USA Today",
+        "Associated Press"
+      ],
+      "image": "../images/world/world-20261114-1622-02.jpg",
+      "image_credit": "LarryMicheli / Wikimedia Commons (CC BY-SA 4.0)"
+    },
+    {
+      "id": "world-20261114-1622-03",
+      "published_ist": "2026-11-14T05:51:00+05:30",
+      "headline": "Rubio: Iran par aur hamle ki zaroorat nahi",
+      "detail": "America ke videsh mantri Marco Rubio ne kaha Iran par aarthik dabav itna asardar hai ki aur sainya karwai ki zaroorat nahi — jeet ka matlab hai Iran ko kabhi parmanu hathiyar na milne dena; Iran ne jawabi karwai ki chetavni di.",
+      "category": "World",
+      "exam_angle": "Khadi me America-Iran tanav aur nausena nakabandi — Bharat ki urja suraksha ke liye mahatvapurna.",
+      "source": "Times of Israel",
+      "source_url": "https://www.timesofisrael.com/liveblog-november-14-2026/amp/",
+      "genuineness": "verified",
+      "outlets": [
+        "Times of Israel",
+        "Al Jazeera",
+        "Gulf News"
+      ],
+      "image": "../images/world/world-20261114-1622-03.jpg",
+      "image_credit": "U.S. Department of State / Wikimedia Commons (Public domain)"
     }
   ]
 }
