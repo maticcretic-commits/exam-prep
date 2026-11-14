@@ -1,6 +1,6 @@
 {
  "date": "2026-11-14",
- "updated_ist": "2026-11-14T21:26:16+05:30",
+ "updated_ist": "2026-11-14T22:29:02+05:30",
  "items": [
   {
    "id": "world-20261114-0622-01",
@@ -829,6 +829,101 @@
     "Reuters",
     "AFP",
     "Times of Israel"
+   ],
+   "image": null,
+   "image_credit": null
+  },
+  {
+   "id": "world-20261114-2222-01",
+   "published_ist": "2026-11-14T00:00:00+05:30",
+   "headline": "New Orleans: tanker se takkar, naav palti",
+   "detail": "New Orleans me tanker Atlantic Asphalt ne bandargah par khadi riverboat American Heritage ko takkar maari — naav palat gayi, 197 log surakshit nikale gaye aur 32 log aspatal me bharti hue, kisi ki haalat gambhir nahi.",
+   "category": "World",
+   "exam_angle": "Nadi suraksha aur aapda prabandhan — UPSC ke liye mahatvapurna.",
+   "source": "CNN",
+   "source_url": "https://www.cnn.com/2026/11/13/us/new-orleans-tanker-crash?cid=external-feeds_iluminar_meta",
+   "genuineness": "verified",
+   "outlets": [
+    "CNN",
+    "Associated Press",
+    "The Guardian",
+    "Business Standard"
+   ],
+   "image": null,
+   "image_credit": null
+  },
+  {
+   "id": "world-20261114-2222-02",
+   "published_ist": "2026-11-13T05:45:00+05:30",
+   "headline": "Nvidia CEO Jensen Huang ne istifa diya",
+   "detail": "33 saal baad Nvidia ke CEO Jensen Huang ne 12 November ko turant istifa de diya — CFO Colette Kress interim CEO bani; company ne wajah nahi batayi, halanki reports me unke sambandhon aur ek mahila par jasusi ke aarop ki charcha hai, jo abhi sabit nahi hua.",
+   "category": "World",
+   "exam_angle": "AI chip udyog aur America-China takneek pratidvandvita — UPSC ke liye mahatvapurna.",
+   "source": "The Hindu BusinessLine",
+   "source_url": "https://www.thehindubusinessline.com/info-tech/what-we-know-after-jensen-huang-resigns-as-nvidia-ceo/article71696548.ece",
+   "genuineness": "verified",
+   "outlets": [
+    "Reuters",
+    "The New York Times",
+    "Associated Press",
+    "The Hindu BusinessLine"
+   ],
+   "image": null,
+   "image_credit": null
+  },
+  {
+   "id": "world-20261114-2222-03",
+   "published_ist": "2026-11-14T10:49:00+05:30",
+   "headline": "Alaska: 1998 ke baad pehla Democrat governor",
+   "detail": "37 saal ke Jonathan Kreiss-Tomkins ne Alaska ke governor ka chunav jeeta — 1998 ke baad pehle Democrat aur rajya ke sabse kam umr ke governor; 7 December ko shapath lenge, parinam 25 November ko pramanit hoga.",
+   "category": "World",
+   "exam_angle": "America ke madhyaavadhi chunav aur rajya rajneeti — UPSC ke liye mahatvapurna.",
+   "source": "The Week",
+   "source_url": "https://www.theweek.in/wire-updates/international/2026/11/14/kreiss-tomkins-becomes-first-democrat-since-1998-elected-governor-in-alaska.html",
+   "genuineness": "verified",
+   "outlets": [
+    "Associated Press",
+    "Haaretz",
+    "Financial Express",
+    "Times Now"
+   ],
+   "image": "../images/world/world-20261114-2222-03.jpg",
+   "image_credit": "Gillfoto / Wikimedia Commons (CC BY-SA 4.0)"
+  },
+  {
+   "id": "world-20261114-2222-04",
+   "published_ist": "2026-11-14T12:15:00+05:30",
+   "headline": "America ne 26 saal baad measles status khoya",
+   "detail": "Reports ke mutabik PAHO ne America ka measles elimination status khatm kar diya — 12 mahine se lagatar sankraman ke baad; 2026 me 5,400 se zyada case mile, ye darja 2000 se tha.",
+   "category": "World",
+   "exam_angle": "Jan swasthya, teekakaran aur WHO ki bhoomika — UPSC ke liye mahatvapurna.",
+   "source": "The Standard",
+   "source_url": "https://www.thestandard.com.hk/world/article/348484/US-loses-measles-free-status-after-continued-spread-of-the-disease-WSJ-reports",
+   "genuineness": "corroborated",
+   "outlets": [
+    "Wall Street Journal",
+    "Reuters",
+    "CNN",
+    "Axios"
+   ],
+   "image": null,
+   "image_credit": null
+  },
+  {
+   "id": "world-20261114-2222-05",
+   "published_ist": "2026-11-14T13:54:00+05:30",
+   "headline": "Pakistan mantri 3 saal baad Bharat aayenge",
+   "detail": "Pakistan ke jalvayu mantri Musadik Masood Malik 20–22 November ko New Delhi me SCO Civilisational Dialogue me shamil honge — May 2023 ke baad kisi Pakistani mantri ki pehli Bharat yatra, aur May 2025 ke takraav ke baad bhi pehli.",
+   "category": "World",
+   "exam_angle": "SCO, Bharat-Pakistan sambandh aur kshetriya kootneeti — UPSC ke liye mahatvapurna.",
+   "source": "New Indian Express",
+   "source_url": "https://www.newindianexpress.com/world/2026/Nov/14/pakistan-minister-to-visit-india-for-first-time-in-three-years-for-sco-forum",
+   "genuineness": "verified",
+   "outlets": [
+    "The Hindu",
+    "Outlook India",
+    "Arab News",
+    "Khaleej Times"
    ],
    "image": null,
    "image_credit": null
