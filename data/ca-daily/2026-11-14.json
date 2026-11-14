@@ -212,6 +212,76 @@
     ],
     "answer_index": 1
    }
+  },
+  {
+   "episode": 120,
+   "video_hi": "ZJip3PxmNNQ",
+   "video_hinglish": "ZJip3PxmNNQ",
+   "capsules": [
+    {
+     "id": "ca-ep120-s1",
+     "headline_hi": "Pakistan mantri 3 saal baad Bharat aayenge",
+     "headline_hinglish": "Pakistan mantri 3 saal baad Bharat aayenge",
+     "detail_hi": "SCO Dialogue 20-22 November ko New Delhi mein hoga, Pakistan ke mantri Musadik Malik shamil honge.",
+     "detail_hinglish": "SCO Dialogue 20-22 November ko New Delhi mein hoga, Pakistan ke mantri Musadik Malik shamil honge.",
+     "category_hi": "International",
+     "category_en": "National"
+    },
+    {
+     "id": "ca-ep120-s2",
+     "headline_hi": "Karnataka ka haq, Mekedatu dam banega",
+     "headline_hinglish": "Karnataka ka haq, Mekedatu dam banega",
+     "detail_hi": "CM D.K. Shivakumar ne kaha Karnataka Mekedatu dam banayega, Tamil Nadu ko uska tay hissa milega.",
+     "detail_hinglish": "CM D.K. Shivakumar ne kaha Karnataka Mekedatu dam banayega, Tamil Nadu ko uska tay hissa milega.",
+     "category_hi": "Polity",
+     "category_en": "Polity"
+    },
+    {
+     "id": "ca-ep120-s3",
+     "headline_hi": "Delhi hawa: 191 units par sakht karwai",
+     "headline_hinglish": "Delhi hawa: 191 units par sakht karwai",
+     "detail_hi": "NCR mein pradushan par Centre ne 191 units ke khilaf karwai ke aadesh diye, 7 stations par severe AQI.",
+     "detail_hinglish": "NCR mein pradushan par Centre ne 191 units ke khilaf karwai ke aadesh diye, 7 stations par severe AQI.",
+     "category_hi": "Environment",
+     "category_en": "Environment"
+    },
+    {
+     "id": "ca-ep120-s4",
+     "headline_hi": "Railways RAC khatm karne par vichar",
+     "headline_hinglish": "Railways RAC khatm karne par vichar",
+     "detail_hi": "Railways RAC vyavastha khatm karne par vichar kar raha hai, Vande Bharat Sleeper mein shared berth nahi hogi.",
+     "detail_hinglish": "Railways RAC vyavastha khatm karne par vichar kar raha hai, Vande Bharat Sleeper mein shared berth nahi hogi.",
+     "category_hi": "Economy",
+     "category_en": "Economy"
+    },
+    {
+     "id": "ca-ep120-s5",
+     "headline_hi": "MP mein 8.19 lakh naye matdata jode",
+     "headline_hinglish": "MP mein 8.19 lakh naye matdata jode",
+     "detail_hi": "Madhya Pradesh ki matdata soochi mein 8.19 lakh naye naam jode gaye, kul matdata 5.48 crore hue.",
+     "detail_hinglish": "Madhya Pradesh ki matdata soochi mein 8.19 lakh naye naam jode gaye, kul matdata 5.48 crore hue.",
+     "category_hi": "Polity",
+     "category_en": "Polity"
+    }
+   ],
+   "mcq": {
+    "id": "ca-ep120-mcq",
+    "q_hi": "SCO Civilizational Dialogue kab se kab tak New Delhi mein hoga?",
+    "q_hinglish": "SCO Civilizational Dialogue kab se kab tak New Delhi mein hoga?",
+    "options_hi": [
+     "15-17 November 2026",
+     "18-20 November 2026",
+     "20-22 November 2026",
+     "25-27 November 2026"
+    ],
+    "options_hinglish": [
+     "15-17 November 2026",
+     "18-20 November 2026",
+     "20-22 November 2026",
+     "25-27 November 2026"
+    ],
+    "answer_index": 2
+   }
   }
  ]
 }
