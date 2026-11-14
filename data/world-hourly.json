@@ -1,23 +1,41 @@
 {
- "updated_ist": "2026-11-14T20:35:45+05:30",
+ "updated_ist": "2026-11-14T21:26:16+05:30",
  "items": [
   {
-   "id": "world-20261114-2032-01",
-   "published_ist": "2026-11-14T14:17:00+05:30",
-   "headline": "Russia ki kadi shartein, kaidi adla-badli tay",
-   "detail": "Abu Dhabi baatchit me Russia ne NATO ko 1997 ki seemaon par lautane ki mang rakhi aur har taraf 1,000–1,500 kaidiyon ki adla-badli par sehmati bani; Finland ko NATO se nikaalne wali khabar par Kremlin ne inkar kiya.",
+   "id": "world-20261114-2122-01",
+   "published_ist": "2026-11-14T04:17:00+05:30",
+   "headline": "Starship kaksha me, booster samundar me gira",
+   "detail": "SpaceX ki 15th Starship udan kaksha me pahunchi aur 26 Starlink upagrah chhode, lekin Super Heavy booster tower catch se chhootkar Gulf of Mexico me girkar fat gaya; yan aaj dopahar Texas wapas aane ki koshish karega.",
    "category": "World",
-   "exam_angle": "Ukraine yuddh, NATO vistaar aur Europe ki suraksha — UPSC ke liye mahatvapurna.",
-   "source": "The Week",
-   "source_url": "https://www.theweek.in/news/world/2026/11/14/what-are-russias-hardened-demands-for-ending-ukraine-war.html",
+   "exam_angle": "Punah-upyog wale bhari rocket aur Artemis karyakram — UPSC ke liye mahatvapurna.",
+   "source": "Channel News Asia",
+   "source_url": "https://www.channelnewsasia.com/world/spacex-starship-launch-booster-recovery-aborted-6551391",
    "genuineness": "verified",
    "outlets": [
-    "Bild",
-    "The New York Times",
-    "The Week"
+    "Associated Press",
+    "AFP",
+    "Motley Fool"
    ],
-   "image": "../images/world/world-20261114-2032-01.jpg",
-   "image_credit": "The Week"
+   "image": null,
+   "image_credit": null
+  },
+  {
+   "id": "world-20261114-2122-02",
+   "published_ist": "2026-11-13T17:31:00+05:30",
+   "headline": "IAEA: Iran ke Isfahan plant par chinta badhi",
+   "detail": "IAEA ne kaha Iran ne Isfahan ke bhoomigat uranium samvardhan sanyantra ka nirikshan abhi tak nahi karne diya — agency ko uski jagah ya andar parmanu samagri hai ya nahi, ye bhi nahi pata; nirikshakon ki turant wapsi ki mang ki.",
+   "category": "World",
+   "exam_angle": "Iran parmanu karyakram aur IAEA suraksha upay — UPSC ke liye mahatvapurna.",
+   "source": "Al Arabiya",
+   "source_url": "https://english.alarabiya.net/News/middle-east/2026/11/13/iaea-increasingly-concerned-about-iranian-enrichment-plant-its-report-says",
+   "genuineness": "verified",
+   "outlets": [
+    "Reuters",
+    "AFP",
+    "Times of Israel"
+   ],
+   "image": null,
+   "image_credit": null
   },
   {
    "id": "world-20261114-2032-02",
@@ -37,23 +55,6 @@
    ],
    "image": "../images/world/world-20261114-2032-02.jpg",
    "image_credit": "Bulgarian Presidency, Wikimedia Commons, CC BY 2.5 bg"
-  },
-  {
-   "id": "world-20261114-2032-03",
-   "published_ist": "2026-11-13T00:00:00+05:30",
-   "headline": "China ke bina-elaan abhyas, Taiwan par dabav",
-   "detail": "Taiwan ne kaha China ke darjanon yuddhpot Taiwan ke aas-paas aur prashant me ghoom rahe hain — raksha mantri Wellington Koo ne ise 'area denial' abhyas bataya, jisse China nakabandi ki taakat dikha raha hai; ye dabav APEC shikhar se pehle badha hai.",
-   "category": "World",
-   "exam_angle": "Taiwan Strait aur Indo-Pacific suraksha — UPSC ke liye mahatvapurna.",
-   "source": "Reuters",
-   "source_url": "https://www.reuters.com/default/chinas-area-denial-drills-send-message-taiwan-well-beyond-2026-11-13/",
-   "genuineness": "corroborated",
-   "outlets": [
-    "Reuters",
-    "Taipei Times"
-   ],
-   "image": null,
-   "image_credit": null
   },
   {
    "id": "world-20261114-1926-01",
@@ -76,40 +77,19 @@
    "image_credit": "Xuthoria, Wikimedia Commons, CC BY-SA 4.0"
   },
   {
-   "id": "world-20261114-1926-02",
-   "published_ist": "2026-11-14T00:00:00+05:30",
-   "headline": "Mississippi: tanker se takra kar cruise boat palti",
-   "detail": "New Orleans me tanker Atlantic Asphalt ki steering kharab hone se woh khadi cruise boat American Heritage se takraya — naav palat gayi, lekin 180 se zyada sawaaron me se koi lapata nahi; 32 log aspatal me, kisi ki haalat gambhir nahi.",
+   "id": "world-20261114-1822-02",
+   "published_ist": "2026-11-14T15:42:00+05:30",
+   "headline": "Zelenskyy ko Denmark se €645 million madad",
+   "detail": "Ukraine ke rashtrapati Zelenskyy ne bataya ki Denmark aur Ireland yatra se €645 million raksha package aur €20 million urja package mila, aur Britain ne Russia ke tel par naye pratibandh lagaye.",
    "category": "World",
-   "exam_angle": null,
-   "source": "The New Indian Express",
-   "source_url": "https://www.newindianexpress.com/world/2026/Nov/14/all-passengers-and-crew-on-new-orleans-cruise-ship-survive-crash-with-tanker-on-mississippi-river-2",
+   "exam_angle": "Ukraine yuddh aur Europe ki suraksha — UPSC ke liye mahatvapurna.",
+   "source": "Tribune India",
+   "source_url": "https://www.tribuneindia.com/news/world/concrete-results-from-denmark-ireland-visits-zelenskyy-highlights-e645-mn-danish-defence-package-uk-sanctions/",
    "genuineness": "verified",
    "outlets": [
-    "Reuters",
-    "AFP",
-    "The New Indian Express",
-    "The Indian Express"
-   ],
-   "image": null,
-   "image_credit": null
-  },
-  {
-   "id": "world-20261114-1926-03",
-   "published_ist": "2026-11-14T08:23:00+05:30",
-   "headline": "Britain: America ke hawai adde par drone halchal",
-   "detail": "Britain ke RAF Lakenheath adde par shukravar shaam sandigdh drone halchal par America ki vayu sena ne suraksha jawab diya — koi jawan, viman ya dhancha prabhavit nahi hua, aur sthiti sulajh gayi.",
-   "category": "World",
-   "exam_angle": "Britain me America ke sainya adde par drone — antarrashtriya suraksha ke liye mahatvapurna.",
-   "source": "The Economic Times",
-   "source_url": "https://economictimes.indiatimes.com/news/defence/drone-activity-over-us-base-in-britain-prompts-security-response-us-military-says/articleshow/135820891.cms",
-   "genuineness": "verified",
-   "outlets": [
-    "Reuters",
-    "CNN",
-    "AFP",
-    "The Times of Israel",
-    "The Economic Times"
+    "Tribune India",
+    "Times Now",
+    "Kyiv Post"
    ],
    "image": null,
    "image_credit": null
@@ -133,22 +113,22 @@
    "image_credit": null
   },
   {
-   "id": "world-20261114-1822-02",
-   "published_ist": "2026-11-14T15:42:00+05:30",
-   "headline": "Zelenskyy ko Denmark se €645 million madad",
-   "detail": "Ukraine ke rashtrapati Zelenskyy ne bataya ki Denmark aur Ireland yatra se €645 million raksha package aur €20 million urja package mila, aur Britain ne Russia ke tel par naye pratibandh lagaye.",
+   "id": "world-20261114-2032-01",
+   "published_ist": "2026-11-14T14:17:00+05:30",
+   "headline": "Russia ki kadi shartein, kaidi adla-badli tay",
+   "detail": "Abu Dhabi baatchit me Russia ne NATO ko 1997 ki seemaon par lautane ki mang rakhi aur har taraf 1,000–1,500 kaidiyon ki adla-badli par sehmati bani; Finland ko NATO se nikaalne wali khabar par Kremlin ne inkar kiya.",
    "category": "World",
-   "exam_angle": "Ukraine yuddh aur Europe ki suraksha — UPSC ke liye mahatvapurna.",
-   "source": "Tribune India",
-   "source_url": "https://www.tribuneindia.com/news/world/concrete-results-from-denmark-ireland-visits-zelenskyy-highlights-e645-mn-danish-defence-package-uk-sanctions/",
+   "exam_angle": "Ukraine yuddh, NATO vistaar aur Europe ki suraksha — UPSC ke liye mahatvapurna.",
+   "source": "The Week",
+   "source_url": "https://www.theweek.in/news/world/2026/11/14/what-are-russias-hardened-demands-for-ending-ukraine-war.html",
    "genuineness": "verified",
    "outlets": [
-    "Tribune India",
-    "Times Now",
-    "Kyiv Post"
+    "Bild",
+    "The New York Times",
+    "The Week"
    ],
-   "image": null,
-   "image_credit": null
+   "image": "../images/world/world-20261114-2032-01.jpg",
+   "image_credit": "The Week"
   },
   {
    "id": "world-20261114-1722-01",
@@ -164,79 +144,6 @@
     "Al Jazeera",
     "Sunday Guardian Live",
     "Interbellum News"
-   ],
-   "image": null,
-   "image_credit": null
-  },
-  {
-   "id": "world-20261114-1722-02",
-   "published_ist": "2026-11-14T02:34:00+05:30",
-   "headline": "Mossad pramukh Washington me, Iran par baatchit",
-   "detail": "Israel ke Mossad pramukh Roman Gofman shukravaar ko Washington me CIA nideshak John Ratcliffe se mile — Axios ke mutabik Netanyahu Trump par Iran ke khilaf yuddh phir shuru karne ka dabav bana rahe hain; Mossad, CIA aur White House ne tippani se mana kar diya.",
-   "category": "World",
-   "exam_angle": "Israel-America-Iran tanaav aur paschim Asia ki suraksha — UPSC ke liye mahatvapurna.",
-   "source": "Tribune",
-   "source_url": "https://tribune.com.pk/story/2640178/mossad-chief-visits-washington-as-israel-presses-trump-to-resume-iran-war-report",
-   "genuineness": "verified",
-   "outlets": [
-    "Axios",
-    "The Thursday Times",
-    "Tribune"
-   ],
-   "image": null,
-   "image_credit": null
-  },
-  {
-   "id": "world-20261114-1622-02",
-   "published_ist": "2026-11-14T03:44:00+05:30",
-   "headline": "Supreme Court: Trump asylum ban ki sunvai",
-   "detail": "America ki Supreme Court ne Trump ke dakshini seema par asylum par pratibandh ki jaanch manzoor ki — nichli adalaton ne ise gair-kanuni bataya tha; sunvai 2027 ke vasant me hogi, faisla June tak aane ki ummeed hai.",
-   "category": "World",
-   "exam_angle": "America me karyapalika ki shakti aur sharanarthi kanoon par faisla — UPSC ke liye mahatvapurna.",
-   "source": "CNN",
-   "source_url": "https://www.cnn.com/2026/11/13/politics/supreme-court-trump-asylum-policy?cid=external-feeds_iluminar_meta",
-   "genuineness": "verified",
-   "outlets": [
-    "CNN",
-    "USA Today",
-    "Associated Press"
-   ],
-   "image": "../images/world/world-20261114-1622-02.jpg",
-   "image_credit": "LarryMicheli / Wikimedia Commons (CC BY-SA 4.0)"
-  },
-  {
-   "id": "world-20261114-1622-03",
-   "published_ist": "2026-11-14T05:51:00+05:30",
-   "headline": "Rubio: Iran par aur hamle ki zaroorat nahi",
-   "detail": "America ke videsh mantri Marco Rubio ne kaha Iran par aarthik dabav itna asardar hai ki aur sainya karwai ki zaroorat nahi — jeet ka matlab hai Iran ko kabhi parmanu hathiyar na milne dena; Iran ne jawabi karwai ki chetavni di.",
-   "category": "World",
-   "exam_angle": "Khadi me America-Iran tanav aur nausena nakabandi — Bharat ki urja suraksha ke liye mahatvapurna.",
-   "source": "Times of Israel",
-   "source_url": "https://www.timesofisrael.com/liveblog-november-14-2026/amp/",
-   "genuineness": "verified",
-   "outlets": [
-    "Times of Israel",
-    "Al Jazeera",
-    "Gulf News"
-   ],
-   "image": "../images/world/world-20261114-1622-03.jpg",
-   "image_credit": "U.S. Department of State / Wikimedia Commons (Public domain)"
-  },
-  {
-   "id": "world-20261114-1522-02",
-   "published_ist": "2026-11-14T05:26:00+05:30",
-   "headline": "Bahrain: Iran ka radar par hamle ka daava",
-   "detail": "Iran ke IRGC ne daava kiya ki usne Bahrain me America ke early-warning radar ko tabah kar diya — Sirik telecom tower par America ke hamle ka jawaab bataya; CENTCOM ne daava kharij karte hue kaha do Iranian drone giraye gaye, koi nuksan nahi hua.",
-   "category": "World",
-   "exam_angle": "Khadi me America-Iran tanav aur Hormuz ki suraksha — Bharat ki urja suraksha ke liye mahatvapurna.",
-   "source": "Dawn",
-   "source_url": "https://www.dawn.com/news/2044367/iran-claims-us-denies-strike-on-radar-in-bahrain",
-   "genuineness": "verified",
-   "outlets": [
-    "Dawn",
-    "Channel News Asia",
-    "The Express Tribune",
-    "TBS News"
    ],
    "image": null,
    "image_credit": null
@@ -261,6 +168,24 @@
    "image_credit": null
   },
   {
+   "id": "world-20261114-1222-01",
+   "published_ist": "2026-11-14T10:55:00+05:30",
+   "headline": "Iran ne Khadi deshon par 7,000 hamle kiye",
+   "detail": "GCC pramukh Jasem Albudaiwi ne UN Suraksha Parishad ko bataya ki 28 February se Iran ne Khadi deshon par 7,000 se zyada missile aur drone hamle kiye — hawai adde, bandargah aur tel suvidhaon ko nishana banaya gaya; parishad se in hamalon ko rokne ki maang ki.",
+   "category": "World",
+   "exam_angle": "Khadi me tanav, UNSC ki bhoomika aur Bharat ki urja suraksha — UPSC ke liye mahatvapurna.",
+   "source": "Arab News",
+   "source_url": "https://www.arabnews.com/middle-east/iran-fired-over-7000-missiles-and-drones-at-gulf-nations-since-war-began-gcc-chief-tells-un-3011767",
+   "genuineness": "verified",
+   "outlets": [
+    "Arab News",
+    "Kuwait Times",
+    "Sabq"
+   ],
+   "image": "../images/world/world-20261114-1222-01.jpg",
+   "image_credit": "Jdforrester / Wikimedia Commons (CC BY 4.0)"
+  },
+  {
    "id": "world-20261114-1422-02",
    "published_ist": "2026-11-14T10:47:00+05:30",
    "headline": "Hormuz: teesra tanker bhi mine se takraya",
@@ -274,6 +199,24 @@
     "AFP",
     "Mehr News",
     "Gulf Today"
+   ],
+   "image": null,
+   "image_credit": null
+  },
+  {
+   "id": "world-20261114-1122-02",
+   "published_ist": "2026-11-14T10:19:00+05:30",
+   "headline": "Qatar Airways ki Riyadh, Dammam udaanen phir shuru",
+   "detail": "Qatar Airways ne ek mahine se zyada ke antaral ke baad Riyadh (13 November) aur Dammam (14 November) ke liye rozana udaanen phir shuru kar di — October me Riyadh hawai adde par hamle ke baad seva band hui thi; Abha aur Taif abhi bhi band hain.",
+   "category": "World",
+   "exam_angle": null,
+   "source": "The Thursday Times",
+   "source_url": "https://thursdaytimes.com/2026/11/14/news/international/qatar-airways-resumes-riyadh-dammam-flights-saudi-arabia/",
+   "genuineness": "verified",
+   "outlets": [
+    "The Thursday Times",
+    "Arabian Business",
+    "Qatar Tribune"
    ],
    "image": null,
    "image_credit": null
@@ -295,6 +238,24 @@
    ],
    "image": "../images/world/world-20261114-1322-01.jpg",
    "image_credit": "Jürgen Matern / Wikimedia Commons (CC BY-SA 3.0)"
+  },
+  {
+   "id": "world-20261114-1122-01",
+   "published_ist": "2026-11-14T09:33:00+05:30",
+   "headline": "ICC ne America sainikon ki jaanch band ki",
+   "detail": "ICC ke nyayadhishon ne Afghanistan me America ke sainikon par kathit apradhon ki jaanch aupcharik roop se band kar di — ab sirf 2021 ke baad Taliban ke karwaiyon par dhyaan rahega; abhiyojak ne faisle ke khilaf appeal ki hai.",
+   "category": "World",
+   "exam_angle": "ICC ki jaanch par America ke pratibandh aur antarrashtriya kanoon par asar — UPSC ke liye mahatvapurna.",
+   "source": "Al Jazeera",
+   "source_url": "https://www.aljazeera.com/amp/news/2026/11/14/icc-stops-probe-into-alleged-crimes-by-us-troops-in-afghanistan",
+   "genuineness": "verified",
+   "outlets": [
+    "Reuters",
+    "Al Jazeera",
+    "Associated Press"
+   ],
+   "image": null,
+   "image_credit": null
   },
   {
    "id": "world-20261114-1322-02",
@@ -334,73 +295,21 @@
    "image_credit": null
   },
   {
-   "id": "world-20261114-1222-01",
-   "published_ist": "2026-11-14T10:55:00+05:30",
-   "headline": "Iran ne Khadi deshon par 7,000 hamle kiye",
-   "detail": "GCC pramukh Jasem Albudaiwi ne UN Suraksha Parishad ko bataya ki 28 February se Iran ne Khadi deshon par 7,000 se zyada missile aur drone hamle kiye — hawai adde, bandargah aur tel suvidhaon ko nishana banaya gaya; parishad se in hamalon ko rokne ki maang ki.",
+   "id": "world-20261114-1926-03",
+   "published_ist": "2026-11-14T08:23:00+05:30",
+   "headline": "Britain: America ke hawai adde par drone halchal",
+   "detail": "Britain ke RAF Lakenheath adde par shukravar shaam sandigdh drone halchal par America ki vayu sena ne suraksha jawab diya — koi jawan, viman ya dhancha prabhavit nahi hua, aur sthiti sulajh gayi.",
    "category": "World",
-   "exam_angle": "Khadi me tanav, UNSC ki bhoomika aur Bharat ki urja suraksha — UPSC ke liye mahatvapurna.",
-   "source": "Arab News",
-   "source_url": "https://www.arabnews.com/middle-east/iran-fired-over-7000-missiles-and-drones-at-gulf-nations-since-war-began-gcc-chief-tells-un-3011767",
-   "genuineness": "verified",
-   "outlets": [
-    "Arab News",
-    "Kuwait Times",
-    "Sabq"
-   ],
-   "image": "../images/world/world-20261114-1222-01.jpg",
-   "image_credit": "Jdforrester / Wikimedia Commons (CC BY 4.0)"
-  },
-  {
-   "id": "world-20261114-1222-02",
-   "published_ist": "2026-11-14T04:23:00+05:30",
-   "headline": "Hungary: jangal me daba $19.5 million nagad mila",
-   "detail": "Hungary ki bhrashtachar-virodhi agency ne poorv mantri Miklós Seszták ki jaanch me jangalon, godamon aur gharon se $19.5 million nagad zabt kiya — mantri par sarkari bus khareed me rishwat lene ka aarop hai.",
-   "category": "World",
-   "exam_angle": "Bhrashtachar ke khilaf asset recovery aur sarkari khareed me pardarshita — governance ke liye mahatvapurna.",
-   "source": "Arab News",
-   "source_url": "https://www.arabnews.com/world/hungarian-authorities-recover-195-million-in-cash-during-investigation-into-orban-era-minister-3011772",
-   "genuineness": "verified",
-   "outlets": [
-    "Associated Press",
-    "The Guardian",
-    "24NewsHD"
-   ],
-   "image": null,
-   "image_credit": null
-  },
-  {
-   "id": "world-20261114-1122-02",
-   "published_ist": "2026-11-14T10:19:00+05:30",
-   "headline": "Qatar Airways ki Riyadh, Dammam udaanen phir shuru",
-   "detail": "Qatar Airways ne ek mahine se zyada ke antaral ke baad Riyadh (13 November) aur Dammam (14 November) ke liye rozana udaanen phir shuru kar di — October me Riyadh hawai adde par hamle ke baad seva band hui thi; Abha aur Taif abhi bhi band hain.",
-   "category": "World",
-   "exam_angle": null,
-   "source": "The Thursday Times",
-   "source_url": "https://thursdaytimes.com/2026/11/14/news/international/qatar-airways-resumes-riyadh-dammam-flights-saudi-arabia/",
-   "genuineness": "verified",
-   "outlets": [
-    "The Thursday Times",
-    "Arabian Business",
-    "Qatar Tribune"
-   ],
-   "image": null,
-   "image_credit": null
-  },
-  {
-   "id": "world-20261114-1122-01",
-   "published_ist": "2026-11-14T09:33:00+05:30",
-   "headline": "ICC ne America sainikon ki jaanch band ki",
-   "detail": "ICC ke nyayadhishon ne Afghanistan me America ke sainikon par kathit apradhon ki jaanch aupcharik roop se band kar di — ab sirf 2021 ke baad Taliban ke karwaiyon par dhyaan rahega; abhiyojak ne faisle ke khilaf appeal ki hai.",
-   "category": "World",
-   "exam_angle": "ICC ki jaanch par America ke pratibandh aur antarrashtriya kanoon par asar — UPSC ke liye mahatvapurna.",
-   "source": "Al Jazeera",
-   "source_url": "https://www.aljazeera.com/amp/news/2026/11/14/icc-stops-probe-into-alleged-crimes-by-us-troops-in-afghanistan",
+   "exam_angle": "Britain me America ke sainya adde par drone — antarrashtriya suraksha ke liye mahatvapurna.",
+   "source": "The Economic Times",
+   "source_url": "https://economictimes.indiatimes.com/news/defence/drone-activity-over-us-base-in-britain-prompts-security-response-us-military-says/articleshow/135820891.cms",
    "genuineness": "verified",
    "outlets": [
     "Reuters",
-    "Al Jazeera",
-    "Associated Press"
+    "CNN",
+    "AFP",
+    "The Times of Israel",
+    "The Economic Times"
    ],
    "image": null,
    "image_credit": null
@@ -442,6 +351,79 @@
    ],
    "image": null,
    "image_credit": null
+  },
+  {
+   "id": "world-20261114-1622-03",
+   "published_ist": "2026-11-14T05:51:00+05:30",
+   "headline": "Rubio: Iran par aur hamle ki zaroorat nahi",
+   "detail": "America ke videsh mantri Marco Rubio ne kaha Iran par aarthik dabav itna asardar hai ki aur sainya karwai ki zaroorat nahi — jeet ka matlab hai Iran ko kabhi parmanu hathiyar na milne dena; Iran ne jawabi karwai ki chetavni di.",
+   "category": "World",
+   "exam_angle": "Khadi me America-Iran tanav aur nausena nakabandi — Bharat ki urja suraksha ke liye mahatvapurna.",
+   "source": "Times of Israel",
+   "source_url": "https://www.timesofisrael.com/liveblog-november-14-2026/amp/",
+   "genuineness": "verified",
+   "outlets": [
+    "Times of Israel",
+    "Al Jazeera",
+    "Gulf News"
+   ],
+   "image": "../images/world/world-20261114-1622-03.jpg",
+   "image_credit": "U.S. Department of State / Wikimedia Commons (Public domain)"
+  },
+  {
+   "id": "world-20261114-1522-02",
+   "published_ist": "2026-11-14T05:26:00+05:30",
+   "headline": "Bahrain: Iran ka radar par hamle ka daava",
+   "detail": "Iran ke IRGC ne daava kiya ki usne Bahrain me America ke early-warning radar ko tabah kar diya — Sirik telecom tower par America ke hamle ka jawaab bataya; CENTCOM ne daava kharij karte hue kaha do Iranian drone giraye gaye, koi nuksan nahi hua.",
+   "category": "World",
+   "exam_angle": "Khadi me America-Iran tanav aur Hormuz ki suraksha — Bharat ki urja suraksha ke liye mahatvapurna.",
+   "source": "Dawn",
+   "source_url": "https://www.dawn.com/news/2044367/iran-claims-us-denies-strike-on-radar-in-bahrain",
+   "genuineness": "verified",
+   "outlets": [
+    "Dawn",
+    "Channel News Asia",
+    "The Express Tribune",
+    "TBS News"
+   ],
+   "image": null,
+   "image_credit": null
+  },
+  {
+   "id": "world-20261114-1222-02",
+   "published_ist": "2026-11-14T04:23:00+05:30",
+   "headline": "Hungary: jangal me daba $19.5 million nagad mila",
+   "detail": "Hungary ki bhrashtachar-virodhi agency ne poorv mantri Miklós Seszták ki jaanch me jangalon, godamon aur gharon se $19.5 million nagad zabt kiya — mantri par sarkari bus khareed me rishwat lene ka aarop hai.",
+   "category": "World",
+   "exam_angle": "Bhrashtachar ke khilaf asset recovery aur sarkari khareed me pardarshita — governance ke liye mahatvapurna.",
+   "source": "Arab News",
+   "source_url": "https://www.arabnews.com/world/hungarian-authorities-recover-195-million-in-cash-during-investigation-into-orban-era-minister-3011772",
+   "genuineness": "verified",
+   "outlets": [
+    "Associated Press",
+    "The Guardian",
+    "24NewsHD"
+   ],
+   "image": null,
+   "image_credit": null
+  },
+  {
+   "id": "world-20261114-1622-02",
+   "published_ist": "2026-11-14T03:44:00+05:30",
+   "headline": "Supreme Court: Trump asylum ban ki sunvai",
+   "detail": "America ki Supreme Court ne Trump ke dakshini seema par asylum par pratibandh ki jaanch manzoor ki — nichli adalaton ne ise gair-kanuni bataya tha; sunvai 2027 ke vasant me hogi, faisla June tak aane ki ummeed hai.",
+   "category": "World",
+   "exam_angle": "America me karyapalika ki shakti aur sharanarthi kanoon par faisla — UPSC ke liye mahatvapurna.",
+   "source": "CNN",
+   "source_url": "https://www.cnn.com/2026/11/13/politics/supreme-court-trump-asylum-policy?cid=external-feeds_iluminar_meta",
+   "genuineness": "verified",
+   "outlets": [
+    "CNN",
+    "USA Today",
+    "Associated Press"
+   ],
+   "image": "../images/world/world-20261114-1622-02.jpg",
+   "image_credit": "LarryMicheli / Wikimedia Commons (CC BY-SA 4.0)"
   }
  ]
 }
