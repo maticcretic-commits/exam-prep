@@ -1,6 +1,6 @@
 {
  "date": "2026-11-14",
- "updated_ist": "2026-11-14T20:35:45+05:30",
+ "updated_ist": "2026-11-14T21:26:16+05:30",
  "items": [
   {
    "id": "world-20261114-0622-01",
@@ -793,6 +793,42 @@
    "outlets": [
     "Reuters",
     "Taipei Times"
+   ],
+   "image": null,
+   "image_credit": null
+  },
+  {
+   "id": "world-20261114-2122-01",
+   "published_ist": "2026-11-14T04:17:00+05:30",
+   "headline": "Starship kaksha me, booster samundar me gira",
+   "detail": "SpaceX ki 15th Starship udan kaksha me pahunchi aur 26 Starlink upagrah chhode, lekin Super Heavy booster tower catch se chhootkar Gulf of Mexico me girkar fat gaya; yan aaj dopahar Texas wapas aane ki koshish karega.",
+   "category": "World",
+   "exam_angle": "Punah-upyog wale bhari rocket aur Artemis karyakram — UPSC ke liye mahatvapurna.",
+   "source": "Channel News Asia",
+   "source_url": "https://www.channelnewsasia.com/world/spacex-starship-launch-booster-recovery-aborted-6551391",
+   "genuineness": "verified",
+   "outlets": [
+    "Associated Press",
+    "AFP",
+    "Motley Fool"
+   ],
+   "image": null,
+   "image_credit": null
+  },
+  {
+   "id": "world-20261114-2122-02",
+   "published_ist": "2026-11-13T17:31:00+05:30",
+   "headline": "IAEA: Iran ke Isfahan plant par chinta badhi",
+   "detail": "IAEA ne kaha Iran ne Isfahan ke bhoomigat uranium samvardhan sanyantra ka nirikshan abhi tak nahi karne diya — agency ko uski jagah ya andar parmanu samagri hai ya nahi, ye bhi nahi pata; nirikshakon ki turant wapsi ki mang ki.",
+   "category": "World",
+   "exam_angle": "Iran parmanu karyakram aur IAEA suraksha upay — UPSC ke liye mahatvapurna.",
+   "source": "Al Arabiya",
+   "source_url": "https://english.alarabiya.net/News/middle-east/2026/11/13/iaea-increasingly-concerned-about-iranian-enrichment-plant-its-report-says",
+   "genuineness": "verified",
+   "outlets": [
+    "Reuters",
+    "AFP",
+    "Times of Israel"
    ],
    "image": null,
    "image_credit": null
