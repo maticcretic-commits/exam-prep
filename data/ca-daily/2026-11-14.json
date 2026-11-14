@@ -72,6 +72,76 @@
     ],
     "answer_index": 2
    }
+  },
+  {
+   "episode": 118,
+   "video_hi": "S8MHh7SoeKE",
+   "video_hinglish": "S8MHh7SoeKE",
+   "capsules": [
+    {
+     "id": "ca-ep118-s1",
+     "headline_hi": "Microsoft outage doosre din bhi jaari",
+     "headline_hinglish": "Microsoft outage doosre din bhi jaari",
+     "detail_hi": "Microsoft ke Outlook, Teams aur Copilot doosre din bhi band rahe, company ne kaha koi malicious activity nahi mili.",
+     "detail_hinglish": "Microsoft ke Outlook, Teams aur Copilot doosre din bhi band rahe, company ne kaha koi malicious activity nahi mili.",
+     "category_hi": "Technology",
+     "category_en": "Technology"
+    },
+    {
+     "id": "ca-ep118-s2",
+     "headline_hi": "Maharashtra ke 3 beaches ko Blue Flag",
+     "headline_hinglish": "Maharashtra ke 3 beaches ko Blue Flag",
+     "detail_hi": "Ratnagiri ke Ladghar aur Guhagar aur Raigad ke Shrivardhan beach ko Blue Flag mila, Maharashtra ke liye pehli baar.",
+     "detail_hinglish": "Ratnagiri ke Ladghar aur Guhagar aur Raigad ke Shrivardhan beach ko Blue Flag mila, Maharashtra ke liye pehli baar.",
+     "category_hi": "Environment",
+     "category_en": "Environment"
+    },
+    {
+     "id": "ca-ep118-s3",
+     "headline_hi": "PLI schemes mein 2.40 lakh crore nivesh",
+     "headline_hinglish": "PLI schemes mein 2.40 lakh crore nivesh",
+     "detail_hi": "NITI Aayog report ke mutabik 14 PLI schemes mein 2.40 lakh crore rupaye ka nivesh hua hai.",
+     "detail_hinglish": "NITI Aayog report ke mutabik 14 PLI schemes mein 2.40 lakh crore rupaye ka nivesh hua hai.",
+     "category_hi": "Economy",
+     "category_en": "Economy"
+    },
+    {
+     "id": "ca-ep118-s4",
+     "headline_hi": "Youth Olympics mein boxing mein double gold",
+     "headline_hinglish": "Youth Olympics mein boxing mein double gold",
+     "detail_hi": "Dakar Youth Olympics mein Ambekar Meetei aur Gunjan ne boxing mein Bharat ke pehle gold jeete.",
+     "detail_hinglish": "Dakar Youth Olympics mein Ambekar Meetei aur Gunjan ne boxing mein Bharat ke pehle gold jeete.",
+     "category_hi": "Sports",
+     "category_en": "Sports"
+    },
+    {
+     "id": "ca-ep118-s5",
+     "headline_hi": "Mysuru mein Bharat ka pehla LED planetarium",
+     "headline_hinglish": "Mysuru mein Bharat ka pehla LED planetarium",
+     "detail_hi": "PM Modi ne Mysuru mein COSMOS planetarium ka udghatan kiya, Bharat ka pehla LED dome planetarium hai.",
+     "detail_hinglish": "PM Modi ne Mysuru mein COSMOS planetarium ka udghatan kiya, Bharat ka pehla LED dome planetarium hai.",
+     "category_hi": "Science",
+     "category_en": "National"
+    }
+   ],
+   "mcq": {
+    "id": "ca-ep118-mcq",
+    "q_hi": "Maharashtra ke kin beaches ko Blue Flag certification mila?",
+    "q_hinglish": "Maharashtra ke kin beaches ko Blue Flag certification mila?",
+    "options_hi": [
+     "Juhu, Versova, Aksa",
+     "Kovalam, Varkala, Cherai",
+     "Ladghar, Guhagar, Shrivardhan",
+     "Puri, Chandrabhaga, Gopalpur"
+    ],
+    "options_hinglish": [
+     "Juhu, Versova, Aksa",
+     "Kovalam, Varkala, Cherai",
+     "Ladghar, Guhagar, Shrivardhan",
+     "Puri, Chandrabhaga, Gopalpur"
+    ],
+    "answer_index": 2
+   }
   }
  ]
 }
