@@ -1,118 +1,189 @@
 {
-  "date": "2026-11-14",
-  "updated_ist": "2026-11-14T07:24:41+05:30",
-  "items": [
-    {
-      "id": "world-20261114-0622-01",
-      "published_ist": "2026-11-14T02:24:00+05:30",
-      "headline": "America: FAA ne saari udaanen roki",
-      "detail": "America me air traffic control ke telecom outage ke baad FAA ne desh bhar me saari departing flights rok di — 11 September 2001 ke baad sirf doosri baar aisa nationwide ground stop laga; lagbhag 7,000 flights late ya cancel hui, hamle ka koi sanket nahi.",
-      "category": "World",
-      "exam_angle": "America ke hawai yatayat niyantran tantra ki kamzori aur rashtriya suraksha par asar — UPSC ke liye mahatvapurna.",
-      "source": "Reuters",
-      "source_url": "https://www.reuters.com/world/us/faa-issues-national-ground-stop-due-extraordinary-circumstance-reasons-safety-2026-11-13/",
-      "genuineness": "verified",
-      "outlets": [
-        "Reuters",
-        "USA Today",
-        "Times of India",
-        "The Hindu BusinessLine"
-      ],
-      "image": null,
-      "image_credit": null
-    },
-    {
-      "id": "world-20261114-0622-02",
-      "published_ist": "2026-11-13T22:31:00+05:30",
-      "headline": "Niger: bazaar ja rahe 37 nagrikon ki hatya",
-      "detail": "Paschimi Niger ke Tillaberi kshetra me bazaar ja rahe gaon walon par ghaat lagakar hamla hua — kam se kam 37 log mare gaye, jinme mahilayen aur bachche bhi shamil; hamlaavaron ki pehchan abhi nahi hui.",
-      "category": "World",
-      "exam_angle": "Sahel kshetra me jihadist hinsa aur Tillaberi tri-border sankat — Africa ki suraksha ke liye mahatvapurna.",
-      "source": "The Hindu",
-      "source_url": "https://www.thehindu.com/news/international/armed-men-kill-at-least-37-civilians-in-western-niger-say-local-sources/article71699297.ece",
-      "genuineness": "verified",
-      "outlets": [
-        "AFP",
-        "TASS",
-        "News Central TV"
-      ],
-      "image": null,
-      "image_credit": null
-    },
-    {
-      "id": "world-20261114-0622-03",
-      "published_ist": "2026-11-13T11:18:00+05:30",
-      "headline": "Putin: Europe bhi Ukraine shaanti vaarta me",
-      "detail": "Kremlin me American dooton se baat ke baad Putin ne agle daur ki Ukraine shaanti vaarta me European pratinidhiyon ko shamil karne par sahmati di — halanki Kremlin ne baad me sanket diya ki antim faisla abhi baki hai; Zelensky ne sambhavna ka swagat kiya.",
-      "category": "World",
-      "exam_angle": "Ukraine shaanti vaarta me Europe ki bhumika aur Russia-America kootneeti — antarrashtriya sambandhon ke liye mahatvapurna.",
-      "source": "NDTV",
-      "source_url": "https://www.ndtv.com/world-news/russia-ukraine-war-russian-president-vladimir-putin-agrees-to-let-european-representatives-join-ukraine-peace-talks-12320780/amp/1",
-      "genuineness": "verified",
-      "outlets": [
-        "Reuters",
-        "The Straits Times",
-        "NDTV"
-      ],
-      "image": null,
-      "image_credit": null
-    },
-    {
-      "id": "world-20261114-0722-01",
-      "published_ist": "2026-11-14T06:25:00+05:30",
-      "headline": "Trump, Xi, Putin: pehli baar teenon ki baithak",
-      "detail": "White House ne pushti ki — 19 November ko Shenzhen me APEC ke kinare America, China aur Russia ke neta parmanu hathiyar kam karne aur Iran yuddh par baat karenge; koi samjhauta hone ki ummeed nahi hai.",
-      "category": "World",
-      "exam_angle": "Teen bade parmanu shaktiyon ki pehli trilateral baithak — UPSC ke liye mahatvapurna.",
-      "source": "Firstpost",
-      "source_url": "https://www.firstpost.com/world/trump-xi-and-putin-to-hold-unprecedented-trilateral-meeting-at-apec-summit-in-china-14059913.html",
-      "genuineness": "verified",
-      "outlets": [
-        "CNN",
-        "Firstpost",
-        "Channel News Asia",
-        "Business Times",
-        "Associated Press"
-      ],
-      "image": null,
-      "image_credit": null
-    },
-    {
-      "id": "world-20261114-0722-02",
-      "published_ist": "2026-11-14T06:19:00+05:30",
-      "headline": "Microsoft outage doosre din bhi jaari",
-      "detail": "Outlook, Teams aur Copilot 70 se zyada deshon me do din se band ya dheeme rahe; Microsoft ne kaha mool wajah suljha li gayi hai aur cyber hamla nahi tha, lekin poori bahali ka koi samay nahi diya.",
-      "category": "World",
-      "exam_angle": "Mahatvapurna digital sevaon par nirbharta aur unki kamzori — UPSC ke liye mahatvapurna.",
-      "source": "The Hindu",
-      "source_url": "https://www.thehindu.com/sci-tech/technology/microsoft-outage-live-updates-november-13-2026-steps-to-fix-outlook-and-other-apps-ongoing/article71696624.ece",
-      "genuineness": "verified",
-      "outlets": [
-        "The Hindu",
-        "CBS News",
-        "Bloomberg",
-        "SBS News"
-      ],
-      "image": null,
-      "image_credit": null
-    },
-    {
-      "id": "world-20261114-0722-03",
-      "published_ist": "2026-11-14T01:46:00+05:30",
-      "headline": "Netherlands: tax par sarkar girne ke kagar par",
-      "detail": "PM Rob Jetten ne saat ghante ki sankat baithak ke baad kaha weekend me aur baatchit hogi; VVD ne sarkar ko 'failed experiment' kaha, tax package par gathbandhan me gehra matbhed hai.",
-      "category": "World",
-      "exam_angle": null,
-      "source": "Reuters",
-      "source_url": "https://www.1049thewolf.com/2026/11/13/dutch-government-set-for-weekend-crisis-talks-to-avert-collapse/",
-      "genuineness": "verified",
-      "outlets": [
-        "Reuters",
-        "Associated Press",
-        "The Week"
-      ],
-      "image": null,
-      "image_credit": null
-    }
-  ]
+ "date": "2026-11-14",
+ "updated_ist": "2026-11-14T08:25:09+05:30",
+ "items": [
+  {
+   "id": "world-20261114-0622-01",
+   "published_ist": "2026-11-14T02:24:00+05:30",
+   "headline": "America: FAA ne saari udaanen roki",
+   "detail": "America me air traffic control ke telecom outage ke baad FAA ne desh bhar me saari departing flights rok di — 11 September 2001 ke baad sirf doosri baar aisa nationwide ground stop laga; lagbhag 7,000 flights late ya cancel hui, hamle ka koi sanket nahi.",
+   "category": "World",
+   "exam_angle": "America ke hawai yatayat niyantran tantra ki kamzori aur rashtriya suraksha par asar — UPSC ke liye mahatvapurna.",
+   "source": "Reuters",
+   "source_url": "https://www.reuters.com/world/us/faa-issues-national-ground-stop-due-extraordinary-circumstance-reasons-safety-2026-11-13/",
+   "genuineness": "verified",
+   "outlets": [
+    "Reuters",
+    "USA Today",
+    "Times of India",
+    "The Hindu BusinessLine"
+   ],
+   "image": null,
+   "image_credit": null
+  },
+  {
+   "id": "world-20261114-0622-02",
+   "published_ist": "2026-11-13T22:31:00+05:30",
+   "headline": "Niger: bazaar ja rahe 37 nagrikon ki hatya",
+   "detail": "Paschimi Niger ke Tillaberi kshetra me bazaar ja rahe gaon walon par ghaat lagakar hamla hua — kam se kam 37 log mare gaye, jinme mahilayen aur bachche bhi shamil; hamlaavaron ki pehchan abhi nahi hui.",
+   "category": "World",
+   "exam_angle": "Sahel kshetra me jihadist hinsa aur Tillaberi tri-border sankat — Africa ki suraksha ke liye mahatvapurna.",
+   "source": "The Hindu",
+   "source_url": "https://www.thehindu.com/news/international/armed-men-kill-at-least-37-civilians-in-western-niger-say-local-sources/article71699297.ece",
+   "genuineness": "verified",
+   "outlets": [
+    "AFP",
+    "TASS",
+    "News Central TV"
+   ],
+   "image": null,
+   "image_credit": null
+  },
+  {
+   "id": "world-20261114-0622-03",
+   "published_ist": "2026-11-13T11:18:00+05:30",
+   "headline": "Putin: Europe bhi Ukraine shaanti vaarta me",
+   "detail": "Kremlin me American dooton se baat ke baad Putin ne agle daur ki Ukraine shaanti vaarta me European pratinidhiyon ko shamil karne par sahmati di — halanki Kremlin ne baad me sanket diya ki antim faisla abhi baki hai; Zelensky ne sambhavna ka swagat kiya.",
+   "category": "World",
+   "exam_angle": "Ukraine shaanti vaarta me Europe ki bhumika aur Russia-America kootneeti — antarrashtriya sambandhon ke liye mahatvapurna.",
+   "source": "NDTV",
+   "source_url": "https://www.ndtv.com/world-news/russia-ukraine-war-russian-president-vladimir-putin-agrees-to-let-european-representatives-join-ukraine-peace-talks-12320780/amp/1",
+   "genuineness": "verified",
+   "outlets": [
+    "Reuters",
+    "The Straits Times",
+    "NDTV"
+   ],
+   "image": null,
+   "image_credit": null
+  },
+  {
+   "id": "world-20261114-0722-01",
+   "published_ist": "2026-11-14T06:25:00+05:30",
+   "headline": "Trump, Xi, Putin: pehli baar teenon ki baithak",
+   "detail": "White House ne pushti ki — 19 November ko Shenzhen me APEC ke kinare America, China aur Russia ke neta parmanu hathiyar kam karne aur Iran yuddh par baat karenge; koi samjhauta hone ki ummeed nahi hai.",
+   "category": "World",
+   "exam_angle": "Teen bade parmanu shaktiyon ki pehli trilateral baithak — UPSC ke liye mahatvapurna.",
+   "source": "Firstpost",
+   "source_url": "https://www.firstpost.com/world/trump-xi-and-putin-to-hold-unprecedented-trilateral-meeting-at-apec-summit-in-china-14059913.html",
+   "genuineness": "verified",
+   "outlets": [
+    "CNN",
+    "Firstpost",
+    "Channel News Asia",
+    "Business Times",
+    "Associated Press"
+   ],
+   "image": null,
+   "image_credit": null
+  },
+  {
+   "id": "world-20261114-0722-02",
+   "published_ist": "2026-11-14T06:19:00+05:30",
+   "headline": "Microsoft outage doosre din bhi jaari",
+   "detail": "Outlook, Teams aur Copilot 70 se zyada deshon me do din se band ya dheeme rahe; Microsoft ne kaha mool wajah suljha li gayi hai aur cyber hamla nahi tha, lekin poori bahali ka koi samay nahi diya.",
+   "category": "World",
+   "exam_angle": "Mahatvapurna digital sevaon par nirbharta aur unki kamzori — UPSC ke liye mahatvapurna.",
+   "source": "The Hindu",
+   "source_url": "https://www.thehindu.com/sci-tech/technology/microsoft-outage-live-updates-november-13-2026-steps-to-fix-outlook-and-other-apps-ongoing/article71696624.ece",
+   "genuineness": "verified",
+   "outlets": [
+    "The Hindu",
+    "CBS News",
+    "Bloomberg",
+    "SBS News"
+   ],
+   "image": null,
+   "image_credit": null
+  },
+  {
+   "id": "world-20261114-0722-03",
+   "published_ist": "2026-11-14T01:46:00+05:30",
+   "headline": "Netherlands: tax par sarkar girne ke kagar par",
+   "detail": "PM Rob Jetten ne saat ghante ki sankat baithak ke baad kaha weekend me aur baatchit hogi; VVD ne sarkar ko 'failed experiment' kaha, tax package par gathbandhan me gehra matbhed hai.",
+   "category": "World",
+   "exam_angle": null,
+   "source": "Reuters",
+   "source_url": "https://www.1049thewolf.com/2026/11/13/dutch-government-set-for-weekend-crisis-talks-to-avert-collapse/",
+   "genuineness": "verified",
+   "outlets": [
+    "Reuters",
+    "Associated Press",
+    "The Week"
+   ],
+   "image": null,
+   "image_credit": null
+  },
+  {
+   "id": "world-20261114-0825-01",
+   "published_ist": "2026-11-14T06:45:00+05:30",
+   "headline": "America: 4 ghante baad udaanen phir shuru",
+   "detail": "FAA ne desh bhar ka ground stop hata liya — 4 ghante se zyada ki rukawat ke baad udaanen phir shuru hui; lagbhag 4,700 udaanen radd aur 10,000 deri se chali, cyber hamle ka koi sanket nahi mila.",
+   "category": "World",
+   "exam_angle": "9/11 ke baad sirf doosri baar America bhar me udaanen roki gayi — UPSC ke liye mahatvapurna.",
+   "source": "The New Indian Express",
+   "source_url": "https://www.newindianexpress.com/world/2026/Nov/14/us-lifts-nationwide-flight-halt-after-air-traffic-control-system-failure-disrupts-thousands-of-flights",
+   "genuineness": "verified",
+   "outlets": [
+    "Associated Press",
+    "CNN",
+    "Mathrubhumi"
+   ],
+   "image": null,
+   "image_credit": null
+  },
+  {
+   "id": "world-20261114-0825-02",
+   "published_ist": "2026-11-14T01:50:00+05:30",
+   "headline": "Trump ne tel waiver 90 din badhaya",
+   "detail": "Trump ne Jones Act ki chhoot 90 din ke liye badha di — videshi jahaaz ab America ke bandargaahon ke beech tel aur saaman le ja sakenge, taaki Iran yuddh ke beech tel ke daam kam rahen.",
+   "category": "World",
+   "exam_angle": "Jones Act 100 saal purana America ka shipping kanoon hai — UPSC ke liye mahatvapurna.",
+   "source": "Reuters",
+   "source_url": "https://www.reuters.com/world/us/us-extends-shipping-law-waiver-90-days-allow-freer-movement-oil-commodities-2026-11-13/",
+   "genuineness": "corroborated",
+   "outlets": [
+    "Reuters",
+    "ET Now"
+   ],
+   "image": null,
+   "image_credit": null
+  },
+  {
+   "id": "world-20261114-0825-03",
+   "published_ist": "2026-11-14T04:30:00+05:30",
+   "headline": "Turkiye ne Mecca raksha samjhaute ko manzoori di",
+   "detail": "Turkiye ne Mecca raksha samjhaute ko manzoori dene wala kanoon sarkari gazette me chhapa — sansad ne 5 November ko manzoori di thi; samjhauta tab lagu hoga jab aakhri dastavej jama hoga.",
+   "category": "World",
+   "exam_angle": "Teen deshon ka samjhauta: ek par hamla sab par hamla — UPSC ke liye mahatvapurna.",
+   "source": "Al Jazeera",
+   "source_url": "https://www.aljazeera.com/amp/news/liveblog/2026/11/13/iran-war-live-riyadh-china-discuss-houthis-as-group-claims-aramco-attacks",
+   "genuineness": "verified",
+   "outlets": [
+    "Al Jazeera",
+    "Clash Report",
+    "Türkiye Today"
+   ],
+   "image": null,
+   "image_credit": null
+  },
+  {
+   "id": "world-20261114-0825-04",
+   "published_ist": "2026-11-13T21:22:00+05:30",
+   "headline": "Turkiye aur Qatar ne raksha samjhauta kiya",
+   "detail": "Turkiye aur Qatar ne Istanbul me paraspar raksha samjhauta kiya — kisi ek par bahari hamla dono par hamla mana jayega; sanyukt abhyas aur raksha udyog me sahyog bhi hoga.",
+   "category": "World",
+   "exam_angle": "Khadi me badhte raksha gathbandhan — UPSC ke liye mahatvapurna.",
+   "source": "Al Jazeera",
+   "source_url": "https://www.aljazeera.com/news/2026/11/13/turkiye-and-qatar-sign-mutual-defence-agreement",
+   "genuineness": "verified",
+   "outlets": [
+    "Reuters",
+    "Al Jazeera",
+    "Gulf News"
+   ],
+   "image": null,
+   "image_credit": null
+  }
+ ]
 }
