@@ -1,0 +1,77 @@
+{
+ "date": "2026-11-15",
+ "date_hi": "15 November 2026",
+ "date_en": "15 November 2026",
+ "episodes": [
+  {
+   "episode": 121,
+   "video_hi": "Y7SRgNidJAU",
+   "video_hinglish": "Y7SRgNidJAU",
+   "capsules": [
+    {
+     "id": "ca-ep121-s1",
+     "headline_hi": "Goyal Egypt jaayenge, 130 CEO saath",
+     "headline_hinglish": "Goyal Egypt jaayenge, 130 CEO saath",
+     "detail_hi": "Piyush Goyal 15-16 November ko Egypt mein 7th Joint Trade Committee ki adhyakshata karenge, 130 se zyada CEO saath honge.",
+     "detail_hinglish": "Piyush Goyal 15-16 November ko Egypt mein 7th Joint Trade Committee ki adhyakshata karenge, 130 se zyada CEO saath honge.",
+     "category_hi": "Economy",
+     "category_en": "Economy"
+    },
+    {
+     "id": "ca-ep121-s2",
+     "headline_hi": "UN mein Bharat ne Palestine ka saath diya",
+     "headline_hinglish": "UN mein Bharat ne Palestine ka saath diya",
+     "detail_hi": "Bharat ne UN prastav ke paksh mein vote diya, 151 deshon ne samarthan kiya, 7 ne virodh kiya.",
+     "detail_hinglish": "Bharat ne UN prastav ke paksh mein vote diya, 151 deshon ne samarthan kiya, 7 ne virodh kiya.",
+     "category_hi": "International",
+     "category_en": "National"
+    },
+    {
+     "id": "ca-ep121-s3",
+     "headline_hi": "Aaj Janjatiya Gaurav Diwas, Birsa ko naman",
+     "headline_hinglish": "Aaj Janjatiya Gaurav Diwas, Birsa ko naman",
+     "detail_hi": "15 November ko Birsa Munda ki jayanti par Janjatiya Gaurav Diwas manaya ja raha hai, ve 1875 mein paida hue the.",
+     "detail_hinglish": "15 November ko Birsa Munda ki jayanti par Janjatiya Gaurav Diwas manaya ja raha hai, ve 1875 mein paida hue the.",
+     "category_hi": "Culture",
+     "category_en": "National"
+    },
+    {
+     "id": "ca-ep121-s4",
+     "headline_hi": "Odisha mein 625 crore ki paani pariyojnaayein",
+     "headline_hinglish": "Odisha mein 625 crore ki paani pariyojnaayein",
+     "detail_hi": "Odisha ne paanch nadi-jal sangrah pariyojnaon ko manzoori di, 74 gaon ke 72,000 logon ko fayda hoga.",
+     "detail_hinglish": "Odisha ne paanch nadi-jal sangrah pariyojnaon ko manzoori di, 74 gaon ke 72,000 logon ko fayda hoga.",
+     "category_hi": "Economy",
+     "category_en": "Economy"
+    },
+    {
+     "id": "ca-ep121-s5",
+     "headline_hi": "Bharat SAFF final mein, Bhutan ko 2-1 haraya",
+     "headline_hinglish": "Bharat SAFF final mein, Bhutan ko 2-1 haraya",
+     "detail_hi": "Vishnu aur Chinglensana ke gol se Bharat ne Bhutan ko 2-1 se haraya, final 17 November ko khela jayega.",
+     "detail_hinglish": "Vishnu aur Chinglensana ke gol se Bharat ne Bhutan ko 2-1 se haraya, final 17 November ko khela jayega.",
+     "category_hi": "Sports",
+     "category_en": "Sports"
+    }
+   ],
+   "mcq": {
+    "id": "ca-ep121-mcq",
+    "q_hi": "India-Egypt Joint Trade Committee ka kaunsa session 15-16 November ko Egypt mein hoga?",
+    "q_hinglish": "India-Egypt Joint Trade Committee ka kaunsa session 15-16 November ko Egypt mein hoga?",
+    "options_hi": [
+     "5th Session",
+     "6th Session",
+     "7th Session",
+     "8th Session"
+    ],
+    "options_hinglish": [
+     "5th Session",
+     "6th Session",
+     "7th Session",
+     "8th Session"
+    ],
+    "answer_index": 2
+   }
+  }
+ ]
+}
