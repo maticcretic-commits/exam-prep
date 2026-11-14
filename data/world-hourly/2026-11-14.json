@@ -1,6 +1,6 @@
 {
   "date": "2026-11-14",
-  "updated_ist": "2026-11-14T14:28:36+05:30",
+  "updated_ist": "2026-11-14T15:24:53+05:30",
   "items": [
     {
       "id": "world-20261114-0622-01",
@@ -482,6 +482,62 @@
       ],
       "image": null,
       "image_credit": null
+    },
+    {
+      "id": "world-20261114-1522-01",
+      "published_ist": "2026-11-13T21:41:00+05:30",
+      "headline": "Ukraine ne Russia par 1,200 drone daage",
+      "detail": "Guruvaar raat se shukravaar subah ke beech Ukraine ne Russia par lagbhag 1,200 drone daage — yuddh ki sabse badi hawai hamalon me se ek; Russia ke raksha mantralaya ke mutabik 1,198 drone giraye gaye, lekin teen kshetron me saat log mare gaye, jinme ek 12 saal ka bachcha bhi shamil; Volgograd refinery me aag lagi.",
+      "category": "World",
+      "exam_angle": "Ukraine yuddh me drone yuddh aur Europe ki suraksha vyavastha par asar — antarrashtriya sambandhon ke liye mahatvapurna.",
+      "source": "Firstpost",
+      "source_url": "https://www.firstpost.com/world/ukraine-war-talks-turn-to-europes-security-as-kyiv-launches-nearly-1200-drones-at-russia-14059896.html",
+      "genuineness": "verified",
+      "outlets": [
+        "Associated Press",
+        "Reuters",
+        "Firstpost",
+        "The Hindu"
+      ],
+      "image": null,
+      "image_credit": null
+    },
+    {
+      "id": "world-20261114-1522-02",
+      "published_ist": "2026-11-14T05:26:00+05:30",
+      "headline": "Bahrain: Iran ka radar par hamle ka daava",
+      "detail": "Iran ke IRGC ne daava kiya ki usne Bahrain me America ke early-warning radar ko tabah kar diya — Sirik telecom tower par America ke hamle ka jawaab bataya; CENTCOM ne daava kharij karte hue kaha do Iranian drone giraye gaye, koi nuksan nahi hua.",
+      "category": "World",
+      "exam_angle": "Khadi me America-Iran tanav aur Hormuz ki suraksha — Bharat ki urja suraksha ke liye mahatvapurna.",
+      "source": "Dawn",
+      "source_url": "https://www.dawn.com/news/2044367/iran-claims-us-denies-strike-on-radar-in-bahrain",
+      "genuineness": "verified",
+      "outlets": [
+        "Dawn",
+        "Channel News Asia",
+        "The Express Tribune",
+        "TBS News"
+      ],
+      "image": null,
+      "image_credit": null
+    },
+    {
+      "id": "world-20261114-1522-03",
+      "published_ist": "2026-11-14T00:29:00+05:30",
+      "headline": "COP31: jeevashm indhan par sahmati nahi",
+      "detail": "Antalya me COP31 ka pehla hafta bina sahmati ke khatm — jeevashm indhan se door hatne par desh bante hue; dweep desh turant utsarjan katauti maang rahe, Europe bijlikaran par zor de raha, tel utpadak desh virodh me; vaarta ka netritva kar rahe Australia ne kaha abhi aur mashvara baki hai.",
+      "category": "World",
+      "exam_angle": "COP31, jeevashm indhan se badlav aur jalvayu vitt — UPSC ke liye mahatvapurna.",
+      "source": "Business Standard",
+      "source_url": "https://www.business-standard.com/amp/world-news/cop31-consensus-on-climate-deal-unlikely-as-global-leaders-clash-126111400019_1.html",
+      "genuineness": "verified",
+      "outlets": [
+        "Reuters",
+        "The Express Tribune",
+        "Greenpeace Australia Pacific"
+      ],
+      "image": "../images/world/world-20261114-1522-03.jpg",
+      "image_credit": "Necati Savas / European Union / Wikimedia Commons (CC BY 4.0)"
     }
   ]
 }
