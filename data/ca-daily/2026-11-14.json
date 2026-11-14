@@ -142,6 +142,76 @@
     ],
     "answer_index": 2
    }
+  },
+  {
+   "episode": 119,
+   "video_hi": "tJwkD04z2bI",
+   "video_hinglish": "tJwkD04z2bI",
+   "capsules": [
+    {
+     "id": "ca-ep119-s1",
+     "headline_hi": "45th IITF Bharat Mandapam mein shuru",
+     "headline_hinglish": "45th IITF Bharat Mandapam mein shuru",
+     "detail_hi": "14 se 27 November tak chalne wale mele ki theme 'Vikas aur Virasat' hai, ITPO ne aayojan kiya hai.",
+     "detail_hinglish": "14 se 27 November tak chalne wale mele ki theme 'Vikas aur Virasat' hai, ITPO ne aayojan kiya hai.",
+     "category_hi": "Economy",
+     "category_en": "Economy"
+    },
+    {
+     "id": "ca-ep119-s2",
+     "headline_hi": "17 khiladiyon ko Arjuna Award se samman",
+     "headline_hinglish": "17 khiladiyon ko Arjuna Award se samman",
+     "detail_hi": "Rashtrapati ne Tejaswin Shankar, Divya Deshmukh aur Vidit Gujrathi samet 17 khiladiyon ko Arjuna Award diya.",
+     "detail_hinglish": "Rashtrapati ne Tejaswin Shankar, Divya Deshmukh aur Vidit Gujrathi samet 17 khiladiyon ko Arjuna Award diya.",
+     "category_hi": "Sports",
+     "category_en": "Sports"
+    },
+    {
+     "id": "ca-ep119-s3",
+     "headline_hi": "137 cancer davaiyon par daam ki lagam",
+     "headline_hinglish": "137 cancer davaiyon par daam ki lagam",
+     "detail_hi": "NPPA ne 137 cancer davaiyon par trade margin cap sakhti se lagu karne ka nirdesh diya hai.",
+     "detail_hinglish": "NPPA ne 137 cancer davaiyon par trade margin cap sakhti se lagu karne ka nirdesh diya hai.",
+     "category_hi": "Health",
+     "category_en": "Health"
+    },
+    {
+     "id": "ca-ep119-s4",
+     "headline_hi": "JEE Advanced 2027: 23 May ko pariksha",
+     "headline_hinglish": "JEE Advanced 2027: 23 May ko pariksha",
+     "detail_hi": "IIT Delhi ke aayojan mein JEE Advanced 2027 ki pariksha 23 May 2027, Ravivar ko hogi.",
+     "detail_hinglish": "IIT Delhi ke aayojan mein JEE Advanced 2027 ki pariksha 23 May 2027, Ravivar ko hogi.",
+     "category_hi": "Education",
+     "category_en": "Education"
+    },
+    {
+     "id": "ca-ep119-s5",
+     "headline_hi": "Matsya-6000 ki 500 metre gehri pariksha",
+     "headline_hinglish": "Matsya-6000 ki 500 metre gehri pariksha",
+     "detail_hi": "Bharat ki samudra-tale manav-yukt yaan Matsya-6000 ki 500 metre trial dive January-February 2027 mein hogi.",
+     "detail_hinglish": "Bharat ki samudra-tale manav-yukt yaan Matsya-6000 ki 500 metre trial dive January-February 2027 mein hogi.",
+     "category_hi": "Science",
+     "category_en": "National"
+    }
+   ],
+   "mcq": {
+    "id": "ca-ep119-mcq",
+    "q_hi": "JEE Advanced 2027 ki pariksha kab hogi?",
+    "q_hinglish": "JEE Advanced 2027 ki pariksha kab hogi?",
+    "options_hi": [
+     "18 April 2027",
+     "23 May 2027",
+     "7 June 2027",
+     "30 May 2027"
+    ],
+    "options_hinglish": [
+     "18 April 2027",
+     "23 May 2027",
+     "7 June 2027",
+     "30 May 2027"
+    ],
+    "answer_index": 1
+   }
   }
  ]
 }
