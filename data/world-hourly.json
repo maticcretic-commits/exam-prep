@@ -1,6 +1,101 @@
 {
- "updated_ist": "2026-11-14T21:26:16+05:30",
+ "updated_ist": "2026-11-14T22:29:02+05:30",
  "items": [
+  {
+   "id": "world-20261114-2222-01",
+   "published_ist": "2026-11-14T00:00:00+05:30",
+   "headline": "New Orleans: tanker se takkar, naav palti",
+   "detail": "New Orleans me tanker Atlantic Asphalt ne bandargah par khadi riverboat American Heritage ko takkar maari — naav palat gayi, 197 log surakshit nikale gaye aur 32 log aspatal me bharti hue, kisi ki haalat gambhir nahi.",
+   "category": "World",
+   "exam_angle": "Nadi suraksha aur aapda prabandhan — UPSC ke liye mahatvapurna.",
+   "source": "CNN",
+   "source_url": "https://www.cnn.com/2026/11/13/us/new-orleans-tanker-crash?cid=external-feeds_iluminar_meta",
+   "genuineness": "verified",
+   "outlets": [
+    "CNN",
+    "Associated Press",
+    "The Guardian",
+    "Business Standard"
+   ],
+   "image": null,
+   "image_credit": null
+  },
+  {
+   "id": "world-20261114-2222-02",
+   "published_ist": "2026-11-13T05:45:00+05:30",
+   "headline": "Nvidia CEO Jensen Huang ne istifa diya",
+   "detail": "33 saal baad Nvidia ke CEO Jensen Huang ne 12 November ko turant istifa de diya — CFO Colette Kress interim CEO bani; company ne wajah nahi batayi, halanki reports me unke sambandhon aur ek mahila par jasusi ke aarop ki charcha hai, jo abhi sabit nahi hua.",
+   "category": "World",
+   "exam_angle": "AI chip udyog aur America-China takneek pratidvandvita — UPSC ke liye mahatvapurna.",
+   "source": "The Hindu BusinessLine",
+   "source_url": "https://www.thehindubusinessline.com/info-tech/what-we-know-after-jensen-huang-resigns-as-nvidia-ceo/article71696548.ece",
+   "genuineness": "verified",
+   "outlets": [
+    "Reuters",
+    "The New York Times",
+    "Associated Press",
+    "The Hindu BusinessLine"
+   ],
+   "image": null,
+   "image_credit": null
+  },
+  {
+   "id": "world-20261114-2222-03",
+   "published_ist": "2026-11-14T10:49:00+05:30",
+   "headline": "Alaska: 1998 ke baad pehla Democrat governor",
+   "detail": "37 saal ke Jonathan Kreiss-Tomkins ne Alaska ke governor ka chunav jeeta — 1998 ke baad pehle Democrat aur rajya ke sabse kam umr ke governor; 7 December ko shapath lenge, parinam 25 November ko pramanit hoga.",
+   "category": "World",
+   "exam_angle": "America ke madhyaavadhi chunav aur rajya rajneeti — UPSC ke liye mahatvapurna.",
+   "source": "The Week",
+   "source_url": "https://www.theweek.in/wire-updates/international/2026/11/14/kreiss-tomkins-becomes-first-democrat-since-1998-elected-governor-in-alaska.html",
+   "genuineness": "verified",
+   "outlets": [
+    "Associated Press",
+    "Haaretz",
+    "Financial Express",
+    "Times Now"
+   ],
+   "image": "../images/world/world-20261114-2222-03.jpg",
+   "image_credit": "Gillfoto / Wikimedia Commons (CC BY-SA 4.0)"
+  },
+  {
+   "id": "world-20261114-2222-04",
+   "published_ist": "2026-11-14T12:15:00+05:30",
+   "headline": "America ne 26 saal baad measles status khoya",
+   "detail": "Reports ke mutabik PAHO ne America ka measles elimination status khatm kar diya — 12 mahine se lagatar sankraman ke baad; 2026 me 5,400 se zyada case mile, ye darja 2000 se tha.",
+   "category": "World",
+   "exam_angle": "Jan swasthya, teekakaran aur WHO ki bhoomika — UPSC ke liye mahatvapurna.",
+   "source": "The Standard",
+   "source_url": "https://www.thestandard.com.hk/world/article/348484/US-loses-measles-free-status-after-continued-spread-of-the-disease-WSJ-reports",
+   "genuineness": "corroborated",
+   "outlets": [
+    "Wall Street Journal",
+    "Reuters",
+    "CNN",
+    "Axios"
+   ],
+   "image": null,
+   "image_credit": null
+  },
+  {
+   "id": "world-20261114-2222-05",
+   "published_ist": "2026-11-14T13:54:00+05:30",
+   "headline": "Pakistan mantri 3 saal baad Bharat aayenge",
+   "detail": "Pakistan ke jalvayu mantri Musadik Masood Malik 20–22 November ko New Delhi me SCO Civilisational Dialogue me shamil honge — May 2023 ke baad kisi Pakistani mantri ki pehli Bharat yatra, aur May 2025 ke takraav ke baad bhi pehli.",
+   "category": "World",
+   "exam_angle": "SCO, Bharat-Pakistan sambandh aur kshetriya kootneeti — UPSC ke liye mahatvapurna.",
+   "source": "New Indian Express",
+   "source_url": "https://www.newindianexpress.com/world/2026/Nov/14/pakistan-minister-to-visit-india-for-first-time-in-three-years-for-sco-forum",
+   "genuineness": "verified",
+   "outlets": [
+    "The Hindu",
+    "Outlook India",
+    "Arab News",
+    "Khaleej Times"
+   ],
+   "image": null,
+   "image_credit": null
+  },
   {
    "id": "world-20261114-2122-01",
    "published_ist": "2026-11-14T04:17:00+05:30",
@@ -15,24 +110,6 @@
     "Associated Press",
     "AFP",
     "Motley Fool"
-   ],
-   "image": null,
-   "image_credit": null
-  },
-  {
-   "id": "world-20261114-2122-02",
-   "published_ist": "2026-11-13T17:31:00+05:30",
-   "headline": "IAEA: Iran ke Isfahan plant par chinta badhi",
-   "detail": "IAEA ne kaha Iran ne Isfahan ke bhoomigat uranium samvardhan sanyantra ka nirikshan abhi tak nahi karne diya — agency ko uski jagah ya andar parmanu samagri hai ya nahi, ye bhi nahi pata; nirikshakon ki turant wapsi ki mang ki.",
-   "category": "World",
-   "exam_angle": "Iran parmanu karyakram aur IAEA suraksha upay — UPSC ke liye mahatvapurna.",
-   "source": "Al Arabiya",
-   "source_url": "https://english.alarabiya.net/News/middle-east/2026/11/13/iaea-increasingly-concerned-about-iranian-enrichment-plant-its-report-says",
-   "genuineness": "verified",
-   "outlets": [
-    "Reuters",
-    "AFP",
-    "Times of Israel"
    ],
    "image": null,
    "image_credit": null
@@ -369,61 +446,6 @@
    ],
    "image": "../images/world/world-20261114-1622-03.jpg",
    "image_credit": "U.S. Department of State / Wikimedia Commons (Public domain)"
-  },
-  {
-   "id": "world-20261114-1522-02",
-   "published_ist": "2026-11-14T05:26:00+05:30",
-   "headline": "Bahrain: Iran ka radar par hamle ka daava",
-   "detail": "Iran ke IRGC ne daava kiya ki usne Bahrain me America ke early-warning radar ko tabah kar diya — Sirik telecom tower par America ke hamle ka jawaab bataya; CENTCOM ne daava kharij karte hue kaha do Iranian drone giraye gaye, koi nuksan nahi hua.",
-   "category": "World",
-   "exam_angle": "Khadi me America-Iran tanav aur Hormuz ki suraksha — Bharat ki urja suraksha ke liye mahatvapurna.",
-   "source": "Dawn",
-   "source_url": "https://www.dawn.com/news/2044367/iran-claims-us-denies-strike-on-radar-in-bahrain",
-   "genuineness": "verified",
-   "outlets": [
-    "Dawn",
-    "Channel News Asia",
-    "The Express Tribune",
-    "TBS News"
-   ],
-   "image": null,
-   "image_credit": null
-  },
-  {
-   "id": "world-20261114-1222-02",
-   "published_ist": "2026-11-14T04:23:00+05:30",
-   "headline": "Hungary: jangal me daba $19.5 million nagad mila",
-   "detail": "Hungary ki bhrashtachar-virodhi agency ne poorv mantri Miklós Seszták ki jaanch me jangalon, godamon aur gharon se $19.5 million nagad zabt kiya — mantri par sarkari bus khareed me rishwat lene ka aarop hai.",
-   "category": "World",
-   "exam_angle": "Bhrashtachar ke khilaf asset recovery aur sarkari khareed me pardarshita — governance ke liye mahatvapurna.",
-   "source": "Arab News",
-   "source_url": "https://www.arabnews.com/world/hungarian-authorities-recover-195-million-in-cash-during-investigation-into-orban-era-minister-3011772",
-   "genuineness": "verified",
-   "outlets": [
-    "Associated Press",
-    "The Guardian",
-    "24NewsHD"
-   ],
-   "image": null,
-   "image_credit": null
-  },
-  {
-   "id": "world-20261114-1622-02",
-   "published_ist": "2026-11-14T03:44:00+05:30",
-   "headline": "Supreme Court: Trump asylum ban ki sunvai",
-   "detail": "America ki Supreme Court ne Trump ke dakshini seema par asylum par pratibandh ki jaanch manzoor ki — nichli adalaton ne ise gair-kanuni bataya tha; sunvai 2027 ke vasant me hogi, faisla June tak aane ki ummeed hai.",
-   "category": "World",
-   "exam_angle": "America me karyapalika ki shakti aur sharanarthi kanoon par faisla — UPSC ke liye mahatvapurna.",
-   "source": "CNN",
-   "source_url": "https://www.cnn.com/2026/11/13/politics/supreme-court-trump-asylum-policy?cid=external-feeds_iluminar_meta",
-   "genuineness": "verified",
-   "outlets": [
-    "CNN",
-    "USA Today",
-    "Associated Press"
-   ],
-   "image": "../images/world/world-20261114-1622-02.jpg",
-   "image_credit": "LarryMicheli / Wikimedia Commons (CC BY-SA 4.0)"
   }
  ]
 }
