@@ -1,6 +1,61 @@
 {
-  "updated_ist": "2026-11-14T13:29:26+05:30",
+  "updated_ist": "2026-11-14T14:28:36+05:30",
   "items": [
+    {
+      "id": "world-20261114-1422-01",
+      "published_ist": "2026-11-14T12:48:00+05:30",
+      "headline": "Microsoft ki saari services phir chalu",
+      "detail": "24 ghante se zyada chale global outage ke baad Microsoft ne kaha Outlook, Teams aur Copilot samet saari services phir se chalu ho gayi; network upgrade me takniki kharabi wajah thi, cyber hamla nahi.",
+      "category": "World",
+      "exam_angle": "Mahatvapurna digital sevaon par nirbharta aur unki kamzori — UPSC ke liye mahatvapurna.",
+      "source": "ETV Bharat",
+      "source_url": "https://www.etvbharat.com/en/technology/microsoft-outage-resolved-outlook-teams-copilot-services-restored-enn26111401887",
+      "genuineness": "verified",
+      "outlets": [
+        "The Telegraph",
+        "The New Indian Express",
+        "Khaleej Times",
+        "ETV Bharat"
+      ],
+      "image": null,
+      "image_credit": null
+    },
+    {
+      "id": "world-20261114-1422-02",
+      "published_ist": "2026-11-14T10:47:00+05:30",
+      "headline": "Hormuz: teesra tanker bhi mine se takraya",
+      "detail": "Iran ki sena ki nausena ne kaha shanivaar ko Hormuz ke poorv me ek aur tel tanker surang se takraakar jal utha; IRGC ke mutabik is saptah kul teen tanker mine se takraye — jahaazon ke naam abhi nahi bataye gaye aur daavon ki swatantra pushti nahi hui.",
+      "category": "World",
+      "exam_angle": "Hormuz Strait se duniya ke tel vyapar ka bada hissa guzarta hai; Paschim Asia me tanav.",
+      "source": "Dawn",
+      "source_url": "https://www.dawn.com/news/2044469",
+      "genuineness": "corroborated",
+      "outlets": [
+        "AFP",
+        "Mehr News",
+        "Gulf Today"
+      ],
+      "image": null,
+      "image_credit": null
+    },
+    {
+      "id": "world-20261114-1422-03",
+      "published_ist": "2026-11-13T18:59:00+05:30",
+      "headline": "COP31: teen deshon ka $10bn climate vaada",
+      "detail": "COP31 me Britain, Norway aur Canada ki development finance sansthaon ne 2030 tak ubharte bazaaron me climate projects ke liye $10 billion jutane ka '10by30' samjhauta kiya; rakam me niji nivesh bhi shamil hoga.",
+      "category": "World",
+      "exam_angle": "COP31, climate finance aur vikas-sheel deshon ka urja badlav — UPSC ke liye mahatvapurna.",
+      "source": "Reuters",
+      "source_url": "https://www.reuters.com/sustainability/cop/uk-norway-canada-launch-10-billion-climate-finance-initiative-2026-11-13/",
+      "genuineness": "verified",
+      "outlets": [
+        "Reuters",
+        "Government of Canada",
+        "Leadership"
+      ],
+      "image": null,
+      "image_credit": null
+    },
     {
       "id": "world-20261114-1322-01",
       "published_ist": "2026-11-14T10:11:00+05:30",
@@ -142,25 +197,6 @@
         "Reuters",
         "Al Jazeera",
         "Associated Press"
-      ],
-      "image": null,
-      "image_credit": null
-    },
-    {
-      "id": "world-20261114-1122-03",
-      "published_ist": "2026-11-13T05:22:00+05:30",
-      "headline": "UN ne Houthi pratibandh ek saal aur badhaye",
-      "detail": "UN Suraksha Parishad ne sarvasammati se Yemen se jude pratibandh — sampatti zabt aur yatra pratibandh — 14 November 2027 tak badha diye; Houthiyon ko drone-missile banane wale saaman ki aapurti rokne par bhi kadam uthaye gaye.",
-      "category": "World",
-      "exam_angle": "UNSC ke pratibandh aur Yemen sankat — UPSC ke liye mahatvapurna.",
-      "source": "Al Jazeera",
-      "source_url": "https://www.aljazeera.com/news/2026/11/12/yemens-houthis-renew-strikes-on-saudi-arabia-as-unsc-extends-sanctions",
-      "genuineness": "verified",
-      "outlets": [
-        "Al Jazeera",
-        "Dawn",
-        "Gulf News",
-        "Arab News"
       ],
       "image": null,
       "image_credit": null
@@ -404,42 +440,6 @@
         "PTI",
         "WION",
         "Dawn"
-      ],
-      "image": null,
-      "image_credit": null
-    },
-    {
-      "id": "world-20261113-2222-02",
-      "published_ist": "2026-11-13T19:41:00+05:30",
-      "headline": "Bahrain: America ne 2 Iranian drone giraye",
-      "detail": "CENTCOM ke mutabik Iran ne Bahrain ki taraf do hamlaavar drone bheje, dono ko America ne gira diya — koi nuksan nahi; Iran ke radar par hamle ke daave ko America ne galat bataya.",
-      "category": "World",
-      "exam_angle": "Khadi me America-Iran tanav aur Bahrain me US sainya upasthiti — West Asia ki suraksha ke liye mahatvapurna.",
-      "source": "The Economic Times",
-      "source_url": "https://economictimes.indiatimes.com/news/international/world-news/us-military-downs-2-iranian-attack-drones-as-iran-claims-a-strike-on-a-us-radar-in-bahrain/articleshow/135806230.cms",
-      "genuineness": "verified",
-      "outlets": [
-        "US Central Command (CENTCOM)",
-        "Al Jazeera",
-        "CNN"
-      ],
-      "image": null,
-      "image_credit": null
-    },
-    {
-      "id": "world-20261113-2222-03",
-      "published_ist": "2026-11-13T18:41:00+05:30",
-      "headline": "Nairobi ke paas imarat dhahi: 6 ki maut",
-      "detail": "Shukravar subah Syokimau me nirmanadheen aath-manzila imarat ki upari slab girne se 6 log mare gaye, 5 ghayal hue; 2026 me Kenya me ye 24vaan imarat hadsa hai.",
-      "category": "World",
-      "exam_angle": "Kenya me nirman suraksha aur shahri vikas — vikasheel deshon ke liye mahatvapurna.",
-      "source": "Al Jazeera",
-      "source_url": "https://www.aljazeera.com/news/2026/11/13/kenyan-building-collapse-near-nairobi-kills-six-people?traffic_source=rss",
-      "genuineness": "verified",
-      "outlets": [
-        "Reuters",
-        "Al Jazeera",
-        "Pulse Kenya"
       ],
       "image": null,
       "image_credit": null
