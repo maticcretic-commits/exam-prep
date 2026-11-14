@@ -1,23 +1,60 @@
 {
-  "updated_ist": "2026-11-14T16:25:53+05:30",
+  "updated_ist": "2026-11-14T17:25:15+05:30",
   "items": [
     {
-      "id": "world-20261114-1622-01",
-      "published_ist": "2026-11-13T23:42:00+05:30",
-      "headline": "Netherlands: tax vivaad me sarkar bachi",
-      "detail": "Shukravaar ki lambi baithak ke baad Netherlands ki gathbandhan sarkar bach gayi — VVD ke virodh ke bawjood D66 aur CDA ka tax package barkarar raha; PM Jetten ne kaha sambandh tanavpurna hain, weekend me aur baatchit hogi.",
+      "id": "world-20261114-1722-01",
+      "published_ist": "2026-11-14T13:16:00+05:30",
+      "headline": "Hormuz: February se 25 navik mare gaye",
+      "detail": "UN ne Suraksha Parishad ko bataya ki February se Hormuz ke aas-paas 25 navik mare gaye — October sabse kharab mahina raha, aur Hormuz se jahaaz aana-jaana yuddh se pehle ke muqable lagbhag 65 pratishat kam ho gaya.",
       "category": "World",
-      "exam_angle": "Europe ki paanchvi badi arthvyavastha me alpsankhyak sarkar ka sankat — UPSC ke liye mahatvapurna.",
+      "exam_angle": "Hormuz se vishwa tel vyapaar aur samudri suraksha par asar — UPSC ke liye mahatvapurna.",
+      "source": "Al Jazeera",
+      "source_url": "https://www.aljazeera.com/amp/news/2026/11/14/un-says-25-seafarers-killed-in-around-hormuz-since-february",
+      "genuineness": "verified",
+      "outlets": [
+        "Al Jazeera",
+        "Sunday Guardian Live",
+        "Interbellum News"
+      ],
+      "image": null,
+      "image_credit": null
+    },
+    {
+      "id": "world-20261114-1722-02",
+      "published_ist": "2026-11-14T02:34:00+05:30",
+      "headline": "Mossad pramukh Washington me, Iran par baatchit",
+      "detail": "Israel ke Mossad pramukh Roman Gofman shukravaar ko Washington me CIA nideshak John Ratcliffe se mile — Axios ke mutabik Netanyahu Trump par Iran ke khilaf yuddh phir shuru karne ka dabav bana rahe hain; Mossad, CIA aur White House ne tippani se mana kar diya.",
+      "category": "World",
+      "exam_angle": "Israel-America-Iran tanaav aur paschim Asia ki suraksha — UPSC ke liye mahatvapurna.",
+      "source": "Tribune",
+      "source_url": "https://tribune.com.pk/story/2640178/mossad-chief-visits-washington-as-israel-presses-trump-to-resume-iran-war-report",
+      "genuineness": "verified",
+      "outlets": [
+        "Axios",
+        "The Thursday Times",
+        "Tribune"
+      ],
+      "image": null,
+      "image_credit": null
+    },
+    {
+      "id": "world-20261114-1722-03",
+      "published_ist": "2026-11-13T18:59:00+05:30",
+      "headline": "COP31: $10 arab ki jalvayu vitt pahal",
+      "detail": "Britain, Norway aur Canada ki vikas vitt sansthaon ne COP31 me '10by30' pahal shuru ki — 2030 tak ubharte bazaaron me jalvayu aur urja parivartan pariyojnaon me $10 arab, niji poonji samet, lagane ka lakshya hai.",
+      "category": "World",
+      "exam_angle": "COP31 aur vikasheel deshon ke liye jalvayu vitt — UPSC ke liye mahatvapurna.",
       "source": "Reuters",
-      "source_url": "https://www.reuters.com/world/dutch-government-coalition-averts-collapse-dutch-media-report-2026-11-13/",
+      "source_url": "https://www.reuters.com/sustainability/cop/uk-norway-canada-launch-10-billion-climate-finance-initiative-2026-11-13/",
       "genuineness": "verified",
       "outlets": [
         "Reuters",
-        "NOS",
-        "RTL"
+        "Norwegian Tribune",
+        "FinDev Canada",
+        "HapaKenya"
       ],
-      "image": "../images/world/world-20261114-1622-01.jpg",
-      "image_credit": "Hubertl / Wikimedia Commons (CC BY-SA 4.0)"
+      "image": "../images/world/world-20261114-1722-03.jpg",
+      "image_credit": "Necati Savas / European Union, 2026 / EC - Audiovisual Service (CC BY 4.0)"
     },
     {
       "id": "world-20261114-1622-02",
@@ -73,24 +110,6 @@
       ],
       "image": null,
       "image_credit": null
-    },
-    {
-      "id": "world-20261114-1522-03",
-      "published_ist": "2026-11-14T00:29:00+05:30",
-      "headline": "COP31: jeevashm indhan par sahmati nahi",
-      "detail": "Antalya me COP31 ka pehla hafta bina sahmati ke khatm — jeevashm indhan se door hatne par desh bante hue; dweep desh turant utsarjan katauti maang rahe, Europe bijlikaran par zor de raha, tel utpadak desh virodh me; vaarta ka netritva kar rahe Australia ne kaha abhi aur mashvara baki hai.",
-      "category": "World",
-      "exam_angle": "COP31, jeevashm indhan se badlav aur jalvayu vitt — UPSC ke liye mahatvapurna.",
-      "source": "Business Standard",
-      "source_url": "https://www.business-standard.com/amp/world-news/cop31-consensus-on-climate-deal-unlikely-as-global-leaders-clash-126111400019_1.html",
-      "genuineness": "verified",
-      "outlets": [
-        "Reuters",
-        "The Express Tribune",
-        "Greenpeace Australia Pacific"
-      ],
-      "image": "../images/world/world-20261114-1522-03.jpg",
-      "image_credit": "Necati Savas / European Union / Wikimedia Commons (CC BY 4.0)"
     },
     {
       "id": "world-20261114-1422-01",
@@ -423,24 +442,6 @@
         "Reuters",
         "Associated Press",
         "The Week"
-      ],
-      "image": null,
-      "image_credit": null
-    },
-    {
-      "id": "world-20261114-0922-03",
-      "published_ist": "2026-11-14T01:26:00+05:30",
-      "headline": "Baltic me Russian jahaaz par drone hamla",
-      "detail": "Ukraine ne Finland ki khaadi me Russian missile corvette Naro-Fominsk par drone hamla kiya; Finland aur Estonia ne hamle ki pushti ki — nagrik samudri kshetra me pehla aisa hamla.",
-      "category": "World",
-      "exam_angle": "Russia-Ukraine yuddh ka Baltic sagar me vistaar — UPSC ke liye mahatvapurna.",
-      "source": "The Maritime Executive",
-      "source_url": "https://maritime-executive.com/article/estonia-confirms-ukrainian-drone-hits-on-russian-corvette-in-the-baltic",
-      "genuineness": "verified",
-      "outlets": [
-        "The Maritime Executive",
-        "The Independent",
-        "Türkiye Today"
       ],
       "image": null,
       "image_credit": null
