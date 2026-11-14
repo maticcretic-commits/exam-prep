@@ -1,5 +1,5 @@
 {
- "updated_ist": "2026-11-14T08:25:09+05:30",
+ "updated_ist": "2026-11-14T09:26:44+05:30",
  "items": [
   {
    "id": "world-20261114-0825-01",
@@ -126,6 +126,24 @@
     "Reuters",
     "Associated Press",
     "The Week"
+   ],
+   "image": null,
+   "image_credit": null
+  },
+  {
+   "id": "world-20261114-0922-03",
+   "published_ist": "2026-11-14T01:26:00+05:30",
+   "headline": "Baltic me Russian jahaaz par drone hamla",
+   "detail": "Ukraine ne Finland ki khaadi me Russian missile corvette Naro-Fominsk par drone hamla kiya; Finland aur Estonia ne hamle ki pushti ki — nagrik samudri kshetra me pehla aisa hamla.",
+   "category": "World",
+   "exam_angle": "Russia-Ukraine yuddh ka Baltic sagar me vistaar — UPSC ke liye mahatvapurna.",
+   "source": "The Maritime Executive",
+   "source_url": "https://maritime-executive.com/article/estonia-confirms-ukrainian-drone-hits-on-russian-corvette-in-the-baltic",
+   "genuineness": "verified",
+   "outlets": [
+    "The Maritime Executive",
+    "The Independent",
+    "Türkiye Today"
    ],
    "image": null,
    "image_credit": null
@@ -278,6 +296,25 @@
    "image_credit": "IAEA Imagebank, Wikimedia Commons (CC BY 2.0)"
   },
   {
+   "id": "world-20261114-0922-02",
+   "published_ist": "2026-11-13T16:26:00+05:30",
+   "headline": "Nakli video call se $400 million ki chori",
+   "detail": "Uttar Korea ke hackers ne nakli Zoom aur Teams call aur chori ki webcam video se 18 mahine me 400 million dollar se zyada ki crypto churai; FBI ne 900 se zyada video jabt kiye.",
+   "category": "World",
+   "exam_angle": "Cyber suraksha aur deepfake ka badhta khatra — UPSC ke liye mahatvapurna.",
+   "source": "Times of India",
+   "source_url": "https://timesofindia.indiatimes.com/technology/tech-news/fbi-seizes-over-900-webcam-videos-in-north-korean-hacking-investigation-fake-zoom-and-teams-calls-tricked-tech-workers-into-installing-malware-to-steal-over-400-million/articleshow/135800083.cms",
+   "genuineness": "verified",
+   "outlets": [
+    "Reuters",
+    "Times of India",
+    "New York Post",
+    "Help Net Security"
+   ],
+   "image": null,
+   "image_credit": null
+  },
+  {
    "id": "world-20261113-1822-01",
    "published_ist": "2026-11-13T16:03:00+05:30",
    "headline": "Indonesia ke up-rashtrapati Gibran ne istifa diya",
@@ -398,42 +435,6 @@
    "outlets": [
     "Reuters",
     "Iranian state media (IRGC)"
-   ],
-   "image": null,
-   "image_credit": null
-  },
-  {
-   "id": "world-20261113-1622-03",
-   "published_ist": "2026-11-13T12:43:00+05:30",
-   "headline": "Pakistan: chhaapon me 74 aatankvadi mare gaye",
-   "detail": "Pakistan sena ne Balochistan aur Khyber Pakhtunkhwa me 3 November se chale abhiyaanon me 74 aatankvadiyon ko maarne ka daava kiya; hathiyaar aur visfotak bhi baramad hue.",
-   "category": "World",
-   "exam_angle": "Pakistan me aatankvaad-virodhi abhiyaan — padosi deshon ki suraksha ke liye mahatvapurna.",
-   "source": "The Hindu",
-   "source_url": "https://www.thehindu.com/news/international/74-terrorists-killed-in-multiple-operations-pakistani-army/article71696886.ece",
-   "genuineness": "verified",
-   "outlets": [
-    "The Hindu",
-    "The New Indian Express",
-    "Business Recorder"
-   ],
-   "image": null,
-   "image_credit": null
-  },
-  {
-   "id": "world-20261114-0622-03",
-   "published_ist": "2026-11-13T11:18:00+05:30",
-   "headline": "Putin: Europe bhi Ukraine shaanti vaarta me",
-   "detail": "Kremlin me American dooton se baat ke baad Putin ne agle daur ki Ukraine shaanti vaarta me European pratinidhiyon ko shamil karne par sahmati di — halanki Kremlin ne baad me sanket diya ki antim faisla abhi baki hai; Zelensky ne sambhavna ka swagat kiya.",
-   "category": "World",
-   "exam_angle": "Ukraine shaanti vaarta me Europe ki bhumika aur Russia-America kootneeti — antarrashtriya sambandhon ke liye mahatvapurna.",
-   "source": "NDTV",
-   "source_url": "https://www.ndtv.com/world-news/russia-ukraine-war-russian-president-vladimir-putin-agrees-to-let-european-representatives-join-ukraine-peace-talks-12320780/amp/1",
-   "genuineness": "verified",
-   "outlets": [
-    "Reuters",
-    "The Straits Times",
-    "NDTV"
    ],
    "image": null,
    "image_credit": null
