@@ -1,6 +1,43 @@
 {
-  "updated_ist": "2026-11-13T22:25:00+05:30",
+  "updated_ist": "2026-11-14T06:26:00+05:30",
   "items": [
+    {
+      "id": "world-20261114-0622-01",
+      "published_ist": "2026-11-14T02:24:00+05:30",
+      "headline": "America: FAA ne saari udaanen roki",
+      "detail": "America me air traffic control ke telecom outage ke baad FAA ne desh bhar me saari departing flights rok di — 11 September 2001 ke baad sirf doosri baar aisa nationwide ground stop laga; lagbhag 7,000 flights late ya cancel hui, hamle ka koi sanket nahi.",
+      "category": "World",
+      "exam_angle": "America ke hawai yatayat niyantran tantra ki kamzori aur rashtriya suraksha par asar — UPSC ke liye mahatvapurna.",
+      "source": "Reuters",
+      "source_url": "https://www.reuters.com/world/us/faa-issues-national-ground-stop-due-extraordinary-circumstance-reasons-safety-2026-11-13/",
+      "genuineness": "verified",
+      "outlets": [
+        "Reuters",
+        "USA Today",
+        "Times of India",
+        "The Hindu BusinessLine"
+      ],
+      "image": null,
+      "image_credit": null
+    },
+    {
+      "id": "world-20261114-0622-02",
+      "published_ist": "2026-11-13T22:31:00+05:30",
+      "headline": "Niger: bazaar ja rahe 37 nagrikon ki hatya",
+      "detail": "Paschimi Niger ke Tillaberi kshetra me bazaar ja rahe gaon walon par ghaat lagakar hamla hua — kam se kam 37 log mare gaye, jinme mahilayen aur bachche bhi shamil; hamlaavaron ki pehchan abhi nahi hui.",
+      "category": "World",
+      "exam_angle": "Sahel kshetra me jihadist hinsa aur Tillaberi tri-border sankat — Africa ki suraksha ke liye mahatvapurna.",
+      "source": "The Hindu",
+      "source_url": "https://www.thehindu.com/news/international/armed-men-kill-at-least-37-civilians-in-western-niger-say-local-sources/article71699297.ece",
+      "genuineness": "verified",
+      "outlets": [
+        "AFP",
+        "TASS",
+        "News Central TV"
+      ],
+      "image": null,
+      "image_credit": null
+    },
     {
       "id": "world-20261113-2222-01",
       "published_ist": "2026-11-13T20:27:00+05:30",
@@ -56,78 +93,6 @@
       "image_credit": null
     },
     {
-      "id": "world-20261113-2122-01",
-      "published_ist": "2026-11-13T13:05:00+05:30",
-      "headline": "Hormuz me LNG tanker par mine hamla",
-      "detail": "IRGC ke mutabik Hormuz Strait me ek LNG tanker ne samudri surang (mine) se takkar khaai aur usme dhamaka hua; tanker ne 'bina anumati' wala rasta liya tha — tanker ka naam aur nuksan ki jaankari abhi nahi mili.",
-      "category": "World",
-      "exam_angle": "Hormuz Strait duniya ke tel aur gas vyapar ka sabse mahatvapurna rasta hai — energy suraksha ke liye ahem.",
-      "source": "The Hindu",
-      "source_url": "https://www.thehindu.com/news/international/tanker-carrying-lng-hit-mine-suffered-explosion-in-hormuz-iran/article71696996.ece",
-      "genuineness": "corroborated",
-      "outlets": [
-        "Reuters",
-        "Iranian state media (IRGC)"
-      ],
-      "image": null,
-      "image_credit": null
-    },
-    {
-      "id": "world-20261113-2122-02",
-      "published_ist": "2026-11-13T03:10:00+05:30",
-      "headline": "North Korea ke hackers ne $400M crypto churaya",
-      "detail": "FBI ke mutabik North Korea samarthit hackers ne pichhle 18 mahine me nakli Zoom/Teams video call ke zariye $400 million se zyada cryptocurrency churayi; 'FaceStealer' naam ki is chaal me peediton ki webcam recording dikhakar malware install karaya gaya — FBI ne 900 se zyada victim video jabt kiye.",
-      "category": "World",
-      "exam_angle": "Cyber suraksha aur cryptocurrency apradh — digital Bharat aur global cyber kanoon ke liye mahatvapurna.",
-      "source": "Reuters",
-      "source_url": "https://www.reuters.com/world/asia-pacific/north-korean-hackers-steal-more-than-400-million-using-video-images-fbi-says-2026-11-12/",
-      "genuineness": "verified",
-      "outlets": [
-        "Reuters",
-        "BBC",
-        "US Department of Justice / FBI"
-      ],
-      "image": null,
-      "image_credit": null
-    },
-    {
-      "id": "world-20261113-2122-03",
-      "published_ist": "2026-11-12T23:11:49+05:30",
-      "headline": "Saudi: EU Houthi ko aatankwadi ghoshit kare",
-      "detail": "Saudi Arabia EU par dabav bana raha hai ki Iran samarthit Houthi sangathan ko aatankwadi sangathan ghoshit kiya jaye; chhah European adhikariyon ke mutabik zyadatar EU desh isse shanti vaarta ko nuksan ka darr batakar hichkich rahe hain — faisle ke liye 27 deshon ki sarvasammati chahiye.",
-      "category": "World",
-      "exam_angle": "Yemen sangharsh aur EU ki videsh neeti — antarrashtriya sangathan aur West Asia ke liye mahatvapurna.",
-      "source": "Reuters",
-      "source_url": "https://www.reuters.com/world/middle-east/saudi-arabia-puts-pressure-eu-label-yemens-houthis-terrorist-group-2026-11-12/",
-      "genuineness": "verified",
-      "outlets": [
-        "Reuters",
-        "Firstpost",
-        "Al Jazeera"
-      ],
-      "image": null,
-      "image_credit": null
-    },
-    {
-      "id": "world-20261113-2022-01",
-      "published_ist": "2026-11-13T13:49:00+05:30",
-      "headline": "Moscow me car bomb: ek afsar ki maut",
-      "detail": "Shukravar ko Moscow me car bomb se Ukraine ke poorv PM ke salaahkaar Sergei Zavorotny gambhir ghayal hue; guruvaar ko St. Petersburg me car bomb se ek sainya afsar ki maut hui thi — do din me doosra hamla.",
-      "category": "World",
-      "exam_angle": "Russia ke andar chhaya yuddh aur hatya ke prayas — antarrashtriya suraksha ke liye mahatvapurna.",
-      "source": "Associated Press",
-      "source_url": "https://www.newindianexpress.com/world/2026/Nov/13/bombings-in-russia-kill-a-military-officer-and-injure-an-adviser-to-ukraines-former-prime-minister",
-      "genuineness": "verified",
-      "outlets": [
-        "Associated Press",
-        "Reuters",
-        "The Guardian",
-        "Euromaidan Press"
-      ],
-      "image": "../images/world/world-20261113-2022-01.jpg",
-      "image_credit": "Associated Press"
-    },
-    {
       "id": "world-20261113-1922-01",
       "published_ist": "2026-11-13T18:20:00+05:30",
       "headline": "Guinea: khanan pratibandh par jhadap, 10 ki maut",
@@ -166,6 +131,25 @@
       "image_credit": "Rory Arnold / No 10 Downing Street, Wikimedia Commons (CC BY 2.0)"
     },
     {
+      "id": "world-20261113-1822-02",
+      "published_ist": "2026-11-13T17:21:00+05:30",
+      "headline": "Iran ne IAEA ko kaha: nirikshan abhi nahi",
+      "detail": "Iran ne UN parmanu agency ko bataya ki America ke hamle ki dhamki ke beech parmanu nirikshan par baat-cheet nahi ho sakti; IAEA ne uranium bhandar ki sthiti ki jaankari na milne par chinta jatayi.",
+      "category": "World",
+      "exam_angle": "IAEA, parmanu nigrani aur Iran — antarrashtriya sangathan aur suraksha ke liye mahatvapurna.",
+      "source": "Al Jazeera",
+      "source_url": "https://www.aljazeera.com/news/2026/11/13/un-watchdog-calls-on-iran-to-reopen-nuclear-facilities-to-inspection",
+      "genuineness": "verified",
+      "outlets": [
+        "Associated Press",
+        "Al Jazeera",
+        "Times of Israel",
+        "The Times of India"
+      ],
+      "image": "../images/world/world-20261113-1822-02.jpg",
+      "image_credit": "IAEA Imagebank, Wikimedia Commons (CC BY 2.0)"
+    },
+    {
       "id": "world-20261113-1822-01",
       "published_ist": "2026-11-13T16:03:00+05:30",
       "headline": "Indonesia ke up-rashtrapati Gibran ne istifa diya",
@@ -185,23 +169,21 @@
       "image_credit": "Darwis Triadi & Ministry of State Secretariat, Wikimedia Commons (Public domain)"
     },
     {
-      "id": "world-20261113-1822-02",
-      "published_ist": "2026-11-13T17:21:00+05:30",
-      "headline": "Iran ne IAEA ko kaha: nirikshan abhi nahi",
-      "detail": "Iran ne UN parmanu agency ko bataya ki America ke hamle ki dhamki ke beech parmanu nirikshan par baat-cheet nahi ho sakti; IAEA ne uranium bhandar ki sthiti ki jaankari na milne par chinta jatayi.",
+      "id": "world-20261113-1722-01",
+      "published_ist": "2026-11-13T15:54:00+05:30",
+      "headline": "ASEAN: online scam par sakht kadam",
+      "detail": "Manila shikhar sammelan me ASEAN netaon ne online scam aur manav taskari par 'gambhir chinta' jatayi; draft bayan me America aur China samet sahyogiyon ke saath milkar karwai ka vaada hai.",
       "category": "World",
-      "exam_angle": "IAEA, parmanu nigrani aur Iran — antarrashtriya sangathan aur suraksha ke liye mahatvapurna.",
-      "source": "Al Jazeera",
-      "source_url": "https://www.aljazeera.com/news/2026/11/13/un-watchdog-calls-on-iran-to-reopen-nuclear-facilities-to-inspection",
-      "genuineness": "verified",
+      "exam_angle": "ASEAN, cyber-aparadh aur manav taskari — antarrashtriya sangathan aur suraksha ke liye mahatvapurna.",
+      "source": "Associated Press",
+      "source_url": "https://www.newindianexpress.com/amp/story/world/2026/Nov/13/southeast-asian-leaders-with-us-and-chinese-counterparts-will-renew-alarm-over-online-scams",
+      "genuineness": "corroborated",
       "outlets": [
         "Associated Press",
-        "Al Jazeera",
-        "Times of Israel",
-        "The Times of India"
+        "Bilyonaryo News Channel"
       ],
-      "image": "../images/world/world-20261113-1822-02.jpg",
-      "image_credit": "IAEA Imagebank, Wikimedia Commons (CC BY 2.0)"
+      "image": "../images/world/world-20261113-1722-01.jpg",
+      "image_credit": "The New Indian Express"
     },
     {
       "id": "world-20261113-1822-03",
@@ -222,23 +204,6 @@
       "image_credit": "Gary Bembridge, Wikimedia Commons (CC BY 2.0)"
     },
     {
-      "id": "world-20261113-1722-01",
-      "published_ist": "2026-11-13T15:54:00+05:30",
-      "headline": "ASEAN: online scam par sakht kadam",
-      "detail": "Manila shikhar sammelan me ASEAN netaon ne online scam aur manav taskari par 'gambhir chinta' jatayi; draft bayan me America aur China samet sahyogiyon ke saath milkar karwai ka vaada hai.",
-      "category": "World",
-      "exam_angle": "ASEAN, cyber-aparadh aur manav taskari — antarrashtriya sangathan aur suraksha ke liye mahatvapurna.",
-      "source": "Associated Press",
-      "source_url": "https://www.newindianexpress.com/amp/story/world/2026/Nov/13/southeast-asian-leaders-with-us-and-chinese-counterparts-will-renew-alarm-over-online-scams",
-      "genuineness": "corroborated",
-      "outlets": [
-        "Associated Press",
-        "Bilyonaryo News Channel"
-      ],
-      "image": "../images/world/world-20261113-1722-01.jpg",
-      "image_credit": "The New Indian Express"
-    },
-    {
       "id": "world-20261113-1722-02",
       "published_ist": "2026-11-13T15:00:00+05:30",
       "headline": "Trump ke NYAY vibhag par Congress ki jaanch",
@@ -256,18 +221,55 @@
       "image_credit": null
     },
     {
-      "id": "world-20261113-1622-02",
-      "published_ist": "2026-11-13T06:28:00+05:30",
-      "headline": "America ne Japan se sainik kharch teen guna manga",
-      "detail": "Trump prashasan ne 2027 se paanch saal ke liye sainikon ki mejbani par 3 trillion yen (lagbhag $19 arab) ki maang ki; Japan lagbhag aadha, 1.5 trillion yen, dene par vichaar kar raha hai.",
+      "id": "world-20261113-2022-01",
+      "published_ist": "2026-11-13T13:49:00+05:30",
+      "headline": "Moscow me car bomb: ek afsar ki maut",
+      "detail": "Shukravar ko Moscow me car bomb se Ukraine ke poorv PM ke salaahkaar Sergei Zavorotny gambhir ghayal hue; guruvaar ko St. Petersburg me car bomb se ek sainya afsar ki maut hui thi — do din me doosra hamla.",
       "category": "World",
-      "exam_angle": "America-Japan suraksha gathbandhan aur raksha kharch — antarrashtriya sambandhon ke liye mahatvapurna.",
-      "source": "Kyodo News",
-      "source_url": "https://english.kyodonews.net/articles/-/91235",
+      "exam_angle": "Russia ke andar chhaya yuddh aur hatya ke prayas — antarrashtriya suraksha ke liye mahatvapurna.",
+      "source": "Associated Press",
+      "source_url": "https://www.newindianexpress.com/world/2026/Nov/13/bombings-in-russia-kill-a-military-officer-and-injure-an-adviser-to-ukraines-former-prime-minister",
+      "genuineness": "verified",
+      "outlets": [
+        "Associated Press",
+        "Reuters",
+        "The Guardian",
+        "Euromaidan Press"
+      ],
+      "image": "../images/world/world-20261113-2022-01.jpg",
+      "image_credit": "Associated Press"
+    },
+    {
+      "id": "world-20261113-1422-01",
+      "published_ist": "2026-11-13T13:40:00+05:30",
+      "headline": "Volgograd par 1,198 drone, 4 ki maut",
+      "detail": "Russia ke mutabik raat bhar Ukraine ne lagbhag 1,198 drone bheje — Volgograd ke audyogik kshetra me hamle me 4 karmchari mare aur 2 ghayal hue; 15 se zyada kshetron me drone roke gaye.",
+      "category": "World",
+      "exam_angle": "Russia-Ukraine yuddh aur drone hamle — antarrashtriya suraksha ke liye mahatvapurna.",
+      "source": "The Hindu",
+      "source_url": "https://www.thehindu.com/news/international/russia-says-four-killed-in-major-ukraine-drone-barrage/article71697111.ece",
+      "genuineness": "verified",
+      "outlets": [
+        "Reuters",
+        "AFP",
+        "The Straits Times"
+      ],
+      "image": null,
+      "image_credit": null
+    },
+    {
+      "id": "world-20261113-2122-01",
+      "published_ist": "2026-11-13T13:05:00+05:30",
+      "headline": "Hormuz me LNG tanker par mine hamla",
+      "detail": "IRGC ke mutabik Hormuz Strait me ek LNG tanker ne samudri surang (mine) se takkar khaai aur usme dhamaka hua; tanker ne 'bina anumati' wala rasta liya tha — tanker ka naam aur nuksan ki jaankari abhi nahi mili.",
+      "category": "World",
+      "exam_angle": "Hormuz Strait duniya ke tel aur gas vyapar ka sabse mahatvapurna rasta hai — energy suraksha ke liye ahem.",
+      "source": "The Hindu",
+      "source_url": "https://www.thehindu.com/news/international/tanker-carrying-lng-hit-mine-suffered-explosion-in-hormuz-iran/article71696996.ece",
       "genuineness": "corroborated",
       "outlets": [
-        "Kyodo News",
-        "South China Morning Post"
+        "Reuters",
+        "Iranian state media (IRGC)"
       ],
       "image": null,
       "image_credit": null
@@ -291,19 +293,19 @@
       "image_credit": null
     },
     {
-      "id": "world-20261113-1422-01",
-      "published_ist": "2026-11-13T13:40:00+05:30",
-      "headline": "Volgograd par 1,198 drone, 4 ki maut",
-      "detail": "Russia ke mutabik raat bhar Ukraine ne lagbhag 1,198 drone bheje — Volgograd ke audyogik kshetra me hamle me 4 karmchari mare aur 2 ghayal hue; 15 se zyada kshetron me drone roke gaye.",
+      "id": "world-20261114-0622-03",
+      "published_ist": "2026-11-13T11:18:00+05:30",
+      "headline": "Putin: Europe bhi Ukraine shaanti vaarta me",
+      "detail": "Kremlin me American dooton se baat ke baad Putin ne agle daur ki Ukraine shaanti vaarta me European pratinidhiyon ko shamil karne par sahmati di — halanki Kremlin ne baad me sanket diya ki antim faisla abhi baki hai; Zelensky ne sambhavna ka swagat kiya.",
       "category": "World",
-      "exam_angle": "Russia-Ukraine yuddh aur drone hamle — antarrashtriya suraksha ke liye mahatvapurna.",
-      "source": "The Hindu",
-      "source_url": "https://www.thehindu.com/news/international/russia-says-four-killed-in-major-ukraine-drone-barrage/article71697111.ece",
+      "exam_angle": "Ukraine shaanti vaarta me Europe ki bhumika aur Russia-America kootneeti — antarrashtriya sambandhon ke liye mahatvapurna.",
+      "source": "NDTV",
+      "source_url": "https://www.ndtv.com/world-news/russia-ukraine-war-russian-president-vladimir-putin-agrees-to-let-european-representatives-join-ukraine-peace-talks-12320780/amp/1",
       "genuineness": "verified",
       "outlets": [
         "Reuters",
-        "AFP",
-        "The Straits Times"
+        "The Straits Times",
+        "NDTV"
       ],
       "image": null,
       "image_credit": null
