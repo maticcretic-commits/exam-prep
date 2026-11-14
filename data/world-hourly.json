@@ -1,6 +1,60 @@
 {
- "updated_ist": "2026-11-14T11:24:16+05:30",
+ "updated_ist": "2026-11-14T12:27:16+05:30",
  "items": [
+  {
+   "id": "world-20261114-1222-01",
+   "published_ist": "2026-11-14T10:55:00+05:30",
+   "headline": "Iran ne Khadi deshon par 7,000 hamle kiye",
+   "detail": "GCC pramukh Jasem Albudaiwi ne UN Suraksha Parishad ko bataya ki 28 February se Iran ne Khadi deshon par 7,000 se zyada missile aur drone hamle kiye — hawai adde, bandargah aur tel suvidhaon ko nishana banaya gaya; parishad se in hamalon ko rokne ki maang ki.",
+   "category": "World",
+   "exam_angle": "Khadi me tanav, UNSC ki bhoomika aur Bharat ki urja suraksha — UPSC ke liye mahatvapurna.",
+   "source": "Arab News",
+   "source_url": "https://www.arabnews.com/middle-east/iran-fired-over-7000-missiles-and-drones-at-gulf-nations-since-war-began-gcc-chief-tells-un-3011767",
+   "genuineness": "verified",
+   "outlets": [
+    "Arab News",
+    "Kuwait Times",
+    "Sabq"
+   ],
+   "image": "../images/world/world-20261114-1222-01.jpg",
+   "image_credit": "Jdforrester / Wikimedia Commons (CC BY 4.0)"
+  },
+  {
+   "id": "world-20261114-1222-02",
+   "published_ist": "2026-11-14T04:23:00+05:30",
+   "headline": "Hungary: jangal me daba $19.5 million nagad mila",
+   "detail": "Hungary ki bhrashtachar-virodhi agency ne poorv mantri Miklós Seszták ki jaanch me jangalon, godamon aur gharon se $19.5 million nagad zabt kiya — mantri par sarkari bus khareed me rishwat lene ka aarop hai.",
+   "category": "World",
+   "exam_angle": "Bhrashtachar ke khilaf asset recovery aur sarkari khareed me pardarshita — governance ke liye mahatvapurna.",
+   "source": "Arab News",
+   "source_url": "https://www.arabnews.com/world/hungarian-authorities-recover-195-million-in-cash-during-investigation-into-orban-era-minister-3011772",
+   "genuineness": "verified",
+   "outlets": [
+    "Associated Press",
+    "The Guardian",
+    "24NewsHD"
+   ],
+   "image": null,
+   "image_credit": null
+  },
+  {
+   "id": "world-20261114-1222-03",
+   "published_ist": "2026-11-14T00:00:00+05:30",
+   "headline": "Mississippi me tanker se cruise naav palti",
+   "detail": "New Orleans me tanker Atlantic Asphalt ne kinare khadi cruise naav American Heritage ko takkar maar di — naav palat gayi, sawaar sabhi log surakshit nikale gaye; 32 log aspatal le jaaye gaye, koi gambhir roop se ghayal nahi.",
+   "category": "World",
+   "exam_angle": null,
+   "source": "CNN",
+   "source_url": "https://www.cnn.com/2026/11/13/us/new-orleans-tanker-crash?cid=external-feeds_iluminar_meta",
+   "genuineness": "verified",
+   "outlets": [
+    "CNN",
+    "Associated Press",
+    "South China Morning Post"
+   ],
+   "image": "../images/world/world-20261114-1222-03.jpg",
+   "image_credit": "CNN"
+  },
   {
    "id": "world-20261114-1122-02",
    "published_ist": "2026-11-14T10:19:00+05:30",
@@ -391,61 +445,6 @@
    ],
    "image": "../images/world/world-20261113-1822-02.jpg",
    "image_credit": "IAEA Imagebank, Wikimedia Commons (CC BY 2.0)"
-  },
-  {
-   "id": "world-20261114-0922-02",
-   "published_ist": "2026-11-13T16:26:00+05:30",
-   "headline": "Nakli video call se $400 million ki chori",
-   "detail": "Uttar Korea ke hackers ne nakli Zoom aur Teams call aur chori ki webcam video se 18 mahine me 400 million dollar se zyada ki crypto churai; FBI ne 900 se zyada video jabt kiye.",
-   "category": "World",
-   "exam_angle": "Cyber suraksha aur deepfake ka badhta khatra — UPSC ke liye mahatvapurna.",
-   "source": "Times of India",
-   "source_url": "https://timesofindia.indiatimes.com/technology/tech-news/fbi-seizes-over-900-webcam-videos-in-north-korean-hacking-investigation-fake-zoom-and-teams-calls-tricked-tech-workers-into-installing-malware-to-steal-over-400-million/articleshow/135800083.cms",
-   "genuineness": "verified",
-   "outlets": [
-    "Reuters",
-    "Times of India",
-    "New York Post",
-    "Help Net Security"
-   ],
-   "image": null,
-   "image_credit": null
-  },
-  {
-   "id": "world-20261113-1822-01",
-   "published_ist": "2026-11-13T16:03:00+05:30",
-   "headline": "Indonesia ke up-rashtrapati Gibran ne istifa diya",
-   "detail": "Shiksha yogyata par sawal aur mahabhiyog ke dabav ke beech Gibran Rakabuming Raka ne istifa de diya; sansad 2 December ko naye up-rashtrapati ka chunaav karegi.",
-   "category": "World",
-   "exam_angle": "Indonesia, up-rashtrapati chunaav aur samvaidhanik prakriya — antarrashtriya rajneeti ke liye mahatvapurna.",
-   "source": "Reuters",
-   "source_url": "https://www.reuters.com/world/asia-pacific/indonesias-upper-house-pick-new-vice-president-december-2-its-speaker-says-2026-11-13/",
-   "genuineness": "verified",
-   "outlets": [
-    "Reuters",
-    "Moneycontrol",
-    "South China Morning Post",
-    "Outlook India"
-   ],
-   "image": "../images/world/world-20261113-1822-01.jpg",
-   "image_credit": "Darwis Triadi & Ministry of State Secretariat, Wikimedia Commons (Public domain)"
-  },
-  {
-   "id": "world-20261113-1722-01",
-   "published_ist": "2026-11-13T15:54:00+05:30",
-   "headline": "ASEAN: online scam par sakht kadam",
-   "detail": "Manila shikhar sammelan me ASEAN netaon ne online scam aur manav taskari par 'gambhir chinta' jatayi; draft bayan me America aur China samet sahyogiyon ke saath milkar karwai ka vaada hai.",
-   "category": "World",
-   "exam_angle": "ASEAN, cyber-aparadh aur manav taskari — antarrashtriya sangathan aur suraksha ke liye mahatvapurna.",
-   "source": "Associated Press",
-   "source_url": "https://www.newindianexpress.com/amp/story/world/2026/Nov/13/southeast-asian-leaders-with-us-and-chinese-counterparts-will-renew-alarm-over-online-scams",
-   "genuineness": "corroborated",
-   "outlets": [
-    "Associated Press",
-    "Bilyonaryo News Channel"
-   ],
-   "image": "../images/world/world-20261113-1722-01.jpg",
-   "image_credit": "The New Indian Express"
   }
  ]
 }
