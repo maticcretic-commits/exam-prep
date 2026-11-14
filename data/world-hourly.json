@@ -1,6 +1,61 @@
 {
- "updated_ist": "2026-11-14T10:25:14+05:30",
+ "updated_ist": "2026-11-14T11:24:16+05:30",
  "items": [
+  {
+   "id": "world-20261114-1122-02",
+   "published_ist": "2026-11-14T10:19:00+05:30",
+   "headline": "Qatar Airways ki Riyadh, Dammam udaanen phir shuru",
+   "detail": "Qatar Airways ne ek mahine se zyada ke antaral ke baad Riyadh (13 November) aur Dammam (14 November) ke liye rozana udaanen phir shuru kar di — October me Riyadh hawai adde par hamle ke baad seva band hui thi; Abha aur Taif abhi bhi band hain.",
+   "category": "World",
+   "exam_angle": null,
+   "source": "The Thursday Times",
+   "source_url": "https://thursdaytimes.com/2026/11/14/news/international/qatar-airways-resumes-riyadh-dammam-flights-saudi-arabia/",
+   "genuineness": "verified",
+   "outlets": [
+    "The Thursday Times",
+    "Arabian Business",
+    "Qatar Tribune"
+   ],
+   "image": null,
+   "image_credit": null
+  },
+  {
+   "id": "world-20261114-1122-01",
+   "published_ist": "2026-11-14T09:33:00+05:30",
+   "headline": "ICC ne America sainikon ki jaanch band ki",
+   "detail": "ICC ke nyayadhishon ne Afghanistan me America ke sainikon par kathit apradhon ki jaanch aupcharik roop se band kar di — ab sirf 2021 ke baad Taliban ke karwaiyon par dhyaan rahega; abhiyojak ne faisle ke khilaf appeal ki hai.",
+   "category": "World",
+   "exam_angle": "ICC ki jaanch par America ke pratibandh aur antarrashtriya kanoon par asar — UPSC ke liye mahatvapurna.",
+   "source": "Al Jazeera",
+   "source_url": "https://www.aljazeera.com/amp/news/2026/11/14/icc-stops-probe-into-alleged-crimes-by-us-troops-in-afghanistan",
+   "genuineness": "verified",
+   "outlets": [
+    "Reuters",
+    "Al Jazeera",
+    "Associated Press"
+   ],
+   "image": null,
+   "image_credit": null
+  },
+  {
+   "id": "world-20261114-1122-03",
+   "published_ist": "2026-11-13T05:22:00+05:30",
+   "headline": "UN ne Houthi pratibandh ek saal aur badhaye",
+   "detail": "UN Suraksha Parishad ne sarvasammati se Yemen se jude pratibandh — sampatti zabt aur yatra pratibandh — 14 November 2027 tak badha diye; Houthiyon ko drone-missile banane wale saaman ki aapurti rokne par bhi kadam uthaye gaye.",
+   "category": "World",
+   "exam_angle": "UNSC ke pratibandh aur Yemen sankat — UPSC ke liye mahatvapurna.",
+   "source": "Al Jazeera",
+   "source_url": "https://www.aljazeera.com/news/2026/11/12/yemens-houthis-renew-strikes-on-saudi-arabia-as-unsc-extends-sanctions",
+   "genuineness": "verified",
+   "outlets": [
+    "Al Jazeera",
+    "Dawn",
+    "Gulf News",
+    "Arab News"
+   ],
+   "image": null,
+   "image_credit": null
+  },
   {
    "id": "world-20261114-0825-01",
    "published_ist": "2026-11-14T06:45:00+05:30",
@@ -391,60 +446,6 @@
    ],
    "image": "../images/world/world-20261113-1722-01.jpg",
    "image_credit": "The New Indian Express"
-  },
-  {
-   "id": "world-20261113-1822-03",
-   "published_ist": "2026-11-13T15:23:00+05:30",
-   "headline": "Norway court ne teen tel licence radd kiye",
-   "detail": "Norway ki Supreme Court ne Tyrving, Breidablikk aur Yggdrasil kshetron ke teen tel licence avaidh kar diye, kyunki tel jalane se hone wale utsarjan ka aaklan nahi hua tha; tel utpadan par turant asar nahi padega.",
-   "category": "World",
-   "exam_angle": "Jalvayu mukadma, Scope 3 utsarjan aur Norway ki tel neeti — paryavaran aur antarrashtriya kanoon ke liye mahatvapurna.",
-   "source": "Reuters",
-   "source_url": "https://www.reuters.com/sustainability/climate-energy/norway-supreme-court-rules-against-government-oilfields-case-output-unaffected-2026-11-13/",
-   "genuineness": "verified",
-   "outlets": [
-    "Reuters",
-    "Moneycontrol",
-    "Sweden Herald"
-   ],
-   "image": "../images/world/world-20261113-1822-03.jpg",
-   "image_credit": "Gary Bembridge, Wikimedia Commons (CC BY 2.0)"
-  },
-  {
-   "id": "world-20261113-1722-02",
-   "published_ist": "2026-11-13T15:00:00+05:30",
-   "headline": "Trump ke NYAY vibhag par Congress ki jaanch",
-   "detail": "Democrat bahumat wali Congress ke saamne NYAY vibhag ki jaanch ka daur shuru hoga; Attorney General Blanche ne kaha vibhag peeche nahi hatega, jabki ek sahayak ne abhiyojakon ko 'yuddh-stariya' taiyari ki baat kahi.",
-   "category": "World",
-   "exam_angle": "America me karyapalika-vidhayika santulan aur nyayik swatantrata — rajneeti vigyan ke liye mahatvapurna.",
-   "source": "Associated Press",
-   "source_url": "https://www.newindianexpress.com/amp/story/world/2026/Nov/13/trumps-justice-department-faces-a-new-era-of-scrutiny-under-a-democratic-led-congress",
-   "genuineness": "corroborated",
-   "outlets": [
-    "Associated Press",
-    "Bloomberg Law"
-   ],
-   "image": null,
-   "image_credit": null
-  },
-  {
-   "id": "world-20261113-2022-01",
-   "published_ist": "2026-11-13T13:49:00+05:30",
-   "headline": "Moscow me car bomb: ek afsar ki maut",
-   "detail": "Shukravar ko Moscow me car bomb se Ukraine ke poorv PM ke salaahkaar Sergei Zavorotny gambhir ghayal hue; guruvaar ko St. Petersburg me car bomb se ek sainya afsar ki maut hui thi — do din me doosra hamla.",
-   "category": "World",
-   "exam_angle": "Russia ke andar chhaya yuddh aur hatya ke prayas — antarrashtriya suraksha ke liye mahatvapurna.",
-   "source": "Associated Press",
-   "source_url": "https://www.newindianexpress.com/world/2026/Nov/13/bombings-in-russia-kill-a-military-officer-and-injure-an-adviser-to-ukraines-former-prime-minister",
-   "genuineness": "verified",
-   "outlets": [
-    "Associated Press",
-    "Reuters",
-    "The Guardian",
-    "Euromaidan Press"
-   ],
-   "image": "../images/world/world-20261113-2022-01.jpg",
-   "image_credit": "Associated Press"
   }
  ]
 }
