@@ -1,6 +1,6 @@
 {
   "date": "2026-11-14",
-  "updated_ist": "2026-11-14T06:26:00+05:30",
+  "updated_ist": "2026-11-14T07:24:41+05:30",
   "items": [
     {
       "id": "world-20261114-0622-01",
@@ -53,6 +53,63 @@
         "Reuters",
         "The Straits Times",
         "NDTV"
+      ],
+      "image": null,
+      "image_credit": null
+    },
+    {
+      "id": "world-20261114-0722-01",
+      "published_ist": "2026-11-14T06:25:00+05:30",
+      "headline": "Trump, Xi, Putin: pehli baar teenon ki baithak",
+      "detail": "White House ne pushti ki — 19 November ko Shenzhen me APEC ke kinare America, China aur Russia ke neta parmanu hathiyar kam karne aur Iran yuddh par baat karenge; koi samjhauta hone ki ummeed nahi hai.",
+      "category": "World",
+      "exam_angle": "Teen bade parmanu shaktiyon ki pehli trilateral baithak — UPSC ke liye mahatvapurna.",
+      "source": "Firstpost",
+      "source_url": "https://www.firstpost.com/world/trump-xi-and-putin-to-hold-unprecedented-trilateral-meeting-at-apec-summit-in-china-14059913.html",
+      "genuineness": "verified",
+      "outlets": [
+        "CNN",
+        "Firstpost",
+        "Channel News Asia",
+        "Business Times",
+        "Associated Press"
+      ],
+      "image": null,
+      "image_credit": null
+    },
+    {
+      "id": "world-20261114-0722-02",
+      "published_ist": "2026-11-14T06:19:00+05:30",
+      "headline": "Microsoft outage doosre din bhi jaari",
+      "detail": "Outlook, Teams aur Copilot 70 se zyada deshon me do din se band ya dheeme rahe; Microsoft ne kaha mool wajah suljha li gayi hai aur cyber hamla nahi tha, lekin poori bahali ka koi samay nahi diya.",
+      "category": "World",
+      "exam_angle": "Mahatvapurna digital sevaon par nirbharta aur unki kamzori — UPSC ke liye mahatvapurna.",
+      "source": "The Hindu",
+      "source_url": "https://www.thehindu.com/sci-tech/technology/microsoft-outage-live-updates-november-13-2026-steps-to-fix-outlook-and-other-apps-ongoing/article71696624.ece",
+      "genuineness": "verified",
+      "outlets": [
+        "The Hindu",
+        "CBS News",
+        "Bloomberg",
+        "SBS News"
+      ],
+      "image": null,
+      "image_credit": null
+    },
+    {
+      "id": "world-20261114-0722-03",
+      "published_ist": "2026-11-14T01:46:00+05:30",
+      "headline": "Netherlands: tax par sarkar girne ke kagar par",
+      "detail": "PM Rob Jetten ne saat ghante ki sankat baithak ke baad kaha weekend me aur baatchit hogi; VVD ne sarkar ko 'failed experiment' kaha, tax package par gathbandhan me gehra matbhed hai.",
+      "category": "World",
+      "exam_angle": null,
+      "source": "Reuters",
+      "source_url": "https://www.1049thewolf.com/2026/11/13/dutch-government-set-for-weekend-crisis-talks-to-avert-collapse/",
+      "genuineness": "verified",
+      "outlets": [
+        "Reuters",
+        "Associated Press",
+        "The Week"
       ],
       "image": null,
       "image_credit": null
