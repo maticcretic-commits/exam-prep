@@ -1,5 +1,5 @@
 {
- "updated_ist": "2026-11-14T09:26:44+05:30",
+ "updated_ist": "2026-11-14T10:25:14+05:30",
  "items": [
   {
    "id": "world-20261114-0825-01",
@@ -72,6 +72,48 @@
     "Al Jazeera",
     "Clash Report",
     "Türkiye Today"
+   ],
+   "image": null,
+   "image_credit": null
+  },
+  {
+   "id": "world-20261114-1022-01",
+   "published_ist": "2026-11-14T04:17:00+05:30",
+   "headline": "Starship kaksha me, booster samundar me gira",
+   "detail": "SpaceX ki Starship 15th test flight me doosri baar kaksha me pahunchi aur 26 Starlink satellite chhode, lekin Super Heavy booster catch ke bajay Gulf of Mexico me gira aur jal utha; jahaaz aaj shaam launch tower par pakde jaane ki koshish karega.",
+   "category": "World",
+   "exam_angle": "Punah-upyog yogya rocket takneek; Chand aur Mangal mission ki taiyari.",
+   "source": "The Hindu",
+   "source_url": "https://www.thehindu.com/sci-tech/science/spacex-launches-15th-starship-flight-with-hopes-of-achieving-first-round-trip/article71700818.ece",
+   "genuineness": "verified",
+   "outlets": [
+    "The Hindu",
+    "Times Now",
+    "Mathrubhumi",
+    "Malay Mail",
+    "Glasgow Times",
+    "Motley Fool"
+   ],
+   "image": null,
+   "image_credit": null
+  },
+  {
+   "id": "world-20261114-1022-02",
+   "published_ist": "2026-11-14T02:31:00+05:30",
+   "headline": "Hormuz me do tanker par mine dhamaka",
+   "detail": "IRGC Navy ke daave ke mutabik Hormuz Strait me bina anumati ke raste se ja rahe do tel tanker samudri surang se takraakar dhamake ke baad jal uthe — ek supertanker bhi shamil; jahaazon ke naam aur nuksan ki jaankari abhi nahi mili.",
+   "category": "World",
+   "exam_angle": "Hormuz Strait se duniya ke tel vyapar ka bada hissa guzarta hai; Paschim Asia me tanav.",
+   "source": "Reuters",
+   "source_url": "https://www.reuters.com/world/middle-east/irans-irgc-says-two-tankers-hit-sea-mines-hormuz-2026-11-13/",
+   "genuineness": "verified",
+   "outlets": [
+    "Reuters",
+    "The Economic Times",
+    "Gulf News",
+    "Channel News Asia",
+    "Mathrubhumi",
+    "Siasat"
    ],
    "image": null,
    "image_credit": null
@@ -403,41 +445,6 @@
    ],
    "image": "../images/world/world-20261113-2022-01.jpg",
    "image_credit": "Associated Press"
-  },
-  {
-   "id": "world-20261113-1422-01",
-   "published_ist": "2026-11-13T13:40:00+05:30",
-   "headline": "Volgograd par 1,198 drone, 4 ki maut",
-   "detail": "Russia ke mutabik raat bhar Ukraine ne lagbhag 1,198 drone bheje — Volgograd ke audyogik kshetra me hamle me 4 karmchari mare aur 2 ghayal hue; 15 se zyada kshetron me drone roke gaye.",
-   "category": "World",
-   "exam_angle": "Russia-Ukraine yuddh aur drone hamle — antarrashtriya suraksha ke liye mahatvapurna.",
-   "source": "The Hindu",
-   "source_url": "https://www.thehindu.com/news/international/russia-says-four-killed-in-major-ukraine-drone-barrage/article71697111.ece",
-   "genuineness": "verified",
-   "outlets": [
-    "Reuters",
-    "AFP",
-    "The Straits Times"
-   ],
-   "image": null,
-   "image_credit": null
-  },
-  {
-   "id": "world-20261113-2122-01",
-   "published_ist": "2026-11-13T13:05:00+05:30",
-   "headline": "Hormuz me LNG tanker par mine hamla",
-   "detail": "IRGC ke mutabik Hormuz Strait me ek LNG tanker ne samudri surang (mine) se takkar khaai aur usme dhamaka hua; tanker ne 'bina anumati' wala rasta liya tha — tanker ka naam aur nuksan ki jaankari abhi nahi mili.",
-   "category": "World",
-   "exam_angle": "Hormuz Strait duniya ke tel aur gas vyapar ka sabse mahatvapurna rasta hai — energy suraksha ke liye ahem.",
-   "source": "The Hindu",
-   "source_url": "https://www.thehindu.com/news/international/tanker-carrying-lng-hit-mine-suffered-explosion-in-hormuz-iran/article71696996.ece",
-   "genuineness": "corroborated",
-   "outlets": [
-    "Reuters",
-    "Iranian state media (IRGC)"
-   ],
-   "image": null,
-   "image_credit": null
   }
  ]
 }
