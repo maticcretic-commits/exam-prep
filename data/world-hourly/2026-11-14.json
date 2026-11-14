@@ -1,6 +1,6 @@
 {
   "date": "2026-11-14",
-  "updated_ist": "2026-11-14T16:25:53+05:30",
+  "updated_ist": "2026-11-14T17:25:15+05:30",
   "items": [
     {
       "id": "world-20261114-0622-01",
@@ -592,6 +592,61 @@
       ],
       "image": "../images/world/world-20261114-1622-03.jpg",
       "image_credit": "U.S. Department of State / Wikimedia Commons (Public domain)"
+    },
+    {
+      "id": "world-20261114-1722-01",
+      "published_ist": "2026-11-14T13:16:00+05:30",
+      "headline": "Hormuz: February se 25 navik mare gaye",
+      "detail": "UN ne Suraksha Parishad ko bataya ki February se Hormuz ke aas-paas 25 navik mare gaye — October sabse kharab mahina raha, aur Hormuz se jahaaz aana-jaana yuddh se pehle ke muqable lagbhag 65 pratishat kam ho gaya.",
+      "category": "World",
+      "exam_angle": "Hormuz se vishwa tel vyapaar aur samudri suraksha par asar — UPSC ke liye mahatvapurna.",
+      "source": "Al Jazeera",
+      "source_url": "https://www.aljazeera.com/amp/news/2026/11/14/un-says-25-seafarers-killed-in-around-hormuz-since-february",
+      "genuineness": "verified",
+      "outlets": [
+        "Al Jazeera",
+        "Sunday Guardian Live",
+        "Interbellum News"
+      ],
+      "image": null,
+      "image_credit": null
+    },
+    {
+      "id": "world-20261114-1722-02",
+      "published_ist": "2026-11-14T02:34:00+05:30",
+      "headline": "Mossad pramukh Washington me, Iran par baatchit",
+      "detail": "Israel ke Mossad pramukh Roman Gofman shukravaar ko Washington me CIA nideshak John Ratcliffe se mile — Axios ke mutabik Netanyahu Trump par Iran ke khilaf yuddh phir shuru karne ka dabav bana rahe hain; Mossad, CIA aur White House ne tippani se mana kar diya.",
+      "category": "World",
+      "exam_angle": "Israel-America-Iran tanaav aur paschim Asia ki suraksha — UPSC ke liye mahatvapurna.",
+      "source": "Tribune",
+      "source_url": "https://tribune.com.pk/story/2640178/mossad-chief-visits-washington-as-israel-presses-trump-to-resume-iran-war-report",
+      "genuineness": "verified",
+      "outlets": [
+        "Axios",
+        "The Thursday Times",
+        "Tribune"
+      ],
+      "image": null,
+      "image_credit": null
+    },
+    {
+      "id": "world-20261114-1722-03",
+      "published_ist": "2026-11-13T18:59:00+05:30",
+      "headline": "COP31: $10 arab ki jalvayu vitt pahal",
+      "detail": "Britain, Norway aur Canada ki vikas vitt sansthaon ne COP31 me '10by30' pahal shuru ki — 2030 tak ubharte bazaaron me jalvayu aur urja parivartan pariyojnaon me $10 arab, niji poonji samet, lagane ka lakshya hai.",
+      "category": "World",
+      "exam_angle": "COP31 aur vikasheel deshon ke liye jalvayu vitt — UPSC ke liye mahatvapurna.",
+      "source": "Reuters",
+      "source_url": "https://www.reuters.com/sustainability/cop/uk-norway-canada-launch-10-billion-climate-finance-initiative-2026-11-13/",
+      "genuineness": "verified",
+      "outlets": [
+        "Reuters",
+        "Norwegian Tribune",
+        "FinDev Canada",
+        "HapaKenya"
+      ],
+      "image": "../images/world/world-20261114-1722-03.jpg",
+      "image_credit": "Necati Savas / European Union, 2026 / EC - Audiovisual Service (CC BY 4.0)"
     }
   ]
 }
