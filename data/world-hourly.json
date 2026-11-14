@@ -1,6 +1,63 @@
 {
-  "updated_ist": "2026-11-14T06:26:00+05:30",
+  "updated_ist": "2026-11-14T07:24:41+05:30",
   "items": [
+    {
+      "id": "world-20261114-0722-01",
+      "published_ist": "2026-11-14T06:25:00+05:30",
+      "headline": "Trump, Xi, Putin: pehli baar teenon ki baithak",
+      "detail": "White House ne pushti ki — 19 November ko Shenzhen me APEC ke kinare America, China aur Russia ke neta parmanu hathiyar kam karne aur Iran yuddh par baat karenge; koi samjhauta hone ki ummeed nahi hai.",
+      "category": "World",
+      "exam_angle": "Teen bade parmanu shaktiyon ki pehli trilateral baithak — UPSC ke liye mahatvapurna.",
+      "source": "Firstpost",
+      "source_url": "https://www.firstpost.com/world/trump-xi-and-putin-to-hold-unprecedented-trilateral-meeting-at-apec-summit-in-china-14059913.html",
+      "genuineness": "verified",
+      "outlets": [
+        "CNN",
+        "Firstpost",
+        "Channel News Asia",
+        "Business Times",
+        "Associated Press"
+      ],
+      "image": null,
+      "image_credit": null
+    },
+    {
+      "id": "world-20261114-0722-02",
+      "published_ist": "2026-11-14T06:19:00+05:30",
+      "headline": "Microsoft outage doosre din bhi jaari",
+      "detail": "Outlook, Teams aur Copilot 70 se zyada deshon me do din se band ya dheeme rahe; Microsoft ne kaha mool wajah suljha li gayi hai aur cyber hamla nahi tha, lekin poori bahali ka koi samay nahi diya.",
+      "category": "World",
+      "exam_angle": "Mahatvapurna digital sevaon par nirbharta aur unki kamzori — UPSC ke liye mahatvapurna.",
+      "source": "The Hindu",
+      "source_url": "https://www.thehindu.com/sci-tech/technology/microsoft-outage-live-updates-november-13-2026-steps-to-fix-outlook-and-other-apps-ongoing/article71696624.ece",
+      "genuineness": "verified",
+      "outlets": [
+        "The Hindu",
+        "CBS News",
+        "Bloomberg",
+        "SBS News"
+      ],
+      "image": null,
+      "image_credit": null
+    },
+    {
+      "id": "world-20261114-0722-03",
+      "published_ist": "2026-11-14T01:46:00+05:30",
+      "headline": "Netherlands: tax par sarkar girne ke kagar par",
+      "detail": "PM Rob Jetten ne saat ghante ki sankat baithak ke baad kaha weekend me aur baatchit hogi; VVD ne sarkar ko 'failed experiment' kaha, tax package par gathbandhan me gehra matbhed hai.",
+      "category": "World",
+      "exam_angle": null,
+      "source": "Reuters",
+      "source_url": "https://www.1049thewolf.com/2026/11/13/dutch-government-set-for-weekend-crisis-talks-to-avert-collapse/",
+      "genuineness": "verified",
+      "outlets": [
+        "Reuters",
+        "Associated Press",
+        "The Week"
+      ],
+      "image": null,
+      "image_credit": null
+    },
     {
       "id": "world-20261114-0622-01",
       "published_ist": "2026-11-14T02:24:00+05:30",
@@ -377,60 +434,6 @@
       ],
       "image": null,
       "image_credit": null
-    },
-    {
-      "id": "world-20261113-1322-02",
-      "published_ist": "2026-11-13T09:35:00+05:30",
-      "headline": "UN ne Houthi pratibandh 2027 tak badhaye",
-      "detail": "UN Suraksha Parishad ne sarvasammati se Yemen par pratibandh badhaye — Houthi netaon par sampatti-jabti aur yatra-pratibandh 14 November 2027 tak, aur drone-missile banane wale dohre-upyog wale saman par rok kadi ki.",
-      "category": "World",
-      "exam_angle": "Yemen sankat aur UN pratibandh — antarrashtriya suraksha ke liye mahatvapurna.",
-      "source": "Dawn",
-      "source_url": "https://www.dawn.com/news/2044254",
-      "genuineness": "verified",
-      "outlets": [
-        "Dawn",
-        "Gulf News",
-        "Arab News"
-      ],
-      "image": "../images/world/world-20261113-1322-02.jpg",
-      "image_credit": "Dawn"
-    },
-    {
-      "id": "world-20261113-1322-03",
-      "published_ist": "2026-11-13T09:22:00+05:30",
-      "headline": "Trump ne Vance ko Iran vaarta se hataya",
-      "detail": "Trump ne kaha America ko Iran se koi samjhauta nahi chahiye aur up-rashtrapati JD Vance ko Iran vaarta se hatakar gharelu dhokhadhadi ke khilaf abhiyan par lagaya; Vance ne yuddh ki rajnaitik keemat par sawal uthaye the.",
-      "category": "World",
-      "exam_angle": "America-Iran tanav aur Hormuz — antarrashtriya sambandh ke liye mahatvapurna.",
-      "source": "Outlook India",
-      "source_url": "https://www.outlookindia.com/international/donald-trump-orders-jd-vance-iran-war-us-fraud-campaign-midterm-election-losses",
-      "genuineness": "verified",
-      "outlets": [
-        "Outlook India",
-        "Reuters",
-        "The Hindu"
-      ],
-      "image": null,
-      "image_credit": null
-    },
-    {
-      "id": "world-20261113-1222-02",
-      "published_ist": "2026-11-13T08:05:00+05:30",
-      "headline": "Finland: Baltic me Russian jahaaz par hamla",
-      "detail": "Finland ki sena ne Gulf of Finland me ek Russian yuddhpot par hamle ka pata lagaya; Ukraine ki Security Service ne hamle ki zimmedari li — Finland ne kaha use koi turant khatra nahi hai.",
-      "category": "World",
-      "exam_angle": "Baltic me NATO-Russia tanav — antarrashtriya suraksha ke liye mahatvapurna.",
-      "source": "Al Jazeera",
-      "source_url": "https://www.aljazeera.com/news/2026/11/13/finland-detects-strike-on-russian-warship-as-zelenskyy-meets-us-envoys?traffic_source=rss",
-      "genuineness": "verified",
-      "outlets": [
-        "Al Jazeera",
-        "Reuters",
-        "Yle"
-      ],
-      "image": "../images/world/world-20261113-1222-02.jpg",
-      "image_credit": "Al Jazeera"
     }
   ]
 }
