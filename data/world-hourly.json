@@ -1,6 +1,62 @@
 {
-  "updated_ist": "2026-11-14T14:28:36+05:30",
+  "updated_ist": "2026-11-14T15:24:53+05:30",
   "items": [
+    {
+      "id": "world-20261114-1522-01",
+      "published_ist": "2026-11-13T21:41:00+05:30",
+      "headline": "Ukraine ne Russia par 1,200 drone daage",
+      "detail": "Guruvaar raat se shukravaar subah ke beech Ukraine ne Russia par lagbhag 1,200 drone daage — yuddh ki sabse badi hawai hamalon me se ek; Russia ke raksha mantralaya ke mutabik 1,198 drone giraye gaye, lekin teen kshetron me saat log mare gaye, jinme ek 12 saal ka bachcha bhi shamil; Volgograd refinery me aag lagi.",
+      "category": "World",
+      "exam_angle": "Ukraine yuddh me drone yuddh aur Europe ki suraksha vyavastha par asar — antarrashtriya sambandhon ke liye mahatvapurna.",
+      "source": "Firstpost",
+      "source_url": "https://www.firstpost.com/world/ukraine-war-talks-turn-to-europes-security-as-kyiv-launches-nearly-1200-drones-at-russia-14059896.html",
+      "genuineness": "verified",
+      "outlets": [
+        "Associated Press",
+        "Reuters",
+        "Firstpost",
+        "The Hindu"
+      ],
+      "image": null,
+      "image_credit": null
+    },
+    {
+      "id": "world-20261114-1522-02",
+      "published_ist": "2026-11-14T05:26:00+05:30",
+      "headline": "Bahrain: Iran ka radar par hamle ka daava",
+      "detail": "Iran ke IRGC ne daava kiya ki usne Bahrain me America ke early-warning radar ko tabah kar diya — Sirik telecom tower par America ke hamle ka jawaab bataya; CENTCOM ne daava kharij karte hue kaha do Iranian drone giraye gaye, koi nuksan nahi hua.",
+      "category": "World",
+      "exam_angle": "Khadi me America-Iran tanav aur Hormuz ki suraksha — Bharat ki urja suraksha ke liye mahatvapurna.",
+      "source": "Dawn",
+      "source_url": "https://www.dawn.com/news/2044367/iran-claims-us-denies-strike-on-radar-in-bahrain",
+      "genuineness": "verified",
+      "outlets": [
+        "Dawn",
+        "Channel News Asia",
+        "The Express Tribune",
+        "TBS News"
+      ],
+      "image": null,
+      "image_credit": null
+    },
+    {
+      "id": "world-20261114-1522-03",
+      "published_ist": "2026-11-14T00:29:00+05:30",
+      "headline": "COP31: jeevashm indhan par sahmati nahi",
+      "detail": "Antalya me COP31 ka pehla hafta bina sahmati ke khatm — jeevashm indhan se door hatne par desh bante hue; dweep desh turant utsarjan katauti maang rahe, Europe bijlikaran par zor de raha, tel utpadak desh virodh me; vaarta ka netritva kar rahe Australia ne kaha abhi aur mashvara baki hai.",
+      "category": "World",
+      "exam_angle": "COP31, jeevashm indhan se badlav aur jalvayu vitt — UPSC ke liye mahatvapurna.",
+      "source": "Business Standard",
+      "source_url": "https://www.business-standard.com/amp/world-news/cop31-consensus-on-climate-deal-unlikely-as-global-leaders-clash-126111400019_1.html",
+      "genuineness": "verified",
+      "outlets": [
+        "Reuters",
+        "The Express Tribune",
+        "Greenpeace Australia Pacific"
+      ],
+      "image": "../images/world/world-20261114-1522-03.jpg",
+      "image_credit": "Necati Savas / European Union / Wikimedia Commons (CC BY 4.0)"
+    },
     {
       "id": "world-20261114-1422-01",
       "published_ist": "2026-11-14T12:48:00+05:30",
@@ -386,60 +442,6 @@
         "The Maritime Executive",
         "The Independent",
         "Türkiye Today"
-      ],
-      "image": null,
-      "image_credit": null
-    },
-    {
-      "id": "world-20261114-0622-02",
-      "published_ist": "2026-11-13T22:31:00+05:30",
-      "headline": "Niger: bazaar ja rahe 37 nagrikon ki hatya",
-      "detail": "Paschimi Niger ke Tillaberi kshetra me bazaar ja rahe gaon walon par ghaat lagakar hamla hua — kam se kam 37 log mare gaye, jinme mahilayen aur bachche bhi shamil; hamlaavaron ki pehchan abhi nahi hui.",
-      "category": "World",
-      "exam_angle": "Sahel kshetra me jihadist hinsa aur Tillaberi tri-border sankat — Africa ki suraksha ke liye mahatvapurna.",
-      "source": "The Hindu",
-      "source_url": "https://www.thehindu.com/news/international/armed-men-kill-at-least-37-civilians-in-western-niger-say-local-sources/article71699297.ece",
-      "genuineness": "verified",
-      "outlets": [
-        "AFP",
-        "TASS",
-        "News Central TV"
-      ],
-      "image": null,
-      "image_credit": null
-    },
-    {
-      "id": "world-20261114-0825-04",
-      "published_ist": "2026-11-13T21:22:00+05:30",
-      "headline": "Turkiye aur Qatar ne raksha samjhauta kiya",
-      "detail": "Turkiye aur Qatar ne Istanbul me paraspar raksha samjhauta kiya — kisi ek par bahari hamla dono par hamla mana jayega; sanyukt abhyas aur raksha udyog me sahyog bhi hoga.",
-      "category": "World",
-      "exam_angle": "Khadi me badhte raksha gathbandhan — UPSC ke liye mahatvapurna.",
-      "source": "Al Jazeera",
-      "source_url": "https://www.aljazeera.com/news/2026/11/13/turkiye-and-qatar-sign-mutual-defence-agreement",
-      "genuineness": "verified",
-      "outlets": [
-        "Reuters",
-        "Al Jazeera",
-        "Gulf News"
-      ],
-      "image": null,
-      "image_credit": null
-    },
-    {
-      "id": "world-20261113-2222-01",
-      "published_ist": "2026-11-13T20:27:00+05:30",
-      "headline": "Balochistan: checkpoint par car bomb, 5 ki maut",
-      "detail": "Mastung jile ke Kandawa area me Frontier Corps checkpoint par visfotak se bhari car takraai; hamle me 3 hamlaavar aur 2 nagrik mare gaye, 13 ghayal hue — pratibandhit BLA ne zimmedari li.",
-      "category": "World",
-      "exam_angle": "Balochistan me suraksha chunauti aur Pakistan ke andar aatankwad — Dakshin Asia ki suraksha ke liye mahatvapurna.",
-      "source": "The New Indian Express",
-      "source_url": "https://www.newindianexpress.com/amp/story/world/2026/Nov/13/five-killed-13-injured-in-car-bombing-at-security-checkpoint-in-pakistans-balochistan",
-      "genuineness": "verified",
-      "outlets": [
-        "PTI",
-        "WION",
-        "Dawn"
       ],
       "image": null,
       "image_credit": null
