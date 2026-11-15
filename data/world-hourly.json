@@ -1,6 +1,43 @@
 {
-  "updated_ist": "2026-11-15T20:27:43+05:30",
+  "updated_ist": "2026-11-15T21:26:13+05:30",
   "items": [
+    {
+      "id": "world-20261115-2122-01",
+      "published_ist": "2026-11-15T14:44:00+05:30",
+      "headline": "Gaza: saans ki bimari badhi, WHO chetavni",
+      "detail": "WHO ne kaha Gaza me saans ki bimari ke cases pichhle saal se 33,000 zyada hain; baarish se hazaaron tent doob gaye aur lagbhag 10 lakh visthapit baadh ke khatre wale ilaakon me rehte hain.",
+      "category": "World",
+      "exam_angle": "Gaza me manavtavadi sankat, WHO aur svasthya — UPSC ke liye mahatvapurna.",
+      "source": "The Tribune",
+      "source_url": "https://www.tribuneindia.com/news/world/respiratory-illnesses-rise-in-gaza-with-worst-to-come-as-winter-floods-arrive-who/",
+      "genuineness": "verified",
+      "outlets": [
+        "Reuters",
+        "The Japan Times",
+        "UNICEF"
+      ],
+      "image": null,
+      "image_credit": null
+    },
+    {
+      "id": "world-20261115-2122-02",
+      "published_ist": "2026-11-14T13:29:00+05:30",
+      "headline": "Dublin: netaon ke dinner ke paas bomb mila",
+      "detail": "Dublin me Merrion Square ki imarat me crude lekin kaam karne wala bomb mila aur sena ne use nishkriya kiya; ek din pehle paas ke National Gallery me Macron samet netaon ne dinner kiya tha.",
+      "category": "World",
+      "exam_angle": "Europe me suraksha aur European Political Community shikhar sammelan — UPSC ke liye mahatvapurna.",
+      "source": "The Jerusalem Post",
+      "source_url": "https://www.jpost.com/international/article-914858",
+      "genuineness": "verified",
+      "outlets": [
+        "Reuters",
+        "The Jerusalem Post",
+        "The Irish Times",
+        "Times of Israel"
+      ],
+      "image": null,
+      "image_credit": null
+    },
     {
       "id": "world-20261115-2022-01",
       "published_ist": "2026-11-15T12:56:00+05:30",
@@ -404,45 +441,6 @@
         "Reuters",
         "Rappler",
         "The Manila Times"
-      ],
-      "image": null,
-      "image_credit": null
-    },
-    {
-      "id": "world-20261115-1125-01",
-      "published_ist": "2026-11-15T09:19:00+05:30",
-      "headline": "America me udaan sankat, hazaron flights radd",
-      "detail": "FAA ke router kharabi se shukravaar ko lagbhag 9,200 flights radd hui, shanivaar ko 6,150 se zyada; ravivaar der raat tak haal normal hone ki ummeed — L3Harris ke router ki jaanch chal rahi hai.",
-      "category": "World",
-      "exam_angle": "America me havaai yatra sankat aur ATC vyavastha — UPSC ke liye mahatvapurna.",
-      "source": "The Business Times",
-      "source_url": "https://www.businesstimes.com.sg/international/us-air-travel-issues-persist-well-sunday-officials-say-thousands-flights-affected",
-      "genuineness": "verified",
-      "outlets": [
-        "Reuters",
-        "The Statesman",
-        "India TV News",
-        "Sunday Guardian"
-      ],
-      "image": "../images/world/world-20261115-1125-01.jpg",
-      "image_credit": "The Business Times"
-    },
-    {
-      "id": "world-20261115-0926-01",
-      "published_ist": "2026-11-15T08:29:00+05:30",
-      "headline": "Riyadh par Houthi missile, hawai suraksha ne roka",
-      "detail": "Saudi gathbandhan ne ravivaar subah Riyadh ki taraf aaye Houthi ke do ballistic missile maar giraye; shanivaar ko bhi do drone nasht kiye gaye — 23 September se Houthi hamalon me Saudi me kam se kam 26 log mare gaye.",
-      "category": "World",
-      "exam_angle": "Khadi me tanav, Houthi hamle aur Bharat ki urja suraksha — UPSC ke liye mahatvapurna.",
-      "source": "Al Jazeera",
-      "source_url": "https://www.aljazeera.com/news/2026/11/15/saudi-led-coalition-intercepts-two-missiles-two-drones-in-riyadh",
-      "genuineness": "verified",
-      "outlets": [
-        "Al Jazeera",
-        "Reuters",
-        "Arab News",
-        "Gulf News",
-        "Dawn"
       ],
       "image": null,
       "image_credit": null
