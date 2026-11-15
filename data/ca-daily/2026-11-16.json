@@ -1,0 +1,77 @@
+{
+ "date": "2026-11-16",
+ "date_hi": "16 November 2026",
+ "date_en": "16 November 2026",
+ "episodes": [
+  {
+   "episode": 125,
+   "video_hi": "I_WnZnJZdHk",
+   "video_hinglish": "I_WnZnJZdHk",
+   "capsules": [
+    {
+     "id": "ca-ep125-s1",
+     "headline_hi": "Manila mein Quad Summit, chaar neta aamne-saamne",
+     "headline_hinglish": "Manila mein Quad Summit, chaar neta aamne-saamne",
+     "detail_hi": "Pradhan Mantri Modi, Trump, Takaichi aur Albanese satrah November ko Manila mein milenge.",
+     "detail_hinglish": "Pradhan Mantri Modi, Trump, Takaichi aur Albanese satrah November ko Manila mein milenge.",
+     "category_hi": "International",
+     "category_en": "National"
+    },
+    {
+     "id": "ca-ep125-s2",
+     "headline_hi": "Bharat-Misr vyapar samjhaute ki taiyaari tez",
+     "headline_hinglish": "Bharat-Misr vyapar samjhaute ki taiyaari tez",
+     "detail_hi": "Dono desh vyapar samjhaute ki shartein tay karenge, Piyush Goyal ne kaha.",
+     "detail_hinglish": "Dono desh vyapar samjhaute ki shartein tay karenge, Piyush Goyal ne kaha.",
+     "category_hi": "Economy",
+     "category_en": "Economy"
+    },
+    {
+     "id": "ca-ep125-s3",
+     "headline_hi": "Sansad ka sheetkalin satra December mein shuru",
+     "headline_hinglish": "Sansad ka sheetkalin satra December mein shuru",
+     "detail_hi": "Sarkar mahila arakshan vidheyak par aage badhne par vichar kar rahi hai.",
+     "detail_hinglish": "Sarkar mahila arakshan vidheyak par aage badhne par vichar kar rahi hai.",
+     "category_hi": "Polity",
+     "category_en": "Polity"
+    },
+    {
+     "id": "ca-ep125-s4",
+     "headline_hi": "Delhi mein pradushan par karwai, 191 factory band",
+     "headline_hinglish": "Delhi mein pradushan par karwai, 191 factory band",
+     "detail_hi": "Delhi ki hawa 'very poor' shreni mein hai, AQI teen sau ikyavan darj kiya gaya.",
+     "detail_hinglish": "Delhi ki hawa 'very poor' shreni mein hai, AQI teen sau ikyavan darj kiya gaya.",
+     "category_hi": "Environment",
+     "category_en": "Environment"
+    },
+    {
+     "id": "ca-ep125-s5",
+     "headline_hi": "Pachas crore log garibi se bahar nikle",
+     "headline_hinglish": "Pachas crore log garibi se bahar nikle",
+     "detail_hi": "Pradhan Mantri ne kaha, aazadi ke baad ki sabse badi uplabdhiyon mein se ek hai.",
+     "detail_hinglish": "Pradhan Mantri ne kaha, aazadi ke baad ki sabse badi uplabdhiyon mein se ek hai.",
+     "category_hi": "Economy",
+     "category_en": "Economy"
+    }
+   ],
+   "mcq": {
+    "id": "ca-ep125-mcq",
+    "q_hi": "Quad Summit satrah November ko kis shahar mein hoga?",
+    "q_hinglish": "Quad Summit satrah November ko kis shahar mein hoga?",
+    "options_hi": [
+     "Jakarta",
+     "Tokyo",
+     "Manila",
+     "Sydney"
+    ],
+    "options_hinglish": [
+     "Jakarta",
+     "Tokyo",
+     "Manila",
+     "Sydney"
+    ],
+    "answer_index": 2
+   }
+  }
+ ]
+}
