@@ -1,6 +1,63 @@
 {
-  "updated_ist": "2026-11-15T19:30:01+05:30",
+  "updated_ist": "2026-11-15T20:27:43+05:30",
   "items": [
+    {
+      "id": "world-20261115-2022-01",
+      "published_ist": "2026-11-15T12:56:00+05:30",
+      "headline": "Iran ke paas ab bhi 2,500 missile",
+      "detail": "US khufiya anuman ke mutabik Iran ke paas 1,500 se 2,500 missile bache hain; hamlo ke baad bhi Tehran ne stockpile dobara banaya — 'tabah' hone ke daave ke ulta.",
+      "category": "World",
+      "exam_angle": "Iran-America tanav aur missile shakti — UPSC ke liye mahatvapurna.",
+      "source": "The Times of India",
+      "source_url": "https://timesofindia.indiatimes.com/world/middle-east/iran-has-1500-2500-missiles-despite-us-claims-of-decimated-arsenal-report/articleshow/135850040.cms",
+      "genuineness": "verified",
+      "outlets": [
+        "The Wall Street Journal",
+        "The Times of Israel",
+        "The Jerusalem Post",
+        "The Times of India",
+        "News18",
+        "Moneycontrol"
+      ],
+      "image": null,
+      "image_credit": null
+    },
+    {
+      "id": "world-20261115-2022-02",
+      "published_ist": "2026-11-15T15:22:00+05:30",
+      "headline": "Canary Islands: ek din me 1,500 pravasi",
+      "detail": "Shaniwaar ko Spain ke Canary Islands me lagbhag 1,500 pravasi pahunche — 2020 ke baad ek din me sabse zyada; zyadaatar Senegal, Gambia aur Guinea se aaye.",
+      "category": "World",
+      "exam_angle": "Europe me pravasan aur Atlantic route — UPSC ke liye mahatvapurna.",
+      "source": "Reuters",
+      "source_url": "https://www.reuters.com/world/africa/nearly-1500-migrants-arrive-canary-islands-one-day-2026-11-15/",
+      "genuineness": "verified",
+      "outlets": [
+        "Reuters",
+        "EFE",
+        "Tenerife News"
+      ],
+      "image": null,
+      "image_credit": null
+    },
+    {
+      "id": "world-20261115-2022-03",
+      "published_ist": "2026-11-15T18:04:00+05:30",
+      "headline": "Bahrain ne UN se Iran par karvai mangi",
+      "detail": "Bahrain ne UN Security Council se Iran ke hamlo ki ninda aur sakht karvai ki maang ki; G7 ne bhi hamlo ki ninda ki, jabki Iran ne jawab jaari rakhne ki baat kahi.",
+      "category": "World",
+      "exam_angle": "West Asia me tanav aur UN Security Council — UPSC ke liye mahatvapurna.",
+      "source": "Gulf News",
+      "source_url": "https://gulfnews.com/world/gulf/bahrain/bahrain-issues-potential-threat-alert-urges-residents-to-seek-safety-1.500747795",
+      "genuineness": "verified",
+      "outlets": [
+        "Gulf News",
+        "Al Jazeera",
+        "The Indian Messenger"
+      ],
+      "image": null,
+      "image_credit": null
+    },
     {
       "id": "world-20261115-1927-01",
       "published_ist": "2026-11-15T10:35:00+05:30",
@@ -386,60 +443,6 @@
         "Arab News",
         "Gulf News",
         "Dawn"
-      ],
-      "image": null,
-      "image_credit": null
-    },
-    {
-      "id": "world-20261115-1324-03",
-      "published_ist": "2026-11-15T07:50:00+05:30",
-      "headline": "COP31: Antalya me hazaaron ka pradarshan",
-      "detail": "Antalya me shanivaar ko hazaaron pradarshankariyon ne COP31 ke khilaf march kiya — police ke anusaar 7,000 se zyada log; vaarta aadhe raste par hai, jeevashm indhan aur vitt par matbhed barkaraar.",
-      "category": "World",
-      "exam_angle": "COP31, jalvayu vaarta aur Bharat ki sthiti — UPSC ke liye mahatvapurna.",
-      "source": "Malay Mail",
-      "source_url": "https://www.malaymail.com/news/world/2026/11/15/thousands-rally-against-cop31-as-climate-talks-hit-midpoint/243318",
-      "genuineness": "verified",
-      "outlets": [
-        "Agence France-Presse",
-        "The Irish Times",
-        "Qatar Tribune"
-      ],
-      "image": null,
-      "image_credit": null
-    },
-    {
-      "id": "world-20261115-1222-02",
-      "published_ist": "2026-11-15T07:14:00+05:30",
-      "headline": "Kate aur William Mumbai aayenge, Earthshot 17 November",
-      "detail": "Kensington Palace ne 14 November ko ghoshna ki — Prince William aur Kate Middleton 17 November ko Mumbai me Earthshot Prize samaroh me shamil honge; ye 2022 ke baad unki pehli sanyukt videsh yatra hai.",
-      "category": "World",
-      "exam_angle": "Earthshot Prize aur Bharat-Britain sambandh — UPSC ke liye mahatvapurna.",
-      "source": "The Times of India",
-      "source_url": "https://timesofindia.indiatimes.com/world/uk/prince-william-kate-middleton-to-attend-earthshot-prize-in-mumbai-in-first-joint-overseas-tour-since-2022/articleshow/135845243.cms",
-      "genuineness": "verified",
-      "outlets": [
-        "Reuters",
-        "Gulf News",
-        "The Straits Times"
-      ],
-      "image": null,
-      "image_credit": null
-    },
-    {
-      "id": "world-20261115-1222-01",
-      "published_ist": "2026-11-15T06:33:00+05:30",
-      "headline": "Hormuz: teen tanker me aag, Iran ka daava",
-      "detail": "Iran ki nausena ka daava hai ki Hormuz jalmarg me teen tel tanker samudri surang se takrakar aag me lapet gaye; swatantra pushti abhi nahi hui hai, aur America ke anusaar marg saaf kiya ja chuka hai.",
-      "category": "World",
-      "exam_angle": "Hormuz jalmarg, Iran-America tanav aur Bharat ki urja suraksha — UPSC ke liye mahatvapurna.",
-      "source": "The Times of India",
-      "source_url": "https://timesofindia.indiatimes.com/world/middle-east/iran-claims-three-tankers-hit-naval-mines-near-hormuz-warns-ships-against-entering-restricted-zone/articleshow/135849046.cms",
-      "genuineness": "corroborated",
-      "outlets": [
-        "The Times of India",
-        "The Manila Times",
-        "The Chosun Ilbo"
       ],
       "image": null,
       "image_credit": null
