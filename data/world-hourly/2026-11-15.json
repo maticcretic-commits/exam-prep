@@ -1,6 +1,6 @@
 {
   "date": "2026-11-15",
-  "updated_ist": "2026-11-15T19:30:01+05:30",
+  "updated_ist": "2026-11-15T20:27:43+05:30",
   "items": [
     {
       "id": "world-20261115-0622-01",
@@ -747,6 +747,63 @@
       ],
       "image": "../images/world/world-20261115-1927-04.jpg",
       "image_credit": "Notebookcheck"
+    },
+    {
+      "id": "world-20261115-2022-01",
+      "published_ist": "2026-11-15T12:56:00+05:30",
+      "headline": "Iran ke paas ab bhi 2,500 missile",
+      "detail": "US khufiya anuman ke mutabik Iran ke paas 1,500 se 2,500 missile bache hain; hamlo ke baad bhi Tehran ne stockpile dobara banaya — 'tabah' hone ke daave ke ulta.",
+      "category": "World",
+      "exam_angle": "Iran-America tanav aur missile shakti — UPSC ke liye mahatvapurna.",
+      "source": "The Times of India",
+      "source_url": "https://timesofindia.indiatimes.com/world/middle-east/iran-has-1500-2500-missiles-despite-us-claims-of-decimated-arsenal-report/articleshow/135850040.cms",
+      "genuineness": "verified",
+      "outlets": [
+        "The Wall Street Journal",
+        "The Times of Israel",
+        "The Jerusalem Post",
+        "The Times of India",
+        "News18",
+        "Moneycontrol"
+      ],
+      "image": null,
+      "image_credit": null
+    },
+    {
+      "id": "world-20261115-2022-02",
+      "published_ist": "2026-11-15T15:22:00+05:30",
+      "headline": "Canary Islands: ek din me 1,500 pravasi",
+      "detail": "Shaniwaar ko Spain ke Canary Islands me lagbhag 1,500 pravasi pahunche — 2020 ke baad ek din me sabse zyada; zyadaatar Senegal, Gambia aur Guinea se aaye.",
+      "category": "World",
+      "exam_angle": "Europe me pravasan aur Atlantic route — UPSC ke liye mahatvapurna.",
+      "source": "Reuters",
+      "source_url": "https://www.reuters.com/world/africa/nearly-1500-migrants-arrive-canary-islands-one-day-2026-11-15/",
+      "genuineness": "verified",
+      "outlets": [
+        "Reuters",
+        "EFE",
+        "Tenerife News"
+      ],
+      "image": null,
+      "image_credit": null
+    },
+    {
+      "id": "world-20261115-2022-03",
+      "published_ist": "2026-11-15T18:04:00+05:30",
+      "headline": "Bahrain ne UN se Iran par karvai mangi",
+      "detail": "Bahrain ne UN Security Council se Iran ke hamlo ki ninda aur sakht karvai ki maang ki; G7 ne bhi hamlo ki ninda ki, jabki Iran ne jawab jaari rakhne ki baat kahi.",
+      "category": "World",
+      "exam_angle": "West Asia me tanav aur UN Security Council — UPSC ke liye mahatvapurna.",
+      "source": "Gulf News",
+      "source_url": "https://gulfnews.com/world/gulf/bahrain/bahrain-issues-potential-threat-alert-urges-residents-to-seek-safety-1.500747795",
+      "genuineness": "verified",
+      "outlets": [
+        "Gulf News",
+        "Al Jazeera",
+        "The Indian Messenger"
+      ],
+      "image": null,
+      "image_credit": null
     }
   ]
 }
