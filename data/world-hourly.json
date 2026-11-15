@@ -1,6 +1,44 @@
 {
-  "updated_ist": "2026-11-15T17:25:06+05:30",
+  "updated_ist": "2026-11-15T18:24:48+05:30",
   "items": [
+    {
+      "id": "world-20261115-1822-01",
+      "published_ist": "2026-11-14T22:23:00+05:30",
+      "headline": "Zelensky: Donbas chhodo to NATO sadasyata",
+      "detail": "Zelensky ne kaha America ke vartakaron ne Abu Dhabi vartao me prastav diya ki Ukraine Donbas chhod de to NATO sadasyata mil sakti hai; unhone kshetra chhodne se inkar kiya, lekin suraksha package mile to janmat sangrah ki baat kahi.",
+      "category": "World",
+      "exam_angle": "Ukraine yuddh aur NATO vistar — UPSC ke liye mahatvapurna.",
+      "source": "Reuters",
+      "source_url": "https://www.reuters.com/world/europe/us-floated-idea-ukraine-ceding-donbas-nato-membership-zelenskiy-says-2026-11-14/",
+      "genuineness": "verified",
+      "outlets": [
+        "Reuters",
+        "Al Jazeera",
+        "CNN",
+        "The Observer"
+      ],
+      "image": "../images/world/world-20261115-1822-01.jpg",
+      "image_credit": "Xuthoria, Wikimedia Commons (CC BY-SA 4.0)"
+    },
+    {
+      "id": "world-20261115-1822-02",
+      "published_ist": "2026-11-15T07:21:00+05:30",
+      "headline": "Korea: topper ne AI se nakal mani",
+      "detail": "South Korea me tax accountant exam ke topper Han Won-seok ne mana ki usne chhote camera se sawal photo karke AI se jawab liye; 400 me se 397.5 ank laaye the, Seoul police ne jaanch shuru ki.",
+      "category": "World",
+      "exam_angle": "Pariksha me AI ka durupyog aur pariksha suraksha — UPSC ke liye mahatvapurna.",
+      "source": "The Korea Herald",
+      "source_url": "https://m.koreaherald.com/article/10937374",
+      "genuineness": "verified",
+      "outlets": [
+        "The Korea Herald",
+        "The Korea Times",
+        "Times of India",
+        "Malay Mail"
+      ],
+      "image": null,
+      "image_credit": null
+    },
     {
       "id": "world-20261115-1722-01",
       "published_ist": "2026-11-15T13:45:00+05:30",
@@ -406,42 +444,6 @@
       ],
       "image": "../images/world/world-20261115-0722-05.jpg",
       "image_credit": "Arab News"
-    },
-    {
-      "id": "world-20261115-0622-01",
-      "published_ist": "2026-11-15T01:22:00+05:30",
-      "headline": "Macron: Ukraine madad ghatao to phir yuddh",
-      "detail": "France ke rashtrapati Emmanuel Macron ne shanivaar ko kaha — Ukraine ki madad kam karna use 'anyaypoorn shanti' par majboor karega aur ye ek aur yuddh ki recipe hai; unhone Europe ki suraksha ke liye vittiya madad jaari rakhne ki maang ki.",
-      "category": "World",
-      "exam_angle": "Ukraine yuddh aur Europe ki suraksha — UPSC ke liye mahatvapurna.",
-      "source": "Arab News",
-      "source_url": "https://www.arabnews.com/world/reducing-ukraine-aid-sets-scene-for-more-war-macron-3011940",
-      "genuineness": "verified",
-      "outlets": [
-        "AFP",
-        "Le Monde",
-        "Al Mayadeen"
-      ],
-      "image": "../images/world/world-20261115-0622-01.jpg",
-      "image_credit": "Christophe Licoppe / European Union, Wikimedia Commons (CC BY 4.0)"
-    },
-    {
-      "id": "world-20261115-0622-02",
-      "published_ist": "2026-11-14T20:55:00+05:30",
-      "headline": "South Sudan: pehla chunav phir tala, February 2027",
-      "detail": "South Sudan ne azadi ke baad ke pehle rashtriya chunav phir taale — 22 December ki jagah ab 11 February 2027 ko matdan hoga; chunav aayog ne wajah nahi batayi, aur taiyari ke liye maange gaye $276 million me se sirf $21 million mile hain.",
-      "category": "World",
-      "exam_angle": "Africa me loktantra aur chunav taiyari — UPSC ke liye mahatvapurna.",
-      "source": "Arab News",
-      "source_url": "https://www.arabnews.com/world/south-sudan-postpones-first-national-elections-again-to-february-2027-3011871",
-      "genuineness": "verified",
-      "outlets": [
-        "Reuters",
-        "Arab News",
-        "CGTN"
-      ],
-      "image": "../images/world/world-20261115-0622-02.jpg",
-      "image_credit": "Stein Ove Korneliussen / Wikimedia Commons (CC BY 2.0)"
     }
   ]
 }
