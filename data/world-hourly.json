@@ -1,6 +1,60 @@
 {
- "updated_ist": "2026-11-15T11:25:00+05:30",
+ "updated_ist": "2026-11-15T12:25:00+05:30",
  "items": [
+  {
+   "id": "world-20261115-1222-01",
+   "published_ist": "2026-11-15T06:33:00+05:30",
+   "headline": "Hormuz: teen tanker me aag, Iran ka daava",
+   "detail": "Iran ki nausena ka daava hai ki Hormuz jalmarg me teen tel tanker samudri surang se takrakar aag me lapet gaye; swatantra pushti abhi nahi hui hai, aur America ke anusaar marg saaf kiya ja chuka hai.",
+   "category": "World",
+   "exam_angle": "Hormuz jalmarg, Iran-America tanav aur Bharat ki urja suraksha — UPSC ke liye mahatvapurna.",
+   "source": "The Times of India",
+   "source_url": "https://timesofindia.indiatimes.com/world/middle-east/iran-claims-three-tankers-hit-naval-mines-near-hormuz-warns-ships-against-entering-restricted-zone/articleshow/135849046.cms",
+   "genuineness": "corroborated",
+   "outlets": [
+    "The Times of India",
+    "The Manila Times",
+    "The Chosun Ilbo"
+   ],
+   "image": null,
+   "image_credit": null
+  },
+  {
+   "id": "world-20261115-1222-02",
+   "published_ist": "2026-11-15T07:14:00+05:30",
+   "headline": "Kate aur William Mumbai aayenge, Earthshot 17 November",
+   "detail": "Kensington Palace ne 14 November ko ghoshna ki — Prince William aur Kate Middleton 17 November ko Mumbai me Earthshot Prize samaroh me shamil honge; ye 2022 ke baad unki pehli sanyukt videsh yatra hai.",
+   "category": "World",
+   "exam_angle": "Earthshot Prize aur Bharat-Britain sambandh — UPSC ke liye mahatvapurna.",
+   "source": "The Times of India",
+   "source_url": "https://timesofindia.indiatimes.com/world/uk/prince-william-kate-middleton-to-attend-earthshot-prize-in-mumbai-in-first-joint-overseas-tour-since-2022/articleshow/135845243.cms",
+   "genuineness": "verified",
+   "outlets": [
+    "Reuters",
+    "Gulf News",
+    "The Straits Times"
+   ],
+   "image": null,
+   "image_credit": null
+  },
+  {
+   "id": "world-20261115-1222-03",
+   "published_ist": "2026-11-15T06:25:00+05:30",
+   "headline": "France me paanchve hafte bhi lakhon ka pradarshan",
+   "detail": "France me shanivaar ko paanchve lagataar hafte mehangai aur police vidheyak ke khilaf pradarshan hue — grih mantralaya ke anusaar 1,06,000 log, aayojakon ke anusaar 2,00,000; mangalvaar ko phir hadtaal ka ailaan hai.",
+   "category": "World",
+   "exam_angle": "France me jan-andolan aur loktantra — UPSC ke liye mahatvapurna.",
+   "source": "Malay Mail",
+   "source_url": "https://www.malaymail.com/news/world/2026/11/15/more-than-100000-march-across-france-as-protests-enter-fifth-weekend/243325",
+   "genuineness": "verified",
+   "outlets": [
+    "Agence France-Presse",
+    "Euronews",
+    "Times Now"
+   ],
+   "image": null,
+   "image_credit": null
+  },
   {
    "id": "world-20261115-1125-03",
    "published_ist": "2026-11-15T10:41:00+05:30",
@@ -396,44 +450,6 @@
     "Al Jazeera",
     "Sunday Guardian Live",
     "Interbellum News"
-   ],
-   "image": null,
-   "image_credit": null
-  },
-  {
-   "id": "world-20261114-1422-01",
-   "published_ist": "2026-11-14T12:48:00+05:30",
-   "headline": "Microsoft ki saari services phir chalu",
-   "detail": "24 ghante se zyada chale global outage ke baad Microsoft ne kaha Outlook, Teams aur Copilot samet saari services phir se chalu ho gayi; network upgrade me takniki kharabi wajah thi, cyber hamla nahi.",
-   "category": "World",
-   "exam_angle": "Mahatvapurna digital sevaon par nirbharta aur unki kamzori — UPSC ke liye mahatvapurna.",
-   "source": "ETV Bharat",
-   "source_url": "https://www.etvbharat.com/en/technology/microsoft-outage-resolved-outlook-teams-copilot-services-restored-enn26111401887",
-   "genuineness": "verified",
-   "outlets": [
-    "The Telegraph",
-    "The New Indian Express",
-    "Khaleej Times",
-    "ETV Bharat"
-   ],
-   "image": null,
-   "image_credit": null
-  },
-  {
-   "id": "world-20261114-2222-04",
-   "published_ist": "2026-11-14T12:15:00+05:30",
-   "headline": "America ne 26 saal baad measles status khoya",
-   "detail": "Reports ke mutabik PAHO ne America ka measles elimination status khatm kar diya — 12 mahine se lagatar sankraman ke baad; 2026 me 5,400 se zyada case mile, ye darja 2000 se tha.",
-   "category": "World",
-   "exam_angle": "Jan swasthya, teekakaran aur WHO ki bhoomika — UPSC ke liye mahatvapurna.",
-   "source": "The Standard",
-   "source_url": "https://www.thestandard.com.hk/world/article/348484/US-loses-measles-free-status-after-continued-spread-of-the-disease-WSJ-reports",
-   "genuineness": "corroborated",
-   "outlets": [
-    "Wall Street Journal",
-    "Reuters",
-    "CNN",
-    "Axios"
    ],
    "image": null,
    "image_credit": null
