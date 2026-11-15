@@ -1,56 +1,38 @@
 {
- "updated_ist": "2026-11-15T12:25:00+05:30",
+ "updated_ist": "2026-11-15T13:24:00+05:30",
  "items": [
   {
-   "id": "world-20261115-1222-01",
-   "published_ist": "2026-11-15T06:33:00+05:30",
-   "headline": "Hormuz: teen tanker me aag, Iran ka daava",
-   "detail": "Iran ki nausena ka daava hai ki Hormuz jalmarg me teen tel tanker samudri surang se takrakar aag me lapet gaye; swatantra pushti abhi nahi hui hai, aur America ke anusaar marg saaf kiya ja chuka hai.",
+   "id": "world-20261115-1324-01",
+   "published_ist": "2026-11-15T12:43:00+05:30",
+   "headline": "Damascus: car bomb me pita-beti mare gaye",
+   "detail": "Damascus ke Jaramana ilaake me shanivaar shaam car bomb phata — ek aadmi aur uski beti mare gaye, ek mahila ghayal; suraksha balon ne jaanch shuru ki, kisi ne zimmedari nahi li.",
    "category": "World",
-   "exam_angle": "Hormuz jalmarg, Iran-America tanav aur Bharat ki urja suraksha — UPSC ke liye mahatvapurna.",
-   "source": "The Times of India",
-   "source_url": "https://timesofindia.indiatimes.com/world/middle-east/iran-claims-three-tankers-hit-naval-mines-near-hormuz-warns-ships-against-entering-restricted-zone/articleshow/135849046.cms",
-   "genuineness": "corroborated",
-   "outlets": [
-    "The Times of India",
-    "The Manila Times",
-    "The Chosun Ilbo"
-   ],
-   "image": null,
-   "image_credit": null
-  },
-  {
-   "id": "world-20261115-1222-02",
-   "published_ist": "2026-11-15T07:14:00+05:30",
-   "headline": "Kate aur William Mumbai aayenge, Earthshot 17 November",
-   "detail": "Kensington Palace ne 14 November ko ghoshna ki — Prince William aur Kate Middleton 17 November ko Mumbai me Earthshot Prize samaroh me shamil honge; ye 2022 ke baad unki pehli sanyukt videsh yatra hai.",
-   "category": "World",
-   "exam_angle": "Earthshot Prize aur Bharat-Britain sambandh — UPSC ke liye mahatvapurna.",
-   "source": "The Times of India",
-   "source_url": "https://timesofindia.indiatimes.com/world/uk/prince-william-kate-middleton-to-attend-earthshot-prize-in-mumbai-in-first-joint-overseas-tour-since-2022/articleshow/135845243.cms",
-   "genuineness": "verified",
-   "outlets": [
-    "Reuters",
-    "Gulf News",
-    "The Straits Times"
-   ],
-   "image": null,
-   "image_credit": null
-  },
-  {
-   "id": "world-20261115-1222-03",
-   "published_ist": "2026-11-15T06:25:00+05:30",
-   "headline": "France me paanchve hafte bhi lakhon ka pradarshan",
-   "detail": "France me shanivaar ko paanchve lagataar hafte mehangai aur police vidheyak ke khilaf pradarshan hue — grih mantralaya ke anusaar 1,06,000 log, aayojakon ke anusaar 2,00,000; mangalvaar ko phir hadtaal ka ailaan hai.",
-   "category": "World",
-   "exam_angle": "France me jan-andolan aur loktantra — UPSC ke liye mahatvapurna.",
-   "source": "Malay Mail",
-   "source_url": "https://www.malaymail.com/news/world/2026/11/15/more-than-100000-march-across-france-as-protests-enter-fifth-weekend/243325",
+   "exam_angle": "Syria me suraksha sthiti aur West Asia — UPSC ke liye mahatvapurna.",
+   "source": "Gulf Today",
+   "source_url": "https://www.gulftoday.ae/news/2026/11/15/syria-car-bomb-kills-2-including-child",
    "genuineness": "verified",
    "outlets": [
     "Agence France-Presse",
-    "Euronews",
-    "Times Now"
+    "Al Jazeera",
+    "Associated Press"
+   ],
+   "image": null,
+   "image_credit": null
+  },
+  {
+   "id": "world-20261115-1324-02",
+   "published_ist": "2026-11-15T12:00:00+05:30",
+   "headline": "WHO: type 1 diabetes par pehli guidelines",
+   "detail": "WHO ne 14 November ko World Diabetes Day par vayaskon me type 1 diabetes ke liye pehli guidelines jaari ki — roz kai baar insulin injection aur sasti insulin tak pahunch par zor; duniya bhar me 95 lakh log isse peedit hain.",
+   "category": "World",
+   "exam_angle": "WHO, swasthya aur Bharat me diabetes bojh — UPSC ke liye mahatvapurna.",
+   "source": "The South First",
+   "source_url": "https://thesouthfirst.com/health/who-issues-first-guidelines-on-type-1-diabetes-in-adults-recommends-multiple-daily-insulin-injections/",
+   "genuineness": "verified",
+   "outlets": [
+    "The South First",
+    "Punch",
+    "Health and Me"
    ],
    "image": null,
    "image_credit": null
@@ -131,6 +113,60 @@
    "image_credit": null
   },
   {
+   "id": "world-20261115-1324-03",
+   "published_ist": "2026-11-15T07:50:00+05:30",
+   "headline": "COP31: Antalya me hazaaron ka pradarshan",
+   "detail": "Antalya me shanivaar ko hazaaron pradarshankariyon ne COP31 ke khilaf march kiya — police ke anusaar 7,000 se zyada log; vaarta aadhe raste par hai, jeevashm indhan aur vitt par matbhed barkaraar.",
+   "category": "World",
+   "exam_angle": "COP31, jalvayu vaarta aur Bharat ki sthiti — UPSC ke liye mahatvapurna.",
+   "source": "Malay Mail",
+   "source_url": "https://www.malaymail.com/news/world/2026/11/15/thousands-rally-against-cop31-as-climate-talks-hit-midpoint/243318",
+   "genuineness": "verified",
+   "outlets": [
+    "Agence France-Presse",
+    "The Irish Times",
+    "Qatar Tribune"
+   ],
+   "image": null,
+   "image_credit": null
+  },
+  {
+   "id": "world-20261115-1222-02",
+   "published_ist": "2026-11-15T07:14:00+05:30",
+   "headline": "Kate aur William Mumbai aayenge, Earthshot 17 November",
+   "detail": "Kensington Palace ne 14 November ko ghoshna ki — Prince William aur Kate Middleton 17 November ko Mumbai me Earthshot Prize samaroh me shamil honge; ye 2022 ke baad unki pehli sanyukt videsh yatra hai.",
+   "category": "World",
+   "exam_angle": "Earthshot Prize aur Bharat-Britain sambandh — UPSC ke liye mahatvapurna.",
+   "source": "The Times of India",
+   "source_url": "https://timesofindia.indiatimes.com/world/uk/prince-william-kate-middleton-to-attend-earthshot-prize-in-mumbai-in-first-joint-overseas-tour-since-2022/articleshow/135845243.cms",
+   "genuineness": "verified",
+   "outlets": [
+    "Reuters",
+    "Gulf News",
+    "The Straits Times"
+   ],
+   "image": null,
+   "image_credit": null
+  },
+  {
+   "id": "world-20261115-1222-01",
+   "published_ist": "2026-11-15T06:33:00+05:30",
+   "headline": "Hormuz: teen tanker me aag, Iran ka daava",
+   "detail": "Iran ki nausena ka daava hai ki Hormuz jalmarg me teen tel tanker samudri surang se takrakar aag me lapet gaye; swatantra pushti abhi nahi hui hai, aur America ke anusaar marg saaf kiya ja chuka hai.",
+   "category": "World",
+   "exam_angle": "Hormuz jalmarg, Iran-America tanav aur Bharat ki urja suraksha — UPSC ke liye mahatvapurna.",
+   "source": "The Times of India",
+   "source_url": "https://timesofindia.indiatimes.com/world/middle-east/iran-claims-three-tankers-hit-naval-mines-near-hormuz-warns-ships-against-entering-restricted-zone/articleshow/135849046.cms",
+   "genuineness": "corroborated",
+   "outlets": [
+    "The Times of India",
+    "The Manila Times",
+    "The Chosun Ilbo"
+   ],
+   "image": null,
+   "image_credit": null
+  },
+  {
    "id": "world-20261115-1022-01",
    "published_ist": "2026-11-15T06:30:42+05:30",
    "headline": "Gaza me Hamas ke bade commander mare gaye",
@@ -146,6 +182,24 @@
     "Agence France-Presse",
     "Arab News",
     "The Jerusalem Post"
+   ],
+   "image": null,
+   "image_credit": null
+  },
+  {
+   "id": "world-20261115-1222-03",
+   "published_ist": "2026-11-15T06:25:00+05:30",
+   "headline": "France me paanchve hafte bhi lakhon ka pradarshan",
+   "detail": "France me shanivaar ko paanchve lagataar hafte mehangai aur police vidheyak ke khilaf pradarshan hue — grih mantralaya ke anusaar 1,06,000 log, aayojakon ke anusaar 2,00,000; mangalvaar ko phir hadtaal ka ailaan hai.",
+   "category": "World",
+   "exam_angle": "France me jan-andolan aur loktantra — UPSC ke liye mahatvapurna.",
+   "source": "Malay Mail",
+   "source_url": "https://www.malaymail.com/news/world/2026/11/15/more-than-100000-march-across-france-as-protests-enter-fifth-weekend/243325",
+   "genuineness": "verified",
+   "outlets": [
+    "Agence France-Presse",
+    "Euronews",
+    "Times Now"
    ],
    "image": null,
    "image_credit": null
@@ -380,76 +434,18 @@
    "image_credit": null
   },
   {
-   "id": "world-20261114-2032-01",
-   "published_ist": "2026-11-14T14:17:00+05:30",
-   "headline": "Russia ki kadi shartein, kaidi adla-badli tay",
-   "detail": "Abu Dhabi baatchit me Russia ne NATO ko 1997 ki seemaon par lautane ki mang rakhi aur har taraf 1,000–1,500 kaidiyon ki adla-badli par sehmati bani; Finland ko NATO se nikaalne wali khabar par Kremlin ne inkar kiya.",
+   "id": "world-20261115-1324-04",
+   "published_ist": "2026-11-14T14:46:00+05:30",
+   "headline": "Trump: Iran par hamla rok sakte hain",
+   "detail": "Reuters ke anusaar Trump ne salaahkaaron se kaha — Tehran ya Houthi ki taraf se nayi uksaahat na ho to Iran par hamla roka ja sakta hai; Saudi aur Turkey ne bhi hamla na karne ki guzaarish ki hai.",
    "category": "World",
-   "exam_angle": "Ukraine yuddh, NATO vistaar aur Europe ki suraksha — UPSC ke liye mahatvapurna.",
-   "source": "The Week",
-   "source_url": "https://www.theweek.in/news/world/2026/11/14/what-are-russias-hardened-demands-for-ending-ukraine-war.html",
-   "genuineness": "verified",
+   "exam_angle": "America-Iran tanav, Hormuz aur Bharat ki urja suraksha — UPSC ke liye mahatvapurna.",
+   "source": "Reuters",
+   "source_url": "https://www.reuters.com/world/middle-east/trump-tells-advisers-he-may-hold-off-iran-attacks-barring-new-provocations-2026-11-14/",
+   "genuineness": "corroborated",
    "outlets": [
-    "Bild",
-    "The New York Times",
-    "The Week"
-   ],
-   "image": "../images/world/world-20261114-2032-01.jpg",
-   "image_credit": "The Week"
-  },
-  {
-   "id": "world-20261115-0722-03",
-   "published_ist": "2026-11-14T14:14:00+05:30",
-   "headline": "Tanker takkar: cruise boat palti, 32 ghayal",
-   "detail": "New Orleans me Mississippi nadi par ek tanker ne bandargah par khadi cruise boat American Heritage ko takkar maari — boat palat gayi, 197 yatri aur crew surakshit nikale gaye, 32 log aspatal me bharti hue, koi gambhir nahi.",
-   "category": "World",
-   "exam_angle": null,
-   "source": "Business Standard",
-   "source_url": "https://www.business-standard.com/amp/world-news/tanker-hits-cruise-ship-in-new-orleans-32-hospitalised-none-critical-126111400663_1.html",
-   "genuineness": "verified",
-   "outlets": [
-    "CNN",
-    "The Wall Street Journal",
-    "Associated Press",
-    "Gulf News",
-    "The Times"
-   ],
-   "image": "../images/world/world-20261115-0722-03.jpg",
-   "image_credit": "Business Standard"
-  },
-  {
-   "id": "world-20261114-2222-05",
-   "published_ist": "2026-11-14T13:54:00+05:30",
-   "headline": "Pakistan mantri 3 saal baad Bharat aayenge",
-   "detail": "Pakistan ke jalvayu mantri Musadik Masood Malik 20–22 November ko New Delhi me SCO Civilisational Dialogue me shamil honge — May 2023 ke baad kisi Pakistani mantri ki pehli Bharat yatra, aur May 2025 ke takraav ke baad bhi pehli.",
-   "category": "World",
-   "exam_angle": "SCO, Bharat-Pakistan sambandh aur kshetriya kootneeti — UPSC ke liye mahatvapurna.",
-   "source": "New Indian Express",
-   "source_url": "https://www.newindianexpress.com/world/2026/Nov/14/pakistan-minister-to-visit-india-for-first-time-in-three-years-for-sco-forum",
-   "genuineness": "verified",
-   "outlets": [
-    "The Hindu",
-    "Outlook India",
-    "Arab News",
-    "Khaleej Times"
-   ],
-   "image": null,
-   "image_credit": null
-  },
-  {
-   "id": "world-20261114-1722-01",
-   "published_ist": "2026-11-14T13:16:00+05:30",
-   "headline": "Hormuz: February se 25 navik mare gaye",
-   "detail": "UN ne Suraksha Parishad ko bataya ki February se Hormuz ke aas-paas 25 navik mare gaye — October sabse kharab mahina raha, aur Hormuz se jahaaz aana-jaana yuddh se pehle ke muqable lagbhag 65 pratishat kam ho gaya.",
-   "category": "World",
-   "exam_angle": "Hormuz se vishwa tel vyapaar aur samudri suraksha par asar — UPSC ke liye mahatvapurna.",
-   "source": "Al Jazeera",
-   "source_url": "https://www.aljazeera.com/amp/news/2026/11/14/un-says-25-seafarers-killed-in-around-hormuz-since-february",
-   "genuineness": "verified",
-   "outlets": [
-    "Al Jazeera",
-    "Sunday Guardian Live",
-    "Interbellum News"
+    "Reuters",
+    "The Jerusalem Post"
    ],
    "image": null,
    "image_credit": null
