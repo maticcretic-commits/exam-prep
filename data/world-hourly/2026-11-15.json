@@ -254,6 +254,61 @@
    ],
    "image": null,
    "image_credit": null
+  },
+  {
+   "id": "world-20261115-1125-01",
+   "published_ist": "2026-11-15T09:19:00+05:30",
+   "headline": "America me udaan sankat, hazaron flights radd",
+   "detail": "FAA ke router kharabi se shukravaar ko lagbhag 9,200 flights radd hui, shanivaar ko 6,150 se zyada; ravivaar der raat tak haal normal hone ki ummeed — L3Harris ke router ki jaanch chal rahi hai.",
+   "category": "World",
+   "exam_angle": "America me havaai yatra sankat aur ATC vyavastha — UPSC ke liye mahatvapurna.",
+   "source": "The Business Times",
+   "source_url": "https://www.businesstimes.com.sg/international/us-air-travel-issues-persist-well-sunday-officials-say-thousands-flights-affected",
+   "genuineness": "verified",
+   "outlets": [
+    "Reuters",
+    "The Statesman",
+    "India TV News",
+    "Sunday Guardian"
+   ],
+   "image": "../images/world/world-20261115-1125-01.jpg",
+   "image_credit": "The Business Times"
+  },
+  {
+   "id": "world-20261115-1125-02",
+   "published_ist": "2026-11-15T10:19:00+05:30",
+   "headline": "Philippines-Australia raksha samjhauta, 1995 deal update",
+   "detail": "Manila me Philippines aur Australia ne Defence Cooperation Arrangement par hastakshar kiye — 1995 ke samjhaute ka update, sanyukt sainya abhyas aur aapda madad me tezi aayegi; PM Albanese ne samjhaute ko dekha.",
+   "category": "World",
+   "exam_angle": "Indo-Pacific me raksha sahyog aur ASEAN — UPSC ke liye mahatvapurna.",
+   "source": "Reuters",
+   "source_url": "https://www.reuters.com/world/china/philippines-australia-sign-defence-pact-with-eye-china-2026-11-15/",
+   "genuineness": "verified",
+   "outlets": [
+    "Reuters",
+    "Rappler",
+    "The Manila Times"
+   ],
+   "image": null,
+   "image_credit": null
+  },
+  {
+   "id": "world-20261115-1125-03",
+   "published_ist": "2026-11-15T10:41:00+05:30",
+   "headline": "NATO: 2027 me Albania shikhar sammelan nahi",
+   "detail": "NATO ne 2027 me Albania me netaon ka shikhar sammelan na karne ka faisla kiya, mantri-stariya baithaken bhi kam hongi; mahasachiv Rutte ne kaha shikhar sammelan tab hoga jab zaroorat hogi, 2028 me Tirana mezban ho sakta hai.",
+   "category": "World",
+   "exam_angle": "NATO aur Europe ki suraksha vyavastha — UPSC ke liye mahatvapurna.",
+   "source": "Associated Press",
+   "source_url": "https://www.lanacion.com.ar/usa/nato-to-skip-a-leaders-summit-in-albania-next-year-as-high-level-meetings-are-scaled-back-nid15112026/",
+   "genuineness": "verified",
+   "outlets": [
+    "Associated Press",
+    "The Independent",
+    "Reuters"
+   ],
+   "image": null,
+   "image_credit": null
   }
  ]
 }
