@@ -142,6 +142,76 @@
     ],
     "answer_index": 1
    }
+  },
+  {
+   "episode": 123,
+   "video_hi": "ujXkMlYzWrQ",
+   "video_hinglish": "ujXkMlYzWrQ",
+   "capsules": [
+    {
+     "id": "ca-ep123-s1",
+     "headline_hi": "October mein record 90 billion dollar export",
+     "headline_hinglish": "October mein record 90 billion dollar export",
+     "detail_hi": "October 2026 mein kul export lagbhag nabbe billion dollar raha, saaman pachas aur sevayein chalees billion.",
+     "detail_hinglish": "October 2026 mein kul export lagbhag nabbe billion dollar raha, saaman pachas aur sevayein chalees billion.",
+     "category_hi": "Economy",
+     "category_en": "Economy"
+    },
+    {
+     "id": "ca-ep123-s2",
+     "headline_hi": "Vaibhav Sooryavanshi, T20 ke sabse chhote kaptan",
+     "headline_hinglish": "Vaibhav Sooryavanshi, T20 ke sabse chhote kaptan",
+     "detail_hi": "Syed Mushtaq Ali Trophy mein Saurashtra ke khilaf Bihar ki kaptani ki, umar sirf pandrah saal do sau battis din.",
+     "detail_hinglish": "Syed Mushtaq Ali Trophy mein Saurashtra ke khilaf Bihar ki kaptani ki, umar sirf pandrah saal do sau battis din.",
+     "category_hi": "Sports",
+     "category_en": "Sports"
+    },
+    {
+     "id": "ca-ep123-s3",
+     "headline_hi": "BIMSTEC swasthya mantriyon ki pehli baithak Colombo mein",
+     "headline_hinglish": "BIMSTEC swasthya mantriyon ki pehli baithak Colombo mein",
+     "detail_hi": "Saat BIMSTEC deshon ke mantri Colombo mein mile, 2026 se 2030 tak ke liye public health plan apnaya gaya.",
+     "detail_hinglish": "Saat BIMSTEC deshon ke mantri Colombo mein mile, 2026 se 2030 tak ke liye public health plan apnaya gaya.",
+     "category_hi": "International",
+     "category_en": "National"
+    },
+    {
+     "id": "ca-ep123-s4",
+     "headline_hi": "Chunav Aayog ne Supreme Court ko diya halafnama",
+     "headline_hinglish": "Chunav Aayog ne Supreme Court ko diya halafnama",
+     "detail_hi": "ECI ne Supreme Court ko bataya ki galti se voter list se bahar hue matdaataon ko wapas jodne ke liye aur kadam uthaye gaye hain.",
+     "detail_hinglish": "ECI ne Supreme Court ko bataya ki galti se voter list se bahar hue matdaataon ko wapas jodne ke liye aur kadam uthaye gaye hain.",
+     "category_hi": "Polity",
+     "category_en": "Polity"
+    },
+    {
+     "id": "ca-ep123-s5",
+     "headline_hi": "Chabad House ki recce karne wala giraftaar",
+     "headline_hinglish": "Chabad House ki recce karne wala giraftaar",
+     "detail_hi": "Maharashtra ATS ne bees saal ke Yash Singh ko giraftaar kiya, woh Mumbai mein recce kar raha tha.",
+     "detail_hinglish": "Maharashtra ATS ne bees saal ke Yash Singh ko giraftaar kiya, woh Mumbai mein recce kar raha tha.",
+     "category_hi": "Security",
+     "category_en": "National"
+    }
+   ],
+   "mcq": {
+    "id": "ca-ep123-mcq",
+    "q_hi": "October 2026 mein Bharat ka kul export kitna raha?",
+    "q_hinglish": "October 2026 mein Bharat ka kul export kitna raha?",
+    "options_hi": [
+     "70 billion dollar",
+     "80 billion dollar",
+     "90 billion dollar",
+     "100 billion dollar"
+    ],
+    "options_hinglish": [
+     "70 billion dollar",
+     "80 billion dollar",
+     "90 billion dollar",
+     "100 billion dollar"
+    ],
+    "answer_index": 2
+   }
   }
  ]
 }
