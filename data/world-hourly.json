@@ -1,63 +1,25 @@
 {
- "updated_ist": "2026-11-15T08:25:00+05:30",
+ "updated_ist": "2026-11-15T09:26:00+05:30",
  "items": [
   {
-   "id": "world-20261115-0822-01",
-   "published_ist": "2026-11-14T02:24:00+05:30",
-   "headline": "America me saari udaanen chaar ghante band",
-   "detail": "FAA ne telecom kharabi ke baad desh bhar me ground stop lagaya — 17 air traffic control kendra prabhavit, 4,700 se zyada udaanen radd aur 15 lakh se zyada yatri fase; shaam ko udaanen phir shuru hui, par cyber hamle ka koi saboot nahi mila.",
+   "id": "world-20261115-0926-01",
+   "published_ist": "2026-11-15T08:29:00+05:30",
+   "headline": "Riyadh par Houthi missile, hawai suraksha ne roka",
+   "detail": "Saudi gathbandhan ne ravivaar subah Riyadh ki taraf aaye Houthi ke do ballistic missile maar giraye; shanivaar ko bhi do drone nasht kiye gaye — 23 September se Houthi hamalon me Saudi me kam se kam 26 log mare gaye.",
    "category": "World",
-   "exam_angle": "9/11 ke baad se doosra desh-vyapi ground stop; purani air traffic control takneek par sawal — UPSC ke liye mahatvapurna.",
+   "exam_angle": "Khadi me tanav, Houthi hamle aur Bharat ki urja suraksha — UPSC ke liye mahatvapurna.",
    "source": "Al Jazeera",
-   "source_url": "https://www.aljazeera.com/news/2026/11/14/faa-ground-stop-lifted-why-were-us-flights-grounded-and-whats-next",
+   "source_url": "https://www.aljazeera.com/news/2026/11/15/saudi-led-coalition-intercepts-two-missiles-two-drones-in-riyadh",
    "genuineness": "verified",
    "outlets": [
     "Al Jazeera",
-    "CNN",
-    "USA Today",
-    "News18"
-   ],
-   "image": "../images/world/world-20261115-0822-01.jpg",
-   "image_credit": "Al Jazeera"
-  },
-  {
-   "id": "world-20261115-0822-02",
-   "published_ist": "2026-11-14T19:51:00+05:30",
-   "headline": "Manila me Quad shikhar sammelan, 17 November",
-   "detail": "Modi, Trump, Takaichi aur Albanese 17 November ki shaam Manila me milenge — 2024 ke baad pehla Quad shikhar sammelan, aur pehli baar kisi gair-Quad desh me; critical minerals aur samudri suraksha par baat hogi.",
-   "category": "World",
-   "exam_angle": "2024 ke baad pehla Quad shikhar sammelan; Bharat ki adhyakshata aur Indo-Pacific sahyog — UPSC ke liye mahatvapurna.",
-   "source": "The Hindu",
-   "source_url": "https://www.thehindu.com/news/international/quad-summit-likely-to-be-held-in-manila-on-november-17-sources-say/article71702178.ece",
-   "genuineness": "verified",
-   "outlets": [
-    "The Hindu",
-    "The Indian Express",
-    "News9",
-    "Reuters"
+    "Reuters",
+    "Arab News",
+    "Gulf News",
+    "Dawn"
    ],
    "image": null,
    "image_credit": null
-  },
-  {
-   "id": "world-20261115-0722-01",
-   "published_ist": "2026-11-14T09:59:00+05:30",
-   "headline": "Trump, Xi, Putin: pehli baar teenon saath",
-   "detail": "White House ne pushti ki — America, China aur Russia ke neta 19 November ko Shenzhen me APEC ke kinare pehli baar teen-pakshiya baithak karenge; parmanu hathiyar kam karne aur Iran yuddh par baat hogi, par kisi samjhote ki ummeed kam hai.",
-   "category": "World",
-   "exam_angle": "Teen parmanu shaktiyon ki pehli teen-pakshiya baithak; APEC aur parmanu hathiyar niyantran — UPSC ke liye mahatvapurna.",
-   "source": "The Hindu",
-   "source_url": "https://www.thehindu.com/news/international/trump-xi-and-putin-plan-an-unprecedented-joint-meeting-apec-summit-china/article71700699.ece",
-   "genuineness": "verified",
-   "outlets": [
-    "The Hindu",
-    "CNN",
-    "Channel News Asia",
-    "The Jerusalem Post",
-    "Business Standard"
-   ],
-   "image": "../images/world/world-20261115-0722-01.jpg",
-   "image_credit": "The Hindu"
   },
   {
    "id": "world-20261115-0722-02",
@@ -80,49 +42,10 @@
    "image_credit": null
   },
   {
-   "id": "world-20261115-0722-03",
-   "published_ist": "2026-11-14T14:14:00+05:30",
-   "headline": "Tanker takkar: cruise boat palti, 32 ghayal",
-   "detail": "New Orleans me Mississippi nadi par ek tanker ne bandargah par khadi cruise boat American Heritage ko takkar maari — boat palat gayi, 197 yatri aur crew surakshit nikale gaye, 32 log aspatal me bharti hue, koi gambhir nahi.",
-   "category": "World",
-   "exam_angle": null,
-   "source": "Business Standard",
-   "source_url": "https://www.business-standard.com/amp/world-news/tanker-hits-cruise-ship-in-new-orleans-32-hospitalised-none-critical-126111400663_1.html",
-   "genuineness": "verified",
-   "outlets": [
-    "CNN",
-    "The Wall Street Journal",
-    "Associated Press",
-    "Gulf News",
-    "The Times"
-   ],
-   "image": "../images/world/world-20261115-0722-03.jpg",
-   "image_credit": "Business Standard"
-  },
-  {
-   "id": "world-20261115-0722-04",
-   "published_ist": "2026-11-14T14:49:00+05:30",
-   "headline": "Qatar-Turkey: hamle par ek saath khade honge",
-   "detail": "Turkey aur Qatar ne Istanbul me paraspar raksha samjhota kiya — kisi bhi bahari hamle par dono ek saath khade honge, suraksha khatron par salah-mashwara aur sanyukt sainya abhyas badhenge.",
-   "category": "World",
-   "exam_angle": "Khadi me raksha samjhote aur kshetriya suraksha — UPSC ke liye mahatvapurna.",
-   "source": "Al Jazeera",
-   "source_url": "https://www.aljazeera.com/news/2026/11/13/turkiye-and-qatar-sign-mutual-defence-agreement",
-   "genuineness": "verified",
-   "outlets": [
-    "Al Jazeera",
-    "Reuters",
-    "Malay Mail",
-    "Gulf News"
-   ],
-   "image": null,
-   "image_credit": null
-  },
-  {
    "id": "world-20261115-0722-05",
    "published_ist": "2026-11-15T05:36:00+05:30",
    "headline": "Manila me ASEAN shikhar sammelan shuru",
-   "detail": "Manila me 49th ASEAN shikhar sammelan shuru hua — vyapaar, suraksha aur urja sankat par charcha hogi; Trump 17 November ko ASEAN-America shikhar sammelan me shamil honge aur Quad deshon se bhi milenge.",
+   "detail": "Manila me 49th ASEAN shikhar sammelan shuru hua — Marcos Jr. ne udghatan samaroh ki adhyakshata ki aur Australia-Philippines raksha samjhote par hastakshar honge; vyapaar, suraksha aur urja sankat par charcha hogi, Trump 17 November ko ASEAN-America shikhar sammelan me shamil honge aur Quad deshon se bhi milenge.",
    "category": "World",
    "exam_angle": "ASEAN, Quad aur Bharat ki Act East neeti — UPSC ke liye mahatvapurna.",
    "source": "Arab News",
@@ -175,58 +98,41 @@
    "image_credit": "Stein Ove Korneliussen / Wikimedia Commons (CC BY 2.0)"
   },
   {
-   "id": "world-20261114-2222-03",
-   "published_ist": "2026-11-14T10:49:00+05:30",
-   "headline": "Alaska: 1998 ke baad pehla Democrat governor",
-   "detail": "37 saal ke Jonathan Kreiss-Tomkins ne Alaska ke governor ka chunav jeeta — 1998 ke baad pehle Democrat aur rajya ke sabse kam umr ke governor; 7 December ko shapath lenge, parinam 25 November ko pramanit hoga.",
+   "id": "world-20261115-0926-02",
+   "published_ist": "2026-11-14T19:55:00+05:30",
+   "headline": "Italy ne Meta par €805 million jurmana",
+   "detail": "Italy ke data regulator ne Facebook ko Android users ki gallery se bina anumati photo-video lene par €805 million (lagbhag $887 million) ka jurmana lagaya — lagbhag 2 crore users prabhavit hue, Meta ko 60 din me feature band karna hoga.",
    "category": "World",
-   "exam_angle": "America ke madhyaavadhi chunav aur rajya rajneeti — UPSC ke liye mahatvapurna.",
-   "source": "The Week",
-   "source_url": "https://www.theweek.in/wire-updates/international/2026/11/14/kreiss-tomkins-becomes-first-democrat-since-1998-elected-governor-in-alaska.html",
+   "exam_angle": "Data privacy, GDPR aur badi tech companies par niyaman — UPSC ke liye mahatvapurna.",
+   "source": "Telegraph India",
+   "source_url": "https://www.telegraphindia.com/amp/world/italy-fines-meta-usd-887-million-over-facebook-feature-accessing-android-users-photos/cid/2189450",
    "genuineness": "verified",
    "outlets": [
-    "Associated Press",
-    "Haaretz",
-    "Financial Express",
-    "Times Now"
-   ],
-   "image": "../images/world/world-20261114-2222-03.jpg",
-   "image_credit": "Gillfoto / Wikimedia Commons (CC BY-SA 4.0)"
-  },
-  {
-   "id": "world-20261114-2222-04",
-   "published_ist": "2026-11-14T12:15:00+05:30",
-   "headline": "America ne 26 saal baad measles status khoya",
-   "detail": "Reports ke mutabik PAHO ne America ka measles elimination status khatm kar diya — 12 mahine se lagatar sankraman ke baad; 2026 me 5,400 se zyada case mile, ye darja 2000 se tha.",
-   "category": "World",
-   "exam_angle": "Jan swasthya, teekakaran aur WHO ki bhoomika — UPSC ke liye mahatvapurna.",
-   "source": "The Standard",
-   "source_url": "https://www.thestandard.com.hk/world/article/348484/US-loses-measles-free-status-after-continued-spread-of-the-disease-WSJ-reports",
-   "genuineness": "corroborated",
-   "outlets": [
-    "Wall Street Journal",
-    "Reuters",
-    "CNN",
-    "Axios"
+    "Telegraph India",
+    "BBC",
+    "Politico Europe",
+    "CBS News",
+    "Bloomberg",
+    "ETV Bharat"
    ],
    "image": null,
    "image_credit": null
   },
   {
-   "id": "world-20261114-2222-05",
-   "published_ist": "2026-11-14T13:54:00+05:30",
-   "headline": "Pakistan mantri 3 saal baad Bharat aayenge",
-   "detail": "Pakistan ke jalvayu mantri Musadik Masood Malik 20–22 November ko New Delhi me SCO Civilisational Dialogue me shamil honge — May 2023 ke baad kisi Pakistani mantri ki pehli Bharat yatra, aur May 2025 ke takraav ke baad bhi pehli.",
+   "id": "world-20261115-0822-02",
+   "published_ist": "2026-11-14T19:51:00+05:30",
+   "headline": "Manila me Quad shikhar sammelan, 17 November",
+   "detail": "Modi, Trump, Takaichi aur Albanese 17 November ki shaam Manila me milenge — 2024 ke baad pehla Quad shikhar sammelan, aur pehli baar kisi gair-Quad desh me; critical minerals aur samudri suraksha par baat hogi.",
    "category": "World",
-   "exam_angle": "SCO, Bharat-Pakistan sambandh aur kshetriya kootneeti — UPSC ke liye mahatvapurna.",
-   "source": "New Indian Express",
-   "source_url": "https://www.newindianexpress.com/world/2026/Nov/14/pakistan-minister-to-visit-india-for-first-time-in-three-years-for-sco-forum",
+   "exam_angle": "2024 ke baad pehla Quad shikhar sammelan; Bharat ki adhyakshata aur Indo-Pacific sahyog — UPSC ke liye mahatvapurna.",
+   "source": "The Hindu",
+   "source_url": "https://www.thehindu.com/news/international/quad-summit-likely-to-be-held-in-manila-on-november-17-sources-say/article71702178.ece",
    "genuineness": "verified",
    "outlets": [
     "The Hindu",
-    "Outlook India",
-    "Arab News",
-    "Khaleej Times"
+    "The Indian Express",
+    "News9",
+    "Reuters"
    ],
    "image": null,
    "image_credit": null
@@ -249,6 +155,25 @@
    ],
    "image": "../images/world/world-20261114-2032-02.jpg",
    "image_credit": "Bulgarian Presidency, Wikimedia Commons, CC BY 2.5 bg"
+  },
+  {
+   "id": "world-20261115-0926-03",
+   "published_ist": "2026-11-14T17:36:00+05:30",
+   "headline": "Pope Leo Peru laute, lakhon ne swagat kiya",
+   "detail": "Pope Leo XIV Peru laut aaye — Lima me 30 lakh logon ne swagat kiya, Chiclayo me 15 lakh ki Mass hui, aur shanivaar ko Andes ke gaon me unhone garibi aur palayan par 'suffering' ki chetavani di.",
+   "category": "World",
+   "exam_angle": "Pope ka pehla Latin America daura; Vatican kootneeti — UPSC ke liye mahatvapurna.",
+   "source": "Arab News",
+   "source_url": "https://www.arabnews.com/world/pope-says-inca-heartland-suffering-as-villages-empty-3011959",
+   "genuineness": "verified",
+   "outlets": [
+    "Agence France-Presse",
+    "Al Jazeera",
+    "Le Monde",
+    "Deutsche Welle"
+   ],
+   "image": "../images/world/world-20261115-0926-03.jpg",
+   "image_credit": "GORE Callao, Wikimedia Commons (Public domain)"
   },
   {
    "id": "world-20261114-1926-01",
@@ -307,6 +232,25 @@
    "image_credit": null
   },
   {
+   "id": "world-20261115-0722-04",
+   "published_ist": "2026-11-14T14:49:00+05:30",
+   "headline": "Qatar-Turkey: hamle par ek saath khade honge",
+   "detail": "Turkey aur Qatar ne Istanbul me paraspar raksha samjhota kiya — kisi bhi bahari hamle par dono ek saath khade honge, suraksha khatron par salah-mashwara aur sanyukt sainya abhyas badhenge.",
+   "category": "World",
+   "exam_angle": "Khadi me raksha samjhote aur kshetriya suraksha — UPSC ke liye mahatvapurna.",
+   "source": "Al Jazeera",
+   "source_url": "https://www.aljazeera.com/news/2026/11/13/turkiye-and-qatar-sign-mutual-defence-agreement",
+   "genuineness": "verified",
+   "outlets": [
+    "Al Jazeera",
+    "Reuters",
+    "Malay Mail",
+    "Gulf News"
+   ],
+   "image": null,
+   "image_credit": null
+  },
+  {
    "id": "world-20261114-2032-01",
    "published_ist": "2026-11-14T14:17:00+05:30",
    "headline": "Russia ki kadi shartein, kaidi adla-badli tay",
@@ -323,6 +267,45 @@
    ],
    "image": "../images/world/world-20261114-2032-01.jpg",
    "image_credit": "The Week"
+  },
+  {
+   "id": "world-20261115-0722-03",
+   "published_ist": "2026-11-14T14:14:00+05:30",
+   "headline": "Tanker takkar: cruise boat palti, 32 ghayal",
+   "detail": "New Orleans me Mississippi nadi par ek tanker ne bandargah par khadi cruise boat American Heritage ko takkar maari — boat palat gayi, 197 yatri aur crew surakshit nikale gaye, 32 log aspatal me bharti hue, koi gambhir nahi.",
+   "category": "World",
+   "exam_angle": null,
+   "source": "Business Standard",
+   "source_url": "https://www.business-standard.com/amp/world-news/tanker-hits-cruise-ship-in-new-orleans-32-hospitalised-none-critical-126111400663_1.html",
+   "genuineness": "verified",
+   "outlets": [
+    "CNN",
+    "The Wall Street Journal",
+    "Associated Press",
+    "Gulf News",
+    "The Times"
+   ],
+   "image": "../images/world/world-20261115-0722-03.jpg",
+   "image_credit": "Business Standard"
+  },
+  {
+   "id": "world-20261114-2222-05",
+   "published_ist": "2026-11-14T13:54:00+05:30",
+   "headline": "Pakistan mantri 3 saal baad Bharat aayenge",
+   "detail": "Pakistan ke jalvayu mantri Musadik Masood Malik 20–22 November ko New Delhi me SCO Civilisational Dialogue me shamil honge — May 2023 ke baad kisi Pakistani mantri ki pehli Bharat yatra, aur May 2025 ke takraav ke baad bhi pehli.",
+   "category": "World",
+   "exam_angle": "SCO, Bharat-Pakistan sambandh aur kshetriya kootneeti — UPSC ke liye mahatvapurna.",
+   "source": "New Indian Express",
+   "source_url": "https://www.newindianexpress.com/world/2026/Nov/14/pakistan-minister-to-visit-india-for-first-time-in-three-years-for-sco-forum",
+   "genuineness": "verified",
+   "outlets": [
+    "The Hindu",
+    "Outlook India",
+    "Arab News",
+    "Khaleej Times"
+   ],
+   "image": null,
+   "image_credit": null
   },
   {
    "id": "world-20261114-1722-01",
@@ -362,6 +345,25 @@
    "image_credit": null
   },
   {
+   "id": "world-20261114-2222-04",
+   "published_ist": "2026-11-14T12:15:00+05:30",
+   "headline": "America ne 26 saal baad measles status khoya",
+   "detail": "Reports ke mutabik PAHO ne America ka measles elimination status khatm kar diya — 12 mahine se lagatar sankraman ke baad; 2026 me 5,400 se zyada case mile, ye darja 2000 se tha.",
+   "category": "World",
+   "exam_angle": "Jan swasthya, teekakaran aur WHO ki bhoomika — UPSC ke liye mahatvapurna.",
+   "source": "The Standard",
+   "source_url": "https://www.thestandard.com.hk/world/article/348484/US-loses-measles-free-status-after-continued-spread-of-the-disease-WSJ-reports",
+   "genuineness": "corroborated",
+   "outlets": [
+    "Wall Street Journal",
+    "Reuters",
+    "CNN",
+    "Axios"
+   ],
+   "image": null,
+   "image_credit": null
+  },
+  {
    "id": "world-20261114-1222-01",
    "published_ist": "2026-11-14T10:55:00+05:30",
    "headline": "Iran ne Khadi deshon par 7,000 hamle kiye",
@@ -378,6 +380,25 @@
    ],
    "image": "../images/world/world-20261114-1222-01.jpg",
    "image_credit": "Jdforrester / Wikimedia Commons (CC BY 4.0)"
+  },
+  {
+   "id": "world-20261114-2222-03",
+   "published_ist": "2026-11-14T10:49:00+05:30",
+   "headline": "Alaska: 1998 ke baad pehla Democrat governor",
+   "detail": "37 saal ke Jonathan Kreiss-Tomkins ne Alaska ke governor ka chunav jeeta — 1998 ke baad pehle Democrat aur rajya ke sabse kam umr ke governor; 7 December ko shapath lenge, parinam 25 November ko pramanit hoga.",
+   "category": "World",
+   "exam_angle": "America ke madhyaavadhi chunav aur rajya rajneeti — UPSC ke liye mahatvapurna.",
+   "source": "The Week",
+   "source_url": "https://www.theweek.in/wire-updates/international/2026/11/14/kreiss-tomkins-becomes-first-democrat-since-1998-elected-governor-in-alaska.html",
+   "genuineness": "verified",
+   "outlets": [
+    "Associated Press",
+    "Haaretz",
+    "Financial Express",
+    "Times Now"
+   ],
+   "image": "../images/world/world-20261114-2222-03.jpg",
+   "image_credit": "Gillfoto / Wikimedia Commons (CC BY-SA 4.0)"
   },
   {
    "id": "world-20261114-1422-02",
@@ -432,24 +453,6 @@
    ],
    "image": "../images/world/world-20261114-1322-01.jpg",
    "image_credit": "Jürgen Matern / Wikimedia Commons (CC BY-SA 3.0)"
-  },
-  {
-   "id": "world-20261114-1122-01",
-   "published_ist": "2026-11-14T09:33:00+05:30",
-   "headline": "ICC ne America sainikon ki jaanch band ki",
-   "detail": "ICC ke nyayadhishon ne Afghanistan me America ke sainikon par kathit apradhon ki jaanch aupcharik roop se band kar di — ab sirf 2021 ke baad Taliban ke karwaiyon par dhyaan rahega; abhiyojak ne faisle ke khilaf appeal ki hai.",
-   "category": "World",
-   "exam_angle": "ICC ki jaanch par America ke pratibandh aur antarrashtriya kanoon par asar — UPSC ke liye mahatvapurna.",
-   "source": "Al Jazeera",
-   "source_url": "https://www.aljazeera.com/amp/news/2026/11/14/icc-stops-probe-into-alleged-crimes-by-us-troops-in-afghanistan",
-   "genuineness": "verified",
-   "outlets": [
-    "Reuters",
-    "Al Jazeera",
-    "Associated Press"
-   ],
-   "image": null,
-   "image_credit": null
   }
  ]
 }
