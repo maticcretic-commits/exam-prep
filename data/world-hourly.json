@@ -1,6 +1,82 @@
 {
-  "updated_ist": "2026-11-15T21:28:29+05:30",
+  "updated_ist": "2026-11-15T22:27:44+05:30",
   "items": [
+    {
+      "id": "world-20261115-2227-01",
+      "published_ist": "2026-11-15T21:15:00+05:30",
+      "headline": "Hormuz me supertanker dooba, Iran ka daava",
+      "detail": "Iran ke Revolutionary Guards ne kaha Hormuz me mine se takrakar do tanker phate, 20 lakh barrel wala supertanker doob gaya; swatantra pushti abhi nahi, UKMTO ne alag tanker hamle ki khabar di.",
+      "category": "World",
+      "exam_angle": "Hormuz jaladmaru aur tel vyapar, West Asia tanav — UPSC ke liye mahatvapurna.",
+      "source": "The Times of India",
+      "source_url": "https://timesofindia.indiatimes.com/world/middle-east/supertanker-with-2-million-barrels-of-oil-sinks-after-hitting-mine-in-strait-of-hormuz/articleshow/135858960.cms",
+      "genuineness": "corroborated",
+      "outlets": [
+        "The Times of India",
+        "Gulf News",
+        "Al Jazeera",
+        "The Standard"
+      ],
+      "image": null,
+      "image_credit": null
+    },
+    {
+      "id": "world-20261115-2227-02",
+      "published_ist": "2026-11-15T06:30:00+05:30",
+      "headline": "Hamas ka Rafah commander hamle me mara",
+      "detail": "Israel ne kaha Gaza me hawai hamle me Hamas ke Rafah Brigade commander Samir Abu Younis mare gaye; Hamas ne bhi maut ki pushti ki — ve 7 October hamle ki yojana me shamil the.",
+      "category": "World",
+      "exam_angle": "Gaza yuddhaviram ke beech Hamas-Israel tanav — UPSC ke liye mahatvapurna.",
+      "source": "Al Jazeera",
+      "source_url": "https://www.aljazeera.com/amp/news/2026/11/15/israeli-air-strike-kills-senior-hamas-commander-in-gaza",
+      "genuineness": "verified",
+      "outlets": [
+        "Al Jazeera",
+        "CNN",
+        "The Times of Israel",
+        "Haaretz",
+        "The National",
+        "Al Arabiya"
+      ],
+      "image": null,
+      "image_credit": null
+    },
+    {
+      "id": "world-20261115-2227-03",
+      "published_ist": "2026-11-15T18:59:00+05:30",
+      "headline": "Estonia ne GRU ki todfod koshish nakam ki",
+      "detail": "Estonia ne kaha drone banane wali Threod Systems par 14 November ki subah aag lagane ki koshish ko roka; GRU par aarop, Latvia ke rehne wale 8 log giraftaar.",
+      "category": "World",
+      "exam_angle": "Europe me hybrid yuddh aur NATO ki purvi seema — UPSC ke liye mahatvapurna.",
+      "source": "The Straits Times",
+      "source_url": "https://www.straitstimes.com/world/europe/estonia-foils-russian-sabotage-at-drone-factory?ref=latest",
+      "genuineness": "verified",
+      "outlets": [
+        "The Straits Times",
+        "Kyiv Post",
+        "WION",
+        "Demócrata"
+      ],
+      "image": null,
+      "image_credit": null
+    },
+    {
+      "id": "world-20261115-2227-04",
+      "published_ist": "2026-11-15T17:44:00+05:30",
+      "headline": "Guatemala me 30 din ki emergency",
+      "detail": "Drug hinsa ke baad Guatemala ne Zacapa aur Izabal me 30 din ki emergency lagayi; ek hafte pehle sansad aur teen police wale mare gaye the.",
+      "category": "World",
+      "exam_angle": "Latin America me drug cartel hinsa — UPSC ke liye mahatvapurna.",
+      "source": "The Hindu",
+      "source_url": "https://www.thehindu.com/news/international/guatemala-declares-state-of-emergency-in-east-over-drug-violence/article71704647.ece",
+      "genuineness": "corroborated",
+      "outlets": [
+        "The Hindu",
+        "The Times of India"
+      ],
+      "image": null,
+      "image_credit": null
+    },
     {
       "id": "world-20261115-2122-01",
       "published_ist": "2026-11-15T14:44:00+05:30",
@@ -252,7 +328,7 @@
       "id": "world-20261115-1622-01",
       "published_ist": "2026-11-15T09:17:44+05:30",
       "headline": "America: router kharabi se udaan sankat, 6,400 radd",
-      "detail": "FAA ne kaha contractor L3Harris ke naye router ki gadbadi se 17 control centres prabhavit hue; Shanivaar ko 6,400 se zyada flights radd hui aur Ravivaar raat tak schedule normal hone ki ummeed hai.",
+      "detail": "FAA ne kaha contractor L3Harris ke naye router ki gadbadi se 17 control centres prabhavit hue; Shanivaar ko 6,400 se zyada flights radd hui, chaar ghante ke ground stop ke baad udaanen phir shuru hui — Ravivaar ko 800 se zyada flights pehle se radd, der raat tak pareshani jaari.",
       "category": "World",
       "exam_angle": "Critical infrastructure ki kamzori — UPSC me technology aur suraksha par sawal.",
       "source": "The Statesman",
@@ -371,79 +447,6 @@
       ],
       "image": null,
       "image_credit": null
-    },
-    {
-      "id": "world-20261115-1324-02",
-      "published_ist": "2026-11-15T12:00:00+05:30",
-      "headline": "WHO: type 1 diabetes par pehli guidelines",
-      "detail": "WHO ne 14 November ko World Diabetes Day par vayaskon me type 1 diabetes ke liye pehli guidelines jaari ki — roz kai baar insulin injection aur sasti insulin tak pahunch par zor; duniya bhar me 95 lakh log isse peedit hain.",
-      "category": "World",
-      "exam_angle": "WHO, swasthya aur Bharat me diabetes bojh — UPSC ke liye mahatvapurna.",
-      "source": "The South First",
-      "source_url": "https://thesouthfirst.com/health/who-issues-first-guidelines-on-type-1-diabetes-in-adults-recommends-multiple-daily-insulin-injections/",
-      "genuineness": "verified",
-      "outlets": [
-        "The South First",
-        "Punch",
-        "Health and Me"
-      ],
-      "image": null,
-      "image_credit": null
-    },
-    {
-      "id": "world-20261115-1125-03",
-      "published_ist": "2026-11-15T10:41:00+05:30",
-      "headline": "NATO: 2027 me Albania shikhar sammelan nahi",
-      "detail": "NATO ne 2027 me Albania me netaon ka shikhar sammelan na karne ka faisla kiya, mantri-stariya baithaken bhi kam hongi; mahasachiv Rutte ne kaha shikhar sammelan tab hoga jab zaroorat hogi, 2028 me Tirana mezban ho sakta hai.",
-      "category": "World",
-      "exam_angle": "NATO aur Europe ki suraksha vyavastha — UPSC ke liye mahatvapurna.",
-      "source": "Associated Press",
-      "source_url": "https://www.lanacion.com.ar/usa/nato-to-skip-a-leaders-summit-in-albania-next-year-as-high-level-meetings-are-scaled-back-nid15112026/",
-      "genuineness": "verified",
-      "outlets": [
-        "Associated Press",
-        "The Independent",
-        "Reuters"
-      ],
-      "image": null,
-      "image_credit": null
-    },
-    {
-      "id": "world-20261115-1125-02",
-      "published_ist": "2026-11-15T10:19:00+05:30",
-      "headline": "Philippines-Australia raksha samjhauta, 1995 deal update",
-      "detail": "Manila me Philippines aur Australia ne Defence Cooperation Arrangement par hastakshar kiye — 1995 ke samjhaute ka update, sanyukt sainya abhyas aur aapda madad me tezi aayegi; PM Albanese ne samjhaute ko dekha.",
-      "category": "World",
-      "exam_angle": "Indo-Pacific me raksha sahyog aur ASEAN — UPSC ke liye mahatvapurna.",
-      "source": "Reuters",
-      "source_url": "https://www.reuters.com/world/china/philippines-australia-sign-defence-pact-with-eye-china-2026-11-15/",
-      "genuineness": "verified",
-      "outlets": [
-        "Reuters",
-        "Rappler",
-        "The Manila Times"
-      ],
-      "image": null,
-      "image_credit": null
-    },
-    {
-      "id": "world-20261115-1125-01",
-      "published_ist": "2026-11-15T09:19:00+05:30",
-      "headline": "America me udaan sankat, hazaron flights radd",
-      "detail": "FAA ke router kharabi se shukravaar ko lagbhag 9,200 flights radd hui, shanivaar ko 6,150 se zyada; ravivaar der raat tak haal normal hone ki ummeed — L3Harris ke router ki jaanch chal rahi hai.",
-      "category": "World",
-      "exam_angle": "America me havaai yatra sankat aur ATC vyavastha — UPSC ke liye mahatvapurna.",
-      "source": "The Business Times",
-      "source_url": "https://www.businesstimes.com.sg/international/us-air-travel-issues-persist-well-sunday-officials-say-thousands-flights-affected",
-      "genuineness": "verified",
-      "outlets": [
-        "Reuters",
-        "The Statesman",
-        "India TV News",
-        "Sunday Guardian"
-      ],
-      "image": "../images/world/world-20261115-1125-01.jpg",
-      "image_credit": "The Business Times"
     }
   ]
 }
