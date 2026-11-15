@@ -1,6 +1,6 @@
 {
   "date": "2026-11-15",
-  "updated_ist": "2026-11-15T21:28:29+05:30",
+  "updated_ist": "2026-11-15T22:27:44+05:30",
   "items": [
     {
       "id": "world-20261115-0622-01",
@@ -819,6 +819,100 @@
         "Reuters",
         "The Japan Times",
         "UNICEF"
+      ],
+      "image": null,
+      "image_credit": null
+    },
+    {
+      "id": "world-20261115-2227-01",
+      "published_ist": "2026-11-15T21:15:00+05:30",
+      "headline": "Hormuz me supertanker dooba, Iran ka daava",
+      "detail": "Iran ke Revolutionary Guards ne kaha Hormuz me mine se takrakar do tanker phate, 20 lakh barrel wala supertanker doob gaya; swatantra pushti abhi nahi, UKMTO ne alag tanker hamle ki khabar di.",
+      "category": "World",
+      "exam_angle": "Hormuz jaladmaru aur tel vyapar, West Asia tanav — UPSC ke liye mahatvapurna.",
+      "source": "The Times of India",
+      "source_url": "https://timesofindia.indiatimes.com/world/middle-east/supertanker-with-2-million-barrels-of-oil-sinks-after-hitting-mine-in-strait-of-hormuz/articleshow/135858960.cms",
+      "genuineness": "corroborated",
+      "outlets": [
+        "The Times of India",
+        "Gulf News",
+        "Al Jazeera",
+        "The Standard"
+      ],
+      "image": null,
+      "image_credit": null
+    },
+    {
+      "id": "world-20261115-2227-02",
+      "published_ist": "2026-11-15T06:30:00+05:30",
+      "headline": "Hamas ka Rafah commander hamle me mara",
+      "detail": "Israel ne kaha Gaza me hawai hamle me Hamas ke Rafah Brigade commander Samir Abu Younis mare gaye; Hamas ne bhi maut ki pushti ki — ve 7 October hamle ki yojana me shamil the.",
+      "category": "World",
+      "exam_angle": "Gaza yuddhaviram ke beech Hamas-Israel tanav — UPSC ke liye mahatvapurna.",
+      "source": "Al Jazeera",
+      "source_url": "https://www.aljazeera.com/amp/news/2026/11/15/israeli-air-strike-kills-senior-hamas-commander-in-gaza",
+      "genuineness": "verified",
+      "outlets": [
+        "Al Jazeera",
+        "CNN",
+        "The Times of Israel",
+        "Haaretz",
+        "The National",
+        "Al Arabiya"
+      ],
+      "image": null,
+      "image_credit": null
+    },
+    {
+      "id": "world-20261115-2227-03",
+      "published_ist": "2026-11-15T18:59:00+05:30",
+      "headline": "Estonia ne GRU ki todfod koshish nakam ki",
+      "detail": "Estonia ne kaha drone banane wali Threod Systems par 14 November ki subah aag lagane ki koshish ko roka; GRU par aarop, Latvia ke rehne wale 8 log giraftaar.",
+      "category": "World",
+      "exam_angle": "Europe me hybrid yuddh aur NATO ki purvi seema — UPSC ke liye mahatvapurna.",
+      "source": "The Straits Times",
+      "source_url": "https://www.straitstimes.com/world/europe/estonia-foils-russian-sabotage-at-drone-factory?ref=latest",
+      "genuineness": "verified",
+      "outlets": [
+        "The Straits Times",
+        "Kyiv Post",
+        "WION",
+        "Demócrata"
+      ],
+      "image": null,
+      "image_credit": null
+    },
+    {
+      "id": "world-20261115-2227-04",
+      "published_ist": "2026-11-15T17:44:00+05:30",
+      "headline": "Guatemala me 30 din ki emergency",
+      "detail": "Drug hinsa ke baad Guatemala ne Zacapa aur Izabal me 30 din ki emergency lagayi; ek hafte pehle sansad aur teen police wale mare gaye the.",
+      "category": "World",
+      "exam_angle": "Latin America me drug cartel hinsa — UPSC ke liye mahatvapurna.",
+      "source": "The Hindu",
+      "source_url": "https://www.thehindu.com/news/international/guatemala-declares-state-of-emergency-in-east-over-drug-violence/article71704647.ece",
+      "genuineness": "corroborated",
+      "outlets": [
+        "The Hindu",
+        "The Times of India"
+      ],
+      "image": null,
+      "image_credit": null
+    },
+    {
+      "id": "world-20261115-1622-01",
+      "published_ist": "2026-11-15T09:17:44+05:30",
+      "headline": "America: router kharabi se udaan sankat, 6,400 radd",
+      "detail": "FAA ne kaha contractor L3Harris ke naye router ki gadbadi se 17 control centres prabhavit hue; Shanivaar ko 6,400 se zyada flights radd hui, chaar ghante ke ground stop ke baad udaanen phir shuru hui — Ravivaar ko 800 se zyada flights pehle se radd, der raat tak pareshani jaari.",
+      "category": "World",
+      "exam_angle": "Critical infrastructure ki kamzori — UPSC me technology aur suraksha par sawal.",
+      "source": "The Statesman",
+      "source_url": "https://www.thestatesman.com/world/faa-outage-us-flight-cancellations-continue-sunday-after-router-overload-1503662685.html/amp",
+      "genuineness": "verified",
+      "outlets": [
+        "Reuters",
+        "The Statesman",
+        "Sunday Guardian"
       ],
       "image": null,
       "image_credit": null
