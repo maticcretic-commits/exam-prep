@@ -1,6 +1,6 @@
 {
  "date": "2026-11-15",
- "updated_ist": "2026-11-15T12:25:00+05:30",
+ "updated_ist": "2026-11-15T13:24:00+05:30",
  "items": [
   {
    "id": "world-20261115-0622-01",
@@ -360,6 +360,77 @@
     "Agence France-Presse",
     "Euronews",
     "Times Now"
+   ],
+   "image": null,
+   "image_credit": null
+  },
+  {
+   "id": "world-20261115-1324-01",
+   "published_ist": "2026-11-15T12:43:00+05:30",
+   "headline": "Damascus: car bomb me pita-beti mare gaye",
+   "detail": "Damascus ke Jaramana ilaake me shanivaar shaam car bomb phata — ek aadmi aur uski beti mare gaye, ek mahila ghayal; suraksha balon ne jaanch shuru ki, kisi ne zimmedari nahi li.",
+   "category": "World",
+   "exam_angle": "Syria me suraksha sthiti aur West Asia — UPSC ke liye mahatvapurna.",
+   "source": "Gulf Today",
+   "source_url": "https://www.gulftoday.ae/news/2026/11/15/syria-car-bomb-kills-2-including-child",
+   "genuineness": "verified",
+   "outlets": [
+    "Agence France-Presse",
+    "Al Jazeera",
+    "Associated Press"
+   ],
+   "image": null,
+   "image_credit": null
+  },
+  {
+   "id": "world-20261115-1324-02",
+   "published_ist": "2026-11-15T12:00:00+05:30",
+   "headline": "WHO: type 1 diabetes par pehli guidelines",
+   "detail": "WHO ne 14 November ko World Diabetes Day par vayaskon me type 1 diabetes ke liye pehli guidelines jaari ki — roz kai baar insulin injection aur sasti insulin tak pahunch par zor; duniya bhar me 95 lakh log isse peedit hain.",
+   "category": "World",
+   "exam_angle": "WHO, swasthya aur Bharat me diabetes bojh — UPSC ke liye mahatvapurna.",
+   "source": "The South First",
+   "source_url": "https://thesouthfirst.com/health/who-issues-first-guidelines-on-type-1-diabetes-in-adults-recommends-multiple-daily-insulin-injections/",
+   "genuineness": "verified",
+   "outlets": [
+    "The South First",
+    "Punch",
+    "Health and Me"
+   ],
+   "image": null,
+   "image_credit": null
+  },
+  {
+   "id": "world-20261115-1324-03",
+   "published_ist": "2026-11-15T07:50:00+05:30",
+   "headline": "COP31: Antalya me hazaaron ka pradarshan",
+   "detail": "Antalya me shanivaar ko hazaaron pradarshankariyon ne COP31 ke khilaf march kiya — police ke anusaar 7,000 se zyada log; vaarta aadhe raste par hai, jeevashm indhan aur vitt par matbhed barkaraar.",
+   "category": "World",
+   "exam_angle": "COP31, jalvayu vaarta aur Bharat ki sthiti — UPSC ke liye mahatvapurna.",
+   "source": "Malay Mail",
+   "source_url": "https://www.malaymail.com/news/world/2026/11/15/thousands-rally-against-cop31-as-climate-talks-hit-midpoint/243318",
+   "genuineness": "verified",
+   "outlets": [
+    "Agence France-Presse",
+    "The Irish Times",
+    "Qatar Tribune"
+   ],
+   "image": null,
+   "image_credit": null
+  },
+  {
+   "id": "world-20261115-1324-04",
+   "published_ist": "2026-11-14T14:46:00+05:30",
+   "headline": "Trump: Iran par hamla rok sakte hain",
+   "detail": "Reuters ke anusaar Trump ne salaahkaaron se kaha — Tehran ya Houthi ki taraf se nayi uksaahat na ho to Iran par hamla roka ja sakta hai; Saudi aur Turkey ne bhi hamla na karne ki guzaarish ki hai.",
+   "category": "World",
+   "exam_angle": "America-Iran tanav, Hormuz aur Bharat ki urja suraksha — UPSC ke liye mahatvapurna.",
+   "source": "Reuters",
+   "source_url": "https://www.reuters.com/world/middle-east/trump-tells-advisers-he-may-hold-off-iran-attacks-barring-new-provocations-2026-11-14/",
+   "genuineness": "corroborated",
+   "outlets": [
+    "Reuters",
+    "The Jerusalem Post"
    ],
    "image": null,
    "image_credit": null
