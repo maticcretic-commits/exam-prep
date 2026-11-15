@@ -1,6 +1,105 @@
 {
- "updated_ist": "2026-11-15T06:33:31+05:30",
+ "updated_ist": "2026-11-15T07:29:26+05:30",
  "items": [
+  {
+   "id": "world-20261115-0722-01",
+   "published_ist": "2026-11-14T09:59:00+05:30",
+   "headline": "Trump, Xi, Putin: pehli baar teenon saath",
+   "detail": "White House ne pushti ki — America, China aur Russia ke neta 19 November ko Shenzhen me APEC ke kinare pehli baar teen-pakshiya baithak karenge; parmanu hathiyar kam karne aur Iran yuddh par baat hogi, par kisi samjhote ki ummeed kam hai.",
+   "category": "World",
+   "exam_angle": "Teen parmanu shaktiyon ki pehli teen-pakshiya baithak; APEC aur parmanu hathiyar niyantran — UPSC ke liye mahatvapurna.",
+   "source": "The Hindu",
+   "source_url": "https://www.thehindu.com/news/international/trump-xi-and-putin-plan-an-unprecedented-joint-meeting-apec-summit-china/article71700699.ece",
+   "genuineness": "verified",
+   "outlets": [
+    "The Hindu",
+    "CNN",
+    "Channel News Asia",
+    "The Jerusalem Post",
+    "Business Standard"
+   ],
+   "image": "../images/world/world-20261115-0722-01.jpg",
+   "image_credit": "The Hindu"
+  },
+  {
+   "id": "world-20261115-0722-02",
+   "published_ist": "2026-11-15T06:14:00+05:30",
+   "headline": "Starship pehli baar tower se pakda gaya",
+   "detail": "SpaceX ka Starship 22 ghante aur 14 chakkar ke baad kaksha se lauta aur Texas me launch tower ki vishal baahnon ne use pehli baar pakad liya; booster wapas aane me nakaam raha aur samudra me gira.",
+   "category": "World",
+   "exam_angle": "Puri tarah dobara istemal ho sakne wala rocket — antariksh takneek aur Artemis mission ke liye mahatvapurna.",
+   "source": "The Times of India",
+   "source_url": "https://timesofindia.indiatimes.com/science/watch-spacexs-starship-completes-first-ever-midair-catch-on-return-from-orbit/articleshow/135844940.cms",
+   "genuineness": "verified",
+   "outlets": [
+    "Reuters",
+    "Associated Press",
+    "The Times of India",
+    "Aerospace America",
+    "Florida Today"
+   ],
+   "image": null,
+   "image_credit": null
+  },
+  {
+   "id": "world-20261115-0722-03",
+   "published_ist": "2026-11-14T14:14:00+05:30",
+   "headline": "Tanker takkar: cruise boat palti, 32 ghayal",
+   "detail": "New Orleans me Mississippi nadi par ek tanker ne bandargah par khadi cruise boat American Heritage ko takkar maari — boat palat gayi, 197 yatri aur crew surakshit nikale gaye, 32 log aspatal me bharti hue, koi gambhir nahi.",
+   "category": "World",
+   "exam_angle": null,
+   "source": "Business Standard",
+   "source_url": "https://www.business-standard.com/amp/world-news/tanker-hits-cruise-ship-in-new-orleans-32-hospitalised-none-critical-126111400663_1.html",
+   "genuineness": "verified",
+   "outlets": [
+    "CNN",
+    "The Wall Street Journal",
+    "Associated Press",
+    "Gulf News",
+    "The Times"
+   ],
+   "image": "../images/world/world-20261115-0722-03.jpg",
+   "image_credit": "Business Standard"
+  },
+  {
+   "id": "world-20261115-0722-04",
+   "published_ist": "2026-11-14T14:49:00+05:30",
+   "headline": "Qatar-Turkey: hamle par ek saath khade honge",
+   "detail": "Turkey aur Qatar ne Istanbul me paraspar raksha samjhota kiya — kisi bhi bahari hamle par dono ek saath khade honge, suraksha khatron par salah-mashwara aur sanyukt sainya abhyas badhenge.",
+   "category": "World",
+   "exam_angle": "Khadi me raksha samjhote aur kshetriya suraksha — UPSC ke liye mahatvapurna.",
+   "source": "Al Jazeera",
+   "source_url": "https://www.aljazeera.com/news/2026/11/13/turkiye-and-qatar-sign-mutual-defence-agreement",
+   "genuineness": "verified",
+   "outlets": [
+    "Al Jazeera",
+    "Reuters",
+    "Malay Mail",
+    "Gulf News"
+   ],
+   "image": null,
+   "image_credit": null
+  },
+  {
+   "id": "world-20261115-0722-05",
+   "published_ist": "2026-11-15T05:36:00+05:30",
+   "headline": "Manila me ASEAN shikhar sammelan shuru",
+   "detail": "Manila me 49th ASEAN shikhar sammelan shuru hua — vyapaar, suraksha aur urja sankat par charcha hogi; Trump 17 November ko ASEAN-America shikhar sammelan me shamil honge aur Quad deshon se bhi milenge.",
+   "category": "World",
+   "exam_angle": "ASEAN, Quad aur Bharat ki Act East neeti — UPSC ke liye mahatvapurna.",
+   "source": "Arab News",
+   "source_url": "https://www.arabnews.pk/world/global-powers-converge-on-manila-as-asean-summit-kicks-off-3007067",
+   "genuineness": "verified",
+   "outlets": [
+    "Agence France-Presse",
+    "The Manila Times",
+    "The Philippine Star",
+    "Rappler",
+    "Channel News Asia"
+   ],
+   "image": "../images/world/world-20261115-0722-05.jpg",
+   "image_credit": "Arab News"
+  },
   {
    "id": "world-20261115-0622-01",
    "published_ist": "2026-11-15T01:22:00+05:30",
@@ -347,44 +446,6 @@
     "Reuters",
     "IANS",
     "Aaj TV"
-   ],
-   "image": null,
-   "image_credit": null
-  },
-  {
-   "id": "world-20261114-1926-03",
-   "published_ist": "2026-11-14T08:23:00+05:30",
-   "headline": "Britain: America ke hawai adde par drone halchal",
-   "detail": "Britain ke RAF Lakenheath adde par shukravar shaam sandigdh drone halchal par America ki vayu sena ne suraksha jawab diya — koi jawan, viman ya dhancha prabhavit nahi hua, aur sthiti sulajh gayi.",
-   "category": "World",
-   "exam_angle": "Britain me America ke sainya adde par drone — antarrashtriya suraksha ke liye mahatvapurna.",
-   "source": "The Economic Times",
-   "source_url": "https://economictimes.indiatimes.com/news/defence/drone-activity-over-us-base-in-britain-prompts-security-response-us-military-says/articleshow/135820891.cms",
-   "genuineness": "verified",
-   "outlets": [
-    "Reuters",
-    "CNN",
-    "AFP",
-    "The Times of Israel",
-    "The Economic Times"
-   ],
-   "image": null,
-   "image_credit": null
-  },
-  {
-   "id": "world-20261114-0825-01",
-   "published_ist": "2026-11-14T06:45:00+05:30",
-   "headline": "America: 4 ghante baad udaanen phir shuru",
-   "detail": "FAA ne desh bhar ka ground stop hata liya — 4 ghante se zyada ki rukawat ke baad udaanen phir shuru hui; lagbhag 4,700 udaanen radd aur 10,000 deri se chali, cyber hamle ka koi sanket nahi mila.",
-   "category": "World",
-   "exam_angle": "9/11 ke baad sirf doosri baar America bhar me udaanen roki gayi — UPSC ke liye mahatvapurna.",
-   "source": "The New Indian Express",
-   "source_url": "https://www.newindianexpress.com/world/2026/Nov/14/us-lifts-nationwide-flight-halt-after-air-traffic-control-system-failure-disrupts-thousands-of-flights",
-   "genuineness": "verified",
-   "outlets": [
-    "Associated Press",
-    "CNN",
-    "Mathrubhumi"
    ],
    "image": null,
    "image_credit": null
