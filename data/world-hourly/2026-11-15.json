@@ -575,6 +575,63 @@
       ],
       "image": null,
       "image_credit": null
+    },
+    {
+      "id": "world-20261115-1722-01",
+      "published_ist": "2026-11-15T13:45:00+05:30",
+      "headline": "Jordan: church hamle ke teen ko phansi",
+      "detail": "Jordan ki State Security Court ne Ravivaar ko teen logon ko phansi ki saza sunai; 23 October ko Karak ke Greek Orthodox church me janaze ke dauraan hamle me 9 log mare gaye the — faisle par Court of Cassation me appeal ho sakti hai.",
+      "category": "World",
+      "exam_angle": "Jordan me aatankwad par mukadma aur mrityudand — West Asia me suraksha.",
+      "source": "Reuters",
+      "source_url": "https://www.reuters.com/world/middle-east/jordan-sentences-three-men-death-over-deadly-church-attack-2026-11-15/",
+      "genuineness": "verified",
+      "outlets": [
+        "Reuters",
+        "Al Jazeera",
+        "The National",
+        "Malay Mail"
+      ],
+      "image": null,
+      "image_credit": null
+    },
+    {
+      "id": "world-20261115-1722-02",
+      "published_ist": "2026-11-15T07:30:00+05:30",
+      "headline": "Gaza aspatal hamle par 18 deshon ki ninda",
+      "detail": "Saudi samet 18 Arab aur Islamic deshon ke videsh mantriyon ne Shaniwaar ko Khan Younis ke Nasser aspatal par Guruvaar ke Israeli hamle ki ninda ki; hamle me ek surgeon aur ek kishore samet 6 log mare gaye the, Israel ka kehna hai usne Hamas commander ko nishana banaya tha.",
+      "category": "World",
+      "exam_angle": "Antarrashtriya manavtavadi kanoon aur chikitsa suvidhaon ki suraksha — UPSC ke liye mahatvapurna.",
+      "source": "TBS News",
+      "source_url": "https://www.tbsnews.net/worldbiz/middle-east/18-arab-and-islamic-nations-condemn-israeli-strike-gaza-hospital-1602776",
+      "genuineness": "verified",
+      "outlets": [
+        "TBS News",
+        "Al Jazeera",
+        "Palestine Chronicle",
+        "Arab News"
+      ],
+      "image": null,
+      "image_credit": null
+    },
+    {
+      "id": "world-20261115-1722-03",
+      "published_ist": "2026-11-14T19:57:00+05:30",
+      "headline": "Alaska: 1998 ke baad pehle Democrat governor",
+      "detail": "Democrat Jonathan Kreiss-Tomkins Alaska ke governor chune gaye — 1998 ke baad pehle Democrat; 37 saal ke ve rajya ke sabse yuva governor honge aur 7 December ko shapath lenge.",
+      "category": "World",
+      "exam_angle": "America me midterm chunav aur rajya sarkaron me badlav — UPSC ke liye mahatvapurna.",
+      "source": "Reuters",
+      "source_url": "https://www.reuters.com/world/us/alaska-elects-first-democratic-governor-since-1998-us-media-project-2026-11-14/",
+      "genuineness": "verified",
+      "outlets": [
+        "Reuters",
+        "Associated Press",
+        "Haaretz",
+        "NBC News"
+      ],
+      "image": "../images/world/world-20261115-1722-03.jpg",
+      "image_credit": "Gillfoto, Wikimedia Commons (CC BY-SA 4.0)"
     }
   ]
 }
