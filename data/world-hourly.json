@@ -1,25 +1,60 @@
 {
- "updated_ist": "2026-11-15T10:26:00+05:30",
+ "updated_ist": "2026-11-15T11:25:00+05:30",
  "items": [
   {
-   "id": "world-20261115-1022-01",
-   "published_ist": "2026-11-15T06:30:42+05:30",
-   "headline": "Gaza me Hamas ke bade commander mare gaye",
-   "detail": "Israel ke drone hamle me Hamas ki Rafah brigade ke commander Samir Abu Younis (53) Khan Younis me mare gaye; Hamas ne maut ki pushti ki, do log ghayal — October 2025 se lagu yuddhviram par dabav badha.",
+   "id": "world-20261115-1125-03",
+   "published_ist": "2026-11-15T10:41:00+05:30",
+   "headline": "NATO: 2027 me Albania shikhar sammelan nahi",
+   "detail": "NATO ne 2027 me Albania me netaon ka shikhar sammelan na karne ka faisla kiya, mantri-stariya baithaken bhi kam hongi; mahasachiv Rutte ne kaha shikhar sammelan tab hoga jab zaroorat hogi, 2028 me Tirana mezban ho sakta hai.",
    "category": "World",
-   "exam_angle": "Gaza yuddhviram aur Madhya-Purv me tanav — UPSC ke liye mahatvapurna.",
-   "source": "Al Jazeera",
-   "source_url": "https://www.aljazeera.com/news/2026/11/15/israeli-air-strike-kills-senior-hamas-commander-in-gaza",
+   "exam_angle": "NATO aur Europe ki suraksha vyavastha — UPSC ke liye mahatvapurna.",
+   "source": "Associated Press",
+   "source_url": "https://www.lanacion.com.ar/usa/nato-to-skip-a-leaders-summit-in-albania-next-year-as-high-level-meetings-are-scaled-back-nid15112026/",
    "genuineness": "verified",
    "outlets": [
-    "Al Jazeera",
-    "Reuters",
-    "Agence France-Presse",
-    "Arab News",
-    "The Jerusalem Post"
+    "Associated Press",
+    "The Independent",
+    "Reuters"
    ],
    "image": null,
    "image_credit": null
+  },
+  {
+   "id": "world-20261115-1125-02",
+   "published_ist": "2026-11-15T10:19:00+05:30",
+   "headline": "Philippines-Australia raksha samjhauta, 1995 deal update",
+   "detail": "Manila me Philippines aur Australia ne Defence Cooperation Arrangement par hastakshar kiye — 1995 ke samjhaute ka update, sanyukt sainya abhyas aur aapda madad me tezi aayegi; PM Albanese ne samjhaute ko dekha.",
+   "category": "World",
+   "exam_angle": "Indo-Pacific me raksha sahyog aur ASEAN — UPSC ke liye mahatvapurna.",
+   "source": "Reuters",
+   "source_url": "https://www.reuters.com/world/china/philippines-australia-sign-defence-pact-with-eye-china-2026-11-15/",
+   "genuineness": "verified",
+   "outlets": [
+    "Reuters",
+    "Rappler",
+    "The Manila Times"
+   ],
+   "image": null,
+   "image_credit": null
+  },
+  {
+   "id": "world-20261115-1125-01",
+   "published_ist": "2026-11-15T09:19:00+05:30",
+   "headline": "America me udaan sankat, hazaron flights radd",
+   "detail": "FAA ke router kharabi se shukravaar ko lagbhag 9,200 flights radd hui, shanivaar ko 6,150 se zyada; ravivaar der raat tak haal normal hone ki ummeed — L3Harris ke router ki jaanch chal rahi hai.",
+   "category": "World",
+   "exam_angle": "America me havaai yatra sankat aur ATC vyavastha — UPSC ke liye mahatvapurna.",
+   "source": "The Business Times",
+   "source_url": "https://www.businesstimes.com.sg/international/us-air-travel-issues-persist-well-sunday-officials-say-thousands-flights-affected",
+   "genuineness": "verified",
+   "outlets": [
+    "Reuters",
+    "The Statesman",
+    "India TV News",
+    "Sunday Guardian"
+   ],
+   "image": "../images/world/world-20261115-1125-01.jpg",
+   "image_credit": "The Business Times"
   },
   {
    "id": "world-20261115-0926-01",
@@ -37,6 +72,26 @@
     "Arab News",
     "Gulf News",
     "Dawn"
+   ],
+   "image": null,
+   "image_credit": null
+  },
+  {
+   "id": "world-20261115-1022-01",
+   "published_ist": "2026-11-15T06:30:42+05:30",
+   "headline": "Gaza me Hamas ke bade commander mare gaye",
+   "detail": "Israel ke drone hamle me Hamas ki Rafah brigade ke commander Samir Abu Younis (53) Khan Younis me mare gaye; Hamas ne maut ki pushti ki, do log ghayal — October 2025 se lagu yuddhviram par dabav badha.",
+   "category": "World",
+   "exam_angle": "Gaza yuddhviram aur Madhya-Purv me tanav — UPSC ke liye mahatvapurna.",
+   "source": "Al Jazeera",
+   "source_url": "https://www.aljazeera.com/news/2026/11/15/israeli-air-strike-kills-senior-hamas-commander-in-gaza",
+   "genuineness": "verified",
+   "outlets": [
+    "Al Jazeera",
+    "Reuters",
+    "Agence France-Presse",
+    "Arab News",
+    "The Jerusalem Post"
    ],
    "image": null,
    "image_credit": null
@@ -379,79 +434,6 @@
     "Reuters",
     "CNN",
     "Axios"
-   ],
-   "image": null,
-   "image_credit": null
-  },
-  {
-   "id": "world-20261114-1222-01",
-   "published_ist": "2026-11-14T10:55:00+05:30",
-   "headline": "Iran ne Khadi deshon par 7,000 hamle kiye",
-   "detail": "GCC pramukh Jasem Albudaiwi ne UN Suraksha Parishad ko bataya ki 28 February se Iran ne Khadi deshon par 7,000 se zyada missile aur drone hamle kiye — hawai adde, bandargah aur tel suvidhaon ko nishana banaya gaya; parishad se in hamalon ko rokne ki maang ki.",
-   "category": "World",
-   "exam_angle": "Khadi me tanav, UNSC ki bhoomika aur Bharat ki urja suraksha — UPSC ke liye mahatvapurna.",
-   "source": "Arab News",
-   "source_url": "https://www.arabnews.com/middle-east/iran-fired-over-7000-missiles-and-drones-at-gulf-nations-since-war-began-gcc-chief-tells-un-3011767",
-   "genuineness": "verified",
-   "outlets": [
-    "Arab News",
-    "Kuwait Times",
-    "Sabq"
-   ],
-   "image": "../images/world/world-20261114-1222-01.jpg",
-   "image_credit": "Jdforrester / Wikimedia Commons (CC BY 4.0)"
-  },
-  {
-   "id": "world-20261114-2222-03",
-   "published_ist": "2026-11-14T10:49:00+05:30",
-   "headline": "Alaska: 1998 ke baad pehla Democrat governor",
-   "detail": "37 saal ke Jonathan Kreiss-Tomkins ne Alaska ke governor ka chunav jeeta — 1998 ke baad pehle Democrat aur rajya ke sabse kam umr ke governor; 7 December ko shapath lenge, parinam 25 November ko pramanit hoga.",
-   "category": "World",
-   "exam_angle": "America ke madhyaavadhi chunav aur rajya rajneeti — UPSC ke liye mahatvapurna.",
-   "source": "The Week",
-   "source_url": "https://www.theweek.in/wire-updates/international/2026/11/14/kreiss-tomkins-becomes-first-democrat-since-1998-elected-governor-in-alaska.html",
-   "genuineness": "verified",
-   "outlets": [
-    "Associated Press",
-    "Haaretz",
-    "Financial Express",
-    "Times Now"
-   ],
-   "image": "../images/world/world-20261114-2222-03.jpg",
-   "image_credit": "Gillfoto / Wikimedia Commons (CC BY-SA 4.0)"
-  },
-  {
-   "id": "world-20261114-1422-02",
-   "published_ist": "2026-11-14T10:47:00+05:30",
-   "headline": "Hormuz: teesra tanker bhi mine se takraya",
-   "detail": "Iran ki sena ki nausena ne kaha shanivaar ko Hormuz ke poorv me ek aur tel tanker surang se takraakar jal utha; IRGC ke mutabik is saptah kul teen tanker mine se takraye — jahaazon ke naam abhi nahi bataye gaye aur daavon ki swatantra pushti nahi hui.",
-   "category": "World",
-   "exam_angle": "Hormuz Strait se duniya ke tel vyapar ka bada hissa guzarta hai; Paschim Asia me tanav.",
-   "source": "Dawn",
-   "source_url": "https://www.dawn.com/news/2044469",
-   "genuineness": "corroborated",
-   "outlets": [
-    "AFP",
-    "Mehr News",
-    "Gulf Today"
-   ],
-   "image": null,
-   "image_credit": null
-  },
-  {
-   "id": "world-20261114-1122-02",
-   "published_ist": "2026-11-14T10:19:00+05:30",
-   "headline": "Qatar Airways ki Riyadh, Dammam udaanen phir shuru",
-   "detail": "Qatar Airways ne ek mahine se zyada ke antaral ke baad Riyadh (13 November) aur Dammam (14 November) ke liye rozana udaanen phir shuru kar di — October me Riyadh hawai adde par hamle ke baad seva band hui thi; Abha aur Taif abhi bhi band hain.",
-   "category": "World",
-   "exam_angle": null,
-   "source": "The Thursday Times",
-   "source_url": "https://thursdaytimes.com/2026/11/14/news/international/qatar-airways-resumes-riyadh-dammam-flights-saudi-arabia/",
-   "genuineness": "verified",
-   "outlets": [
-    "The Thursday Times",
-    "Arabian Business",
-    "Qatar Tribune"
    ],
    "image": null,
    "image_credit": null
