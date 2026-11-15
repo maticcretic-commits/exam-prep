@@ -1,6 +1,6 @@
 {
   "date": "2026-11-15",
-  "updated_ist": "2026-11-15T18:24:48+05:30",
+  "updated_ist": "2026-11-15T19:30:01+05:30",
   "items": [
     {
       "id": "world-20261115-0622-01",
@@ -670,6 +670,83 @@
       ],
       "image": null,
       "image_credit": null
+    },
+    {
+      "id": "world-20261115-1927-01",
+      "published_ist": "2026-11-15T10:35:00+05:30",
+      "headline": "Phnom Penh: Francophone shikhar, Congo-Rwanda takraar",
+      "detail": "20th Francophone shikhar sammelan Phnom Penh me shuru hua; somvar ko naye mahasachiv ka chunav hoga, lekin DR Congo ne Rwanda ki Louise Mushikiwabo ke teesre karyakal par sangathan chhodne ki dhamki di hai.",
+      "category": "World",
+      "exam_angle": "Francophonie, Africa aur antarrashtriya sangathan — UPSC ke liye mahatvapurna.",
+      "source": "Al Jazeera",
+      "source_url": "https://www.aljazeera.com/news/2026/11/15/francophone-summit-opens-in-cambodia-amid-rwanda-dr-congo-rift?traffic_source=rss",
+      "genuineness": "verified",
+      "outlets": [
+        "Al Jazeera",
+        "Associated Press",
+        "Madar"
+      ],
+      "image": null,
+      "image_credit": null
+    },
+    {
+      "id": "world-20261115-1927-02",
+      "published_ist": "2026-11-15T06:01:00+05:30",
+      "headline": "Pope Leo: Inca gaon khali, palayan par chinta",
+      "detail": "Pope Leo XIV ne Peru ke Santa Cruz de Succhabamba me kaha ki Inca kshetra ke gaon khali ho rahe hain aur log behtar bhavishya ke liye palayan ko majboor hain; Cajamarca me 40% se zyada log gareebi me rehte hain.",
+      "category": "World",
+      "exam_angle": "Peru, Inca sabhyata aur palayan — UPSC ke liye mahatvapurna.",
+      "source": "The Manila Times",
+      "source_url": "https://www.manilatimes.net/2026/11/15/world/americas-emea/pope-says-inca-heartland-suffering-as-villages-empty/2470178",
+      "genuineness": "verified",
+      "outlets": [
+        "Agence France-Presse",
+        "Vatican News",
+        "Al Jazeera"
+      ],
+      "image": null,
+      "image_credit": null
+    },
+    {
+      "id": "world-20261115-1927-03",
+      "published_ist": "2026-11-14T17:55:00+05:30",
+      "headline": "America ka measles-mukt darja 26 saal baad khatm",
+      "detail": "PAHO panel ne faisla kiya ki America me measles ka ek hi strain 12 mahine se zyada se lagatar phail raha hai; CDC ke anusaar 2026 me 12 November tak 5,182 cases mile, 1991 ke baad sabse zyada — aadhikarik ghoshna abhi baaki hai.",
+      "category": "World",
+      "exam_angle": "Svasthya, teekakaran aur antarrashtriya sangathan — UPSC ke liye mahatvapurna.",
+      "source": "Firstpost",
+      "source_url": "https://www.firstpost.com/explainers/how-us-has-lost-its-measles-free-status-after-26-years-14059999.html",
+      "genuineness": "verified",
+      "outlets": [
+        "The Wall Street Journal",
+        "Reuters",
+        "CNN",
+        "Axios",
+        "Firstpost",
+        "The Straits Times"
+      ],
+      "image": null,
+      "image_credit": null
+    },
+    {
+      "id": "world-20261115-1927-04",
+      "published_ist": "2026-11-14T04:57:00+05:30",
+      "headline": "Tesla Cybercab bikne laga, $29,990 + $299/mahina",
+      "detail": "Tesla ne chuninda grahakon ko bina steering wali Cybercab ka order khola — keemat $29,990, chalane ke liye $299 mahina subscription zaroori, December me Austin se delivery ka anuman.",
+      "category": "World",
+      "exam_angle": "Driverless gaadi, AI aur niyam — UPSC ke liye mahatvapurna.",
+      "source": "Notebookcheck",
+      "source_url": "https://www.notebookcheck.net/Tesla-opens-29-990-Cybercab-orders-but-owners-face-299-monthly-fee-to-drive.1450535.0.html",
+      "genuineness": "verified",
+      "outlets": [
+        "Tesla",
+        "Electrek",
+        "The Verge",
+        "Engadget",
+        "Notebookcheck"
+      ],
+      "image": "../images/world/world-20261115-1927-04.jpg",
+      "image_credit": "Notebookcheck"
     }
   ]
 }
