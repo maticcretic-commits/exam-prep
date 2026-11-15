@@ -72,6 +72,76 @@
     ],
     "answer_index": 2
    }
+  },
+  {
+   "episode": 122,
+   "video_hi": "VJ1Jxacsim0",
+   "video_hinglish": "VJ1Jxacsim0",
+   "capsules": [
+    {
+     "id": "ca-ep122-s1",
+     "headline_hi": "Quad Summit Manila mein, Modi-Trump milenge",
+     "headline_hinglish": "Quad Summit Manila mein, Modi-Trump milenge",
+     "detail_hi": "Satrah November ko Manila mein Quad Summit hoga, pehli baar 2024 ke baad chaaron neta ek saath milenge.",
+     "detail_hinglish": "Satrah November ko Manila mein Quad Summit hoga, pehli baar 2024 ke baad chaaron neta ek saath milenge.",
+     "category_hi": "International",
+     "category_en": "National"
+    },
+    {
+     "id": "ca-ep122-s2",
+     "headline_hi": "Modi ne 3,000 crore ki janjati pariyojnaayein di",
+     "headline_hinglish": "Modi ne 3,000 crore ki janjati pariyojnaayein di",
+     "detail_hi": "Maharashtra mein 246 vikas pariyojnaayein shuru hui, 38 Eklavya schools aur 100 multi-purpose centres banenge.",
+     "detail_hinglish": "Maharashtra mein 246 vikas pariyojnaayein shuru hui, 38 Eklavya schools aur 100 multi-purpose centres banenge.",
+     "category_hi": "Economy",
+     "category_en": "Economy"
+    },
+    {
+     "id": "ca-ep122-s3",
+     "headline_hi": "India U-19 Asia Cup champion, Pakistan ko haraya",
+     "headline_hinglish": "India U-19 Asia Cup champion, Pakistan ko haraya",
+     "detail_hi": "Aakhri ball par ek wicket se jeet, 338 run ka target chase kiya, Lakshya ne 80 run banaye.",
+     "detail_hinglish": "Aakhri ball par ek wicket se jeet, 338 run ka target chase kiya, Lakshya ne 80 run banaye.",
+     "category_hi": "Sports",
+     "category_en": "Sports"
+    },
+    {
+     "id": "ca-ep122-s4",
+     "headline_hi": "Delhi ki hawa bahut kharab, AQI 353 darj",
+     "headline_hinglish": "Delhi ki hawa bahut kharab, AQI 353 darj",
+     "detail_hi": "CPCB ke anusaar Delhi ka AQI 353 raha, IMD ne aaj halki baarish ka anumaan lagaya hai.",
+     "detail_hinglish": "CPCB ke anusaar Delhi ka AQI 353 raha, IMD ne aaj halki baarish ka anumaan lagaya hai.",
+     "category_hi": "Environment",
+     "category_en": "Environment"
+    },
+    {
+     "id": "ca-ep122-s5",
+     "headline_hi": "SpaceX Starship wapas aaya, arms ne pakda",
+     "headline_hinglish": "SpaceX Starship wapas aaya, arms ne pakda",
+     "detail_hi": "Baais ghante ki udaan ke baad Starship dharti par lauta, launchpad ki mechanical arms ne use hawa mein pakad liya.",
+     "detail_hinglish": "Baais ghante ki udaan ke baad Starship dharti par lauta, launchpad ki mechanical arms ne use hawa mein pakad liya.",
+     "category_hi": "Science",
+     "category_en": "National"
+    }
+   ],
+   "mcq": {
+    "id": "ca-ep122-mcq",
+    "q_hi": "2026 ka Quad Summit kis shahar mein hoga?",
+    "q_hinglish": "2026 ka Quad Summit kis shahar mein hoga?",
+    "options_hi": [
+     "Jakarta",
+     "Manila",
+     "Tokyo",
+     "Sydney"
+    ],
+    "options_hinglish": [
+     "Jakarta",
+     "Manila",
+     "Tokyo",
+     "Sydney"
+    ],
+    "answer_index": 1
+   }
   }
  ]
 }
