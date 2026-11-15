@@ -1,6 +1,6 @@
 {
  "date": "2026-11-15",
- "updated_ist": "2026-11-15T14:23:57+05:30",
+ "updated_ist": "2026-11-15T15:26:57+05:30",
  "items": [
   {
    "id": "world-20261115-0622-01",
@@ -467,6 +467,40 @@
     "Agence France-Presse",
     "The Philippine Star",
     "Philippine Daily Inquirer"
+   ],
+   "image": null,
+   "image_credit": null
+  },
+  {
+   "id": "world-20261115-1522-01",
+   "published_ist": "2026-11-15T09:30:00+05:30",
+   "headline": "Shenzhen me APEC CEO Summit, 12 neta aayenge",
+   "detail": "CCPIT ne aaj elaan kiya ki 17-18 November ko Shenzhen me hone wale APEC CEO Summit me Xi Jinping samet 12 arthvyavasthaon ke neta bhashan denge ya panel charcha me hissa lenge; 115 Fortune Global 500 companiyon ke pratinidhi bhi aayenge.",
+   "category": "World",
+   "exam_angle": "APEC aur Asia-Pacific me vyapar sahyog — UPSC ke liye mahatvapurna.",
+   "source": "CGTN",
+   "source_url": "https://news.cgtn.com/news/2026-11-15/Twelve-APEC-leaders-to-attend-CEO-Summit-in-Shenzhen-1S5mNgHhkKA/p.html",
+   "genuineness": "corroborated",
+   "outlets": [
+    "CGTN",
+    "China Daily"
+   ],
+   "image": null,
+   "image_credit": null
+  },
+  {
+   "id": "world-20261115-1522-02",
+   "published_ist": "2026-11-14T18:33:00+05:30",
+   "headline": "Timor-Leste 2029 me ASEAN ki adhyakshata karega",
+   "detail": "ASEAN Coordinating Council ne faisla kiya ki Timor-Leste 2029 me ASEAN ki adhyakshata karega — Singapore 2027 me, Thailand 2028 me, phir Vietnam; Myanmar ki daavedari baad me vichari jayegi.",
+   "category": "World",
+   "exam_angle": "ASEAN adhyakshata chakr aur Timor-Leste, sabse naya sadasya — UPSC ke liye mahatvapurna.",
+   "source": "Malay Mail",
+   "source_url": "https://beta.malaymail.com/news/world/2026/11/14/timor-leste-gets-2029-asean-chair-as-bloc-sticks-to-alphabetical-rotation/243289",
+   "genuineness": "corroborated",
+   "outlets": [
+    "Bernama",
+    "Astig.ph"
    ],
    "image": null,
    "image_credit": null
