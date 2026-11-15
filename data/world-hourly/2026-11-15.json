@@ -1,6 +1,6 @@
 {
   "date": "2026-11-15",
-  "updated_ist": "2026-11-15T20:27:43+05:30",
+  "updated_ist": "2026-11-15T21:26:13+05:30",
   "items": [
     {
       "id": "world-20261115-0622-01",
@@ -801,6 +801,43 @@
         "Gulf News",
         "Al Jazeera",
         "The Indian Messenger"
+      ],
+      "image": null,
+      "image_credit": null
+    },
+    {
+      "id": "world-20261115-2122-01",
+      "published_ist": "2026-11-15T14:44:00+05:30",
+      "headline": "Gaza: saans ki bimari badhi, WHO chetavni",
+      "detail": "WHO ne kaha Gaza me saans ki bimari ke cases pichhle saal se 33,000 zyada hain; baarish se hazaaron tent doob gaye aur lagbhag 10 lakh visthapit baadh ke khatre wale ilaakon me rehte hain.",
+      "category": "World",
+      "exam_angle": "Gaza me manavtavadi sankat, WHO aur svasthya — UPSC ke liye mahatvapurna.",
+      "source": "The Tribune",
+      "source_url": "https://www.tribuneindia.com/news/world/respiratory-illnesses-rise-in-gaza-with-worst-to-come-as-winter-floods-arrive-who/",
+      "genuineness": "verified",
+      "outlets": [
+        "Reuters",
+        "The Japan Times",
+        "UNICEF"
+      ],
+      "image": null,
+      "image_credit": null
+    },
+    {
+      "id": "world-20261115-2122-02",
+      "published_ist": "2026-11-14T13:29:00+05:30",
+      "headline": "Dublin: netaon ke dinner ke paas bomb mila",
+      "detail": "Dublin me Merrion Square ki imarat me crude lekin kaam karne wala bomb mila aur sena ne use nishkriya kiya; ek din pehle paas ke National Gallery me Macron samet netaon ne dinner kiya tha.",
+      "category": "World",
+      "exam_angle": "Europe me suraksha aur European Political Community shikhar sammelan — UPSC ke liye mahatvapurna.",
+      "source": "The Jerusalem Post",
+      "source_url": "https://www.jpost.com/international/article-914858",
+      "genuineness": "verified",
+      "outlets": [
+        "Reuters",
+        "The Jerusalem Post",
+        "The Irish Times",
+        "Times of Israel"
       ],
       "image": null,
       "image_credit": null
