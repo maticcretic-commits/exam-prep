@@ -1,509 +1,580 @@
 {
- "date": "2026-11-15",
- "updated_ist": "2026-11-15T15:26:57+05:30",
- "items": [
-  {
-   "id": "world-20261115-0622-01",
-   "published_ist": "2026-11-15T01:22:00+05:30",
-   "headline": "Macron: Ukraine madad ghatao to phir yuddh",
-   "detail": "France ke rashtrapati Emmanuel Macron ne shanivaar ko kaha — Ukraine ki madad kam karna use 'anyaypoorn shanti' par majboor karega aur ye ek aur yuddh ki recipe hai; unhone Europe ki suraksha ke liye vittiya madad jaari rakhne ki maang ki.",
-   "category": "World",
-   "exam_angle": "Ukraine yuddh aur Europe ki suraksha — UPSC ke liye mahatvapurna.",
-   "source": "Arab News",
-   "source_url": "https://www.arabnews.com/world/reducing-ukraine-aid-sets-scene-for-more-war-macron-3011940",
-   "genuineness": "verified",
-   "outlets": [
-    "AFP",
-    "Le Monde",
-    "Al Mayadeen"
-   ],
-   "image": "../images/world/world-20261115-0622-01.jpg",
-   "image_credit": "Christophe Licoppe / European Union, Wikimedia Commons (CC BY 4.0)"
-  },
-  {
-   "id": "world-20261115-0622-02",
-   "published_ist": "2026-11-14T20:55:00+05:30",
-   "headline": "South Sudan: pehla chunav phir tala, February 2027",
-   "detail": "South Sudan ne azadi ke baad ke pehle rashtriya chunav phir taale — 22 December ki jagah ab 11 February 2027 ko matdan hoga; chunav aayog ne wajah nahi batayi, aur taiyari ke liye maange gaye $276 million me se sirf $21 million mile hain.",
-   "category": "World",
-   "exam_angle": "Africa me loktantra aur chunav taiyari — UPSC ke liye mahatvapurna.",
-   "source": "Arab News",
-   "source_url": "https://www.arabnews.com/world/south-sudan-postpones-first-national-elections-again-to-february-2027-3011871",
-   "genuineness": "verified",
-   "outlets": [
-    "Reuters",
-    "Arab News",
-    "CGTN"
-   ],
-   "image": "../images/world/world-20261115-0622-02.jpg",
-   "image_credit": "Stein Ove Korneliussen / Wikimedia Commons (CC BY 2.0)"
-  },
-  {
-   "id": "world-20261115-0722-01",
-   "published_ist": "2026-11-14T09:59:00+05:30",
-   "headline": "Trump, Xi, Putin: pehli baar teenon saath",
-   "detail": "White House ne pushti ki — America, China aur Russia ke neta 19 November ko Shenzhen me APEC ke kinare pehli baar teen-pakshiya baithak karenge; parmanu hathiyar kam karne aur Iran yuddh par baat hogi, par kisi samjhote ki ummeed kam hai.",
-   "category": "World",
-   "exam_angle": "Teen parmanu shaktiyon ki pehli teen-pakshiya baithak; APEC aur parmanu hathiyar niyantran — UPSC ke liye mahatvapurna.",
-   "source": "The Hindu",
-   "source_url": "https://www.thehindu.com/news/international/trump-xi-and-putin-plan-an-unprecedented-joint-meeting-apec-summit-china/article71700699.ece",
-   "genuineness": "verified",
-   "outlets": [
-    "The Hindu",
-    "CNN",
-    "Channel News Asia",
-    "The Jerusalem Post",
-    "Business Standard"
-   ],
-   "image": "../images/world/world-20261115-0722-01.jpg",
-   "image_credit": "The Hindu"
-  },
-  {
-   "id": "world-20261115-0722-02",
-   "published_ist": "2026-11-15T06:14:00+05:30",
-   "headline": "Starship pehli baar tower se pakda gaya",
-   "detail": "SpaceX ka Starship 22 ghante aur 14 chakkar ke baad kaksha se lauta aur Texas me launch tower ki vishal baahnon ne use pehli baar pakad liya; booster wapas aane me nakaam raha aur samudra me gira.",
-   "category": "World",
-   "exam_angle": "Puri tarah dobara istemal ho sakne wala rocket — antariksh takneek aur Artemis mission ke liye mahatvapurna.",
-   "source": "The Times of India",
-   "source_url": "https://timesofindia.indiatimes.com/science/watch-spacexs-starship-completes-first-ever-midair-catch-on-return-from-orbit/articleshow/135844940.cms",
-   "genuineness": "verified",
-   "outlets": [
-    "Reuters",
-    "Associated Press",
-    "The Times of India",
-    "Aerospace America",
-    "Florida Today"
-   ],
-   "image": null,
-   "image_credit": null
-  },
-  {
-   "id": "world-20261115-0722-03",
-   "published_ist": "2026-11-14T14:14:00+05:30",
-   "headline": "Tanker takkar: cruise boat palti, 32 ghayal",
-   "detail": "New Orleans me Mississippi nadi par ek tanker ne bandargah par khadi cruise boat American Heritage ko takkar maari — boat palat gayi, 197 yatri aur crew surakshit nikale gaye, 32 log aspatal me bharti hue, koi gambhir nahi.",
-   "category": "World",
-   "exam_angle": null,
-   "source": "Business Standard",
-   "source_url": "https://www.business-standard.com/amp/world-news/tanker-hits-cruise-ship-in-new-orleans-32-hospitalised-none-critical-126111400663_1.html",
-   "genuineness": "verified",
-   "outlets": [
-    "CNN",
-    "The Wall Street Journal",
-    "Associated Press",
-    "Gulf News",
-    "The Times"
-   ],
-   "image": "../images/world/world-20261115-0722-03.jpg",
-   "image_credit": "Business Standard"
-  },
-  {
-   "id": "world-20261115-0722-04",
-   "published_ist": "2026-11-14T14:49:00+05:30",
-   "headline": "Qatar-Turkey: hamle par ek saath khade honge",
-   "detail": "Turkey aur Qatar ne Istanbul me paraspar raksha samjhota kiya — kisi bhi bahari hamle par dono ek saath khade honge, suraksha khatron par salah-mashwara aur sanyukt sainya abhyas badhenge.",
-   "category": "World",
-   "exam_angle": "Khadi me raksha samjhote aur kshetriya suraksha — UPSC ke liye mahatvapurna.",
-   "source": "Al Jazeera",
-   "source_url": "https://www.aljazeera.com/news/2026/11/13/turkiye-and-qatar-sign-mutual-defence-agreement",
-   "genuineness": "verified",
-   "outlets": [
-    "Al Jazeera",
-    "Reuters",
-    "Malay Mail",
-    "Gulf News"
-   ],
-   "image": null,
-   "image_credit": null
-  },
-  {
-   "id": "world-20261115-0722-05",
-   "published_ist": "2026-11-15T05:36:00+05:30",
-   "headline": "Manila me ASEAN shikhar sammelan shuru",
-   "detail": "Manila me 49th ASEAN shikhar sammelan shuru hua — vyapaar, suraksha aur urja sankat par charcha hogi; Trump 17 November ko ASEAN-America shikhar sammelan me shamil honge aur Quad deshon se bhi milenge.",
-   "category": "World",
-   "exam_angle": "ASEAN, Quad aur Bharat ki Act East neeti — UPSC ke liye mahatvapurna.",
-   "source": "Arab News",
-   "source_url": "https://www.arabnews.pk/world/global-powers-converge-on-manila-as-asean-summit-kicks-off-3007067",
-   "genuineness": "verified",
-   "outlets": [
-    "Agence France-Presse",
-    "The Manila Times",
-    "The Philippine Star",
-    "Rappler",
-    "Channel News Asia"
-   ],
-   "image": "../images/world/world-20261115-0722-05.jpg",
-   "image_credit": "Arab News"
-  },
-  {
-   "id": "world-20261115-0822-01",
-   "published_ist": "2026-11-14T02:24:00+05:30",
-   "headline": "America me saari udaanen chaar ghante band",
-   "detail": "FAA ne telecom kharabi ke baad desh bhar me ground stop lagaya — 17 air traffic control kendra prabhavit, 4,700 se zyada udaanen radd aur 15 lakh se zyada yatri fase; shaam ko udaanen phir shuru hui, par cyber hamle ka koi saboot nahi mila.",
-   "category": "World",
-   "exam_angle": "9/11 ke baad se doosra desh-vyapi ground stop; purani air traffic control takneek par sawal — UPSC ke liye mahatvapurna.",
-   "source": "Al Jazeera",
-   "source_url": "https://www.aljazeera.com/news/2026/11/14/faa-ground-stop-lifted-why-were-us-flights-grounded-and-whats-next",
-   "genuineness": "verified",
-   "outlets": [
-    "Al Jazeera",
-    "CNN",
-    "USA Today",
-    "News18"
-   ],
-   "image": "../images/world/world-20261115-0822-01.jpg",
-   "image_credit": "Al Jazeera"
-  },
-  {
-   "id": "world-20261115-0822-02",
-   "published_ist": "2026-11-14T19:51:00+05:30",
-   "headline": "Manila me Quad shikhar sammelan, 17 November",
-   "detail": "Modi, Trump, Takaichi aur Albanese 17 November ki shaam Manila me milenge — 2024 ke baad pehla Quad shikhar sammelan, aur pehli baar kisi gair-Quad desh me; critical minerals aur samudri suraksha par baat hogi.",
-   "category": "World",
-   "exam_angle": "2024 ke baad pehla Quad shikhar sammelan; Bharat ki adhyakshata aur Indo-Pacific sahyog — UPSC ke liye mahatvapurna.",
-   "source": "The Hindu",
-   "source_url": "https://www.thehindu.com/news/international/quad-summit-likely-to-be-held-in-manila-on-november-17-sources-say/article71702178.ece",
-   "genuineness": "verified",
-   "outlets": [
-    "The Hindu",
-    "The Indian Express",
-    "News9",
-    "Reuters"
-   ],
-   "image": null,
-   "image_credit": null
-  },
-  {
-   "id": "world-20261115-0926-01",
-   "published_ist": "2026-11-15T08:29:00+05:30",
-   "headline": "Riyadh par Houthi missile, hawai suraksha ne roka",
-   "detail": "Saudi gathbandhan ne ravivaar subah Riyadh ki taraf aaye Houthi ke do ballistic missile maar giraye; shanivaar ko bhi do drone nasht kiye gaye — 23 September se Houthi hamalon me Saudi me kam se kam 26 log mare gaye.",
-   "category": "World",
-   "exam_angle": "Khadi me tanav, Houthi hamle aur Bharat ki urja suraksha — UPSC ke liye mahatvapurna.",
-   "source": "Al Jazeera",
-   "source_url": "https://www.aljazeera.com/news/2026/11/15/saudi-led-coalition-intercepts-two-missiles-two-drones-in-riyadh",
-   "genuineness": "verified",
-   "outlets": [
-    "Al Jazeera",
-    "Reuters",
-    "Arab News",
-    "Gulf News",
-    "Dawn"
-   ],
-   "image": null,
-   "image_credit": null
-  },
-  {
-   "id": "world-20261115-0926-02",
-   "published_ist": "2026-11-14T19:55:00+05:30",
-   "headline": "Italy ne Meta par €805 million jurmana",
-   "detail": "Italy ke data regulator ne Facebook ko Android users ki gallery se bina anumati photo-video lene par €805 million (lagbhag $887 million) ka jurmana lagaya — lagbhag 2 crore users prabhavit hue, Meta ko 60 din me feature band karna hoga.",
-   "category": "World",
-   "exam_angle": "Data privacy, GDPR aur badi tech companies par niyaman — UPSC ke liye mahatvapurna.",
-   "source": "Telegraph India",
-   "source_url": "https://www.telegraphindia.com/amp/world/italy-fines-meta-usd-887-million-over-facebook-feature-accessing-android-users-photos/cid/2189450",
-   "genuineness": "verified",
-   "outlets": [
-    "Telegraph India",
-    "BBC",
-    "Politico Europe",
-    "CBS News",
-    "Bloomberg",
-    "ETV Bharat"
-   ],
-   "image": null,
-   "image_credit": null
-  },
-  {
-   "id": "world-20261115-0926-03",
-   "published_ist": "2026-11-14T17:36:00+05:30",
-   "headline": "Pope Leo Peru laute, lakhon ne swagat kiya",
-   "detail": "Pope Leo XIV Peru laut aaye — Lima me 30 lakh logon ne swagat kiya, Chiclayo me 15 lakh ki Mass hui, aur shanivaar ko Andes ke gaon me unhone garibi aur palayan par 'suffering' ki chetavani di.",
-   "category": "World",
-   "exam_angle": "Pope ka pehla Latin America daura; Vatican kootneeti — UPSC ke liye mahatvapurna.",
-   "source": "Arab News",
-   "source_url": "https://www.arabnews.com/world/pope-says-inca-heartland-suffering-as-villages-empty-3011959",
-   "genuineness": "verified",
-   "outlets": [
-    "Agence France-Presse",
-    "Al Jazeera",
-    "Le Monde",
-    "Deutsche Welle"
-   ],
-   "image": "../images/world/world-20261115-0926-03.jpg",
-   "image_credit": "GORE Callao, Wikimedia Commons (Public domain)"
-  },
-  {
-   "id": "world-20261115-1022-01",
-   "published_ist": "2026-11-15T06:30:42+05:30",
-   "headline": "Gaza me Hamas ke bade commander mare gaye",
-   "detail": "Israel ke drone hamle me Hamas ki Rafah brigade ke commander Samir Abu Younis (53) Khan Younis me mare gaye; Hamas ne maut ki pushti ki, do log ghayal — October 2025 se lagu yuddhviram par dabav badha.",
-   "category": "World",
-   "exam_angle": "Gaza yuddhviram aur Madhya-Purv me tanav — UPSC ke liye mahatvapurna.",
-   "source": "Al Jazeera",
-   "source_url": "https://www.aljazeera.com/news/2026/11/15/israeli-air-strike-kills-senior-hamas-commander-in-gaza",
-   "genuineness": "verified",
-   "outlets": [
-    "Al Jazeera",
-    "Reuters",
-    "Agence France-Presse",
-    "Arab News",
-    "The Jerusalem Post"
-   ],
-   "image": null,
-   "image_credit": null
-  },
-  {
-   "id": "world-20261115-1125-01",
-   "published_ist": "2026-11-15T09:19:00+05:30",
-   "headline": "America me udaan sankat, hazaron flights radd",
-   "detail": "FAA ke router kharabi se shukravaar ko lagbhag 9,200 flights radd hui, shanivaar ko 6,150 se zyada; ravivaar der raat tak haal normal hone ki ummeed — L3Harris ke router ki jaanch chal rahi hai.",
-   "category": "World",
-   "exam_angle": "America me havaai yatra sankat aur ATC vyavastha — UPSC ke liye mahatvapurna.",
-   "source": "The Business Times",
-   "source_url": "https://www.businesstimes.com.sg/international/us-air-travel-issues-persist-well-sunday-officials-say-thousands-flights-affected",
-   "genuineness": "verified",
-   "outlets": [
-    "Reuters",
-    "The Statesman",
-    "India TV News",
-    "Sunday Guardian"
-   ],
-   "image": "../images/world/world-20261115-1125-01.jpg",
-   "image_credit": "The Business Times"
-  },
-  {
-   "id": "world-20261115-1125-02",
-   "published_ist": "2026-11-15T10:19:00+05:30",
-   "headline": "Philippines-Australia raksha samjhauta, 1995 deal update",
-   "detail": "Manila me Philippines aur Australia ne Defence Cooperation Arrangement par hastakshar kiye — 1995 ke samjhaute ka update, sanyukt sainya abhyas aur aapda madad me tezi aayegi; PM Albanese ne samjhaute ko dekha.",
-   "category": "World",
-   "exam_angle": "Indo-Pacific me raksha sahyog aur ASEAN — UPSC ke liye mahatvapurna.",
-   "source": "Reuters",
-   "source_url": "https://www.reuters.com/world/china/philippines-australia-sign-defence-pact-with-eye-china-2026-11-15/",
-   "genuineness": "verified",
-   "outlets": [
-    "Reuters",
-    "Rappler",
-    "The Manila Times"
-   ],
-   "image": null,
-   "image_credit": null
-  },
-  {
-   "id": "world-20261115-1125-03",
-   "published_ist": "2026-11-15T10:41:00+05:30",
-   "headline": "NATO: 2027 me Albania shikhar sammelan nahi",
-   "detail": "NATO ne 2027 me Albania me netaon ka shikhar sammelan na karne ka faisla kiya, mantri-stariya baithaken bhi kam hongi; mahasachiv Rutte ne kaha shikhar sammelan tab hoga jab zaroorat hogi, 2028 me Tirana mezban ho sakta hai.",
-   "category": "World",
-   "exam_angle": "NATO aur Europe ki suraksha vyavastha — UPSC ke liye mahatvapurna.",
-   "source": "Associated Press",
-   "source_url": "https://www.lanacion.com.ar/usa/nato-to-skip-a-leaders-summit-in-albania-next-year-as-high-level-meetings-are-scaled-back-nid15112026/",
-   "genuineness": "verified",
-   "outlets": [
-    "Associated Press",
-    "The Independent",
-    "Reuters"
-   ],
-   "image": null,
-   "image_credit": null
-  },
-  {
-   "id": "world-20261115-1222-01",
-   "published_ist": "2026-11-15T06:33:00+05:30",
-   "headline": "Hormuz: teen tanker me aag, Iran ka daava",
-   "detail": "Iran ki nausena ka daava hai ki Hormuz jalmarg me teen tel tanker samudri surang se takrakar aag me lapet gaye; swatantra pushti abhi nahi hui hai, aur America ke anusaar marg saaf kiya ja chuka hai.",
-   "category": "World",
-   "exam_angle": "Hormuz jalmarg, Iran-America tanav aur Bharat ki urja suraksha — UPSC ke liye mahatvapurna.",
-   "source": "The Times of India",
-   "source_url": "https://timesofindia.indiatimes.com/world/middle-east/iran-claims-three-tankers-hit-naval-mines-near-hormuz-warns-ships-against-entering-restricted-zone/articleshow/135849046.cms",
-   "genuineness": "corroborated",
-   "outlets": [
-    "The Times of India",
-    "The Manila Times",
-    "The Chosun Ilbo"
-   ],
-   "image": null,
-   "image_credit": null
-  },
-  {
-   "id": "world-20261115-1222-02",
-   "published_ist": "2026-11-15T07:14:00+05:30",
-   "headline": "Kate aur William Mumbai aayenge, Earthshot 17 November",
-   "detail": "Kensington Palace ne 14 November ko ghoshna ki — Prince William aur Kate Middleton 17 November ko Mumbai me Earthshot Prize samaroh me shamil honge; ye 2022 ke baad unki pehli sanyukt videsh yatra hai.",
-   "category": "World",
-   "exam_angle": "Earthshot Prize aur Bharat-Britain sambandh — UPSC ke liye mahatvapurna.",
-   "source": "The Times of India",
-   "source_url": "https://timesofindia.indiatimes.com/world/uk/prince-william-kate-middleton-to-attend-earthshot-prize-in-mumbai-in-first-joint-overseas-tour-since-2022/articleshow/135845243.cms",
-   "genuineness": "verified",
-   "outlets": [
-    "Reuters",
-    "Gulf News",
-    "The Straits Times"
-   ],
-   "image": null,
-   "image_credit": null
-  },
-  {
-   "id": "world-20261115-1222-03",
-   "published_ist": "2026-11-15T06:25:00+05:30",
-   "headline": "France me paanchve hafte bhi lakhon ka pradarshan",
-   "detail": "France me shanivaar ko paanchve lagataar hafte mehangai aur police vidheyak ke khilaf pradarshan hue — grih mantralaya ke anusaar 1,06,000 log, aayojakon ke anusaar 2,00,000; mangalvaar ko phir hadtaal ka ailaan hai.",
-   "category": "World",
-   "exam_angle": "France me jan-andolan aur loktantra — UPSC ke liye mahatvapurna.",
-   "source": "Malay Mail",
-   "source_url": "https://www.malaymail.com/news/world/2026/11/15/more-than-100000-march-across-france-as-protests-enter-fifth-weekend/243325",
-   "genuineness": "verified",
-   "outlets": [
-    "Agence France-Presse",
-    "Euronews",
-    "Times Now"
-   ],
-   "image": null,
-   "image_credit": null
-  },
-  {
-   "id": "world-20261115-1324-01",
-   "published_ist": "2026-11-15T12:43:00+05:30",
-   "headline": "Damascus: car bomb me pita-beti mare gaye",
-   "detail": "Damascus ke Jaramana ilaake me shanivaar shaam car bomb phata — ek aadmi aur uski beti mare gaye, ek mahila ghayal; suraksha balon ne jaanch shuru ki, kisi ne zimmedari nahi li.",
-   "category": "World",
-   "exam_angle": "Syria me suraksha sthiti aur West Asia — UPSC ke liye mahatvapurna.",
-   "source": "Gulf Today",
-   "source_url": "https://www.gulftoday.ae/news/2026/11/15/syria-car-bomb-kills-2-including-child",
-   "genuineness": "verified",
-   "outlets": [
-    "Agence France-Presse",
-    "Al Jazeera",
-    "Associated Press"
-   ],
-   "image": null,
-   "image_credit": null
-  },
-  {
-   "id": "world-20261115-1324-02",
-   "published_ist": "2026-11-15T12:00:00+05:30",
-   "headline": "WHO: type 1 diabetes par pehli guidelines",
-   "detail": "WHO ne 14 November ko World Diabetes Day par vayaskon me type 1 diabetes ke liye pehli guidelines jaari ki — roz kai baar insulin injection aur sasti insulin tak pahunch par zor; duniya bhar me 95 lakh log isse peedit hain.",
-   "category": "World",
-   "exam_angle": "WHO, swasthya aur Bharat me diabetes bojh — UPSC ke liye mahatvapurna.",
-   "source": "The South First",
-   "source_url": "https://thesouthfirst.com/health/who-issues-first-guidelines-on-type-1-diabetes-in-adults-recommends-multiple-daily-insulin-injections/",
-   "genuineness": "verified",
-   "outlets": [
-    "The South First",
-    "Punch",
-    "Health and Me"
-   ],
-   "image": null,
-   "image_credit": null
-  },
-  {
-   "id": "world-20261115-1324-03",
-   "published_ist": "2026-11-15T07:50:00+05:30",
-   "headline": "COP31: Antalya me hazaaron ka pradarshan",
-   "detail": "Antalya me shanivaar ko hazaaron pradarshankariyon ne COP31 ke khilaf march kiya — police ke anusaar 7,000 se zyada log; vaarta aadhe raste par hai, jeevashm indhan aur vitt par matbhed barkaraar.",
-   "category": "World",
-   "exam_angle": "COP31, jalvayu vaarta aur Bharat ki sthiti — UPSC ke liye mahatvapurna.",
-   "source": "Malay Mail",
-   "source_url": "https://www.malaymail.com/news/world/2026/11/15/thousands-rally-against-cop31-as-climate-talks-hit-midpoint/243318",
-   "genuineness": "verified",
-   "outlets": [
-    "Agence France-Presse",
-    "The Irish Times",
-    "Qatar Tribune"
-   ],
-   "image": null,
-   "image_credit": null
-  },
-  {
-   "id": "world-20261115-1324-04",
-   "published_ist": "2026-11-14T14:46:00+05:30",
-   "headline": "Trump: Iran par hamla rok sakte hain",
-   "detail": "Reuters ke anusaar Trump ne salaahkaaron se kaha — Tehran ya Houthi ki taraf se nayi uksaahat na ho to Iran par hamla roka ja sakta hai; Saudi aur Turkey ne bhi hamla na karne ki guzaarish ki hai.",
-   "category": "World",
-   "exam_angle": "America-Iran tanav, Hormuz aur Bharat ki urja suraksha — UPSC ke liye mahatvapurna.",
-   "source": "Reuters",
-   "source_url": "https://www.reuters.com/world/middle-east/trump-tells-advisers-he-may-hold-off-iran-attacks-barring-new-provocations-2026-11-14/",
-   "genuineness": "corroborated",
-   "outlets": [
-    "Reuters",
-    "The Jerusalem Post"
-   ],
-   "image": null,
-   "image_credit": null
-  },
-  {
-   "id": "world-20261115-1422-01",
-   "published_ist": "2026-11-15T13:16:00+05:30",
-   "headline": "Bahrain: Iran ka US base par drone hamla",
-   "detail": "Bahrain me subah dhamake aur siren sunai diye; Iran ke Revolutionary Guards ne daava kiya ki unhone Riffa base par US radar ko chhah drones se nishana banaya — Bahrain ne kaha uski hawai suraksha ne kai hamle roke, abhi koi nuksan ki pushti nahi.",
-   "category": "World",
-   "exam_angle": "West Asia me tanav aur Gulf me US sainya upasthiti — UPSC ke liye mahatvapurna.",
-   "source": "Malay Mail",
-   "source_url": "https://www.malaymail.com/news/world/2026/11/15/blasts-sirens-in-bahrain-as-iran-announces-attack-on-us-base/243363",
-   "genuineness": "verified",
-   "outlets": [
-    "Agence France-Presse",
-    "The National",
-    "Al Jazeera"
-   ],
-   "image": null,
-   "image_credit": null
-  },
-  {
-   "id": "world-20261115-1422-02",
-   "published_ist": "2026-11-15T05:26:00+05:30",
-   "headline": "Manila me 49th ASEAN shikhar sammelan shuru",
-   "detail": "Philippines ke Rashtrapati Marcos ne Manila me 49th ASEAN Summit ka udghatan kiya — vyapar, urja sankat, Myanmar aur South China Sea par charcha; Trump 17 November ko pahunchenge, Quad netaon se alag baithak bhi hogi.",
-   "category": "World",
-   "exam_angle": "ASEAN, Bharat-ASEAN sambandh aur Quad — UPSC ke liye mahatvapurna.",
-   "source": "The Manila Times",
-   "source_url": "https://beta.manilatimes.net/2026/11/15/news/global-powers-converge-as-ph-opens-49th-asean-summit/2470176",
-   "genuineness": "verified",
-   "outlets": [
-    "Agence France-Presse",
-    "The Philippine Star",
-    "Philippine Daily Inquirer"
-   ],
-   "image": null,
-   "image_credit": null
-  },
-  {
-   "id": "world-20261115-1522-01",
-   "published_ist": "2026-11-15T09:30:00+05:30",
-   "headline": "Shenzhen me APEC CEO Summit, 12 neta aayenge",
-   "detail": "CCPIT ne aaj elaan kiya ki 17-18 November ko Shenzhen me hone wale APEC CEO Summit me Xi Jinping samet 12 arthvyavasthaon ke neta bhashan denge ya panel charcha me hissa lenge; 115 Fortune Global 500 companiyon ke pratinidhi bhi aayenge.",
-   "category": "World",
-   "exam_angle": "APEC aur Asia-Pacific me vyapar sahyog — UPSC ke liye mahatvapurna.",
-   "source": "CGTN",
-   "source_url": "https://news.cgtn.com/news/2026-11-15/Twelve-APEC-leaders-to-attend-CEO-Summit-in-Shenzhen-1S5mNgHhkKA/p.html",
-   "genuineness": "corroborated",
-   "outlets": [
-    "CGTN",
-    "China Daily"
-   ],
-   "image": null,
-   "image_credit": null
-  },
-  {
-   "id": "world-20261115-1522-02",
-   "published_ist": "2026-11-14T18:33:00+05:30",
-   "headline": "Timor-Leste 2029 me ASEAN ki adhyakshata karega",
-   "detail": "ASEAN Coordinating Council ne faisla kiya ki Timor-Leste 2029 me ASEAN ki adhyakshata karega — Singapore 2027 me, Thailand 2028 me, phir Vietnam; Myanmar ki daavedari baad me vichari jayegi.",
-   "category": "World",
-   "exam_angle": "ASEAN adhyakshata chakr aur Timor-Leste, sabse naya sadasya — UPSC ke liye mahatvapurna.",
-   "source": "Malay Mail",
-   "source_url": "https://beta.malaymail.com/news/world/2026/11/14/timor-leste-gets-2029-asean-chair-as-bloc-sticks-to-alphabetical-rotation/243289",
-   "genuineness": "corroborated",
-   "outlets": [
-    "Bernama",
-    "Astig.ph"
-   ],
-   "image": null,
-   "image_credit": null
-  }
- ]
+  "date": "2026-11-15",
+  "updated_ist": "2026-11-15T15:26:57+05:30",
+  "items": [
+    {
+      "id": "world-20261115-0622-01",
+      "published_ist": "2026-11-15T01:22:00+05:30",
+      "headline": "Macron: Ukraine madad ghatao to phir yuddh",
+      "detail": "France ke rashtrapati Emmanuel Macron ne shanivaar ko kaha — Ukraine ki madad kam karna use 'anyaypoorn shanti' par majboor karega aur ye ek aur yuddh ki recipe hai; unhone Europe ki suraksha ke liye vittiya madad jaari rakhne ki maang ki.",
+      "category": "World",
+      "exam_angle": "Ukraine yuddh aur Europe ki suraksha — UPSC ke liye mahatvapurna.",
+      "source": "Arab News",
+      "source_url": "https://www.arabnews.com/world/reducing-ukraine-aid-sets-scene-for-more-war-macron-3011940",
+      "genuineness": "verified",
+      "outlets": [
+        "AFP",
+        "Le Monde",
+        "Al Mayadeen"
+      ],
+      "image": "../images/world/world-20261115-0622-01.jpg",
+      "image_credit": "Christophe Licoppe / European Union, Wikimedia Commons (CC BY 4.0)"
+    },
+    {
+      "id": "world-20261115-0622-02",
+      "published_ist": "2026-11-14T20:55:00+05:30",
+      "headline": "South Sudan: pehla chunav phir tala, February 2027",
+      "detail": "South Sudan ne azadi ke baad ke pehle rashtriya chunav phir taale — 22 December ki jagah ab 11 February 2027 ko matdan hoga; chunav aayog ne wajah nahi batayi, aur taiyari ke liye maange gaye $276 million me se sirf $21 million mile hain.",
+      "category": "World",
+      "exam_angle": "Africa me loktantra aur chunav taiyari — UPSC ke liye mahatvapurna.",
+      "source": "Arab News",
+      "source_url": "https://www.arabnews.com/world/south-sudan-postpones-first-national-elections-again-to-february-2027-3011871",
+      "genuineness": "verified",
+      "outlets": [
+        "Reuters",
+        "Arab News",
+        "CGTN"
+      ],
+      "image": "../images/world/world-20261115-0622-02.jpg",
+      "image_credit": "Stein Ove Korneliussen / Wikimedia Commons (CC BY 2.0)"
+    },
+    {
+      "id": "world-20261115-0722-01",
+      "published_ist": "2026-11-14T09:59:00+05:30",
+      "headline": "Trump, Xi, Putin: pehli baar teenon saath",
+      "detail": "White House ne pushti ki — America, China aur Russia ke neta 19 November ko Shenzhen me APEC ke kinare pehli baar teen-pakshiya baithak karenge; parmanu hathiyar kam karne aur Iran yuddh par baat hogi, par kisi samjhote ki ummeed kam hai.",
+      "category": "World",
+      "exam_angle": "Teen parmanu shaktiyon ki pehli teen-pakshiya baithak; APEC aur parmanu hathiyar niyantran — UPSC ke liye mahatvapurna.",
+      "source": "The Hindu",
+      "source_url": "https://www.thehindu.com/news/international/trump-xi-and-putin-plan-an-unprecedented-joint-meeting-apec-summit-china/article71700699.ece",
+      "genuineness": "verified",
+      "outlets": [
+        "The Hindu",
+        "CNN",
+        "Channel News Asia",
+        "The Jerusalem Post",
+        "Business Standard"
+      ],
+      "image": "../images/world/world-20261115-0722-01.jpg",
+      "image_credit": "The Hindu"
+    },
+    {
+      "id": "world-20261115-0722-02",
+      "published_ist": "2026-11-15T06:14:00+05:30",
+      "headline": "Starship pehli baar tower se pakda gaya",
+      "detail": "SpaceX ka Starship 22 ghante aur 14 chakkar ke baad kaksha se lauta aur Texas me launch tower ki vishal baahnon ne use pehli baar pakad liya; booster wapas aane me nakaam raha aur samudra me gira.",
+      "category": "World",
+      "exam_angle": "Puri tarah dobara istemal ho sakne wala rocket — antariksh takneek aur Artemis mission ke liye mahatvapurna.",
+      "source": "The Times of India",
+      "source_url": "https://timesofindia.indiatimes.com/science/watch-spacexs-starship-completes-first-ever-midair-catch-on-return-from-orbit/articleshow/135844940.cms",
+      "genuineness": "verified",
+      "outlets": [
+        "Reuters",
+        "Associated Press",
+        "The Times of India",
+        "Aerospace America",
+        "Florida Today"
+      ],
+      "image": null,
+      "image_credit": null
+    },
+    {
+      "id": "world-20261115-0722-03",
+      "published_ist": "2026-11-14T14:14:00+05:30",
+      "headline": "Tanker takkar: cruise boat palti, 32 ghayal",
+      "detail": "New Orleans me Mississippi nadi par ek tanker ne bandargah par khadi cruise boat American Heritage ko takkar maari — boat palat gayi, 197 yatri aur crew surakshit nikale gaye, 32 log aspatal me bharti hue, koi gambhir nahi.",
+      "category": "World",
+      "exam_angle": null,
+      "source": "Business Standard",
+      "source_url": "https://www.business-standard.com/amp/world-news/tanker-hits-cruise-ship-in-new-orleans-32-hospitalised-none-critical-126111400663_1.html",
+      "genuineness": "verified",
+      "outlets": [
+        "CNN",
+        "The Wall Street Journal",
+        "Associated Press",
+        "Gulf News",
+        "The Times"
+      ],
+      "image": "../images/world/world-20261115-0722-03.jpg",
+      "image_credit": "Business Standard"
+    },
+    {
+      "id": "world-20261115-0722-04",
+      "published_ist": "2026-11-14T14:49:00+05:30",
+      "headline": "Qatar-Turkey: hamle par ek saath khade honge",
+      "detail": "Turkey aur Qatar ne Istanbul me paraspar raksha samjhota kiya — kisi bhi bahari hamle par dono ek saath khade honge, suraksha khatron par salah-mashwara aur sanyukt sainya abhyas badhenge.",
+      "category": "World",
+      "exam_angle": "Khadi me raksha samjhote aur kshetriya suraksha — UPSC ke liye mahatvapurna.",
+      "source": "Al Jazeera",
+      "source_url": "https://www.aljazeera.com/news/2026/11/13/turkiye-and-qatar-sign-mutual-defence-agreement",
+      "genuineness": "verified",
+      "outlets": [
+        "Al Jazeera",
+        "Reuters",
+        "Malay Mail",
+        "Gulf News"
+      ],
+      "image": null,
+      "image_credit": null
+    },
+    {
+      "id": "world-20261115-0722-05",
+      "published_ist": "2026-11-15T05:36:00+05:30",
+      "headline": "Manila me ASEAN shikhar sammelan shuru",
+      "detail": "Manila me 49th ASEAN shikhar sammelan shuru hua — vyapaar, suraksha aur urja sankat par charcha hogi; Trump 17 November ko ASEAN-America shikhar sammelan me shamil honge aur Quad deshon se bhi milenge.",
+      "category": "World",
+      "exam_angle": "ASEAN, Quad aur Bharat ki Act East neeti — UPSC ke liye mahatvapurna.",
+      "source": "Arab News",
+      "source_url": "https://www.arabnews.pk/world/global-powers-converge-on-manila-as-asean-summit-kicks-off-3007067",
+      "genuineness": "verified",
+      "outlets": [
+        "Agence France-Presse",
+        "The Manila Times",
+        "The Philippine Star",
+        "Rappler",
+        "Channel News Asia"
+      ],
+      "image": "../images/world/world-20261115-0722-05.jpg",
+      "image_credit": "Arab News"
+    },
+    {
+      "id": "world-20261115-0822-01",
+      "published_ist": "2026-11-14T02:24:00+05:30",
+      "headline": "America me saari udaanen chaar ghante band",
+      "detail": "FAA ne telecom kharabi ke baad desh bhar me ground stop lagaya — 17 air traffic control kendra prabhavit, 4,700 se zyada udaanen radd aur 15 lakh se zyada yatri fase; shaam ko udaanen phir shuru hui, par cyber hamle ka koi saboot nahi mila.",
+      "category": "World",
+      "exam_angle": "9/11 ke baad se doosra desh-vyapi ground stop; purani air traffic control takneek par sawal — UPSC ke liye mahatvapurna.",
+      "source": "Al Jazeera",
+      "source_url": "https://www.aljazeera.com/news/2026/11/14/faa-ground-stop-lifted-why-were-us-flights-grounded-and-whats-next",
+      "genuineness": "verified",
+      "outlets": [
+        "Al Jazeera",
+        "CNN",
+        "USA Today",
+        "News18"
+      ],
+      "image": "../images/world/world-20261115-0822-01.jpg",
+      "image_credit": "Al Jazeera"
+    },
+    {
+      "id": "world-20261115-0822-02",
+      "published_ist": "2026-11-14T19:51:00+05:30",
+      "headline": "Manila me Quad shikhar sammelan, 17 November",
+      "detail": "Modi, Trump, Takaichi aur Albanese 17 November ki shaam Manila me milenge — 2024 ke baad pehla Quad shikhar sammelan, aur pehli baar kisi gair-Quad desh me; critical minerals aur samudri suraksha par baat hogi.",
+      "category": "World",
+      "exam_angle": "2024 ke baad pehla Quad shikhar sammelan; Bharat ki adhyakshata aur Indo-Pacific sahyog — UPSC ke liye mahatvapurna.",
+      "source": "The Hindu",
+      "source_url": "https://www.thehindu.com/news/international/quad-summit-likely-to-be-held-in-manila-on-november-17-sources-say/article71702178.ece",
+      "genuineness": "verified",
+      "outlets": [
+        "The Hindu",
+        "The Indian Express",
+        "News9",
+        "Reuters"
+      ],
+      "image": null,
+      "image_credit": null
+    },
+    {
+      "id": "world-20261115-0926-01",
+      "published_ist": "2026-11-15T08:29:00+05:30",
+      "headline": "Riyadh par Houthi missile, hawai suraksha ne roka",
+      "detail": "Saudi gathbandhan ne ravivaar subah Riyadh ki taraf aaye Houthi ke do ballistic missile maar giraye; shanivaar ko bhi do drone nasht kiye gaye — 23 September se Houthi hamalon me Saudi me kam se kam 26 log mare gaye.",
+      "category": "World",
+      "exam_angle": "Khadi me tanav, Houthi hamle aur Bharat ki urja suraksha — UPSC ke liye mahatvapurna.",
+      "source": "Al Jazeera",
+      "source_url": "https://www.aljazeera.com/news/2026/11/15/saudi-led-coalition-intercepts-two-missiles-two-drones-in-riyadh",
+      "genuineness": "verified",
+      "outlets": [
+        "Al Jazeera",
+        "Reuters",
+        "Arab News",
+        "Gulf News",
+        "Dawn"
+      ],
+      "image": null,
+      "image_credit": null
+    },
+    {
+      "id": "world-20261115-0926-02",
+      "published_ist": "2026-11-14T19:55:00+05:30",
+      "headline": "Italy ne Meta par €805 million jurmana",
+      "detail": "Italy ke data regulator ne Facebook ko Android users ki gallery se bina anumati photo-video lene par €805 million (lagbhag $887 million) ka jurmana lagaya — lagbhag 2 crore users prabhavit hue, Meta ko 60 din me feature band karna hoga.",
+      "category": "World",
+      "exam_angle": "Data privacy, GDPR aur badi tech companies par niyaman — UPSC ke liye mahatvapurna.",
+      "source": "Telegraph India",
+      "source_url": "https://www.telegraphindia.com/amp/world/italy-fines-meta-usd-887-million-over-facebook-feature-accessing-android-users-photos/cid/2189450",
+      "genuineness": "verified",
+      "outlets": [
+        "Telegraph India",
+        "BBC",
+        "Politico Europe",
+        "CBS News",
+        "Bloomberg",
+        "ETV Bharat"
+      ],
+      "image": null,
+      "image_credit": null
+    },
+    {
+      "id": "world-20261115-0926-03",
+      "published_ist": "2026-11-14T17:36:00+05:30",
+      "headline": "Pope Leo Peru laute, lakhon ne swagat kiya",
+      "detail": "Pope Leo XIV Peru laut aaye — Lima me 30 lakh logon ne swagat kiya, Chiclayo me 15 lakh ki Mass hui, aur shanivaar ko Andes ke gaon me unhone garibi aur palayan par 'suffering' ki chetavani di.",
+      "category": "World",
+      "exam_angle": "Pope ka pehla Latin America daura; Vatican kootneeti — UPSC ke liye mahatvapurna.",
+      "source": "Arab News",
+      "source_url": "https://www.arabnews.com/world/pope-says-inca-heartland-suffering-as-villages-empty-3011959",
+      "genuineness": "verified",
+      "outlets": [
+        "Agence France-Presse",
+        "Al Jazeera",
+        "Le Monde",
+        "Deutsche Welle"
+      ],
+      "image": "../images/world/world-20261115-0926-03.jpg",
+      "image_credit": "GORE Callao, Wikimedia Commons (Public domain)"
+    },
+    {
+      "id": "world-20261115-1022-01",
+      "published_ist": "2026-11-15T06:30:42+05:30",
+      "headline": "Gaza me Hamas ke bade commander mare gaye",
+      "detail": "Israel ke drone hamle me Hamas ki Rafah brigade ke commander Samir Abu Younis (53) Khan Younis me mare gaye; Hamas ne maut ki pushti ki, do log ghayal — October 2025 se lagu yuddhviram par dabav badha.",
+      "category": "World",
+      "exam_angle": "Gaza yuddhviram aur Madhya-Purv me tanav — UPSC ke liye mahatvapurna.",
+      "source": "Al Jazeera",
+      "source_url": "https://www.aljazeera.com/news/2026/11/15/israeli-air-strike-kills-senior-hamas-commander-in-gaza",
+      "genuineness": "verified",
+      "outlets": [
+        "Al Jazeera",
+        "Reuters",
+        "Agence France-Presse",
+        "Arab News",
+        "The Jerusalem Post"
+      ],
+      "image": null,
+      "image_credit": null
+    },
+    {
+      "id": "world-20261115-1125-01",
+      "published_ist": "2026-11-15T09:19:00+05:30",
+      "headline": "America me udaan sankat, hazaron flights radd",
+      "detail": "FAA ke router kharabi se shukravaar ko lagbhag 9,200 flights radd hui, shanivaar ko 6,150 se zyada; ravivaar der raat tak haal normal hone ki ummeed — L3Harris ke router ki jaanch chal rahi hai.",
+      "category": "World",
+      "exam_angle": "America me havaai yatra sankat aur ATC vyavastha — UPSC ke liye mahatvapurna.",
+      "source": "The Business Times",
+      "source_url": "https://www.businesstimes.com.sg/international/us-air-travel-issues-persist-well-sunday-officials-say-thousands-flights-affected",
+      "genuineness": "verified",
+      "outlets": [
+        "Reuters",
+        "The Statesman",
+        "India TV News",
+        "Sunday Guardian"
+      ],
+      "image": "../images/world/world-20261115-1125-01.jpg",
+      "image_credit": "The Business Times"
+    },
+    {
+      "id": "world-20261115-1125-02",
+      "published_ist": "2026-11-15T10:19:00+05:30",
+      "headline": "Philippines-Australia raksha samjhauta, 1995 deal update",
+      "detail": "Manila me Philippines aur Australia ne Defence Cooperation Arrangement par hastakshar kiye — 1995 ke samjhaute ka update, sanyukt sainya abhyas aur aapda madad me tezi aayegi; PM Albanese ne samjhaute ko dekha.",
+      "category": "World",
+      "exam_angle": "Indo-Pacific me raksha sahyog aur ASEAN — UPSC ke liye mahatvapurna.",
+      "source": "Reuters",
+      "source_url": "https://www.reuters.com/world/china/philippines-australia-sign-defence-pact-with-eye-china-2026-11-15/",
+      "genuineness": "verified",
+      "outlets": [
+        "Reuters",
+        "Rappler",
+        "The Manila Times"
+      ],
+      "image": null,
+      "image_credit": null
+    },
+    {
+      "id": "world-20261115-1125-03",
+      "published_ist": "2026-11-15T10:41:00+05:30",
+      "headline": "NATO: 2027 me Albania shikhar sammelan nahi",
+      "detail": "NATO ne 2027 me Albania me netaon ka shikhar sammelan na karne ka faisla kiya, mantri-stariya baithaken bhi kam hongi; mahasachiv Rutte ne kaha shikhar sammelan tab hoga jab zaroorat hogi, 2028 me Tirana mezban ho sakta hai.",
+      "category": "World",
+      "exam_angle": "NATO aur Europe ki suraksha vyavastha — UPSC ke liye mahatvapurna.",
+      "source": "Associated Press",
+      "source_url": "https://www.lanacion.com.ar/usa/nato-to-skip-a-leaders-summit-in-albania-next-year-as-high-level-meetings-are-scaled-back-nid15112026/",
+      "genuineness": "verified",
+      "outlets": [
+        "Associated Press",
+        "The Independent",
+        "Reuters"
+      ],
+      "image": null,
+      "image_credit": null
+    },
+    {
+      "id": "world-20261115-1222-01",
+      "published_ist": "2026-11-15T06:33:00+05:30",
+      "headline": "Hormuz: teen tanker me aag, Iran ka daava",
+      "detail": "Iran ki nausena ka daava hai ki Hormuz jalmarg me teen tel tanker samudri surang se takrakar aag me lapet gaye; swatantra pushti abhi nahi hui hai, aur America ke anusaar marg saaf kiya ja chuka hai.",
+      "category": "World",
+      "exam_angle": "Hormuz jalmarg, Iran-America tanav aur Bharat ki urja suraksha — UPSC ke liye mahatvapurna.",
+      "source": "The Times of India",
+      "source_url": "https://timesofindia.indiatimes.com/world/middle-east/iran-claims-three-tankers-hit-naval-mines-near-hormuz-warns-ships-against-entering-restricted-zone/articleshow/135849046.cms",
+      "genuineness": "corroborated",
+      "outlets": [
+        "The Times of India",
+        "The Manila Times",
+        "The Chosun Ilbo"
+      ],
+      "image": null,
+      "image_credit": null
+    },
+    {
+      "id": "world-20261115-1222-02",
+      "published_ist": "2026-11-15T07:14:00+05:30",
+      "headline": "Kate aur William Mumbai aayenge, Earthshot 17 November",
+      "detail": "Kensington Palace ne 14 November ko ghoshna ki — Prince William aur Kate Middleton 17 November ko Mumbai me Earthshot Prize samaroh me shamil honge; ye 2022 ke baad unki pehli sanyukt videsh yatra hai.",
+      "category": "World",
+      "exam_angle": "Earthshot Prize aur Bharat-Britain sambandh — UPSC ke liye mahatvapurna.",
+      "source": "The Times of India",
+      "source_url": "https://timesofindia.indiatimes.com/world/uk/prince-william-kate-middleton-to-attend-earthshot-prize-in-mumbai-in-first-joint-overseas-tour-since-2022/articleshow/135845243.cms",
+      "genuineness": "verified",
+      "outlets": [
+        "Reuters",
+        "Gulf News",
+        "The Straits Times"
+      ],
+      "image": null,
+      "image_credit": null
+    },
+    {
+      "id": "world-20261115-1222-03",
+      "published_ist": "2026-11-15T06:25:00+05:30",
+      "headline": "France me paanchve hafte bhi lakhon ka pradarshan",
+      "detail": "France me shanivaar ko paanchve lagataar hafte mehangai aur police vidheyak ke khilaf pradarshan hue — grih mantralaya ke anusaar 1,06,000 log, aayojakon ke anusaar 2,00,000; mangalvaar ko phir hadtaal ka ailaan hai.",
+      "category": "World",
+      "exam_angle": "France me jan-andolan aur loktantra — UPSC ke liye mahatvapurna.",
+      "source": "Malay Mail",
+      "source_url": "https://www.malaymail.com/news/world/2026/11/15/more-than-100000-march-across-france-as-protests-enter-fifth-weekend/243325",
+      "genuineness": "verified",
+      "outlets": [
+        "Agence France-Presse",
+        "Euronews",
+        "Times Now"
+      ],
+      "image": null,
+      "image_credit": null
+    },
+    {
+      "id": "world-20261115-1324-01",
+      "published_ist": "2026-11-15T12:43:00+05:30",
+      "headline": "Damascus: car bomb me pita-beti mare gaye",
+      "detail": "Damascus ke Jaramana ilaake me shanivaar shaam car bomb phata — ek aadmi aur uski beti mare gaye, ek mahila ghayal; suraksha balon ne jaanch shuru ki, kisi ne zimmedari nahi li.",
+      "category": "World",
+      "exam_angle": "Syria me suraksha sthiti aur West Asia — UPSC ke liye mahatvapurna.",
+      "source": "Gulf Today",
+      "source_url": "https://www.gulftoday.ae/news/2026/11/15/syria-car-bomb-kills-2-including-child",
+      "genuineness": "verified",
+      "outlets": [
+        "Agence France-Presse",
+        "Al Jazeera",
+        "Associated Press"
+      ],
+      "image": null,
+      "image_credit": null
+    },
+    {
+      "id": "world-20261115-1324-02",
+      "published_ist": "2026-11-15T12:00:00+05:30",
+      "headline": "WHO: type 1 diabetes par pehli guidelines",
+      "detail": "WHO ne 14 November ko World Diabetes Day par vayaskon me type 1 diabetes ke liye pehli guidelines jaari ki — roz kai baar insulin injection aur sasti insulin tak pahunch par zor; duniya bhar me 95 lakh log isse peedit hain.",
+      "category": "World",
+      "exam_angle": "WHO, swasthya aur Bharat me diabetes bojh — UPSC ke liye mahatvapurna.",
+      "source": "The South First",
+      "source_url": "https://thesouthfirst.com/health/who-issues-first-guidelines-on-type-1-diabetes-in-adults-recommends-multiple-daily-insulin-injections/",
+      "genuineness": "verified",
+      "outlets": [
+        "The South First",
+        "Punch",
+        "Health and Me"
+      ],
+      "image": null,
+      "image_credit": null
+    },
+    {
+      "id": "world-20261115-1324-03",
+      "published_ist": "2026-11-15T07:50:00+05:30",
+      "headline": "COP31: Antalya me hazaaron ka pradarshan",
+      "detail": "Antalya me shanivaar ko hazaaron pradarshankariyon ne COP31 ke khilaf march kiya — police ke anusaar 7,000 se zyada log; vaarta aadhe raste par hai, jeevashm indhan aur vitt par matbhed barkaraar.",
+      "category": "World",
+      "exam_angle": "COP31, jalvayu vaarta aur Bharat ki sthiti — UPSC ke liye mahatvapurna.",
+      "source": "Malay Mail",
+      "source_url": "https://www.malaymail.com/news/world/2026/11/15/thousands-rally-against-cop31-as-climate-talks-hit-midpoint/243318",
+      "genuineness": "verified",
+      "outlets": [
+        "Agence France-Presse",
+        "The Irish Times",
+        "Qatar Tribune"
+      ],
+      "image": null,
+      "image_credit": null
+    },
+    {
+      "id": "world-20261115-1324-04",
+      "published_ist": "2026-11-14T14:46:00+05:30",
+      "headline": "Trump: Iran par hamla rok sakte hain",
+      "detail": "Reuters ke anusaar Trump ne salaahkaaron se kaha — Tehran ya Houthi ki taraf se nayi uksaahat na ho to Iran par hamla roka ja sakta hai; Saudi aur Turkey ne bhi hamla na karne ki guzaarish ki hai.",
+      "category": "World",
+      "exam_angle": "America-Iran tanav, Hormuz aur Bharat ki urja suraksha — UPSC ke liye mahatvapurna.",
+      "source": "Reuters",
+      "source_url": "https://www.reuters.com/world/middle-east/trump-tells-advisers-he-may-hold-off-iran-attacks-barring-new-provocations-2026-11-14/",
+      "genuineness": "corroborated",
+      "outlets": [
+        "Reuters",
+        "The Jerusalem Post"
+      ],
+      "image": null,
+      "image_credit": null
+    },
+    {
+      "id": "world-20261115-1422-01",
+      "published_ist": "2026-11-15T13:16:00+05:30",
+      "headline": "Bahrain: Iran ka US base par drone hamla",
+      "detail": "Bahrain me subah dhamake aur siren sunai diye; Iran ke Revolutionary Guards ne daava kiya ki unhone Riffa base par US radar ko chhah drones se nishana banaya — Bahrain ne kaha uski hawai suraksha ne kai hamle roke, abhi koi nuksan ki pushti nahi.",
+      "category": "World",
+      "exam_angle": "West Asia me tanav aur Gulf me US sainya upasthiti — UPSC ke liye mahatvapurna.",
+      "source": "Malay Mail",
+      "source_url": "https://www.malaymail.com/news/world/2026/11/15/blasts-sirens-in-bahrain-as-iran-announces-attack-on-us-base/243363",
+      "genuineness": "verified",
+      "outlets": [
+        "Agence France-Presse",
+        "The National",
+        "Al Jazeera"
+      ],
+      "image": null,
+      "image_credit": null
+    },
+    {
+      "id": "world-20261115-1422-02",
+      "published_ist": "2026-11-15T05:26:00+05:30",
+      "headline": "Manila me 49th ASEAN shikhar sammelan shuru",
+      "detail": "Philippines ke Rashtrapati Marcos ne Manila me 49th ASEAN Summit ka udghatan kiya — vyapar, urja sankat, Myanmar aur South China Sea par charcha; Trump 17 November ko pahunchenge, Quad netaon se alag baithak bhi hogi.",
+      "category": "World",
+      "exam_angle": "ASEAN, Bharat-ASEAN sambandh aur Quad — UPSC ke liye mahatvapurna.",
+      "source": "The Manila Times",
+      "source_url": "https://beta.manilatimes.net/2026/11/15/news/global-powers-converge-as-ph-opens-49th-asean-summit/2470176",
+      "genuineness": "verified",
+      "outlets": [
+        "Agence France-Presse",
+        "The Philippine Star",
+        "Philippine Daily Inquirer"
+      ],
+      "image": null,
+      "image_credit": null
+    },
+    {
+      "id": "world-20261115-1522-01",
+      "published_ist": "2026-11-15T09:30:00+05:30",
+      "headline": "Shenzhen me APEC CEO Summit, 12 neta aayenge",
+      "detail": "CCPIT ne aaj elaan kiya ki 17-18 November ko Shenzhen me hone wale APEC CEO Summit me Xi Jinping samet 12 arthvyavasthaon ke neta bhashan denge ya panel charcha me hissa lenge; 115 Fortune Global 500 companiyon ke pratinidhi bhi aayenge.",
+      "category": "World",
+      "exam_angle": "APEC aur Asia-Pacific me vyapar sahyog — UPSC ke liye mahatvapurna.",
+      "source": "CGTN",
+      "source_url": "https://news.cgtn.com/news/2026-11-15/Twelve-APEC-leaders-to-attend-CEO-Summit-in-Shenzhen-1S5mNgHhkKA/p.html",
+      "genuineness": "corroborated",
+      "outlets": [
+        "CGTN",
+        "China Daily"
+      ],
+      "image": null,
+      "image_credit": null
+    },
+    {
+      "id": "world-20261115-1522-02",
+      "published_ist": "2026-11-14T18:33:00+05:30",
+      "headline": "Timor-Leste 2029 me ASEAN ki adhyakshata karega",
+      "detail": "ASEAN Coordinating Council ne faisla kiya ki Timor-Leste 2029 me ASEAN ki adhyakshata karega — Singapore 2027 me, Thailand 2028 me, phir Vietnam; Myanmar ki daavedari baad me vichari jayegi.",
+      "category": "World",
+      "exam_angle": "ASEAN adhyakshata chakr aur Timor-Leste, sabse naya sadasya — UPSC ke liye mahatvapurna.",
+      "source": "Malay Mail",
+      "source_url": "https://beta.malaymail.com/news/world/2026/11/14/timor-leste-gets-2029-asean-chair-as-bloc-sticks-to-alphabetical-rotation/243289",
+      "genuineness": "corroborated",
+      "outlets": [
+        "Bernama",
+        "Astig.ph"
+      ],
+      "image": null,
+      "image_credit": null
+    },
+    {
+      "id": "world-20261115-1622-01",
+      "published_ist": "2026-11-15T09:17:44+05:30",
+      "headline": "America: router kharabi se udaan sankat, 6,400 radd",
+      "detail": "FAA ne kaha contractor L3Harris ke naye router ki gadbadi se 17 control centres prabhavit hue; Shanivaar ko 6,400 se zyada flights radd hui aur Ravivaar raat tak schedule normal hone ki ummeed hai.",
+      "category": "World",
+      "exam_angle": "Critical infrastructure ki kamzori — UPSC me technology aur suraksha par sawal.",
+      "source": "The Statesman",
+      "source_url": "https://www.thestatesman.com/world/faa-outage-us-flight-cancellations-continue-sunday-after-router-overload-1503662685.html/amp",
+      "genuineness": "verified",
+      "outlets": [
+        "Reuters",
+        "The Statesman",
+        "Sunday Guardian"
+      ],
+      "image": null,
+      "image_credit": null
+    },
+    {
+      "id": "world-20261115-1622-02",
+      "published_ist": "2026-11-15T08:21:00+05:30",
+      "headline": "Saudi: do ko phansi, nabalig wala aarop",
+      "detail": "Saudi ne Eastern Province me do logon ko 'aatankwad' ke aarop me phansi di; rights group Reprieve ka kehna hai ek vyakti aarop ke samay 14 saal ka tha.",
+      "category": "World",
+      "exam_angle": "Manavadhikar aur mrityudand — antarrashtriya sangathanon ki bhoomika.",
+      "source": "Malay Mail",
+      "source_url": "https://www.malaymail.com/news/world/2026/11/15/saudi-arabia-executes-two-on-terrorism-charges-rights-group-says-one-was-14-at-time-of-alleged-offence/243322",
+      "genuineness": "corroborated",
+      "outlets": [
+        "AFP",
+        "Saudi Interior Ministry"
+      ],
+      "image": null,
+      "image_credit": null
+    },
+    {
+      "id": "world-20261115-1622-03",
+      "published_ist": "2026-11-15T06:36:00+05:30",
+      "headline": "Microsoft 365 phir chalu, outage khatm",
+      "detail": "Microsoft ne kaha Outlook, Teams aur Copilot 24 ghante se zyada ke global outage ke baad poori tarah bahaal ho gaye; wajah network upgrade ki kharabi thi, cyberattack nahi.",
+      "category": "World",
+      "exam_angle": "Digital infrastructure aur cyber suraksha — bade tech outage ka asar.",
+      "source": "Times of India",
+      "source_url": "https://timesofindia.indiatimes.com/technology/tech-news/microsoft-restores-3-services-after-global-outage/articleshow/135845059.cms",
+      "genuineness": "verified",
+      "outlets": [
+        "Times of India",
+        "Wirony",
+        "Vietnam.vn"
+      ],
+      "image": null,
+      "image_credit": null
+    },
+    {
+      "id": "world-20261115-1622-04",
+      "published_ist": "2026-11-14T20:15:00+05:30",
+      "headline": "Dublin: netaon ke dinner ke paas bomb",
+      "detail": "Ireland me EPC shikhar sammelan ke dauraan Dublin ke Merrion Square me mila crude lekin viable explosive device sena ne nishkriya kiya; police jaanch kar rahi hai.",
+      "category": "World",
+      "exam_angle": "European Political Community (EPC) shikhar sammelan — Dublin.",
+      "source": "Times of Israel",
+      "source_url": "https://www.timesofisrael.com/liveblog_entry/crude-bomb-diffused-in-central-dublin-near-where-world-leaders-dined-a-day-earlier/",
+      "genuineness": "verified",
+      "outlets": [
+        "Reuters",
+        "Times of Israel",
+        "The Jerusalem Post"
+      ],
+      "image": null,
+      "image_credit": null
+    }
+  ]
 }
