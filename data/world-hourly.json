@@ -1,24 +1,41 @@
 {
- "updated_ist": "2026-11-14T22:33:08+05:30",
+ "updated_ist": "2026-11-15T06:33:31+05:30",
  "items": [
   {
-   "id": "world-20261114-2222-02",
-   "published_ist": "2026-11-13T05:45:00+05:30",
-   "headline": "Nvidia CEO Jensen Huang ne istifa diya",
-   "detail": "33 saal baad Nvidia ke CEO Jensen Huang ne 12 November ko turant istifa de diya — CFO Colette Kress interim CEO bani; company ne wajah nahi batayi, halanki reports me unke sambandhon aur ek mahila par jasusi ke aarop ki charcha hai, jo abhi sabit nahi hua.",
+   "id": "world-20261115-0622-01",
+   "published_ist": "2026-11-15T01:22:00+05:30",
+   "headline": "Macron: Ukraine madad ghatao to phir yuddh",
+   "detail": "France ke rashtrapati Emmanuel Macron ne shanivaar ko kaha — Ukraine ki madad kam karna use 'anyaypoorn shanti' par majboor karega aur ye ek aur yuddh ki recipe hai; unhone Europe ki suraksha ke liye vittiya madad jaari rakhne ki maang ki.",
    "category": "World",
-   "exam_angle": "AI chip udyog aur America-China takneek pratidvandvita — UPSC ke liye mahatvapurna.",
-   "source": "The Hindu BusinessLine",
-   "source_url": "https://www.thehindubusinessline.com/info-tech/what-we-know-after-jensen-huang-resigns-as-nvidia-ceo/article71696548.ece",
+   "exam_angle": "Ukraine yuddh aur Europe ki suraksha — UPSC ke liye mahatvapurna.",
+   "source": "Arab News",
+   "source_url": "https://www.arabnews.com/world/reducing-ukraine-aid-sets-scene-for-more-war-macron-3011940",
+   "genuineness": "verified",
+   "outlets": [
+    "AFP",
+    "Le Monde",
+    "Al Mayadeen"
+   ],
+   "image": "../images/world/world-20261115-0622-01.jpg",
+   "image_credit": "Christophe Licoppe / European Union, Wikimedia Commons (CC BY 4.0)"
+  },
+  {
+   "id": "world-20261115-0622-02",
+   "published_ist": "2026-11-14T20:55:00+05:30",
+   "headline": "South Sudan: pehla chunav phir tala, February 2027",
+   "detail": "South Sudan ne azadi ke baad ke pehle rashtriya chunav phir taale — 22 December ki jagah ab 11 February 2027 ko matdan hoga; chunav aayog ne wajah nahi batayi, aur taiyari ke liye maange gaye $276 million me se sirf $21 million mile hain.",
+   "category": "World",
+   "exam_angle": "Africa me loktantra aur chunav taiyari — UPSC ke liye mahatvapurna.",
+   "source": "Arab News",
+   "source_url": "https://www.arabnews.com/world/south-sudan-postpones-first-national-elections-again-to-february-2027-3011871",
    "genuineness": "verified",
    "outlets": [
     "Reuters",
-    "The New York Times",
-    "Associated Press",
-    "The Hindu BusinessLine"
+    "Arab News",
+    "CGTN"
    ],
-   "image": null,
-   "image_credit": null
+   "image": "../images/world/world-20261115-0622-02.jpg",
+   "image_credit": "Stein Ove Korneliussen / Wikimedia Commons (CC BY 2.0)"
   },
   {
    "id": "world-20261114-2222-03",
@@ -73,24 +90,6 @@
     "Outlook India",
     "Arab News",
     "Khaleej Times"
-   ],
-   "image": null,
-   "image_credit": null
-  },
-  {
-   "id": "world-20261114-2122-01",
-   "published_ist": "2026-11-14T04:17:00+05:30",
-   "headline": "Starship kaksha me, booster samundar me gira",
-   "detail": "SpaceX ki 15th Starship udan kaksha me pahunchi aur 26 Starlink upagrah chhode, lekin Super Heavy booster tower catch se chhootkar Gulf of Mexico me girkar fat gaya; yan aaj dopahar Texas wapas aane ki koshish karega.",
-   "category": "World",
-   "exam_angle": "Punah-upyog wale bhari rocket aur Artemis karyakram — UPSC ke liye mahatvapurna.",
-   "source": "Channel News Asia",
-   "source_url": "https://www.channelnewsasia.com/world/spacex-starship-launch-booster-recovery-aborted-6551391",
-   "genuineness": "verified",
-   "outlets": [
-    "Associated Press",
-    "AFP",
-    "Motley Fool"
    ],
    "image": null,
    "image_credit": null
@@ -389,44 +388,6 @@
    ],
    "image": null,
    "image_credit": null
-  },
-  {
-   "id": "world-20261114-0722-01",
-   "published_ist": "2026-11-14T06:25:00+05:30",
-   "headline": "Trump, Xi, Putin: pehli baar teenon ki baithak",
-   "detail": "White House ne pushti ki — 19 November ko Shenzhen me APEC ke kinare America, China aur Russia ke neta parmanu hathiyar kam karne aur Iran yuddh par baat karenge; koi samjhauta hone ki ummeed nahi hai.",
-   "category": "World",
-   "exam_angle": "Teen bade parmanu shaktiyon ki pehli trilateral baithak — UPSC ke liye mahatvapurna.",
-   "source": "Firstpost",
-   "source_url": "https://www.firstpost.com/world/trump-xi-and-putin-to-hold-unprecedented-trilateral-meeting-at-apec-summit-in-china-14059913.html",
-   "genuineness": "verified",
-   "outlets": [
-    "CNN",
-    "Firstpost",
-    "Channel News Asia",
-    "Business Times",
-    "Associated Press"
-   ],
-   "image": null,
-   "image_credit": null
-  },
-  {
-   "id": "world-20261114-1622-03",
-   "published_ist": "2026-11-14T05:51:00+05:30",
-   "headline": "Rubio: Iran par aur hamle ki zaroorat nahi",
-   "detail": "America ke videsh mantri Marco Rubio ne kaha Iran par aarthik dabav itna asardar hai ki aur sainya karwai ki zaroorat nahi — jeet ka matlab hai Iran ko kabhi parmanu hathiyar na milne dena; Iran ne jawabi karwai ki chetavni di.",
-   "category": "World",
-   "exam_angle": "Khadi me America-Iran tanav aur nausena nakabandi — Bharat ki urja suraksha ke liye mahatvapurna.",
-   "source": "Times of Israel",
-   "source_url": "https://www.timesofisrael.com/liveblog-november-14-2026/amp/",
-   "genuineness": "verified",
-   "outlets": [
-    "Times of Israel",
-    "Al Jazeera",
-    "Gulf News"
-   ],
-   "image": "../images/world/world-20261114-1622-03.jpg",
-   "image_credit": "U.S. Department of State / Wikimedia Commons (Public domain)"
   }
  ]
 }
