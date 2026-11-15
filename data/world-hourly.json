@@ -1,6 +1,44 @@
 {
- "updated_ist": "2026-11-15T07:29:26+05:30",
+ "updated_ist": "2026-11-15T08:25:00+05:30",
  "items": [
+  {
+   "id": "world-20261115-0822-01",
+   "published_ist": "2026-11-14T02:24:00+05:30",
+   "headline": "America me saari udaanen chaar ghante band",
+   "detail": "FAA ne telecom kharabi ke baad desh bhar me ground stop lagaya — 17 air traffic control kendra prabhavit, 4,700 se zyada udaanen radd aur 15 lakh se zyada yatri fase; shaam ko udaanen phir shuru hui, par cyber hamle ka koi saboot nahi mila.",
+   "category": "World",
+   "exam_angle": "9/11 ke baad se doosra desh-vyapi ground stop; purani air traffic control takneek par sawal — UPSC ke liye mahatvapurna.",
+   "source": "Al Jazeera",
+   "source_url": "https://www.aljazeera.com/news/2026/11/14/faa-ground-stop-lifted-why-were-us-flights-grounded-and-whats-next",
+   "genuineness": "verified",
+   "outlets": [
+    "Al Jazeera",
+    "CNN",
+    "USA Today",
+    "News18"
+   ],
+   "image": "../images/world/world-20261115-0822-01.jpg",
+   "image_credit": "Al Jazeera"
+  },
+  {
+   "id": "world-20261115-0822-02",
+   "published_ist": "2026-11-14T19:51:00+05:30",
+   "headline": "Manila me Quad shikhar sammelan, 17 November",
+   "detail": "Modi, Trump, Takaichi aur Albanese 17 November ki shaam Manila me milenge — 2024 ke baad pehla Quad shikhar sammelan, aur pehli baar kisi gair-Quad desh me; critical minerals aur samudri suraksha par baat hogi.",
+   "category": "World",
+   "exam_angle": "2024 ke baad pehla Quad shikhar sammelan; Bharat ki adhyakshata aur Indo-Pacific sahyog — UPSC ke liye mahatvapurna.",
+   "source": "The Hindu",
+   "source_url": "https://www.thehindu.com/news/international/quad-summit-likely-to-be-held-in-manila-on-november-17-sources-say/article71702178.ece",
+   "genuineness": "verified",
+   "outlets": [
+    "The Hindu",
+    "The Indian Express",
+    "News9",
+    "Reuters"
+   ],
+   "image": null,
+   "image_credit": null
+  },
   {
    "id": "world-20261115-0722-01",
    "published_ist": "2026-11-14T09:59:00+05:30",
@@ -409,43 +447,6 @@
     "Reuters",
     "Al Jazeera",
     "Associated Press"
-   ],
-   "image": null,
-   "image_credit": null
-  },
-  {
-   "id": "world-20261114-1322-02",
-   "published_ist": "2026-11-14T09:18:00+05:30",
-   "headline": "Guterres: jalte grah par shanti nahi",
-   "detail": "UN mahasachiv António Guterres ne Antalya me apne aakhri COP me kaha — 'jalte hue grah par shanti nahi ban sakti'; jalvayu vitt badhane aur jeevashm indhan se tezi se door hatne ki maang ki.",
-   "category": "World",
-   "exam_angle": "COP31, jalvayu vitt aur 1.5°C lakshya — UPSC ke liye mahatvapurna.",
-   "source": "UN News",
-   "source_url": "https://news.un.org/en/story/2026/11/1168802",
-   "genuineness": "verified",
-   "outlets": [
-    "UN News",
-    "Associated Press",
-    "WION",
-    "The Thursday Times"
-   ],
-   "image": "../images/world/world-20261114-1322-02.jpg",
-   "image_credit": "Press Information Department / Wikimedia Commons (Public domain)"
-  },
-  {
-   "id": "world-20261114-1322-03",
-   "published_ist": "2026-11-14T08:56:00+05:30",
-   "headline": "Houthi ka daava: Riyadh airport par drone hamla",
-   "detail": "Houthi pravakta Yahya Sarea ne daava kiya ki unke drone ne Riyadh ke King Khalid airport aur tel pipeline ke pumping station ko nishana banaya, Jazan me bhi missile hamle hue — daavon ki swatantra pushti nahi hui, Saudi taraf se koi tippani nahi aayi.",
-   "category": "World",
-   "exam_angle": "Khadi me tanav aur UNSC ke Houthi pratibandh — UPSC ke liye mahatvapurna.",
-   "source": "Siasat",
-   "source_url": "https://www.siasat.com/houthis-claim-strikes-on-riyadh-airport-saudi-oil-pipeline-3576978/",
-   "genuineness": "corroborated",
-   "outlets": [
-    "Reuters",
-    "IANS",
-    "Aaj TV"
    ],
    "image": null,
    "image_credit": null
