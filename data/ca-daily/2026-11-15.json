@@ -212,6 +212,76 @@
     ],
     "answer_index": 2
    }
+  },
+  {
+   "episode": 124,
+   "video_hi": "DktdejRPPnU",
+   "video_hinglish": "DktdejRPPnU",
+   "capsules": [
+    {
+     "id": "ca-ep124-s1",
+     "headline_hi": "Cyclone Akvan Andhra coast ki taraf",
+     "headline_hinglish": "Cyclone Akvan Andhra coast ki taraf",
+     "detail_hi": "Bengal ki Khadi mein bana dabav 17 November tak severe cyclone banega aur Andhra coast ki taraf badhega.",
+     "detail_hinglish": "Bengal ki Khadi mein bana dabav 17 November tak severe cyclone banega aur Andhra coast ki taraf badhega.",
+     "category_hi": "Geography",
+     "category_en": "National"
+    },
+    {
+     "id": "ca-ep124-s2",
+     "headline_hi": "America mein Bharat ko tariff mein chhoot",
+     "headline_hinglish": "America mein Bharat ko tariff mein chhoot",
+     "detail_hi": "Piyush Goyal ne kaha Bharatiya saaman ko America mein pratiyogiyon se kam duty milegi, pehla tranche March 2027 tak.",
+     "detail_hinglish": "Piyush Goyal ne kaha Bharatiya saaman ko America mein pratiyogiyon se kam duty milegi, pehla tranche March 2027 tak.",
+     "category_hi": "Economy",
+     "category_en": "Economy"
+    },
+    {
+     "id": "ca-ep124-s3",
+     "headline_hi": "UN mein mrityudand prastav ke khilaf Bharat",
+     "headline_hinglish": "UN mein mrityudand prastav ke khilaf Bharat",
+     "detail_hi": "Bharat ne UN General Assembly mein mrityudand par global moratorium ke prastav ke khilaf vote diya.",
+     "detail_hinglish": "Bharat ne UN General Assembly mein mrityudand par global moratorium ke prastav ke khilaf vote diya.",
+     "category_hi": "International",
+     "category_en": "National"
+    },
+    {
+     "id": "ca-ep124-s4",
+     "headline_hi": "Air India ki New York flights phir shuru",
+     "headline_hinglish": "Air India ki New York flights phir shuru",
+     "detail_hi": "Delhi aur Mumbai se New York aur Newark ki seedhi udanein phir shuru, yatra paanch ghante tak chhoti hogi.",
+     "detail_hinglish": "Delhi aur Mumbai se New York aur Newark ki seedhi udanein phir shuru, yatra paanch ghante tak chhoti hogi.",
+     "category_hi": "Economy",
+     "category_en": "Economy"
+    },
+    {
+     "id": "ca-ep124-s5",
+     "headline_hi": "Bharat ne New Zealand mein ODI series jeeti",
+     "headline_hinglish": "Bharat ne New Zealand mein ODI series jeeti",
+     "detail_hi": "Do sau nau run defend karke Bharat ne paanchva ODI baais run se jeeta, series teen ek se apne naam ki.",
+     "detail_hinglish": "Do sau nau run defend karke Bharat ne paanchva ODI baais run se jeeta, series teen ek se apne naam ki.",
+     "category_hi": "Sports",
+     "category_en": "Sports"
+    }
+   ],
+   "mcq": {
+    "id": "ca-ep124-mcq",
+    "q_hi": "Paanchve ODI mein Bharat ne New Zealand ko kitne run se haraya?",
+    "q_hinglish": "Paanchve ODI mein Bharat ne New Zealand ko kitne run se haraya?",
+    "options_hi": [
+     "12 run",
+     "22 run",
+     "32 run",
+     "42 run"
+    ],
+    "options_hinglish": [
+     "12 run",
+     "22 run",
+     "32 run",
+     "42 run"
+    ],
+    "answer_index": 1
+   }
   }
  ]
 }
