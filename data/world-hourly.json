@@ -1,6 +1,40 @@
 {
- "updated_ist": "2026-11-15T14:23:57+05:30",
+ "updated_ist": "2026-11-15T15:26:57+05:30",
  "items": [
+  {
+   "id": "world-20261115-1522-01",
+   "published_ist": "2026-11-15T09:30:00+05:30",
+   "headline": "Shenzhen me APEC CEO Summit, 12 neta aayenge",
+   "detail": "CCPIT ne aaj elaan kiya ki 17-18 November ko Shenzhen me hone wale APEC CEO Summit me Xi Jinping samet 12 arthvyavasthaon ke neta bhashan denge ya panel charcha me hissa lenge; 115 Fortune Global 500 companiyon ke pratinidhi bhi aayenge.",
+   "category": "World",
+   "exam_angle": "APEC aur Asia-Pacific me vyapar sahyog — UPSC ke liye mahatvapurna.",
+   "source": "CGTN",
+   "source_url": "https://news.cgtn.com/news/2026-11-15/Twelve-APEC-leaders-to-attend-CEO-Summit-in-Shenzhen-1S5mNgHhkKA/p.html",
+   "genuineness": "corroborated",
+   "outlets": [
+    "CGTN",
+    "China Daily"
+   ],
+   "image": null,
+   "image_credit": null
+  },
+  {
+   "id": "world-20261115-1522-02",
+   "published_ist": "2026-11-14T18:33:00+05:30",
+   "headline": "Timor-Leste 2029 me ASEAN ki adhyakshata karega",
+   "detail": "ASEAN Coordinating Council ne faisla kiya ki Timor-Leste 2029 me ASEAN ki adhyakshata karega — Singapore 2027 me, Thailand 2028 me, phir Vietnam; Myanmar ki daavedari baad me vichari jayegi.",
+   "category": "World",
+   "exam_angle": "ASEAN adhyakshata chakr aur Timor-Leste, sabse naya sadasya — UPSC ke liye mahatvapurna.",
+   "source": "Malay Mail",
+   "source_url": "https://beta.malaymail.com/news/world/2026/11/14/timor-leste-gets-2029-asean-chair-as-bloc-sticks-to-alphabetical-rotation/243289",
+   "genuineness": "corroborated",
+   "outlets": [
+    "Bernama",
+    "Astig.ph"
+   ],
+   "image": null,
+   "image_credit": null
+  },
   {
    "id": "world-20261115-1422-01",
    "published_ist": "2026-11-15T13:16:00+05:30",
@@ -413,42 +447,6 @@
    ],
    "image": "../images/world/world-20261114-1926-01.jpg",
    "image_credit": "Xuthoria, Wikimedia Commons, CC BY-SA 4.0"
-  },
-  {
-   "id": "world-20261114-1822-02",
-   "published_ist": "2026-11-14T15:42:00+05:30",
-   "headline": "Zelenskyy ko Denmark se €645 million madad",
-   "detail": "Ukraine ke rashtrapati Zelenskyy ne bataya ki Denmark aur Ireland yatra se €645 million raksha package aur €20 million urja package mila, aur Britain ne Russia ke tel par naye pratibandh lagaye.",
-   "category": "World",
-   "exam_angle": "Ukraine yuddh aur Europe ki suraksha — UPSC ke liye mahatvapurna.",
-   "source": "Tribune India",
-   "source_url": "https://www.tribuneindia.com/news/world/concrete-results-from-denmark-ireland-visits-zelenskyy-highlights-e645-mn-danish-defence-package-uk-sanctions/",
-   "genuineness": "verified",
-   "outlets": [
-    "Tribune India",
-    "Times Now",
-    "Kyiv Post"
-   ],
-   "image": null,
-   "image_credit": null
-  },
-  {
-   "id": "world-20261114-1822-01",
-   "published_ist": "2026-11-14T15:09:00+05:30",
-   "headline": "California: 9 meter lehron se badh ka khatra",
-   "detail": "America ki mausam vibhaag ne California ke taton par 9 meter tak unchi lehron aur tatiya badh ki chetavani di — San Francisco aur Big Sur ke paas samudra tatbandh paar karke neeche ilakon me paani bhar sakta hai.",
-   "category": "World",
-   "exam_angle": "Charam mausam aur tatiya badh — bhugol aur aapda prabandhan ke liye mahatvapurna.",
-   "source": "Gulf Today",
-   "source_url": "https://www.gulftoday.ae/news/2026/11/14/us-authorities-warn-of-coastal-flooding-in-california",
-   "genuineness": "verified",
-   "outlets": [
-    "Gulf Today",
-    "Economic Times",
-    "Malay Mail"
-   ],
-   "image": null,
-   "image_credit": null
   }
  ]
 }
