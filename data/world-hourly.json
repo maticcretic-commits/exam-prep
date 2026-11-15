@@ -1,6 +1,26 @@
 {
- "updated_ist": "2026-11-15T09:26:00+05:30",
+ "updated_ist": "2026-11-15T10:26:00+05:30",
  "items": [
+  {
+   "id": "world-20261115-1022-01",
+   "published_ist": "2026-11-15T06:30:42+05:30",
+   "headline": "Gaza me Hamas ke bade commander mare gaye",
+   "detail": "Israel ke drone hamle me Hamas ki Rafah brigade ke commander Samir Abu Younis (53) Khan Younis me mare gaye; Hamas ne maut ki pushti ki, do log ghayal — October 2025 se lagu yuddhviram par dabav badha.",
+   "category": "World",
+   "exam_angle": "Gaza yuddhviram aur Madhya-Purv me tanav — UPSC ke liye mahatvapurna.",
+   "source": "Al Jazeera",
+   "source_url": "https://www.aljazeera.com/news/2026/11/15/israeli-air-strike-kills-senior-hamas-commander-in-gaza",
+   "genuineness": "verified",
+   "outlets": [
+    "Al Jazeera",
+    "Reuters",
+    "Agence France-Presse",
+    "Arab News",
+    "The Jerusalem Post"
+   ],
+   "image": null,
+   "image_credit": null
+  },
   {
    "id": "world-20261115-0926-01",
    "published_ist": "2026-11-15T08:29:00+05:30",
@@ -435,24 +455,6 @@
    ],
    "image": null,
    "image_credit": null
-  },
-  {
-   "id": "world-20261114-1322-01",
-   "published_ist": "2026-11-14T10:11:00+05:30",
-   "headline": "Germany: jasus agencies ko hacking ki taakat",
-   "detail": "Bundestag ne 308-190 se kanoon pass kiya — videsh jasusi agency BND ab videsh me hacking aur todphod kar sakegi, gharelu agency BfV ko bhi nayi taakatein mili; grih mantri ne ise 'sadi ka sudhar' bataya.",
-   "category": "World",
-   "exam_angle": "Germany me khufia sudhar, suraksha aur niji zindagi ka santulan — UPSC ke liye mahatvapurna.",
-   "source": "Al Jazeera",
-   "source_url": "https://www.aljazeera.com/amp/news/2026/11/14/german-spies-granted-sweeping-new-powers",
-   "genuineness": "verified",
-   "outlets": [
-    "Al Jazeera",
-    "Times of Israel",
-    "The Thursday Times"
-   ],
-   "image": "../images/world/world-20261114-1322-01.jpg",
-   "image_credit": "Jürgen Matern / Wikimedia Commons (CC BY-SA 3.0)"
   }
  ]
 }
