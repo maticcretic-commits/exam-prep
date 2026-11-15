@@ -1,0 +1,42 @@
+{
+ "date": "2026-11-15",
+ "updated_ist": "2026-11-15T06:33:31+05:30",
+ "items": [
+  {
+   "id": "world-20261115-0622-01",
+   "published_ist": "2026-11-15T01:22:00+05:30",
+   "headline": "Macron: Ukraine madad ghatao to phir yuddh",
+   "detail": "France ke rashtrapati Emmanuel Macron ne shanivaar ko kaha — Ukraine ki madad kam karna use 'anyaypoorn shanti' par majboor karega aur ye ek aur yuddh ki recipe hai; unhone Europe ki suraksha ke liye vittiya madad jaari rakhne ki maang ki.",
+   "category": "World",
+   "exam_angle": "Ukraine yuddh aur Europe ki suraksha — UPSC ke liye mahatvapurna.",
+   "source": "Arab News",
+   "source_url": "https://www.arabnews.com/world/reducing-ukraine-aid-sets-scene-for-more-war-macron-3011940",
+   "genuineness": "verified",
+   "outlets": [
+    "AFP",
+    "Le Monde",
+    "Al Mayadeen"
+   ],
+   "image": "../images/world/world-20261115-0622-01.jpg",
+   "image_credit": "Christophe Licoppe / European Union, Wikimedia Commons (CC BY 4.0)"
+  },
+  {
+   "id": "world-20261115-0622-02",
+   "published_ist": "2026-11-14T20:55:00+05:30",
+   "headline": "South Sudan: pehla chunav phir tala, February 2027",
+   "detail": "South Sudan ne azadi ke baad ke pehle rashtriya chunav phir taale — 22 December ki jagah ab 11 February 2027 ko matdan hoga; chunav aayog ne wajah nahi batayi, aur taiyari ke liye maange gaye $276 million me se sirf $21 million mile hain.",
+   "category": "World",
+   "exam_angle": "Africa me loktantra aur chunav taiyari — UPSC ke liye mahatvapurna.",
+   "source": "Arab News",
+   "source_url": "https://www.arabnews.com/world/south-sudan-postpones-first-national-elections-again-to-february-2027-3011871",
+   "genuineness": "verified",
+   "outlets": [
+    "Reuters",
+    "Arab News",
+    "CGTN"
+   ],
+   "image": "../images/world/world-20261115-0622-02.jpg",
+   "image_credit": "Stein Ove Korneliussen / Wikimedia Commons (CC BY 2.0)"
+  }
+ ]
+}
