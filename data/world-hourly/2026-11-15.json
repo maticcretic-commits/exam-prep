@@ -1,6 +1,6 @@
 {
   "date": "2026-11-15",
-  "updated_ist": "2026-11-15T15:26:57+05:30",
+  "updated_ist": "2026-11-15T18:24:48+05:30",
   "items": [
     {
       "id": "world-20261115-0622-01",
@@ -632,6 +632,44 @@
       ],
       "image": "../images/world/world-20261115-1722-03.jpg",
       "image_credit": "Gillfoto, Wikimedia Commons (CC BY-SA 4.0)"
+    },
+    {
+      "id": "world-20261115-1822-01",
+      "published_ist": "2026-11-14T22:23:00+05:30",
+      "headline": "Zelensky: Donbas chhodo to NATO sadasyata",
+      "detail": "Zelensky ne kaha America ke vartakaron ne Abu Dhabi vartao me prastav diya ki Ukraine Donbas chhod de to NATO sadasyata mil sakti hai; unhone kshetra chhodne se inkar kiya, lekin suraksha package mile to janmat sangrah ki baat kahi.",
+      "category": "World",
+      "exam_angle": "Ukraine yuddh aur NATO vistar — UPSC ke liye mahatvapurna.",
+      "source": "Reuters",
+      "source_url": "https://www.reuters.com/world/europe/us-floated-idea-ukraine-ceding-donbas-nato-membership-zelenskiy-says-2026-11-14/",
+      "genuineness": "verified",
+      "outlets": [
+        "Reuters",
+        "Al Jazeera",
+        "CNN",
+        "The Observer"
+      ],
+      "image": "../images/world/world-20261115-1822-01.jpg",
+      "image_credit": "Xuthoria, Wikimedia Commons (CC BY-SA 4.0)"
+    },
+    {
+      "id": "world-20261115-1822-02",
+      "published_ist": "2026-11-15T07:21:00+05:30",
+      "headline": "Korea: topper ne AI se nakal mani",
+      "detail": "South Korea me tax accountant exam ke topper Han Won-seok ne mana ki usne chhote camera se sawal photo karke AI se jawab liye; 400 me se 397.5 ank laaye the, Seoul police ne jaanch shuru ki.",
+      "category": "World",
+      "exam_angle": "Pariksha me AI ka durupyog aur pariksha suraksha — UPSC ke liye mahatvapurna.",
+      "source": "The Korea Herald",
+      "source_url": "https://m.koreaherald.com/article/10937374",
+      "genuineness": "verified",
+      "outlets": [
+        "The Korea Herald",
+        "The Korea Times",
+        "Times of India",
+        "Malay Mail"
+      ],
+      "image": null,
+      "image_credit": null
     }
   ]
 }
