@@ -1,5 +1,5 @@
 {
-  "updated_ist": "2026-11-15T21:26:13+05:30",
+  "updated_ist": "2026-11-15T21:28:29+05:30",
   "items": [
     {
       "id": "world-20261115-2122-01",
@@ -15,25 +15,6 @@
         "Reuters",
         "The Japan Times",
         "UNICEF"
-      ],
-      "image": null,
-      "image_credit": null
-    },
-    {
-      "id": "world-20261115-2122-02",
-      "published_ist": "2026-11-14T13:29:00+05:30",
-      "headline": "Dublin: netaon ke dinner ke paas bomb mila",
-      "detail": "Dublin me Merrion Square ki imarat me crude lekin kaam karne wala bomb mila aur sena ne use nishkriya kiya; ek din pehle paas ke National Gallery me Macron samet netaon ne dinner kiya tha.",
-      "category": "World",
-      "exam_angle": "Europe me suraksha aur European Political Community shikhar sammelan — UPSC ke liye mahatvapurna.",
-      "source": "The Jerusalem Post",
-      "source_url": "https://www.jpost.com/international/article-914858",
-      "genuineness": "verified",
-      "outlets": [
-        "Reuters",
-        "The Jerusalem Post",
-        "The Irish Times",
-        "Times of Israel"
       ],
       "image": null,
       "image_credit": null
@@ -444,6 +425,25 @@
       ],
       "image": null,
       "image_credit": null
+    },
+    {
+      "id": "world-20261115-1125-01",
+      "published_ist": "2026-11-15T09:19:00+05:30",
+      "headline": "America me udaan sankat, hazaron flights radd",
+      "detail": "FAA ke router kharabi se shukravaar ko lagbhag 9,200 flights radd hui, shanivaar ko 6,150 se zyada; ravivaar der raat tak haal normal hone ki ummeed — L3Harris ke router ki jaanch chal rahi hai.",
+      "category": "World",
+      "exam_angle": "America me havaai yatra sankat aur ATC vyavastha — UPSC ke liye mahatvapurna.",
+      "source": "The Business Times",
+      "source_url": "https://www.businesstimes.com.sg/international/us-air-travel-issues-persist-well-sunday-officials-say-thousands-flights-affected",
+      "genuineness": "verified",
+      "outlets": [
+        "Reuters",
+        "The Statesman",
+        "India TV News",
+        "Sunday Guardian"
+      ],
+      "image": "../images/world/world-20261115-1125-01.jpg",
+      "image_credit": "The Business Times"
     }
   ]
 }
