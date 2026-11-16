@@ -1,0 +1,77 @@
+{
+ "date": "2026-11-17",
+ "date_hi": "17 November 2026",
+ "date_en": "17 November 2026",
+ "episodes": [
+  {
+   "episode": 129,
+   "video_hi": "8DrWUL-hRaw",
+   "video_hinglish": "8DrWUL-hRaw",
+   "capsules": [
+    {
+     "id": "ca-ep129-s1",
+     "headline_hi": "Cyclone Akvan 20 November ko Andhra tat se takrayega",
+     "headline_hinglish": "Cyclone Akvan 20 November ko Andhra tat se takrayega",
+     "detail_hi": "IMD ke mutabik tez hawaon aur bhari baarish ke saath toofan Nellore aur Tuni ke beech kinare se takrayega.",
+     "detail_hinglish": "IMD ke mutabik tez hawaon aur bhari baarish ke saath toofan Nellore aur Tuni ke beech kinare se takrayega.",
+     "category_hi": "Environment",
+     "category_en": "Environment"
+    },
+    {
+     "id": "ca-ep129-s2",
+     "headline_hi": "US-China-Russia pehla trilateral sammelan 19 November ko",
+     "headline_hinglish": "US-China-Russia pehla trilateral sammelan 19 November ko",
+     "detail_hi": "Teeno deshon ke neta Shenzhen mein milenge, duniya ki nazar is aitihasik baithak par hai.",
+     "detail_hinglish": "Teeno deshon ke neta Shenzhen mein milenge, duniya ki nazar is aitihasik baithak par hai.",
+     "category_hi": "International",
+     "category_en": "National"
+    },
+    {
+     "id": "ca-ep129-s3",
+     "headline_hi": "UP ke 25 lakh chhatron ko muft tablet milega",
+     "headline_hinglish": "UP ke 25 lakh chhatron ko muft tablet milega",
+     "detail_hi": "Swami Vivekananda Yuva Sashaktikaran Yojana ke tahat tablet vitran ka naya charan shuru hua.",
+     "detail_hinglish": "Swami Vivekananda Yuva Sashaktikaran Yojana ke tahat tablet vitran ka naya charan shuru hua.",
+     "category_hi": "Education",
+     "category_en": "Education"
+    },
+    {
+     "id": "ca-ep129-s4",
+     "headline_hi": "Berozgari 4.9% par, mahila bhagidari badhi",
+     "headline_hinglish": "Berozgari 4.9% par, mahila bhagidari badhi",
+     "detail_hi": "October mein berozgari dar paanch pratishat se ghata, khaas taur par gaon mein mahilaon ki bhagidari badhi.",
+     "detail_hinglish": "October mein berozgari dar paanch pratishat se ghata, khaas taur par gaon mein mahilaon ki bhagidari badhi.",
+     "category_hi": "Economy",
+     "category_en": "Economy"
+    },
+    {
+     "id": "ca-ep129-s5",
+     "headline_hi": "Ayodhya se Janakpur tak nayi saptahik train",
+     "headline_hinglish": "Ayodhya se Janakpur tak nayi saptahik train",
+     "detail_hi": "Bharat aur Nepal ke beech dharmik aur sanskritik sambandh mazboot karegi yeh saptahik train seva.",
+     "detail_hinglish": "Bharat aur Nepal ke beech dharmik aur sanskritik sambandh mazboot karegi yeh saptahik train seva.",
+     "category_hi": "International",
+     "category_en": "National"
+    }
+   ],
+   "mcq": {
+    "id": "ca-ep129-mcq",
+    "q_hi": "Cyclone Akvan Andhra Pradesh ke kinare se kab tak takrayega?",
+    "q_hinglish": "Cyclone Akvan Andhra Pradesh ke kinare se kab tak takrayega?",
+    "options_hi": [
+     "18 November",
+     "20 November",
+     "22 November",
+     "24 November"
+    ],
+    "options_hinglish": [
+     "18 November",
+     "20 November",
+     "22 November",
+     "24 November"
+    ],
+    "answer_index": 1
+   }
+  }
+ ]
+}
