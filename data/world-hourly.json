@@ -1,5 +1,5 @@
 {
-  "updated_ist": "2026-11-16T06:33:00+05:30",
+  "updated_ist": "2026-11-16T07:27:01+05:30",
   "items": [
     {
       "id": "world-20261116-0630-01",
@@ -15,6 +15,43 @@
         "Reuters",
         "Nikkei Asia",
         "The Nation"
+      ],
+      "image": null,
+      "image_credit": null
+    },
+    {
+      "id": "world-20261116-0722-01",
+      "published_ist": "2026-11-16T05:31:00+05:30",
+      "headline": "Houthi ne Riyadh par missile daage",
+      "detail": "Houthi ne daava kiya usne Riyadh ke King Khalid airport aur vitt kendra par do ballistic missile daage; Saudi gathbandhan ne kaha dono rok liye gaye, nuksan ki swatantra pushti nahi.",
+      "category": "World",
+      "exam_angle": "Yemen yuddh, Saudi-Houthi takraar, Khadi suraksha — UPSC ke liye mahatvapurna.",
+      "source": "SEE News",
+      "source_url": "https://see.news/houthi-attacks-on-saudi-arabia-intensify-as-yemeni-forces-retreat",
+      "genuineness": "corroborated",
+      "outlets": [
+        "SEE News",
+        "Shafaq News",
+        "Times of India"
+      ],
+      "image": null,
+      "image_credit": null
+    },
+    {
+      "id": "world-20261116-0722-02",
+      "published_ist": "2026-11-16T05:17:00+05:30",
+      "headline": "Estonia 1 December se Russia seema band karega",
+      "detail": "Videsh mantri Margus Tsahkna ne kaha drone nirmata Threod Systems par GRU ke aadesh par hue aagjani ke prayas ke baad teenon seema chaukiyan — Narva, Luhamaa, Koidula — 1 December se band hongi; avadhi tay nahi.",
+      "category": "World",
+      "exam_angle": "Estonia-Russia, NATO, seema suraksha — UPSC ke liye mahatvapurna.",
+      "source": "Reuters",
+      "source_url": "https://www.reuters.com/world/europe/estonia-close-russian-border-crossings-after-attempted-arson-attack-2026-11-15/",
+      "genuineness": "verified",
+      "outlets": [
+        "Reuters",
+        "Al Jazeera",
+        "Firstpost",
+        "The Irish Times"
       ],
       "image": null,
       "image_credit": null
@@ -39,60 +76,38 @@
       "image_credit": null
     },
     {
-      "id": "world-20261116-0630-03",
-      "published_ist": "2026-11-15T15:16:00+05:30",
-      "headline": "Ukraine ne Nizhnekamsk par drone hamla kiya",
-      "detail": "Ukraine ne zimmedari lete hue kaha uske drones ne Tatarstan ke Nizhnekamskneftekhim petrochemical complex aur TAIF-NK refinery ko nishana banaya, dono jagah aag lagi; mayor ne lambe hamle ki pushti ki.",
+      "id": "world-20261116-0722-03",
+      "published_ist": "2026-11-16T01:30:00+05:30",
+      "headline": "Mexico ke 'drug godfather' Gallardo ka nidhan",
+      "detail": "Guadalajara cartel ke sansthapak Miguel Angel Felix Gallardo (80) ka aspatal me nidhan — 1989 se jail me the, 1985 me DEA agent ki hatya ke doshi; kai angon ne kaam karna band kar diya.",
       "category": "World",
-      "exam_angle": "Russia-Ukraine yuddh, urja avasanrachna par hamle — UPSC ke liye mahatvapurna.",
-      "source": "Al Arabiya",
-      "source_url": "https://english.alarabiya.net/News/world/2026/11/15/ukrainian-strikes-hit-major-russian-industrial-city-authorities",
+      "exam_angle": "Mexico drug yuddh, DEA, antarrashtriya apraadh — UPSC ke liye mahatvapurna.",
+      "source": "Reuters",
+      "source_url": "https://www.reuters.com/world/americas/mexicos-guadalajara-cartel-founder-aged-80-dies-hospital-milenio-reports-2026-11-15/",
       "genuineness": "verified",
       "outlets": [
-        "Al Arabiya",
-        "Ukrinform",
-        "Ukrainska Pravda",
-        "The New Voice of Ukraine"
+        "Reuters",
+        "Al Jazeera",
+        "CNN",
+        "USA Today"
       ],
       "image": null,
       "image_credit": null
     },
     {
-      "id": "world-20261116-0630-04",
-      "published_ist": "2026-11-15T02:50:00+05:30",
-      "headline": "SpaceX ne Starship ko pehli baar pakda",
-      "detail": "Flight 15 ki Ship 42 22 ghante kaksha me bitakar Starbase lautkar Mechazilla ki baanhon me phansi — pehli baar koi Starship pakda gaya; booster kharab hokar samudra me gir gaya.",
+      "id": "world-20261116-0722-04",
+      "published_ist": "2026-11-16T00:01:00+05:30",
+      "headline": "Prince Harry achanak Ukraine pahunche",
+      "detail": "Prince Harry ne Lviv me ghayal sainikon aur chikitsakon se milkar kaha 'tum yuddh jeetoge' — 2022 se chaarvi yatra; Invictus Games ke liye chune jaane wale khiladiyon se bhi mile.",
       "category": "World",
-      "exam_angle": "Punh-prayog yogya rocket, antariksh takneek — UPSC ke liye mahatvapurna.",
-      "source": "Malay Mail",
-      "source_url": "https://www.malaymail.com/news/world/2026/11/15/spacex-pulls-off-first-ever-spaceship-catch-with-giant-chopsticks/243320",
+      "exam_angle": "Russia-Ukraine yuddh, Invictus Games — UPSC ke liye mahatvapurna.",
+      "source": "Al Jazeera",
+      "source_url": "https://www.aljazeera.com/news/2026/11/15/prince-harry-in-ukraine-meeting-invictus-2027-hopefuls",
       "genuineness": "verified",
       "outlets": [
-        "Malay Mail",
-        "The Times",
-        "CNBC",
+        "Al Jazeera",
         "Associated Press",
-        "Space.com"
-      ],
-      "image": null,
-      "image_credit": null
-    },
-    {
-      "id": "world-20261116-0630-05",
-      "published_ist": "2026-11-14T07:17:00+05:30",
-      "headline": "Trump, Xi, Putin 19 November ko milenge",
-      "detail": "Teeno parmanu shaktiyon ke neta pehli baar Shenzhen me APEC shikhar ke kinare milenge; parmanu hathiyar katauti aur Iran par charcha hogi, Ukraine agenda me nahi.",
-      "category": "World",
-      "exam_angle": "APEC, parmanu hathiyar niyantran, New START ki samapti — UPSC ke liye mahatvapurna.",
-      "source": "The Hindu",
-      "source_url": "https://www.thehindu.com/news/international/trump-xi-and-putin-plan-an-unprecedented-joint-meeting-apec-summit-china/article71700699.ece",
-      "genuineness": "verified",
-      "outlets": [
-        "The Hindu",
-        "Dawn",
-        "Channel News Asia",
-        "Business Times",
-        "The Jerusalem Post"
+        "Firstpost"
       ],
       "image": null,
       "image_credit": null
@@ -117,27 +132,6 @@
       "image_credit": null
     },
     {
-      "id": "world-20261115-2227-02",
-      "published_ist": "2026-11-15T06:30:00+05:30",
-      "headline": "Hamas ka Rafah commander hamle me mara",
-      "detail": "Israel ne kaha Gaza me hawai hamle me Hamas ke Rafah Brigade commander Samir Abu Younis mare gaye; Hamas ne bhi maut ki pushti ki — ve 7 October hamle ki yojana me shamil the.",
-      "category": "World",
-      "exam_angle": "Gaza yuddhaviram ke beech Hamas-Israel tanav — UPSC ke liye mahatvapurna.",
-      "source": "Al Jazeera",
-      "source_url": "https://www.aljazeera.com/amp/news/2026/11/15/israeli-air-strike-kills-senior-hamas-commander-in-gaza",
-      "genuineness": "verified",
-      "outlets": [
-        "Al Jazeera",
-        "CNN",
-        "The Times of Israel",
-        "Haaretz",
-        "The National",
-        "Al Arabiya"
-      ],
-      "image": null,
-      "image_credit": null
-    },
-    {
       "id": "world-20261115-2227-03",
       "published_ist": "2026-11-15T18:59:00+05:30",
       "headline": "Estonia ne GRU ki todfod koshish nakam ki",
@@ -152,6 +146,24 @@
         "Kyiv Post",
         "WION",
         "Demócrata"
+      ],
+      "image": null,
+      "image_credit": null
+    },
+    {
+      "id": "world-20261115-2022-03",
+      "published_ist": "2026-11-15T18:04:00+05:30",
+      "headline": "Bahrain ne UN se Iran par karvai mangi",
+      "detail": "Bahrain ne UN Security Council se Iran ke hamlo ki ninda aur sakht karvai ki maang ki; G7 ne bhi hamlo ki ninda ki, jabki Iran ne jawab jaari rakhne ki baat kahi.",
+      "category": "World",
+      "exam_angle": "West Asia me tanav aur UN Security Council — UPSC ke liye mahatvapurna.",
+      "source": "Gulf News",
+      "source_url": "https://gulfnews.com/world/gulf/bahrain/bahrain-issues-potential-threat-alert-urges-residents-to-seek-safety-1.500747795",
+      "genuineness": "verified",
+      "outlets": [
+        "Gulf News",
+        "Al Jazeera",
+        "The Indian Messenger"
       ],
       "image": null,
       "image_credit": null
@@ -174,6 +186,43 @@
       "image_credit": null
     },
     {
+      "id": "world-20261115-2022-02",
+      "published_ist": "2026-11-15T15:22:00+05:30",
+      "headline": "Canary Islands: ek din me 1,500 pravasi",
+      "detail": "Shaniwaar ko Spain ke Canary Islands me lagbhag 1,500 pravasi pahunche — 2020 ke baad ek din me sabse zyada; zyadaatar Senegal, Gambia aur Guinea se aaye.",
+      "category": "World",
+      "exam_angle": "Europe me pravasan aur Atlantic route — UPSC ke liye mahatvapurna.",
+      "source": "Reuters",
+      "source_url": "https://www.reuters.com/world/africa/nearly-1500-migrants-arrive-canary-islands-one-day-2026-11-15/",
+      "genuineness": "verified",
+      "outlets": [
+        "Reuters",
+        "EFE",
+        "Tenerife News"
+      ],
+      "image": null,
+      "image_credit": null
+    },
+    {
+      "id": "world-20261116-0630-03",
+      "published_ist": "2026-11-15T15:16:00+05:30",
+      "headline": "Ukraine ne Nizhnekamsk par drone hamla kiya",
+      "detail": "Ukraine ne zimmedari lete hue kaha uske drones ne Tatarstan ke Nizhnekamskneftekhim petrochemical complex aur TAIF-NK refinery ko nishana banaya, dono jagah aag lagi; mayor ne lambe hamle ki pushti ki.",
+      "category": "World",
+      "exam_angle": "Russia-Ukraine yuddh, urja avasanrachna par hamle — UPSC ke liye mahatvapurna.",
+      "source": "Al Arabiya",
+      "source_url": "https://english.alarabiya.net/News/world/2026/11/15/ukrainian-strikes-hit-major-russian-industrial-city-authorities",
+      "genuineness": "verified",
+      "outlets": [
+        "Al Arabiya",
+        "Ukrinform",
+        "Ukrainska Pravda",
+        "The New Voice of Ukraine"
+      ],
+      "image": null,
+      "image_credit": null
+    },
+    {
       "id": "world-20261115-2122-01",
       "published_ist": "2026-11-15T14:44:00+05:30",
       "headline": "Gaza: saans ki bimari badhi, WHO chetavni",
@@ -187,6 +236,43 @@
         "Reuters",
         "The Japan Times",
         "UNICEF"
+      ],
+      "image": null,
+      "image_credit": null
+    },
+    {
+      "id": "world-20261115-1722-01",
+      "published_ist": "2026-11-15T13:45:00+05:30",
+      "headline": "Jordan: church hamle ke teen ko phansi",
+      "detail": "Jordan ki State Security Court ne Ravivaar ko teen logon ko phansi ki saza sunai; 23 October ko Karak ke Greek Orthodox church me janaze ke dauraan hamle me 9 log mare gaye the — faisle par Court of Cassation me appeal ho sakti hai.",
+      "category": "World",
+      "exam_angle": "Jordan me aatankwad par mukadma aur mrityudand — West Asia me suraksha.",
+      "source": "Reuters",
+      "source_url": "https://www.reuters.com/world/middle-east/jordan-sentences-three-men-death-over-deadly-church-attack-2026-11-15/",
+      "genuineness": "verified",
+      "outlets": [
+        "Reuters",
+        "Al Jazeera",
+        "The National",
+        "Malay Mail"
+      ],
+      "image": null,
+      "image_credit": null
+    },
+    {
+      "id": "world-20261115-1422-01",
+      "published_ist": "2026-11-15T13:16:00+05:30",
+      "headline": "Bahrain: Iran ka US base par drone hamla",
+      "detail": "Bahrain me subah dhamake aur siren sunai diye; Iran ke Revolutionary Guards ne daava kiya ki unhone Riffa base par US radar ko chhah drones se nishana banaya — Bahrain ne kaha uski hawai suraksha ne kai hamle roke, abhi koi nuksan ki pushti nahi.",
+      "category": "World",
+      "exam_angle": "West Asia me tanav aur Gulf me US sainya upasthiti — UPSC ke liye mahatvapurna.",
+      "source": "Malay Mail",
+      "source_url": "https://www.malaymail.com/news/world/2026/11/15/blasts-sirens-in-bahrain-as-iran-announces-attack-on-us-base/243363",
+      "genuineness": "verified",
+      "outlets": [
+        "Agence France-Presse",
+        "The National",
+        "Al Jazeera"
       ],
       "image": null,
       "image_credit": null
@@ -213,37 +299,19 @@
       "image_credit": null
     },
     {
-      "id": "world-20261115-2022-02",
-      "published_ist": "2026-11-15T15:22:00+05:30",
-      "headline": "Canary Islands: ek din me 1,500 pravasi",
-      "detail": "Shaniwaar ko Spain ke Canary Islands me lagbhag 1,500 pravasi pahunche — 2020 ke baad ek din me sabse zyada; zyadaatar Senegal, Gambia aur Guinea se aaye.",
+      "id": "world-20261115-1324-01",
+      "published_ist": "2026-11-15T12:43:00+05:30",
+      "headline": "Damascus: car bomb me pita-beti mare gaye",
+      "detail": "Damascus ke Jaramana ilaake me shanivaar shaam car bomb phata — ek aadmi aur uski beti mare gaye, ek mahila ghayal; suraksha balon ne jaanch shuru ki, kisi ne zimmedari nahi li.",
       "category": "World",
-      "exam_angle": "Europe me pravasan aur Atlantic route — UPSC ke liye mahatvapurna.",
-      "source": "Reuters",
-      "source_url": "https://www.reuters.com/world/africa/nearly-1500-migrants-arrive-canary-islands-one-day-2026-11-15/",
+      "exam_angle": "Syria me suraksha sthiti aur West Asia — UPSC ke liye mahatvapurna.",
+      "source": "Gulf Today",
+      "source_url": "https://www.gulftoday.ae/news/2026/11/15/syria-car-bomb-kills-2-including-child",
       "genuineness": "verified",
       "outlets": [
-        "Reuters",
-        "EFE",
-        "Tenerife News"
-      ],
-      "image": null,
-      "image_credit": null
-    },
-    {
-      "id": "world-20261115-2022-03",
-      "published_ist": "2026-11-15T18:04:00+05:30",
-      "headline": "Bahrain ne UN se Iran par karvai mangi",
-      "detail": "Bahrain ne UN Security Council se Iran ke hamlo ki ninda aur sakht karvai ki maang ki; G7 ne bhi hamlo ki ninda ki, jabki Iran ne jawab jaari rakhne ki baat kahi.",
-      "category": "World",
-      "exam_angle": "West Asia me tanav aur UN Security Council — UPSC ke liye mahatvapurna.",
-      "source": "Gulf News",
-      "source_url": "https://gulfnews.com/world/gulf/bahrain/bahrain-issues-potential-threat-alert-urges-residents-to-seek-safety-1.500747795",
-      "genuineness": "verified",
-      "outlets": [
-        "Gulf News",
+        "Agence France-Presse",
         "Al Jazeera",
-        "The Indian Messenger"
+        "Associated Press"
       ],
       "image": null,
       "image_credit": null
@@ -267,58 +335,18 @@
       "image_credit": null
     },
     {
-      "id": "world-20261115-1822-02",
-      "published_ist": "2026-11-15T07:21:00+05:30",
-      "headline": "Korea: topper ne AI se nakal mani",
-      "detail": "South Korea me tax accountant exam ke topper Han Won-seok ne mana ki usne chhote camera se sawal photo karke AI se jawab liye; 400 me se 397.5 ank laaye the, Seoul police ne jaanch shuru ki.",
+      "id": "world-20261115-1522-01",
+      "published_ist": "2026-11-15T09:30:00+05:30",
+      "headline": "Shenzhen me APEC CEO Summit, 12 neta aayenge",
+      "detail": "CCPIT ne aaj elaan kiya ki 17-18 November ko Shenzhen me hone wale APEC CEO Summit me Xi Jinping samet 12 arthvyavasthaon ke neta bhashan denge ya panel charcha me hissa lenge; 115 Fortune Global 500 companiyon ke pratinidhi bhi aayenge.",
       "category": "World",
-      "exam_angle": "Pariksha me AI ka durupyog aur pariksha suraksha — UPSC ke liye mahatvapurna.",
-      "source": "The Korea Herald",
-      "source_url": "https://m.koreaherald.com/article/10937374",
-      "genuineness": "verified",
+      "exam_angle": "APEC aur Asia-Pacific me vyapar sahyog — UPSC ke liye mahatvapurna.",
+      "source": "CGTN",
+      "source_url": "https://news.cgtn.com/news/2026-11-15/Twelve-APEC-leaders-to-attend-CEO-Summit-in-Shenzhen-1S5mNgHhkKA/p.html",
+      "genuineness": "corroborated",
       "outlets": [
-        "The Korea Herald",
-        "The Korea Times",
-        "Times of India",
-        "Malay Mail"
-      ],
-      "image": null,
-      "image_credit": null
-    },
-    {
-      "id": "world-20261115-1722-01",
-      "published_ist": "2026-11-15T13:45:00+05:30",
-      "headline": "Jordan: church hamle ke teen ko phansi",
-      "detail": "Jordan ki State Security Court ne Ravivaar ko teen logon ko phansi ki saza sunai; 23 October ko Karak ke Greek Orthodox church me janaze ke dauraan hamle me 9 log mare gaye the — faisle par Court of Cassation me appeal ho sakti hai.",
-      "category": "World",
-      "exam_angle": "Jordan me aatankwad par mukadma aur mrityudand — West Asia me suraksha.",
-      "source": "Reuters",
-      "source_url": "https://www.reuters.com/world/middle-east/jordan-sentences-three-men-death-over-deadly-church-attack-2026-11-15/",
-      "genuineness": "verified",
-      "outlets": [
-        "Reuters",
-        "Al Jazeera",
-        "The National",
-        "Malay Mail"
-      ],
-      "image": null,
-      "image_credit": null
-    },
-    {
-      "id": "world-20261115-1722-02",
-      "published_ist": "2026-11-15T07:30:00+05:30",
-      "headline": "Gaza aspatal hamle par 18 deshon ki ninda",
-      "detail": "Saudi samet 18 Arab aur Islamic deshon ke videsh mantriyon ne Shaniwaar ko Khan Younis ke Nasser aspatal par Guruvaar ke Israeli hamle ki ninda ki; hamle me ek surgeon aur ek kishore samet 6 log mare gaye the, Israel ka kehna hai usne Hamas commander ko nishana banaya tha.",
-      "category": "World",
-      "exam_angle": "Antarrashtriya manavtavadi kanoon aur chikitsa suvidhaon ki suraksha — UPSC ke liye mahatvapurna.",
-      "source": "TBS News",
-      "source_url": "https://www.tbsnews.net/worldbiz/middle-east/18-arab-and-islamic-nations-condemn-israeli-strike-gaza-hospital-1602776",
-      "genuineness": "verified",
-      "outlets": [
-        "TBS News",
-        "Al Jazeera",
-        "Palestine Chronicle",
-        "Arab News"
+        "CGTN",
+        "China Daily"
       ],
       "image": null,
       "image_credit": null
@@ -359,72 +387,20 @@
       "image_credit": null
     },
     {
-      "id": "world-20261115-1622-03",
-      "published_ist": "2026-11-15T06:36:00+05:30",
-      "headline": "Microsoft 365 phir chalu, outage khatm",
-      "detail": "Microsoft ne kaha Outlook, Teams aur Copilot 24 ghante se zyada ke global outage ke baad poori tarah bahaal ho gaye; wajah network upgrade ki kharabi thi, cyberattack nahi.",
+      "id": "world-20261115-1722-02",
+      "published_ist": "2026-11-15T07:30:00+05:30",
+      "headline": "Gaza aspatal hamle par 18 deshon ki ninda",
+      "detail": "Saudi samet 18 Arab aur Islamic deshon ke videsh mantriyon ne Shaniwaar ko Khan Younis ke Nasser aspatal par Guruvaar ke Israeli hamle ki ninda ki; hamle me ek surgeon aur ek kishore samet 6 log mare gaye the, Israel ka kehna hai usne Hamas commander ko nishana banaya tha.",
       "category": "World",
-      "exam_angle": "Digital infrastructure aur cyber suraksha — bade tech outage ka asar.",
-      "source": "Times of India",
-      "source_url": "https://timesofindia.indiatimes.com/technology/tech-news/microsoft-restores-3-services-after-global-outage/articleshow/135845059.cms",
+      "exam_angle": "Antarrashtriya manavtavadi kanoon aur chikitsa suvidhaon ki suraksha — UPSC ke liye mahatvapurna.",
+      "source": "TBS News",
+      "source_url": "https://www.tbsnews.net/worldbiz/middle-east/18-arab-and-islamic-nations-condemn-israeli-strike-gaza-hospital-1602776",
       "genuineness": "verified",
       "outlets": [
-        "Times of India",
-        "Wirony",
-        "Vietnam.vn"
-      ],
-      "image": null,
-      "image_credit": null
-    },
-    {
-      "id": "world-20261115-1522-01",
-      "published_ist": "2026-11-15T09:30:00+05:30",
-      "headline": "Shenzhen me APEC CEO Summit, 12 neta aayenge",
-      "detail": "CCPIT ne aaj elaan kiya ki 17-18 November ko Shenzhen me hone wale APEC CEO Summit me Xi Jinping samet 12 arthvyavasthaon ke neta bhashan denge ya panel charcha me hissa lenge; 115 Fortune Global 500 companiyon ke pratinidhi bhi aayenge.",
-      "category": "World",
-      "exam_angle": "APEC aur Asia-Pacific me vyapar sahyog — UPSC ke liye mahatvapurna.",
-      "source": "CGTN",
-      "source_url": "https://news.cgtn.com/news/2026-11-15/Twelve-APEC-leaders-to-attend-CEO-Summit-in-Shenzhen-1S5mNgHhkKA/p.html",
-      "genuineness": "corroborated",
-      "outlets": [
-        "CGTN",
-        "China Daily"
-      ],
-      "image": null,
-      "image_credit": null
-    },
-    {
-      "id": "world-20261115-1422-01",
-      "published_ist": "2026-11-15T13:16:00+05:30",
-      "headline": "Bahrain: Iran ka US base par drone hamla",
-      "detail": "Bahrain me subah dhamake aur siren sunai diye; Iran ke Revolutionary Guards ne daava kiya ki unhone Riffa base par US radar ko chhah drones se nishana banaya — Bahrain ne kaha uski hawai suraksha ne kai hamle roke, abhi koi nuksan ki pushti nahi.",
-      "category": "World",
-      "exam_angle": "West Asia me tanav aur Gulf me US sainya upasthiti — UPSC ke liye mahatvapurna.",
-      "source": "Malay Mail",
-      "source_url": "https://www.malaymail.com/news/world/2026/11/15/blasts-sirens-in-bahrain-as-iran-announces-attack-on-us-base/243363",
-      "genuineness": "verified",
-      "outlets": [
-        "Agence France-Presse",
-        "The National",
-        "Al Jazeera"
-      ],
-      "image": null,
-      "image_credit": null
-    },
-    {
-      "id": "world-20261115-1324-01",
-      "published_ist": "2026-11-15T12:43:00+05:30",
-      "headline": "Damascus: car bomb me pita-beti mare gaye",
-      "detail": "Damascus ke Jaramana ilaake me shanivaar shaam car bomb phata — ek aadmi aur uski beti mare gaye, ek mahila ghayal; suraksha balon ne jaanch shuru ki, kisi ne zimmedari nahi li.",
-      "category": "World",
-      "exam_angle": "Syria me suraksha sthiti aur West Asia — UPSC ke liye mahatvapurna.",
-      "source": "Gulf Today",
-      "source_url": "https://www.gulftoday.ae/news/2026/11/15/syria-car-bomb-kills-2-including-child",
-      "genuineness": "verified",
-      "outlets": [
-        "Agence France-Presse",
+        "TBS News",
         "Al Jazeera",
-        "Associated Press"
+        "Palestine Chronicle",
+        "Arab News"
       ],
       "image": null,
       "image_credit": null
