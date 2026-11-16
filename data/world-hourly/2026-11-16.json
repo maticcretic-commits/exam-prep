@@ -1,6 +1,6 @@
 {
   "date": "2026-11-16",
-  "updated_ist": "2026-11-16T21:29:47+05:30",
+  "updated_ist": "2026-11-16T22:31:55+05:30",
   "items": [
     {
       "id": "world-20261116-1322-01",
@@ -963,6 +963,103 @@
       ],
       "image": null,
       "image_credit": null
+    },
+    {
+      "id": "world-20261116-2222-01",
+      "published_ist": "2026-11-16T20:20:00+05:30",
+      "headline": "Imran Khan: 'Wapas zinda na aaun'",
+      "detail": "Jail me band poorv PM Imran Khan ne sheersh nyayadhishon ko patra likha — ilaaj na mila to zinda wapas nahi aa sakte, BP 192-193 aur dil ko nuksan ka daava kiya; patni Bushra Bibi ke liye bhi ilaaj manga, sarkar ne daavon ko kharij kiya.",
+      "category": "World",
+      "exam_angle": "Pakistan, Imran Khan, Pakistan judiciary — UPSC ke liye mahatvapurna.",
+      "source": "WION",
+      "source_url": "https://www.wionews.com/world/i-may-not-return-alive-imran-khan-pleads-judges-for-medical-aid-to-self-wife-bushra-bibi-1794839729295/amp",
+      "genuineness": "verified",
+      "outlets": [
+        "Dawn",
+        "The Express Tribune",
+        "WION",
+        "Outlook India",
+        "The Telegraph India"
+      ],
+      "image": "../images/world/world-20261116-2222-01.jpg",
+      "image_credit": "U.S. Department of State, Wikimedia Commons (Public domain)"
+    },
+    {
+      "id": "world-20261116-2222-02",
+      "published_ist": "2026-11-16T19:29:00+05:30",
+      "headline": "Houthi Aden ke kareeb pahunche",
+      "detail": "Sarkari fauj ke Bab el-Mandeb se peeche hatne ke baad Houthi ne dakshini tat par Khor Omairh tak ilaka kabza kiya — Aden se sirf 100 km door, sarkar ne sheher me suraksha badhai.",
+      "category": "World",
+      "exam_angle": "Yemen, Houthi, Bab el-Mandeb, Aden — UPSC ke liye mahatvapurna.",
+      "source": "Reuters",
+      "source_url": "https://www.reuters.com/world/middle-east/houthis-seize-ground-yemens-southern-coast-edge-closer-aden-2026-11-16/",
+      "genuineness": "corroborated",
+      "outlets": [
+        "Reuters",
+        "AFP (via The Times of Israel)"
+      ],
+      "image": null,
+      "image_credit": null
+    },
+    {
+      "id": "world-20261116-2222-03",
+      "published_ist": "2026-11-16T13:36:00+05:30",
+      "headline": "Iran ki US afsaron ko dhamki",
+      "detail": "Iran ke dakshin Africa sthit dutavas ne USS Spruance ke do afsaron ki tasveer ke saath 'We will find you' likha — un par February me Minab school par hamle ka aarop hai; America ne abhi pushti nahi ki.",
+      "category": "World",
+      "exam_angle": "Iran-US tensions, Minab, USS Spruance — UPSC ke liye mahatvapurna.",
+      "source": "Firstpost",
+      "source_url": "https://www.firstpost.com/world/we-will-find-you-iran-threatens-two-us-navy-officers-over-deadly-minab-school-strike-14060263.html",
+      "genuineness": "verified",
+      "outlets": [
+        "Firstpost",
+        "NDTV",
+        "The Times of India",
+        "The Tribune",
+        "WION"
+      ],
+      "image": null,
+      "image_credit": null
+    },
+    {
+      "id": "world-20261116-2222-04",
+      "published_ist": "2026-11-16T07:33:00+05:30",
+      "headline": "Pannun case: Gupta ko 24 saal ki mang",
+      "detail": "America ne New York court se kaha — Pannun ki hatya ki sajish me doshi Nikhil Gupta ko 293 mahine (24 saal) ki saza mile; bachaav ne 12 saal manga, faisla 20 November ko.",
+      "category": "World",
+      "exam_angle": "India-US relations, Pannun case — UPSC ke liye mahatvapurna.",
+      "source": "The Hindu",
+      "source_url": "https://www.thehindu.com/news/international/us-govt-seeks-24-year-prison-term-for-nikhil-gupta-in-pannun-murder-for-hire-plot/article71705973.ece",
+      "genuineness": "verified",
+      "outlets": [
+        "The Economic Times",
+        "The Hindu",
+        "The Tribune",
+        "Business Today",
+        "Scroll (PTI)"
+      ],
+      "image": null,
+      "image_credit": null
+    },
+    {
+      "id": "world-20261116-2222-05",
+      "published_ist": "2026-11-16T05:28:00+05:30",
+      "headline": "Zelenskyy ka daava: Russia ke 50,000 jawan",
+      "detail": "Zelenskyy ne daava kiya — October me Russia ke 50,000 se zyada sainik mare ya ghayal hue, aur Ukraine ne Russia ki 55% tel shodhan kshamata thap kar di; swatantra pushti abhi nahi hui.",
+      "category": "World",
+      "exam_angle": "Russia-Ukraine war, oil refining — UPSC ke liye mahatvapurna.",
+      "source": "The Tribune",
+      "source_url": "https://www.tribuneindia.com/news/world/zelenskyy-says-russia-suffered-over-50000-casualties-in-oct-claims-to-disabled-55-of-moscows-oil-refining-capacity/",
+      "genuineness": "verified",
+      "outlets": [
+        "Brussels Signal",
+        "ANI",
+        "Republic World",
+        "Virginia Times Now",
+        "Eastora News"
+      ],
+      "image": "../images/world/world-20261116-2222-05.jpg",
+      "image_credit": "Xuthoria, Wikimedia Commons (CC BY-SA 4.0)"
     }
   ]
 }
