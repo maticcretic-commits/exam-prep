@@ -1,6 +1,6 @@
 {
   "date": "2026-11-16",
-  "updated_ist": "2026-11-16T15:27:04+05:30",
+  "updated_ist": "2026-11-16T16:25:42+05:30",
   "items": [
     {
       "id": "world-20261116-1322-01",
@@ -597,6 +597,77 @@
         "Al Jazeera",
         "Reuters",
         "Haaretz"
+      ],
+      "image": null,
+      "image_credit": null
+    },
+    {
+      "id": "world-20261116-1622-01",
+      "published_ist": "2026-11-16T08:44:00+05:30",
+      "headline": "Yemen se sarkari fauj peeche hati",
+      "detail": "Bab el-Mandeb ke paas se sarkari fauj Aden ki taraf peeche hati, Houthi ne 600 kaidi riha kiye.",
+      "category": "World",
+      "exam_angle": "Bab el-Mandeb — Lal Sagar ka aham samudri rasta, Bharat ke vyapar ke liye mahatvapurna.",
+      "source": "Business Standard",
+      "source_url": "https://www.business-standard.com/world-news/yemen-forces-retreat-near-bab-el-mandeb-in-setback-in-war-against-houthis-126111600084_1.html",
+      "genuineness": "verified",
+      "outlets": [
+        "Reuters",
+        "Associated Press",
+        "Dawn"
+      ],
+      "image": null,
+      "image_credit": null
+    },
+    {
+      "id": "world-20261116-1622-02",
+      "published_ist": "2026-11-16T07:47:00+05:30",
+      "headline": "Prince Harry Ukraine me ghayal sainikon se mile",
+      "detail": "Prince Harry ne Lviv me ghayal sainikon se mulakat ki aur kaha Ukraine yuddh jeetega, Invictus Games ka wada kiya.",
+      "category": "World",
+      "exam_angle": null,
+      "source": "Mathrubhumi",
+      "source_url": "https://english.mathrubhumi.com/news/world/prince-harry-ukraine-visit-lviv-wounded-veterans-invictus-games-2026-ptigfopqlme",
+      "genuineness": "verified",
+      "outlets": [
+        "Reuters",
+        "Page Six",
+        "Mathrubhumi"
+      ],
+      "image": null,
+      "image_credit": null
+    },
+    {
+      "id": "world-20261116-1622-03",
+      "published_ist": "2026-11-16T03:24:00+05:30",
+      "headline": "Vulcan rocket fail, 40 satellite nasht",
+      "detail": "ULA ka Vulcan rocket udaan ke 10 minute baad fail hua, Amazon Leo ke 40 satellite nasht ho gaye.",
+      "category": "World",
+      "exam_angle": "Amazon Leo vs Starlink — satellite internet ki daud.",
+      "source": "The Economic Times",
+      "source_url": "https://economictimes.indiatimes.com/news/international/us/boeing-lockheed-martin-joint-venture-rocket-launch-fails-destroys-40-satellites-for-amazons-leo-broadband-internet/articleshow/135865867.cms",
+      "genuineness": "verified",
+      "outlets": [
+        "Reuters",
+        "The Economic Times",
+        "The Times of India"
+      ],
+      "image": null,
+      "image_credit": null
+    },
+    {
+      "id": "world-20261116-1622-04",
+      "published_ist": "2026-11-16T00:47:00+05:30",
+      "headline": "Prague me lakhon ne media ke liye march kiya",
+      "detail": "Czech sarkar ke public media funding badalne ke plan ke khilaf Prague me lakhon log sadkon par utre.",
+      "category": "World",
+      "exam_angle": "Public media ki swatantrata — loktantra ke liye aham sawal.",
+      "source": "The Times of India",
+      "source_url": "https://timesofindia.indiatimes.com/india/india-international-breaking-news-today-november-16/liveblog/135864793.cms",
+      "genuineness": "verified",
+      "outlets": [
+        "Reuters",
+        "The Times of India"
       ],
       "image": null,
       "image_credit": null
