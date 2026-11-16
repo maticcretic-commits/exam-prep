@@ -1,6 +1,6 @@
 {
   "date": "2026-11-16",
-  "updated_ist": "2026-11-16T20:26:42+05:30",
+  "updated_ist": "2026-11-16T21:29:47+05:30",
   "items": [
     {
       "id": "world-20261116-1322-01",
@@ -903,6 +903,63 @@
         "CNN",
         "Al Jazeera",
         "Tribune"
+      ],
+      "image": null,
+      "image_credit": null
+    },
+    {
+      "id": "world-20261116-2122-01",
+      "published_ist": "2026-11-16T19:07:00+05:30",
+      "headline": "Germany ne Russia ki nayi suraksha yojana thukrai",
+      "detail": "Videsh Mantri Wadephul ne Brussels me kaha — Europe ko nayi suraksha vyavastha nahi chahiye, maujooda samjhauton ka samman hi kaafi hai; France ne bhi Europe ki suraksha vyavastha bachane ki kasam khayi.",
+      "category": "World",
+      "exam_angle": "Germany, Russia, European security architecture, NATO — UPSC ke liye mahatvapurna.",
+      "source": "Yeni Safak",
+      "source_url": "https://en.yenisafak.com/world/germany-rejects-russias-call-for-new-european-security-architecture-3725644",
+      "genuineness": "verified",
+      "outlets": [
+        "Yeni Safak",
+        "deutschland.de (dpa)",
+        "Ukrinform",
+        "Economic Times",
+        "La Nacion (AP)"
+      ],
+      "image": "../images/world/world-20261116-2122-01.jpg",
+      "image_credit": "Olaf Kosinsky, Wikimedia Commons (CC BY-SA 3.0 de)"
+    },
+    {
+      "id": "world-20261116-2122-02",
+      "published_ist": "2026-11-16T17:49:00+05:30",
+      "headline": "Houthi ne Saudi par hamle ka aarop lagaya",
+      "detail": "Houthi ne kaha Saudi ke do hamlo me Yemen me ek bacche samet 3 log mare gaye; Riyadh ne abhi koi jawab nahi diya, July se 2022 ka yuddhviram toota hua hai.",
+      "category": "World",
+      "exam_angle": "Yemen, Houthi, Saudi Arabia — UPSC ke liye mahatvapurna.",
+      "source": "The Week",
+      "source_url": "https://www.theweek.in/wire-updates/international/2026/11/16/houthis-accuse-saudi-arabia-of-strikes-that-killed-3-israel-strikes-arms-shipment-and-other-mideast-news.html",
+      "genuineness": "corroborated",
+      "outlets": [
+        "AP",
+        "Demócrata",
+        "Just Security"
+      ],
+      "image": null,
+      "image_credit": null
+    },
+    {
+      "id": "world-20261116-2122-03",
+      "published_ist": "2026-11-16T15:28:00+05:30",
+      "headline": "EU Ukraine ko sardi me 500 generator dega",
+      "detail": "EU Commissioner Lahbib ne kaha Russia sardi ko hathiyar bana raha hai; Ukraine ko 500 generator, Norway se 4 pul aur France se 200 bus milenge.",
+      "category": "World",
+      "exam_angle": "EU, Ukraine, rescEU, winter aid — UPSC ke liye mahatvapurna.",
+      "source": "Ukrainska Pravda",
+      "source_url": "https://www.pravda.com.ua/eng/news/2026/11/16/8063061/",
+      "genuineness": "verified",
+      "outlets": [
+        "Ukrainska Pravda",
+        "European Pravda",
+        "Yeni Safak",
+        "112.ua"
       ],
       "image": null,
       "image_credit": null
