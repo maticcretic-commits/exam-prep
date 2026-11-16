@@ -72,6 +72,76 @@
     ],
     "answer_index": 2
    }
+  },
+  {
+   "episode": 126,
+   "video_hi": "3Sh0GJL0V-4",
+   "video_hinglish": "3Sh0GJL0V-4",
+   "capsules": [
+    {
+     "id": "ca-ep126-s1",
+     "headline_hi": "Bay of Bengal mein cyclonic storm ka khatra",
+     "headline_hinglish": "Bay of Bengal mein cyclonic storm ka khatra",
+     "detail_hi": "Bay of Bengal ke upar bana low pressure aaj cyclonic storm mein badal sakta hai, IMD ne chetavni di hai.",
+     "detail_hinglish": "Bay of Bengal ke upar bana low pressure aaj cyclonic storm mein badal sakta hai, IMD ne chetavni di hai.",
+     "category_hi": "Environment",
+     "category_en": "Environment"
+    },
+    {
+     "id": "ca-ep126-s2",
+     "headline_hi": "UN mein Bharat ne Palestine ka saath diya",
+     "headline_hinglish": "UN mein Bharat ne Palestine ka saath diya",
+     "detail_hi": "Palestine aur Syrian Golan par prastav ke paksh mein vote diya, Israel aur America ne virodh kiya.",
+     "detail_hinglish": "Palestine aur Syrian Golan par prastav ke paksh mein vote diya, Israel aur America ne virodh kiya.",
+     "category_hi": "International",
+     "category_en": "National"
+    },
+    {
+     "id": "ca-ep126-s3",
+     "headline_hi": "Sarkari swasthya kharch teen guna badha",
+     "headline_hinglish": "Sarkari swasthya kharch teen guna badha",
+     "detail_hi": "2023-24 mein kharch 4.14 lakh crore hua, jeb se kharch 42.7 pratishat par aaya.",
+     "detail_hinglish": "2023-24 mein kharch 4.14 lakh crore hua, jeb se kharch 42.7 pratishat par aaya.",
+     "category_hi": "Economy",
+     "category_en": "Economy"
+    },
+    {
+     "id": "ca-ep126-s4",
+     "headline_hi": "SpaceX ne Starship ko hawa mein pakda",
+     "headline_hinglish": "SpaceX ne Starship ko hawa mein pakda",
+     "detail_hi": "Chopstick arms ne rocket ko mid-air pakda, 26 Starlink satellite bhi chhode gaye.",
+     "detail_hinglish": "Chopstick arms ne rocket ko mid-air pakda, 26 Starlink satellite bhi chhode gaye.",
+     "category_hi": "Science",
+     "category_en": "National"
+    },
+    {
+     "id": "ca-ep126-s5",
+     "headline_hi": "TB se mautein 38 pratishat ghateen",
+     "headline_hinglish": "TB se mautein 38 pratishat ghateen",
+     "detail_hi": "WHO report ke mutabik 2015 se 2025 tak TB se mautein 38 pratishat kam hui, lekin lakshya chhoota.",
+     "detail_hinglish": "WHO report ke mutabik 2015 se 2025 tak TB se mautein 38 pratishat kam hui, lekin lakshya chhoota.",
+     "category_hi": "Health",
+     "category_en": "Health"
+    }
+   ],
+   "mcq": {
+    "id": "ca-ep126-mcq",
+    "q_hi": "Bay of Bengal ka low pressure kis mein badal sakta hai?",
+    "q_hinglish": "Bay of Bengal ka low pressure kis mein badal sakta hai?",
+    "options_hi": [
+     "Cyclonic Storm",
+     "Tsunami",
+     "Bhookamp",
+     "Heatwave"
+    ],
+    "options_hinglish": [
+     "Cyclonic Storm",
+     "Tsunami",
+     "Bhookamp",
+     "Heatwave"
+    ],
+    "answer_index": 0
+   }
   }
  ]
 }
