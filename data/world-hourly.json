@@ -1,5 +1,5 @@
 {
-  "updated_ist": "2026-11-16T07:27:01+05:30",
+  "updated_ist": "2026-11-16T08:29:28+05:30",
   "items": [
     {
       "id": "world-20261116-0630-01",
@@ -108,6 +108,24 @@
         "Al Jazeera",
         "Associated Press",
         "Firstpost"
+      ],
+      "image": null,
+      "image_credit": null
+    },
+    {
+      "id": "world-20261116-0822-01",
+      "published_ist": "2026-11-15T22:34:00+05:30",
+      "headline": "Houthi ne 600 bandiyon ko riha kiya",
+      "detail": "Red Cross ne pushti ki: Houthi ne Sanaa me sarkari paksh ke 600 kaidiyon ko ekpakshiya riha kiya — Yemen yuddh ki sabse badi aisi rihai; Aden ke paas ladai tez hai.",
+      "category": "World",
+      "exam_angle": "Yemen yuddh, Red Cross, Bab el-Mandeb — UPSC ke liye mahatvapurna.",
+      "source": "The Insight International",
+      "source_url": "https://theinsightinternational.com/houthis-release-600-detainees-sanaa-icrc-november-15/",
+      "genuineness": "verified",
+      "outlets": [
+        "The Insight International",
+        "Associated Press",
+        "Agence France-Presse"
       ],
       "image": null,
       "image_credit": null
@@ -401,6 +419,24 @@
         "Al Jazeera",
         "Palestine Chronicle",
         "Arab News"
+      ],
+      "image": null,
+      "image_credit": null
+    },
+    {
+      "id": "world-20261116-0822-02",
+      "published_ist": "2026-11-15T06:30:00+05:30",
+      "headline": "Israel ne Hamas ke Rafah commander ko mara",
+      "detail": "IDF ne kaha Samir Abu Younis Khan Younis me raat ke hamle me mara gaya; Hamas ne maut ki pushti ki aur use 7 October hamle ka yojnakar bataya — yuddhviram ke bawjood tanav badha.",
+      "category": "World",
+      "exam_angle": "Gaza yuddhviram, Hamas, Israel — UPSC ke liye mahatvapurna.",
+      "source": "Al Jazeera",
+      "source_url": "https://www.aljazeera.com/news/2026/11/15/israeli-air-strike-kills-senior-hamas-commander-in-gaza",
+      "genuineness": "verified",
+      "outlets": [
+        "CNN",
+        "Al Jazeera",
+        "The Times of Israel"
       ],
       "image": null,
       "image_credit": null
