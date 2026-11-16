@@ -1,6 +1,42 @@
 {
-  "updated_ist": "2026-11-16T18:26:10+05:30",
+  "updated_ist": "2026-11-16T19:26:20+05:30",
   "items": [
+    {
+      "id": "world-20261116-1922-01",
+      "published_ist": "2026-11-16T16:09:00+05:30",
+      "headline": "Ukraine ka Russia par sabse bada drone hamla",
+      "detail": "Raat bhar ke hamle me Russia ne 1,336 drone giraye ka dawa kiya — 29 October ka 1,254 wala record toota; Crimea ko jodne wala Kerch pull bhi nishana bana, Kremlin ne nuksan halka bataya.",
+      "category": "World",
+      "exam_angle": "Russia-Ukraine yuddh, drone yuddh, Kerch pull — UPSC ke liye mahatvapurna.",
+      "source": "The Straits Times",
+      "source_url": "https://www.straitstimes.com/world/europe/ukraine-launches-biggest-drone-attack-on-russia-since-war-began-defence-ministry-data-shows",
+      "genuineness": "verified",
+      "outlets": [
+        "Reuters",
+        "Times Now",
+        "Daily Pioneer"
+      ],
+      "image": null,
+      "image_credit": null
+    },
+    {
+      "id": "world-20261116-1922-02",
+      "published_ist": "2026-11-16T08:42:00+05:30",
+      "headline": "Kango Ebola: 11,376 case, 5,568 maut",
+      "detail": "Chhah mahine me Kango ka Ebola prakop kabu se bahar — 14 November tak 11,376 case aur 5,568 maut; WHO ne kaha hafte me 400-500 naye case aa rahe hain, hinsa aur bharose ki kami roktham me badha.",
+      "category": "World",
+      "exam_angle": "Ebola, WHO, Kango — UPSC ke liye mahatvapurna.",
+      "source": "Telangana Today",
+      "source_url": "https://telanganatoday.com/dr-congo-ebola-outbreak-spreads-to-remote-areas-as-violence-hampers-response",
+      "genuineness": "verified",
+      "outlets": [
+        "Bloomberg",
+        "Telangana Today",
+        "Associated Press"
+      ],
+      "image": null,
+      "image_credit": null
+    },
     {
       "id": "world-20261116-1822-01",
       "published_ist": "2026-11-16T16:19:00+05:30",
@@ -389,43 +425,6 @@
         "Reuters",
         "Nikkei Asia",
         "The Nation"
-      ],
-      "image": null,
-      "image_credit": null
-    },
-    {
-      "id": "world-20261116-0722-01",
-      "published_ist": "2026-11-16T05:31:00+05:30",
-      "headline": "Houthi ne Riyadh par missile daage",
-      "detail": "Houthi ne daava kiya usne Riyadh ke King Khalid airport aur vitt kendra par do ballistic missile daage; Saudi gathbandhan ne kaha dono rok liye gaye, nuksan ki swatantra pushti nahi.",
-      "category": "World",
-      "exam_angle": "Yemen yuddh, Saudi-Houthi takraar, Khadi suraksha — UPSC ke liye mahatvapurna.",
-      "source": "SEE News",
-      "source_url": "https://see.news/houthi-attacks-on-saudi-arabia-intensify-as-yemeni-forces-retreat",
-      "genuineness": "corroborated",
-      "outlets": [
-        "SEE News",
-        "Shafaq News",
-        "Times of India"
-      ],
-      "image": null,
-      "image_credit": null
-    },
-    {
-      "id": "world-20261116-0722-02",
-      "published_ist": "2026-11-16T05:17:00+05:30",
-      "headline": "Estonia 1 December se Russia seema band karega",
-      "detail": "Videsh mantri Margus Tsahkna ne kaha drone nirmata Threod Systems par GRU ke aadesh par hue aagjani ke prayas ke baad teenon seema chaukiyan — Narva, Luhamaa, Koidula — 1 December se band hongi; avadhi tay nahi.",
-      "category": "World",
-      "exam_angle": "Estonia-Russia, NATO, seema suraksha — UPSC ke liye mahatvapurna.",
-      "source": "Reuters",
-      "source_url": "https://www.reuters.com/world/europe/estonia-close-russian-border-crossings-after-attempted-arson-attack-2026-11-15/",
-      "genuineness": "verified",
-      "outlets": [
-        "Reuters",
-        "Al Jazeera",
-        "Firstpost",
-        "The Irish Times"
       ],
       "image": null,
       "image_credit": null
