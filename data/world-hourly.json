@@ -1,6 +1,75 @@
 {
-  "updated_ist": "2026-11-16T13:25:00+05:30",
+  "updated_ist": "2026-11-16T14:24:50+05:30",
   "items": [
+    {
+      "id": "world-20261116-1424-01",
+      "published_ist": "2026-11-16T11:28:00+05:30",
+      "headline": "Cape Verde me Neves dobara rashtrapati bane",
+      "detail": "Ravivar ke chunav me José Maria Neves ko 63.8% vote mile — pehli mahila ummidwar Joana Rosa ko 31.6%; aadhikarik natije is hafte aayenge, matdan ek-tihai se kam raha.",
+      "category": "World",
+      "exam_angle": "Cape Verde, Africa ki sthir loktantra, rashtrapati chunav — UPSC ke liye mahatvapurna.",
+      "source": "Reuters",
+      "source_url": "https://www.reuters.com/world/cape-verde-president-neves-wins-second-term-provisional-election-results-show-2026-11-16/",
+      "genuineness": "corroborated",
+      "outlets": [
+        "Reuters",
+        "Le Temps"
+      ],
+      "image": null,
+      "image_credit": null
+    },
+    {
+      "id": "world-20261116-1424-02",
+      "published_ist": "2026-11-14T20:16:00+05:30",
+      "headline": "America-China: $30 arab tariff katauti par charcha",
+      "detail": "Dono deshon ki pehli Trade Council baithak me $30 arab-$30 arab ki parasparik tariff katauti par baat hui, par koi antim samjhauta nahi — Trump-Xi mulakat se pehle krishi vyapar par bhi charcha hui.",
+      "category": "World",
+      "exam_angle": "America-China vyapar, APEC, tariff — UPSC ke liye mahatvapurna.",
+      "source": "Financial Express",
+      "source_url": "https://www.financialexpress.com/world-news/china-us-discuss-30-billion-in-reciprocal-tariff-cuts-ahead-of-trump-xi-meeting/4384669/",
+      "genuineness": "corroborated",
+      "outlets": [
+        "Reuters",
+        "South China Morning Post"
+      ],
+      "image": null,
+      "image_credit": null
+    },
+    {
+      "id": "world-20261116-1424-03",
+      "published_ist": "2026-11-15T08:45:00+05:30",
+      "headline": "France me paanchve hafte bhi lakhon sadkon par",
+      "detail": "Shanivar ko France bhar me lagbhag 1,06,000 log sadkon par utre — mehngai, shiksha aur police ko zyada suraksha dene wale prastav ke khilaf paanchva lagatar pradarshan; sanghon ne Mangalvar ko hadtal bulayi.",
+      "category": "World",
+      "exam_angle": "France, Yellow Vest, Macron — UPSC ke liye mahatvapurna.",
+      "source": "Malay Mail",
+      "source_url": "https://www.malaymail.com/news/world/2026/11/15/more-than-100000-march-across-france-as-protests-enter-fifth-weekend/243325",
+      "genuineness": "verified",
+      "outlets": [
+        "Malay Mail",
+        "The Times of India",
+        "Türkiye Today"
+      ],
+      "image": null,
+      "image_credit": null
+    },
+    {
+      "id": "world-20261116-1424-04",
+      "published_ist": "2026-11-16T08:44:00+05:30",
+      "headline": "Canary Islands: do din me 2,200 pravasi aaye",
+      "detail": "Spain ke Canary Islands me shukravar-shanivar ko lagbhag 2,200 pravasi naav se pahunche — zyadatar chhote El Hierro dweep par; Spain ne 11 November ko pravasan aapatkal ghoshit kiya tha.",
+      "category": "World",
+      "exam_angle": "Spain, pravasan sankat, Atlantic route — UPSC ke liye mahatvapurna.",
+      "source": "Associated Press",
+      "source_url": "https://www.koreaherald.com/article/10938541",
+      "genuineness": "corroborated",
+      "outlets": [
+        "Associated Press",
+        "Al Jazeera"
+      ],
+      "image": null,
+      "image_credit": null
+    },
     {
       "id": "world-20261116-1322-01",
       "published_ist": "2026-11-16T06:30:00+05:30",
@@ -359,79 +428,6 @@
         "The Insight International",
         "Associated Press",
         "Agence France-Presse"
-      ],
-      "image": null,
-      "image_credit": null
-    },
-    {
-      "id": "world-20261115-2227-01",
-      "published_ist": "2026-11-15T21:15:00+05:30",
-      "headline": "Hormuz me supertanker dooba, Iran ka daava",
-      "detail": "Iran ke Revolutionary Guards ne kaha Hormuz me mine se takrakar do tanker phate, 20 lakh barrel wala supertanker doob gaya; swatantra pushti abhi nahi, UKMTO ne alag tanker hamle ki khabar di.",
-      "category": "World",
-      "exam_angle": "Hormuz jaladmaru aur tel vyapar, West Asia tanav — UPSC ke liye mahatvapurna.",
-      "source": "The Times of India",
-      "source_url": "https://timesofindia.indiatimes.com/world/middle-east/supertanker-with-2-million-barrels-of-oil-sinks-after-hitting-mine-in-strait-of-hormuz/articleshow/135858960.cms",
-      "genuineness": "corroborated",
-      "outlets": [
-        "The Times of India",
-        "Gulf News",
-        "Al Jazeera",
-        "The Standard"
-      ],
-      "image": null,
-      "image_credit": null
-    },
-    {
-      "id": "world-20261115-2227-03",
-      "published_ist": "2026-11-15T18:59:00+05:30",
-      "headline": "Estonia ne GRU ki todfod koshish nakam ki",
-      "detail": "Estonia ne kaha drone banane wali Threod Systems par 14 November ki subah aag lagane ki koshish ko roka; GRU par aarop, Latvia ke rehne wale 8 log giraftaar.",
-      "category": "World",
-      "exam_angle": "Europe me hybrid yuddh aur NATO ki purvi seema — UPSC ke liye mahatvapurna.",
-      "source": "The Straits Times",
-      "source_url": "https://www.straitstimes.com/world/europe/estonia-foils-russian-sabotage-at-drone-factory?ref=latest",
-      "genuineness": "verified",
-      "outlets": [
-        "The Straits Times",
-        "Kyiv Post",
-        "WION",
-        "Demócrata"
-      ],
-      "image": null,
-      "image_credit": null
-    },
-    {
-      "id": "world-20261115-2022-03",
-      "published_ist": "2026-11-15T18:04:00+05:30",
-      "headline": "Bahrain ne UN se Iran par karvai mangi",
-      "detail": "Bahrain ne UN Security Council se Iran ke hamlo ki ninda aur sakht karvai ki maang ki; G7 ne bhi hamlo ki ninda ki, jabki Iran ne jawab jaari rakhne ki baat kahi.",
-      "category": "World",
-      "exam_angle": "West Asia me tanav aur UN Security Council — UPSC ke liye mahatvapurna.",
-      "source": "Gulf News",
-      "source_url": "https://gulfnews.com/world/gulf/bahrain/bahrain-issues-potential-threat-alert-urges-residents-to-seek-safety-1.500747795",
-      "genuineness": "verified",
-      "outlets": [
-        "Gulf News",
-        "Al Jazeera",
-        "The Indian Messenger"
-      ],
-      "image": null,
-      "image_credit": null
-    },
-    {
-      "id": "world-20261115-2227-04",
-      "published_ist": "2026-11-15T17:44:00+05:30",
-      "headline": "Guatemala me 30 din ki emergency",
-      "detail": "Drug hinsa ke baad Guatemala ne Zacapa aur Izabal me 30 din ki emergency lagayi; ek hafte pehle sansad aur teen police wale mare gaye the.",
-      "category": "World",
-      "exam_angle": "Latin America me drug cartel hinsa — UPSC ke liye mahatvapurna.",
-      "source": "The Hindu",
-      "source_url": "https://www.thehindu.com/news/international/guatemala-declares-state-of-emergency-in-east-over-drug-violence/article71704647.ece",
-      "genuineness": "corroborated",
-      "outlets": [
-        "The Hindu",
-        "The Times of India"
       ],
       "image": null,
       "image_credit": null
