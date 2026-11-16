@@ -1,5 +1,5 @@
 {
-  "updated_ist": "2026-11-16T10:25:41+05:30",
+  "updated_ist": "2026-11-16T10:27:03+05:30",
   "items": [
     {
       "id": "world-20261116-1022-03",
@@ -141,25 +141,6 @@
         "The Straits Times",
         "Philippine Daily Tribune",
         "Associated Press"
-      ],
-      "image": null,
-      "image_credit": null
-    },
-    {
-      "id": "world-20261116-1022-02",
-      "published_ist": "2026-11-16T04:13:00+05:30",
-      "headline": "Italy ne Meta par €805 million jurmana lagaya",
-      "detail": "Facebook app ne bina sahmati ke lagbhag 2 crore Italian Android users ki photo gallery dekhi — niyamak ne 60 din me alag sahmati ka niyam banane ko kaha, Meta appeal karega.",
-      "category": "World",
-      "exam_angle": "Data suraksha, GDPR/ePrivacy, big tech niyaman — UPSC ke liye mahatvapurna.",
-      "source": "Times Now",
-      "source_url": "https://www.timesnownews.com/world/italys-data-watchdog-fines-meta-805m-for-accessing-users-photos-without-consent-article-156516293/amp",
-      "genuineness": "verified",
-      "outlets": [
-        "Times Now",
-        "BBC",
-        "Bloomberg",
-        "AFP"
       ],
       "image": null,
       "image_credit": null
