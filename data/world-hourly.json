@@ -1,6 +1,24 @@
 {
-  "updated_ist": "2026-11-16T10:27:03+05:30",
+  "updated_ist": "2026-11-16T11:26:43+05:30",
   "items": [
+    {
+      "id": "world-20261116-1122-01",
+      "published_ist": "2026-11-16T09:24:00+05:30",
+      "headline": "Nau deshon ne AI supply chain samjhauta kiya",
+      "detail": "America aur aath sahyogi deshon ne San Francisco Declaration par hastakshar kiye — AI takneek, chip aur critical minerals ki supply chain ko China se bachane ke liye sanyukt suchi banegi.",
+      "category": "World",
+      "exam_angle": "Pax Silica, AI supply chain, critical minerals — UPSC ke liye mahatvapurna.",
+      "source": "Business Today",
+      "source_url": "https://www.businesstoday.in/amp/latest/corporate/story/nvidia-chip-row-effect-us-japan-uk-allies-want-to-protect-ai-supply-chain-from-china-567549-2026-11-16",
+      "genuineness": "verified",
+      "outlets": [
+        "Financial Times",
+        "The Korea Herald",
+        "Business Today"
+      ],
+      "image": null,
+      "image_credit": null
+    },
     {
       "id": "world-20261116-1022-03",
       "published_ist": "2026-11-16T08:16:00+05:30",
@@ -146,6 +164,24 @@
       "image_credit": null
     },
     {
+      "id": "world-20261116-1122-02",
+      "published_ist": "2026-11-16T03:45:00+05:30",
+      "headline": "Hasina ki wapsi par Gopalganj me hinsa",
+      "detail": "Sheikh Hasina ke samarthakon ne Gopalganj me police ki gaadi jalayi aur chauki todi — Hasina ne December me Bangladesh lautne ka irada jataya hai, jabki unhe maut ki saza sunayi gayi hai.",
+      "category": "World",
+      "exam_angle": "Bangladesh, Sheikh Hasina, pratyarpan — UPSC ke liye mahatvapurna.",
+      "source": "The Hindu",
+      "source_url": "https://www.thehindu.com/news/international/violent-protests-erupt-in-hasinas-hometown-as-tensions-rise-over-her-proposed-return-to-bangladesh/article71705960.ece",
+      "genuineness": "corroborated",
+      "outlets": [
+        "Press Trust of India",
+        "NDTV",
+        "News18"
+      ],
+      "image": null,
+      "image_credit": null
+    },
+    {
       "id": "world-20261116-0926-03",
       "published_ist": "2026-11-16T02:04:00+05:30",
       "headline": "Teesra US carrier Middle East pahuncha",
@@ -179,6 +215,24 @@
         "Al Jazeera",
         "CNN",
         "USA Today"
+      ],
+      "image": null,
+      "image_credit": null
+    },
+    {
+      "id": "world-20261116-1122-03",
+      "published_ist": "2026-11-16T00:55:00+05:30",
+      "headline": "Yemen: sarkari fauj Bab el-Mandeb se peeche hati",
+      "detail": "Saudi samarthit Southern Armed Forces ne Dhubab Airport aur Bab el-Mandeb se sainikon ko Aden ki raksha ke liye wapas bulaya — chhah hafte ka jawabi hamla khatm, Houthi ab laal sagar ke dakshini dwar par mazboot.",
+      "category": "World",
+      "exam_angle": "Bab el-Mandeb, Yemen grih yuddh, Houthi — UPSC ke liye mahatvapurna.",
+      "source": "Reuters",
+      "source_url": "https://www.reuters.com/world/middle-east/anti-houthi-forces-retreat-yemen-iran-strikes-bahrain-2026-11-15/",
+      "genuineness": "verified",
+      "outlets": [
+        "Reuters",
+        "Al Jazeera",
+        "The Maritime Executive"
       ],
       "image": null,
       "image_credit": null
@@ -380,45 +434,6 @@
         "Agence France-Presse",
         "The National",
         "Al Jazeera"
-      ],
-      "image": null,
-      "image_credit": null
-    },
-    {
-      "id": "world-20261115-2022-01",
-      "published_ist": "2026-11-15T12:56:00+05:30",
-      "headline": "Iran ke paas ab bhi 2,500 missile",
-      "detail": "US khufiya anuman ke mutabik Iran ke paas 1,500 se 2,500 missile bache hain; hamlo ke baad bhi Tehran ne stockpile dobara banaya — 'tabah' hone ke daave ke ulta.",
-      "category": "World",
-      "exam_angle": "Iran-America tanav aur missile shakti — UPSC ke liye mahatvapurna.",
-      "source": "The Times of India",
-      "source_url": "https://timesofindia.indiatimes.com/world/middle-east/iran-has-1500-2500-missiles-despite-us-claims-of-decimated-arsenal-report/articleshow/135850040.cms",
-      "genuineness": "verified",
-      "outlets": [
-        "The Wall Street Journal",
-        "The Times of Israel",
-        "The Jerusalem Post",
-        "The Times of India",
-        "News18",
-        "Moneycontrol"
-      ],
-      "image": null,
-      "image_credit": null
-    },
-    {
-      "id": "world-20261115-1324-01",
-      "published_ist": "2026-11-15T12:43:00+05:30",
-      "headline": "Damascus: car bomb me pita-beti mare gaye",
-      "detail": "Damascus ke Jaramana ilaake me shanivaar shaam car bomb phata — ek aadmi aur uski beti mare gaye, ek mahila ghayal; suraksha balon ne jaanch shuru ki, kisi ne zimmedari nahi li.",
-      "category": "World",
-      "exam_angle": "Syria me suraksha sthiti aur West Asia — UPSC ke liye mahatvapurna.",
-      "source": "Gulf Today",
-      "source_url": "https://www.gulftoday.ae/news/2026/11/15/syria-car-bomb-kills-2-including-child",
-      "genuineness": "verified",
-      "outlets": [
-        "Agence France-Presse",
-        "Al Jazeera",
-        "Associated Press"
       ],
       "image": null,
       "image_credit": null
