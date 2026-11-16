@@ -212,6 +212,76 @@
     ],
     "answer_index": 1
    }
+  },
+  {
+   "episode": 128,
+   "video_hi": "z_UuEiYs6Qo",
+   "video_hinglish": "z_UuEiYs6Qo",
+   "capsules": [
+    {
+     "id": "ca-ep128-s1",
+     "headline_hi": "Thok mehangai 12.29% par, record uncha star",
+     "headline_hinglish": "Thok mehangai 12.29% par, record uncha star",
+     "detail_hi": "October mein thok mehangai 12.29 pratishat par pahunchi, is nayi series ka sabse uncha star.",
+     "detail_hinglish": "October mein thok mehangai 12.29 pratishat par pahunchi, is nayi series ka sabse uncha star.",
+     "category_hi": "Economy",
+     "category_en": "Economy"
+    },
+    {
+     "id": "ca-ep128-s2",
+     "headline_hi": "Modi ASEAN shikhar sammelan ke liye Philippines pahunche",
+     "headline_hinglish": "Modi ASEAN shikhar sammelan ke liye Philippines pahunche",
+     "detail_hi": "Pradhan Mantri Modi ASEAN aur East Asia shikhar sammelan mein hissa lene Manila pahunche.",
+     "detail_hinglish": "Pradhan Mantri Modi ASEAN aur East Asia shikhar sammelan mein hissa lene Manila pahunche.",
+     "category_hi": "International",
+     "category_en": "National"
+    },
+    {
+     "id": "ca-ep128-s3",
+     "headline_hi": "Bilkis Bano case mein do doshiyon ko zamaanat",
+     "headline_hinglish": "Bilkis Bano case mein do doshiyon ko zamaanat",
+     "detail_hi": "Supreme Court ne do doshiyon ki aajeevan karawas ki saza roki aur zamaanat de di.",
+     "detail_hinglish": "Supreme Court ne do doshiyon ki aajeevan karawas ki saza roki aur zamaanat de di.",
+     "category_hi": "National",
+     "category_en": "National"
+    },
+    {
+     "id": "ca-ep128-s4",
+     "headline_hi": "U-19 Asia Cup mein Bharat ne Pakistan ko haraya",
+     "headline_hinglish": "U-19 Asia Cup mein Bharat ne Pakistan ko haraya",
+     "detail_hi": "Bharat ne aakhri ball par ek wicket se jeet kar nauvaan Under-19 Asia Cup khitaab jeeta.",
+     "detail_hinglish": "Bharat ne aakhri ball par ek wicket se jeet kar nauvaan Under-19 Asia Cup khitaab jeeta.",
+     "category_hi": "Sports",
+     "category_en": "Sports"
+    },
+    {
+     "id": "ca-ep128-s5",
+     "headline_hi": "SIR par Rahul Gandhi ne Supreme Court mein arzi di",
+     "headline_hinglish": "SIR par Rahul Gandhi ne Supreme Court mein arzi di",
+     "detail_hi": "Rahul Gandhi ne ECI se SIR par sawal poochne ki anumati ke liye Supreme Court mein arzi di.",
+     "detail_hinglish": "Rahul Gandhi ne ECI se SIR par sawal poochne ki anumati ke liye Supreme Court mein arzi di.",
+     "category_hi": "Polity",
+     "category_en": "Polity"
+    }
+   ],
+   "mcq": {
+    "id": "ca-ep128-mcq",
+    "q_hi": "October 2026 mein Bharat ki thok mehangai (WPI) kitni rahi?",
+    "q_hinglish": "October 2026 mein Bharat ki thok mehangai (WPI) kitni rahi?",
+    "options_hi": [
+     "10.85%",
+     "11.39%",
+     "12.29%",
+     "13.45%"
+    ],
+    "options_hinglish": [
+     "10.85%",
+     "11.39%",
+     "12.29%",
+     "13.45%"
+    ],
+    "answer_index": 2
+   }
   }
  ]
 }
