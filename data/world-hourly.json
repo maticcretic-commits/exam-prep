@@ -1,6 +1,77 @@
 {
-  "updated_ist": "2026-11-16T15:27:04+05:30",
+  "updated_ist": "2026-11-16T16:25:42+05:30",
   "items": [
+    {
+      "id": "world-20261116-1622-01",
+      "published_ist": "2026-11-16T08:44:00+05:30",
+      "headline": "Yemen se sarkari fauj peeche hati",
+      "detail": "Bab el-Mandeb ke paas se sarkari fauj Aden ki taraf peeche hati, Houthi ne 600 kaidi riha kiye.",
+      "category": "World",
+      "exam_angle": "Bab el-Mandeb — Lal Sagar ka aham samudri rasta, Bharat ke vyapar ke liye mahatvapurna.",
+      "source": "Business Standard",
+      "source_url": "https://www.business-standard.com/world-news/yemen-forces-retreat-near-bab-el-mandeb-in-setback-in-war-against-houthis-126111600084_1.html",
+      "genuineness": "verified",
+      "outlets": [
+        "Reuters",
+        "Associated Press",
+        "Dawn"
+      ],
+      "image": null,
+      "image_credit": null
+    },
+    {
+      "id": "world-20261116-1622-02",
+      "published_ist": "2026-11-16T07:47:00+05:30",
+      "headline": "Prince Harry Ukraine me ghayal sainikon se mile",
+      "detail": "Prince Harry ne Lviv me ghayal sainikon se mulakat ki aur kaha Ukraine yuddh jeetega, Invictus Games ka wada kiya.",
+      "category": "World",
+      "exam_angle": null,
+      "source": "Mathrubhumi",
+      "source_url": "https://english.mathrubhumi.com/news/world/prince-harry-ukraine-visit-lviv-wounded-veterans-invictus-games-2026-ptigfopqlme",
+      "genuineness": "verified",
+      "outlets": [
+        "Reuters",
+        "Page Six",
+        "Mathrubhumi"
+      ],
+      "image": null,
+      "image_credit": null
+    },
+    {
+      "id": "world-20261116-1622-03",
+      "published_ist": "2026-11-16T03:24:00+05:30",
+      "headline": "Vulcan rocket fail, 40 satellite nasht",
+      "detail": "ULA ka Vulcan rocket udaan ke 10 minute baad fail hua, Amazon Leo ke 40 satellite nasht ho gaye.",
+      "category": "World",
+      "exam_angle": "Amazon Leo vs Starlink — satellite internet ki daud.",
+      "source": "The Economic Times",
+      "source_url": "https://economictimes.indiatimes.com/news/international/us/boeing-lockheed-martin-joint-venture-rocket-launch-fails-destroys-40-satellites-for-amazons-leo-broadband-internet/articleshow/135865867.cms",
+      "genuineness": "verified",
+      "outlets": [
+        "Reuters",
+        "The Economic Times",
+        "The Times of India"
+      ],
+      "image": null,
+      "image_credit": null
+    },
+    {
+      "id": "world-20261116-1622-04",
+      "published_ist": "2026-11-16T00:47:00+05:30",
+      "headline": "Prague me lakhon ne media ke liye march kiya",
+      "detail": "Czech sarkar ke public media funding badalne ke plan ke khilaf Prague me lakhon log sadkon par utre.",
+      "category": "World",
+      "exam_angle": "Public media ki swatantrata — loktantra ke liye aham sawal.",
+      "source": "The Times of India",
+      "source_url": "https://timesofindia.indiatimes.com/india/india-international-breaking-news-today-november-16/liveblog/135864793.cms",
+      "genuineness": "verified",
+      "outlets": [
+        "Reuters",
+        "The Times of India"
+      ],
+      "image": null,
+      "image_credit": null
+    },
     {
       "id": "world-20261116-1527-01",
       "published_ist": "2026-11-16T10:32:00+05:30",
@@ -353,81 +424,6 @@
         "Al Jazeera",
         "Firstpost",
         "The Irish Times"
-      ],
-      "image": null,
-      "image_credit": null
-    },
-    {
-      "id": "world-20261116-0630-02",
-      "published_ist": "2026-11-16T04:54:00+05:30",
-      "headline": "ASEAN-China samudra code ki deadline chooki",
-      "detail": "Philippines ke videsh mantri ne kaha masaude ka lagbhag 80% tay hua, par kanuni roop aur seema par matbhed bane hue; baatchit 2027 me Singapore ki adhyakshata me jaari rahegi.",
-      "category": "World",
-      "exam_angle": "Dakshin Cheen Sagar, ASEAN, samudri kanoon — UPSC ke liye mahatvapurna.",
-      "source": "The Thursday Times",
-      "source_url": "https://thursdaytimes.com/2026/11/16/news/international/asean-and-china-miss-deadline-for-south-china-sea-code-of-conduct/",
-      "genuineness": "verified",
-      "outlets": [
-        "The Thursday Times",
-        "The Straits Times",
-        "Philippine Daily Tribune",
-        "Associated Press"
-      ],
-      "image": null,
-      "image_credit": null
-    },
-    {
-      "id": "world-20261116-1122-02",
-      "published_ist": "2026-11-16T03:45:00+05:30",
-      "headline": "Hasina ki wapsi par Gopalganj me hinsa",
-      "detail": "Sheikh Hasina ke samarthakon ne Gopalganj me police ki gaadi jalayi aur chauki todi — Hasina ne December me Bangladesh lautne ka irada jataya hai, jabki unhe maut ki saza sunayi gayi hai.",
-      "category": "World",
-      "exam_angle": "Bangladesh, Sheikh Hasina, pratyarpan — UPSC ke liye mahatvapurna.",
-      "source": "The Hindu",
-      "source_url": "https://www.thehindu.com/news/international/violent-protests-erupt-in-hasinas-hometown-as-tensions-rise-over-her-proposed-return-to-bangladesh/article71705960.ece",
-      "genuineness": "corroborated",
-      "outlets": [
-        "Press Trust of India",
-        "NDTV",
-        "News18"
-      ],
-      "image": null,
-      "image_credit": null
-    },
-    {
-      "id": "world-20261116-0926-03",
-      "published_ist": "2026-11-16T02:04:00+05:30",
-      "headline": "Teesra US carrier Middle East pahuncha",
-      "detail": "USS Theodore Roosevelt CENTCOM kshetra me dakhil hua — ab Iran nakabandi me teen US carrier; Tehran ne pehle hamle ki chetavni di.",
-      "category": "World",
-      "exam_angle": "US-Iran tanav, Hormuz nakabandi — UPSC ke liye mahatvapoorn",
-      "source": "The National",
-      "source_url": "https://www.thenationalnews.com/news/us/2026/11/16/uss-theodore-roosevelt-middle-east-centcom/",
-      "genuineness": "verified",
-      "outlets": [
-        "The National",
-        "ABC News",
-        "Al Jazeera",
-        "The Jerusalem Post"
-      ],
-      "image": null,
-      "image_credit": null
-    },
-    {
-      "id": "world-20261116-0722-03",
-      "published_ist": "2026-11-16T01:30:00+05:30",
-      "headline": "Mexico ke 'drug godfather' Gallardo ka nidhan",
-      "detail": "Guadalajara cartel ke sansthapak Miguel Angel Felix Gallardo (80) ka aspatal me nidhan — 1989 se jail me the, 1985 me DEA agent ki hatya ke doshi; kai angon ne kaam karna band kar diya.",
-      "category": "World",
-      "exam_angle": "Mexico drug yuddh, DEA, antarrashtriya apraadh — UPSC ke liye mahatvapurna.",
-      "source": "Reuters",
-      "source_url": "https://www.reuters.com/world/americas/mexicos-guadalajara-cartel-founder-aged-80-dies-hospital-milenio-reports-2026-11-15/",
-      "genuineness": "verified",
-      "outlets": [
-        "Reuters",
-        "Al Jazeera",
-        "CNN",
-        "USA Today"
       ],
       "image": null,
       "image_credit": null
