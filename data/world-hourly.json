@@ -1,6 +1,78 @@
 {
-  "updated_ist": "2026-11-16T17:24:28+05:30",
+  "updated_ist": "2026-11-16T18:26:10+05:30",
   "items": [
+    {
+      "id": "world-20261116-1822-01",
+      "published_ist": "2026-11-16T16:19:00+05:30",
+      "headline": "South Africa: do hamlo me 17 mare",
+      "detail": "Pretoria ke paas ek jhopdi me 9 aur Pietermaritzburg ke paas ek gaadi me 8 log mare gaye — Ravivar raat ke hamle, karan abhi agyaat, koi giraftari nahi.",
+      "category": "World",
+      "exam_angle": "South Africa, hinsak apradh, banduk hinsa — UPSC ke liye mahatvapurna.",
+      "source": "The Week",
+      "source_url": "https://www.theweek.in/wire-updates/international/2026/11/16/at-least-17-people-killed-in-2-mass-shootings-on-same-day-in-south-africa.html",
+      "genuineness": "corroborated",
+      "outlets": [
+        "Associated Press",
+        "South African Police Service"
+      ],
+      "image": null,
+      "image_credit": null
+    },
+    {
+      "id": "world-20261116-1822-02",
+      "published_ist": "2026-11-16T15:44:00+05:30",
+      "headline": "Teesra US aircraft carrier Middle East pahuncha",
+      "detail": "USS Theodore Roosevelt Ravivar ko CENTCOM kshetra me pahuncha — ab kshetra me teen US carrier strike group; Pentagon ne abhi aupcharik pushti nahi ki.",
+      "category": "World",
+      "exam_angle": "US-Iran tanav, Hormuz, nausena tainati — UPSC ke liye mahatvapurna.",
+      "source": "Al Jazeera",
+      "source_url": "https://www.aljazeera.com/news/2026/11/16/uss-roosevelt-arrives-in-middle-east-is-the-us-iran-war-about-to-resume",
+      "genuineness": "verified",
+      "outlets": [
+        "Al Jazeera",
+        "ABC News",
+        "The Times of Israel",
+        "Times Now"
+      ],
+      "image": null,
+      "image_credit": null
+    },
+    {
+      "id": "world-20261116-1822-03",
+      "published_ist": "2026-11-16T12:45:00+05:30",
+      "headline": "Iran ne IAEA nirikshan se inkar kiya",
+      "detail": "Up-videsh mantri Gharibabadi ne kaha Iran apne kshatigrast parmanu sthalon — Natanz, Fordow, Isfahan — par IAEA nirikshan tab tak nahi dega jab tak yuddh sthayi roop se khatm na ho aur America shartein na mane.",
+      "category": "World",
+      "exam_angle": "IAEA, Iran parmanu karyakram, West Asia — UPSC ke liye mahatvapurna.",
+      "source": "Free Malaysia Today",
+      "source_url": "https://www.freemalaysiatoday.com/category/world/2026/11/16/iran-rules-out-un-inspections-of-damaged-nuclear-sites-until-war-ends",
+      "genuineness": "corroborated",
+      "outlets": [
+        "Agence France-Presse",
+        "Astig"
+      ],
+      "image": null,
+      "image_credit": null
+    },
+    {
+      "id": "world-20261116-1822-04",
+      "published_ist": "2026-11-16T01:30:00+05:30",
+      "headline": "Mexico drug 'Godfather' Gallardo ki maut, 80",
+      "detail": "Guadalajara cartel ke sansthapak Miguel Angel Felix Gallardo ka Ravivar ko aspatal me nidhan — 1989 se jail me the, 1985 me US DEA agent ki hatya ke doshi.",
+      "category": "World",
+      "exam_angle": "Mexico, drug cartel, DEA — UPSC ke liye mahatvapurna.",
+      "source": "Al Jazeera",
+      "source_url": "https://www.aljazeera.com/amp/news/2026/11/16/founder-of-guadalajara-cartel-dies-in-hospital-after-decades-in-prison",
+      "genuineness": "verified",
+      "outlets": [
+        "Reuters",
+        "Al Jazeera",
+        "CNN",
+        "USA Today"
+      ],
+      "image": null,
+      "image_credit": null
+    },
     {
       "id": "world-20261116-1722-03",
       "published_ist": "2026-11-16T15:39:00+05:30",
