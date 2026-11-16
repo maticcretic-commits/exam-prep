@@ -1,6 +1,6 @@
 {
   "date": "2026-11-16",
-  "updated_ist": "2026-11-16T13:25:00+05:30",
+  "updated_ist": "2026-11-16T15:27:04+05:30",
   "items": [
     {
       "id": "world-20261116-1322-01",
@@ -525,6 +525,78 @@
       "outlets": [
         "Associated Press",
         "Al Jazeera"
+      ],
+      "image": null,
+      "image_credit": null
+    },
+    {
+      "id": "world-20261116-1527-01",
+      "published_ist": "2026-11-16T10:32:00+05:30",
+      "headline": "Hormuz me do aur tanker khano se takraye",
+      "detail": "IRGC ka dawa hai Somvar ko bhi do tanker Hormuz me khano se takrakar jal gaye, ek 20 lakh barrel tel wala supertanker doob gaya — Ravivar se kul chhe tanker ka dawa, swatantra pushti nahi; UKMTO ne ek hamle ki pushti ki, koi hatahat nahi.",
+      "category": "World",
+      "exam_angle": "Hormuz, tel vyapar, America-Iran tanav — UPSC ke liye mahatvapurna.",
+      "source": "Malay Mail",
+      "source_url": "https://www.malaymail.com/news/world/2026/11/16/iran-says-supertanker-with-two-million-barrels-of-oil-sank-in-strait-of-hormuz-after-hitting-mine/243431",
+      "genuineness": "verified",
+      "outlets": [
+        "Reuters",
+        "Malay Mail",
+        "Türkiye Today"
+      ],
+      "image": null,
+      "image_credit": null
+    },
+    {
+      "id": "world-20261116-1527-02",
+      "published_ist": "2026-11-15T08:21:00+05:30",
+      "headline": "Saudi ne do ko phansi, ek nabalig tha",
+      "detail": "Saudi ne 14 November ko Fadel al-Safwani aur Jawad Qureiris ko aatankwad ke aarop me phansi di — rights group Reprieve ke mutabik Qureiris aarop wale virodh ke samay 14 saal ka tha; August 2025 se aise paanch logo ko phansi ho chuki hai.",
+      "category": "World",
+      "exam_angle": "Saudi Arabia, mrityudand, manavadhikar — UPSC ke liye mahatvapurna.",
+      "source": "Malay Mail",
+      "source_url": "https://www.malaymail.com/news/world/2026/11/15/saudi-arabia-executes-two-on-terrorism-charges-rights-group-says-one-was-14-at-time-of-alleged-offence/243322",
+      "genuineness": "verified",
+      "outlets": [
+        "Malay Mail",
+        "Terror Monitor",
+        "The Insight International"
+      ],
+      "image": null,
+      "image_credit": null
+    },
+    {
+      "id": "world-20261116-1527-03",
+      "published_ist": "2026-11-15T02:40:00+05:30",
+      "headline": "Ukraine vaarta me ab Europe bhi shamil hoga",
+      "detail": "America ke doot Jared Kushner ne kaha agle daur ki Russia-Ukraine vaarta me Europe ke pratinidhi bhi honge — suraksha guarantee aur Donbas par charcha jaari, Abu Dhabi vaarta me kaidi adla-badli par sehmati bani thi.",
+      "category": "World",
+      "exam_angle": "Ukraine-Russia vaarta, NATO, suraksha guarantee — UPSC ke liye mahatvapurna.",
+      "source": "Al Jazeera",
+      "source_url": "https://www.aljazeera.com/news/2026/11/14/us-envoy-kushner-says-he-aims-to-broker-europe-russia-talks-on-ukraine?traffic_source=rss",
+      "genuineness": "verified",
+      "outlets": [
+        "Al Jazeera",
+        "Le Monde",
+        "CNN"
+      ],
+      "image": null,
+      "image_credit": null
+    },
+    {
+      "id": "world-20261116-1322-03",
+      "published_ist": "2026-11-15T13:45:00+05:30",
+      "headline": "Jordan: church hamle ke teen ko phansi",
+      "detail": "Karak me 23 October ko Greek Orthodox church me antim sanskar par hamla kar 9 logon ko maarne wale teenon ko State Security Court ne phansi ki saza sunayi — faisla automatic review ke liye jayega. (Corrected: headline sudhari gayi — hamle me 9 log mare the; teen hamlaavaron ko phansi mili.)",
+      "category": "World",
+      "exam_angle": "Jordan, aatankwad kanoon, dharmik alpsankhyak — UPSC ke liye mahatvapurna.",
+      "source": "Al Jazeera",
+      "source_url": "https://www.aljazeera.com/news/2026/11/15/jordan-sentences-three-men-to-death-by-hanging-after-deadly-church-attack",
+      "genuineness": "verified",
+      "outlets": [
+        "Al Jazeera",
+        "Reuters",
+        "Haaretz"
       ],
       "image": null,
       "image_credit": null
