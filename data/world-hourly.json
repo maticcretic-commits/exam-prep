@@ -1,6 +1,61 @@
 {
-  "updated_ist": "2026-11-16T16:25:42+05:30",
+  "updated_ist": "2026-11-16T17:24:28+05:30",
   "items": [
+    {
+      "id": "world-20261116-1722-03",
+      "published_ist": "2026-11-16T15:39:00+05:30",
+      "headline": "EU: pehle yuddhviram, phir vaarta",
+      "detail": "EU videsh mantri Kaja Kallas ne kaha Russia se suraksha par baat tabhi hogi jab Ukraine me yuddhviram ho aur Moscow riyayat de — Russia ki maangein 'betuki' batayi; naye pratibandh package par bhi kaam jaari.",
+      "category": "World",
+      "exam_angle": "EU, Ukraine shanti vaarta, pratibandh — UPSC ke liye mahatvapurna.",
+      "source": "Reuters",
+      "source_url": "https://www.straitstimes.com/world/europe/holding-talks-with-russia-on-europes-security-now-would-be-premature-eu-ministers-say?ref=latest-headlines",
+      "genuineness": "verified",
+      "outlets": [
+        "Reuters",
+        "The Kyiv Independent",
+        "The Straits Times"
+      ],
+      "image": null,
+      "image_credit": null
+    },
+    {
+      "id": "world-20261116-1722-02",
+      "published_ist": "2026-11-16T12:16:00+05:30",
+      "headline": "Zelensky: Starshield rok hatao",
+      "detail": "Zelensky ne kaha Starshield ki 161 km/h gati seema se Ukraine ke interceptor drone Shahed drone ko pakad nahi pa rahe — sardiyon se pehle urja dhanche ki suraksha khatre me; SpaceX ne badlav se inkar kiya.",
+      "category": "World",
+      "exam_angle": "Starshield, upgrah sanchar, drone yuddh — UPSC ke liye mahatvapurna.",
+      "source": "Outlook India",
+      "source_url": "https://www.outlookindia.com/amp/story/international/zelensky-musk-spacex-starshield-restrictions-ukraine-drone-defence",
+      "genuineness": "verified",
+      "outlets": [
+        "BBC",
+        "Outlook India",
+        "Times Now"
+      ],
+      "image": null,
+      "image_credit": null
+    },
+    {
+      "id": "world-20261116-1722-01",
+      "published_ist": "2026-11-16T10:36:00+05:30",
+      "headline": "Phuket me aag, 11 ki maut",
+      "detail": "Phuket ke Patong me subah ek shophouse me aag lagi — 11 log mare, 16 ghayal; do ghante me aag kabu me aayi, karan ki jaanch jaari hai.",
+      "category": "World",
+      "exam_angle": "Thailand, paryatan suraksha, aag niyaman — UPSC ke liye mahatvapurna.",
+      "source": "The Indian Express",
+      "source_url": "https://indianexpress.com/article/world/thailand-phuket-commercial-shophouse-fire-blaze-patong-beach-dead-injured-10964807/",
+      "genuineness": "verified",
+      "outlets": [
+        "Reuters",
+        "Agence France-Presse",
+        "Channel News Asia",
+        "The Indian Express"
+      ],
+      "image": "../images/world/world-20261116-1722-01.jpg",
+      "image_credit": "The Indian Express"
+    },
     {
       "id": "world-20261116-1622-01",
       "published_ist": "2026-11-16T08:44:00+05:30",
@@ -91,42 +146,6 @@
       "image_credit": null
     },
     {
-      "id": "world-20261116-1527-02",
-      "published_ist": "2026-11-15T08:21:00+05:30",
-      "headline": "Saudi ne do ko phansi, ek nabalig tha",
-      "detail": "Saudi ne 14 November ko Fadel al-Safwani aur Jawad Qureiris ko aatankwad ke aarop me phansi di — rights group Reprieve ke mutabik Qureiris aarop wale virodh ke samay 14 saal ka tha; August 2025 se aise paanch logo ko phansi ho chuki hai.",
-      "category": "World",
-      "exam_angle": "Saudi Arabia, mrityudand, manavadhikar — UPSC ke liye mahatvapurna.",
-      "source": "Malay Mail",
-      "source_url": "https://www.malaymail.com/news/world/2026/11/15/saudi-arabia-executes-two-on-terrorism-charges-rights-group-says-one-was-14-at-time-of-alleged-offence/243322",
-      "genuineness": "verified",
-      "outlets": [
-        "Malay Mail",
-        "Terror Monitor",
-        "The Insight International"
-      ],
-      "image": null,
-      "image_credit": null
-    },
-    {
-      "id": "world-20261116-1527-03",
-      "published_ist": "2026-11-15T02:40:00+05:30",
-      "headline": "Ukraine vaarta me ab Europe bhi shamil hoga",
-      "detail": "America ke doot Jared Kushner ne kaha agle daur ki Russia-Ukraine vaarta me Europe ke pratinidhi bhi honge — suraksha guarantee aur Donbas par charcha jaari, Abu Dhabi vaarta me kaidi adla-badli par sehmati bani thi.",
-      "category": "World",
-      "exam_angle": "Ukraine-Russia vaarta, NATO, suraksha guarantee — UPSC ke liye mahatvapurna.",
-      "source": "Al Jazeera",
-      "source_url": "https://www.aljazeera.com/news/2026/11/14/us-envoy-kushner-says-he-aims-to-broker-europe-russia-talks-on-ukraine?traffic_source=rss",
-      "genuineness": "verified",
-      "outlets": [
-        "Al Jazeera",
-        "Le Monde",
-        "CNN"
-      ],
-      "image": null,
-      "image_credit": null
-    },
-    {
       "id": "world-20261116-1424-01",
       "published_ist": "2026-11-16T11:28:00+05:30",
       "headline": "Cape Verde me Neves dobara rashtrapati bane",
@@ -139,41 +158,6 @@
       "outlets": [
         "Reuters",
         "Le Temps"
-      ],
-      "image": null,
-      "image_credit": null
-    },
-    {
-      "id": "world-20261116-1424-02",
-      "published_ist": "2026-11-14T20:16:00+05:30",
-      "headline": "America-China: $30 arab tariff katauti par charcha",
-      "detail": "Dono deshon ki pehli Trade Council baithak me $30 arab-$30 arab ki parasparik tariff katauti par baat hui, par koi antim samjhauta nahi — Trump-Xi mulakat se pehle krishi vyapar par bhi charcha hui.",
-      "category": "World",
-      "exam_angle": "America-China vyapar, APEC, tariff — UPSC ke liye mahatvapurna.",
-      "source": "Financial Express",
-      "source_url": "https://www.financialexpress.com/world-news/china-us-discuss-30-billion-in-reciprocal-tariff-cuts-ahead-of-trump-xi-meeting/4384669/",
-      "genuineness": "corroborated",
-      "outlets": [
-        "Reuters",
-        "South China Morning Post"
-      ],
-      "image": null,
-      "image_credit": null
-    },
-    {
-      "id": "world-20261116-1424-03",
-      "published_ist": "2026-11-15T08:45:00+05:30",
-      "headline": "France me paanchve hafte bhi lakhon sadkon par",
-      "detail": "Shanivar ko France bhar me lagbhag 1,06,000 log sadkon par utre — mehngai, shiksha aur police ko zyada suraksha dene wale prastav ke khilaf paanchva lagatar pradarshan; sanghon ne Mangalvar ko hadtal bulayi.",
-      "category": "World",
-      "exam_angle": "France, Yellow Vest, Macron — UPSC ke liye mahatvapurna.",
-      "source": "Malay Mail",
-      "source_url": "https://www.malaymail.com/news/world/2026/11/15/more-than-100000-march-across-france-as-protests-enter-fifth-weekend/243325",
-      "genuineness": "verified",
-      "outlets": [
-        "Malay Mail",
-        "The Times of India",
-        "Türkiye Today"
       ],
       "image": null,
       "image_credit": null
@@ -209,60 +193,6 @@
         "Tribune",
         "Gulf News",
         "The National"
-      ],
-      "image": null,
-      "image_credit": null
-    },
-    {
-      "id": "world-20261116-1322-02",
-      "published_ist": "2026-11-15T16:28:00+05:30",
-      "headline": "Zelensky: Donbas ke badle NATO sadasyata?",
-      "detail": "Zelensky ne kaha Abu Dhabi baatchit me America ne poocha — Donbas chhodne par Ukraine ko NATO milega? Kyiv ne kaha zameen nahi dega, par suraksha guarantee mile to janmat sangrah hoga.",
-      "category": "World",
-      "exam_angle": "Russia-Ukraine yuddh, NATO vistar, Donbas — UPSC ke liye mahatvapurna.",
-      "source": "Al Jazeera",
-      "source_url": "https://www.aljazeera.com/news/2026/11/15/give-donbas-take-nato-seat-could-new-us-pitch-work-for-ukraine-russia",
-      "genuineness": "verified",
-      "outlets": [
-        "CNN",
-        "Al Jazeera",
-        "Observer"
-      ],
-      "image": null,
-      "image_credit": null
-    },
-    {
-      "id": "world-20261116-1322-03",
-      "published_ist": "2026-11-15T13:45:00+05:30",
-      "headline": "Jordan: church hamle ke teen ko phansi",
-      "detail": "Karak me 23 October ko Greek Orthodox church me antim sanskar par hamla kar 9 logon ko maarne wale teenon ko State Security Court ne phansi ki saza sunayi — faisla automatic review ke liye jayega. (Corrected: headline sudhari gayi — hamle me 9 log mare the; teen hamlaavaron ko phansi mili.)",
-      "category": "World",
-      "exam_angle": "Jordan, aatankwad kanoon, dharmik alpsankhyak — UPSC ke liye mahatvapurna.",
-      "source": "Al Jazeera",
-      "source_url": "https://www.aljazeera.com/news/2026/11/15/jordan-sentences-three-men-to-death-by-hanging-after-deadly-church-attack",
-      "genuineness": "verified",
-      "outlets": [
-        "Al Jazeera",
-        "Reuters",
-        "Haaretz"
-      ],
-      "image": null,
-      "image_credit": null
-    },
-    {
-      "id": "world-20261116-1222-01",
-      "published_ist": "2026-11-15T11:52:00+05:30",
-      "headline": "Australia-Philippines ne raksha samjhauta kiya",
-      "detail": "Manila me 49th ASEAN Summit ke kinare dono deshon ne Defence Cooperation Arrangement par hastakshar kiye — sanyukt sainya abhyas aur aapda madad me sahyog aasan hoga, Dakshin Cheen Sagar me bhi.",
-      "category": "World",
-      "exam_angle": "ASEAN, Australia-Philippines DCA, Dakshin Cheen Sagar — UPSC ke liye mahatvapurna.",
-      "source": "Firstpost",
-      "source_url": "https://www.firstpost.com/world/australia-philippines-sign-defence-deal-to-strengthen-military-cooperation-14060068.html",
-      "genuineness": "verified",
-      "outlets": [
-        "Reuters",
-        "Firstpost",
-        "The Times of India"
       ],
       "image": null,
       "image_credit": null
