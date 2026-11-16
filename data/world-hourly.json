@@ -1,6 +1,102 @@
 {
-  "updated_ist": "2026-11-15T22:27:44+05:30",
+  "updated_ist": "2026-11-16T06:33:00+05:30",
   "items": [
+    {
+      "id": "world-20261116-0630-01",
+      "published_ist": "2026-11-16T05:42:00+05:30",
+      "headline": "Japan ki economy July-September me siki",
+      "detail": "Cabinet Office ke aankdon me GDP saalana 0.1% gira — chaar timahi me pehli giravat; niji khapat 0.3% kam hui, Bank of Japan ke byaj faisle par asar padega.",
+      "category": "World",
+      "exam_angle": "Japan GDP, Bank of Japan byaj dar — UPSC ke liye mahatvapurna.",
+      "source": "Reuters",
+      "source_url": "https://www.reuters.com/business/japans-economy-unexpectedly-shrinks-july-september-consumption-falters-2026-11-16/",
+      "genuineness": "verified",
+      "outlets": [
+        "Reuters",
+        "Nikkei Asia",
+        "The Nation"
+      ],
+      "image": null,
+      "image_credit": null
+    },
+    {
+      "id": "world-20261116-0630-02",
+      "published_ist": "2026-11-16T04:54:00+05:30",
+      "headline": "ASEAN-China samudra code ki deadline chooki",
+      "detail": "Philippines ke videsh mantri ne kaha masaude ka lagbhag 80% tay hua, par kanuni roop aur seema par matbhed bane hue; baatchit 2027 me Singapore ki adhyakshata me jaari rahegi.",
+      "category": "World",
+      "exam_angle": "Dakshin Cheen Sagar, ASEAN, samudri kanoon — UPSC ke liye mahatvapurna.",
+      "source": "The Thursday Times",
+      "source_url": "https://thursdaytimes.com/2026/11/16/news/international/asean-and-china-miss-deadline-for-south-china-sea-code-of-conduct/",
+      "genuineness": "verified",
+      "outlets": [
+        "The Thursday Times",
+        "The Straits Times",
+        "Philippine Daily Tribune",
+        "Associated Press"
+      ],
+      "image": null,
+      "image_credit": null
+    },
+    {
+      "id": "world-20261116-0630-03",
+      "published_ist": "2026-11-15T15:16:00+05:30",
+      "headline": "Ukraine ne Nizhnekamsk par drone hamla kiya",
+      "detail": "Ukraine ne zimmedari lete hue kaha uske drones ne Tatarstan ke Nizhnekamskneftekhim petrochemical complex aur TAIF-NK refinery ko nishana banaya, dono jagah aag lagi; mayor ne lambe hamle ki pushti ki.",
+      "category": "World",
+      "exam_angle": "Russia-Ukraine yuddh, urja avasanrachna par hamle — UPSC ke liye mahatvapurna.",
+      "source": "Al Arabiya",
+      "source_url": "https://english.alarabiya.net/News/world/2026/11/15/ukrainian-strikes-hit-major-russian-industrial-city-authorities",
+      "genuineness": "verified",
+      "outlets": [
+        "Al Arabiya",
+        "Ukrinform",
+        "Ukrainska Pravda",
+        "The New Voice of Ukraine"
+      ],
+      "image": null,
+      "image_credit": null
+    },
+    {
+      "id": "world-20261116-0630-04",
+      "published_ist": "2026-11-15T02:50:00+05:30",
+      "headline": "SpaceX ne Starship ko pehli baar pakda",
+      "detail": "Flight 15 ki Ship 42 22 ghante kaksha me bitakar Starbase lautkar Mechazilla ki baanhon me phansi — pehli baar koi Starship pakda gaya; booster kharab hokar samudra me gir gaya.",
+      "category": "World",
+      "exam_angle": "Punh-prayog yogya rocket, antariksh takneek — UPSC ke liye mahatvapurna.",
+      "source": "Malay Mail",
+      "source_url": "https://www.malaymail.com/news/world/2026/11/15/spacex-pulls-off-first-ever-spaceship-catch-with-giant-chopsticks/243320",
+      "genuineness": "verified",
+      "outlets": [
+        "Malay Mail",
+        "The Times",
+        "CNBC",
+        "Associated Press",
+        "Space.com"
+      ],
+      "image": null,
+      "image_credit": null
+    },
+    {
+      "id": "world-20261116-0630-05",
+      "published_ist": "2026-11-14T07:17:00+05:30",
+      "headline": "Trump, Xi, Putin 19 November ko milenge",
+      "detail": "Teeno parmanu shaktiyon ke neta pehli baar Shenzhen me APEC shikhar ke kinare milenge; parmanu hathiyar katauti aur Iran par charcha hogi, Ukraine agenda me nahi.",
+      "category": "World",
+      "exam_angle": "APEC, parmanu hathiyar niyantran, New START ki samapti — UPSC ke liye mahatvapurna.",
+      "source": "The Hindu",
+      "source_url": "https://www.thehindu.com/news/international/trump-xi-and-putin-plan-an-unprecedented-joint-meeting-apec-summit-china/article71700699.ece",
+      "genuineness": "verified",
+      "outlets": [
+        "The Hindu",
+        "Dawn",
+        "Channel News Asia",
+        "Business Times",
+        "The Jerusalem Post"
+      ],
+      "image": null,
+      "image_credit": null
+    },
     {
       "id": "world-20261115-2227-01",
       "published_ist": "2026-11-15T21:15:00+05:30",
@@ -171,84 +267,6 @@
       "image_credit": null
     },
     {
-      "id": "world-20261115-1927-02",
-      "published_ist": "2026-11-15T06:01:00+05:30",
-      "headline": "Pope Leo: Inca gaon khali, palayan par chinta",
-      "detail": "Pope Leo XIV ne Peru ke Santa Cruz de Succhabamba me kaha ki Inca kshetra ke gaon khali ho rahe hain aur log behtar bhavishya ke liye palayan ko majboor hain; Cajamarca me 40% se zyada log gareebi me rehte hain.",
-      "category": "World",
-      "exam_angle": "Peru, Inca sabhyata aur palayan — UPSC ke liye mahatvapurna.",
-      "source": "The Manila Times",
-      "source_url": "https://www.manilatimes.net/2026/11/15/world/americas-emea/pope-says-inca-heartland-suffering-as-villages-empty/2470178",
-      "genuineness": "verified",
-      "outlets": [
-        "Agence France-Presse",
-        "Vatican News",
-        "Al Jazeera"
-      ],
-      "image": null,
-      "image_credit": null
-    },
-    {
-      "id": "world-20261115-1927-03",
-      "published_ist": "2026-11-14T17:55:00+05:30",
-      "headline": "America ka measles-mukt darja 26 saal baad khatm",
-      "detail": "PAHO panel ne faisla kiya ki America me measles ka ek hi strain 12 mahine se zyada se lagatar phail raha hai; CDC ke anusaar 2026 me 12 November tak 5,182 cases mile, 1991 ke baad sabse zyada — aadhikarik ghoshna abhi baaki hai.",
-      "category": "World",
-      "exam_angle": "Svasthya, teekakaran aur antarrashtriya sangathan — UPSC ke liye mahatvapurna.",
-      "source": "Firstpost",
-      "source_url": "https://www.firstpost.com/explainers/how-us-has-lost-its-measles-free-status-after-26-years-14059999.html",
-      "genuineness": "verified",
-      "outlets": [
-        "The Wall Street Journal",
-        "Reuters",
-        "CNN",
-        "Axios",
-        "Firstpost",
-        "The Straits Times"
-      ],
-      "image": null,
-      "image_credit": null
-    },
-    {
-      "id": "world-20261115-1927-04",
-      "published_ist": "2026-11-14T04:57:00+05:30",
-      "headline": "Tesla Cybercab bikne laga, $29,990 + $299/mahina",
-      "detail": "Tesla ne chuninda grahakon ko bina steering wali Cybercab ka order khola — keemat $29,990, chalane ke liye $299 mahina subscription zaroori, December me Austin se delivery ka anuman.",
-      "category": "World",
-      "exam_angle": "Driverless gaadi, AI aur niyam — UPSC ke liye mahatvapurna.",
-      "source": "Notebookcheck",
-      "source_url": "https://www.notebookcheck.net/Tesla-opens-29-990-Cybercab-orders-but-owners-face-299-monthly-fee-to-drive.1450535.0.html",
-      "genuineness": "verified",
-      "outlets": [
-        "Tesla",
-        "Electrek",
-        "The Verge",
-        "Engadget",
-        "Notebookcheck"
-      ],
-      "image": "../images/world/world-20261115-1927-04.jpg",
-      "image_credit": "Notebookcheck"
-    },
-    {
-      "id": "world-20261115-1822-01",
-      "published_ist": "2026-11-14T22:23:00+05:30",
-      "headline": "Zelensky: Donbas chhodo to NATO sadasyata",
-      "detail": "Zelensky ne kaha America ke vartakaron ne Abu Dhabi vartao me prastav diya ki Ukraine Donbas chhod de to NATO sadasyata mil sakti hai; unhone kshetra chhodne se inkar kiya, lekin suraksha package mile to janmat sangrah ki baat kahi.",
-      "category": "World",
-      "exam_angle": "Ukraine yuddh aur NATO vistar — UPSC ke liye mahatvapurna.",
-      "source": "Reuters",
-      "source_url": "https://www.reuters.com/world/europe/us-floated-idea-ukraine-ceding-donbas-nato-membership-zelenskiy-says-2026-11-14/",
-      "genuineness": "verified",
-      "outlets": [
-        "Reuters",
-        "Al Jazeera",
-        "CNN",
-        "The Observer"
-      ],
-      "image": "../images/world/world-20261115-1822-01.jpg",
-      "image_credit": "Xuthoria, Wikimedia Commons (CC BY-SA 4.0)"
-    },
-    {
       "id": "world-20261115-1822-02",
       "published_ist": "2026-11-15T07:21:00+05:30",
       "headline": "Korea: topper ne AI se nakal mani",
@@ -304,25 +322,6 @@
       ],
       "image": null,
       "image_credit": null
-    },
-    {
-      "id": "world-20261115-1722-03",
-      "published_ist": "2026-11-14T19:57:00+05:30",
-      "headline": "Alaska: 1998 ke baad pehle Democrat governor",
-      "detail": "Democrat Jonathan Kreiss-Tomkins Alaska ke governor chune gaye — 1998 ke baad pehle Democrat; 37 saal ke ve rajya ke sabse yuva governor honge aur 7 December ko shapath lenge.",
-      "category": "World",
-      "exam_angle": "America me midterm chunav aur rajya sarkaron me badlav — UPSC ke liye mahatvapurna.",
-      "source": "Reuters",
-      "source_url": "https://www.reuters.com/world/us/alaska-elects-first-democratic-governor-since-1998-us-media-project-2026-11-14/",
-      "genuineness": "verified",
-      "outlets": [
-        "Reuters",
-        "Associated Press",
-        "Haaretz",
-        "NBC News"
-      ],
-      "image": "../images/world/world-20261115-1722-03.jpg",
-      "image_credit": "Gillfoto, Wikimedia Commons (CC BY-SA 4.0)"
     },
     {
       "id": "world-20261115-1622-01",
@@ -408,24 +407,6 @@
         "Agence France-Presse",
         "The National",
         "Al Jazeera"
-      ],
-      "image": null,
-      "image_credit": null
-    },
-    {
-      "id": "world-20261115-1422-02",
-      "published_ist": "2026-11-15T05:26:00+05:30",
-      "headline": "Manila me 49th ASEAN shikhar sammelan shuru",
-      "detail": "Philippines ke Rashtrapati Marcos ne Manila me 49th ASEAN Summit ka udghatan kiya — vyapar, urja sankat, Myanmar aur South China Sea par charcha; Trump 17 November ko pahunchenge, Quad netaon se alag baithak bhi hogi.",
-      "category": "World",
-      "exam_angle": "ASEAN, Bharat-ASEAN sambandh aur Quad — UPSC ke liye mahatvapurna.",
-      "source": "The Manila Times",
-      "source_url": "https://beta.manilatimes.net/2026/11/15/news/global-powers-converge-as-ph-opens-49th-asean-summit/2470176",
-      "genuineness": "verified",
-      "outlets": [
-        "Agence France-Presse",
-        "The Philippine Star",
-        "Philippine Daily Inquirer"
       ],
       "image": null,
       "image_credit": null
