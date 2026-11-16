@@ -1,6 +1,6 @@
 {
   "date": "2026-11-16",
-  "updated_ist": "2026-11-16T06:33:00+05:30",
+  "updated_ist": "2026-11-16T07:27:01+05:30",
   "items": [
     {
       "id": "world-20261116-0630-01",
@@ -21,6 +21,43 @@
       "image_credit": null
     },
     {
+      "id": "world-20261116-0722-01",
+      "published_ist": "2026-11-16T05:31:00+05:30",
+      "headline": "Houthi ne Riyadh par missile daage",
+      "detail": "Houthi ne daava kiya usne Riyadh ke King Khalid airport aur vitt kendra par do ballistic missile daage; Saudi gathbandhan ne kaha dono rok liye gaye, nuksan ki swatantra pushti nahi.",
+      "category": "World",
+      "exam_angle": "Yemen yuddh, Saudi-Houthi takraar, Khadi suraksha — UPSC ke liye mahatvapurna.",
+      "source": "SEE News",
+      "source_url": "https://see.news/houthi-attacks-on-saudi-arabia-intensify-as-yemeni-forces-retreat",
+      "genuineness": "corroborated",
+      "outlets": [
+        "SEE News",
+        "Shafaq News",
+        "Times of India"
+      ],
+      "image": null,
+      "image_credit": null
+    },
+    {
+      "id": "world-20261116-0722-02",
+      "published_ist": "2026-11-16T05:17:00+05:30",
+      "headline": "Estonia 1 December se Russia seema band karega",
+      "detail": "Videsh mantri Margus Tsahkna ne kaha drone nirmata Threod Systems par GRU ke aadesh par hue aagjani ke prayas ke baad teenon seema chaukiyan — Narva, Luhamaa, Koidula — 1 December se band hongi; avadhi tay nahi.",
+      "category": "World",
+      "exam_angle": "Estonia-Russia, NATO, seema suraksha — UPSC ke liye mahatvapurna.",
+      "source": "Reuters",
+      "source_url": "https://www.reuters.com/world/europe/estonia-close-russian-border-crossings-after-attempted-arson-attack-2026-11-15/",
+      "genuineness": "verified",
+      "outlets": [
+        "Reuters",
+        "Al Jazeera",
+        "Firstpost",
+        "The Irish Times"
+      ],
+      "image": null,
+      "image_credit": null
+    },
+    {
       "id": "world-20261116-0630-02",
       "published_ist": "2026-11-16T04:54:00+05:30",
       "headline": "ASEAN-China samudra code ki deadline chooki",
@@ -35,6 +72,43 @@
         "The Straits Times",
         "Philippine Daily Tribune",
         "Associated Press"
+      ],
+      "image": null,
+      "image_credit": null
+    },
+    {
+      "id": "world-20261116-0722-03",
+      "published_ist": "2026-11-16T01:30:00+05:30",
+      "headline": "Mexico ke 'drug godfather' Gallardo ka nidhan",
+      "detail": "Guadalajara cartel ke sansthapak Miguel Angel Felix Gallardo (80) ka aspatal me nidhan — 1989 se jail me the, 1985 me DEA agent ki hatya ke doshi; kai angon ne kaam karna band kar diya.",
+      "category": "World",
+      "exam_angle": "Mexico drug yuddh, DEA, antarrashtriya apraadh — UPSC ke liye mahatvapurna.",
+      "source": "Reuters",
+      "source_url": "https://www.reuters.com/world/americas/mexicos-guadalajara-cartel-founder-aged-80-dies-hospital-milenio-reports-2026-11-15/",
+      "genuineness": "verified",
+      "outlets": [
+        "Reuters",
+        "Al Jazeera",
+        "CNN",
+        "USA Today"
+      ],
+      "image": null,
+      "image_credit": null
+    },
+    {
+      "id": "world-20261116-0722-04",
+      "published_ist": "2026-11-16T00:01:00+05:30",
+      "headline": "Prince Harry achanak Ukraine pahunche",
+      "detail": "Prince Harry ne Lviv me ghayal sainikon aur chikitsakon se milkar kaha 'tum yuddh jeetoge' — 2022 se chaarvi yatra; Invictus Games ke liye chune jaane wale khiladiyon se bhi mile.",
+      "category": "World",
+      "exam_angle": "Russia-Ukraine yuddh, Invictus Games — UPSC ke liye mahatvapurna.",
+      "source": "Al Jazeera",
+      "source_url": "https://www.aljazeera.com/news/2026/11/15/prince-harry-in-ukraine-meeting-invictus-2027-hopefuls",
+      "genuineness": "verified",
+      "outlets": [
+        "Al Jazeera",
+        "Associated Press",
+        "Firstpost"
       ],
       "image": null,
       "image_credit": null
