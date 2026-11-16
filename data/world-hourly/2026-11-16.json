@@ -1,6 +1,6 @@
 {
   "date": "2026-11-16",
-  "updated_ist": "2026-11-16T19:26:20+05:30",
+  "updated_ist": "2026-11-16T20:26:42+05:30",
   "items": [
     {
       "id": "world-20261116-1322-01",
@@ -831,6 +831,78 @@
         "Bloomberg",
         "Telangana Today",
         "Associated Press"
+      ],
+      "image": null,
+      "image_credit": null
+    },
+    {
+      "id": "world-20261116-2022-01",
+      "published_ist": "2026-11-16T11:20:00+05:30",
+      "headline": "Estonia 1 December se Russia border band karega",
+      "detail": "Drone maker Threod Systems par GRU ke aadesh se aag lagane ki koshish ke baad Estonia ne 1 December se Russia se lagte teeno border crossing band karne ka elan kiya; 8 log giraftar, Kremlin ne aarop kharij kiya.",
+      "category": "World",
+      "exam_angle": "Estonia, NATO, Russia, GRU, hybrid warfare — UPSC ke liye mahatvapurna.",
+      "source": "The Hindu",
+      "source_url": "https://www.thehindu.com/news/international/estonia-to-close-russian-border-crossings-after-attempted-arson-attack/article71706831.ece",
+      "genuineness": "verified",
+      "outlets": [
+        "The Hindu",
+        "Al Jazeera",
+        "Firstpost"
+      ],
+      "image": "../images/world/world-20261116-2022-01.jpg",
+      "image_credit": "Sillerkiil, Wikimedia Commons (CC0)"
+    },
+    {
+      "id": "world-20261116-2022-02",
+      "published_ist": "2026-11-14T21:46:00+05:30",
+      "headline": "Italy ne Meta par $887 million jurmana lagaya",
+      "detail": "Italy ke data regulator Garante ne Meta par €805 million ($887 million) ka jurmana lagaya — Facebook Android app bina sahmati ke lagbhag 2 crore users ki gallery ki photo-video khol raha tha; Meta appeal karega.",
+      "category": "World",
+      "exam_angle": "Data protection, ePrivacy, Big Tech regulation — UPSC ke liye mahatvapurna.",
+      "source": "Al Jazeera",
+      "source_url": "https://www.aljazeera.com/news/2026/11/14/italy-fines-meta-880m-over-photo-privacy",
+      "genuineness": "verified",
+      "outlets": [
+        "Al Jazeera",
+        "Indian Express",
+        "BBC"
+      ],
+      "image": null,
+      "image_credit": null
+    },
+    {
+      "id": "world-20261116-2022-03",
+      "published_ist": "2026-11-15T03:00:00+05:30",
+      "headline": "SpaceX ne pehli baar Starship upper stage pakda",
+      "detail": "22.5 ghante ki udan aur 14 chakkar ke baad Starship ka upper stage pehli baar launch tower ki 'chopsticks' me pakda gaya; Super Heavy booster pakda nahi ja saka aur samudra me gira.",
+      "category": "World",
+      "exam_angle": "SpaceX, Starship, reusable rocket — UPSC science-tech ke liye mahatvapurna.",
+      "source": "Moneycontrol",
+      "source_url": "https://www.moneycontrol.com/science/22-hours-in-space-spacex-catches-starship-s-upper-stage-for-first-time-but-what-happened-to-its-booster-article-14080348.html",
+      "genuineness": "verified",
+      "outlets": [
+        "Moneycontrol",
+        "Scientific American",
+        "CNBC"
+      ],
+      "image": null,
+      "image_credit": null
+    },
+    {
+      "id": "world-20261116-2022-04",
+      "published_ist": "2026-11-16T16:21:00+05:30",
+      "headline": "Gaza me Hamas ke Rafah commander mare gaye",
+      "detail": "Israel ke hamle me Hamas ke Rafah Brigade commander Samir Abu Younis mare gaye — Hamas aur IDF dono ne pushti ki; yuddhviram ke bawjood Gaza me hamle jaari hain.",
+      "category": "World",
+      "exam_angle": "Israel-Hamas, Gaza yuddhviram — UPSC ke liye mahatvapurna.",
+      "source": "CBC",
+      "source_url": "https://www.cbc.bb/news/international-news/israel-kills-senior-hamas-commander-in-gaza/",
+      "genuineness": "verified",
+      "outlets": [
+        "CNN",
+        "Al Jazeera",
+        "Tribune"
       ],
       "image": null,
       "image_credit": null
