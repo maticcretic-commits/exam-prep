@@ -1,6 +1,60 @@
 {
-  "updated_ist": "2026-11-16T14:24:50+05:30",
+  "updated_ist": "2026-11-16T15:27:04+05:30",
   "items": [
+    {
+      "id": "world-20261116-1527-01",
+      "published_ist": "2026-11-16T10:32:00+05:30",
+      "headline": "Hormuz me do aur tanker khano se takraye",
+      "detail": "IRGC ka dawa hai Somvar ko bhi do tanker Hormuz me khano se takrakar jal gaye, ek 20 lakh barrel tel wala supertanker doob gaya — Ravivar se kul chhe tanker ka dawa, swatantra pushti nahi; UKMTO ne ek hamle ki pushti ki, koi hatahat nahi.",
+      "category": "World",
+      "exam_angle": "Hormuz, tel vyapar, America-Iran tanav — UPSC ke liye mahatvapurna.",
+      "source": "Malay Mail",
+      "source_url": "https://www.malaymail.com/news/world/2026/11/16/iran-says-supertanker-with-two-million-barrels-of-oil-sank-in-strait-of-hormuz-after-hitting-mine/243431",
+      "genuineness": "verified",
+      "outlets": [
+        "Reuters",
+        "Malay Mail",
+        "Türkiye Today"
+      ],
+      "image": null,
+      "image_credit": null
+    },
+    {
+      "id": "world-20261116-1527-02",
+      "published_ist": "2026-11-15T08:21:00+05:30",
+      "headline": "Saudi ne do ko phansi, ek nabalig tha",
+      "detail": "Saudi ne 14 November ko Fadel al-Safwani aur Jawad Qureiris ko aatankwad ke aarop me phansi di — rights group Reprieve ke mutabik Qureiris aarop wale virodh ke samay 14 saal ka tha; August 2025 se aise paanch logo ko phansi ho chuki hai.",
+      "category": "World",
+      "exam_angle": "Saudi Arabia, mrityudand, manavadhikar — UPSC ke liye mahatvapurna.",
+      "source": "Malay Mail",
+      "source_url": "https://www.malaymail.com/news/world/2026/11/15/saudi-arabia-executes-two-on-terrorism-charges-rights-group-says-one-was-14-at-time-of-alleged-offence/243322",
+      "genuineness": "verified",
+      "outlets": [
+        "Malay Mail",
+        "Terror Monitor",
+        "The Insight International"
+      ],
+      "image": null,
+      "image_credit": null
+    },
+    {
+      "id": "world-20261116-1527-03",
+      "published_ist": "2026-11-15T02:40:00+05:30",
+      "headline": "Ukraine vaarta me ab Europe bhi shamil hoga",
+      "detail": "America ke doot Jared Kushner ne kaha agle daur ki Russia-Ukraine vaarta me Europe ke pratinidhi bhi honge — suraksha guarantee aur Donbas par charcha jaari, Abu Dhabi vaarta me kaidi adla-badli par sehmati bani thi.",
+      "category": "World",
+      "exam_angle": "Ukraine-Russia vaarta, NATO, suraksha guarantee — UPSC ke liye mahatvapurna.",
+      "source": "Al Jazeera",
+      "source_url": "https://www.aljazeera.com/news/2026/11/14/us-envoy-kushner-says-he-aims-to-broker-europe-russia-talks-on-ukraine?traffic_source=rss",
+      "genuineness": "verified",
+      "outlets": [
+        "Al Jazeera",
+        "Le Monde",
+        "CNN"
+      ],
+      "image": null,
+      "image_credit": null
+    },
     {
       "id": "world-20261116-1424-01",
       "published_ist": "2026-11-16T11:28:00+05:30",
@@ -109,8 +163,8 @@
     {
       "id": "world-20261116-1322-03",
       "published_ist": "2026-11-15T13:45:00+05:30",
-      "headline": "Jordan: church hamle me teen ko maut",
-      "detail": "Karak me 23 October ko Greek Orthodox church me antim sanskar par hamla kar 9 logon ko maarne wale teenon ko State Security Court ne phansi ki saza sunayi — faisla automatic review ke liye jayega.",
+      "headline": "Jordan: church hamle ke teen ko phansi",
+      "detail": "Karak me 23 October ko Greek Orthodox church me antim sanskar par hamla kar 9 logon ko maarne wale teenon ko State Security Court ne phansi ki saza sunayi — faisla automatic review ke liye jayega. (Corrected: headline sudhari gayi — hamle me 9 log mare the; teen hamlaavaron ko phansi mili.)",
       "category": "World",
       "exam_angle": "Jordan, aatankwad kanoon, dharmik alpsankhyak — UPSC ke liye mahatvapurna.",
       "source": "Al Jazeera",
@@ -374,60 +428,6 @@
         "Al Jazeera",
         "CNN",
         "USA Today"
-      ],
-      "image": null,
-      "image_credit": null
-    },
-    {
-      "id": "world-20261116-1122-03",
-      "published_ist": "2026-11-16T00:55:00+05:30",
-      "headline": "Yemen: sarkari fauj Bab el-Mandeb se peeche hati",
-      "detail": "Saudi samarthit Southern Armed Forces ne Dhubab Airport aur Bab el-Mandeb se sainikon ko Aden ki raksha ke liye wapas bulaya — chhah hafte ka jawabi hamla khatm, Houthi ab laal sagar ke dakshini dwar par mazboot.",
-      "category": "World",
-      "exam_angle": "Bab el-Mandeb, Yemen grih yuddh, Houthi — UPSC ke liye mahatvapurna.",
-      "source": "Reuters",
-      "source_url": "https://www.reuters.com/world/middle-east/anti-houthi-forces-retreat-yemen-iran-strikes-bahrain-2026-11-15/",
-      "genuineness": "verified",
-      "outlets": [
-        "Reuters",
-        "Al Jazeera",
-        "The Maritime Executive"
-      ],
-      "image": null,
-      "image_credit": null
-    },
-    {
-      "id": "world-20261116-0722-04",
-      "published_ist": "2026-11-16T00:01:00+05:30",
-      "headline": "Prince Harry achanak Ukraine pahunche",
-      "detail": "Prince Harry ne Lviv me ghayal sainikon aur chikitsakon se milkar kaha 'tum yuddh jeetoge' — 2022 se chaarvi yatra; Invictus Games ke liye chune jaane wale khiladiyon se bhi mile.",
-      "category": "World",
-      "exam_angle": "Russia-Ukraine yuddh, Invictus Games — UPSC ke liye mahatvapurna.",
-      "source": "Al Jazeera",
-      "source_url": "https://www.aljazeera.com/news/2026/11/15/prince-harry-in-ukraine-meeting-invictus-2027-hopefuls",
-      "genuineness": "verified",
-      "outlets": [
-        "Al Jazeera",
-        "Associated Press",
-        "Firstpost"
-      ],
-      "image": null,
-      "image_credit": null
-    },
-    {
-      "id": "world-20261116-0822-01",
-      "published_ist": "2026-11-15T22:34:00+05:30",
-      "headline": "Houthi ne 600 bandiyon ko riha kiya",
-      "detail": "Red Cross ne pushti ki: Houthi ne Sanaa me sarkari paksh ke 600 kaidiyon ko ekpakshiya riha kiya — Yemen yuddh ki sabse badi aisi rihai; Aden ke paas ladai tez hai.",
-      "category": "World",
-      "exam_angle": "Yemen yuddh, Red Cross, Bab el-Mandeb — UPSC ke liye mahatvapurna.",
-      "source": "The Insight International",
-      "source_url": "https://theinsightinternational.com/houthis-release-600-detainees-sanaa-icrc-november-15/",
-      "genuineness": "verified",
-      "outlets": [
-        "The Insight International",
-        "Associated Press",
-        "Agence France-Presse"
       ],
       "image": null,
       "image_credit": null
