@@ -142,6 +142,76 @@
     ],
     "answer_index": 0
    }
+  },
+  {
+   "episode": 127,
+   "video_hi": "95dxlBSoOdc",
+   "video_hinglish": "95dxlBSoOdc",
+   "capsules": [
+    {
+     "id": "ca-ep127-s1",
+     "headline_hi": "Janjatiya Gaurav Diwas par 246 pariyojnaon ki shuruaat",
+     "headline_hinglish": "Janjatiya Gaurav Diwas par 246 pariyojnaon ki shuruaat",
+     "detail_hi": "Modi ne Gadchiroli mein teen hazaar crore ki 246 janjatiya pariyojnaon ka shilanyas aur udghatan kiya.",
+     "detail_hinglish": "Modi ne Gadchiroli mein teen hazaar crore ki 246 janjatiya pariyojnaon ka shilanyas aur udghatan kiya.",
+     "category_hi": "National",
+     "category_en": "National"
+    },
+    {
+     "id": "ca-ep127-s2",
+     "headline_hi": "Jay Shah doosri baar ICC Chairman bane",
+     "headline_hinglish": "Jay Shah doosri baar ICC Chairman bane",
+     "detail_hi": "ICC ne Jay Shah ko nirvirodh doosre karyakal ke liye Chairman chuna, ab do saal aur pad par rahenge.",
+     "detail_hinglish": "ICC ne Jay Shah ko nirvirodh doosre karyakal ke liye Chairman chuna, ab do saal aur pad par rahenge.",
+     "category_hi": "Sports",
+     "category_en": "Sports"
+    },
+    {
+     "id": "ca-ep127-s3",
+     "headline_hi": "Lakshya Sen ne Kumamoto Masters jeeta",
+     "headline_hinglish": "Lakshya Sen ne Kumamoto Masters jeeta",
+     "detail_hi": "Lakshya ne Japan ke Koki Watanabe ko harakar Kumamoto Masters jeeta, pehle Bharatiya vijeta bane.",
+     "detail_hinglish": "Lakshya ne Japan ke Koki Watanabe ko harakar Kumamoto Masters jeeta, pehle Bharatiya vijeta bane.",
+     "category_hi": "Sports",
+     "category_en": "Sports"
+    },
+    {
+     "id": "ca-ep127-s4",
+     "headline_hi": "Vayu Sena ko apni AI takneek mili",
+     "headline_hinglish": "Vayu Sena ko apni AI takneek mili",
+     "detail_hi": "Raksha Mantri Rajnath Singh ne Air Force Commanders Conference mein IAF ke swadeshi AI applications launch kiye.",
+     "detail_hinglish": "Raksha Mantri Rajnath Singh ne Air Force Commanders Conference mein IAF ke swadeshi AI applications launch kiye.",
+     "category_hi": "Defence",
+     "category_en": "Defence"
+    },
+    {
+     "id": "ca-ep127-s5",
+     "headline_hi": "Aam Budget 2027-28 ki taiyaari shuru",
+     "headline_hinglish": "Aam Budget 2027-28 ki taiyaari shuru",
+     "detail_hi": "Nirmala Sitharaman ne arthshastriyon se pre-budget paramarsh shuru kiya, budget ek February ko aayega.",
+     "detail_hinglish": "Nirmala Sitharaman ne arthshastriyon se pre-budget paramarsh shuru kiya, budget ek February ko aayega.",
+     "category_hi": "Economy",
+     "category_en": "Economy"
+    }
+   ],
+   "mcq": {
+    "id": "ca-ep127-mcq",
+    "q_hi": "Jay Shah ko ICC Chairman ke roop mein kitni baar chuna gaya hai?",
+    "q_hinglish": "Jay Shah ko ICC Chairman ke roop mein kitni baar chuna gaya hai?",
+    "options_hi": [
+     "Pehli baar",
+     "Doosri baar",
+     "Teesri baar",
+     "Chauthi baar"
+    ],
+    "options_hinglish": [
+     "Pehli baar",
+     "Doosri baar",
+     "Teesri baar",
+     "Chauthi baar"
+    ],
+    "answer_index": 1
+   }
   }
  ]
 }
