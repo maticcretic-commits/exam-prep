@@ -1,6 +1,23 @@
 {
-  "updated_ist": "2026-11-16T09:26:59+05:30",
+  "updated_ist": "2026-11-16T10:25:41+05:30",
   "items": [
+    {
+      "id": "world-20261116-1022-03",
+      "published_ist": "2026-11-16T08:16:00+05:30",
+      "headline": "ASEAN ne Myanmar neta par pratibandh badhaya",
+      "detail": "Manila shikhar me netaon ne kaha Myanmar 2021 ki paanch-sutriya shanti yojana par amal me nakam raha — uske neta aur videsh mantri shikhar baithakon me shamil nahi ho sakenge.",
+      "category": "World",
+      "exam_angle": "ASEAN, Myanmar sankat, paanch-sutriya sahmati — UPSC ke liye mahatvapurna.",
+      "source": "Associated Press",
+      "source_url": "https://www.arabnews.pk/world/southeast-asian-leaders-denounce-violence-in-myanmar-and-extend-ban-on-its-leader-3007145",
+      "genuineness": "corroborated",
+      "outlets": [
+        "Associated Press",
+        "Al Jazeera"
+      ],
+      "image": null,
+      "image_credit": null
+    },
     {
       "id": "world-20261116-0926-01",
       "published_ist": "2026-11-16T08:03:00+05:30",
@@ -33,6 +50,23 @@
         "AFP",
         "Arab News",
         "Al Jazeera"
+      ],
+      "image": null,
+      "image_credit": null
+    },
+    {
+      "id": "world-20261116-1022-01",
+      "published_ist": "2026-11-16T06:11:00+05:30",
+      "headline": "Iran: US hamle ka intezar nahi karenge",
+      "detail": "Up videsh mantri Kazem Gharibabadi ne kaha Tehran baatchit, nakabandi ya yuddh — teenon ke liye taiyar hai; Hormuz kholne ki 48 ghante wali yojana abhi bhi mez par hai.",
+      "category": "World",
+      "exam_angle": "US-Iran tanav, Hormuz jaladmaru — UPSC ke liye mahatvapurna.",
+      "source": "The Times of India",
+      "source_url": "https://timesofindia.indiatimes.com/world/middle-east/iran-is-not-cuba-or-venezuela-tehran-warns-it-will-not-wait-for-us-attack-before-responding/articleshow/135868860.cms",
+      "genuineness": "corroborated",
+      "outlets": [
+        "The Times of India",
+        "Times Now"
       ],
       "image": null,
       "image_credit": null
@@ -107,6 +141,25 @@
         "The Straits Times",
         "Philippine Daily Tribune",
         "Associated Press"
+      ],
+      "image": null,
+      "image_credit": null
+    },
+    {
+      "id": "world-20261116-1022-02",
+      "published_ist": "2026-11-16T04:13:00+05:30",
+      "headline": "Italy ne Meta par €805 million jurmana lagaya",
+      "detail": "Facebook app ne bina sahmati ke lagbhag 2 crore Italian Android users ki photo gallery dekhi — niyamak ne 60 din me alag sahmati ka niyam banane ko kaha, Meta appeal karega.",
+      "category": "World",
+      "exam_angle": "Data suraksha, GDPR/ePrivacy, big tech niyaman — UPSC ke liye mahatvapurna.",
+      "source": "Times Now",
+      "source_url": "https://www.timesnownews.com/world/italys-data-watchdog-fines-meta-805m-for-accessing-users-photos-without-consent-article-156516293/amp",
+      "genuineness": "verified",
+      "outlets": [
+        "Times Now",
+        "BBC",
+        "Bloomberg",
+        "AFP"
       ],
       "image": null,
       "image_credit": null
@@ -385,41 +438,6 @@
         "Agence France-Presse",
         "Al Jazeera",
         "Associated Press"
-      ],
-      "image": null,
-      "image_credit": null
-    },
-    {
-      "id": "world-20261115-1927-01",
-      "published_ist": "2026-11-15T10:35:00+05:30",
-      "headline": "Phnom Penh: Francophone shikhar, Congo-Rwanda takraar",
-      "detail": "20th Francophone shikhar sammelan Phnom Penh me shuru hua; somvar ko naye mahasachiv ka chunav hoga, lekin DR Congo ne Rwanda ki Louise Mushikiwabo ke teesre karyakal par sangathan chhodne ki dhamki di hai.",
-      "category": "World",
-      "exam_angle": "Francophonie, Africa aur antarrashtriya sangathan — UPSC ke liye mahatvapurna.",
-      "source": "Al Jazeera",
-      "source_url": "https://www.aljazeera.com/news/2026/11/15/francophone-summit-opens-in-cambodia-amid-rwanda-dr-congo-rift?traffic_source=rss",
-      "genuineness": "verified",
-      "outlets": [
-        "Al Jazeera",
-        "Associated Press",
-        "Madar"
-      ],
-      "image": null,
-      "image_credit": null
-    },
-    {
-      "id": "world-20261115-1522-01",
-      "published_ist": "2026-11-15T09:30:00+05:30",
-      "headline": "Shenzhen me APEC CEO Summit, 12 neta aayenge",
-      "detail": "CCPIT ne aaj elaan kiya ki 17-18 November ko Shenzhen me hone wale APEC CEO Summit me Xi Jinping samet 12 arthvyavasthaon ke neta bhashan denge ya panel charcha me hissa lenge; 115 Fortune Global 500 companiyon ke pratinidhi bhi aayenge.",
-      "category": "World",
-      "exam_angle": "APEC aur Asia-Pacific me vyapar sahyog — UPSC ke liye mahatvapurna.",
-      "source": "CGTN",
-      "source_url": "https://news.cgtn.com/news/2026-11-15/Twelve-APEC-leaders-to-attend-CEO-Summit-in-Shenzhen-1S5mNgHhkKA/p.html",
-      "genuineness": "corroborated",
-      "outlets": [
-        "CGTN",
-        "China Daily"
       ],
       "image": null,
       "image_credit": null
