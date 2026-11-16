@@ -1,6 +1,6 @@
 {
   "date": "2026-11-16",
-  "updated_ist": "2026-11-16T16:25:42+05:30",
+  "updated_ist": "2026-11-16T17:24:28+05:30",
   "items": [
     {
       "id": "world-20261116-1322-01",
@@ -671,6 +671,61 @@
       ],
       "image": null,
       "image_credit": null
+    },
+    {
+      "id": "world-20261116-1722-03",
+      "published_ist": "2026-11-16T15:39:00+05:30",
+      "headline": "EU: pehle yuddhviram, phir vaarta",
+      "detail": "EU videsh mantri Kaja Kallas ne kaha Russia se suraksha par baat tabhi hogi jab Ukraine me yuddhviram ho aur Moscow riyayat de — Russia ki maangein 'betuki' batayi; naye pratibandh package par bhi kaam jaari.",
+      "category": "World",
+      "exam_angle": "EU, Ukraine shanti vaarta, pratibandh — UPSC ke liye mahatvapurna.",
+      "source": "Reuters",
+      "source_url": "https://www.straitstimes.com/world/europe/holding-talks-with-russia-on-europes-security-now-would-be-premature-eu-ministers-say?ref=latest-headlines",
+      "genuineness": "verified",
+      "outlets": [
+        "Reuters",
+        "The Kyiv Independent",
+        "The Straits Times"
+      ],
+      "image": null,
+      "image_credit": null
+    },
+    {
+      "id": "world-20261116-1722-02",
+      "published_ist": "2026-11-16T12:16:00+05:30",
+      "headline": "Zelensky: Starshield rok hatao",
+      "detail": "Zelensky ne kaha Starshield ki 161 km/h gati seema se Ukraine ke interceptor drone Shahed drone ko pakad nahi pa rahe — sardiyon se pehle urja dhanche ki suraksha khatre me; SpaceX ne badlav se inkar kiya.",
+      "category": "World",
+      "exam_angle": "Starshield, upgrah sanchar, drone yuddh — UPSC ke liye mahatvapurna.",
+      "source": "Outlook India",
+      "source_url": "https://www.outlookindia.com/amp/story/international/zelensky-musk-spacex-starshield-restrictions-ukraine-drone-defence",
+      "genuineness": "verified",
+      "outlets": [
+        "BBC",
+        "Outlook India",
+        "Times Now"
+      ],
+      "image": null,
+      "image_credit": null
+    },
+    {
+      "id": "world-20261116-1722-01",
+      "published_ist": "2026-11-16T10:36:00+05:30",
+      "headline": "Phuket me aag, 11 ki maut",
+      "detail": "Phuket ke Patong me subah ek shophouse me aag lagi — 11 log mare, 16 ghayal; do ghante me aag kabu me aayi, karan ki jaanch jaari hai.",
+      "category": "World",
+      "exam_angle": "Thailand, paryatan suraksha, aag niyaman — UPSC ke liye mahatvapurna.",
+      "source": "The Indian Express",
+      "source_url": "https://indianexpress.com/article/world/thailand-phuket-commercial-shophouse-fire-blaze-patong-beach-dead-injured-10964807/",
+      "genuineness": "verified",
+      "outlets": [
+        "Reuters",
+        "Agence France-Presse",
+        "Channel News Asia",
+        "The Indian Express"
+      ],
+      "image": "../images/world/world-20261116-1722-01.jpg",
+      "image_credit": "The Indian Express"
     }
   ]
 }
