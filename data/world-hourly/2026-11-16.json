@@ -207,6 +207,61 @@
       ],
       "image": null,
       "image_credit": null
+    },
+    {
+      "id": "world-20261116-0926-01",
+      "published_ist": "2026-11-16T08:03:00+05:30",
+      "headline": "China ne Trump-Xi-Putin baithak ki pushti ki",
+      "detail": "19 November ko Shenzhen me APEC ke kinare pehli baar teenon neta milenge — parmanu hathiyar aur Iran par charcha hogi, Ukraine agenda se bahar.",
+      "category": "World",
+      "exam_angle": "APEC Shenzhen, trilateral shikhar — UPSC ke liye mahatvapoorn",
+      "source": "The Korea Times",
+      "source_url": "https://www.koreatimes.co.kr/world/20261116/china-confirms-first-xi-trump-putin-summit-on-thursday",
+      "genuineness": "verified",
+      "outlets": [
+        "The Korea Times",
+        "The Hindu",
+        "Channel News Asia"
+      ],
+      "image": null,
+      "image_credit": null
+    },
+    {
+      "id": "world-20261116-0926-02",
+      "published_ist": "2026-11-16T06:52:00+05:30",
+      "headline": "Chaar deshon ne Gaza me turant madad mangi",
+      "detail": "Australia, Britain, Canada aur Italy ne Israel se kaha — baadh ke baad Gaza me 1,50,000 tent seema par ruke hain, turant aur bina rok-tok madad pahunche.",
+      "category": "World",
+      "exam_angle": "Gaza manaviya sankat, antarrashtriya kanoon — UPSC ke liye mahatvapoorn",
+      "source": "Malay Mail",
+      "source_url": "https://www.malaymail.com/amp/news/world/2026/11/16/stop-the-delays-now-floods-worsen-gaza-crisis-as-australia-uk-canada-italy-demand-rapid-aid-access/243423",
+      "genuineness": "verified",
+      "outlets": [
+        "AFP",
+        "Arab News",
+        "Al Jazeera"
+      ],
+      "image": null,
+      "image_credit": null
+    },
+    {
+      "id": "world-20261116-0926-03",
+      "published_ist": "2026-11-16T02:04:00+05:30",
+      "headline": "Teesra US carrier Middle East pahuncha",
+      "detail": "USS Theodore Roosevelt CENTCOM kshetra me dakhil hua — ab Iran nakabandi me teen US carrier; Tehran ne pehle hamle ki chetavni di.",
+      "category": "World",
+      "exam_angle": "US-Iran tanav, Hormuz nakabandi — UPSC ke liye mahatvapoorn",
+      "source": "The National",
+      "source_url": "https://www.thenationalnews.com/news/us/2026/11/16/uss-theodore-roosevelt-middle-east-centcom/",
+      "genuineness": "verified",
+      "outlets": [
+        "The National",
+        "ABC News",
+        "Al Jazeera",
+        "The Jerusalem Post"
+      ],
+      "image": null,
+      "image_credit": null
     }
   ]
 }
