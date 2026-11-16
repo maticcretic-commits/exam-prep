@@ -1,6 +1,42 @@
 {
-  "updated_ist": "2026-11-16T11:26:43+05:30",
+  "updated_ist": "2026-11-16T12:22:00+05:30",
   "items": [
+    {
+      "id": "world-20261116-1222-01",
+      "published_ist": "2026-11-15T11:52:00+05:30",
+      "headline": "Australia-Philippines ne raksha samjhauta kiya",
+      "detail": "Manila me 49th ASEAN Summit ke kinare dono deshon ne Defence Cooperation Arrangement par hastakshar kiye — sanyukt sainya abhyas aur aapda madad me sahyog aasan hoga, Dakshin Cheen Sagar me bhi.",
+      "category": "World",
+      "exam_angle": "ASEAN, Australia-Philippines DCA, Dakshin Cheen Sagar — UPSC ke liye mahatvapurna.",
+      "source": "Firstpost",
+      "source_url": "https://www.firstpost.com/world/australia-philippines-sign-defence-deal-to-strengthen-military-cooperation-14060068.html",
+      "genuineness": "verified",
+      "outlets": [
+        "Reuters",
+        "Firstpost",
+        "The Times of India"
+      ],
+      "image": null,
+      "image_credit": null
+    },
+    {
+      "id": "world-20261116-1222-02",
+      "published_ist": "2026-11-16T06:15:00+05:30",
+      "headline": "America me router kharabi se udanein thapi",
+      "detail": "Shukravar ko FAA ne lagbhag paanch ghante ke liye desh bhar ki udanein roki — router ki gadbadi se 9,000 se zyada flights radd hui, 15 lakh yatri fase; Ravivar tak bhi hazaron flights prabhavit rahi.",
+      "category": "World",
+      "exam_angle": "FAA, America ki hawai suraksha, purani takneek — UPSC ke liye mahatvapurna.",
+      "source": "Al Jazeera",
+      "source_url": "https://www.aljazeera.com/amp/news/2026/11/16/after-a-nationwide-ground-stop-us-faces-aviation-infrastructure-questions",
+      "genuineness": "verified",
+      "outlets": [
+        "Al Jazeera",
+        "The Times of India",
+        "USA Today"
+      ],
+      "image": null,
+      "image_credit": null
+    },
     {
       "id": "world-20261116-1122-01",
       "published_ist": "2026-11-16T09:24:00+05:30",
@@ -397,43 +433,6 @@
         "Reuters",
         "The Japan Times",
         "UNICEF"
-      ],
-      "image": null,
-      "image_credit": null
-    },
-    {
-      "id": "world-20261115-1722-01",
-      "published_ist": "2026-11-15T13:45:00+05:30",
-      "headline": "Jordan: church hamle ke teen ko phansi",
-      "detail": "Jordan ki State Security Court ne Ravivaar ko teen logon ko phansi ki saza sunai; 23 October ko Karak ke Greek Orthodox church me janaze ke dauraan hamle me 9 log mare gaye the — faisle par Court of Cassation me appeal ho sakti hai.",
-      "category": "World",
-      "exam_angle": "Jordan me aatankwad par mukadma aur mrityudand — West Asia me suraksha.",
-      "source": "Reuters",
-      "source_url": "https://www.reuters.com/world/middle-east/jordan-sentences-three-men-death-over-deadly-church-attack-2026-11-15/",
-      "genuineness": "verified",
-      "outlets": [
-        "Reuters",
-        "Al Jazeera",
-        "The National",
-        "Malay Mail"
-      ],
-      "image": null,
-      "image_credit": null
-    },
-    {
-      "id": "world-20261115-1422-01",
-      "published_ist": "2026-11-15T13:16:00+05:30",
-      "headline": "Bahrain: Iran ka US base par drone hamla",
-      "detail": "Bahrain me subah dhamake aur siren sunai diye; Iran ke Revolutionary Guards ne daava kiya ki unhone Riffa base par US radar ko chhah drones se nishana banaya — Bahrain ne kaha uski hawai suraksha ne kai hamle roke, abhi koi nuksan ki pushti nahi.",
-      "category": "World",
-      "exam_angle": "West Asia me tanav aur Gulf me US sainya upasthiti — UPSC ke liye mahatvapurna.",
-      "source": "Malay Mail",
-      "source_url": "https://www.malaymail.com/news/world/2026/11/15/blasts-sirens-in-bahrain-as-iran-announces-attack-on-us-base/243363",
-      "genuineness": "verified",
-      "outlets": [
-        "Agence France-Presse",
-        "The National",
-        "Al Jazeera"
       ],
       "image": null,
       "image_credit": null
