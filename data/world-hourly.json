@@ -1,6 +1,42 @@
 {
-  "updated_ist": "2026-11-16T08:29:28+05:30",
+  "updated_ist": "2026-11-16T09:26:59+05:30",
   "items": [
+    {
+      "id": "world-20261116-0926-01",
+      "published_ist": "2026-11-16T08:03:00+05:30",
+      "headline": "China ne Trump-Xi-Putin baithak ki pushti ki",
+      "detail": "19 November ko Shenzhen me APEC ke kinare pehli baar teenon neta milenge — parmanu hathiyar aur Iran par charcha hogi, Ukraine agenda se bahar.",
+      "category": "World",
+      "exam_angle": "APEC Shenzhen, trilateral shikhar — UPSC ke liye mahatvapoorn",
+      "source": "The Korea Times",
+      "source_url": "https://www.koreatimes.co.kr/world/20261116/china-confirms-first-xi-trump-putin-summit-on-thursday",
+      "genuineness": "verified",
+      "outlets": [
+        "The Korea Times",
+        "The Hindu",
+        "Channel News Asia"
+      ],
+      "image": null,
+      "image_credit": null
+    },
+    {
+      "id": "world-20261116-0926-02",
+      "published_ist": "2026-11-16T06:52:00+05:30",
+      "headline": "Chaar deshon ne Gaza me turant madad mangi",
+      "detail": "Australia, Britain, Canada aur Italy ne Israel se kaha — baadh ke baad Gaza me 1,50,000 tent seema par ruke hain, turant aur bina rok-tok madad pahunche.",
+      "category": "World",
+      "exam_angle": "Gaza manaviya sankat, antarrashtriya kanoon — UPSC ke liye mahatvapoorn",
+      "source": "Malay Mail",
+      "source_url": "https://www.malaymail.com/amp/news/world/2026/11/16/stop-the-delays-now-floods-worsen-gaza-crisis-as-australia-uk-canada-italy-demand-rapid-aid-access/243423",
+      "genuineness": "verified",
+      "outlets": [
+        "AFP",
+        "Arab News",
+        "Al Jazeera"
+      ],
+      "image": null,
+      "image_credit": null
+    },
     {
       "id": "world-20261116-0630-01",
       "published_ist": "2026-11-16T05:42:00+05:30",
@@ -71,6 +107,25 @@
         "The Straits Times",
         "Philippine Daily Tribune",
         "Associated Press"
+      ],
+      "image": null,
+      "image_credit": null
+    },
+    {
+      "id": "world-20261116-0926-03",
+      "published_ist": "2026-11-16T02:04:00+05:30",
+      "headline": "Teesra US carrier Middle East pahuncha",
+      "detail": "USS Theodore Roosevelt CENTCOM kshetra me dakhil hua — ab Iran nakabandi me teen US carrier; Tehran ne pehle hamle ki chetavni di.",
+      "category": "World",
+      "exam_angle": "US-Iran tanav, Hormuz nakabandi — UPSC ke liye mahatvapoorn",
+      "source": "The National",
+      "source_url": "https://www.thenationalnews.com/news/us/2026/11/16/uss-theodore-roosevelt-middle-east-centcom/",
+      "genuineness": "verified",
+      "outlets": [
+        "The National",
+        "ABC News",
+        "Al Jazeera",
+        "The Jerusalem Post"
       ],
       "image": null,
       "image_credit": null
@@ -365,78 +420,6 @@
       "outlets": [
         "CGTN",
         "China Daily"
-      ],
-      "image": null,
-      "image_credit": null
-    },
-    {
-      "id": "world-20261115-1622-01",
-      "published_ist": "2026-11-15T09:17:44+05:30",
-      "headline": "America: router kharabi se udaan sankat, 6,400 radd",
-      "detail": "FAA ne kaha contractor L3Harris ke naye router ki gadbadi se 17 control centres prabhavit hue; Shanivaar ko 6,400 se zyada flights radd hui, chaar ghante ke ground stop ke baad udaanen phir shuru hui — Ravivaar ko 800 se zyada flights pehle se radd, der raat tak pareshani jaari.",
-      "category": "World",
-      "exam_angle": "Critical infrastructure ki kamzori — UPSC me technology aur suraksha par sawal.",
-      "source": "The Statesman",
-      "source_url": "https://www.thestatesman.com/world/faa-outage-us-flight-cancellations-continue-sunday-after-router-overload-1503662685.html/amp",
-      "genuineness": "verified",
-      "outlets": [
-        "Reuters",
-        "The Statesman",
-        "Sunday Guardian"
-      ],
-      "image": null,
-      "image_credit": null
-    },
-    {
-      "id": "world-20261115-1622-02",
-      "published_ist": "2026-11-15T08:21:00+05:30",
-      "headline": "Saudi: do ko phansi, nabalig wala aarop",
-      "detail": "Saudi ne Eastern Province me do logon ko 'aatankwad' ke aarop me phansi di; rights group Reprieve ka kehna hai ek vyakti aarop ke samay 14 saal ka tha.",
-      "category": "World",
-      "exam_angle": "Manavadhikar aur mrityudand — antarrashtriya sangathanon ki bhoomika.",
-      "source": "Malay Mail",
-      "source_url": "https://www.malaymail.com/news/world/2026/11/15/saudi-arabia-executes-two-on-terrorism-charges-rights-group-says-one-was-14-at-time-of-alleged-offence/243322",
-      "genuineness": "corroborated",
-      "outlets": [
-        "AFP",
-        "Saudi Interior Ministry"
-      ],
-      "image": null,
-      "image_credit": null
-    },
-    {
-      "id": "world-20261115-1722-02",
-      "published_ist": "2026-11-15T07:30:00+05:30",
-      "headline": "Gaza aspatal hamle par 18 deshon ki ninda",
-      "detail": "Saudi samet 18 Arab aur Islamic deshon ke videsh mantriyon ne Shaniwaar ko Khan Younis ke Nasser aspatal par Guruvaar ke Israeli hamle ki ninda ki; hamle me ek surgeon aur ek kishore samet 6 log mare gaye the, Israel ka kehna hai usne Hamas commander ko nishana banaya tha.",
-      "category": "World",
-      "exam_angle": "Antarrashtriya manavtavadi kanoon aur chikitsa suvidhaon ki suraksha — UPSC ke liye mahatvapurna.",
-      "source": "TBS News",
-      "source_url": "https://www.tbsnews.net/worldbiz/middle-east/18-arab-and-islamic-nations-condemn-israeli-strike-gaza-hospital-1602776",
-      "genuineness": "verified",
-      "outlets": [
-        "TBS News",
-        "Al Jazeera",
-        "Palestine Chronicle",
-        "Arab News"
-      ],
-      "image": null,
-      "image_credit": null
-    },
-    {
-      "id": "world-20261116-0822-02",
-      "published_ist": "2026-11-15T06:30:00+05:30",
-      "headline": "Israel ne Hamas ke Rafah commander ko mara",
-      "detail": "IDF ne kaha Samir Abu Younis Khan Younis me raat ke hamle me mara gaya; Hamas ne maut ki pushti ki aur use 7 October hamle ka yojnakar bataya — yuddhviram ke bawjood tanav badha.",
-      "category": "World",
-      "exam_angle": "Gaza yuddhviram, Hamas, Israel — UPSC ke liye mahatvapurna.",
-      "source": "Al Jazeera",
-      "source_url": "https://www.aljazeera.com/news/2026/11/15/israeli-air-strike-kills-senior-hamas-commander-in-gaza",
-      "genuineness": "verified",
-      "outlets": [
-        "CNN",
-        "Al Jazeera",
-        "The Times of Israel"
       ],
       "image": null,
       "image_credit": null
