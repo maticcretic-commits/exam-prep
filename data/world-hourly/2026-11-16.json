@@ -1,0 +1,102 @@
+{
+  "date": "2026-11-16",
+  "updated_ist": "2026-11-16T06:33:00+05:30",
+  "items": [
+    {
+      "id": "world-20261116-0630-01",
+      "published_ist": "2026-11-16T05:42:00+05:30",
+      "headline": "Japan ki economy July-September me siki",
+      "detail": "Cabinet Office ke aankdon me GDP saalana 0.1% gira — chaar timahi me pehli giravat; niji khapat 0.3% kam hui, Bank of Japan ke byaj faisle par asar padega.",
+      "category": "World",
+      "exam_angle": "Japan GDP, Bank of Japan byaj dar — UPSC ke liye mahatvapurna.",
+      "source": "Reuters",
+      "source_url": "https://www.reuters.com/business/japans-economy-unexpectedly-shrinks-july-september-consumption-falters-2026-11-16/",
+      "genuineness": "verified",
+      "outlets": [
+        "Reuters",
+        "Nikkei Asia",
+        "The Nation"
+      ],
+      "image": null,
+      "image_credit": null
+    },
+    {
+      "id": "world-20261116-0630-02",
+      "published_ist": "2026-11-16T04:54:00+05:30",
+      "headline": "ASEAN-China samudra code ki deadline chooki",
+      "detail": "Philippines ke videsh mantri ne kaha masaude ka lagbhag 80% tay hua, par kanuni roop aur seema par matbhed bane hue; baatchit 2027 me Singapore ki adhyakshata me jaari rahegi.",
+      "category": "World",
+      "exam_angle": "Dakshin Cheen Sagar, ASEAN, samudri kanoon — UPSC ke liye mahatvapurna.",
+      "source": "The Thursday Times",
+      "source_url": "https://thursdaytimes.com/2026/11/16/news/international/asean-and-china-miss-deadline-for-south-china-sea-code-of-conduct/",
+      "genuineness": "verified",
+      "outlets": [
+        "The Thursday Times",
+        "The Straits Times",
+        "Philippine Daily Tribune",
+        "Associated Press"
+      ],
+      "image": null,
+      "image_credit": null
+    },
+    {
+      "id": "world-20261116-0630-03",
+      "published_ist": "2026-11-15T15:16:00+05:30",
+      "headline": "Ukraine ne Nizhnekamsk par drone hamla kiya",
+      "detail": "Ukraine ne zimmedari lete hue kaha uske drones ne Tatarstan ke Nizhnekamskneftekhim petrochemical complex aur TAIF-NK refinery ko nishana banaya, dono jagah aag lagi; mayor ne lambe hamle ki pushti ki.",
+      "category": "World",
+      "exam_angle": "Russia-Ukraine yuddh, urja avasanrachna par hamle — UPSC ke liye mahatvapurna.",
+      "source": "Al Arabiya",
+      "source_url": "https://english.alarabiya.net/News/world/2026/11/15/ukrainian-strikes-hit-major-russian-industrial-city-authorities",
+      "genuineness": "verified",
+      "outlets": [
+        "Al Arabiya",
+        "Ukrinform",
+        "Ukrainska Pravda",
+        "The New Voice of Ukraine"
+      ],
+      "image": null,
+      "image_credit": null
+    },
+    {
+      "id": "world-20261116-0630-04",
+      "published_ist": "2026-11-15T02:50:00+05:30",
+      "headline": "SpaceX ne Starship ko pehli baar pakda",
+      "detail": "Flight 15 ki Ship 42 22 ghante kaksha me bitakar Starbase lautkar Mechazilla ki baanhon me phansi — pehli baar koi Starship pakda gaya; booster kharab hokar samudra me gir gaya.",
+      "category": "World",
+      "exam_angle": "Punh-prayog yogya rocket, antariksh takneek — UPSC ke liye mahatvapurna.",
+      "source": "Malay Mail",
+      "source_url": "https://www.malaymail.com/news/world/2026/11/15/spacex-pulls-off-first-ever-spaceship-catch-with-giant-chopsticks/243320",
+      "genuineness": "verified",
+      "outlets": [
+        "Malay Mail",
+        "The Times",
+        "CNBC",
+        "Associated Press",
+        "Space.com"
+      ],
+      "image": null,
+      "image_credit": null
+    },
+    {
+      "id": "world-20261116-0630-05",
+      "published_ist": "2026-11-14T07:17:00+05:30",
+      "headline": "Trump, Xi, Putin 19 November ko milenge",
+      "detail": "Teeno parmanu shaktiyon ke neta pehli baar Shenzhen me APEC shikhar ke kinare milenge; parmanu hathiyar katauti aur Iran par charcha hogi, Ukraine agenda me nahi.",
+      "category": "World",
+      "exam_angle": "APEC, parmanu hathiyar niyantran, New START ki samapti — UPSC ke liye mahatvapurna.",
+      "source": "The Hindu",
+      "source_url": "https://www.thehindu.com/news/international/trump-xi-and-putin-plan-an-unprecedented-joint-meeting-apec-summit-china/article71700699.ece",
+      "genuineness": "verified",
+      "outlets": [
+        "The Hindu",
+        "Dawn",
+        "Channel News Asia",
+        "Business Times",
+        "The Jerusalem Post"
+      ],
+      "image": null,
+      "image_credit": null
+    }
+  ]
+}
