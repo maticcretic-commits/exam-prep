@@ -1,7 +1,61 @@
 {
   "date": "2026-11-16",
-  "updated_ist": "2026-11-16T12:22:00+05:30",
+  "updated_ist": "2026-11-16T13:25:00+05:30",
   "items": [
+    {
+      "id": "world-20261116-1322-01",
+      "published_ist": "2026-11-16T06:30:00+05:30",
+      "headline": "Bahrain me Iran ka US base par hamla",
+      "detail": "IRGC ne daava kiya uske chhah drone ne al-Riffa base par US radar ko nishana banaya; Bahrain ne kaha hawai suraksha ne hamla roka, koi nuksan nahi — teen din me doosra hamla.",
+      "category": "World",
+      "exam_angle": "West Asia tanav, Bahrain, US Fifth Fleet — UPSC ke liye mahatvapurna.",
+      "source": "Tribune",
+      "source_url": "https://tribune.com.pk/story/2640531/blasts-rattle-bahrain-as-iran-fires-fresh-salvo",
+      "genuineness": "verified",
+      "outlets": [
+        "Tribune",
+        "Gulf News",
+        "The National"
+      ],
+      "image": null,
+      "image_credit": null
+    },
+    {
+      "id": "world-20261116-1322-02",
+      "published_ist": "2026-11-15T16:28:00+05:30",
+      "headline": "Zelensky: Donbas ke badle NATO sadasyata?",
+      "detail": "Zelensky ne kaha Abu Dhabi baatchit me America ne poocha — Donbas chhodne par Ukraine ko NATO milega? Kyiv ne kaha zameen nahi dega, par suraksha guarantee mile to janmat sangrah hoga.",
+      "category": "World",
+      "exam_angle": "Russia-Ukraine yuddh, NATO vistar, Donbas — UPSC ke liye mahatvapurna.",
+      "source": "Al Jazeera",
+      "source_url": "https://www.aljazeera.com/news/2026/11/15/give-donbas-take-nato-seat-could-new-us-pitch-work-for-ukraine-russia",
+      "genuineness": "verified",
+      "outlets": [
+        "CNN",
+        "Al Jazeera",
+        "Observer"
+      ],
+      "image": null,
+      "image_credit": null
+    },
+    {
+      "id": "world-20261116-1322-03",
+      "published_ist": "2026-11-15T13:45:00+05:30",
+      "headline": "Jordan: church hamle me teen ko maut",
+      "detail": "Karak me 23 October ko Greek Orthodox church me antim sanskar par hamla kar 9 logon ko maarne wale teenon ko State Security Court ne phansi ki saza sunayi — faisla automatic review ke liye jayega.",
+      "category": "World",
+      "exam_angle": "Jordan, aatankwad kanoon, dharmik alpsankhyak — UPSC ke liye mahatvapurna.",
+      "source": "Al Jazeera",
+      "source_url": "https://www.aljazeera.com/news/2026/11/15/jordan-sentences-three-men-to-death-by-hanging-after-deadly-church-attack",
+      "genuineness": "verified",
+      "outlets": [
+        "Al Jazeera",
+        "Reuters",
+        "Haaretz"
+      ],
+      "image": null,
+      "image_credit": null
+    },
     {
       "id": "world-20261116-1122-01",
       "published_ist": "2026-11-16T09:24:00+05:30",
