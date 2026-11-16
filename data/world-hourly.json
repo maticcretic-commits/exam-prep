@@ -1,6 +1,60 @@
 {
-  "updated_ist": "2026-11-16T12:22:00+05:30",
+  "updated_ist": "2026-11-16T13:25:00+05:30",
   "items": [
+    {
+      "id": "world-20261116-1322-01",
+      "published_ist": "2026-11-16T06:30:00+05:30",
+      "headline": "Bahrain me Iran ka US base par hamla",
+      "detail": "IRGC ne daava kiya uske chhah drone ne al-Riffa base par US radar ko nishana banaya; Bahrain ne kaha hawai suraksha ne hamla roka, koi nuksan nahi — teen din me doosra hamla.",
+      "category": "World",
+      "exam_angle": "West Asia tanav, Bahrain, US Fifth Fleet — UPSC ke liye mahatvapurna.",
+      "source": "Tribune",
+      "source_url": "https://tribune.com.pk/story/2640531/blasts-rattle-bahrain-as-iran-fires-fresh-salvo",
+      "genuineness": "verified",
+      "outlets": [
+        "Tribune",
+        "Gulf News",
+        "The National"
+      ],
+      "image": null,
+      "image_credit": null
+    },
+    {
+      "id": "world-20261116-1322-02",
+      "published_ist": "2026-11-15T16:28:00+05:30",
+      "headline": "Zelensky: Donbas ke badle NATO sadasyata?",
+      "detail": "Zelensky ne kaha Abu Dhabi baatchit me America ne poocha — Donbas chhodne par Ukraine ko NATO milega? Kyiv ne kaha zameen nahi dega, par suraksha guarantee mile to janmat sangrah hoga.",
+      "category": "World",
+      "exam_angle": "Russia-Ukraine yuddh, NATO vistar, Donbas — UPSC ke liye mahatvapurna.",
+      "source": "Al Jazeera",
+      "source_url": "https://www.aljazeera.com/news/2026/11/15/give-donbas-take-nato-seat-could-new-us-pitch-work-for-ukraine-russia",
+      "genuineness": "verified",
+      "outlets": [
+        "CNN",
+        "Al Jazeera",
+        "Observer"
+      ],
+      "image": null,
+      "image_credit": null
+    },
+    {
+      "id": "world-20261116-1322-03",
+      "published_ist": "2026-11-15T13:45:00+05:30",
+      "headline": "Jordan: church hamle me teen ko maut",
+      "detail": "Karak me 23 October ko Greek Orthodox church me antim sanskar par hamla kar 9 logon ko maarne wale teenon ko State Security Court ne phansi ki saza sunayi — faisla automatic review ke liye jayega.",
+      "category": "World",
+      "exam_angle": "Jordan, aatankwad kanoon, dharmik alpsankhyak — UPSC ke liye mahatvapurna.",
+      "source": "Al Jazeera",
+      "source_url": "https://www.aljazeera.com/news/2026/11/15/jordan-sentences-three-men-to-death-by-hanging-after-deadly-church-attack",
+      "genuineness": "verified",
+      "outlets": [
+        "Al Jazeera",
+        "Reuters",
+        "Haaretz"
+      ],
+      "image": null,
+      "image_credit": null
+    },
     {
       "id": "world-20261116-1222-01",
       "published_ist": "2026-11-15T11:52:00+05:30",
@@ -378,61 +432,6 @@
       "outlets": [
         "The Hindu",
         "The Times of India"
-      ],
-      "image": null,
-      "image_credit": null
-    },
-    {
-      "id": "world-20261115-2022-02",
-      "published_ist": "2026-11-15T15:22:00+05:30",
-      "headline": "Canary Islands: ek din me 1,500 pravasi",
-      "detail": "Shaniwaar ko Spain ke Canary Islands me lagbhag 1,500 pravasi pahunche — 2020 ke baad ek din me sabse zyada; zyadaatar Senegal, Gambia aur Guinea se aaye.",
-      "category": "World",
-      "exam_angle": "Europe me pravasan aur Atlantic route — UPSC ke liye mahatvapurna.",
-      "source": "Reuters",
-      "source_url": "https://www.reuters.com/world/africa/nearly-1500-migrants-arrive-canary-islands-one-day-2026-11-15/",
-      "genuineness": "verified",
-      "outlets": [
-        "Reuters",
-        "EFE",
-        "Tenerife News"
-      ],
-      "image": null,
-      "image_credit": null
-    },
-    {
-      "id": "world-20261116-0630-03",
-      "published_ist": "2026-11-15T15:16:00+05:30",
-      "headline": "Ukraine ne Nizhnekamsk par drone hamla kiya",
-      "detail": "Ukraine ne zimmedari lete hue kaha uske drones ne Tatarstan ke Nizhnekamskneftekhim petrochemical complex aur TAIF-NK refinery ko nishana banaya, dono jagah aag lagi; mayor ne lambe hamle ki pushti ki.",
-      "category": "World",
-      "exam_angle": "Russia-Ukraine yuddh, urja avasanrachna par hamle — UPSC ke liye mahatvapurna.",
-      "source": "Al Arabiya",
-      "source_url": "https://english.alarabiya.net/News/world/2026/11/15/ukrainian-strikes-hit-major-russian-industrial-city-authorities",
-      "genuineness": "verified",
-      "outlets": [
-        "Al Arabiya",
-        "Ukrinform",
-        "Ukrainska Pravda",
-        "The New Voice of Ukraine"
-      ],
-      "image": null,
-      "image_credit": null
-    },
-    {
-      "id": "world-20261115-2122-01",
-      "published_ist": "2026-11-15T14:44:00+05:30",
-      "headline": "Gaza: saans ki bimari badhi, WHO chetavni",
-      "detail": "WHO ne kaha Gaza me saans ki bimari ke cases pichhle saal se 33,000 zyada hain; baarish se hazaaron tent doob gaye aur lagbhag 10 lakh visthapit baadh ke khatre wale ilaakon me rehte hain.",
-      "category": "World",
-      "exam_angle": "Gaza me manavtavadi sankat, WHO aur svasthya — UPSC ke liye mahatvapurna.",
-      "source": "The Tribune",
-      "source_url": "https://www.tribuneindia.com/news/world/respiratory-illnesses-rise-in-gaza-with-worst-to-come-as-winter-floods-arrive-who/",
-      "genuineness": "verified",
-      "outlets": [
-        "Reuters",
-        "The Japan Times",
-        "UNICEF"
       ],
       "image": null,
       "image_credit": null
