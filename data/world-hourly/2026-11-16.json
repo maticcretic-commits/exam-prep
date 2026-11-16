@@ -1,7 +1,95 @@
 {
   "date": "2026-11-16",
-  "updated_ist": "2026-11-16T10:25:41+05:30",
+  "updated_ist": "2026-11-16T11:26:43+05:30",
   "items": [
+    {
+      "id": "world-20261116-1122-01",
+      "published_ist": "2026-11-16T09:24:00+05:30",
+      "headline": "Nau deshon ne AI supply chain samjhauta kiya",
+      "detail": "America aur aath sahyogi deshon ne San Francisco Declaration par hastakshar kiye — AI takneek, chip aur critical minerals ki supply chain ko China se bachane ke liye sanyukt suchi banegi.",
+      "category": "World",
+      "exam_angle": "Pax Silica, AI supply chain, critical minerals — UPSC ke liye mahatvapurna.",
+      "source": "Business Today",
+      "source_url": "https://www.businesstoday.in/amp/latest/corporate/story/nvidia-chip-row-effect-us-japan-uk-allies-want-to-protect-ai-supply-chain-from-china-567549-2026-11-16",
+      "genuineness": "verified",
+      "outlets": [
+        "Financial Times",
+        "The Korea Herald",
+        "Business Today"
+      ],
+      "image": null,
+      "image_credit": null
+    },
+    {
+      "id": "world-20261116-1022-03",
+      "published_ist": "2026-11-16T08:16:00+05:30",
+      "headline": "ASEAN ne Myanmar neta par pratibandh badhaya",
+      "detail": "Manila shikhar me netaon ne kaha Myanmar 2021 ki paanch-sutriya shanti yojana par amal me nakam raha — uske neta aur videsh mantri shikhar baithakon me shamil nahi ho sakenge.",
+      "category": "World",
+      "exam_angle": "ASEAN, Myanmar sankat, paanch-sutriya sahmati — UPSC ke liye mahatvapurna.",
+      "source": "Associated Press",
+      "source_url": "https://www.arabnews.pk/world/southeast-asian-leaders-denounce-violence-in-myanmar-and-extend-ban-on-its-leader-3007145",
+      "genuineness": "corroborated",
+      "outlets": [
+        "Associated Press",
+        "Al Jazeera"
+      ],
+      "image": null,
+      "image_credit": null
+    },
+    {
+      "id": "world-20261116-0926-01",
+      "published_ist": "2026-11-16T08:03:00+05:30",
+      "headline": "China ne Trump-Xi-Putin baithak ki pushti ki",
+      "detail": "19 November ko Shenzhen me APEC ke kinare pehli baar teenon neta milenge — parmanu hathiyar aur Iran par charcha hogi, Ukraine agenda se bahar.",
+      "category": "World",
+      "exam_angle": "APEC Shenzhen, trilateral shikhar — UPSC ke liye mahatvapoorn",
+      "source": "The Korea Times",
+      "source_url": "https://www.koreatimes.co.kr/world/20261116/china-confirms-first-xi-trump-putin-summit-on-thursday",
+      "genuineness": "verified",
+      "outlets": [
+        "The Korea Times",
+        "The Hindu",
+        "Channel News Asia"
+      ],
+      "image": null,
+      "image_credit": null
+    },
+    {
+      "id": "world-20261116-0926-02",
+      "published_ist": "2026-11-16T06:52:00+05:30",
+      "headline": "Chaar deshon ne Gaza me turant madad mangi",
+      "detail": "Australia, Britain, Canada aur Italy ne Israel se kaha — baadh ke baad Gaza me 1,50,000 tent seema par ruke hain, turant aur bina rok-tok madad pahunche.",
+      "category": "World",
+      "exam_angle": "Gaza manaviya sankat, antarrashtriya kanoon — UPSC ke liye mahatvapoorn",
+      "source": "Malay Mail",
+      "source_url": "https://www.malaymail.com/amp/news/world/2026/11/16/stop-the-delays-now-floods-worsen-gaza-crisis-as-australia-uk-canada-italy-demand-rapid-aid-access/243423",
+      "genuineness": "verified",
+      "outlets": [
+        "AFP",
+        "Arab News",
+        "Al Jazeera"
+      ],
+      "image": null,
+      "image_credit": null
+    },
+    {
+      "id": "world-20261116-1022-01",
+      "published_ist": "2026-11-16T06:11:00+05:30",
+      "headline": "Iran: US hamle ka intezar nahi karenge",
+      "detail": "Up videsh mantri Kazem Gharibabadi ne kaha Tehran baatchit, nakabandi ya yuddh — teenon ke liye taiyar hai; Hormuz kholne ki 48 ghante wali yojana abhi bhi mez par hai.",
+      "category": "World",
+      "exam_angle": "US-Iran tanav, Hormuz jaladmaru — UPSC ke liye mahatvapurna.",
+      "source": "The Times of India",
+      "source_url": "https://timesofindia.indiatimes.com/world/middle-east/iran-is-not-cuba-or-venezuela-tehran-warns-it-will-not-wait-for-us-attack-before-responding/articleshow/135868860.cms",
+      "genuineness": "corroborated",
+      "outlets": [
+        "The Times of India",
+        "Times Now"
+      ],
+      "image": null,
+      "image_credit": null
+    },
     {
       "id": "world-20261116-0630-01",
       "published_ist": "2026-11-16T05:42:00+05:30",
@@ -77,6 +165,62 @@
       "image_credit": null
     },
     {
+      "id": "world-20261116-1022-02",
+      "published_ist": "2026-11-16T04:13:00+05:30",
+      "headline": "Italy ne Meta par €805 million jurmana lagaya",
+      "detail": "Facebook app ne bina sahmati ke lagbhag 2 crore Italian Android users ki photo gallery dekhi — niyamak ne 60 din me alag sahmati ka niyam banane ko kaha, Meta appeal karega.",
+      "category": "World",
+      "exam_angle": "Data suraksha, GDPR/ePrivacy, big tech niyaman — UPSC ke liye mahatvapurna.",
+      "source": "Times Now",
+      "source_url": "https://www.timesnownews.com/world/italys-data-watchdog-fines-meta-805m-for-accessing-users-photos-without-consent-article-156516293/amp",
+      "genuineness": "verified",
+      "outlets": [
+        "Times Now",
+        "BBC",
+        "Bloomberg",
+        "AFP"
+      ],
+      "image": null,
+      "image_credit": null
+    },
+    {
+      "id": "world-20261116-1122-02",
+      "published_ist": "2026-11-16T03:45:00+05:30",
+      "headline": "Hasina ki wapsi par Gopalganj me hinsa",
+      "detail": "Sheikh Hasina ke samarthakon ne Gopalganj me police ki gaadi jalayi aur chauki todi — Hasina ne December me Bangladesh lautne ka irada jataya hai, jabki unhe maut ki saza sunayi gayi hai.",
+      "category": "World",
+      "exam_angle": "Bangladesh, Sheikh Hasina, pratyarpan — UPSC ke liye mahatvapurna.",
+      "source": "The Hindu",
+      "source_url": "https://www.thehindu.com/news/international/violent-protests-erupt-in-hasinas-hometown-as-tensions-rise-over-her-proposed-return-to-bangladesh/article71705960.ece",
+      "genuineness": "corroborated",
+      "outlets": [
+        "Press Trust of India",
+        "NDTV",
+        "News18"
+      ],
+      "image": null,
+      "image_credit": null
+    },
+    {
+      "id": "world-20261116-0926-03",
+      "published_ist": "2026-11-16T02:04:00+05:30",
+      "headline": "Teesra US carrier Middle East pahuncha",
+      "detail": "USS Theodore Roosevelt CENTCOM kshetra me dakhil hua — ab Iran nakabandi me teen US carrier; Tehran ne pehle hamle ki chetavni di.",
+      "category": "World",
+      "exam_angle": "US-Iran tanav, Hormuz nakabandi — UPSC ke liye mahatvapoorn",
+      "source": "The National",
+      "source_url": "https://www.thenationalnews.com/news/us/2026/11/16/uss-theodore-roosevelt-middle-east-centcom/",
+      "genuineness": "verified",
+      "outlets": [
+        "The National",
+        "ABC News",
+        "Al Jazeera",
+        "The Jerusalem Post"
+      ],
+      "image": null,
+      "image_credit": null
+    },
+    {
       "id": "world-20261116-0722-03",
       "published_ist": "2026-11-16T01:30:00+05:30",
       "headline": "Mexico ke 'drug godfather' Gallardo ka nidhan",
@@ -91,6 +235,24 @@
         "Al Jazeera",
         "CNN",
         "USA Today"
+      ],
+      "image": null,
+      "image_credit": null
+    },
+    {
+      "id": "world-20261116-1122-03",
+      "published_ist": "2026-11-16T00:55:00+05:30",
+      "headline": "Yemen: sarkari fauj Bab el-Mandeb se peeche hati",
+      "detail": "Saudi samarthit Southern Armed Forces ne Dhubab Airport aur Bab el-Mandeb se sainikon ko Aden ki raksha ke liye wapas bulaya — chhah hafte ka jawabi hamla khatm, Houthi ab laal sagar ke dakshini dwar par mazboot.",
+      "category": "World",
+      "exam_angle": "Bab el-Mandeb, Yemen grih yuddh, Houthi — UPSC ke liye mahatvapurna.",
+      "source": "Reuters",
+      "source_url": "https://www.reuters.com/world/middle-east/anti-houthi-forces-retreat-yemen-iran-strikes-bahrain-2026-11-15/",
+      "genuineness": "verified",
+      "outlets": [
+        "Reuters",
+        "Al Jazeera",
+        "The Maritime Executive"
       ],
       "image": null,
       "image_credit": null
@@ -204,114 +366,6 @@
         "Channel News Asia",
         "Business Times",
         "The Jerusalem Post"
-      ],
-      "image": null,
-      "image_credit": null
-    },
-    {
-      "id": "world-20261116-0926-01",
-      "published_ist": "2026-11-16T08:03:00+05:30",
-      "headline": "China ne Trump-Xi-Putin baithak ki pushti ki",
-      "detail": "19 November ko Shenzhen me APEC ke kinare pehli baar teenon neta milenge — parmanu hathiyar aur Iran par charcha hogi, Ukraine agenda se bahar.",
-      "category": "World",
-      "exam_angle": "APEC Shenzhen, trilateral shikhar — UPSC ke liye mahatvapoorn",
-      "source": "The Korea Times",
-      "source_url": "https://www.koreatimes.co.kr/world/20261116/china-confirms-first-xi-trump-putin-summit-on-thursday",
-      "genuineness": "verified",
-      "outlets": [
-        "The Korea Times",
-        "The Hindu",
-        "Channel News Asia"
-      ],
-      "image": null,
-      "image_credit": null
-    },
-    {
-      "id": "world-20261116-0926-02",
-      "published_ist": "2026-11-16T06:52:00+05:30",
-      "headline": "Chaar deshon ne Gaza me turant madad mangi",
-      "detail": "Australia, Britain, Canada aur Italy ne Israel se kaha — baadh ke baad Gaza me 1,50,000 tent seema par ruke hain, turant aur bina rok-tok madad pahunche.",
-      "category": "World",
-      "exam_angle": "Gaza manaviya sankat, antarrashtriya kanoon — UPSC ke liye mahatvapoorn",
-      "source": "Malay Mail",
-      "source_url": "https://www.malaymail.com/amp/news/world/2026/11/16/stop-the-delays-now-floods-worsen-gaza-crisis-as-australia-uk-canada-italy-demand-rapid-aid-access/243423",
-      "genuineness": "verified",
-      "outlets": [
-        "AFP",
-        "Arab News",
-        "Al Jazeera"
-      ],
-      "image": null,
-      "image_credit": null
-    },
-    {
-      "id": "world-20261116-0926-03",
-      "published_ist": "2026-11-16T02:04:00+05:30",
-      "headline": "Teesra US carrier Middle East pahuncha",
-      "detail": "USS Theodore Roosevelt CENTCOM kshetra me dakhil hua — ab Iran nakabandi me teen US carrier; Tehran ne pehle hamle ki chetavni di.",
-      "category": "World",
-      "exam_angle": "US-Iran tanav, Hormuz nakabandi — UPSC ke liye mahatvapoorn",
-      "source": "The National",
-      "source_url": "https://www.thenationalnews.com/news/us/2026/11/16/uss-theodore-roosevelt-middle-east-centcom/",
-      "genuineness": "verified",
-      "outlets": [
-        "The National",
-        "ABC News",
-        "Al Jazeera",
-        "The Jerusalem Post"
-      ],
-      "image": null,
-      "image_credit": null
-    },
-    {
-      "id": "world-20261116-1022-01",
-      "published_ist": "2026-11-16T06:11:00+05:30",
-      "headline": "Iran: US hamle ka intezar nahi karenge",
-      "detail": "Up videsh mantri Kazem Gharibabadi ne kaha Tehran baatchit, nakabandi ya yuddh — teenon ke liye taiyar hai; Hormuz kholne ki 48 ghante wali yojana abhi bhi mez par hai.",
-      "category": "World",
-      "exam_angle": "US-Iran tanav, Hormuz jaladmaru — UPSC ke liye mahatvapurna.",
-      "source": "The Times of India",
-      "source_url": "https://timesofindia.indiatimes.com/world/middle-east/iran-is-not-cuba-or-venezuela-tehran-warns-it-will-not-wait-for-us-attack-before-responding/articleshow/135868860.cms",
-      "genuineness": "corroborated",
-      "outlets": [
-        "The Times of India",
-        "Times Now"
-      ],
-      "image": null,
-      "image_credit": null
-    },
-    {
-      "id": "world-20261116-1022-02",
-      "published_ist": "2026-11-16T04:13:00+05:30",
-      "headline": "Italy ne Meta par €805 million jurmana lagaya",
-      "detail": "Facebook app ne bina sahmati ke lagbhag 2 crore Italian Android users ki photo gallery dekhi — niyamak ne 60 din me alag sahmati ka niyam banane ko kaha, Meta appeal karega.",
-      "category": "World",
-      "exam_angle": "Data suraksha, GDPR/ePrivacy, big tech niyaman — UPSC ke liye mahatvapurna.",
-      "source": "Times Now",
-      "source_url": "https://www.timesnownews.com/world/italys-data-watchdog-fines-meta-805m-for-accessing-users-photos-without-consent-article-156516293/amp",
-      "genuineness": "verified",
-      "outlets": [
-        "Times Now",
-        "BBC",
-        "Bloomberg",
-        "AFP"
-      ],
-      "image": null,
-      "image_credit": null
-    },
-    {
-      "id": "world-20261116-1022-03",
-      "published_ist": "2026-11-16T08:16:00+05:30",
-      "headline": "ASEAN ne Myanmar neta par pratibandh badhaya",
-      "detail": "Manila shikhar me netaon ne kaha Myanmar 2021 ki paanch-sutriya shanti yojana par amal me nakam raha — uske neta aur videsh mantri shikhar baithakon me shamil nahi ho sakenge.",
-      "category": "World",
-      "exam_angle": "ASEAN, Myanmar sankat, paanch-sutriya sahmati — UPSC ke liye mahatvapurna.",
-      "source": "Associated Press",
-      "source_url": "https://www.arabnews.pk/world/southeast-asian-leaders-denounce-violence-in-myanmar-and-extend-ban-on-its-leader-3007145",
-      "genuineness": "corroborated",
-      "outlets": [
-        "Associated Press",
-        "Al Jazeera"
       ],
       "image": null,
       "image_credit": null
