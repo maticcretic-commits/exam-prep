@@ -612,6 +612,65 @@
       ],
       "image": null,
       "image_credit": null
+    },
+    {
+      "id": "world-20261117-1922-01",
+      "published_ist": "2026-11-17T17:53:00+05:30",
+      "headline": "Trump: Iran hamla kare to bhari keemat",
+      "detail": "Manila me Trump ne kaha agar Iran ne Washington par hamla kiya to use aisi keemat chukani hogi jo kisi desh ne kabhi nahi chukayi; White House ne kaha filhal koi pakka khatra nahi dikh raha, Iran ne aaropon ko 'bebuniyad' batakar kharij kiya.",
+      "category": "World",
+      "exam_angle": "US-Iran yuddh, dirty bomb aur rasayanik hathiyar — UPSC ke liye mahatvapurna.",
+      "source": "The Times of India",
+      "source_url": "https://timesofindia.indiatimes.com/world/us/trump-warns-iran-will-pay-a-price-no-country-has-ever-faced-over-dirty-bomb-threat-to-washington/articleshow/135925387.cms",
+      "genuineness": "verified",
+      "outlets": [
+        "CNN",
+        "Reuters",
+        "The Times of India",
+        "The Jerusalem Post",
+        "New York Post"
+      ],
+      "image": null,
+      "image_credit": null
+    },
+    {
+      "id": "world-20261117-1922-02",
+      "published_ist": "2026-11-17T17:20:00+05:30",
+      "headline": "Jericho me golibari: 72 saal ki mahila ki maut",
+      "detail": "Duyuk al-Tahta gaon me raat ko golibari me 72 saal ki ek mahila ki maut ho gayi aur kai log ghayal hue; Filistin adhikariyon ne basne walon par aarop lagaya, Israeli sena ne kaha pehle gaadi se hamla hua tha.",
+      "category": "World",
+      "exam_angle": "West Bank, Israeli basti aur do-rashtra samadhan — UPSC ke liye upyogi.",
+      "source": "Al Arabiya",
+      "source_url": "https://english.alarabiya.net/News/middle-east/2026/11/17/israeli-settlers-kill-palestinian-woman-72-in-west-bank?utm_source=article&utm_medium=explore&utm_campaign=explore-more",
+      "genuineness": "verified",
+      "outlets": [
+        "Reuters",
+        "Al Arabiya",
+        "Haaretz",
+        "BBC"
+      ],
+      "image": null,
+      "image_credit": null
+    },
+    {
+      "id": "world-20261117-1922-03",
+      "published_ist": "2026-11-17T12:23:00+05:30",
+      "headline": "UK ne Israeli basti companiyon par pratibandh lagaye",
+      "detail": "Britain ne West Bank me basti banane wali aath companiyon aur Gaza sahayata rokne wale Tzav 9 par sampatti jabti aur nideshak pratibandh lagaye; E1 pariyojana ki boliyon se pehle yeh kadam uthaya gaya.",
+      "category": "World",
+      "exam_angle": "UK pratibandh, West Bank basti aur E1 pariyojana — UPSC ke liye upyogi.",
+      "source": "Reuters",
+      "source_url": "https://www.reuters.com/world/uk/britain-sanctions-israeli-settlement-builders-gaza-aid-blocking-activists-2026-11-17/",
+      "genuineness": "verified",
+      "outlets": [
+        "Reuters",
+        "Haaretz",
+        "The Jerusalem Post",
+        "Israel Hayom",
+        "Outlook India"
+      ],
+      "image": null,
+      "image_credit": null
     }
   ]
 }
