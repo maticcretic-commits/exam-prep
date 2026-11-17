@@ -1,6 +1,6 @@
 {
   "date": "2026-11-17",
-  "updated_ist": "2026-11-17T15:24:53+05:30",
+  "updated_ist": "2026-11-17T16:24:58+05:30",
   "items": [
     {
       "id": "world-20261117-0626-01",
@@ -515,6 +515,63 @@
         "AFP",
         "The National",
         "Al Jazeera"
+      ],
+      "image": null,
+      "image_credit": null
+    },
+    {
+      "id": "world-20261117-1622-01",
+      "published_ist": "2026-11-17T13:48:00+05:30",
+      "headline": "Zaporizhzhia par hamla: 2 ki maut, 18 ghayal",
+      "detail": "Subah ke hamle me Zaporizhzhia ke teen jilon ki audyogik imaraton par hamla hua — 2 log mare, 18 ghayal; malbe se ek mahila zinda nikali gayi.",
+      "category": "World",
+      "exam_angle": "Russia-Ukraine yuddh, nagrik nuksan — UPSC ke liye mahatvapurna.",
+      "source": "Ukrainska Pravda",
+      "source_url": "https://www.pravda.com.ua/eng/news/2026/11/17/8063226/",
+      "genuineness": "verified",
+      "outlets": [
+        "Ukrainska Pravda",
+        "Hromadske",
+        "Kyiv Post",
+        "LB.ua"
+      ],
+      "image": null,
+      "image_credit": null
+    },
+    {
+      "id": "world-20261117-1622-02",
+      "published_ist": "2026-11-17T10:00:00+05:30",
+      "headline": "Vance: Iran yuddh 'forever war' nahi hoga",
+      "detail": "Up-Rashtrapati Vance ne Fox News se kaha Trump Iran sangharsh ko lamba nahi khinchenge — 10-15 saal to door, do saal ki pratibaddhta bhi nahi hogi.",
+      "category": "World",
+      "exam_angle": "America-Iran yuddh, US videsh neeti — UPSC ke liye mahatvapurna.",
+      "source": "The Economic Times",
+      "source_url": "https://economictimes.indiatimes.com/news/international/world-news/us-vice-president-jd-vance-says-trump-will-avoid-forever-war-in-iran/articleshow/135910319.cms",
+      "genuineness": "verified",
+      "outlets": [
+        "The Economic Times",
+        "Jerusalem Post",
+        "Dawn",
+        "New York Post"
+      ],
+      "image": null,
+      "image_credit": null
+    },
+    {
+      "id": "world-20261117-1622-03",
+      "published_ist": "2026-11-17T07:08:00+05:30",
+      "headline": "South Africa: do golibari me 17 ki maut",
+      "detail": "Ravivar raat Pretoria ke paas jhopdi me 9 aur Pietermaritzburg ke paas gaadi me 8 log mare gaye; police ne dono hamlo ko asambandhit bataya, abhi koi giraftari nahi hui.",
+      "category": "World",
+      "exam_angle": "South Africa, bandook hinsa aur kanoon-vyavastha — UPSC ke liye upyogi.",
+      "source": "Dawn",
+      "source_url": "https://www.dawn.com/news/print/2045065",
+      "genuineness": "verified",
+      "outlets": [
+        "Dawn",
+        "The Nation",
+        "Bolo",
+        "Tribuna"
       ],
       "image": null,
       "image_credit": null
