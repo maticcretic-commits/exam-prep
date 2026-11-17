@@ -1,6 +1,6 @@
 {
  "date": "2026-11-17",
- "updated_ist": "2026-11-17T06:26:18+05:30",
+ "updated_ist": "2026-11-17T07:22:00+05:30",
  "items": [
   {
    "id": "world-20261117-0626-01",
@@ -51,6 +51,45 @@
    "outlets": [
     "Agence France-Presse",
     "Al Mayadeen"
+   ],
+   "image": null,
+   "image_credit": null
+  },
+  {
+   "id": "world-20261117-0722-01",
+   "published_ist": "2026-11-16T07:27:00+05:30",
+   "headline": "Trump-Xi-Putin ki pehli trilateral baithak 19 November ko",
+   "detail": "China ne pushti ki teeno neta APEC ke dauraan Shenzhen mein milenge; parmanu hathiyar katauti aur Iran par baat hogi, Ukraine par baat ki ummeed nahi.",
+   "category": "World",
+   "exam_angle": "Teen parmanu shaktiyon ki pehli trilateral baithak — UPSC ke liye mahatvapurna.",
+   "source": "The Hindu",
+   "source_url": "https://www.thehindu.com/news/international/china-confirms-first-xi-trump-putin-summit-on-november-19/article71706625.ece",
+   "genuineness": "verified",
+   "outlets": [
+    "Channel News Asia",
+    "Dawn",
+    "The Straits Times",
+    "The Hindu",
+    "Outlook India"
+   ],
+   "image": "../images/world/world-20261117-0722-01.jpg",
+   "image_credit": "The Hindu"
+  },
+  {
+   "id": "world-20261117-0722-02",
+   "published_ist": "2026-11-17T03:24:00+05:30",
+   "headline": "Europe me holiday season par US aatank chetavni",
+   "detail": "US dutavas ne kaha bheed-bhaad wale bazaar, transport hub aur pooja sthalon par hamle ka khatra hai; nagrikon ko satark rehne aur STEP me register karne ko kaha.",
+   "category": "World",
+   "exam_angle": "US travel advisory aur Europe suraksha — IR ke liye upyogi.",
+   "source": "Indian Economic Observer",
+   "source_url": "https://www.indianeconomicobserver.com/news/us-warns-americans-of-possible-terror-threats-travel-disruptions-across-europe-during-holiday-season20261117025427/",
+   "genuineness": "verified",
+   "outlets": [
+    "U.S. Embassy in Latvia",
+    "Indian Economic Observer",
+    "InvestingLive",
+    "The Alaska Story"
    ],
    "image": null,
    "image_credit": null
