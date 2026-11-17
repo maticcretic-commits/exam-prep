@@ -1,6 +1,6 @@
 {
  "date": "2026-11-17",
- "updated_ist": "2026-11-17T18:24:47+05:30",
+ "updated_ist": "2026-11-17T21:24:49+05:30",
  "items": [
   {
    "id": "world-20261117-0626-01",
@@ -705,6 +705,80 @@
    "outlets": [
     "Firstpost",
     "Outlook India"
+   ],
+   "image": null,
+   "image_credit": null
+  },
+  {
+   "id": "world-20261117-2122-01",
+   "published_ist": "2026-11-17T16:50:00+05:30",
+   "headline": "Netherlands sarkar bachi, sankat khatm",
+   "detail": "Char din ke sankat ke baad PM Rob Jetten ne kaha teeno dalon ke beech vishwas bahaal ho gaya aur alpasankhyak sarkar kaam karti rahegi; vivaad dhan kar par tha.",
+   "category": "World",
+   "exam_angle": "Europe me alpasankhyak sarkar aur gathbandhan rajneeti — UPSC ke liye mahatvapurna.",
+   "source": "Reuters",
+   "source_url": "https://www.reuters.com/world/dutch-pm-says-coalition-has-found-way-keep-going-after-crisis-talks-2026-11-17/",
+   "genuineness": "verified",
+   "outlets": [
+    "Reuters",
+    "Brussels Signal"
+   ],
+   "image": null,
+   "image_credit": null
+  },
+  {
+   "id": "world-20261117-2122-02",
+   "published_ist": "2026-11-17T16:15:00+05:30",
+   "headline": "Thaci ko 17 mahine ki aur saza",
+   "detail": "Hague ki vishesh adalat ne Kosovo ke poorv Rashtrapati Hashim Thaci ko yuddh-apradh mukadme me gawahon ko prabhavit karne par 17 mahine ki saza di; yeh unki 25 saal ki saza ke alawa hai.",
+   "category": "World",
+   "exam_angle": "Kosovo vishesh adalat aur antarrashtriya nyay — UPSC ke liye mahatvapurna.",
+   "source": "Bangkok Post",
+   "source_url": "https://www.bangkokpost.com/world/3356420/exkosovo-leader-sentenced-for-influencing-witnesses?ref=%2Fworld%2F3356420%2Fexkosovo-leader-sentenced-for-influencing-witnesses",
+   "genuineness": "verified",
+   "outlets": [
+    "Associated Press",
+    "Bangkok Post",
+    "Türkiye Today",
+    "SeeNews"
+   ],
+   "image": null,
+   "image_credit": null
+  },
+  {
+   "id": "world-20261117-2122-03",
+   "published_ist": "2026-11-17T14:48:00+05:30",
+   "headline": "Bulgaria ke paas LPG tanker dooba",
+   "detail": "Liberia ke jhande wala LPG tanker Gas Husky Bulgaria ke Black Sea tat se lagbhag 50 mile door doob gaya; 19 sadasyiya amle ko surakshit bacha liya gaya, Romania ne drone hamle ka daava kiya hai, Bulgaria ne abhi pushti nahi ki.",
+   "category": "World",
+   "exam_angle": "Black Sea me samudri suraksha aur NATO — UPSC ke liye mahatvapurna.",
+   "source": "Türkiye Today",
+   "source_url": "https://www.turkiyetoday.com/world/lpg-tanker-gas-husky-sinks-off-bulgaria-a-day-after-betul-8-went-down-3232613",
+   "genuineness": "verified",
+   "outlets": [
+    "Reuters",
+    "Türkiye Today",
+    "The Defence Blog"
+   ],
+   "image": null,
+   "image_credit": null
+  },
+  {
+   "id": "world-20261117-2122-04",
+   "published_ist": "2026-11-17T00:56:00+05:30",
+   "headline": "Paanch deshon ki Rwanda deportation yojana",
+   "detail": "Germany, Austria, Denmark, Greece aur Netherlands ne kharij sharan yachika wale logon ko Rwanda ke kendra me bhejne ki yojana ghoshit ki; pehle transfer 2027 se, manvadhikar samoohon ne virodh kiya.",
+   "category": "World",
+   "exam_angle": "EU pravasan neeti aur 'return hub' — UPSC ke liye mahatvapurna.",
+   "source": "Al Jazeera",
+   "source_url": "https://www.aljazeera.com/news/2026/11/16/five-eu-countries-announce-plan-to-send-rejected-asylum-seekers-to-rwanda?traffic_source=rss",
+   "genuineness": "verified",
+   "outlets": [
+    "Al Jazeera",
+    "CNN",
+    "The Jerusalem Post",
+    "The Manila Times",
+    "The Irish Times"
    ],
    "image": null,
    "image_credit": null
