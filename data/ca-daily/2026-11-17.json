@@ -142,6 +142,76 @@
     ],
     "answer_index": 2
    }
+  },
+  {
+   "episode": 131,
+   "video_hi": "OA3ITrj9-6Q",
+   "video_hinglish": "OA3ITrj9-6Q",
+   "capsules": [
+    {
+     "id": "ca-ep131-s1",
+     "headline_hi": "Chakravat Akvan, 20 November ko Andhra takraayega",
+     "headline_hinglish": "Chakravat Akvan, 20 November ko Andhra takraayega",
+     "detail_hi": "Bay of Bengal mein bana Akvan ati gambhir chakravat ban sakta hai, Nellore se Tuni ke beech takraane ki sambhavna hai.",
+     "detail_hinglish": "Bay of Bengal mein bana Akvan ati gambhir chakravat ban sakta hai, Nellore se Tuni ke beech takraane ki sambhavna hai.",
+     "category_hi": "Disaster",
+     "category_en": "National"
+    },
+    {
+     "id": "ca-ep131-s2",
+     "headline_hi": "Manila mein Quad shikhar, chaar neta aamne-saamne",
+     "headline_hinglish": "Manila mein Quad shikhar, chaar neta aamne-saamne",
+     "detail_hi": "Modi, Trump, Takaichi aur Albanese ASEAN shikhar ke kinare Manila mein milenge.",
+     "detail_hinglish": "Modi, Trump, Takaichi aur Albanese ASEAN shikhar ke kinare Manila mein milenge.",
+     "category_hi": "International",
+     "category_en": "National"
+    },
+    {
+     "id": "ca-ep131-s3",
+     "headline_hi": "ONGC kuan se gas risaav, 800 log surakshit nikale",
+     "headline_hinglish": "ONGC kuan se gas risaav, 800 log surakshit nikale",
+     "detail_hi": "Konaseema jile mein ONGC ke kuan se gas risaav ke baad lagbhag 800 logon ko surakshit sthan par pahunchaya gaya.",
+     "detail_hinglish": "Konaseema jile mein ONGC ke kuan se gas risaav ke baad lagbhag 800 logon ko surakshit sthan par pahunchaya gaya.",
+     "category_hi": "Energy",
+     "category_en": "National"
+    },
+    {
+     "id": "ca-ep131-s4",
+     "headline_hi": "NEET leak: CBI ka 13 aaropiyon par aarop-patra",
+     "headline_hinglish": "NEET leak: CBI ka 13 aaropiyon par aarop-patra",
+     "detail_hi": "CBI ne NEET leak mein NTA ke teen visheshagyon sahit 13 aaropiyon ke khilaf aarop-patra dakhil kiya.",
+     "detail_hinglish": "CBI ne NEET leak mein NTA ke teen visheshagyon sahit 13 aaropiyon ke khilaf aarop-patra dakhil kiya.",
+     "category_hi": "Education",
+     "category_en": "Education"
+    },
+    {
+     "id": "ca-ep131-s5",
+     "headline_hi": "Dancing Girl ko milega naya ghar, North Block",
+     "headline_hinglish": "Dancing Girl ko milega naya ghar, North Block",
+     "detail_hi": "4,500 saal purani Dancing Girl aur Nizam ke heere 2027 ke ant mein khulne wali Yuge Yugeen gallery mein jayenge.",
+     "detail_hinglish": "4,500 saal purani Dancing Girl aur Nizam ke heere 2027 ke ant mein khulne wali Yuge Yugeen gallery mein jayenge.",
+     "category_hi": "Culture",
+     "category_en": "National"
+    }
+   ],
+   "mcq": {
+    "id": "ca-ep131-mcq",
+    "q_hi": "Cyclone Akvan Andhra Pradesh ke kinare par kab takraane ki sambhavna hai?",
+    "q_hinglish": "Cyclone Akvan Andhra Pradesh ke kinare par kab takraane ki sambhavna hai?",
+    "options_hi": [
+     "18 November",
+     "20 November",
+     "22 November",
+     "25 November"
+    ],
+    "options_hinglish": [
+     "18 November",
+     "20 November",
+     "22 November",
+     "25 November"
+    ],
+    "answer_index": 1
+   }
   }
  ]
 }
