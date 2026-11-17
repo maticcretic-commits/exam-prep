@@ -212,6 +212,76 @@
     ],
     "answer_index": 1
    }
+  },
+  {
+   "episode": 132,
+   "video_hi": "NUMJuTkjqJk",
+   "video_hinglish": "NUMJuTkjqJk",
+   "capsules": [
+    {
+     "id": "ca-ep132-s1",
+     "headline_hi": "Tarali jal-vidyut par Maharashtra ki rok",
+     "headline_hinglish": "Tarali jal-vidyut par Maharashtra ki rok",
+     "detail_hi": "Vanya-jeevan swikriti ke bina Adani ki Tarali jal-vidyut pariyojana par Maharashtra ne rok laga di.",
+     "detail_hinglish": "Vanya-jeevan swikriti ke bina Adani ki Tarali jal-vidyut pariyojana par Maharashtra ne rok laga di.",
+     "category_hi": "Environment",
+     "category_en": "Environment"
+    },
+    {
+     "id": "ca-ep132-s2",
+     "headline_hi": "Cyber hamla: 178 badi websites nishana bani",
+     "headline_hinglish": "Cyber hamla: 178 badi websites nishana bani",
+     "detail_hi": "Optimizely ke zariye BBC, CNN aur HSBC jaise 178 sites par hamla, crypto aur card data chori ki koshish hui.",
+     "detail_hinglish": "Optimizely ke zariye BBC, CNN aur HSBC jaise 178 sites par hamla, crypto aur card data chori ki koshish hui.",
+     "category_hi": "Technology",
+     "category_en": "Technology"
+    },
+    {
+     "id": "ca-ep132-s3",
+     "headline_hi": "Shenzhen mein pehla Xi-Trump-Putin shikhar",
+     "headline_hinglish": "Shenzhen mein pehla Xi-Trump-Putin shikhar",
+     "detail_hi": "China ne 19 November ko Shenzhen mein America aur Russia ke saath pehli tri-pakshiya shikhar baithak ki pushti ki.",
+     "detail_hinglish": "China ne 19 November ko Shenzhen mein America aur Russia ke saath pehli tri-pakshiya shikhar baithak ki pushti ki.",
+     "category_hi": "International",
+     "category_en": "National"
+    },
+    {
+     "id": "ca-ep132-s4",
+     "headline_hi": "Jay Shah ICC adhyaksh, dusri baar chune gaye",
+     "headline_hinglish": "Jay Shah ICC adhyaksh, dusri baar chune gaye",
+     "detail_hi": "ICC board ne Jay Shah ko dusri baar bina virodh adhyaksh chuna, prastav Bali baithak mein rakha gaya.",
+     "detail_hinglish": "ICC board ne Jay Shah ko dusri baar bina virodh adhyaksh chuna, prastav Bali baithak mein rakha gaya.",
+     "category_hi": "Sports",
+     "category_en": "Sports"
+    },
+    {
+     "id": "ca-ep132-s5",
+     "headline_hi": "Sensex 82,104 paar, rupaya 93.92 par",
+     "headline_hinglish": "Sensex 82,104 paar, rupaya 93.92 par",
+     "detail_hi": "Sensex 512 ank chadhkar 82,104 par band hua, Nifty 25,291 par, rupaya 27 paise majboot hokar 93.92 par raha.",
+     "detail_hinglish": "Sensex 512 ank chadhkar 82,104 par band hua, Nifty 25,291 par, rupaya 27 paise majboot hokar 93.92 par raha.",
+     "category_hi": "Economy",
+     "category_en": "Economy"
+    }
+   ],
+   "mcq": {
+    "id": "ca-ep132-mcq",
+    "q_hi": "Optimizely cyber hamle mein kitni badi websites nishana bani?",
+    "q_hinglish": "Optimizely cyber hamle mein kitni badi websites nishana bani?",
+    "options_hi": [
+     "98",
+     "128",
+     "178",
+     "228"
+    ],
+    "options_hinglish": [
+     "98",
+     "128",
+     "178",
+     "228"
+    ],
+    "answer_index": 2
+   }
   }
  ]
 }
