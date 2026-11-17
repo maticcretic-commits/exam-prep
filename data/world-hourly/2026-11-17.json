@@ -277,6 +277,59 @@
       ],
       "image": null,
       "image_credit": null
+    },
+    {
+      "id": "world-20261117-1126-01",
+      "published_ist": "2026-11-17T09:46:00+05:30",
+      "headline": "Canada-China: vyapar samjhota, tariff me katauti",
+      "detail": "Carney-Xi mulakat ke baad China ne Canada ke suar ka maas aur seafood par tariff ghataaya; Canada ne cheeni steel par riyaayat badhaayi.",
+      "category": "World",
+      "exam_angle": "US tariff ke beech Canada-China vyapar — APEC aur vyapar yuddh pariksha ke liye mahatvapurna.",
+      "source": "Reuters",
+      "source_url": "https://duke.fm/2026/11/16/china-canada-relations-more-stable-carney-says-as-he-meets-xi/",
+      "genuineness": "corroborated",
+      "outlets": [
+        "Reuters",
+        "WION"
+      ],
+      "image": null,
+      "image_credit": null
+    },
+    {
+      "id": "world-20261117-1126-02",
+      "published_ist": "2026-11-17T02:41:00+05:30",
+      "headline": "Indonesia ke paas 6.6 teevrata ka bhookamp",
+      "detail": "Banda Sea me Tual ke paas 6.6 teevrata ka bhookamp aaya, Australia tak jhatke mehsoos hue; sunami ka khatra nahi hai.",
+      "category": "World",
+      "exam_angle": "USGS aur BMKG ke alag aaklan — bhookamp mapan aur sunami chetavni pariksha ke liye mahatvapurna.",
+      "source": "The Watchers",
+      "source_url": "https://watchers.news/2026/11/17/m6-6-earthquake-banda-sea-tual-indonesia-november-16-2026/",
+      "genuineness": "verified",
+      "outlets": [
+        "USGS",
+        "BMKG",
+        "EMSC"
+      ],
+      "image": null,
+      "image_credit": null
+    },
+    {
+      "id": "world-20261117-1126-03",
+      "published_ist": "2026-11-17T00:37:00+05:30",
+      "headline": "Japan ne Russian vimanon par ladaku viman bheje",
+      "detail": "Do sandehspad Russian viman Japan ke hawai kshetra me ghuse, Tokyo ne Moscow se kadha virodh jataaya.",
+      "category": "World",
+      "exam_angle": "APEC se pehle Japan-Russia tanaav — kshetriya suraksha pariksha ke liye mahatvapurna.",
+      "source": "Channel News Asia",
+      "source_url": "https://www.channelnewsasia.com/east-asia/japan-scrambles-jets-russia-planes-enter-airspace-6557516",
+      "genuineness": "verified",
+      "outlets": [
+        "Reuters",
+        "AFP",
+        "Channel News Asia"
+      ],
+      "image": null,
+      "image_credit": null
     }
   ]
 }
