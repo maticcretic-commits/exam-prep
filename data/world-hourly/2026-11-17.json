@@ -1,6 +1,6 @@
 {
   "date": "2026-11-17",
-  "updated_ist": "2026-11-17T17:23:50+05:30",
+  "updated_ist": "2026-11-17T18:24:47+05:30",
   "items": [
     {
       "id": "world-20261117-0626-01",
@@ -591,6 +591,24 @@
         "AP",
         "AFP",
         "TRT World"
+      ],
+      "image": null,
+      "image_credit": null
+    },
+    {
+      "id": "world-20261117-1822-01",
+      "published_ist": "2026-11-17T15:10:00+05:30",
+      "headline": "Tara Gas par doosra hamla, 1 Bharatiya lapata",
+      "detail": "Hormuz ke paas Panama ke LPG tanker Tara Gas par doosra hamla hua; 25 ka dal jahaz chhodkar nikla, 24 surakshit mile, 1 Bharatiya navik lapata hai.",
+      "category": "World",
+      "exam_angle": "Hormuz, tel vyapar, samudri suraksha — UPSC ke liye mahatvapurna.",
+      "source": "Gulf News",
+      "source_url": "https://gulfnews.com/world/mena/middle-east-conflict-tanker-incident-near-hormuz-as-vance-rules-out-forever-war-1.500749924",
+      "genuineness": "verified",
+      "outlets": [
+        "Gulf News",
+        "Al Jazeera",
+        "UKMTO"
       ],
       "image": null,
       "image_credit": null
