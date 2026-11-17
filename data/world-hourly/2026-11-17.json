@@ -1,0 +1,59 @@
+{
+ "date": "2026-11-17",
+ "updated_ist": "2026-11-17T06:26:18+05:30",
+ "items": [
+  {
+   "id": "world-20261117-0626-01",
+   "published_ist": "2026-11-17T04:02:00+05:30",
+   "headline": "Hormuz me chauthe tanker me aag",
+   "detail": "Iran ki nausena ne kaha pichhle 24 ghante me chautha tanker Hormuz ke paas samudri mine se takrakar jal utha; UKMTO ne Oman ke paas ek aur tanker par hamle ki bhi khabar di, uska amla surakshit hai.",
+   "category": "World",
+   "exam_angle": "Hormuz, tel vyapar, samudri suraksha — UPSC ke liye mahatvapurna.",
+   "source": "The Tribune",
+   "source_url": "https://www.tribuneindia.com/news/world/fourth-oil-tanker-catches-fire-in-hormuz-after-hitting-naval-mine-says-iranian-navy/",
+   "genuineness": "verified",
+   "outlets": [
+    "Reuters",
+    "Asian News International",
+    "Press TV"
+   ],
+   "image": null,
+   "image_credit": null
+  },
+  {
+   "id": "world-20261117-0626-02",
+   "published_ist": "2026-11-17T03:35:00+05:30",
+   "headline": "Russia ne Kyiv ke do pulon par hamla kiya",
+   "detail": "Mayor Klitschko ke mutabik der raat Dnipro nadi ke uttari aur dakshini pulon par hamle hue, shahar ke kuchh hisson me pani-bijli band; Zelenskyy ne pehle hi bade hamle ki chetavni di thi.",
+   "category": "World",
+   "exam_angle": "Russia-Ukraine yuddh, Kyiv — UPSC ke liye mahatvapurna.",
+   "source": "Reuters",
+   "source_url": "https://www.reuters.com/world/kyiv-mayor-klitschko-says-russian-forces-struck-two-bridges-across-dnipro-river-2026-11-16/",
+   "genuineness": "verified",
+   "outlets": [
+    "Reuters",
+    "Kyiv Independent",
+    "TRT World"
+   ],
+   "image": null,
+   "image_credit": null
+  },
+  {
+   "id": "world-20261117-0626-03",
+   "published_ist": "2026-11-16T14:14:00+05:30",
+   "headline": "WHO: dawai-pratirodh se 2050 tak 3.9 crore maut",
+   "detail": "WHO ne chetavni di ki antimicrobial resistance aadhunik chikitsa ke liye khatra hai; 2021 me isse 10 lakh se zyada mautein seedhe taur par hui thin, aur 2030 ke lakshya se ladai peechhe hai.",
+   "category": "World",
+   "exam_angle": "AMR, WHO, swasthya — UPSC ke liye mahatvapurna.",
+   "source": "Malay Mail",
+   "source_url": "https://www.malaymail.com/news/world/2026/11/16/who-sounds-alarm-over-antimicrobial-resistance-warns-it-could-kill-39-million-by-2050/243496",
+   "genuineness": "corroborated",
+   "outlets": [
+    "Agence France-Presse",
+    "Al Mayadeen"
+   ],
+   "image": null,
+   "image_credit": null
+  }
+ ]
+}
