@@ -1,6 +1,6 @@
 {
   "date": "2026-11-17",
-  "updated_ist": "2026-11-17T10:28:16+05:30",
+  "updated_ist": "2026-11-17T12:24:07+05:30",
   "items": [
     {
       "id": "world-20261117-0626-01",
@@ -327,6 +327,43 @@
         "Reuters",
         "AFP",
         "Channel News Asia"
+      ],
+      "image": null,
+      "image_credit": null
+    },
+    {
+      "id": "world-20261117-1222-01",
+      "published_ist": "2026-11-17T09:09:00+05:30",
+      "headline": "Manila me Quad netaon ki baithak",
+      "detail": "Trump aaj Manila pahunche; America, Bharat, Japan aur Australia ke netaon ki do saal me pehli aamne-saamne baithak — samudri suraksha aur critical minerals par charcha.",
+      "category": "World",
+      "exam_angle": "Quad — Bharat, America, Japan, Australia; Indo-Pacific aur samudri suraksha pariksha ke liye mahatvapurna.",
+      "source": "Reuters",
+      "source_url": "https://www.gmanetwork.com/news/topstories/nation/1009760/trump-to-kick-off-asia-trip-with-quad-talks-in-manila-ahead-of-china-visit/story/?just_in",
+      "genuineness": "verified",
+      "outlets": [
+        "Reuters",
+        "Rappler",
+        "The New Indian Express"
+      ],
+      "image": null,
+      "image_credit": null
+    },
+    {
+      "id": "world-20261117-1222-02",
+      "published_ist": "2026-11-15T13:26:00+05:30",
+      "headline": "China ka pehla electric yatri viman uda",
+      "detail": "COMAC ka 19-seat CE-25A electric viman 14 November ko pehli baar pilot ke saath uda — 16 minute hawa me, 60 km ki udaan; abhi certification baaki hai.",
+      "category": "World",
+      "exam_angle": "Duniya ka pehla 19-seat electric yatri viman — harit aviation aur China ki tech pragati pariksha ke liye mahatvapurna.",
+      "source": "Reuters",
+      "source_url": "https://www.ndtv.com/world-news/chinas-22-000-pound-electric-aircraft-reaches-key-milestone-with-first-manned-flight-12329498",
+      "genuineness": "verified",
+      "outlets": [
+        "Reuters",
+        "NDTV",
+        "CNBC-TV18",
+        "Simple Flying"
       ],
       "image": null,
       "image_credit": null
