@@ -72,6 +72,76 @@
     ],
     "answer_index": 1
    }
+  },
+  {
+   "episode": 130,
+   "video_hi": "zf-ZKsFTt_I",
+   "video_hinglish": "zf-ZKsFTt_I",
+   "capsules": [
+    {
+     "id": "ca-ep130-s1",
+     "headline_hi": "Delhi ki hawa zehreeli, AQI 382 par",
+     "headline_hinglish": "Delhi ki hawa zehreeli, AQI 382 par",
+     "detail_hi": "GRAP ke tahat school online hue, ghar se kaam ki salah di gayi.",
+     "detail_hinglish": "GRAP ke tahat school online hue, ghar se kaam ki salah di gayi.",
+     "category_hi": "Environment",
+     "category_en": "Environment"
+    },
+    {
+     "id": "ca-ep130-s2",
+     "headline_hi": "Janganana portal par 287 anya dharm soochibaddh",
+     "headline_hinglish": "Janganana portal par 287 anya dharm soochibaddh",
+     "detail_hi": "Census 2027 ke self-enumeration portal par ISKCON, Sanatan aur Sarna jaise naam dikhe.",
+     "detail_hinglish": "Census 2027 ke self-enumeration portal par ISKCON, Sanatan aur Sarna jaise naam dikhe.",
+     "category_hi": "Polity",
+     "category_en": "Polity"
+    },
+    {
+     "id": "ca-ep130-s3",
+     "headline_hi": "Bharat ka harit lakshya 5 saal pehle poora",
+     "headline_hinglish": "Bharat ka harit lakshya 5 saal pehle poora",
+     "detail_hi": "Prince William ne kaha, non-fossil bijli ki 50% kshamata ka lakshya samay se pehle poora hua.",
+     "detail_hinglish": "Prince William ne kaha, non-fossil bijli ki 50% kshamata ka lakshya samay se pehle poora hua.",
+     "category_hi": "Environment",
+     "category_en": "Environment"
+    },
+    {
+     "id": "ca-ep130-s4",
+     "headline_hi": "Diesel aur jet fuel par niryat shulk badha",
+     "headline_hinglish": "Diesel aur jet fuel par niryat shulk badha",
+     "detail_hi": "Diesel par shulk 11.5 se 14 rupaye prati litre, jet fuel par 12.5 rupaye hua.",
+     "detail_hinglish": "Diesel par shulk 11.5 se 14 rupaye prati litre, jet fuel par 12.5 rupaye hua.",
+     "category_hi": "Economy",
+     "category_en": "Economy"
+    },
+    {
+     "id": "ca-ep130-s5",
+     "headline_hi": "Navy ka Sea Vigil abhyas, 26/11 ka punah-abhinay",
+     "headline_hinglish": "Navy ka Sea Vigil abhyas, 26/11 ka punah-abhinay",
+     "detail_hi": "Kolkata mein samudri suraksha abhyas mein 26/11 hamle ke halaat ko dobara jeevant kiya jayega.",
+     "detail_hinglish": "Kolkata mein samudri suraksha abhyas mein 26/11 hamle ke halaat ko dobara jeevant kiya jayega.",
+     "category_hi": "Defence",
+     "category_en": "Defence"
+    }
+   ],
+   "mcq": {
+    "id": "ca-ep130-mcq",
+    "q_hi": "Bharat ne 50% non-fossil kshamata ka lakshya kitne saal pehle haasil kiya?",
+    "q_hinglish": "Bharat ne 50% non-fossil kshamata ka lakshya kitne saal pehle haasil kiya?",
+    "options_hi": [
+     "2 saal",
+     "3 saal",
+     "5 saal",
+     "7 saal"
+    ],
+    "options_hinglish": [
+     "2 saal",
+     "3 saal",
+     "5 saal",
+     "7 saal"
+    ],
+    "answer_index": 2
+   }
   }
  ]
 }
