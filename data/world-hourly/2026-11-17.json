@@ -1,787 +1,855 @@
-{
- "date": "2026-11-17",
- "updated_ist": "2026-11-17T21:24:49+05:30",
- "items": [
-  {
-   "id": "world-20261117-0626-01",
-   "published_ist": "2026-11-17T04:02:00+05:30",
-   "headline": "Hormuz me chauthe tanker me aag",
-   "detail": "Iran ki nausena ne kaha pichhle 24 ghante me chautha tanker Hormuz ke paas samudri mine se takrakar jal utha; UKMTO ne Oman ke paas ek aur tanker par hamle ki bhi khabar di, uska amla surakshit hai.",
-   "category": "World",
-   "exam_angle": "Hormuz, tel vyapar, samudri suraksha — UPSC ke liye mahatvapurna.",
-   "source": "The Tribune",
-   "source_url": "https://www.tribuneindia.com/news/world/fourth-oil-tanker-catches-fire-in-hormuz-after-hitting-naval-mine-says-iranian-navy/",
-   "genuineness": "verified",
-   "outlets": [
-    "Reuters",
-    "Asian News International",
-    "Press TV"
-   ],
-   "image": null,
-   "image_credit": null
-  },
-  {
-   "id": "world-20261117-0626-02",
-   "published_ist": "2026-11-17T03:35:00+05:30",
-   "headline": "Russia ne Kyiv ke do pulon par hamla kiya",
-   "detail": "Mayor Klitschko ke mutabik der raat Dnipro nadi ke uttari aur dakshini pulon par hamle hue, shahar ke kuchh hisson me pani-bijli band; Zelenskyy ne pehle hi bade hamle ki chetavni di thi.",
-   "category": "World",
-   "exam_angle": "Russia-Ukraine yuddh, Kyiv — UPSC ke liye mahatvapurna.",
-   "source": "Reuters",
-   "source_url": "https://www.reuters.com/world/kyiv-mayor-klitschko-says-russian-forces-struck-two-bridges-across-dnipro-river-2026-11-16/",
-   "genuineness": "verified",
-   "outlets": [
-    "Reuters",
-    "Kyiv Independent",
-    "TRT World"
-   ],
-   "image": null,
-   "image_credit": null
-  },
-  {
-   "id": "world-20261117-0626-03",
-   "published_ist": "2026-11-16T14:14:00+05:30",
-   "headline": "WHO: dawai-pratirodh se 2050 tak 3.9 crore maut",
-   "detail": "WHO ne chetavni di ki antimicrobial resistance aadhunik chikitsa ke liye khatra hai; 2021 me isse 10 lakh se zyada mautein seedhe taur par hui thin, aur 2030 ke lakshya se ladai peechhe hai.",
-   "category": "World",
-   "exam_angle": "AMR, WHO, swasthya — UPSC ke liye mahatvapurna.",
-   "source": "Malay Mail",
-   "source_url": "https://www.malaymail.com/news/world/2026/11/16/who-sounds-alarm-over-antimicrobial-resistance-warns-it-could-kill-39-million-by-2050/243496",
-   "genuineness": "corroborated",
-   "outlets": [
-    "Agence France-Presse",
-    "Al Mayadeen"
-   ],
-   "image": null,
-   "image_credit": null
-  },
-  {
-   "id": "world-20261117-0722-01",
-   "published_ist": "2026-11-16T07:27:00+05:30",
-   "headline": "Trump-Xi-Putin ki pehli trilateral baithak 19 November ko",
-   "detail": "China ne pushti ki teeno neta APEC ke dauraan Shenzhen mein milenge; parmanu hathiyar katauti aur Iran par baat hogi, Ukraine par baat ki ummeed nahi.",
-   "category": "World",
-   "exam_angle": "Teen parmanu shaktiyon ki pehli trilateral baithak — UPSC ke liye mahatvapurna.",
-   "source": "The Hindu",
-   "source_url": "https://www.thehindu.com/news/international/china-confirms-first-xi-trump-putin-summit-on-november-19/article71706625.ece",
-   "genuineness": "verified",
-   "outlets": [
-    "Channel News Asia",
-    "Dawn",
-    "The Straits Times",
-    "The Hindu",
-    "Outlook India"
-   ],
-   "image": "../images/world/world-20261117-0722-01.jpg",
-   "image_credit": "The Hindu"
-  },
-  {
-   "id": "world-20261117-0722-02",
-   "published_ist": "2026-11-17T03:24:00+05:30",
-   "headline": "Europe me holiday season par US aatank chetavni",
-   "detail": "US dutavas ne kaha bheed-bhaad wale bazaar, transport hub aur pooja sthalon par hamle ka khatra hai; nagrikon ko satark rehne aur STEP me register karne ko kaha.",
-   "category": "World",
-   "exam_angle": "US travel advisory aur Europe suraksha — IR ke liye upyogi.",
-   "source": "Indian Economic Observer",
-   "source_url": "https://www.indianeconomicobserver.com/news/us-warns-americans-of-possible-terror-threats-travel-disruptions-across-europe-during-holiday-season20261117025427/",
-   "genuineness": "verified",
-   "outlets": [
-    "U.S. Embassy in Latvia",
-    "Indian Economic Observer",
-    "InvestingLive",
-    "The Alaska Story"
-   ],
-   "image": null,
-   "image_credit": null
-  },
-  {
-   "id": "world-20261117-0822-01",
-   "published_ist": "2026-11-17T07:25:00+05:30",
-   "headline": "America ke bade banks ki seva thap",
-   "detail": "Chase, Bank of America aur Wells Fargo ki online seva me dikkat aayi; JPMorgan ne software bug ko wajah bataya aur cyber hamle se inkar kiya, khate aur rakam surakshit bataye.",
-   "category": "World",
-   "exam_angle": "Banking system, digital payment aur cyber-suraksha — UPSC ke liye mahatvapurna.",
-   "source": "WION",
-   "source_url": "https://www.wionews.com/world/please-try-back-later-major-us-banks-face-service-outage-days-after-nationwide-flight-disruptions-and-microsoft-global-outage-what-s-happening-1794879537592/amp",
-   "genuineness": "verified",
-   "outlets": [
-    "Barron's",
-    "WION",
-    "The Economic Times",
-    "NDTV Profit"
-   ],
-   "image": null,
-   "image_credit": null
-  },
-  {
-   "id": "world-20261117-0822-02",
-   "published_ist": "2026-11-17T06:10:00+05:30",
-   "headline": "Crimean Bridge par doosri baar hamla",
-   "detail": "24 ghante me doosri baar Kerch Bridge par hamla hua; Crimea ke governor ne traffic band karne ki pushti ki, nuksan ki matra abhi saaf nahi hai.",
-   "category": "World",
-   "exam_angle": "Kerch Bridge — Russia-Crimea supply route, UPSC ke liye mahatvapurna.",
-   "source": "Kyiv Independent",
-   "source_url": "https://kyivindependent.com/ukrainian-forces-reportedly-strike-crimean-bridge-after-russian-missiles-hit-kyiv-bridges/",
-   "genuineness": "verified",
-   "outlets": [
-    "Kyiv Independent",
-    "Kyiv Post",
-    "The New Voice of Ukraine",
-    "The Thursday Times"
-   ],
-   "image": "../images/world/world-20261117-0822-02.jpg",
-   "image_credit": "Alexxx1979, Wikimedia Commons (CC BY-SA 4.0)"
-  },
-  {
-   "id": "world-20261117-0922-01",
-   "published_ist": "2026-11-17T06:25:00+05:30",
-   "headline": "US court ne chhatra visa seema radd ki",
-   "detail": "Boston ke Judge Saylor ne DHS ka niyam 'arbitrary, capricious' batakar radd kiya; chhatron ki 4 saal ki seema aur patrakaron ki 240 din ki seema khatm ho gayi.",
-   "category": "World",
-   "exam_angle": "US immigration, F-1/J-1/I visa niyam — UPSC ke liye mahatvapurna.",
-   "source": "The Hindu",
-   "source_url": "https://www.thehindu.com/news/international/us-federal-court-strikes-down-fixed-terms-for-student-exchange-visas/article71710228.ece",
-   "genuineness": "verified",
-   "outlets": [
-    "The Hindu",
-    "The Economic Times",
-    "Times Now",
-    "The Times of India",
-    "Malay Mail"
-   ],
-   "image": null,
-   "image_credit": null
-  },
-  {
-   "id": "world-20261117-0922-02",
-   "published_ist": "2026-11-16T21:45:00+05:30",
-   "headline": "US hawai yatra phir lagbhag samanya hui",
-   "detail": "Somvar ko sirf 350 udanein radd hui — Shukravar ko 9,200 radd hui thin; chaar ghante ka deshvyapi ground stop 9/11 ke baad sabse lamba tha.",
-   "category": "World",
-   "exam_angle": "US aviation, FAA, hawai suraksha — UPSC ke liye upyogi.",
-   "source": "Channel News Asia",
-   "source_url": "https://www.channelnewsasia.com/world/us-flights-delays-cancellations-normal-airport-6556301",
-   "genuineness": "verified",
-   "outlets": [
-    "Agence France-Presse",
-    "Kuwait Times",
-    "Daily VOA"
-   ],
-   "image": null,
-   "image_credit": null
-  },
-  {
-   "id": "world-20261117-0922-03",
-   "published_ist": "2026-11-17T02:12:00+05:30",
-   "headline": "Kushner: Ukraine shanti vaarta me pragati",
-   "detail": "US doot Kushner ne kaha yuddh khatm karne ki disha me pragati ho rahi hai; suraksha guarantee, EU sadasyata aur punarnirman — teen stambh bataye.",
-   "category": "World",
-   "exam_angle": "Ukraine shanti vaarta, US-Russia-EU — UPSC ke liye mahatvapurna.",
-   "source": "The Tribune",
-   "source_url": "https://www.tribuneindia.com/news/usa-news/making-progress-us-envoy-kushner-outlines-three-pillars-for-ukraines-future-amid-peace-talks/",
-   "genuineness": "corroborated",
-   "outlets": [
-    "Reuters",
-    "The Tribune (ANI)"
-   ],
-   "image": null,
-   "image_credit": null
-  },
-  {
-   "id": "world-20261117-0922-04",
-   "published_ist": "2026-11-17T01:47:00+05:30",
-   "headline": "Russia ko North Korea se har mahine missile",
-   "detail": "Zelensky ne kaha Russia ko North Korea se har mahine darjanon ballistic missile mil rahi hain; Ukraine ko bhi barabar ke hathiyar chahiye.",
-   "category": "World",
-   "exam_angle": "Russia-North Korea sainya sahyog, missile — UPSC ke liye mahatvapurna.",
-   "source": "The Tribune",
-   "source_url": "https://www.tribuneindia.com/news/world/ukraine-needs-clear-parity-to-respond-to-russian-threat-zelenskyy-seeks-supply-of-comparable-weapons-from-allies/",
-   "genuineness": "corroborated",
-   "outlets": [
-    "Kyiv Post",
-    "The Tribune (ANI)"
-   ],
-   "image": null,
-   "image_credit": null
-  },
-  {
-   "id": "world-20261117-1022-02",
-   "published_ist": "2026-11-17T07:12:00+05:30",
-   "headline": "Pope Leo ki South America yatra khatm",
-   "detail": "12 din, 50 karyakram aur 1.3 crore log — Lima me 15 lakh ki antim Mass ke saath Pope Leo ne Uruguay, Argentina aur Peru ki yatra samapt ki, phaphde ki surgery ke ek mahine baad.",
-   "category": "World",
-   "exam_angle": "Pope Leo XIV, Vatican aur Latin America — UPSC ke liye upyogi.",
-   "source": "Reuters",
-   "source_url": "https://www.reuters.com/world/americas/pope-leo-ends-south-america-tour-that-drew-millions-with-one-final-vast-crowd-2026-11-16/",
-   "genuineness": "verified",
-   "outlets": [
-    "Reuters",
-    "Geo TV",
-    "France 24",
-    "The Times"
-   ],
-   "image": "../images/world/world-20261117-1022-02.jpg",
-   "image_credit": "GORE Callao, Wikimedia Commons (Public domain)"
-  },
-  {
-   "id": "world-20261117-1022-04",
-   "published_ist": "2026-11-17T06:18:00+05:30",
-   "headline": "United Airlines me gadbad, 418 udaan deri se",
-   "detail": "United Airlines ne kaha takniki gadbadi se uski udaanen deri se chali; FlightAware ke mutabik 418 udaanen deri se aur 21 radd hui, cyber hamle ka sanket nahi.",
-   "category": "World",
-   "exam_angle": "US aviation, FAA aur airline suraksha — UPSC ke liye upyogi.",
-   "source": "Reuters",
-   "source_url": "https://www.reuters.com/world/us/united-airlines-says-technology-issue-affecting-departing-flights-2026-11-16/",
-   "genuineness": "verified",
-   "outlets": [
-    "Reuters",
-    "AP",
-    "The Economic Times"
-   ],
-   "image": null,
-   "image_credit": null
-  },
-  {
-   "id": "world-20261117-1022-03",
-   "published_ist": "2026-11-17T05:51:00+05:30",
-   "headline": "Moyale jhadap: 50,000 log Kenya bhaage",
-   "detail": "Ethiopia ke Oromia-Somali seema vivad par Moyale me hinsa bhadki; UNHCR ke mutabik 22 October se 50,000 tak log Kenya bhaag chuke hain, zyadatar mahilayen aur bachche.",
-   "category": "World",
-   "exam_angle": "Ethiopia-Kenya seema, UNHCR aur sharanarthi sankat — UPSC ke liye upyogi.",
-   "source": "Al Jazeera",
-   "source_url": "https://www.aljazeera.com/amp/news/2026/11/17/ethiopia-moyale-clashes-disrupt-livelihoods-as-territorial-dispute-deepens",
-   "genuineness": "verified",
-   "outlets": [
-    "Al Jazeera",
-    "UNHCR",
-    "Citizen Digital"
-   ],
-   "image": null,
-   "image_credit": null
-  },
-  {
-   "id": "world-20261117-1022-01",
-   "published_ist": "2026-11-16T20:48:00+05:30",
-   "headline": "Trump: China me Kim se mil sakte hain",
-   "detail": "Trump ne kaha Xi Jinping chahein to Kim Jong Un bhi Shenzhen aa sakte hain; 19 November ki Xi-Trump-Putin baithak se pehle yeh sanket aaya, jabki Pyongyang ne baatchit se inkar kiya hai.",
-   "category": "World",
-   "exam_angle": "APEC, US-China-Russia trilateral aur North Korea — UPSC ke liye mahatvapurna.",
-   "source": "WION",
-   "source_url": "https://www.wionews.com/world/we-have-a-chance-did-trump-just-reveal-his-secret-plan-to-meet-north-korea-s-kim-jong-un-in-china-1794841093629/amp",
-   "genuineness": "verified",
-   "outlets": [
-    "WION",
-    "The Korea Times",
-    "The Straits Times",
-    "The Tribune"
-   ],
-   "image": null,
-   "image_credit": null
-  },
-  {
-   "id": "world-20261117-1126-01",
-   "published_ist": "2026-11-17T09:46:00+05:30",
-   "headline": "Canada-China: vyapar samjhota, tariff me katauti",
-   "detail": "Carney-Xi mulakat ke baad China ne Canada ke suar ka maas aur seafood par tariff ghataaya; Canada ne cheeni steel par riyaayat badhaayi.",
-   "category": "World",
-   "exam_angle": "US tariff ke beech Canada-China vyapar — APEC aur vyapar yuddh pariksha ke liye mahatvapurna.",
-   "source": "Reuters",
-   "source_url": "https://duke.fm/2026/11/16/china-canada-relations-more-stable-carney-says-as-he-meets-xi/",
-   "genuineness": "corroborated",
-   "outlets": [
-    "Reuters",
-    "WION"
-   ],
-   "image": null,
-   "image_credit": null
-  },
-  {
-   "id": "world-20261117-1126-02",
-   "published_ist": "2026-11-17T02:41:00+05:30",
-   "headline": "Indonesia ke paas 6.6 teevrata ka bhookamp",
-   "detail": "Banda Sea me Tual ke paas 6.6 teevrata ka bhookamp aaya, Australia tak jhatke mehsoos hue; sunami ka khatra nahi hai.",
-   "category": "World",
-   "exam_angle": "USGS aur BMKG ke alag aaklan — bhookamp mapan aur sunami chetavni pariksha ke liye mahatvapurna.",
-   "source": "The Watchers",
-   "source_url": "https://watchers.news/2026/11/17/m6-6-earthquake-banda-sea-tual-indonesia-november-16-2026/",
-   "genuineness": "verified",
-   "outlets": [
-    "USGS",
-    "BMKG",
-    "EMSC"
-   ],
-   "image": null,
-   "image_credit": null
-  },
-  {
-   "id": "world-20261117-1126-03",
-   "published_ist": "2026-11-17T00:37:00+05:30",
-   "headline": "Japan ne Russian vimanon par ladaku viman bheje",
-   "detail": "Do sandehspad Russian viman Japan ke hawai kshetra me ghuse, Tokyo ne Moscow se kadha virodh jataaya.",
-   "category": "World",
-   "exam_angle": "APEC se pehle Japan-Russia tanaav — kshetriya suraksha pariksha ke liye mahatvapurna.",
-   "source": "Channel News Asia",
-   "source_url": "https://www.channelnewsasia.com/east-asia/japan-scrambles-jets-russia-planes-enter-airspace-6557516",
-   "genuineness": "verified",
-   "outlets": [
-    "Reuters",
-    "AFP",
-    "Channel News Asia"
-   ],
-   "image": null,
-   "image_credit": null
-  },
-  {
-   "id": "world-20261117-1222-01",
-   "published_ist": "2026-11-17T09:09:00+05:30",
-   "headline": "Manila me Quad netaon ki baithak",
-   "detail": "Trump aaj Manila pahunche; America, Bharat, Japan aur Australia ke netaon ki do saal me pehli aamne-saamne baithak — samudri suraksha aur critical minerals par charcha.",
-   "category": "World",
-   "exam_angle": "Quad — Bharat, America, Japan, Australia; Indo-Pacific aur samudri suraksha pariksha ke liye mahatvapurna.",
-   "source": "Reuters",
-   "source_url": "https://www.gmanetwork.com/news/topstories/nation/1009760/trump-to-kick-off-asia-trip-with-quad-talks-in-manila-ahead-of-china-visit/story/?just_in",
-   "genuineness": "verified",
-   "outlets": [
-    "Reuters",
-    "Rappler",
-    "The New Indian Express"
-   ],
-   "image": null,
-   "image_credit": null
-  },
-  {
-   "id": "world-20261117-1222-02",
-   "published_ist": "2026-11-15T13:26:00+05:30",
-   "headline": "China ka pehla electric yatri viman uda",
-   "detail": "COMAC ka 19-seat CE-25A electric viman 14 November ko pehli baar pilot ke saath uda — 16 minute hawa me, 60 km ki udaan; abhi certification baaki hai.",
-   "category": "World",
-   "exam_angle": "Duniya ka pehla 19-seat electric yatri viman — harit aviation aur China ki tech pragati pariksha ke liye mahatvapurna.",
-   "source": "Reuters",
-   "source_url": "https://www.ndtv.com/world-news/chinas-22-000-pound-electric-aircraft-reaches-key-milestone-with-first-manned-flight-12329498",
-   "genuineness": "verified",
-   "outlets": [
-    "Reuters",
-    "NDTV",
-    "CNBC-TV18",
-    "Simple Flying"
-   ],
-   "image": null,
-   "image_credit": null
-  },
-  {
-   "id": "world-20261117-1322-01",
-   "published_ist": "2026-11-17T05:35:00+05:30",
-   "headline": "Iran ki Washington me dirty bomb yojana",
-   "detail": "US khufiya report ke mutabik Iran Washington me senior Trump adhikariyon ko nishana banaane ke liye dirty bomb ya rasayanik hathiyar ki yojana bana raha hai; White House ne kaha abhi koi vishwasniya khatra nahi hai, aur Iran ne aaropon ko kharij kiya hai.",
-   "category": "World",
-   "exam_angle": "US-Iran yuddh, dirty bomb aur rasayanik hathiyar — UPSC ke liye mahatvapurna.",
-   "source": "CNN",
-   "source_url": "https://www.cnn.com/2026/11/16/politics/us-intelligence-iran-dirty-bomb?cid=external-feeds_iluminar_meta",
-   "genuineness": "corroborated",
-   "outlets": [
-    "CNN",
-    "Firstpost",
-    "News18"
-   ],
-   "image": "../images/world/world-20261117-1322-01.jpg",
-   "image_credit": "Diego Delso, Wikimedia Commons (CC BY-SA 3.0)"
-  },
-  {
-   "id": "world-20261117-1322-02",
-   "published_ist": "2026-11-16T10:34:00+05:30",
-   "headline": "Microsoft outage: network upgrade ki galti",
-   "detail": "Microsoft ne kaha 12–14 November ko Outlook, Teams aur Copilot ko 37 ghante tak thap karne wali gadbadi pehle ke network upgrade ki galti thi, cyber hamla nahi; sevaayein ab poori tarah bahaal hain.",
-   "category": "World",
-   "exam_angle": "Digital infrastructure aur single point of failure — UPSC ke liye upyogi.",
-   "source": "Bangkok Post",
-   "source_url": "https://www.bangkokpost.com/life/tech/3355590/microsoft-reveals-cause-of-global-outage-full-recovery-timeline?ref=%2Flife%2Ftech%2F3355590%2Fmicrosoft-reveals-cause-of-global-outage-full-recovery-timeline%3Ftbref%3Dhp",
-   "genuineness": "verified",
-   "outlets": [
-    "Microsoft 365 Status",
-    "Bangkok Post",
-    "Outlook India",
-    "The Guardian"
-   ],
-   "image": null,
-   "image_credit": null
-  },
-  {
-   "id": "world-20261117-1322-03",
-   "published_ist": "2026-11-17T12:37:00+05:30",
-   "headline": "UK me berozgari 4.6% par aayi",
-   "detail": "ONS ke mutabik July–September me UK ki berozgari dar 4.7% se ghatkar 4.6% hui, jabki vetan vriddhi 3.5% par dheemi padi aur October me company payroll me 34,000 ki kami aayi.",
-   "category": "World",
-   "exam_angle": "UK arthvyavastha aur Bank of England — UPSC ke liye upyogi.",
-   "source": "ONS",
-   "source_url": "https://www.ons.gov.uk/employmentandlabourmarket/peopleinwork/employmentandemployeetypes/bulletins/employmentintheuk/november2026",
-   "genuineness": "verified",
-   "outlets": [
-    "ONS",
-    "Reuters",
-    "The Guardian"
-   ],
-   "image": null,
-   "image_credit": null
-  },
-  {
-   "id": "world-20261117-1422-01",
-   "published_ist": "2026-11-17T10:49:00+05:30",
-   "headline": "Serbia: chhatra dal ki sansad ne shapath li",
-   "detail": "Belgrade me Serbia ki nayi sansad ki pehli baithak hui aur chhatra samarthit Student List ke 140 sansadon ne shapath li, jisse Vucic ke 14 saal ke shasan ka ant aupcharik hua.",
-   "category": "World",
-   "exam_angle": "Serbia, loktantra aur chhatra andolan — UPSC ke liye upyogi.",
-   "source": "The Thursday Times",
-   "source_url": "https://thursdaytimes.com/2026/11/17/news/international/serbia-student-list-mps-oath-new-parliament/",
-   "genuineness": "corroborated",
-   "outlets": [
-    "The Thursday Times",
-    "EU Today",
-    "The New York Times"
-   ],
-   "image": null,
-   "image_credit": null
-  },
-  {
-   "id": "world-20261117-1422-02",
-   "published_ist": "2026-11-17T10:30:00+05:30",
-   "headline": "Optimizely hack: 178 badi websites nishane par",
-   "detail": "Optimizely platform ke zariye Zoom, BBC, CNN, HSBC aur IKEA samet 178 sangathanon ki websites par crypto aur card details churane wala kharab JavaScript daala gaya; Optimizely ne kami band kar di hai.",
-   "category": "World",
-   "exam_angle": "Supply-chain cyberattack aur digital suraksha — UPSC ke liye mahatvapurna.",
-   "source": "Reuters",
-   "source_url": "https://www.reuters.com/legal/government/popular-websites-subverted-bid-steal-crypto-target-iphone-users-2026-11-17/",
-   "genuineness": "verified",
-   "outlets": [
-    "Reuters",
-    "BleepingComputer",
-    "Cointelegraph",
-    "CybersecurityNews",
-    "Outlook India"
-   ],
-   "image": null,
-   "image_credit": null
-  },
-  {
-   "id": "world-20261117-1422-03",
-   "published_ist": "2026-11-17T06:38:00+05:30",
-   "headline": "Iran ne IAEA nirikshan se inkar kiya",
-   "detail": "Up Videsh Mantri Gharibabadi ne kaha Iran apne kshatigrast parmanu sthalon par IAEA nirikshakon ko tab tak nahi aane dega jab tak yuddh sthayi roop se khatm na ho aur America uski shartein na maane.",
-   "category": "World",
-   "exam_angle": "IAEA, Iran parmanu karyakram aur aprasar — UPSC ke liye mahatvapurna.",
-   "source": "Dawn",
-   "source_url": "https://www.dawn.com/news/2045066/iran-refuses-to-let-nuclear-inspectors-in-until-war-ends",
-   "genuineness": "corroborated",
-   "outlets": [
-    "AFP",
-    "Dawn",
-    "Al Arabiya",
-    "Arab News"
-   ],
-   "image": null,
-   "image_credit": null
-  },
-  {
-   "id": "world-20261117-1422-04",
-   "published_ist": "2026-11-16T18:03:00+05:30",
-   "headline": "COP31 draft: jeevashm indhan bandi tez",
-   "detail": "Antalya me COP31 ke pehle draft me jeevashm indhan ko tezi se band karne aur 2035 tak jalvayu anukoolan ke liye saalana $120 arab dene ki baat hai, lekin antim faisla 20 November tak baki hai.",
-   "category": "World",
-   "exam_angle": "COP31, jalvayu vitt aur jeevashm indhan — UPSC ke liye mahatvapurna.",
-   "source": "The Hindu",
-   "source_url": "https://www.thehindu.com/sci-tech/energy-and-environment/cop31-draft-deal-calls-for-accelerated-action-to-exit-fossil-fuels/article71707955.ece",
-   "genuineness": "verified",
-   "outlets": [
-    "The Hindu",
-    "The Straits Times",
-    "The Business Standard",
-    "AAP",
-    "Türkiye Today",
-    "Kuwait Times"
-   ],
-   "image": null,
-   "image_credit": null
-  },
-  {
-   "id": "world-20261117-1522-01",
-   "published_ist": "2026-11-17T14:12:00+05:30",
-   "headline": "Bahrain: Iran ka teesra drone hamla",
-   "detail": "Iran ne Sheikh Isa Air Base par US radar ko nishana banaya — paanch din me teesra hamla; Bahrain ne drone roke, teesra US carrier bhi kshetra me pahuncha.",
-   "category": "World",
-   "exam_angle": "West Asia me tanav, Hormuz tel supply par asar.",
-   "source": "Malay Mail",
-   "source_url": "https://www.malaymail.com/amp/news/world/2026/11/17/blasts-rock-manama-as-iran-launches-third-drone-attack-on-bahrain-in-five-days/243617",
-   "genuineness": "verified",
-   "outlets": [
-    "AFP",
-    "The National",
-    "Al Jazeera"
-   ],
-   "image": null,
-   "image_credit": null
-  },
-  {
-   "id": "world-20261117-1622-01",
-   "published_ist": "2026-11-17T13:48:00+05:30",
-   "headline": "Zaporizhzhia par hamla: 2 ki maut, 18 ghayal",
-   "detail": "Subah ke hamle me Zaporizhzhia ke teen jilon ki audyogik imaraton par hamla hua — 2 log mare, 18 ghayal; malbe se ek mahila zinda nikali gayi.",
-   "category": "World",
-   "exam_angle": "Russia-Ukraine yuddh, nagrik nuksan — UPSC ke liye mahatvapurna.",
-   "source": "Ukrainska Pravda",
-   "source_url": "https://www.pravda.com.ua/eng/news/2026/11/17/8063226/",
-   "genuineness": "verified",
-   "outlets": [
-    "Ukrainska Pravda",
-    "Hromadske",
-    "Kyiv Post",
-    "LB.ua"
-   ],
-   "image": null,
-   "image_credit": null
-  },
-  {
-   "id": "world-20261117-1622-02",
-   "published_ist": "2026-11-17T10:00:00+05:30",
-   "headline": "Vance: Iran yuddh 'forever war' nahi hoga",
-   "detail": "Up-Rashtrapati Vance ne Fox News se kaha Trump Iran sangharsh ko lamba nahi khinchenge — 10-15 saal to door, do saal ki pratibaddhta bhi nahi hogi.",
-   "category": "World",
-   "exam_angle": "America-Iran yuddh, US videsh neeti — UPSC ke liye mahatvapurna.",
-   "source": "The Economic Times",
-   "source_url": "https://economictimes.indiatimes.com/news/international/world-news/us-vice-president-jd-vance-says-trump-will-avoid-forever-war-in-iran/articleshow/135910319.cms",
-   "genuineness": "verified",
-   "outlets": [
-    "The Economic Times",
-    "Jerusalem Post",
-    "Dawn",
-    "New York Post"
-   ],
-   "image": null,
-   "image_credit": null
-  },
-  {
-   "id": "world-20261117-1622-03",
-   "published_ist": "2026-11-17T07:08:00+05:30",
-   "headline": "South Africa: do golibari me 17 ki maut",
-   "detail": "Ravivar raat Pretoria ke paas jhopdi me 9 aur Pietermaritzburg ke paas gaadi me 8 log mare gaye; police ne dono hamlo ko asambandhit bataya, abhi koi giraftari nahi hui.",
-   "category": "World",
-   "exam_angle": "South Africa, bandook hinsa aur kanoon-vyavastha — UPSC ke liye upyogi.",
-   "source": "Dawn",
-   "source_url": "https://www.dawn.com/news/print/2045065",
-   "genuineness": "verified",
-   "outlets": [
-    "Dawn",
-    "The Nation",
-    "Bolo",
-    "Tribuna"
-   ],
-   "image": null,
-   "image_credit": null
-  },
-  {
-   "id": "world-20261117-1722-01",
-   "published_ist": "2026-11-17T12:17:00+05:30",
-   "headline": "Mongolia ke Rashtrapati ne istifa diya",
-   "detail": "Bhrashtachar ke aaropon aur mahaabhiyog ki dhamki ke baad Ukhnaa Khurelsukh ne istifa diya — aaropon se inkar karte hue kaha jaanch me sahyog karenge; sansad ko chaar mahine me chunav karana hoga.",
-   "category": "World",
-   "exam_angle": "Mongolia, rashtrapati istifa aur bhrashtachar — UPSC ke liye upyogi.",
-   "source": "Reuters",
-   "source_url": "https://www.reuters.com/world/china/mongolian-president-announces-resignation-over-alleged-corruption-2026-11-17/",
-   "genuineness": "verified",
-   "outlets": [
-    "Reuters",
-    "AP",
-    "AFP",
-    "TRT World"
-   ],
-   "image": null,
-   "image_credit": null
-  },
-  {
-   "id": "world-20261117-1822-01",
-   "published_ist": "2026-11-17T15:10:00+05:30",
-   "headline": "Tara Gas par doosra hamla, 1 Bharatiya lapata",
-   "detail": "Hormuz ke paas Panama ke LPG tanker Tara Gas par doosra hamla hua; 25 ka dal jahaz chhodkar nikla, 24 surakshit mile, 1 Bharatiya navik lapata hai.",
-   "category": "World",
-   "exam_angle": "Hormuz, tel vyapar, samudri suraksha — UPSC ke liye mahatvapurna.",
-   "source": "Gulf News",
-   "source_url": "https://gulfnews.com/world/mena/middle-east-conflict-tanker-incident-near-hormuz-as-vance-rules-out-forever-war-1.500749924",
-   "genuineness": "verified",
-   "outlets": [
-    "Gulf News",
-    "Al Jazeera",
-    "UKMTO"
-   ],
-   "image": null,
-   "image_credit": null
-  },
-  {
-   "id": "world-20261117-1922-01",
-   "published_ist": "2026-11-17T17:53:00+05:30",
-   "headline": "Trump: Iran hamla kare to bhari keemat",
-   "detail": "Manila me Trump ne kaha agar Iran ne Washington par hamla kiya to use aisi keemat chukani hogi jo kisi desh ne kabhi nahi chukayi; White House ne kaha filhal koi pakka khatra nahi dikh raha, Iran ne aaropon ko 'bebuniyad' batakar kharij kiya.",
-   "category": "World",
-   "exam_angle": "US-Iran yuddh, dirty bomb aur rasayanik hathiyar — UPSC ke liye mahatvapurna.",
-   "source": "The Times of India",
-   "source_url": "https://timesofindia.indiatimes.com/world/us/trump-warns-iran-will-pay-a-price-no-country-has-ever-faced-over-dirty-bomb-threat-to-washington/articleshow/135925387.cms",
-   "genuineness": "verified",
-   "outlets": [
-    "CNN",
-    "Reuters",
-    "The Times of India",
-    "The Jerusalem Post",
-    "New York Post"
-   ],
-   "image": null,
-   "image_credit": null
-  },
-  {
-   "id": "world-20261117-1922-02",
-   "published_ist": "2026-11-17T17:20:00+05:30",
-   "headline": "Jericho me golibari: 72 saal ki mahila ki maut",
-   "detail": "Duyuk al-Tahta gaon me raat ko golibari me 72 saal ki ek mahila ki maut ho gayi aur kai log ghayal hue; Filistin adhikariyon ne basne walon par aarop lagaya, Israeli sena ne kaha pehle gaadi se hamla hua tha.",
-   "category": "World",
-   "exam_angle": "West Bank, Israeli basti aur do-rashtra samadhan — UPSC ke liye upyogi.",
-   "source": "Al Arabiya",
-   "source_url": "https://english.alarabiya.net/News/middle-east/2026/11/17/israeli-settlers-kill-palestinian-woman-72-in-west-bank?utm_source=article&utm_medium=explore&utm_campaign=explore-more",
-   "genuineness": "verified",
-   "outlets": [
-    "Reuters",
-    "Al Arabiya",
-    "Haaretz",
-    "BBC"
-   ],
-   "image": null,
-   "image_credit": null
-  },
-  {
-   "id": "world-20261117-1922-03",
-   "published_ist": "2026-11-17T12:23:00+05:30",
-   "headline": "UK ne Israeli basti companiyon par pratibandh lagaye",
-   "detail": "Britain ne West Bank me basti banane wali aath companiyon aur Gaza sahayata rokne wale Tzav 9 par sampatti jabti aur nideshak pratibandh lagaye; E1 pariyojana ki boliyon se pehle yeh kadam uthaya gaya.",
-   "category": "World",
-   "exam_angle": "UK pratibandh, West Bank basti aur E1 pariyojana — UPSC ke liye upyogi.",
-   "source": "Reuters",
-   "source_url": "https://www.reuters.com/world/uk/britain-sanctions-israeli-settlement-builders-gaza-aid-blocking-activists-2026-11-17/",
-   "genuineness": "verified",
-   "outlets": [
-    "Reuters",
-    "Haaretz",
-    "The Jerusalem Post",
-    "Israel Hayom",
-    "Outlook India"
-   ],
-   "image": null,
-   "image_credit": null
-  },
-  {
-   "id": "world-20261117-2022-01",
-   "published_ist": "2026-11-17T19:07:00+05:30",
-   "headline": "Iran ka daava: do American drone giraye",
-   "detail": "Iran ki sena aur IRGC ne daava kiya ki Hormuz ke paas America ke LUCAS aur MQ-1 drone giraye gaye; America ne abhi iski pushti nahi ki hai.",
-   "category": "World",
-   "exam_angle": "US-Iran yuddh me drone yuddh — UPSC ke liye mahatvapurna.",
-   "source": "Moneycontrol",
-   "source_url": "https://www.moneycontrol.com/world/iran-says-it-shot-down-us-made-lucas-drone-over-strait-of-hormuz-article-14082782.html/amp",
-   "genuineness": "corroborated",
-   "outlets": [
-    "Dawn",
-    "Al Jazeera",
-    "Moneycontrol",
-    "News9",
-    "Press TV"
-   ],
-   "image": null,
-   "image_credit": null
-  },
-  {
-   "id": "world-20261117-2022-02",
-   "published_ist": "2026-11-17T14:45:00+05:30",
-   "headline": "Iran ki dhamki: bandh-bijli ghar nishane par",
-   "detail": "Iran ke sansad adhyaksh Ghalibaf ne kaha America-Israel ke thikanon ke paas bandh, bandargah aur bijli ghar bhi 'dual-use' mane jayenge; yeh chetavni NYT ki report ke jawab me aayi.",
-   "category": "World",
-   "exam_angle": "Iran-US tanaav aur 'dual-use' siddhant — UPSC ke liye mahatvapurna.",
-   "source": "Firstpost",
-   "source_url": "https://www.firstpost.com/world/iran-us-israel-threat-dam-ports-power-plants-nyt-report-dual-use-military-infrastructure-missile-cities-14060594.html",
-   "genuineness": "corroborated",
-   "outlets": [
-    "Firstpost",
-    "Outlook India"
-   ],
-   "image": null,
-   "image_credit": null
-  },
-  {
-   "id": "world-20261117-2122-01",
-   "published_ist": "2026-11-17T16:50:00+05:30",
-   "headline": "Netherlands sarkar bachi, sankat khatm",
-   "detail": "Char din ke sankat ke baad PM Rob Jetten ne kaha teeno dalon ke beech vishwas bahaal ho gaya aur alpasankhyak sarkar kaam karti rahegi; vivaad dhan kar par tha.",
-   "category": "World",
-   "exam_angle": "Europe me alpasankhyak sarkar aur gathbandhan rajneeti — UPSC ke liye mahatvapurna.",
-   "source": "Reuters",
-   "source_url": "https://www.reuters.com/world/dutch-pm-says-coalition-has-found-way-keep-going-after-crisis-talks-2026-11-17/",
-   "genuineness": "verified",
-   "outlets": [
-    "Reuters",
-    "Brussels Signal"
-   ],
-   "image": null,
-   "image_credit": null
-  },
-  {
-   "id": "world-20261117-2122-02",
-   "published_ist": "2026-11-17T16:15:00+05:30",
-   "headline": "Thaci ko 17 mahine ki aur saza",
-   "detail": "Hague ki vishesh adalat ne Kosovo ke poorv Rashtrapati Hashim Thaci ko yuddh-apradh mukadme me gawahon ko prabhavit karne par 17 mahine ki saza di; yeh unki 25 saal ki saza ke alawa hai.",
-   "category": "World",
-   "exam_angle": "Kosovo vishesh adalat aur antarrashtriya nyay — UPSC ke liye mahatvapurna.",
-   "source": "Bangkok Post",
-   "source_url": "https://www.bangkokpost.com/world/3356420/exkosovo-leader-sentenced-for-influencing-witnesses?ref=%2Fworld%2F3356420%2Fexkosovo-leader-sentenced-for-influencing-witnesses",
-   "genuineness": "verified",
-   "outlets": [
-    "Associated Press",
-    "Bangkok Post",
-    "Türkiye Today",
-    "SeeNews"
-   ],
-   "image": null,
-   "image_credit": null
-  },
-  {
-   "id": "world-20261117-2122-03",
-   "published_ist": "2026-11-17T14:48:00+05:30",
-   "headline": "Bulgaria ke paas LPG tanker dooba",
-   "detail": "Liberia ke jhande wala LPG tanker Gas Husky Bulgaria ke Black Sea tat se lagbhag 50 mile door doob gaya; 19 sadasyiya amle ko surakshit bacha liya gaya, Romania ne drone hamle ka daava kiya hai, Bulgaria ne abhi pushti nahi ki.",
-   "category": "World",
-   "exam_angle": "Black Sea me samudri suraksha aur NATO — UPSC ke liye mahatvapurna.",
-   "source": "Türkiye Today",
-   "source_url": "https://www.turkiyetoday.com/world/lpg-tanker-gas-husky-sinks-off-bulgaria-a-day-after-betul-8-went-down-3232613",
-   "genuineness": "verified",
-   "outlets": [
-    "Reuters",
-    "Türkiye Today",
-    "The Defence Blog"
-   ],
-   "image": null,
-   "image_credit": null
-  },
-  {
-   "id": "world-20261117-2122-04",
-   "published_ist": "2026-11-17T00:56:00+05:30",
-   "headline": "Paanch deshon ki Rwanda deportation yojana",
-   "detail": "Germany, Austria, Denmark, Greece aur Netherlands ne kharij sharan yachika wale logon ko Rwanda ke kendra me bhejne ki yojana ghoshit ki; pehle transfer 2027 se, manvadhikar samoohon ne virodh kiya.",
-   "category": "World",
-   "exam_angle": "EU pravasan neeti aur 'return hub' — UPSC ke liye mahatvapurna.",
-   "source": "Al Jazeera",
-   "source_url": "https://www.aljazeera.com/news/2026/11/16/five-eu-countries-announce-plan-to-send-rejected-asylum-seekers-to-rwanda?traffic_source=rss",
-   "genuineness": "verified",
-   "outlets": [
-    "Al Jazeera",
-    "CNN",
-    "The Jerusalem Post",
-    "The Manila Times",
-    "The Irish Times"
-   ],
-   "image": null,
-   "image_credit": null
-  }
- ]
-}
+[
+ {
+  "id": "world-20261117-0626-01",
+  "published_ist": "2026-11-17T04:02:00+05:30",
+  "headline": "Hormuz me chauthe tanker me aag",
+  "detail": "Iran ki nausena ne kaha pichhle 24 ghante me chautha tanker Hormuz ke paas samudri mine se takrakar jal utha; UKMTO ne Oman ke paas ek aur tanker par hamle ki bhi khabar di, uska amla surakshit hai.",
+  "category": "World",
+  "exam_angle": "Hormuz, tel vyapar, samudri suraksha — UPSC ke liye mahatvapurna.",
+  "source": "The Tribune",
+  "source_url": "https://www.tribuneindia.com/news/world/fourth-oil-tanker-catches-fire-in-hormuz-after-hitting-naval-mine-says-iranian-navy/",
+  "genuineness": "verified",
+  "outlets": [
+   "Reuters",
+   "Asian News International",
+   "Press TV"
+  ],
+  "image": null,
+  "image_credit": null
+ },
+ {
+  "id": "world-20261117-0626-02",
+  "published_ist": "2026-11-17T03:35:00+05:30",
+  "headline": "Russia ne Kyiv ke do pulon par hamla kiya",
+  "detail": "Mayor Klitschko ke mutabik der raat Dnipro nadi ke uttari aur dakshini pulon par hamle hue, shahar ke kuchh hisson me pani-bijli band; Zelenskyy ne pehle hi bade hamle ki chetavni di thi.",
+  "category": "World",
+  "exam_angle": "Russia-Ukraine yuddh, Kyiv — UPSC ke liye mahatvapurna.",
+  "source": "Reuters",
+  "source_url": "https://www.reuters.com/world/kyiv-mayor-klitschko-says-russian-forces-struck-two-bridges-across-dnipro-river-2026-11-16/",
+  "genuineness": "verified",
+  "outlets": [
+   "Reuters",
+   "Kyiv Independent",
+   "TRT World"
+  ],
+  "image": null,
+  "image_credit": null
+ },
+ {
+  "id": "world-20261117-0626-03",
+  "published_ist": "2026-11-16T14:14:00+05:30",
+  "headline": "WHO: dawai-pratirodh se 2050 tak 3.9 crore maut",
+  "detail": "WHO ne chetavni di ki antimicrobial resistance aadhunik chikitsa ke liye khatra hai; 2021 me isse 10 lakh se zyada mautein seedhe taur par hui thin, aur 2030 ke lakshya se ladai peechhe hai.",
+  "category": "World",
+  "exam_angle": "AMR, WHO, swasthya — UPSC ke liye mahatvapurna.",
+  "source": "Malay Mail",
+  "source_url": "https://www.malaymail.com/news/world/2026/11/16/who-sounds-alarm-over-antimicrobial-resistance-warns-it-could-kill-39-million-by-2050/243496",
+  "genuineness": "corroborated",
+  "outlets": [
+   "Agence France-Presse",
+   "Al Mayadeen"
+  ],
+  "image": null,
+  "image_credit": null
+ },
+ {
+  "id": "world-20261117-0722-01",
+  "published_ist": "2026-11-16T07:27:00+05:30",
+  "headline": "Trump-Xi-Putin ki pehli trilateral baithak 19 November ko",
+  "detail": "China ne pushti ki teeno neta APEC ke dauraan Shenzhen mein milenge; parmanu hathiyar katauti aur Iran par baat hogi, Ukraine par baat ki ummeed nahi.",
+  "category": "World",
+  "exam_angle": "Teen parmanu shaktiyon ki pehli trilateral baithak — UPSC ke liye mahatvapurna.",
+  "source": "The Hindu",
+  "source_url": "https://www.thehindu.com/news/international/china-confirms-first-xi-trump-putin-summit-on-november-19/article71706625.ece",
+  "genuineness": "verified",
+  "outlets": [
+   "Channel News Asia",
+   "Dawn",
+   "The Straits Times",
+   "The Hindu",
+   "Outlook India"
+  ],
+  "image": "../images/world/world-20261117-0722-01.jpg",
+  "image_credit": "The Hindu"
+ },
+ {
+  "id": "world-20261117-0722-02",
+  "published_ist": "2026-11-17T03:24:00+05:30",
+  "headline": "Europe me holiday season par US aatank chetavni",
+  "detail": "US dutavas ne kaha bheed-bhaad wale bazaar, transport hub aur pooja sthalon par hamle ka khatra hai; nagrikon ko satark rehne aur STEP me register karne ko kaha.",
+  "category": "World",
+  "exam_angle": "US travel advisory aur Europe suraksha — IR ke liye upyogi.",
+  "source": "Indian Economic Observer",
+  "source_url": "https://www.indianeconomicobserver.com/news/us-warns-americans-of-possible-terror-threats-travel-disruptions-across-europe-during-holiday-season20261117025427/",
+  "genuineness": "verified",
+  "outlets": [
+   "U.S. Embassy in Latvia",
+   "Indian Economic Observer",
+   "InvestingLive",
+   "The Alaska Story"
+  ],
+  "image": null,
+  "image_credit": null
+ },
+ {
+  "id": "world-20261117-0822-01",
+  "published_ist": "2026-11-17T07:25:00+05:30",
+  "headline": "America ke bade banks ki seva thap",
+  "detail": "Chase, Bank of America aur Wells Fargo ki online seva me dikkat aayi; JPMorgan ne software bug ko wajah bataya aur cyber hamle se inkar kiya, khate aur rakam surakshit bataye.",
+  "category": "World",
+  "exam_angle": "Banking system, digital payment aur cyber-suraksha — UPSC ke liye mahatvapurna.",
+  "source": "WION",
+  "source_url": "https://www.wionews.com/world/please-try-back-later-major-us-banks-face-service-outage-days-after-nationwide-flight-disruptions-and-microsoft-global-outage-what-s-happening-1794879537592/amp",
+  "genuineness": "verified",
+  "outlets": [
+   "Barron's",
+   "WION",
+   "The Economic Times",
+   "NDTV Profit"
+  ],
+  "image": null,
+  "image_credit": null
+ },
+ {
+  "id": "world-20261117-0822-02",
+  "published_ist": "2026-11-17T06:10:00+05:30",
+  "headline": "Crimean Bridge par doosri baar hamla",
+  "detail": "24 ghante me doosri baar Kerch Bridge par hamla hua; Crimea ke governor ne traffic band karne ki pushti ki, nuksan ki matra abhi saaf nahi hai.",
+  "category": "World",
+  "exam_angle": "Kerch Bridge — Russia-Crimea supply route, UPSC ke liye mahatvapurna.",
+  "source": "Kyiv Independent",
+  "source_url": "https://kyivindependent.com/ukrainian-forces-reportedly-strike-crimean-bridge-after-russian-missiles-hit-kyiv-bridges/",
+  "genuineness": "verified",
+  "outlets": [
+   "Kyiv Independent",
+   "Kyiv Post",
+   "The New Voice of Ukraine",
+   "The Thursday Times"
+  ],
+  "image": "../images/world/world-20261117-0822-02.jpg",
+  "image_credit": "Alexxx1979, Wikimedia Commons (CC BY-SA 4.0)"
+ },
+ {
+  "id": "world-20261117-0922-01",
+  "published_ist": "2026-11-17T06:25:00+05:30",
+  "headline": "US court ne chhatra visa seema radd ki",
+  "detail": "Boston ke Judge Saylor ne DHS ka niyam 'arbitrary, capricious' batakar radd kiya; chhatron ki 4 saal ki seema aur patrakaron ki 240 din ki seema khatm ho gayi.",
+  "category": "World",
+  "exam_angle": "US immigration, F-1/J-1/I visa niyam — UPSC ke liye mahatvapurna.",
+  "source": "The Hindu",
+  "source_url": "https://www.thehindu.com/news/international/us-federal-court-strikes-down-fixed-terms-for-student-exchange-visas/article71710228.ece",
+  "genuineness": "verified",
+  "outlets": [
+   "The Hindu",
+   "The Economic Times",
+   "Times Now",
+   "The Times of India",
+   "Malay Mail"
+  ],
+  "image": null,
+  "image_credit": null
+ },
+ {
+  "id": "world-20261117-0922-02",
+  "published_ist": "2026-11-16T21:45:00+05:30",
+  "headline": "US hawai yatra phir lagbhag samanya hui",
+  "detail": "Somvar ko sirf 350 udanein radd hui — Shukravar ko 9,200 radd hui thin; chaar ghante ka deshvyapi ground stop 9/11 ke baad sabse lamba tha.",
+  "category": "World",
+  "exam_angle": "US aviation, FAA, hawai suraksha — UPSC ke liye upyogi.",
+  "source": "Channel News Asia",
+  "source_url": "https://www.channelnewsasia.com/world/us-flights-delays-cancellations-normal-airport-6556301",
+  "genuineness": "verified",
+  "outlets": [
+   "Agence France-Presse",
+   "Kuwait Times",
+   "Daily VOA"
+  ],
+  "image": null,
+  "image_credit": null
+ },
+ {
+  "id": "world-20261117-0922-03",
+  "published_ist": "2026-11-17T02:12:00+05:30",
+  "headline": "Kushner: Ukraine shanti vaarta me pragati",
+  "detail": "US doot Kushner ne kaha yuddh khatm karne ki disha me pragati ho rahi hai; suraksha guarantee, EU sadasyata aur punarnirman — teen stambh bataye.",
+  "category": "World",
+  "exam_angle": "Ukraine shanti vaarta, US-Russia-EU — UPSC ke liye mahatvapurna.",
+  "source": "The Tribune",
+  "source_url": "https://www.tribuneindia.com/news/usa-news/making-progress-us-envoy-kushner-outlines-three-pillars-for-ukraines-future-amid-peace-talks/",
+  "genuineness": "corroborated",
+  "outlets": [
+   "Reuters",
+   "The Tribune (ANI)"
+  ],
+  "image": null,
+  "image_credit": null
+ },
+ {
+  "id": "world-20261117-0922-04",
+  "published_ist": "2026-11-17T01:47:00+05:30",
+  "headline": "Russia ko North Korea se har mahine missile",
+  "detail": "Zelensky ne kaha Russia ko North Korea se har mahine darjanon ballistic missile mil rahi hain; Ukraine ko bhi barabar ke hathiyar chahiye.",
+  "category": "World",
+  "exam_angle": "Russia-North Korea sainya sahyog, missile — UPSC ke liye mahatvapurna.",
+  "source": "The Tribune",
+  "source_url": "https://www.tribuneindia.com/news/world/ukraine-needs-clear-parity-to-respond-to-russian-threat-zelenskyy-seeks-supply-of-comparable-weapons-from-allies/",
+  "genuineness": "corroborated",
+  "outlets": [
+   "Kyiv Post",
+   "The Tribune (ANI)"
+  ],
+  "image": null,
+  "image_credit": null
+ },
+ {
+  "id": "world-20261117-1022-02",
+  "published_ist": "2026-11-17T07:12:00+05:30",
+  "headline": "Pope Leo ki South America yatra khatm",
+  "detail": "12 din, 50 karyakram aur 1.3 crore log — Lima me 15 lakh ki antim Mass ke saath Pope Leo ne Uruguay, Argentina aur Peru ki yatra samapt ki, phaphde ki surgery ke ek mahine baad.",
+  "category": "World",
+  "exam_angle": "Pope Leo XIV, Vatican aur Latin America — UPSC ke liye upyogi.",
+  "source": "Reuters",
+  "source_url": "https://www.reuters.com/world/americas/pope-leo-ends-south-america-tour-that-drew-millions-with-one-final-vast-crowd-2026-11-16/",
+  "genuineness": "verified",
+  "outlets": [
+   "Reuters",
+   "Geo TV",
+   "France 24",
+   "The Times"
+  ],
+  "image": "../images/world/world-20261117-1022-02.jpg",
+  "image_credit": "GORE Callao, Wikimedia Commons (Public domain)"
+ },
+ {
+  "id": "world-20261117-1022-04",
+  "published_ist": "2026-11-17T06:18:00+05:30",
+  "headline": "United Airlines me gadbad, 418 udaan deri se",
+  "detail": "United Airlines ne kaha takniki gadbadi se uski udaanen deri se chali; FlightAware ke mutabik 418 udaanen deri se aur 21 radd hui, cyber hamle ka sanket nahi.",
+  "category": "World",
+  "exam_angle": "US aviation, FAA aur airline suraksha — UPSC ke liye upyogi.",
+  "source": "Reuters",
+  "source_url": "https://www.reuters.com/world/us/united-airlines-says-technology-issue-affecting-departing-flights-2026-11-16/",
+  "genuineness": "verified",
+  "outlets": [
+   "Reuters",
+   "AP",
+   "The Economic Times"
+  ],
+  "image": null,
+  "image_credit": null
+ },
+ {
+  "id": "world-20261117-1022-03",
+  "published_ist": "2026-11-17T05:51:00+05:30",
+  "headline": "Moyale jhadap: 50,000 log Kenya bhaage",
+  "detail": "Ethiopia ke Oromia-Somali seema vivad par Moyale me hinsa bhadki; UNHCR ke mutabik 22 October se 50,000 tak log Kenya bhaag chuke hain, zyadatar mahilayen aur bachche.",
+  "category": "World",
+  "exam_angle": "Ethiopia-Kenya seema, UNHCR aur sharanarthi sankat — UPSC ke liye upyogi.",
+  "source": "Al Jazeera",
+  "source_url": "https://www.aljazeera.com/amp/news/2026/11/17/ethiopia-moyale-clashes-disrupt-livelihoods-as-territorial-dispute-deepens",
+  "genuineness": "verified",
+  "outlets": [
+   "Al Jazeera",
+   "UNHCR",
+   "Citizen Digital"
+  ],
+  "image": null,
+  "image_credit": null
+ },
+ {
+  "id": "world-20261117-1022-01",
+  "published_ist": "2026-11-16T20:48:00+05:30",
+  "headline": "Trump: China me Kim se mil sakte hain",
+  "detail": "Trump ne kaha Xi Jinping chahein to Kim Jong Un bhi Shenzhen aa sakte hain; 19 November ki Xi-Trump-Putin baithak se pehle yeh sanket aaya, jabki Pyongyang ne baatchit se inkar kiya hai.",
+  "category": "World",
+  "exam_angle": "APEC, US-China-Russia trilateral aur North Korea — UPSC ke liye mahatvapurna.",
+  "source": "WION",
+  "source_url": "https://www.wionews.com/world/we-have-a-chance-did-trump-just-reveal-his-secret-plan-to-meet-north-korea-s-kim-jong-un-in-china-1794841093629/amp",
+  "genuineness": "verified",
+  "outlets": [
+   "WION",
+   "The Korea Times",
+   "The Straits Times",
+   "The Tribune"
+  ],
+  "image": null,
+  "image_credit": null
+ },
+ {
+  "id": "world-20261117-1126-01",
+  "published_ist": "2026-11-17T09:46:00+05:30",
+  "headline": "Canada-China: vyapar samjhota, tariff me katauti",
+  "detail": "Carney-Xi mulakat ke baad China ne Canada ke suar ka maas aur seafood par tariff ghataaya; Canada ne cheeni steel par riyaayat badhaayi.",
+  "category": "World",
+  "exam_angle": "US tariff ke beech Canada-China vyapar — APEC aur vyapar yuddh pariksha ke liye mahatvapurna.",
+  "source": "Reuters",
+  "source_url": "https://duke.fm/2026/11/16/china-canada-relations-more-stable-carney-says-as-he-meets-xi/",
+  "genuineness": "corroborated",
+  "outlets": [
+   "Reuters",
+   "WION"
+  ],
+  "image": null,
+  "image_credit": null
+ },
+ {
+  "id": "world-20261117-1126-02",
+  "published_ist": "2026-11-17T02:41:00+05:30",
+  "headline": "Indonesia ke paas 6.6 teevrata ka bhookamp",
+  "detail": "Banda Sea me Tual ke paas 6.6 teevrata ka bhookamp aaya, Australia tak jhatke mehsoos hue; sunami ka khatra nahi hai.",
+  "category": "World",
+  "exam_angle": "USGS aur BMKG ke alag aaklan — bhookamp mapan aur sunami chetavni pariksha ke liye mahatvapurna.",
+  "source": "The Watchers",
+  "source_url": "https://watchers.news/2026/11/17/m6-6-earthquake-banda-sea-tual-indonesia-november-16-2026/",
+  "genuineness": "verified",
+  "outlets": [
+   "USGS",
+   "BMKG",
+   "EMSC"
+  ],
+  "image": null,
+  "image_credit": null
+ },
+ {
+  "id": "world-20261117-1126-03",
+  "published_ist": "2026-11-17T00:37:00+05:30",
+  "headline": "Japan ne Russian vimanon par ladaku viman bheje",
+  "detail": "Do sandehspad Russian viman Japan ke hawai kshetra me ghuse, Tokyo ne Moscow se kadha virodh jataaya.",
+  "category": "World",
+  "exam_angle": "APEC se pehle Japan-Russia tanaav — kshetriya suraksha pariksha ke liye mahatvapurna.",
+  "source": "Channel News Asia",
+  "source_url": "https://www.channelnewsasia.com/east-asia/japan-scrambles-jets-russia-planes-enter-airspace-6557516",
+  "genuineness": "verified",
+  "outlets": [
+   "Reuters",
+   "AFP",
+   "Channel News Asia"
+  ],
+  "image": null,
+  "image_credit": null
+ },
+ {
+  "id": "world-20261117-1222-01",
+  "published_ist": "2026-11-17T09:09:00+05:30",
+  "headline": "Manila me Quad netaon ki baithak",
+  "detail": "Trump aaj Manila pahunche; America, Bharat, Japan aur Australia ke netaon ki do saal me pehli aamne-saamne baithak — samudri suraksha aur critical minerals par charcha.",
+  "category": "World",
+  "exam_angle": "Quad — Bharat, America, Japan, Australia; Indo-Pacific aur samudri suraksha pariksha ke liye mahatvapurna.",
+  "source": "Reuters",
+  "source_url": "https://www.gmanetwork.com/news/topstories/nation/1009760/trump-to-kick-off-asia-trip-with-quad-talks-in-manila-ahead-of-china-visit/story/?just_in",
+  "genuineness": "verified",
+  "outlets": [
+   "Reuters",
+   "Rappler",
+   "The New Indian Express"
+  ],
+  "image": null,
+  "image_credit": null
+ },
+ {
+  "id": "world-20261117-1222-02",
+  "published_ist": "2026-11-15T13:26:00+05:30",
+  "headline": "China ka pehla electric yatri viman uda",
+  "detail": "COMAC ka 19-seat CE-25A electric viman 14 November ko pehli baar pilot ke saath uda — 16 minute hawa me, 60 km ki udaan; abhi certification baaki hai.",
+  "category": "World",
+  "exam_angle": "Duniya ka pehla 19-seat electric yatri viman — harit aviation aur China ki tech pragati pariksha ke liye mahatvapurna.",
+  "source": "Reuters",
+  "source_url": "https://www.ndtv.com/world-news/chinas-22-000-pound-electric-aircraft-reaches-key-milestone-with-first-manned-flight-12329498",
+  "genuineness": "verified",
+  "outlets": [
+   "Reuters",
+   "NDTV",
+   "CNBC-TV18",
+   "Simple Flying"
+  ],
+  "image": null,
+  "image_credit": null
+ },
+ {
+  "id": "world-20261117-1322-01",
+  "published_ist": "2026-11-17T05:35:00+05:30",
+  "headline": "Iran ki Washington me dirty bomb yojana",
+  "detail": "US khufiya report ke mutabik Iran Washington me senior Trump adhikariyon ko nishana banaane ke liye dirty bomb ya rasayanik hathiyar ki yojana bana raha hai; White House ne kaha abhi koi vishwasniya khatra nahi hai, aur Iran ne aaropon ko kharij kiya hai.",
+  "category": "World",
+  "exam_angle": "US-Iran yuddh, dirty bomb aur rasayanik hathiyar — UPSC ke liye mahatvapurna.",
+  "source": "CNN",
+  "source_url": "https://www.cnn.com/2026/11/16/politics/us-intelligence-iran-dirty-bomb?cid=external-feeds_iluminar_meta",
+  "genuineness": "corroborated",
+  "outlets": [
+   "CNN",
+   "Firstpost",
+   "News18"
+  ],
+  "image": "../images/world/world-20261117-1322-01.jpg",
+  "image_credit": "Diego Delso, Wikimedia Commons (CC BY-SA 3.0)"
+ },
+ {
+  "id": "world-20261117-1322-02",
+  "published_ist": "2026-11-16T10:34:00+05:30",
+  "headline": "Microsoft outage: network upgrade ki galti",
+  "detail": "Microsoft ne kaha 12–14 November ko Outlook, Teams aur Copilot ko 37 ghante tak thap karne wali gadbadi pehle ke network upgrade ki galti thi, cyber hamla nahi; sevaayein ab poori tarah bahaal hain.",
+  "category": "World",
+  "exam_angle": "Digital infrastructure aur single point of failure — UPSC ke liye upyogi.",
+  "source": "Bangkok Post",
+  "source_url": "https://www.bangkokpost.com/life/tech/3355590/microsoft-reveals-cause-of-global-outage-full-recovery-timeline?ref=%2Flife%2Ftech%2F3355590%2Fmicrosoft-reveals-cause-of-global-outage-full-recovery-timeline%3Ftbref%3Dhp",
+  "genuineness": "verified",
+  "outlets": [
+   "Microsoft 365 Status",
+   "Bangkok Post",
+   "Outlook India",
+   "The Guardian"
+  ],
+  "image": null,
+  "image_credit": null
+ },
+ {
+  "id": "world-20261117-1322-03",
+  "published_ist": "2026-11-17T12:37:00+05:30",
+  "headline": "UK me berozgari 4.6% par aayi",
+  "detail": "ONS ke mutabik July–September me UK ki berozgari dar 4.7% se ghatkar 4.6% hui, jabki vetan vriddhi 3.5% par dheemi padi aur October me company payroll me 34,000 ki kami aayi.",
+  "category": "World",
+  "exam_angle": "UK arthvyavastha aur Bank of England — UPSC ke liye upyogi.",
+  "source": "ONS",
+  "source_url": "https://www.ons.gov.uk/employmentandlabourmarket/peopleinwork/employmentandemployeetypes/bulletins/employmentintheuk/november2026",
+  "genuineness": "verified",
+  "outlets": [
+   "ONS",
+   "Reuters",
+   "The Guardian"
+  ],
+  "image": null,
+  "image_credit": null
+ },
+ {
+  "id": "world-20261117-1422-01",
+  "published_ist": "2026-11-17T10:49:00+05:30",
+  "headline": "Serbia: chhatra dal ki sansad ne shapath li",
+  "detail": "Belgrade me Serbia ki nayi sansad ki pehli baithak hui aur chhatra samarthit Student List ke 140 sansadon ne shapath li, jisse Vucic ke 14 saal ke shasan ka ant aupcharik hua.",
+  "category": "World",
+  "exam_angle": "Serbia, loktantra aur chhatra andolan — UPSC ke liye upyogi.",
+  "source": "The Thursday Times",
+  "source_url": "https://thursdaytimes.com/2026/11/17/news/international/serbia-student-list-mps-oath-new-parliament/",
+  "genuineness": "corroborated",
+  "outlets": [
+   "The Thursday Times",
+   "EU Today",
+   "The New York Times"
+  ],
+  "image": null,
+  "image_credit": null
+ },
+ {
+  "id": "world-20261117-1422-02",
+  "published_ist": "2026-11-17T10:30:00+05:30",
+  "headline": "Optimizely hack: 178 badi websites nishane par",
+  "detail": "Optimizely platform ke zariye Zoom, BBC, CNN, HSBC aur IKEA samet 178 sangathanon ki websites par crypto aur card details churane wala kharab JavaScript daala gaya; Optimizely ne kami band kar di hai.",
+  "category": "World",
+  "exam_angle": "Supply-chain cyberattack aur digital suraksha — UPSC ke liye mahatvapurna.",
+  "source": "Reuters",
+  "source_url": "https://www.reuters.com/legal/government/popular-websites-subverted-bid-steal-crypto-target-iphone-users-2026-11-17/",
+  "genuineness": "verified",
+  "outlets": [
+   "Reuters",
+   "BleepingComputer",
+   "Cointelegraph",
+   "CybersecurityNews",
+   "Outlook India"
+  ],
+  "image": null,
+  "image_credit": null
+ },
+ {
+  "id": "world-20261117-1422-03",
+  "published_ist": "2026-11-17T06:38:00+05:30",
+  "headline": "Iran ne IAEA nirikshan se inkar kiya",
+  "detail": "Up Videsh Mantri Gharibabadi ne kaha Iran apne kshatigrast parmanu sthalon par IAEA nirikshakon ko tab tak nahi aane dega jab tak yuddh sthayi roop se khatm na ho aur America uski shartein na maane.",
+  "category": "World",
+  "exam_angle": "IAEA, Iran parmanu karyakram aur aprasar — UPSC ke liye mahatvapurna.",
+  "source": "Dawn",
+  "source_url": "https://www.dawn.com/news/2045066/iran-refuses-to-let-nuclear-inspectors-in-until-war-ends",
+  "genuineness": "corroborated",
+  "outlets": [
+   "AFP",
+   "Dawn",
+   "Al Arabiya",
+   "Arab News"
+  ],
+  "image": null,
+  "image_credit": null
+ },
+ {
+  "id": "world-20261117-1422-04",
+  "published_ist": "2026-11-16T18:03:00+05:30",
+  "headline": "COP31 draft: jeevashm indhan bandi tez",
+  "detail": "Antalya me COP31 ke pehle draft me jeevashm indhan ko tezi se band karne aur 2035 tak jalvayu anukoolan ke liye saalana $120 arab dene ki baat hai, lekin antim faisla 20 November tak baki hai.",
+  "category": "World",
+  "exam_angle": "COP31, jalvayu vitt aur jeevashm indhan — UPSC ke liye mahatvapurna.",
+  "source": "The Hindu",
+  "source_url": "https://www.thehindu.com/sci-tech/energy-and-environment/cop31-draft-deal-calls-for-accelerated-action-to-exit-fossil-fuels/article71707955.ece",
+  "genuineness": "verified",
+  "outlets": [
+   "The Hindu",
+   "The Straits Times",
+   "The Business Standard",
+   "AAP",
+   "Türkiye Today",
+   "Kuwait Times"
+  ],
+  "image": null,
+  "image_credit": null
+ },
+ {
+  "id": "world-20261117-1522-01",
+  "published_ist": "2026-11-17T14:12:00+05:30",
+  "headline": "Bahrain: Iran ka teesra drone hamla",
+  "detail": "Iran ne Sheikh Isa Air Base par US radar ko nishana banaya — paanch din me teesra hamla; Bahrain ne drone roke, teesra US carrier bhi kshetra me pahuncha.",
+  "category": "World",
+  "exam_angle": "West Asia me tanav, Hormuz tel supply par asar.",
+  "source": "Malay Mail",
+  "source_url": "https://www.malaymail.com/amp/news/world/2026/11/17/blasts-rock-manama-as-iran-launches-third-drone-attack-on-bahrain-in-five-days/243617",
+  "genuineness": "verified",
+  "outlets": [
+   "AFP",
+   "The National",
+   "Al Jazeera"
+  ],
+  "image": null,
+  "image_credit": null
+ },
+ {
+  "id": "world-20261117-1622-01",
+  "published_ist": "2026-11-17T13:48:00+05:30",
+  "headline": "Zaporizhzhia par hamla: 2 ki maut, 18 ghayal",
+  "detail": "Subah ke hamle me Zaporizhzhia ke teen jilon ki audyogik imaraton par hamla hua — 2 log mare, 18 ghayal; malbe se ek mahila zinda nikali gayi.",
+  "category": "World",
+  "exam_angle": "Russia-Ukraine yuddh, nagrik nuksan — UPSC ke liye mahatvapurna.",
+  "source": "Ukrainska Pravda",
+  "source_url": "https://www.pravda.com.ua/eng/news/2026/11/17/8063226/",
+  "genuineness": "verified",
+  "outlets": [
+   "Ukrainska Pravda",
+   "Hromadske",
+   "Kyiv Post",
+   "LB.ua"
+  ],
+  "image": null,
+  "image_credit": null
+ },
+ {
+  "id": "world-20261117-1622-02",
+  "published_ist": "2026-11-17T10:00:00+05:30",
+  "headline": "Vance: Iran yuddh 'forever war' nahi hoga",
+  "detail": "Up-Rashtrapati Vance ne Fox News se kaha Trump Iran sangharsh ko lamba nahi khinchenge — 10-15 saal to door, do saal ki pratibaddhta bhi nahi hogi.",
+  "category": "World",
+  "exam_angle": "America-Iran yuddh, US videsh neeti — UPSC ke liye mahatvapurna.",
+  "source": "The Economic Times",
+  "source_url": "https://economictimes.indiatimes.com/news/international/world-news/us-vice-president-jd-vance-says-trump-will-avoid-forever-war-in-iran/articleshow/135910319.cms",
+  "genuineness": "verified",
+  "outlets": [
+   "The Economic Times",
+   "Jerusalem Post",
+   "Dawn",
+   "New York Post"
+  ],
+  "image": null,
+  "image_credit": null
+ },
+ {
+  "id": "world-20261117-1622-03",
+  "published_ist": "2026-11-17T07:08:00+05:30",
+  "headline": "South Africa: do golibari me 17 ki maut",
+  "detail": "Ravivar raat Pretoria ke paas jhopdi me 9 aur Pietermaritzburg ke paas gaadi me 8 log mare gaye; police ne dono hamlo ko asambandhit bataya, abhi koi giraftari nahi hui.",
+  "category": "World",
+  "exam_angle": "South Africa, bandook hinsa aur kanoon-vyavastha — UPSC ke liye upyogi.",
+  "source": "Dawn",
+  "source_url": "https://www.dawn.com/news/print/2045065",
+  "genuineness": "verified",
+  "outlets": [
+   "Dawn",
+   "The Nation",
+   "Bolo",
+   "Tribuna"
+  ],
+  "image": null,
+  "image_credit": null
+ },
+ {
+  "id": "world-20261117-1722-01",
+  "published_ist": "2026-11-17T12:17:00+05:30",
+  "headline": "Mongolia ke Rashtrapati ne istifa diya",
+  "detail": "Bhrashtachar ke aaropon aur mahaabhiyog ki dhamki ke baad Ukhnaa Khurelsukh ne istifa diya — aaropon se inkar karte hue kaha jaanch me sahyog karenge; sansad ko chaar mahine me chunav karana hoga.",
+  "category": "World",
+  "exam_angle": "Mongolia, rashtrapati istifa aur bhrashtachar — UPSC ke liye upyogi.",
+  "source": "Reuters",
+  "source_url": "https://www.reuters.com/world/china/mongolian-president-announces-resignation-over-alleged-corruption-2026-11-17/",
+  "genuineness": "verified",
+  "outlets": [
+   "Reuters",
+   "AP",
+   "AFP",
+   "TRT World"
+  ],
+  "image": null,
+  "image_credit": null
+ },
+ {
+  "id": "world-20261117-1822-01",
+  "published_ist": "2026-11-17T15:10:00+05:30",
+  "headline": "Tara Gas par doosra hamla, 1 Bharatiya lapata",
+  "detail": "Hormuz ke paas Panama ke LPG tanker Tara Gas par doosra hamla hua; 25 ka dal jahaz chhodkar nikla, 24 surakshit mile, 1 Bharatiya navik lapata hai.",
+  "category": "World",
+  "exam_angle": "Hormuz, tel vyapar, samudri suraksha — UPSC ke liye mahatvapurna.",
+  "source": "Gulf News",
+  "source_url": "https://gulfnews.com/world/mena/middle-east-conflict-tanker-incident-near-hormuz-as-vance-rules-out-forever-war-1.500749924",
+  "genuineness": "verified",
+  "outlets": [
+   "Gulf News",
+   "Al Jazeera",
+   "UKMTO"
+  ],
+  "image": null,
+  "image_credit": null
+ },
+ {
+  "id": "world-20261117-1922-01",
+  "published_ist": "2026-11-17T17:53:00+05:30",
+  "headline": "Trump: Iran hamla kare to bhari keemat",
+  "detail": "Manila me Trump ne kaha agar Iran ne Washington par hamla kiya to use aisi keemat chukani hogi jo kisi desh ne kabhi nahi chukayi; White House ne kaha filhal koi pakka khatra nahi dikh raha, Iran ne aaropon ko 'bebuniyad' batakar kharij kiya.",
+  "category": "World",
+  "exam_angle": "US-Iran yuddh, dirty bomb aur rasayanik hathiyar — UPSC ke liye mahatvapurna.",
+  "source": "The Times of India",
+  "source_url": "https://timesofindia.indiatimes.com/world/us/trump-warns-iran-will-pay-a-price-no-country-has-ever-faced-over-dirty-bomb-threat-to-washington/articleshow/135925387.cms",
+  "genuineness": "verified",
+  "outlets": [
+   "CNN",
+   "Reuters",
+   "The Times of India",
+   "The Jerusalem Post",
+   "New York Post"
+  ],
+  "image": null,
+  "image_credit": null
+ },
+ {
+  "id": "world-20261117-1922-02",
+  "published_ist": "2026-11-17T17:20:00+05:30",
+  "headline": "Jericho me golibari: 72 saal ki mahila ki maut",
+  "detail": "Duyuk al-Tahta gaon me raat ko golibari me 72 saal ki ek mahila ki maut ho gayi aur kai log ghayal hue; Filistin adhikariyon ne basne walon par aarop lagaya, Israeli sena ne kaha pehle gaadi se hamla hua tha.",
+  "category": "World",
+  "exam_angle": "West Bank, Israeli basti aur do-rashtra samadhan — UPSC ke liye upyogi.",
+  "source": "Al Arabiya",
+  "source_url": "https://english.alarabiya.net/News/middle-east/2026/11/17/israeli-settlers-kill-palestinian-woman-72-in-west-bank?utm_source=article&utm_medium=explore&utm_campaign=explore-more",
+  "genuineness": "verified",
+  "outlets": [
+   "Reuters",
+   "Al Arabiya",
+   "Haaretz",
+   "BBC"
+  ],
+  "image": null,
+  "image_credit": null
+ },
+ {
+  "id": "world-20261117-1922-03",
+  "published_ist": "2026-11-17T12:23:00+05:30",
+  "headline": "UK ne Israeli basti companiyon par pratibandh lagaye",
+  "detail": "Britain ne West Bank me basti banane wali aath companiyon aur Gaza sahayata rokne wale Tzav 9 par sampatti jabti aur nideshak pratibandh lagaye; E1 pariyojana ki boliyon se pehle yeh kadam uthaya gaya.",
+  "category": "World",
+  "exam_angle": "UK pratibandh, West Bank basti aur E1 pariyojana — UPSC ke liye upyogi.",
+  "source": "Reuters",
+  "source_url": "https://www.reuters.com/world/uk/britain-sanctions-israeli-settlement-builders-gaza-aid-blocking-activists-2026-11-17/",
+  "genuineness": "verified",
+  "outlets": [
+   "Reuters",
+   "Haaretz",
+   "The Jerusalem Post",
+   "Israel Hayom",
+   "Outlook India"
+  ],
+  "image": null,
+  "image_credit": null
+ },
+ {
+  "id": "world-20261117-2022-01",
+  "published_ist": "2026-11-17T19:07:00+05:30",
+  "headline": "Iran ka daava: do American drone giraye",
+  "detail": "Iran ki sena aur IRGC ne daava kiya ki Hormuz ke paas America ke LUCAS aur MQ-1 drone giraye gaye; America ne abhi iski pushti nahi ki hai.",
+  "category": "World",
+  "exam_angle": "US-Iran yuddh me drone yuddh — UPSC ke liye mahatvapurna.",
+  "source": "Moneycontrol",
+  "source_url": "https://www.moneycontrol.com/world/iran-says-it-shot-down-us-made-lucas-drone-over-strait-of-hormuz-article-14082782.html/amp",
+  "genuineness": "corroborated",
+  "outlets": [
+   "Dawn",
+   "Al Jazeera",
+   "Moneycontrol",
+   "News9",
+   "Press TV"
+  ],
+  "image": null,
+  "image_credit": null
+ },
+ {
+  "id": "world-20261117-2022-02",
+  "published_ist": "2026-11-17T14:45:00+05:30",
+  "headline": "Iran ki dhamki: bandh-bijli ghar nishane par",
+  "detail": "Iran ke sansad adhyaksh Ghalibaf ne kaha America-Israel ke thikanon ke paas bandh, bandargah aur bijli ghar bhi 'dual-use' mane jayenge; yeh chetavni NYT ki report ke jawab me aayi.",
+  "category": "World",
+  "exam_angle": "Iran-US tanaav aur 'dual-use' siddhant — UPSC ke liye mahatvapurna.",
+  "source": "Firstpost",
+  "source_url": "https://www.firstpost.com/world/iran-us-israel-threat-dam-ports-power-plants-nyt-report-dual-use-military-infrastructure-missile-cities-14060594.html",
+  "genuineness": "corroborated",
+  "outlets": [
+   "Firstpost",
+   "Outlook India"
+  ],
+  "image": null,
+  "image_credit": null
+ },
+ {
+  "id": "world-20261117-2122-01",
+  "published_ist": "2026-11-17T16:50:00+05:30",
+  "headline": "Netherlands sarkar bachi, sankat khatm",
+  "detail": "Char din ke sankat ke baad PM Rob Jetten ne kaha teeno dalon ke beech vishwas bahaal ho gaya aur alpasankhyak sarkar kaam karti rahegi; vivaad dhan kar par tha.",
+  "category": "World",
+  "exam_angle": "Europe me alpasankhyak sarkar aur gathbandhan rajneeti — UPSC ke liye mahatvapurna.",
+  "source": "Reuters",
+  "source_url": "https://www.reuters.com/world/dutch-pm-says-coalition-has-found-way-keep-going-after-crisis-talks-2026-11-17/",
+  "genuineness": "verified",
+  "outlets": [
+   "Reuters",
+   "Brussels Signal"
+  ],
+  "image": null,
+  "image_credit": null
+ },
+ {
+  "id": "world-20261117-2122-02",
+  "published_ist": "2026-11-17T16:15:00+05:30",
+  "headline": "Thaci ko 17 mahine ki aur saza",
+  "detail": "Hague ki vishesh adalat ne Kosovo ke poorv Rashtrapati Hashim Thaci ko yuddh-apradh mukadme me gawahon ko prabhavit karne par 17 mahine ki saza di; yeh unki 25 saal ki saza ke alawa hai.",
+  "category": "World",
+  "exam_angle": "Kosovo vishesh adalat aur antarrashtriya nyay — UPSC ke liye mahatvapurna.",
+  "source": "Bangkok Post",
+  "source_url": "https://www.bangkokpost.com/world/3356420/exkosovo-leader-sentenced-for-influencing-witnesses?ref=%2Fworld%2F3356420%2Fexkosovo-leader-sentenced-for-influencing-witnesses",
+  "genuineness": "verified",
+  "outlets": [
+   "Associated Press",
+   "Bangkok Post",
+   "Türkiye Today",
+   "SeeNews"
+  ],
+  "image": null,
+  "image_credit": null
+ },
+ {
+  "id": "world-20261117-2122-03",
+  "published_ist": "2026-11-17T14:48:00+05:30",
+  "headline": "Bulgaria ke paas LPG tanker dooba",
+  "detail": "Liberia ke jhande wala LPG tanker Gas Husky Bulgaria ke Black Sea tat se lagbhag 50 mile door doob gaya; 19 sadasyiya amle ko surakshit bacha liya gaya, Romania ne drone hamle ka daava kiya hai, Bulgaria ne abhi pushti nahi ki.",
+  "category": "World",
+  "exam_angle": "Black Sea me samudri suraksha aur NATO — UPSC ke liye mahatvapurna.",
+  "source": "Türkiye Today",
+  "source_url": "https://www.turkiyetoday.com/world/lpg-tanker-gas-husky-sinks-off-bulgaria-a-day-after-betul-8-went-down-3232613",
+  "genuineness": "verified",
+  "outlets": [
+   "Reuters",
+   "Türkiye Today",
+   "The Defence Blog"
+  ],
+  "image": null,
+  "image_credit": null
+ },
+ {
+  "id": "world-20261117-2122-04",
+  "published_ist": "2026-11-17T00:56:00+05:30",
+  "headline": "Paanch deshon ki Rwanda deportation yojana",
+  "detail": "Germany, Austria, Denmark, Greece aur Netherlands ne kharij sharan yachika wale logon ko Rwanda ke kendra me bhejne ki yojana ghoshit ki; pehle transfer 2027 se, manvadhikar samoohon ne virodh kiya.",
+  "category": "World",
+  "exam_angle": "EU pravasan neeti aur 'return hub' — UPSC ke liye mahatvapurna.",
+  "source": "Al Jazeera",
+  "source_url": "https://www.aljazeera.com/news/2026/11/16/five-eu-countries-announce-plan-to-send-rejected-asylum-seekers-to-rwanda?traffic_source=rss",
+  "genuineness": "verified",
+  "outlets": [
+   "Al Jazeera",
+   "CNN",
+   "The Jerusalem Post",
+   "The Manila Times",
+   "The Irish Times"
+  ],
+  "image": null,
+  "image_credit": null
+ },
+ {
+  "id": "world-20261117-2226-01",
+  "published_ist": "2026-11-17T21:09:00+05:30",
+  "headline": "Qeshm dweep par hamle, America par aarop",
+  "detail": "Iran ke Hormuz sthit Qeshm dweep par shaam ko kai dhamake hue; Iranian adhikari ne America par hamle ka aarop lagaya aur kaha koi nuksan nahi hua.",
+  "category": "World",
+  "exam_angle": "US-Iran yuddh, Hormuz me tanaav — UPSC ke liye mahatvapurna.",
+  "source": "Arab News",
+  "source_url": "https://www.arabnews.com/middle-east/us-attacks-irans-qeshm-island-in-strait-of-hormuz-official-3012499",
+  "genuineness": "verified",
+  "outlets": [
+   "AFP",
+   "Al Jazeera",
+   "NDTV"
+  ],
+  "image": null,
+  "image_credit": null
+ },
+ {
+  "id": "world-20261117-2226-02",
+  "published_ist": "2026-11-17T19:54:00+05:30",
+  "headline": "Yemen me Saudi hamle, 7 ki maut ka daava",
+  "detail": "Houthi media ke mutabik Saudi netritva wale gathbandhan ne Sanaa aur Hodeidah me factoryon par hamle kiye; Houthi swasthya mantralaya ne 7 ki maut batayi, Saudi ne abhi pushti nahi ki hai.",
+  "category": "World",
+  "exam_angle": "Yemen yuddh, Saudi-Houthi sangharsh — UPSC ke liye upyogi.",
+  "source": "Al Bawaba",
+  "source_url": "https://www.albawaba.net/news/saudi-airstrikes-hit-industrial-sites-1641617",
+  "genuineness": "corroborated",
+  "outlets": [
+   "AFP",
+   "Al Bawaba",
+   "Anadolu"
+  ],
+  "image": null,
+  "image_credit": null
+ },
+ {
+  "id": "world-20261117-2226-03",
+  "published_ist": "2026-11-17T14:30:00+05:30",
+  "headline": "Bangladesh 33rd parmanu-bijli wala desh",
+  "detail": "Rooppur parmanu sanyantra ki pehli unit se 350 MW bijli pehli baar trial par national grid se judi; mantri ne kaha Bangladesh duniya ka 33rd parmanu-bijli wala desh bana.",
+  "category": "World",
+  "exam_angle": "Bangladesh, parmanu urja, Russia sahyog — UPSC ke liye upyogi.",
+  "source": "Dhaka Tribune",
+  "source_url": "https://www.dhakatribune.com/bangladesh/power-energy/424916/bangladesh-emerges-as-33rd-nuclear-power-nation",
+  "genuineness": "verified",
+  "outlets": [
+   "Dhaka Tribune",
+   "Prothom Alo",
+   "ANI"
+  ],
+  "image": null,
+  "image_credit": null
+ },
+ {
+  "id": "world-20261117-2226-04",
+  "published_ist": "2026-11-17T13:30:00+05:30",
+  "headline": "Mozambique: vipaksh neta par mukadma shuru",
+  "detail": "2024 ke vivadit chunav ke baad hinsa par vipaksh neta Venancio Mondlane par Maputo ki Supreme Court me mukadma shuru hua; un par aatankwad bhadkane ke aarop hain, doshi paye gaye to 24 saal tak ki saza ho sakti hai.",
+  "category": "World",
+  "exam_angle": "Africa me loktantra, chunav-hinsa — UPSC ke liye upyogi.",
+  "source": "Reuters",
+  "source_url": "https://www.reuters.com/business/media-telecom/mozambiques-main-opposition-leader-goes-trial-over-post-election-unrest-2026-11-17/",
+  "genuineness": "verified",
+  "outlets": [
+   "Reuters",
+   "Al Jazeera",
+   "Associated Press"
+  ],
+  "image": null,
+  "image_credit": null
+ }
+]
