@@ -1,6 +1,63 @@
 {
-  "updated_ist": "2026-11-17T15:24:53+05:30",
+  "updated_ist": "2026-11-17T16:24:58+05:30",
   "items": [
+    {
+      "id": "world-20261117-1622-01",
+      "published_ist": "2026-11-17T13:48:00+05:30",
+      "headline": "Zaporizhzhia par hamla: 2 ki maut, 18 ghayal",
+      "detail": "Subah ke hamle me Zaporizhzhia ke teen jilon ki audyogik imaraton par hamla hua — 2 log mare, 18 ghayal; malbe se ek mahila zinda nikali gayi.",
+      "category": "World",
+      "exam_angle": "Russia-Ukraine yuddh, nagrik nuksan — UPSC ke liye mahatvapurna.",
+      "source": "Ukrainska Pravda",
+      "source_url": "https://www.pravda.com.ua/eng/news/2026/11/17/8063226/",
+      "genuineness": "verified",
+      "outlets": [
+        "Ukrainska Pravda",
+        "Hromadske",
+        "Kyiv Post",
+        "LB.ua"
+      ],
+      "image": null,
+      "image_credit": null
+    },
+    {
+      "id": "world-20261117-1622-02",
+      "published_ist": "2026-11-17T10:00:00+05:30",
+      "headline": "Vance: Iran yuddh 'forever war' nahi hoga",
+      "detail": "Up-Rashtrapati Vance ne Fox News se kaha Trump Iran sangharsh ko lamba nahi khinchenge — 10-15 saal to door, do saal ki pratibaddhta bhi nahi hogi.",
+      "category": "World",
+      "exam_angle": "America-Iran yuddh, US videsh neeti — UPSC ke liye mahatvapurna.",
+      "source": "The Economic Times",
+      "source_url": "https://economictimes.indiatimes.com/news/international/world-news/us-vice-president-jd-vance-says-trump-will-avoid-forever-war-in-iran/articleshow/135910319.cms",
+      "genuineness": "verified",
+      "outlets": [
+        "The Economic Times",
+        "Jerusalem Post",
+        "Dawn",
+        "New York Post"
+      ],
+      "image": null,
+      "image_credit": null
+    },
+    {
+      "id": "world-20261117-1622-03",
+      "published_ist": "2026-11-17T07:08:00+05:30",
+      "headline": "South Africa: do golibari me 17 ki maut",
+      "detail": "Ravivar raat Pretoria ke paas jhopdi me 9 aur Pietermaritzburg ke paas gaadi me 8 log mare gaye; police ne dono hamlo ko asambandhit bataya, abhi koi giraftari nahi hui.",
+      "category": "World",
+      "exam_angle": "South Africa, bandook hinsa aur kanoon-vyavastha — UPSC ke liye upyogi.",
+      "source": "Dawn",
+      "source_url": "https://www.dawn.com/news/print/2045065",
+      "genuineness": "verified",
+      "outlets": [
+        "Dawn",
+        "The Nation",
+        "Bolo",
+        "Tribuna"
+      ],
+      "image": null,
+      "image_credit": null
+    },
     {
       "id": "world-20261117-1522-01",
       "published_ist": "2026-11-17T14:12:00+05:30",
@@ -387,58 +444,6 @@
         "Indian Economic Observer",
         "InvestingLive",
         "The Alaska Story"
-      ],
-      "image": null,
-      "image_credit": null
-    },
-    {
-      "id": "world-20261117-0922-03",
-      "published_ist": "2026-11-17T02:12:00+05:30",
-      "headline": "Kushner: Ukraine shanti vaarta me pragati",
-      "detail": "US doot Kushner ne kaha yuddh khatm karne ki disha me pragati ho rahi hai; suraksha guarantee, EU sadasyata aur punarnirman — teen stambh bataye.",
-      "category": "World",
-      "exam_angle": "Ukraine shanti vaarta, US-Russia-EU — UPSC ke liye mahatvapurna.",
-      "source": "The Tribune",
-      "source_url": "https://www.tribuneindia.com/news/usa-news/making-progress-us-envoy-kushner-outlines-three-pillars-for-ukraines-future-amid-peace-talks/",
-      "genuineness": "corroborated",
-      "outlets": [
-        "Reuters",
-        "The Tribune (ANI)"
-      ],
-      "image": null,
-      "image_credit": null
-    },
-    {
-      "id": "world-20261117-0922-04",
-      "published_ist": "2026-11-17T01:47:00+05:30",
-      "headline": "Russia ko North Korea se har mahine missile",
-      "detail": "Zelensky ne kaha Russia ko North Korea se har mahine darjanon ballistic missile mil rahi hain; Ukraine ko bhi barabar ke hathiyar chahiye.",
-      "category": "World",
-      "exam_angle": "Russia-North Korea sainya sahyog, missile — UPSC ke liye mahatvapurna.",
-      "source": "The Tribune",
-      "source_url": "https://www.tribuneindia.com/news/world/ukraine-needs-clear-parity-to-respond-to-russian-threat-zelenskyy-seeks-supply-of-comparable-weapons-from-allies/",
-      "genuineness": "corroborated",
-      "outlets": [
-        "Kyiv Post",
-        "The Tribune (ANI)"
-      ],
-      "image": null,
-      "image_credit": null
-    },
-    {
-      "id": "world-20261117-0922-02",
-      "published_ist": "2026-11-16T21:45:00+05:30",
-      "headline": "US hawai yatra phir lagbhag samanya hui",
-      "detail": "Somvar ko sirf 350 udanein radd hui — Shukravar ko 9,200 radd hui thin; chaar ghante ka deshvyapi ground stop 9/11 ke baad sabse lamba tha.",
-      "category": "World",
-      "exam_angle": "US aviation, FAA, hawai suraksha — UPSC ke liye upyogi.",
-      "source": "Channel News Asia",
-      "source_url": "https://www.channelnewsasia.com/world/us-flights-delays-cancellations-normal-airport-6556301",
-      "genuineness": "verified",
-      "outlets": [
-        "Agence France-Presse",
-        "Kuwait Times",
-        "Daily VOA"
       ],
       "image": null,
       "image_credit": null
