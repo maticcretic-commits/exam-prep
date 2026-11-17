@@ -1,6 +1,80 @@
 {
-  "updated_ist": "2026-11-17T09:26:43+05:30",
+  "updated_ist": "2026-11-17T10:28:16+05:30",
   "items": [
+    {
+      "id": "world-20261117-1022-02",
+      "published_ist": "2026-11-17T07:12:00+05:30",
+      "headline": "Pope Leo ki South America yatra khatm",
+      "detail": "12 din, 50 karyakram aur 1.3 crore log — Lima me 15 lakh ki antim Mass ke saath Pope Leo ne Uruguay, Argentina aur Peru ki yatra samapt ki, phaphde ki surgery ke ek mahine baad.",
+      "category": "World",
+      "exam_angle": "Pope Leo XIV, Vatican aur Latin America — UPSC ke liye upyogi.",
+      "source": "Reuters",
+      "source_url": "https://www.reuters.com/world/americas/pope-leo-ends-south-america-tour-that-drew-millions-with-one-final-vast-crowd-2026-11-16/",
+      "genuineness": "verified",
+      "outlets": [
+        "Reuters",
+        "Geo TV",
+        "France 24",
+        "The Times"
+      ],
+      "image": "../images/world/world-20261117-1022-02.jpg",
+      "image_credit": "GORE Callao, Wikimedia Commons (Public domain)"
+    },
+    {
+      "id": "world-20261117-1022-04",
+      "published_ist": "2026-11-17T06:18:00+05:30",
+      "headline": "United Airlines me gadbad, 418 udaan deri se",
+      "detail": "United Airlines ne kaha takniki gadbadi se uski udaanen deri se chali; FlightAware ke mutabik 418 udaanen deri se aur 21 radd hui, cyber hamle ka sanket nahi.",
+      "category": "World",
+      "exam_angle": "US aviation, FAA aur airline suraksha — UPSC ke liye upyogi.",
+      "source": "Reuters",
+      "source_url": "https://www.reuters.com/world/us/united-airlines-says-technology-issue-affecting-departing-flights-2026-11-16/",
+      "genuineness": "verified",
+      "outlets": [
+        "Reuters",
+        "AP",
+        "The Economic Times"
+      ],
+      "image": null,
+      "image_credit": null
+    },
+    {
+      "id": "world-20261117-1022-03",
+      "published_ist": "2026-11-17T05:51:00+05:30",
+      "headline": "Moyale jhadap: 50,000 log Kenya bhaage",
+      "detail": "Ethiopia ke Oromia-Somali seema vivad par Moyale me hinsa bhadki; UNHCR ke mutabik 22 October se 50,000 tak log Kenya bhaag chuke hain, zyadatar mahilayen aur bachche.",
+      "category": "World",
+      "exam_angle": "Ethiopia-Kenya seema, UNHCR aur sharanarthi sankat — UPSC ke liye upyogi.",
+      "source": "Al Jazeera",
+      "source_url": "https://www.aljazeera.com/amp/news/2026/11/17/ethiopia-moyale-clashes-disrupt-livelihoods-as-territorial-dispute-deepens",
+      "genuineness": "verified",
+      "outlets": [
+        "Al Jazeera",
+        "UNHCR",
+        "Citizen Digital"
+      ],
+      "image": null,
+      "image_credit": null
+    },
+    {
+      "id": "world-20261117-1022-01",
+      "published_ist": "2026-11-16T20:48:00+05:30",
+      "headline": "Trump: China me Kim se mil sakte hain",
+      "detail": "Trump ne kaha Xi Jinping chahein to Kim Jong Un bhi Shenzhen aa sakte hain; 19 November ki Xi-Trump-Putin baithak se pehle yeh sanket aaya, jabki Pyongyang ne baatchit se inkar kiya hai.",
+      "category": "World",
+      "exam_angle": "APEC, US-China-Russia trilateral aur North Korea — UPSC ke liye mahatvapurna.",
+      "source": "WION",
+      "source_url": "https://www.wionews.com/world/we-have-a-chance-did-trump-just-reveal-his-secret-plan-to-meet-north-korea-s-kim-jong-un-in-china-1794841093629/amp",
+      "genuineness": "verified",
+      "outlets": [
+        "WION",
+        "The Korea Times",
+        "The Straits Times",
+        "The Tribune"
+      ],
+      "image": null,
+      "image_credit": null
+    },
     {
       "id": "world-20261117-0822-01",
       "published_ist": "2026-11-17T07:25:00+05:30",
@@ -366,79 +440,6 @@
       ],
       "image": null,
       "image_credit": null
-    },
-    {
-      "id": "world-20261116-2222-03",
-      "published_ist": "2026-11-16T13:36:00+05:30",
-      "headline": "Iran ki US afsaron ko dhamki",
-      "detail": "Iran ke dakshin Africa sthit dutavas ne USS Spruance ke do afsaron ki tasveer ke saath 'We will find you' likha — un par February me Minab school par hamle ka aarop hai; America ne abhi pushti nahi ki.",
-      "category": "World",
-      "exam_angle": "Iran-US tensions, Minab, USS Spruance — UPSC ke liye mahatvapurna.",
-      "source": "Firstpost",
-      "source_url": "https://www.firstpost.com/world/we-will-find-you-iran-threatens-two-us-navy-officers-over-deadly-minab-school-strike-14060263.html",
-      "genuineness": "verified",
-      "outlets": [
-        "Firstpost",
-        "NDTV",
-        "The Times of India",
-        "The Tribune",
-        "WION"
-      ],
-      "image": null,
-      "image_credit": null
-    },
-    {
-      "id": "world-20261116-1822-03",
-      "published_ist": "2026-11-16T12:45:00+05:30",
-      "headline": "Iran ne IAEA nirikshan se inkar kiya",
-      "detail": "Up-videsh mantri Gharibabadi ne kaha Iran apne kshatigrast parmanu sthalon — Natanz, Fordow, Isfahan — par IAEA nirikshan tab tak nahi dega jab tak yuddh sthayi roop se khatm na ho aur America shartein na mane.",
-      "category": "World",
-      "exam_angle": "IAEA, Iran parmanu karyakram, West Asia — UPSC ke liye mahatvapurna.",
-      "source": "Free Malaysia Today",
-      "source_url": "https://www.freemalaysiatoday.com/category/world/2026/11/16/iran-rules-out-un-inspections-of-damaged-nuclear-sites-until-war-ends",
-      "genuineness": "corroborated",
-      "outlets": [
-        "Agence France-Presse",
-        "Astig"
-      ],
-      "image": null,
-      "image_credit": null
-    },
-    {
-      "id": "world-20261116-1722-02",
-      "published_ist": "2026-11-16T12:16:00+05:30",
-      "headline": "Zelensky: Starshield rok hatao",
-      "detail": "Zelensky ne kaha Starshield ki 161 km/h gati seema se Ukraine ke interceptor drone Shahed drone ko pakad nahi pa rahe — sardiyon se pehle urja dhanche ki suraksha khatre me; SpaceX ne badlav se inkar kiya.",
-      "category": "World",
-      "exam_angle": "Starshield, upgrah sanchar, drone yuddh — UPSC ke liye mahatvapurna.",
-      "source": "Outlook India",
-      "source_url": "https://www.outlookindia.com/amp/story/international/zelensky-musk-spacex-starshield-restrictions-ukraine-drone-defence",
-      "genuineness": "verified",
-      "outlets": [
-        "BBC",
-        "Outlook India",
-        "Times Now"
-      ],
-      "image": null,
-      "image_credit": null
-    },
-    {
-      "id": "world-20261116-2022-01",
-      "published_ist": "2026-11-16T11:20:00+05:30",
-      "headline": "Estonia 1 December se Russia border band karega",
-      "detail": "Drone maker Threod Systems par GRU ke aadesh se aag lagane ki koshish ke baad Estonia ne 1 December se Russia se lagte teeno border crossing band karne ka elan kiya; 8 log giraftar, Kremlin ne aarop kharij kiya.",
-      "category": "World",
-      "exam_angle": "Estonia, NATO, Russia, GRU, hybrid warfare — UPSC ke liye mahatvapurna.",
-      "source": "The Hindu",
-      "source_url": "https://www.thehindu.com/news/international/estonia-to-close-russian-border-crossings-after-attempted-arson-attack/article71706831.ece",
-      "genuineness": "verified",
-      "outlets": [
-        "The Hindu",
-        "Al Jazeera",
-        "Firstpost"
-      ],
-      "image": "../images/world/world-20261116-2022-01.jpg",
-      "image_credit": "Sillerkiil, Wikimedia Commons (CC0)"
     }
   ]
 }
