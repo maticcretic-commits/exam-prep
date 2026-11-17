@@ -1,6 +1,6 @@
 {
   "date": "2026-11-17",
-  "updated_ist": "2026-11-17T13:24:33+05:30",
+  "updated_ist": "2026-11-17T14:27:52+05:30",
   "items": [
     {
       "id": "world-20261117-0626-01",
@@ -419,6 +419,84 @@
         "ONS",
         "Reuters",
         "The Guardian"
+      ],
+      "image": null,
+      "image_credit": null
+    },
+    {
+      "id": "world-20261117-1422-01",
+      "published_ist": "2026-11-17T10:49:00+05:30",
+      "headline": "Serbia: chhatra dal ki sansad ne shapath li",
+      "detail": "Belgrade me Serbia ki nayi sansad ki pehli baithak hui aur chhatra samarthit Student List ke 140 sansadon ne shapath li, jisse Vucic ke 14 saal ke shasan ka ant aupcharik hua.",
+      "category": "World",
+      "exam_angle": "Serbia, loktantra aur chhatra andolan — UPSC ke liye upyogi.",
+      "source": "The Thursday Times",
+      "source_url": "https://thursdaytimes.com/2026/11/17/news/international/serbia-student-list-mps-oath-new-parliament/",
+      "genuineness": "corroborated",
+      "outlets": [
+        "The Thursday Times",
+        "EU Today",
+        "The New York Times"
+      ],
+      "image": null,
+      "image_credit": null
+    },
+    {
+      "id": "world-20261117-1422-02",
+      "published_ist": "2026-11-17T10:30:00+05:30",
+      "headline": "Optimizely hack: 178 badi websites nishane par",
+      "detail": "Optimizely platform ke zariye Zoom, BBC, CNN, HSBC aur IKEA samet 178 sangathanon ki websites par crypto aur card details churane wala kharab JavaScript daala gaya; Optimizely ne kami band kar di hai.",
+      "category": "World",
+      "exam_angle": "Supply-chain cyberattack aur digital suraksha — UPSC ke liye mahatvapurna.",
+      "source": "Reuters",
+      "source_url": "https://www.reuters.com/legal/government/popular-websites-subverted-bid-steal-crypto-target-iphone-users-2026-11-17/",
+      "genuineness": "verified",
+      "outlets": [
+        "Reuters",
+        "BleepingComputer",
+        "Cointelegraph",
+        "CybersecurityNews",
+        "Outlook India"
+      ],
+      "image": null,
+      "image_credit": null
+    },
+    {
+      "id": "world-20261117-1422-03",
+      "published_ist": "2026-11-17T06:38:00+05:30",
+      "headline": "Iran ne IAEA nirikshan se inkar kiya",
+      "detail": "Up Videsh Mantri Gharibabadi ne kaha Iran apne kshatigrast parmanu sthalon par IAEA nirikshakon ko tab tak nahi aane dega jab tak yuddh sthayi roop se khatm na ho aur America uski shartein na maane.",
+      "category": "World",
+      "exam_angle": "IAEA, Iran parmanu karyakram aur aprasar — UPSC ke liye mahatvapurna.",
+      "source": "Dawn",
+      "source_url": "https://www.dawn.com/news/2045066/iran-refuses-to-let-nuclear-inspectors-in-until-war-ends",
+      "genuineness": "corroborated",
+      "outlets": [
+        "AFP",
+        "Dawn",
+        "Al Arabiya",
+        "Arab News"
+      ],
+      "image": null,
+      "image_credit": null
+    },
+    {
+      "id": "world-20261117-1422-04",
+      "published_ist": "2026-11-16T18:03:00+05:30",
+      "headline": "COP31 draft: jeevashm indhan bandi tez",
+      "detail": "Antalya me COP31 ke pehle draft me jeevashm indhan ko tezi se band karne aur 2035 tak jalvayu anukoolan ke liye saalana $120 arab dene ki baat hai, lekin antim faisla 20 November tak baki hai.",
+      "category": "World",
+      "exam_angle": "COP31, jalvayu vitt aur jeevashm indhan — UPSC ke liye mahatvapurna.",
+      "source": "The Hindu",
+      "source_url": "https://www.thehindu.com/sci-tech/energy-and-environment/cop31-draft-deal-calls-for-accelerated-action-to-exit-fossil-fuels/article71707955.ece",
+      "genuineness": "verified",
+      "outlets": [
+        "The Hindu",
+        "The Straits Times",
+        "The Business Standard",
+        "AAP",
+        "Türkiye Today",
+        "Kuwait Times"
       ],
       "image": null,
       "image_credit": null
