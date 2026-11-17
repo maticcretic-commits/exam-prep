@@ -1,6 +1,24 @@
 {
-  "updated_ist": "2026-11-17T14:27:52+05:30",
+  "updated_ist": "2026-11-17T15:24:53+05:30",
   "items": [
+    {
+      "id": "world-20261117-1522-01",
+      "published_ist": "2026-11-17T14:12:00+05:30",
+      "headline": "Bahrain: Iran ka teesra drone hamla",
+      "detail": "Iran ne Sheikh Isa Air Base par US radar ko nishana banaya — paanch din me teesra hamla; Bahrain ne drone roke, teesra US carrier bhi kshetra me pahuncha.",
+      "category": "World",
+      "exam_angle": "West Asia me tanav, Hormuz tel supply par asar.",
+      "source": "Malay Mail",
+      "source_url": "https://www.malaymail.com/amp/news/world/2026/11/17/blasts-rock-manama-as-iran-launches-third-drone-attack-on-bahrain-in-five-days/243617",
+      "genuineness": "verified",
+      "outlets": [
+        "AFP",
+        "The National",
+        "Al Jazeera"
+      ],
+      "image": null,
+      "image_credit": null
+    },
     {
       "id": "world-20261117-1422-01",
       "published_ist": "2026-11-17T10:49:00+05:30",
@@ -424,26 +442,6 @@
       ],
       "image": null,
       "image_credit": null
-    },
-    {
-      "id": "world-20261116-2222-01",
-      "published_ist": "2026-11-16T20:20:00+05:30",
-      "headline": "Imran Khan: 'Wapas zinda na aaun'",
-      "detail": "Jail me band poorv PM Imran Khan ne sheersh nyayadhishon ko patra likha — ilaaj na mila to zinda wapas nahi aa sakte, BP 192-193 aur dil ko nuksan ka daava kiya; patni Bushra Bibi ke liye bhi ilaaj manga, sarkar ne daavon ko kharij kiya.",
-      "category": "World",
-      "exam_angle": "Pakistan, Imran Khan, Pakistan judiciary — UPSC ke liye mahatvapurna.",
-      "source": "WION",
-      "source_url": "https://www.wionews.com/world/i-may-not-return-alive-imran-khan-pleads-judges-for-medical-aid-to-self-wife-bushra-bibi-1794839729295/amp",
-      "genuineness": "verified",
-      "outlets": [
-        "Dawn",
-        "The Express Tribune",
-        "WION",
-        "Outlook India",
-        "The Telegraph India"
-      ],
-      "image": "../images/world/world-20261116-2222-01.jpg",
-      "image_credit": "U.S. Department of State, Wikimedia Commons (Public domain)"
     }
   ]
 }
