@@ -1,0 +1,77 @@
+{
+ "date": "2026-11-18",
+ "date_hi": "18 November 2026",
+ "date_en": "18 November 2026",
+ "episodes": [
+  {
+   "episode": 133,
+   "video_hi": null,
+   "video_hinglish": null,
+   "capsules": [
+    {
+     "id": "ca-ep133-s1",
+     "headline_hi": "Modi ka ASEAN ko free e-visa tohfa",
+     "headline_hinglish": "Modi ka ASEAN ko free e-visa tohfa",
+     "detail_hi": "Manila mein Modi ne ASEAN paryatakon ke liye muft e-visa aur samudri sahyog yojana ki ghoshna ki.",
+     "detail_hinglish": "Manila mein Modi ne ASEAN paryatakon ke liye muft e-visa aur samudri sahyog yojana ki ghoshna ki.",
+     "category_hi": "International",
+     "category_en": "National"
+    },
+    {
+     "id": "ca-ep133-s2",
+     "headline_hi": "Cyclone Akvan: Andhra coast par 120 kmph",
+     "headline_hinglish": "Cyclone Akvan: Andhra coast par 120 kmph",
+     "detail_hi": "Akvan bees November ko Andhra tat par ek sau bees kilometre prati ghanta ki raftaar se takra sakta hai.",
+     "detail_hinglish": "Akvan bees November ko Andhra tat par ek sau bees kilometre prati ghanta ki raftaar se takra sakta hai.",
+     "category_hi": "Environment",
+     "category_en": "Environment"
+    },
+    {
+     "id": "ca-ep133-s3",
+     "headline_hi": "Dhoni ka IPL se sanyaas, mentor banenge",
+     "headline_hinglish": "Dhoni ka IPL se sanyaas, mentor banenge",
+     "detail_hi": "Mahendra Singh Dhoni ne IPL khel se sanyaas le liya, ab Chennai Super Kings ke mentor banenge.",
+     "detail_hinglish": "Mahendra Singh Dhoni ne IPL khel se sanyaas le liya, ab Chennai Super Kings ke mentor banenge.",
+     "category_hi": "Sports",
+     "category_en": "Sports"
+    },
+    {
+     "id": "ca-ep133-s4",
+     "headline_hi": "Bharat phir ITU Council mein chuna gaya",
+     "headline_hinglish": "Bharat phir ITU Council mein chuna gaya",
+     "detail_hi": "Bharat do hazaar sattaees se do hazaar tees tak ke liye International Telecommunication Union Council mein phir chuna gaya.",
+     "detail_hinglish": "Bharat do hazaar sattaees se do hazaar tees tak ke liye International Telecommunication Union Council mein phir chuna gaya.",
+     "category_hi": "Technology",
+     "category_en": "Technology"
+    },
+    {
+     "id": "ca-ep133-s5",
+     "headline_hi": "Amazon ka Bharat mein 7 arab dollar nivesh",
+     "headline_hinglish": "Amazon ka Bharat mein 7 arab dollar nivesh",
+     "detail_hi": "Amazon do hazaar tees tak Bharat mein akshay urja par saat arab dollar ka nivesh karega.",
+     "detail_hinglish": "Amazon do hazaar tees tak Bharat mein akshay urja par saat arab dollar ka nivesh karega.",
+     "category_hi": "Economy",
+     "category_en": "Economy"
+    }
+   ],
+   "mcq": {
+    "id": "ca-ep133-mcq",
+    "q_hi": "Cyclone Akvan Andhra tat par kitni raftaar se takra sakta hai?",
+    "q_hinglish": "Cyclone Akvan Andhra tat par kitni raftaar se takra sakta hai?",
+    "options_hi": [
+     "80 kmph",
+     "100 kmph",
+     "120 kmph",
+     "150 kmph"
+    ],
+    "options_hinglish": [
+     "80 kmph",
+     "100 kmph",
+     "120 kmph",
+     "150 kmph"
+    ],
+    "answer_index": 2
+   }
+  }
+ ]
+}
