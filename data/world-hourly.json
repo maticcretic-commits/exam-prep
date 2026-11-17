@@ -1,6 +1,25 @@
 {
-  "updated_ist": "2026-11-17T16:24:58+05:30",
+  "updated_ist": "2026-11-17T17:23:50+05:30",
   "items": [
+    {
+      "id": "world-20261117-1722-01",
+      "published_ist": "2026-11-17T12:17:00+05:30",
+      "headline": "Mongolia ke Rashtrapati ne istifa diya",
+      "detail": "Bhrashtachar ke aaropon aur mahaabhiyog ki dhamki ke baad Ukhnaa Khurelsukh ne istifa diya — aaropon se inkar karte hue kaha jaanch me sahyog karenge; sansad ko chaar mahine me chunav karana hoga.",
+      "category": "World",
+      "exam_angle": "Mongolia, rashtrapati istifa aur bhrashtachar — UPSC ke liye upyogi.",
+      "source": "Reuters",
+      "source_url": "https://www.reuters.com/world/china/mongolian-president-announces-resignation-over-alleged-corruption-2026-11-17/",
+      "genuineness": "verified",
+      "outlets": [
+        "Reuters",
+        "AP",
+        "AFP",
+        "TRT World"
+      ],
+      "image": null,
+      "image_credit": null
+    },
     {
       "id": "world-20261117-1622-01",
       "published_ist": "2026-11-17T13:48:00+05:30",
@@ -425,25 +444,6 @@
         "Reuters",
         "Kyiv Independent",
         "TRT World"
-      ],
-      "image": null,
-      "image_credit": null
-    },
-    {
-      "id": "world-20261117-0722-02",
-      "published_ist": "2026-11-17T03:24:00+05:30",
-      "headline": "Europe me holiday season par US aatank chetavni",
-      "detail": "US dutavas ne kaha bheed-bhaad wale bazaar, transport hub aur pooja sthalon par hamle ka khatra hai; nagrikon ko satark rehne aur STEP me register karne ko kaha.",
-      "category": "World",
-      "exam_angle": "US travel advisory aur Europe suraksha — IR ke liye upyogi.",
-      "source": "Indian Economic Observer",
-      "source_url": "https://www.indianeconomicobserver.com/news/us-warns-americans-of-possible-terror-threats-travel-disruptions-across-europe-during-holiday-season20261117025427/",
-      "genuineness": "verified",
-      "outlets": [
-        "U.S. Embassy in Latvia",
-        "Indian Economic Observer",
-        "InvestingLive",
-        "The Alaska Story"
       ],
       "image": null,
       "image_credit": null
