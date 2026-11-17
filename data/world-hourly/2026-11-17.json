@@ -1,6 +1,6 @@
 {
   "date": "2026-11-17",
-  "updated_ist": "2026-11-17T14:27:52+05:30",
+  "updated_ist": "2026-11-17T15:24:53+05:30",
   "items": [
     {
       "id": "world-20261117-0626-01",
@@ -497,6 +497,24 @@
         "AAP",
         "Türkiye Today",
         "Kuwait Times"
+      ],
+      "image": null,
+      "image_credit": null
+    },
+    {
+      "id": "world-20261117-1522-01",
+      "published_ist": "2026-11-17T14:12:00+05:30",
+      "headline": "Bahrain: Iran ka teesra drone hamla",
+      "detail": "Iran ne Sheikh Isa Air Base par US radar ko nishana banaya — paanch din me teesra hamla; Bahrain ne drone roke, teesra US carrier bhi kshetra me pahuncha.",
+      "category": "World",
+      "exam_angle": "West Asia me tanav, Hormuz tel supply par asar.",
+      "source": "Malay Mail",
+      "source_url": "https://www.malaymail.com/amp/news/world/2026/11/17/blasts-rock-manama-as-iran-launches-third-drone-attack-on-bahrain-in-five-days/243617",
+      "genuineness": "verified",
+      "outlets": [
+        "AFP",
+        "The National",
+        "Al Jazeera"
       ],
       "image": null,
       "image_credit": null
