@@ -1,6 +1,6 @@
 {
   "date": "2026-11-17",
-  "updated_ist": "2026-11-17T16:24:58+05:30",
+  "updated_ist": "2026-11-17T17:23:50+05:30",
   "items": [
     {
       "id": "world-20261117-0626-01",
@@ -572,6 +572,25 @@
         "The Nation",
         "Bolo",
         "Tribuna"
+      ],
+      "image": null,
+      "image_credit": null
+    },
+    {
+      "id": "world-20261117-1722-01",
+      "published_ist": "2026-11-17T12:17:00+05:30",
+      "headline": "Mongolia ke Rashtrapati ne istifa diya",
+      "detail": "Bhrashtachar ke aaropon aur mahaabhiyog ki dhamki ke baad Ukhnaa Khurelsukh ne istifa diya — aaropon se inkar karte hue kaha jaanch me sahyog karenge; sansad ko chaar mahine me chunav karana hoga.",
+      "category": "World",
+      "exam_angle": "Mongolia, rashtrapati istifa aur bhrashtachar — UPSC ke liye upyogi.",
+      "source": "Reuters",
+      "source_url": "https://www.reuters.com/world/china/mongolian-president-announces-resignation-over-alleged-corruption-2026-11-17/",
+      "genuineness": "verified",
+      "outlets": [
+        "Reuters",
+        "AP",
+        "AFP",
+        "TRT World"
       ],
       "image": null,
       "image_credit": null
