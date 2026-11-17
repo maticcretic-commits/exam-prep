@@ -1,447 +1,427 @@
 {
- "updated_ist": "2026-11-17T07:22:00+05:30",
- "items": [
-  {
-   "id": "world-20261117-0626-01",
-   "published_ist": "2026-11-17T04:02:00+05:30",
-   "headline": "Hormuz me chauthe tanker me aag",
-   "detail": "Iran ki nausena ne kaha pichhle 24 ghante me chautha tanker Hormuz ke paas samudri mine se takrakar jal utha; UKMTO ne Oman ke paas ek aur tanker par hamle ki bhi khabar di, uska amla surakshit hai.",
-   "category": "World",
-   "exam_angle": "Hormuz, tel vyapar, samudri suraksha — UPSC ke liye mahatvapurna.",
-   "source": "The Tribune",
-   "source_url": "https://www.tribuneindia.com/news/world/fourth-oil-tanker-catches-fire-in-hormuz-after-hitting-naval-mine-says-iranian-navy/",
-   "genuineness": "verified",
-   "outlets": [
-    "Reuters",
-    "Asian News International",
-    "Press TV"
-   ],
-   "image": null,
-   "image_credit": null
-  },
-  {
-   "id": "world-20261117-0626-02",
-   "published_ist": "2026-11-17T03:35:00+05:30",
-   "headline": "Russia ne Kyiv ke do pulon par hamla kiya",
-   "detail": "Mayor Klitschko ke mutabik der raat Dnipro nadi ke uttari aur dakshini pulon par hamle hue, shahar ke kuchh hisson me pani-bijli band; Zelenskyy ne pehle hi bade hamle ki chetavni di thi.",
-   "category": "World",
-   "exam_angle": "Russia-Ukraine yuddh, Kyiv — UPSC ke liye mahatvapurna.",
-   "source": "Reuters",
-   "source_url": "https://www.reuters.com/world/kyiv-mayor-klitschko-says-russian-forces-struck-two-bridges-across-dnipro-river-2026-11-16/",
-   "genuineness": "verified",
-   "outlets": [
-    "Reuters",
-    "Kyiv Independent",
-    "TRT World"
-   ],
-   "image": null,
-   "image_credit": null
-  },
-  {
-   "id": "world-20261117-0722-02",
-   "published_ist": "2026-11-17T03:24:00+05:30",
-   "headline": "Europe me holiday season par US aatank chetavni",
-   "detail": "US dutavas ne kaha bheed-bhaad wale bazaar, transport hub aur pooja sthalon par hamle ka khatra hai; nagrikon ko satark rehne aur STEP me register karne ko kaha.",
-   "category": "World",
-   "exam_angle": "US travel advisory aur Europe suraksha — IR ke liye upyogi.",
-   "source": "Indian Economic Observer",
-   "source_url": "https://www.indianeconomicobserver.com/news/us-warns-americans-of-possible-terror-threats-travel-disruptions-across-europe-during-holiday-season20261117025427/",
-   "genuineness": "verified",
-   "outlets": [
-    "U.S. Embassy in Latvia",
-    "Indian Economic Observer",
-    "InvestingLive",
-    "The Alaska Story"
-   ],
-   "image": null,
-   "image_credit": null
-  },
-  {
-   "id": "world-20261116-2222-01",
-   "published_ist": "2026-11-16T20:20:00+05:30",
-   "headline": "Imran Khan: 'Wapas zinda na aaun'",
-   "detail": "Jail me band poorv PM Imran Khan ne sheersh nyayadhishon ko patra likha — ilaaj na mila to zinda wapas nahi aa sakte, BP 192-193 aur dil ko nuksan ka daava kiya; patni Bushra Bibi ke liye bhi ilaaj manga, sarkar ne daavon ko kharij kiya.",
-   "category": "World",
-   "exam_angle": "Pakistan, Imran Khan, Pakistan judiciary — UPSC ke liye mahatvapurna.",
-   "source": "WION",
-   "source_url": "https://www.wionews.com/world/i-may-not-return-alive-imran-khan-pleads-judges-for-medical-aid-to-self-wife-bushra-bibi-1794839729295/amp",
-   "genuineness": "verified",
-   "outlets": [
-    "Dawn",
-    "The Express Tribune",
-    "WION",
-    "Outlook India",
-    "The Telegraph India"
-   ],
-   "image": "../images/world/world-20261116-2222-01.jpg",
-   "image_credit": "U.S. Department of State, Wikimedia Commons (Public domain)"
-  },
-  {
-   "id": "world-20261116-2222-02",
-   "published_ist": "2026-11-16T19:29:00+05:30",
-   "headline": "Houthi Aden ke kareeb pahunche",
-   "detail": "Sarkari fauj ke Bab el-Mandeb se peeche hatne ke baad Houthi ne dakshini tat par Khor Omairh tak ilaka kabza kiya — Aden se sirf 100 km door, sarkar ne sheher me suraksha badhai.",
-   "category": "World",
-   "exam_angle": "Yemen, Houthi, Bab el-Mandeb, Aden — UPSC ke liye mahatvapurna.",
-   "source": "Reuters",
-   "source_url": "https://www.reuters.com/world/middle-east/houthis-seize-ground-yemens-southern-coast-edge-closer-aden-2026-11-16/",
-   "genuineness": "corroborated",
-   "outlets": [
-    "Reuters",
-    "AFP (via The Times of Israel)"
-   ],
-   "image": null,
-   "image_credit": null
-  },
-  {
-   "id": "world-20261116-2122-01",
-   "published_ist": "2026-11-16T19:07:00+05:30",
-   "headline": "Germany ne Russia ki nayi suraksha yojana thukrai",
-   "detail": "Videsh Mantri Wadephul ne Brussels me kaha — Europe ko nayi suraksha vyavastha nahi chahiye, maujooda samjhauton ka samman hi kaafi hai; France ne bhi Europe ki suraksha vyavastha bachane ki kasam khayi.",
-   "category": "World",
-   "exam_angle": "Germany, Russia, European security architecture, NATO — UPSC ke liye mahatvapurna.",
-   "source": "Yeni Safak",
-   "source_url": "https://en.yenisafak.com/world/germany-rejects-russias-call-for-new-european-security-architecture-3725644",
-   "genuineness": "verified",
-   "outlets": [
-    "Yeni Safak",
-    "deutschland.de (dpa)",
-    "Ukrinform",
-    "Economic Times",
-    "La Nacion (AP)"
-   ],
-   "image": "../images/world/world-20261116-2122-01.jpg",
-   "image_credit": "Olaf Kosinsky, Wikimedia Commons (CC BY-SA 3.0 de)"
-  },
-  {
-   "id": "world-20261116-2122-02",
-   "published_ist": "2026-11-16T17:49:00+05:30",
-   "headline": "Houthi ne Saudi par hamle ka aarop lagaya",
-   "detail": "Houthi ne kaha Saudi ke do hamlo me Yemen me ek bacche samet 3 log mare gaye; Riyadh ne abhi koi jawab nahi diya, July se 2022 ka yuddhviram toota hua hai.",
-   "category": "World",
-   "exam_angle": "Yemen, Houthi, Saudi Arabia — UPSC ke liye mahatvapurna.",
-   "source": "The Week",
-   "source_url": "https://www.theweek.in/wire-updates/international/2026/11/16/houthis-accuse-saudi-arabia-of-strikes-that-killed-3-israel-strikes-arms-shipment-and-other-mideast-news.html",
-   "genuineness": "corroborated",
-   "outlets": [
-    "AP",
-    "Demócrata",
-    "Just Security"
-   ],
-   "image": null,
-   "image_credit": null
-  },
-  {
-   "id": "world-20261116-2022-04",
-   "published_ist": "2026-11-16T16:21:00+05:30",
-   "headline": "Gaza me Hamas ke Rafah commander mare gaye",
-   "detail": "Israel ke hamle me Hamas ke Rafah Brigade commander Samir Abu Younis mare gaye — Hamas aur IDF dono ne pushti ki; yuddhviram ke bawjood Gaza me hamle jaari hain.",
-   "category": "World",
-   "exam_angle": "Israel-Hamas, Gaza yuddhviram — UPSC ke liye mahatvapurna.",
-   "source": "CBC",
-   "source_url": "https://www.cbc.bb/news/international-news/israel-kills-senior-hamas-commander-in-gaza/",
-   "genuineness": "verified",
-   "outlets": [
-    "CNN",
-    "Al Jazeera",
-    "Tribune"
-   ],
-   "image": null,
-   "image_credit": null
-  },
-  {
-   "id": "world-20261116-1822-01",
-   "published_ist": "2026-11-16T16:19:00+05:30",
-   "headline": "South Africa: do hamlo me 17 mare",
-   "detail": "Pretoria ke paas ek jhopdi me 9 aur Pietermaritzburg ke paas ek gaadi me 8 log mare gaye — Ravivar raat ke hamle, karan abhi agyaat, koi giraftari nahi.",
-   "category": "World",
-   "exam_angle": "South Africa, hinsak apradh, banduk hinsa — UPSC ke liye mahatvapurna.",
-   "source": "The Week",
-   "source_url": "https://www.theweek.in/wire-updates/international/2026/11/16/at-least-17-people-killed-in-2-mass-shootings-on-same-day-in-south-africa.html",
-   "genuineness": "corroborated",
-   "outlets": [
-    "Associated Press",
-    "South African Police Service"
-   ],
-   "image": null,
-   "image_credit": null
-  },
-  {
-   "id": "world-20261116-1922-01",
-   "published_ist": "2026-11-16T16:09:00+05:30",
-   "headline": "Ukraine ka Russia par sabse bada drone hamla",
-   "detail": "Raat bhar ke hamle me Russia ne 1,336 drone giraye ka dawa kiya — 29 October ka 1,254 wala record toota; Crimea ko jodne wala Kerch pull bhi nishana bana, Kremlin ne nuksan halka bataya.",
-   "category": "World",
-   "exam_angle": "Russia-Ukraine yuddh, drone yuddh, Kerch pull — UPSC ke liye mahatvapurna.",
-   "source": "The Straits Times",
-   "source_url": "https://www.straitstimes.com/world/europe/ukraine-launches-biggest-drone-attack-on-russia-since-war-began-defence-ministry-data-shows",
-   "genuineness": "verified",
-   "outlets": [
-    "Reuters",
-    "Times Now",
-    "Daily Pioneer"
-   ],
-   "image": null,
-   "image_credit": null
-  },
-  {
-   "id": "world-20261116-1822-02",
-   "published_ist": "2026-11-16T15:44:00+05:30",
-   "headline": "Teesra US aircraft carrier Middle East pahuncha",
-   "detail": "USS Theodore Roosevelt Ravivar ko CENTCOM kshetra me pahuncha — ab kshetra me teen US carrier strike group; Pentagon ne abhi aupcharik pushti nahi ki.",
-   "category": "World",
-   "exam_angle": "US-Iran tanav, Hormuz, nausena tainati — UPSC ke liye mahatvapurna.",
-   "source": "Al Jazeera",
-   "source_url": "https://www.aljazeera.com/news/2026/11/16/uss-roosevelt-arrives-in-middle-east-is-the-us-iran-war-about-to-resume",
-   "genuineness": "verified",
-   "outlets": [
-    "Al Jazeera",
-    "ABC News",
-    "The Times of Israel",
-    "Times Now"
-   ],
-   "image": null,
-   "image_credit": null
-  },
-  {
-   "id": "world-20261116-1722-03",
-   "published_ist": "2026-11-16T15:39:00+05:30",
-   "headline": "EU: pehle yuddhviram, phir vaarta",
-   "detail": "EU videsh mantri Kaja Kallas ne kaha Russia se suraksha par baat tabhi hogi jab Ukraine me yuddhviram ho aur Moscow riyayat de — Russia ki maangein 'betuki' batayi; naye pratibandh package par bhi kaam jaari.",
-   "category": "World",
-   "exam_angle": "EU, Ukraine shanti vaarta, pratibandh — UPSC ke liye mahatvapurna.",
-   "source": "Reuters",
-   "source_url": "https://www.straitstimes.com/world/europe/holding-talks-with-russia-on-europes-security-now-would-be-premature-eu-ministers-say?ref=latest-headlines",
-   "genuineness": "verified",
-   "outlets": [
-    "Reuters",
-    "The Kyiv Independent",
-    "The Straits Times"
-   ],
-   "image": null,
-   "image_credit": null
-  },
-  {
-   "id": "world-20261116-2122-03",
-   "published_ist": "2026-11-16T15:28:00+05:30",
-   "headline": "EU Ukraine ko sardi me 500 generator dega",
-   "detail": "EU Commissioner Lahbib ne kaha Russia sardi ko hathiyar bana raha hai; Ukraine ko 500 generator, Norway se 4 pul aur France se 200 bus milenge.",
-   "category": "World",
-   "exam_angle": "EU, Ukraine, rescEU, winter aid — UPSC ke liye mahatvapurna.",
-   "source": "Ukrainska Pravda",
-   "source_url": "https://www.pravda.com.ua/eng/news/2026/11/16/8063061/",
-   "genuineness": "verified",
-   "outlets": [
-    "Ukrainska Pravda",
-    "European Pravda",
-    "Yeni Safak",
-    "112.ua"
-   ],
-   "image": null,
-   "image_credit": null
-  },
-  {
-   "id": "world-20261117-0626-03",
-   "published_ist": "2026-11-16T14:14:00+05:30",
-   "headline": "WHO: dawai-pratirodh se 2050 tak 3.9 crore maut",
-   "detail": "WHO ne chetavni di ki antimicrobial resistance aadhunik chikitsa ke liye khatra hai; 2021 me isse 10 lakh se zyada mautein seedhe taur par hui thin, aur 2030 ke lakshya se ladai peechhe hai.",
-   "category": "World",
-   "exam_angle": "AMR, WHO, swasthya — UPSC ke liye mahatvapurna.",
-   "source": "Malay Mail",
-   "source_url": "https://www.malaymail.com/news/world/2026/11/16/who-sounds-alarm-over-antimicrobial-resistance-warns-it-could-kill-39-million-by-2050/243496",
-   "genuineness": "corroborated",
-   "outlets": [
-    "Agence France-Presse",
-    "Al Mayadeen"
-   ],
-   "image": null,
-   "image_credit": null
-  },
-  {
-   "id": "world-20261116-2222-03",
-   "published_ist": "2026-11-16T13:36:00+05:30",
-   "headline": "Iran ki US afsaron ko dhamki",
-   "detail": "Iran ke dakshin Africa sthit dutavas ne USS Spruance ke do afsaron ki tasveer ke saath 'We will find you' likha — un par February me Minab school par hamle ka aarop hai; America ne abhi pushti nahi ki.",
-   "category": "World",
-   "exam_angle": "Iran-US tensions, Minab, USS Spruance — UPSC ke liye mahatvapurna.",
-   "source": "Firstpost",
-   "source_url": "https://www.firstpost.com/world/we-will-find-you-iran-threatens-two-us-navy-officers-over-deadly-minab-school-strike-14060263.html",
-   "genuineness": "verified",
-   "outlets": [
-    "Firstpost",
-    "NDTV",
-    "The Times of India",
-    "The Tribune",
-    "WION"
-   ],
-   "image": null,
-   "image_credit": null
-  },
-  {
-   "id": "world-20261116-1822-03",
-   "published_ist": "2026-11-16T12:45:00+05:30",
-   "headline": "Iran ne IAEA nirikshan se inkar kiya",
-   "detail": "Up-videsh mantri Gharibabadi ne kaha Iran apne kshatigrast parmanu sthalon — Natanz, Fordow, Isfahan — par IAEA nirikshan tab tak nahi dega jab tak yuddh sthayi roop se khatm na ho aur America shartein na mane.",
-   "category": "World",
-   "exam_angle": "IAEA, Iran parmanu karyakram, West Asia — UPSC ke liye mahatvapurna.",
-   "source": "Free Malaysia Today",
-   "source_url": "https://www.freemalaysiatoday.com/category/world/2026/11/16/iran-rules-out-un-inspections-of-damaged-nuclear-sites-until-war-ends",
-   "genuineness": "corroborated",
-   "outlets": [
-    "Agence France-Presse",
-    "Astig"
-   ],
-   "image": null,
-   "image_credit": null
-  },
-  {
-   "id": "world-20261116-1722-02",
-   "published_ist": "2026-11-16T12:16:00+05:30",
-   "headline": "Zelensky: Starshield rok hatao",
-   "detail": "Zelensky ne kaha Starshield ki 161 km/h gati seema se Ukraine ke interceptor drone Shahed drone ko pakad nahi pa rahe — sardiyon se pehle urja dhanche ki suraksha khatre me; SpaceX ne badlav se inkar kiya.",
-   "category": "World",
-   "exam_angle": "Starshield, upgrah sanchar, drone yuddh — UPSC ke liye mahatvapurna.",
-   "source": "Outlook India",
-   "source_url": "https://www.outlookindia.com/amp/story/international/zelensky-musk-spacex-starshield-restrictions-ukraine-drone-defence",
-   "genuineness": "verified",
-   "outlets": [
-    "BBC",
-    "Outlook India",
-    "Times Now"
-   ],
-   "image": null,
-   "image_credit": null
-  },
-  {
-   "id": "world-20261116-2022-01",
-   "published_ist": "2026-11-16T11:20:00+05:30",
-   "headline": "Estonia 1 December se Russia border band karega",
-   "detail": "Drone maker Threod Systems par GRU ke aadesh se aag lagane ki koshish ke baad Estonia ne 1 December se Russia se lagte teeno border crossing band karne ka elan kiya; 8 log giraftar, Kremlin ne aarop kharij kiya.",
-   "category": "World",
-   "exam_angle": "Estonia, NATO, Russia, GRU, hybrid warfare — UPSC ke liye mahatvapurna.",
-   "source": "The Hindu",
-   "source_url": "https://www.thehindu.com/news/international/estonia-to-close-russian-border-crossings-after-attempted-arson-attack/article71706831.ece",
-   "genuineness": "verified",
-   "outlets": [
-    "The Hindu",
-    "Al Jazeera",
-    "Firstpost"
-   ],
-   "image": "../images/world/world-20261116-2022-01.jpg",
-   "image_credit": "Sillerkiil, Wikimedia Commons (CC0)"
-  },
-  {
-   "id": "world-20261116-1722-01",
-   "published_ist": "2026-11-16T10:36:00+05:30",
-   "headline": "Phuket me aag, 11 ki maut",
-   "detail": "Phuket ke Patong me subah ek shophouse me aag lagi — 11 log mare, 16 ghayal; do ghante me aag kabu me aayi, karan ki jaanch jaari hai.",
-   "category": "World",
-   "exam_angle": "Thailand, paryatan suraksha, aag niyaman — UPSC ke liye mahatvapurna.",
-   "source": "The Indian Express",
-   "source_url": "https://indianexpress.com/article/world/thailand-phuket-commercial-shophouse-fire-blaze-patong-beach-dead-injured-10964807/",
-   "genuineness": "verified",
-   "outlets": [
-    "Reuters",
-    "Agence France-Presse",
-    "Channel News Asia",
-    "The Indian Express"
-   ],
-   "image": "../images/world/world-20261116-1722-01.jpg",
-   "image_credit": "The Indian Express"
-  },
-  {
-   "id": "world-20261116-1622-01",
-   "published_ist": "2026-11-16T08:44:00+05:30",
-   "headline": "Yemen se sarkari fauj peeche hati",
-   "detail": "Bab el-Mandeb ke paas se sarkari fauj Aden ki taraf peeche hati, Houthi ne 600 kaidi riha kiye.",
-   "category": "World",
-   "exam_angle": "Bab el-Mandeb — Lal Sagar ka aham samudri rasta, Bharat ke vyapar ke liye mahatvapurna.",
-   "source": "Business Standard",
-   "source_url": "https://www.business-standard.com/world-news/yemen-forces-retreat-near-bab-el-mandeb-in-setback-in-war-against-houthis-126111600084_1.html",
-   "genuineness": "verified",
-   "outlets": [
-    "Reuters",
-    "Associated Press",
-    "Dawn"
-   ],
-   "image": null,
-   "image_credit": null
-  },
-  {
-   "id": "world-20261116-1922-02",
-   "published_ist": "2026-11-16T08:42:00+05:30",
-   "headline": "Kango Ebola: 11,376 case, 5,568 maut",
-   "detail": "Chhah mahine me Kango ka Ebola prakop kabu se bahar — 14 November tak 11,376 case aur 5,568 maut; WHO ne kaha hafte me 400-500 naye case aa rahe hain, hinsa aur bharose ki kami roktham me badha.",
-   "category": "World",
-   "exam_angle": "Ebola, WHO, Kango — UPSC ke liye mahatvapurna.",
-   "source": "Telangana Today",
-   "source_url": "https://telanganatoday.com/dr-congo-ebola-outbreak-spreads-to-remote-areas-as-violence-hampers-response",
-   "genuineness": "verified",
-   "outlets": [
-    "Bloomberg",
-    "Telangana Today",
-    "Associated Press"
-   ],
-   "image": null,
-   "image_credit": null
-  },
-  {
-   "id": "world-20261116-1622-02",
-   "published_ist": "2026-11-16T07:47:00+05:30",
-   "headline": "Prince Harry Ukraine me ghayal sainikon se mile",
-   "detail": "Prince Harry ne Lviv me ghayal sainikon se mulakat ki aur kaha Ukraine yuddh jeetega, Invictus Games ka wada kiya.",
-   "category": "World",
-   "exam_angle": null,
-   "source": "Mathrubhumi",
-   "source_url": "https://english.mathrubhumi.com/news/world/prince-harry-ukraine-visit-lviv-wounded-veterans-invictus-games-2026-ptigfopqlme",
-   "genuineness": "verified",
-   "outlets": [
-    "Reuters",
-    "Page Six",
-    "Mathrubhumi"
-   ],
-   "image": null,
-   "image_credit": null
-  },
-  {
-   "id": "world-20261116-2222-04",
-   "published_ist": "2026-11-16T07:33:00+05:30",
-   "headline": "Pannun case: Gupta ko 24 saal ki mang",
-   "detail": "America ne New York court se kaha — Pannun ki hatya ki sajish me doshi Nikhil Gupta ko 293 mahine (24 saal) ki saza mile; bachaav ne 12 saal manga, faisla 20 November ko.",
-   "category": "World",
-   "exam_angle": "India-US relations, Pannun case — UPSC ke liye mahatvapurna.",
-   "source": "The Hindu",
-   "source_url": "https://www.thehindu.com/news/international/us-govt-seeks-24-year-prison-term-for-nikhil-gupta-in-pannun-murder-for-hire-plot/article71705973.ece",
-   "genuineness": "verified",
-   "outlets": [
-    "The Economic Times",
-    "The Hindu",
-    "The Tribune",
-    "Business Today",
-    "Scroll (PTI)"
-   ],
-   "image": null,
-   "image_credit": null
-  },
-  {
-   "id": "world-20261117-0722-01",
-   "published_ist": "2026-11-16T07:27:00+05:30",
-   "headline": "Trump-Xi-Putin ki pehli trilateral baithak 19 November ko",
-   "detail": "China ne pushti ki teeno neta APEC ke dauraan Shenzhen mein milenge; parmanu hathiyar katauti aur Iran par baat hogi, Ukraine par baat ki ummeed nahi.",
-   "category": "World",
-   "exam_angle": "Teen parmanu shaktiyon ki pehli trilateral baithak — UPSC ke liye mahatvapurna.",
-   "source": "The Hindu",
-   "source_url": "https://www.thehindu.com/news/international/china-confirms-first-xi-trump-putin-summit-on-november-19/article71706625.ece",
-   "genuineness": "verified",
-   "outlets": [
-    "Channel News Asia",
-    "Dawn",
-    "The Straits Times",
-    "The Hindu",
-    "Outlook India"
-   ],
-   "image": "../images/world/world-20261117-0722-01.jpg",
-   "image_credit": "The Hindu"
-  }
- ]
+  "updated_ist": "2026-11-17T08:27:35+05:30",
+  "items": [
+    {
+      "id": "world-20261117-0822-01",
+      "published_ist": "2026-11-17T07:25:00+05:30",
+      "headline": "America ke bade banks ki seva thap",
+      "detail": "Chase, Bank of America aur Wells Fargo ki online seva me dikkat aayi; JPMorgan ne software bug ko wajah bataya aur cyber hamle se inkar kiya, khate aur rakam surakshit bataye.",
+      "category": "World",
+      "exam_angle": "Banking system, digital payment aur cyber-suraksha — UPSC ke liye mahatvapurna.",
+      "source": "WION",
+      "source_url": "https://www.wionews.com/world/please-try-back-later-major-us-banks-face-service-outage-days-after-nationwide-flight-disruptions-and-microsoft-global-outage-what-s-happening-1794879537592/amp",
+      "genuineness": "verified",
+      "outlets": [
+        "Barron's",
+        "WION",
+        "The Economic Times",
+        "NDTV Profit"
+      ],
+      "image": null,
+      "image_credit": null
+    },
+    {
+      "id": "world-20261117-0822-02",
+      "published_ist": "2026-11-17T06:10:00+05:30",
+      "headline": "Crimean Bridge par doosri baar hamla",
+      "detail": "24 ghante me doosri baar Kerch Bridge par hamla hua; Crimea ke governor ne traffic band karne ki pushti ki, nuksan ki matra abhi saaf nahi hai.",
+      "category": "World",
+      "exam_angle": "Kerch Bridge — Russia-Crimea supply route, UPSC ke liye mahatvapurna.",
+      "source": "Kyiv Independent",
+      "source_url": "https://kyivindependent.com/ukrainian-forces-reportedly-strike-crimean-bridge-after-russian-missiles-hit-kyiv-bridges/",
+      "genuineness": "verified",
+      "outlets": [
+        "Kyiv Independent",
+        "Kyiv Post",
+        "The New Voice of Ukraine",
+        "The Thursday Times"
+      ],
+      "image": "../images/world/world-20261117-0822-02.jpg",
+      "image_credit": "Alexxx1979, Wikimedia Commons (CC BY-SA 4.0)"
+    },
+    {
+      "id": "world-20261117-0626-01",
+      "published_ist": "2026-11-17T04:02:00+05:30",
+      "headline": "Hormuz me chauthe tanker me aag",
+      "detail": "Iran ki nausena ne kaha pichhle 24 ghante me chautha tanker Hormuz ke paas samudri mine se takrakar jal utha; UKMTO ne Oman ke paas ek aur tanker par hamle ki bhi khabar di, uska amla surakshit hai.",
+      "category": "World",
+      "exam_angle": "Hormuz, tel vyapar, samudri suraksha — UPSC ke liye mahatvapurna.",
+      "source": "The Tribune",
+      "source_url": "https://www.tribuneindia.com/news/world/fourth-oil-tanker-catches-fire-in-hormuz-after-hitting-naval-mine-says-iranian-navy/",
+      "genuineness": "verified",
+      "outlets": [
+        "Reuters",
+        "Asian News International",
+        "Press TV"
+      ],
+      "image": null,
+      "image_credit": null
+    },
+    {
+      "id": "world-20261117-0626-02",
+      "published_ist": "2026-11-17T03:35:00+05:30",
+      "headline": "Russia ne Kyiv ke do pulon par hamla kiya",
+      "detail": "Mayor Klitschko ke mutabik der raat Dnipro nadi ke uttari aur dakshini pulon par hamle hue, shahar ke kuchh hisson me pani-bijli band; Zelenskyy ne pehle hi bade hamle ki chetavni di thi.",
+      "category": "World",
+      "exam_angle": "Russia-Ukraine yuddh, Kyiv — UPSC ke liye mahatvapurna.",
+      "source": "Reuters",
+      "source_url": "https://www.reuters.com/world/kyiv-mayor-klitschko-says-russian-forces-struck-two-bridges-across-dnipro-river-2026-11-16/",
+      "genuineness": "verified",
+      "outlets": [
+        "Reuters",
+        "Kyiv Independent",
+        "TRT World"
+      ],
+      "image": null,
+      "image_credit": null
+    },
+    {
+      "id": "world-20261117-0722-02",
+      "published_ist": "2026-11-17T03:24:00+05:30",
+      "headline": "Europe me holiday season par US aatank chetavni",
+      "detail": "US dutavas ne kaha bheed-bhaad wale bazaar, transport hub aur pooja sthalon par hamle ka khatra hai; nagrikon ko satark rehne aur STEP me register karne ko kaha.",
+      "category": "World",
+      "exam_angle": "US travel advisory aur Europe suraksha — IR ke liye upyogi.",
+      "source": "Indian Economic Observer",
+      "source_url": "https://www.indianeconomicobserver.com/news/us-warns-americans-of-possible-terror-threats-travel-disruptions-across-europe-during-holiday-season20261117025427/",
+      "genuineness": "verified",
+      "outlets": [
+        "U.S. Embassy in Latvia",
+        "Indian Economic Observer",
+        "InvestingLive",
+        "The Alaska Story"
+      ],
+      "image": null,
+      "image_credit": null
+    },
+    {
+      "id": "world-20261116-2222-01",
+      "published_ist": "2026-11-16T20:20:00+05:30",
+      "headline": "Imran Khan: 'Wapas zinda na aaun'",
+      "detail": "Jail me band poorv PM Imran Khan ne sheersh nyayadhishon ko patra likha — ilaaj na mila to zinda wapas nahi aa sakte, BP 192-193 aur dil ko nuksan ka daava kiya; patni Bushra Bibi ke liye bhi ilaaj manga, sarkar ne daavon ko kharij kiya.",
+      "category": "World",
+      "exam_angle": "Pakistan, Imran Khan, Pakistan judiciary — UPSC ke liye mahatvapurna.",
+      "source": "WION",
+      "source_url": "https://www.wionews.com/world/i-may-not-return-alive-imran-khan-pleads-judges-for-medical-aid-to-self-wife-bushra-bibi-1794839729295/amp",
+      "genuineness": "verified",
+      "outlets": [
+        "Dawn",
+        "The Express Tribune",
+        "WION",
+        "Outlook India",
+        "The Telegraph India"
+      ],
+      "image": "../images/world/world-20261116-2222-01.jpg",
+      "image_credit": "U.S. Department of State, Wikimedia Commons (Public domain)"
+    },
+    {
+      "id": "world-20261116-2222-02",
+      "published_ist": "2026-11-16T19:29:00+05:30",
+      "headline": "Houthi Aden ke kareeb pahunche",
+      "detail": "Sarkari fauj ke Bab el-Mandeb se peeche hatne ke baad Houthi ne dakshini tat par Khor Omairh tak ilaka kabza kiya — Aden se sirf 100 km door, sarkar ne sheher me suraksha badhai.",
+      "category": "World",
+      "exam_angle": "Yemen, Houthi, Bab el-Mandeb, Aden — UPSC ke liye mahatvapurna.",
+      "source": "Reuters",
+      "source_url": "https://www.reuters.com/world/middle-east/houthis-seize-ground-yemens-southern-coast-edge-closer-aden-2026-11-16/",
+      "genuineness": "corroborated",
+      "outlets": [
+        "Reuters",
+        "AFP (via The Times of Israel)"
+      ],
+      "image": null,
+      "image_credit": null
+    },
+    {
+      "id": "world-20261116-2122-01",
+      "published_ist": "2026-11-16T19:07:00+05:30",
+      "headline": "Germany ne Russia ki nayi suraksha yojana thukrai",
+      "detail": "Videsh Mantri Wadephul ne Brussels me kaha — Europe ko nayi suraksha vyavastha nahi chahiye, maujooda samjhauton ka samman hi kaafi hai; France ne bhi Europe ki suraksha vyavastha bachane ki kasam khayi.",
+      "category": "World",
+      "exam_angle": "Germany, Russia, European security architecture, NATO — UPSC ke liye mahatvapurna.",
+      "source": "Yeni Safak",
+      "source_url": "https://en.yenisafak.com/world/germany-rejects-russias-call-for-new-european-security-architecture-3725644",
+      "genuineness": "verified",
+      "outlets": [
+        "Yeni Safak",
+        "deutschland.de (dpa)",
+        "Ukrinform",
+        "Economic Times",
+        "La Nacion (AP)"
+      ],
+      "image": "../images/world/world-20261116-2122-01.jpg",
+      "image_credit": "Olaf Kosinsky, Wikimedia Commons (CC BY-SA 3.0 de)"
+    },
+    {
+      "id": "world-20261116-2122-02",
+      "published_ist": "2026-11-16T17:49:00+05:30",
+      "headline": "Houthi ne Saudi par hamle ka aarop lagaya",
+      "detail": "Houthi ne kaha Saudi ke do hamlo me Yemen me ek bacche samet 3 log mare gaye; Riyadh ne abhi koi jawab nahi diya, July se 2022 ka yuddhviram toota hua hai.",
+      "category": "World",
+      "exam_angle": "Yemen, Houthi, Saudi Arabia — UPSC ke liye mahatvapurna.",
+      "source": "The Week",
+      "source_url": "https://www.theweek.in/wire-updates/international/2026/11/16/houthis-accuse-saudi-arabia-of-strikes-that-killed-3-israel-strikes-arms-shipment-and-other-mideast-news.html",
+      "genuineness": "corroborated",
+      "outlets": [
+        "AP",
+        "Demócrata",
+        "Just Security"
+      ],
+      "image": null,
+      "image_credit": null
+    },
+    {
+      "id": "world-20261116-2022-04",
+      "published_ist": "2026-11-16T16:21:00+05:30",
+      "headline": "Gaza me Hamas ke Rafah commander mare gaye",
+      "detail": "Israel ke hamle me Hamas ke Rafah Brigade commander Samir Abu Younis mare gaye — Hamas aur IDF dono ne pushti ki; yuddhviram ke bawjood Gaza me hamle jaari hain.",
+      "category": "World",
+      "exam_angle": "Israel-Hamas, Gaza yuddhviram — UPSC ke liye mahatvapurna.",
+      "source": "CBC",
+      "source_url": "https://www.cbc.bb/news/international-news/israel-kills-senior-hamas-commander-in-gaza/",
+      "genuineness": "verified",
+      "outlets": [
+        "CNN",
+        "Al Jazeera",
+        "Tribune"
+      ],
+      "image": null,
+      "image_credit": null
+    },
+    {
+      "id": "world-20261116-1822-01",
+      "published_ist": "2026-11-16T16:19:00+05:30",
+      "headline": "South Africa: do hamlo me 17 mare",
+      "detail": "Pretoria ke paas ek jhopdi me 9 aur Pietermaritzburg ke paas ek gaadi me 8 log mare gaye — Ravivar raat ke hamle, karan abhi agyaat, koi giraftari nahi.",
+      "category": "World",
+      "exam_angle": "South Africa, hinsak apradh, banduk hinsa — UPSC ke liye mahatvapurna.",
+      "source": "The Week",
+      "source_url": "https://www.theweek.in/wire-updates/international/2026/11/16/at-least-17-people-killed-in-2-mass-shootings-on-same-day-in-south-africa.html",
+      "genuineness": "corroborated",
+      "outlets": [
+        "Associated Press",
+        "South African Police Service"
+      ],
+      "image": null,
+      "image_credit": null
+    },
+    {
+      "id": "world-20261116-1922-01",
+      "published_ist": "2026-11-16T16:09:00+05:30",
+      "headline": "Ukraine ka Russia par sabse bada drone hamla",
+      "detail": "Raat bhar ke hamle me Russia ne 1,336 drone giraye ka dawa kiya — 29 October ka 1,254 wala record toota; Crimea ko jodne wala Kerch pull bhi nishana bana, Kremlin ne nuksan halka bataya.",
+      "category": "World",
+      "exam_angle": "Russia-Ukraine yuddh, drone yuddh, Kerch pull — UPSC ke liye mahatvapurna.",
+      "source": "The Straits Times",
+      "source_url": "https://www.straitstimes.com/world/europe/ukraine-launches-biggest-drone-attack-on-russia-since-war-began-defence-ministry-data-shows",
+      "genuineness": "verified",
+      "outlets": [
+        "Reuters",
+        "Times Now",
+        "Daily Pioneer"
+      ],
+      "image": null,
+      "image_credit": null
+    },
+    {
+      "id": "world-20261116-1822-02",
+      "published_ist": "2026-11-16T15:44:00+05:30",
+      "headline": "Teesra US aircraft carrier Middle East pahuncha",
+      "detail": "USS Theodore Roosevelt Ravivar ko CENTCOM kshetra me pahuncha — ab kshetra me teen US carrier strike group; Pentagon ne abhi aupcharik pushti nahi ki.",
+      "category": "World",
+      "exam_angle": "US-Iran tanav, Hormuz, nausena tainati — UPSC ke liye mahatvapurna.",
+      "source": "Al Jazeera",
+      "source_url": "https://www.aljazeera.com/news/2026/11/16/uss-roosevelt-arrives-in-middle-east-is-the-us-iran-war-about-to-resume",
+      "genuineness": "verified",
+      "outlets": [
+        "Al Jazeera",
+        "ABC News",
+        "The Times of Israel",
+        "Times Now"
+      ],
+      "image": null,
+      "image_credit": null
+    },
+    {
+      "id": "world-20261116-1722-03",
+      "published_ist": "2026-11-16T15:39:00+05:30",
+      "headline": "EU: pehle yuddhviram, phir vaarta",
+      "detail": "EU videsh mantri Kaja Kallas ne kaha Russia se suraksha par baat tabhi hogi jab Ukraine me yuddhviram ho aur Moscow riyayat de — Russia ki maangein 'betuki' batayi; naye pratibandh package par bhi kaam jaari.",
+      "category": "World",
+      "exam_angle": "EU, Ukraine shanti vaarta, pratibandh — UPSC ke liye mahatvapurna.",
+      "source": "Reuters",
+      "source_url": "https://www.straitstimes.com/world/europe/holding-talks-with-russia-on-europes-security-now-would-be-premature-eu-ministers-say?ref=latest-headlines",
+      "genuineness": "verified",
+      "outlets": [
+        "Reuters",
+        "The Kyiv Independent",
+        "The Straits Times"
+      ],
+      "image": null,
+      "image_credit": null
+    },
+    {
+      "id": "world-20261116-2122-03",
+      "published_ist": "2026-11-16T15:28:00+05:30",
+      "headline": "EU Ukraine ko sardi me 500 generator dega",
+      "detail": "EU Commissioner Lahbib ne kaha Russia sardi ko hathiyar bana raha hai; Ukraine ko 500 generator, Norway se 4 pul aur France se 200 bus milenge.",
+      "category": "World",
+      "exam_angle": "EU, Ukraine, rescEU, winter aid — UPSC ke liye mahatvapurna.",
+      "source": "Ukrainska Pravda",
+      "source_url": "https://www.pravda.com.ua/eng/news/2026/11/16/8063061/",
+      "genuineness": "verified",
+      "outlets": [
+        "Ukrainska Pravda",
+        "European Pravda",
+        "Yeni Safak",
+        "112.ua"
+      ],
+      "image": null,
+      "image_credit": null
+    },
+    {
+      "id": "world-20261117-0626-03",
+      "published_ist": "2026-11-16T14:14:00+05:30",
+      "headline": "WHO: dawai-pratirodh se 2050 tak 3.9 crore maut",
+      "detail": "WHO ne chetavni di ki antimicrobial resistance aadhunik chikitsa ke liye khatra hai; 2021 me isse 10 lakh se zyada mautein seedhe taur par hui thin, aur 2030 ke lakshya se ladai peechhe hai.",
+      "category": "World",
+      "exam_angle": "AMR, WHO, swasthya — UPSC ke liye mahatvapurna.",
+      "source": "Malay Mail",
+      "source_url": "https://www.malaymail.com/news/world/2026/11/16/who-sounds-alarm-over-antimicrobial-resistance-warns-it-could-kill-39-million-by-2050/243496",
+      "genuineness": "corroborated",
+      "outlets": [
+        "Agence France-Presse",
+        "Al Mayadeen"
+      ],
+      "image": null,
+      "image_credit": null
+    },
+    {
+      "id": "world-20261116-2222-03",
+      "published_ist": "2026-11-16T13:36:00+05:30",
+      "headline": "Iran ki US afsaron ko dhamki",
+      "detail": "Iran ke dakshin Africa sthit dutavas ne USS Spruance ke do afsaron ki tasveer ke saath 'We will find you' likha — un par February me Minab school par hamle ka aarop hai; America ne abhi pushti nahi ki.",
+      "category": "World",
+      "exam_angle": "Iran-US tensions, Minab, USS Spruance — UPSC ke liye mahatvapurna.",
+      "source": "Firstpost",
+      "source_url": "https://www.firstpost.com/world/we-will-find-you-iran-threatens-two-us-navy-officers-over-deadly-minab-school-strike-14060263.html",
+      "genuineness": "verified",
+      "outlets": [
+        "Firstpost",
+        "NDTV",
+        "The Times of India",
+        "The Tribune",
+        "WION"
+      ],
+      "image": null,
+      "image_credit": null
+    },
+    {
+      "id": "world-20261116-1822-03",
+      "published_ist": "2026-11-16T12:45:00+05:30",
+      "headline": "Iran ne IAEA nirikshan se inkar kiya",
+      "detail": "Up-videsh mantri Gharibabadi ne kaha Iran apne kshatigrast parmanu sthalon — Natanz, Fordow, Isfahan — par IAEA nirikshan tab tak nahi dega jab tak yuddh sthayi roop se khatm na ho aur America shartein na mane.",
+      "category": "World",
+      "exam_angle": "IAEA, Iran parmanu karyakram, West Asia — UPSC ke liye mahatvapurna.",
+      "source": "Free Malaysia Today",
+      "source_url": "https://www.freemalaysiatoday.com/category/world/2026/11/16/iran-rules-out-un-inspections-of-damaged-nuclear-sites-until-war-ends",
+      "genuineness": "corroborated",
+      "outlets": [
+        "Agence France-Presse",
+        "Astig"
+      ],
+      "image": null,
+      "image_credit": null
+    },
+    {
+      "id": "world-20261116-1722-02",
+      "published_ist": "2026-11-16T12:16:00+05:30",
+      "headline": "Zelensky: Starshield rok hatao",
+      "detail": "Zelensky ne kaha Starshield ki 161 km/h gati seema se Ukraine ke interceptor drone Shahed drone ko pakad nahi pa rahe — sardiyon se pehle urja dhanche ki suraksha khatre me; SpaceX ne badlav se inkar kiya.",
+      "category": "World",
+      "exam_angle": "Starshield, upgrah sanchar, drone yuddh — UPSC ke liye mahatvapurna.",
+      "source": "Outlook India",
+      "source_url": "https://www.outlookindia.com/amp/story/international/zelensky-musk-spacex-starshield-restrictions-ukraine-drone-defence",
+      "genuineness": "verified",
+      "outlets": [
+        "BBC",
+        "Outlook India",
+        "Times Now"
+      ],
+      "image": null,
+      "image_credit": null
+    },
+    {
+      "id": "world-20261116-2022-01",
+      "published_ist": "2026-11-16T11:20:00+05:30",
+      "headline": "Estonia 1 December se Russia border band karega",
+      "detail": "Drone maker Threod Systems par GRU ke aadesh se aag lagane ki koshish ke baad Estonia ne 1 December se Russia se lagte teeno border crossing band karne ka elan kiya; 8 log giraftar, Kremlin ne aarop kharij kiya.",
+      "category": "World",
+      "exam_angle": "Estonia, NATO, Russia, GRU, hybrid warfare — UPSC ke liye mahatvapurna.",
+      "source": "The Hindu",
+      "source_url": "https://www.thehindu.com/news/international/estonia-to-close-russian-border-crossings-after-attempted-arson-attack/article71706831.ece",
+      "genuineness": "verified",
+      "outlets": [
+        "The Hindu",
+        "Al Jazeera",
+        "Firstpost"
+      ],
+      "image": "../images/world/world-20261116-2022-01.jpg",
+      "image_credit": "Sillerkiil, Wikimedia Commons (CC0)"
+    },
+    {
+      "id": "world-20261116-1722-01",
+      "published_ist": "2026-11-16T10:36:00+05:30",
+      "headline": "Phuket me aag, 11 ki maut",
+      "detail": "Phuket ke Patong me subah ek shophouse me aag lagi — 11 log mare, 16 ghayal; do ghante me aag kabu me aayi, karan ki jaanch jaari hai.",
+      "category": "World",
+      "exam_angle": "Thailand, paryatan suraksha, aag niyaman — UPSC ke liye mahatvapurna.",
+      "source": "The Indian Express",
+      "source_url": "https://indianexpress.com/article/world/thailand-phuket-commercial-shophouse-fire-blaze-patong-beach-dead-injured-10964807/",
+      "genuineness": "verified",
+      "outlets": [
+        "Reuters",
+        "Agence France-Presse",
+        "Channel News Asia",
+        "The Indian Express"
+      ],
+      "image": "../images/world/world-20261116-1722-01.jpg",
+      "image_credit": "The Indian Express"
+    },
+    {
+      "id": "world-20261116-1622-01",
+      "published_ist": "2026-11-16T08:44:00+05:30",
+      "headline": "Yemen se sarkari fauj peeche hati",
+      "detail": "Bab el-Mandeb ke paas se sarkari fauj Aden ki taraf peeche hati, Houthi ne 600 kaidi riha kiye.",
+      "category": "World",
+      "exam_angle": "Bab el-Mandeb — Lal Sagar ka aham samudri rasta, Bharat ke vyapar ke liye mahatvapurna.",
+      "source": "Business Standard",
+      "source_url": "https://www.business-standard.com/world-news/yemen-forces-retreat-near-bab-el-mandeb-in-setback-in-war-against-houthis-126111600084_1.html",
+      "genuineness": "verified",
+      "outlets": [
+        "Reuters",
+        "Associated Press",
+        "Dawn"
+      ],
+      "image": null,
+      "image_credit": null
+    },
+    {
+      "id": "world-20261116-1922-02",
+      "published_ist": "2026-11-16T08:42:00+05:30",
+      "headline": "Kango Ebola: 11,376 case, 5,568 maut",
+      "detail": "Chhah mahine me Kango ka Ebola prakop kabu se bahar — 14 November tak 11,376 case aur 5,568 maut; WHO ne kaha hafte me 400-500 naye case aa rahe hain, hinsa aur bharose ki kami roktham me badha.",
+      "category": "World",
+      "exam_angle": "Ebola, WHO, Kango — UPSC ke liye mahatvapurna.",
+      "source": "Telangana Today",
+      "source_url": "https://telanganatoday.com/dr-congo-ebola-outbreak-spreads-to-remote-areas-as-violence-hampers-response",
+      "genuineness": "verified",
+      "outlets": [
+        "Bloomberg",
+        "Telangana Today",
+        "Associated Press"
+      ],
+      "image": null,
+      "image_credit": null
+    }
+  ]
 }
