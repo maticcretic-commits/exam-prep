@@ -763,5 +763,82 @@
   ],
   "image": null,
   "image_credit": null
+ },
+ {
+  "id": "world-20261118-1822-01",
+  "published_ist": "2026-11-18T15:53:00+05:30",
+  "headline": "Australia ne Israeli basne walon par pratibandh lagaye",
+  "detail": "Australia ne West Bank me avaidh basti vistaar aur hinsa par teen Israeli vyaktiyon aur chaar sangathanon par pratibandh lagaye; Britain ne bhi kal aath nirman companiyon par pratibandh lagaye the.",
+  "category": "World",
+  "exam_angle": "West Bank, do-rashtra samadhan aur pratibandh — UPSC ke liye mahatvapurna.",
+  "source": "The Hindu",
+  "source_url": "https://www.thehindu.com/news/international/australia-sanctions-israeli-settlers-organisations-over-west-bank-expansion/article71715383.ece",
+  "genuineness": "verified",
+  "outlets": [
+   "Reuters",
+   "Haaretz",
+   "The Times of Israel",
+   "The Hindu"
+  ],
+  "image": null,
+  "image_credit": null
+ },
+ {
+  "id": "world-20261118-1822-02",
+  "published_ist": "2026-11-18T15:08:00+05:30",
+  "headline": "Peltola ne Alaska Senate seat jeeti",
+  "detail": "Democrat Mary Peltola ne Alaska me Republican Dan Sullivan ko hara diya; Democrats ke Senate me 56 seat ho gaye — 2009 ke baad sabse bada bahumat.",
+  "category": "World",
+  "exam_angle": "America ke midterm chunav aur Senate bahumat — UPSC ke liye mahatvapurna.",
+  "source": "Al Jazeera",
+  "source_url": "https://www.aljazeera.com/news/2026/11/18/why-democrat-mary-peltolas-us-senate-win-in-alaska-matters",
+  "genuineness": "verified",
+  "outlets": [
+   "Al Jazeera",
+   "Reuters",
+   "Haaretz",
+   "Dawn",
+   "Nikkei Asia"
+  ],
+  "image": "../images/world/world-20261118-1822-02.jpg",
+  "image_credit": "Leah Herman, House Creative Services, Wikimedia Commons (Public domain)"
+ },
+ {
+  "id": "world-20261118-1822-03",
+  "published_ist": "2026-11-18T14:46:00+05:30",
+  "headline": "Nvidia ne China ko AI chip band kiye",
+  "detail": "Nvidia ne America ki manzoori ke baad bhi Hopper AI chip China bhejna band kar diya; teesri timahi me $2.4 arab ke chip beche the, aage koi shipment nahi hogi.",
+  "category": "World",
+  "exam_angle": "America-China tech yuddh aur chip niryat niyantran — UPSC ke liye mahatvapurna.",
+  "source": "Reuters",
+  "source_url": "https://www.reuters.com/world/china/nvidia-stops-shipping-us-approved-ai-chips-china-2026-11-18/",
+  "genuineness": "verified",
+  "outlets": [
+   "Reuters",
+   "Bloomberg",
+   "Business Standard",
+   "The Economic Times",
+   "The Straits Times"
+  ],
+  "image": null,
+  "image_credit": null
+ },
+ {
+  "id": "world-20261118-1822-04",
+  "published_ist": "2026-11-18T12:10:00+05:30",
+  "headline": "Etihad, flydubai ne Saudi udanein aur radd ki",
+  "detail": "Etihad ne Riyadh-Dammam udanein 30 November tak aur flydubai ne Riyadh-Abha udanein 27 November tak radd kar di; EASA ne Khadi ki udaan chetavni 31 January 2027 tak badha di.",
+  "category": "World",
+  "exam_angle": "Khadi tanav aur nagrik uddayan suraksha — UPSC ke liye upyogi.",
+  "source": "Gulf News",
+  "source_url": "https://gulfnews.com/amp/story/world%2Fgulf%2Fsaudi%2Fuae-flights-status-update-etihad-flydubai-extend-saudi-cancellations-as-gulf-attacks-escalate-on-november-18-1.500751819",
+  "genuineness": "verified",
+  "outlets": [
+   "Gulf News",
+   "ARN News",
+   "Arabian Business"
+  ],
+  "image": null,
+  "image_credit": null
  }
 ]
