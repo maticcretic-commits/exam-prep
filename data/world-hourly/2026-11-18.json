@@ -686,5 +686,82 @@
   ],
   "image": null,
   "image_credit": null
+ },
+ {
+  "id": "world-20261118-1722-01",
+  "published_ist": "2026-11-18T15:01:00+05:30",
+  "headline": "Riyadh me dhamaka, do Houthi missile roke gaye",
+  "detail": "Riyadh me zoradar dhamaka suna gaya, hawai adde ke paas dhuaan dikha; gathbandhan ne kaha do Houthi cruise missile roke gaye, subah ek aur missile bhi roka gaya tha.",
+  "category": "World",
+  "exam_angle": "Yemen, Houthi hamle aur Khadi suraksha — UPSC ke liye mahatvapurna.",
+  "source": "NDTV",
+  "source_url": "https://www.ndtv.com/world-news/extremely-loud-explosion-in-riyadh-amid-saudi-arabia-houthi-clashes-smoke-seen-near-airport-12343563/amp/1",
+  "genuineness": "corroborated",
+  "outlets": [
+   "AFP",
+   "Saudi-led coalition",
+   "NDTV",
+   "Malay Mail"
+  ],
+  "image": null,
+  "image_credit": null
+ },
+ {
+  "id": "world-20261118-1722-02",
+  "published_ist": "2026-11-18T14:29:00+05:30",
+  "headline": "Trump China pahunche, Xi ne swagat kiya",
+  "detail": "Trump APEC ke liye Shenzhen pahunche; Xi Jinping ne hawai adde par unka swagat kiya — lagbhag 50 saal me pehli baar kisi Chinese neta ne mehmaan ka airport par swagat kiya, kal tri-pakshiya baithak hogi.",
+  "category": "World",
+  "exam_angle": "APEC, America-China-Russia tri-pakshiya baithak — UPSC ke liye mahatvapurna.",
+  "source": "The Times of India",
+  "source_url": "https://timesofindia.indiatimes.com/world/china/trump-lands-in-china-for-historic-trilateral-summit-with-xi-putin/articleshow/135956865.cms",
+  "genuineness": "verified",
+  "outlets": [
+   "The National",
+   "The Times of India",
+   "Times Now",
+   "Outlook",
+   "CNBC Africa",
+   "Free Malaysia Today"
+  ],
+  "image": null,
+  "image_credit": null
+ },
+ {
+  "id": "world-20261118-1722-03",
+  "published_ist": "2026-11-18T14:24:00+05:30",
+  "headline": "Iran sena pramukh: jawab aur bhi bhayankar hoga",
+  "detail": "Iran ke sena pramukh Amir Hatami ne kaha America ke naye hamle par jawab 'aur bhi bhayankar' hoga aur America ke sahyogiyon ko bhi nishana banayega.",
+  "category": "World",
+  "exam_angle": "America-Iran tanav aur Khadi suraksha — UPSC ke liye mahatvapurna.",
+  "source": "Free Malaysia Today",
+  "source_url": "https://www.freemalaysiatoday.com/category/world/2026/11/18/army-chief-threatens-more-devastating-response-if-iran-attacked",
+  "genuineness": "corroborated",
+  "outlets": [
+   "AFP",
+   "Fars News Agency",
+   "Free Malaysia Today",
+   "Kurdistan24"
+  ],
+  "image": null,
+  "image_credit": null
+ },
+ {
+  "id": "world-20261118-1722-04",
+  "published_ist": "2026-11-18T13:08:00+05:30",
+  "headline": "Hormuz me ADNOC jahaz par hamla, ek lapata",
+  "detail": "Hormuz se guzarte ADNOC ke jahaz par hamla hua; ek chalak dal sadasya lapata aur 11 ghayal hue, UAE ki tel company ne WAM ko bataya.",
+  "category": "World",
+  "exam_angle": "Hormuz, Khadi me tel suraksha aur America-Iran tanav — UPSC ke liye mahatvapurna.",
+  "source": "Gulf News",
+  "source_url": "https://gulfnews.com/world/mena/middle-east-war-iran-attacks-bahrain-kuwait-drone-threats-keep-gulf-on-high-alert-as-us-hits-irans-qeshm-1.500751444",
+  "genuineness": "verified",
+  "outlets": [
+   "Dawn",
+   "Gulf News",
+   "WAM"
+  ],
+  "image": null,
+  "image_credit": null
  }
 ]
