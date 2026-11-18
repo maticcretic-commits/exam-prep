@@ -1,5 +1,5 @@
 {
- "updated_ist": "2026-11-18T11:25:40+05:30",
+ "updated_ist": "2026-11-18T12:24:10+05:30",
  "items": [
   {
    "id": "world-20261118-1022-01",
@@ -16,6 +16,24 @@
     "Zee News",
     "Sahara News",
     "Reuters"
+   ],
+   "image": null,
+   "image_credit": null
+  },
+  {
+   "id": "world-20261118-1222-01",
+   "published_ist": "2026-11-18T09:27:00+05:30",
+   "headline": "Papua New Guinea me 6.0 ka bhookamp",
+   "detail": "Budhvaar ko Papua New Guinea me 6.0 teevrata ka bhookamp aaya; GFZ ke anusaar kendra Lae se 109 kilometre uttar me aur gahrai 10 kilometre thi, nuksaan ki khabar abhi nahi mili.",
+   "category": "World",
+   "exam_angle": "Bhookamp, Ring of Fire aur prashant kshetra — UPSC ke liye upyogi.",
+   "source": "Reuters",
+   "source_url": "https://www.reuters.com/business/environment/magnitude-6-earthquake-strikes-papua-new-guinea-gfz-says-2026-11-18/",
+   "genuineness": "verified",
+   "outlets": [
+    "Reuters",
+    "The Times of India",
+    "Gulf News"
    ],
    "image": null,
    "image_credit": null
@@ -153,6 +171,24 @@
    "image_credit": null
   },
   {
+   "id": "world-20261118-1222-02",
+   "published_ist": "2026-11-18T03:25:00+05:30",
+   "headline": "Canary Islands par 11,000 pravasi pahunche",
+   "detail": "Spain ke Canary Islands par November ke pehle pakhwade me 11,000 se zyada pravasi samundar se pahunche; chunaav se pehle Spain ne dweepon par apatkal ghoshit kiya.",
+   "category": "World",
+   "exam_angle": "Pravasan, Europe aur Spain chunaav — UPSC ke liye upyogi.",
+   "source": "Arab News",
+   "source_url": "https://www.arabnews.pk/world/migrant-arrivals-from-africa-to-the-canary-islands-spike-as-spains-general-election-nears-3007331",
+   "genuineness": "verified",
+   "outlets": [
+    "Associated Press",
+    "Arab News",
+    "Okay News"
+   ],
+   "image": null,
+   "image_credit": null
+  },
+  {
    "id": "world-20261118-1122-03",
    "published_ist": "2026-11-18T02:58:00+05:30",
    "headline": "Nvidia ki record kamai: $115.8 arab",
@@ -239,6 +275,25 @@
     "Associated Press",
     "DW",
     "Citi Newsroom"
+   ],
+   "image": null,
+   "image_credit": null
+  },
+  {
+   "id": "world-20261118-1222-03",
+   "published_ist": "2026-11-17T21:40:00+05:30",
+   "headline": "America ne measles-mukt darja khoya",
+   "detail": "PAHO ne 26 saal baad America ka measles unmoolan darja wapas le liya; is saal 5,400 se zyada case — 1991 ke baad sabse zyada — aur ek saal se zyada lagataar sankraman ke kaaran darja gaya.",
+   "category": "World",
+   "exam_angle": "Swasthya, teekakaran aur WHO/PAHO — UPSC ke liye mahatvapurna.",
+   "source": "Scientific American",
+   "source_url": "https://www.scientificamerican.com/article/u-s-officially-loses-measles-elimination-status-in-a-body-blow-to-public-health/",
+   "genuineness": "verified",
+   "outlets": [
+    "PAHO",
+    "CNN",
+    "Scientific American",
+    "Firstpost"
    ],
    "image": null,
    "image_credit": null
@@ -394,60 +449,6 @@
    ],
    "image": null,
    "image_credit": null
-  },
-  {
-   "id": "world-20261118-0622-03",
-   "published_ist": "2026-11-17T16:30:00+05:30",
-   "headline": "America-Thailand vyapar samjhota tay",
-   "detail": "Manila me America aur Thailand ne parasparik vyapar samjhote (ART) par baatchit ke mool roop se poora hone ki ghoshna ki; Thailand America se aane wale saaman par tariff khatm karega.",
-   "category": "World",
-   "exam_angle": "ASEAN, America-Thailand vyapar aur reciprocal tariff — UPSC ke liye upyogi.",
-   "source": "The White House",
-   "source_url": "https://www.whitehouse.gov/briefings-statements/2026/11/joint-statement-on-an-agreement-between-the-united-states-of-america-and-the-kingdom-of-thailand-on-reciprocal-trade/",
-   "genuineness": "verified",
-   "outlets": [
-    "The White House",
-    "Reuters",
-    "The Nation"
-   ],
-   "image": null,
-   "image_credit": null
-  },
-  {
-   "id": "world-20261117-2122-02",
-   "published_ist": "2026-11-17T16:15:00+05:30",
-   "headline": "Thaci ko 17 mahine ki aur saza",
-   "detail": "Hague ki vishesh adalat ne Kosovo ke poorv Rashtrapati Hashim Thaci ko yuddh-apradh mukadme me gawahon ko prabhavit karne par 17 mahine ki saza di; yeh unki 25 saal ki saza ke alawa hai.",
-   "category": "World",
-   "exam_angle": "Kosovo vishesh adalat aur antarrashtriya nyay — UPSC ke liye mahatvapurna.",
-   "source": "Bangkok Post",
-   "source_url": "https://www.bangkokpost.com/world/3356420/exkosovo-leader-sentenced-for-influencing-witnesses?ref=%2Fworld%2F3356420%2Fexkosovo-leader-sentenced-for-influencing-witnesses",
-   "genuineness": "verified",
-   "outlets": [
-    "Associated Press",
-    "Bangkok Post",
-    "Türkiye Today",
-    "SeeNews"
-   ],
-   "image": null,
-   "image_credit": null
-  },
-  {
-   "id": "world-20261118-0822-02",
-   "published_ist": "2026-11-17T16:10:00+05:30",
-   "headline": "Dhaka airport ke paas do bam dhamake",
-   "detail": "Dhaka ke Hazrat Shahjalal airport ke bahari gate aur Jasimuddin area me do crude bam phate; teen paidal yatri mamuli roop se ghayal hue aur suraksha badha di gayi.",
-   "category": "World",
-   "exam_angle": "Bangladesh me rajnaitik tanav — UPSC ke liye upyogi.",
-   "source": "News18",
-   "source_url": "https://www.news18.com/world/three-pedestrians-injured-in-twin-crude-bomb-blasts-near-dhaka-airport-10429927.html",
-   "genuineness": "corroborated",
-   "outlets": [
-    "Dhaka Tribune",
-    "News18"
-   ],
-   "image": "../images/world/world-20261118-0822-02.jpg",
-   "image_credit": "Md Shaifuzzaman Ayon, Wikimedia Commons (CC BY-SA 4.0)"
   }
  ]
 }
