@@ -555,5 +555,80 @@
   ],
   "image": "../images/world/world-20261118-1422-04.jpg",
   "image_credit": "Gary Todd, Wikimedia Commons (CC0)"
+ },
+ {
+  "id": "world-20261118-1522-01",
+  "published_ist": "2026-11-18T13:20:00+05:30",
+  "headline": "Xi-Putin mile, bahudhruviya duniya ka vaada",
+  "detail": "APEC ke kinare Shenzhen me Xi Jinping aur Vladimir Putin mile; dono ne kaha Russia aur China bahudhruviya duniya ki ore netritva karenge, aur kal Trump ke saath pehli tri-pakshiya baithak hogi.",
+  "category": "World",
+  "exam_angle": "APEC, China-Russia saajhedaari aur bahudhruviya vyavastha — UPSC ke liye mahatvapurna.",
+  "source": "Al Jazeera",
+  "source_url": "https://www.aljazeera.com/news/2026/11/18/president-xi-says-russia-and-china-should-lead-push-to-multipolar-world",
+  "genuineness": "verified",
+  "outlets": [
+   "Al Jazeera",
+   "Nikkei Asia",
+   "Reuters",
+   "The Federal"
+  ],
+  "image": null,
+  "image_credit": null
+ },
+ {
+  "id": "world-20261118-1522-02",
+  "published_ist": "2026-11-18T11:57:00+05:30",
+  "headline": "Sona ek saal ke sabse neeche",
+  "detail": "Sona lagbhag 2% girkar $3,778 prati ounce par aa gaya — September 2025 ke baad sabse neeche; mazboot dollar aur Fed ke byaaj badhane ki aashanka wajah bani.",
+  "category": "World",
+  "exam_angle": "Sona, dollar aur Fed ki neeti — UPSC ke liye upyogi.",
+  "source": "The Hindu BusinessLine",
+  "source_url": "https://www.thehindubusinessline.com/markets/gold/gold-prices-fall-nearly-2-to-one-year-low-as-dollar-strengthens/article71714840.ece",
+  "genuineness": "verified",
+  "outlets": [
+   "Reuters",
+   "The Hindu BusinessLine",
+   "The Economic Times"
+  ],
+  "image": null,
+  "image_credit": null
+ },
+ {
+  "id": "world-20261118-1522-03",
+  "published_ist": "2026-11-18T09:17:00+05:30",
+  "headline": "Rubio: Washington par koi turant khatra nahi",
+  "detail": "Videsh mantri Marco Rubio ne kaha Washington par Iran ke kathit dirty bomb hamle ka koi turant khatra nahi hai; CNN ki report ko kharij karte hue unhone khufiya sroton ko jhootha bataya.",
+  "category": "World",
+  "exam_angle": "America-Iran tanav aur parmanu suraksha — UPSC ke liye upyogi.",
+  "source": "The Times of India",
+  "source_url": "https://timesofindia.indiatimes.com/world/middle-east/no-imminent-threat-rubio-hits-back-at-iran-dirty-bomb-report-brands-intelligence-sources-liars/articleshow/135947349.cms",
+  "genuineness": "verified",
+  "outlets": [
+   "Reuters",
+   "The Jerusalem Post",
+   "The Times of India",
+   "The Straits Times"
+  ],
+  "image": null,
+  "image_credit": null
+ },
+ {
+  "id": "world-20261118-1522-04",
+  "published_ist": "2026-11-18T06:50:00+05:30",
+  "headline": "Trump hatya sajish: Merchant ko 27 saal",
+  "detail": "America ki adalat ne Pakistani nagrik Asif Merchant ko 27 saal se zyada ki saza di; 2024 me Trump aur anya netaon ki hatya ki sajish me Iran ke IRGC se jude hone ka aarop tha.",
+  "category": "World",
+  "exam_angle": "America-Iran, aatankwad aur nyay — UPSC ke liye upyogi.",
+  "source": "The Hindu",
+  "source_url": "https://www.thehindu.com/news/international/pakistani-man-convicted-of-plotting-to-kill-trump-is-sentenced-to-over-27-years-in-prison/article71714337.ece",
+  "genuineness": "verified",
+  "outlets": [
+   "Reuters",
+   "The Hindu",
+   "The National",
+   "Khaleej Times"
+  ],
+  "image": null,
+  "image_credit": null
  }
 ]
