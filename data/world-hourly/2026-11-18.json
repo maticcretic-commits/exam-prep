@@ -857,5 +857,60 @@
   ],
   "image": null,
   "image_credit": null
+ },
+ {
+  "id": "world-20261118-2022-01",
+  "published_ist": "2026-11-18T12:12:00+05:30",
+  "headline": "Red Cross: swayatt hathiyaron par niyam banao",
+  "detail": "Geneva me UN bahas ke beech Red Cross ne swayatt hathiyaron par turant kanuni niyam ki maang ki; America, Russia aur Israel bandhan wale samjhote ke khilaf hain.",
+  "category": "World",
+  "exam_angle": "Swayatt hathiyar, CCW aur manavtavadi kanoon — UPSC ke liye mahatvapurna.",
+  "source": "Malay Mail",
+  "source_url": "https://www.malaymail.com/news/world/2026/11/18/red-cross-urges-rules-on-autonomous-weapons-as-un-debate-opens/243732",
+  "genuineness": "verified",
+  "outlets": [
+   "Malay Mail",
+   "NPR Illinois",
+   "Reuters"
+  ],
+  "image": null,
+  "image_credit": null
+ },
+ {
+  "id": "world-20261118-2022-02",
+  "published_ist": "2026-11-18T16:53:00+05:30",
+  "headline": "Ukraine ne Xi, Trump se Putin par dabav manga",
+  "detail": "Ukraine ke videsh mantri Sybiha ne kal ki Trump-Xi-Putin baithak se pehle kaha — dono neta Russia par yuddh khatm karne ka dabav banayein, aur bina Ukraine ke koi faisla na ho.",
+  "category": "World",
+  "exam_angle": "APEC aur Trump-Xi-Putin tri-pakshiya baithak — UPSC ke liye mahatvapurna.",
+  "source": "Interfax-Ukraine",
+  "source_url": "https://en.interfax.com.ua/news/general/1238495.html",
+  "genuineness": "verified",
+  "outlets": [
+   "Interfax-Ukraine",
+   "Ukrainska Pravda",
+   "Ukrinform",
+   "Deccan Herald"
+  ],
+  "image": null,
+  "image_credit": null
+ },
+ {
+  "id": "world-20261118-2022-03",
+  "published_ist": "2026-11-18T03:05:00+05:30",
+  "headline": "Jasusi ke aarop me US afsar America ko saunpa",
+  "detail": "Britain ne Russia ke liye jasusi ke sandeh me giraftar, NATO me tainaat American sena adhikari Lt Col Brandon Tyner ko US sena ko saunp diya; jaanch ab America karega.",
+  "category": "World",
+  "exam_angle": "NATO, jasusi aur rashtriya suraksha kanoon — UPSC ke liye mahatvapurna.",
+  "source": "Reuters",
+  "source_url": "https://www.reuters.com/world/uk/uk-hands-us-army-officer-us-military-espionage-probe-2026-11-17/",
+  "genuineness": "verified",
+  "outlets": [
+   "Reuters",
+   "Al Jazeera",
+   "The Jerusalem Post"
+  ],
+  "image": null,
+  "image_credit": null
  }
 ]
