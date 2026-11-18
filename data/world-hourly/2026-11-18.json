@@ -112,5 +112,75 @@
   ],
   "image": null,
   "image_credit": null
+ },
+ {
+  "id": "world-20261118-0822-01",
+  "published_ist": "2026-11-18T06:17:00+05:30",
+  "headline": "Kuwait par drone hamla, Bahrain me alert",
+  "detail": "Kuwait ki sena ne kaha uski vayu raksha 'shatrutapurna drone hamlo' ka jawab de rahi hai; Bahrain me bhi siren baje aur sena ne kai Irani hawai hamle rokne ka daava kiya.",
+  "category": "World",
+  "exam_angle": "Khadi me America-Iran tanav aur Hormuz — UPSC ke liye mahatvapurna.",
+  "source": "CNN",
+  "source_url": "https://www.cnn.com/2026/11/17/politics/us-iran-self-defense-strikes?cid=external-feeds_iluminar_meta",
+  "genuineness": "verified",
+  "outlets": [
+   "CNN",
+   "Gulf News",
+   "Mathrubhumi"
+  ],
+  "image": null,
+  "image_credit": null
+ },
+ {
+  "id": "world-20261118-0822-02",
+  "published_ist": "2026-11-17T16:10:00+05:30",
+  "headline": "Dhaka airport ke paas do bam dhamake",
+  "detail": "Dhaka ke Hazrat Shahjalal airport ke bahari gate aur Jasimuddin area me do crude bam phate; teen paidal yatri mamuli roop se ghayal hue aur suraksha badha di gayi.",
+  "category": "World",
+  "exam_angle": "Bangladesh me rajnaitik tanav — UPSC ke liye upyogi.",
+  "source": "News18",
+  "source_url": "https://www.news18.com/world/three-pedestrians-injured-in-twin-crude-bomb-blasts-near-dhaka-airport-10429927.html",
+  "genuineness": "corroborated",
+  "outlets": [
+   "Dhaka Tribune",
+   "News18"
+  ],
+  "image": "../images/world/world-20261118-0822-02.jpg",
+  "image_credit": "Md Shaifuzzaman Ayon, Wikimedia Commons (CC BY-SA 4.0)"
+ },
+ {
+  "id": "world-20261118-0822-03",
+  "published_ist": "2026-11-17T22:42:00+05:30",
+  "headline": "Guinea me avaidh khanan par 224 ko saza",
+  "detail": "Guinea ki adalat ne Siguiri me avaidh sone ke khanan par 224 logon ko saza di — 22 poorv adhikariyon ko do saal aur 202 khanan-mazdooron ko teen saal ki kaid.",
+  "category": "World",
+  "exam_angle": "Avaidh khanan aur paryavaran — UPSC ke liye upyogi.",
+  "source": "Citi Newsroom",
+  "source_url": "https://www.citinewsroom.com/2026/11/guinea-jails-224-administrators-individuals-over-illegal-gold-mining-in-siguiri/",
+  "genuineness": "verified",
+  "outlets": [
+   "Associated Press",
+   "DW",
+   "Citi Newsroom"
+  ],
+  "image": null,
+  "image_credit": null
+ },
+ {
+  "id": "world-20261118-0822-04",
+  "published_ist": "2026-11-18T03:51:00+05:30",
+  "headline": "Norway-Sweden: Ukraine ko $371 million",
+  "detail": "Norway aur Sweden ne Ukraine ko hathiyaron ke liye lagbhag $371 million dene ki ghoshna ki — Norway $300 million NATO ki PURL yojana ko aur Sweden 720 million kronor dega.",
+  "category": "World",
+  "exam_angle": "NATO ki PURL yojana aur Ukraine sahayata — UPSC ke liye mahatvapurna.",
+  "source": "Kyiv Independent",
+  "source_url": "https://kyivindependent.com/norway-sweden-to-provide-over-370-million-in-weapons-funding-for-ukraine/",
+  "genuineness": "verified",
+  "outlets": [
+   "Kyiv Independent",
+   "Ukrinform"
+  ],
+  "image": null,
+  "image_credit": null
  }
 ]
