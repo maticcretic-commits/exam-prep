@@ -1,6 +1,65 @@
 {
- "updated_ist": "2026-11-18T16:26:21+05:30",
+ "updated_ist": "2026-11-18T17:24:35+05:30",
  "items": [
+  {
+   "id": "world-20261118-1722-01",
+   "published_ist": "2026-11-18T15:01:00+05:30",
+   "headline": "Riyadh me dhamaka, do Houthi missile roke gaye",
+   "detail": "Riyadh me zoradar dhamaka suna gaya, hawai adde ke paas dhuaan dikha; gathbandhan ne kaha do Houthi cruise missile roke gaye, subah ek aur missile bhi roka gaya tha.",
+   "category": "World",
+   "exam_angle": "Yemen, Houthi hamle aur Khadi suraksha — UPSC ke liye mahatvapurna.",
+   "source": "NDTV",
+   "source_url": "https://www.ndtv.com/world-news/extremely-loud-explosion-in-riyadh-amid-saudi-arabia-houthi-clashes-smoke-seen-near-airport-12343563/amp/1",
+   "genuineness": "corroborated",
+   "outlets": [
+    "AFP",
+    "Saudi-led coalition",
+    "NDTV",
+    "Malay Mail"
+   ],
+   "image": null,
+   "image_credit": null
+  },
+  {
+   "id": "world-20261118-1722-02",
+   "published_ist": "2026-11-18T14:29:00+05:30",
+   "headline": "Trump China pahunche, Xi ne swagat kiya",
+   "detail": "Trump APEC ke liye Shenzhen pahunche; Xi Jinping ne hawai adde par unka swagat kiya — lagbhag 50 saal me pehli baar kisi Chinese neta ne mehmaan ka airport par swagat kiya, kal tri-pakshiya baithak hogi.",
+   "category": "World",
+   "exam_angle": "APEC, America-China-Russia tri-pakshiya baithak — UPSC ke liye mahatvapurna.",
+   "source": "The Times of India",
+   "source_url": "https://timesofindia.indiatimes.com/world/china/trump-lands-in-china-for-historic-trilateral-summit-with-xi-putin/articleshow/135956865.cms",
+   "genuineness": "verified",
+   "outlets": [
+    "The National",
+    "The Times of India",
+    "Times Now",
+    "Outlook",
+    "CNBC Africa",
+    "Free Malaysia Today"
+   ],
+   "image": null,
+   "image_credit": null
+  },
+  {
+   "id": "world-20261118-1722-03",
+   "published_ist": "2026-11-18T14:24:00+05:30",
+   "headline": "Iran sena pramukh: jawab aur bhi bhayankar hoga",
+   "detail": "Iran ke sena pramukh Amir Hatami ne kaha America ke naye hamle par jawab 'aur bhi bhayankar' hoga aur America ke sahyogiyon ko bhi nishana banayega.",
+   "category": "World",
+   "exam_angle": "America-Iran tanav aur Khadi suraksha — UPSC ke liye mahatvapurna.",
+   "source": "Free Malaysia Today",
+   "source_url": "https://www.freemalaysiatoday.com/category/world/2026/11/18/army-chief-threatens-more-devastating-response-if-iran-attacked",
+   "genuineness": "corroborated",
+   "outlets": [
+    "AFP",
+    "Fars News Agency",
+    "Free Malaysia Today",
+    "Kurdistan24"
+   ],
+   "image": null,
+   "image_credit": null
+  },
   {
    "id": "world-20261118-1522-01",
    "published_ist": "2026-11-18T13:20:00+05:30",
@@ -39,6 +98,24 @@
    ],
    "image": "../images/world/world-20261118-1622-01.jpg",
    "image_credit": "Cabinet Public Affairs Office, Wikimedia Commons (CC BY 4.0)"
+  },
+  {
+   "id": "world-20261118-1722-04",
+   "published_ist": "2026-11-18T13:08:00+05:30",
+   "headline": "Hormuz me ADNOC jahaz par hamla, ek lapata",
+   "detail": "Hormuz se guzarte ADNOC ke jahaz par hamla hua; ek chalak dal sadasya lapata aur 11 ghayal hue, UAE ki tel company ne WAM ko bataya.",
+   "category": "World",
+   "exam_angle": "Hormuz, Khadi me tel suraksha aur America-Iran tanav — UPSC ke liye mahatvapurna.",
+   "source": "Gulf News",
+   "source_url": "https://gulfnews.com/world/mena/middle-east-war-iran-attacks-bahrain-kuwait-drone-threats-keep-gulf-on-high-alert-as-us-hits-irans-qeshm-1.500751444",
+   "genuineness": "verified",
+   "outlets": [
+    "Dawn",
+    "Gulf News",
+    "WAM"
+   ],
+   "image": null,
+   "image_credit": null
   },
   {
    "id": "world-20261118-1522-02",
@@ -370,80 +447,6 @@
     "Al Jazeera",
     "Anadolu Agency",
     "Gulf News"
-   ],
-   "image": null,
-   "image_credit": null
-  },
-  {
-   "id": "world-20261118-0822-04",
-   "published_ist": "2026-11-18T03:51:00+05:30",
-   "headline": "Norway-Sweden: Ukraine ko $371 million",
-   "detail": "Norway aur Sweden ne Ukraine ko hathiyaron ke liye lagbhag $371 million dene ki ghoshna ki — Norway $300 million NATO ki PURL yojana ko aur Sweden 720 million kronor dega.",
-   "category": "World",
-   "exam_angle": "NATO ki PURL yojana aur Ukraine sahayata — UPSC ke liye mahatvapurna.",
-   "source": "Kyiv Independent",
-   "source_url": "https://kyivindependent.com/norway-sweden-to-provide-over-370-million-in-weapons-funding-for-ukraine/",
-   "genuineness": "verified",
-   "outlets": [
-    "Kyiv Independent",
-    "Ukrinform"
-   ],
-   "image": null,
-   "image_credit": null
-  },
-  {
-   "id": "world-20261118-0622-02",
-   "published_ist": "2026-11-18T03:51:00+05:30",
-   "headline": "Siberia me sainya viman gira, 19 ki maut",
-   "detail": "Russia ka An-12 sainya parivahan viman Kemerovo ke paas gira; raksha mantralaya ke mutabik sawaar 19 logon ki maut ho gayi, takneeki kharabi ko shuruaati wajah bataya gaya.",
-   "category": "World",
-   "exam_angle": "Russia, sainya viman aur An-12 — UPSC ke liye upyogi.",
-   "source": "Al Jazeera",
-   "source_url": "https://www.aljazeera.com/news/2026/11/17/russian-military-plane-crash-in-siberia-kills-19?traffic_source=rss",
-   "genuineness": "verified",
-   "outlets": [
-    "Al Jazeera",
-    "CNN",
-    "Dawn",
-    "Channel News Asia",
-    "Reuters"
-   ],
-   "image": null,
-   "image_credit": null
-  },
-  {
-   "id": "world-20261118-1222-02",
-   "published_ist": "2026-11-18T03:25:00+05:30",
-   "headline": "Canary Islands par 11,000 pravasi pahunche",
-   "detail": "Spain ke Canary Islands par November ke pehle pakhwade me 11,000 se zyada pravasi samundar se pahunche; chunaav se pehle Spain ne dweepon par apatkal ghoshit kiya.",
-   "category": "World",
-   "exam_angle": "Pravasan, Europe aur Spain chunaav — UPSC ke liye upyogi.",
-   "source": "Arab News",
-   "source_url": "https://www.arabnews.pk/world/migrant-arrivals-from-africa-to-the-canary-islands-spike-as-spains-general-election-nears-3007331",
-   "genuineness": "verified",
-   "outlets": [
-    "Associated Press",
-    "Arab News",
-    "Okay News"
-   ],
-   "image": null,
-   "image_credit": null
-  },
-  {
-   "id": "world-20261118-1322-03",
-   "published_ist": "2026-11-18T03:00:00+05:30",
-   "headline": "Prague me do train takraayi, 46 ghayal",
-   "detail": "Prague ke mukhya station ke paas do yatri train aamne-saamne takra gayi; 46 log ghayal hue, jinme dono driver bhi gambhir roop se ghayal hain; shuruaati jaanch me ek train ke laal signal paar karne ki aashanka hai.",
-   "category": "World",
-   "exam_angle": "Rail suraksha aur haadsa jaanch — UPSC ke liye upyogi.",
-   "source": "Qatar Tribune",
-   "source_url": "https://www.qatar-tribune.com/article/264844/world/dozens-injured-as-passenger-trains-collide-near-prague",
-   "genuineness": "verified",
-   "outlets": [
-    "Qatar Tribune",
-    "Prague Daily",
-    "News9live",
-    "The Express Tribune"
    ],
    "image": null,
    "image_credit": null
