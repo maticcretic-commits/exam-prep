@@ -1,6 +1,61 @@
 {
- "updated_ist": "2026-11-18T19:31:53+05:30",
+ "updated_ist": "2026-11-18T20:26:31+05:30",
  "items": [
+  {
+   "id": "world-20261118-2022-01",
+   "published_ist": "2026-11-18T12:12:00+05:30",
+   "headline": "Red Cross: swayatt hathiyaron par niyam banao",
+   "detail": "Geneva me UN bahas ke beech Red Cross ne swayatt hathiyaron par turant kanuni niyam ki maang ki; America, Russia aur Israel bandhan wale samjhote ke khilaf hain.",
+   "category": "World",
+   "exam_angle": "Swayatt hathiyar, CCW aur manavtavadi kanoon — UPSC ke liye mahatvapurna.",
+   "source": "Malay Mail",
+   "source_url": "https://www.malaymail.com/news/world/2026/11/18/red-cross-urges-rules-on-autonomous-weapons-as-un-debate-opens/243732",
+   "genuineness": "verified",
+   "outlets": [
+    "Malay Mail",
+    "NPR Illinois",
+    "Reuters"
+   ],
+   "image": null,
+   "image_credit": null
+  },
+  {
+   "id": "world-20261118-2022-02",
+   "published_ist": "2026-11-18T16:53:00+05:30",
+   "headline": "Ukraine ne Xi, Trump se Putin par dabav manga",
+   "detail": "Ukraine ke videsh mantri Sybiha ne kal ki Trump-Xi-Putin baithak se pehle kaha — dono neta Russia par yuddh khatm karne ka dabav banayein, aur bina Ukraine ke koi faisla na ho.",
+   "category": "World",
+   "exam_angle": "APEC aur Trump-Xi-Putin tri-pakshiya baithak — UPSC ke liye mahatvapurna.",
+   "source": "Interfax-Ukraine",
+   "source_url": "https://en.interfax.com.ua/news/general/1238495.html",
+   "genuineness": "verified",
+   "outlets": [
+    "Interfax-Ukraine",
+    "Ukrainska Pravda",
+    "Ukrinform",
+    "Deccan Herald"
+   ],
+   "image": null,
+   "image_credit": null
+  },
+  {
+   "id": "world-20261118-2022-03",
+   "published_ist": "2026-11-18T03:05:00+05:30",
+   "headline": "Jasusi ke aarop me US afsar America ko saunpa",
+   "detail": "Britain ne Russia ke liye jasusi ke sandeh me giraftar, NATO me tainaat American sena adhikari Lt Col Brandon Tyner ko US sena ko saunp diya; jaanch ab America karega.",
+   "category": "World",
+   "exam_angle": "NATO, jasusi aur rashtriya suraksha kanoon — UPSC ke liye mahatvapurna.",
+   "source": "Reuters",
+   "source_url": "https://www.reuters.com/world/uk/uk-hands-us-army-officer-us-military-espionage-probe-2026-11-17/",
+   "genuineness": "verified",
+   "outlets": [
+    "Reuters",
+    "Al Jazeera",
+    "The Jerusalem Post"
+   ],
+   "image": null,
+   "image_credit": null
+  },
   {
    "id": "world-20261118-1922-01",
    "published_ist": "2026-11-18T16:49:00+05:30",
@@ -394,62 +449,6 @@
    ],
    "image": "../images/world/world-20261118-1422-04.jpg",
    "image_credit": "Gary Todd, Wikimedia Commons (CC0)"
-  },
-  {
-   "id": "world-20261118-1122-01",
-   "published_ist": "2026-11-18T07:09:00+05:30",
-   "headline": "Trump-Xi-Putin ki pehli tri-pakshiya baithak kal",
-   "detail": "Shenzhen me APEC ke kinare Trump, Xi Jinping aur Vladimir Putin ki pehli tri-pakshiya baithak guruvaar ko hogi; parmanu hathiyar, Ukraine aur Iran par charcha sambhav hai.",
-   "category": "World",
-   "exam_angle": "APEC, mahashakti kootneeti aur parmanu hathiyar niyantran — UPSC ke liye mahatvapurna.",
-   "source": "NDTV",
-   "source_url": "https://www.ndtv.com/world-news/trump-heads-to-china-for-trilateral-meeting-with-xi-jinping-vladimir-putin-12341630/amp/1",
-   "genuineness": "verified",
-   "outlets": [
-    "NDTV",
-    "The Indian Express",
-    "Le Monde",
-    "The Times",
-    "The Economic Times"
-   ],
-   "image": null,
-   "image_credit": null
-  },
-  {
-   "id": "world-20261118-1622-03",
-   "published_ist": "2026-11-18T07:07:00+05:30",
-   "headline": "UAE duniya ka sabse surakshit desh",
-   "detail": "Gallup ki 2026 Global Safety Report mein UAE pehle sthan par raha — 96% logon ne kaha raat mein akele chalna surakshit hai; Singapore bhi 96% ke saath barabar raha, jabki duniya bhar mein suraksha ki bhavna 69% par gir gayi.",
-   "category": "World",
-   "exam_angle": "Gallup Global Safety Report aur Law and Order Index — UPSC ke liye upyogi.",
-   "source": "The National",
-   "source_url": "https://www.thenationalnews.com/news/uae/2026/11/18/uae-safety-ranking-gallup-safest/",
-   "genuineness": "corroborated",
-   "outlets": [
-    "Gallup",
-    "The National"
-   ],
-   "image": null,
-   "image_credit": null
-  },
-  {
-   "id": "world-20261118-1322-02",
-   "published_ist": "2026-11-18T07:00:00+05:30",
-   "headline": "Japan ke aakaash me Russian viman",
-   "detail": "Japan ne kaha do sandeh wale Russian vimanon ne Fukuoka ke paas uska hawai kshetra ullanghan kiya; Japan ne ladaku viman bheje aur Moscow se kadha virodh jataaya, 2024 ke baad pehli aisi ghatna hai.",
-   "category": "World",
-   "exam_angle": "Japan-Russia, hawai kshetra aur APEC — UPSC ke liye upyogi.",
-   "source": "The Print",
-   "source_url": "https://theprint.in/world/taiwan-japan-flag-incursions-by-russian-aircraft-ahead-of-putins-arrival-in-china/3101632/",
-   "genuineness": "verified",
-   "outlets": [
-    "Reuters",
-    "The Manila Times",
-    "Daily Pioneer",
-    "Khmer Times"
-   ],
-   "image": null,
-   "image_credit": null
   }
  ]
 }
