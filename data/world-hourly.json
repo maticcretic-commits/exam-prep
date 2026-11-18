@@ -1,6 +1,45 @@
 {
- "updated_ist": "2026-11-18T17:24:35+05:30",
+ "updated_ist": "2026-11-18T18:27:19+05:30",
  "items": [
+  {
+   "id": "world-20261118-1822-01",
+   "published_ist": "2026-11-18T15:53:00+05:30",
+   "headline": "Australia ne Israeli basne walon par pratibandh lagaye",
+   "detail": "Australia ne West Bank me avaidh basti vistaar aur hinsa par teen Israeli vyaktiyon aur chaar sangathanon par pratibandh lagaye; Britain ne bhi kal aath nirman companiyon par pratibandh lagaye the.",
+   "category": "World",
+   "exam_angle": "West Bank, do-rashtra samadhan aur pratibandh — UPSC ke liye mahatvapurna.",
+   "source": "The Hindu",
+   "source_url": "https://www.thehindu.com/news/international/australia-sanctions-israeli-settlers-organisations-over-west-bank-expansion/article71715383.ece",
+   "genuineness": "verified",
+   "outlets": [
+    "Reuters",
+    "Haaretz",
+    "The Times of Israel",
+    "The Hindu"
+   ],
+   "image": null,
+   "image_credit": null
+  },
+  {
+   "id": "world-20261118-1822-02",
+   "published_ist": "2026-11-18T15:08:00+05:30",
+   "headline": "Peltola ne Alaska Senate seat jeeti",
+   "detail": "Democrat Mary Peltola ne Alaska me Republican Dan Sullivan ko hara diya; Democrats ke Senate me 56 seat ho gaye — 2009 ke baad sabse bada bahumat.",
+   "category": "World",
+   "exam_angle": "America ke midterm chunav aur Senate bahumat — UPSC ke liye mahatvapurna.",
+   "source": "Al Jazeera",
+   "source_url": "https://www.aljazeera.com/news/2026/11/18/why-democrat-mary-peltolas-us-senate-win-in-alaska-matters",
+   "genuineness": "verified",
+   "outlets": [
+    "Al Jazeera",
+    "Reuters",
+    "Haaretz",
+    "Dawn",
+    "Nikkei Asia"
+   ],
+   "image": "../images/world/world-20261118-1822-02.jpg",
+   "image_credit": "Leah Herman, House Creative Services, Wikimedia Commons (Public domain)"
+  },
   {
    "id": "world-20261118-1722-01",
    "published_ist": "2026-11-18T15:01:00+05:30",
@@ -16,6 +55,26 @@
     "Saudi-led coalition",
     "NDTV",
     "Malay Mail"
+   ],
+   "image": null,
+   "image_credit": null
+  },
+  {
+   "id": "world-20261118-1822-03",
+   "published_ist": "2026-11-18T14:46:00+05:30",
+   "headline": "Nvidia ne China ko AI chip band kiye",
+   "detail": "Nvidia ne America ki manzoori ke baad bhi Hopper AI chip China bhejna band kar diya; teesri timahi me $2.4 arab ke chip beche the, aage koi shipment nahi hogi.",
+   "category": "World",
+   "exam_angle": "America-China tech yuddh aur chip niryat niyantran — UPSC ke liye mahatvapurna.",
+   "source": "Reuters",
+   "source_url": "https://www.reuters.com/world/china/nvidia-stops-shipping-us-approved-ai-chips-china-2026-11-18/",
+   "genuineness": "verified",
+   "outlets": [
+    "Reuters",
+    "Bloomberg",
+    "Business Standard",
+    "The Economic Times",
+    "The Straits Times"
    ],
    "image": null,
    "image_credit": null
@@ -113,6 +172,24 @@
     "Dawn",
     "Gulf News",
     "WAM"
+   ],
+   "image": null,
+   "image_credit": null
+  },
+  {
+   "id": "world-20261118-1822-04",
+   "published_ist": "2026-11-18T12:10:00+05:30",
+   "headline": "Etihad, flydubai ne Saudi udanein aur radd ki",
+   "detail": "Etihad ne Riyadh-Dammam udanein 30 November tak aur flydubai ne Riyadh-Abha udanein 27 November tak radd kar di; EASA ne Khadi ki udaan chetavni 31 January 2027 tak badha di.",
+   "category": "World",
+   "exam_angle": "Khadi tanav aur nagrik uddayan suraksha — UPSC ke liye upyogi.",
+   "source": "Gulf News",
+   "source_url": "https://gulfnews.com/amp/story/world%2Fgulf%2Fsaudi%2Fuae-flights-status-update-etihad-flydubai-extend-saudi-cancellations-as-gulf-attacks-escalate-on-november-18-1.500751819",
+   "genuineness": "verified",
+   "outlets": [
+    "Gulf News",
+    "ARN News",
+    "Arabian Business"
    ],
    "image": null,
    "image_credit": null
@@ -372,81 +449,6 @@
     "The Hindu",
     "The National",
     "Khaleej Times"
-   ],
-   "image": null,
-   "image_credit": null
-  },
-  {
-   "id": "world-20261118-0822-01",
-   "published_ist": "2026-11-18T06:17:00+05:30",
-   "headline": "Kuwait par drone hamla, Bahrain me alert",
-   "detail": "Kuwait ki sena ne kaha uski vayu raksha 'shatrutapurna drone hamlo' ka jawab de rahi hai; Bahrain me bhi siren baje aur sena ne kai Irani hawai hamle rokne ka daava kiya.",
-   "category": "World",
-   "exam_angle": "Khadi me America-Iran tanav aur Hormuz — UPSC ke liye mahatvapurna.",
-   "source": "CNN",
-   "source_url": "https://www.cnn.com/2026/11/17/politics/us-iran-self-defense-strikes?cid=external-feeds_iluminar_meta",
-   "genuineness": "verified",
-   "outlets": [
-    "CNN",
-    "Gulf News",
-    "Mathrubhumi"
-   ],
-   "image": null,
-   "image_credit": null
-  },
-  {
-   "id": "world-20261118-0622-01",
-   "published_ist": "2026-11-18T06:11:00+05:30",
-   "headline": "Kerch Bridge par hamla, sadak hissa gira",
-   "detail": "Ukraine ne drone aur missile se Kerch Bridge par hamla kiya; sadak wale hisse ki mehraab aur span samundar me gir gaye, rail seva aanshik roop se bahal hui.",
-   "category": "World",
-   "exam_angle": "Kerch Bridge, Crimea aur Russia-Ukraine yuddh — UPSC ke liye mahatvapurna.",
-   "source": "The Times of India",
-   "source_url": "https://timesofindia.indiatimes.com/world/europe/ukraine-strikes-putins-prized-crimean-bridge-destroys-central-road-section-ahead-of-us-china-meet/articleshow/135944199.cms",
-   "genuineness": "verified",
-   "outlets": [
-    "Associated Press",
-    "The Times of India",
-    "Bloomberg",
-    "The National"
-   ],
-   "image": "../images/world/world-20261118-0622-01.jpg",
-   "image_credit": "Rosavtodor, Wikimedia Commons (CC BY 4.0)"
-  },
-  {
-   "id": "world-20261118-0727-01",
-   "published_ist": "2026-11-18T04:45:00+05:30",
-   "headline": "Bangladesh me phir hinsa, BNP neta ki maut",
-   "detail": "Faridpur me BNP neta Raju Mollah ki hatya ke baad Gopalganj me thana aur sansad ke ghar me aag lagayi gayi; Dhaka me buson me aag aur crude bomb dhamake hue.",
-   "category": "World",
-   "exam_angle": "Bangladesh ki rajneeti, Sheikh Hasina ki wapsi — UPSC ke liye upyogi.",
-   "source": "The Print",
-   "source_url": "https://theprint.in/world/fresh-violence-grips-hasinas-hometown-amid-brewing-tensions-in-bangladesh/3101624/",
-   "genuineness": "verified",
-   "outlets": [
-    "PTI",
-    "ANI",
-    "BDnews24",
-    "Daily Waadaa"
-   ],
-   "image": null,
-   "image_credit": null
-  },
-  {
-   "id": "world-20261118-1122-02",
-   "published_ist": "2026-11-18T04:08:00+05:30",
-   "headline": "Yemen me 60 Houthi thikano par hamla",
-   "detail": "Saudi netritva wale gathbandhan ne Yemen ke chaar pranton me Houthi ke 60 sainya thikano ko nasht karne ka daava kiya; missile surang aur drone workshop nishane par the.",
-   "category": "World",
-   "exam_angle": "Yemen, Houthi aur Laal Sagar suraksha — UPSC ke liye upyogi.",
-   "source": "Arab News",
-   "source_url": "https://www.arabnews.com/middle-east/kuwait-bahrain-fend-off-iranian-aerial-attacks-as-coalition-hits-houthi-military-sites-3012614",
-   "genuineness": "verified",
-   "outlets": [
-    "Arab News",
-    "Al Jazeera",
-    "Anadolu Agency",
-    "Gulf News"
    ],
    "image": null,
    "image_credit": null
