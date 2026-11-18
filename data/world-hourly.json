@@ -1,40 +1,20 @@
 {
- "updated_ist": "2026-11-18T07:27:05+05:30",
+ "updated_ist": "2026-11-18T08:27:05+05:30",
  "items": [
   {
-   "id": "world-20261118-0727-01",
-   "published_ist": "2026-11-18T04:45:00+05:30",
-   "headline": "Bangladesh me phir hinsa, BNP neta ki maut",
-   "detail": "Faridpur me BNP neta Raju Mollah ki hatya ke baad Gopalganj me thana aur sansad ke ghar me aag lagayi gayi; Dhaka me buson me aag aur crude bomb dhamake hue.",
+   "id": "world-20261118-0822-01",
+   "published_ist": "2026-11-18T06:17:00+05:30",
+   "headline": "Kuwait par drone hamla, Bahrain me alert",
+   "detail": "Kuwait ki sena ne kaha uski vayu raksha 'shatrutapurna drone hamlo' ka jawab de rahi hai; Bahrain me bhi siren baje aur sena ne kai Irani hawai hamle rokne ka daava kiya.",
    "category": "World",
-   "exam_angle": "Bangladesh ki rajneeti, Sheikh Hasina ki wapsi — UPSC ke liye upyogi.",
-   "source": "The Print",
-   "source_url": "https://theprint.in/world/fresh-violence-grips-hasinas-hometown-amid-brewing-tensions-in-bangladesh/3101624/",
+   "exam_angle": "Khadi me America-Iran tanav aur Hormuz — UPSC ke liye mahatvapurna.",
+   "source": "CNN",
+   "source_url": "https://www.cnn.com/2026/11/17/politics/us-iran-self-defense-strikes?cid=external-feeds_iluminar_meta",
    "genuineness": "verified",
    "outlets": [
-    "PTI",
-    "ANI",
-    "BDnews24",
-    "Daily Waadaa"
-   ],
-   "image": null,
-   "image_credit": null
-  },
-  {
-   "id": "world-20261118-0727-02",
-   "published_ist": "2026-11-17T16:53:00+05:30",
-   "headline": "Kyiv ke pulon par hamla, 14 ki maut",
-   "detail": "Russia ke hamle me Ukraine bhar me 14 log mare aur 78 ghayal hue; Kyiv ke Northern aur Southern pul band hue aur kai kshetron me bijli dhwast hui.",
-   "category": "World",
-   "exam_angle": "Russia-Ukraine yuddh, Kyiv aur Dnipro nadi — UPSC ke liye upyogi.",
-   "source": "Kyiv Independent",
-   "source_url": "https://kyivindependent.com/russian-attacks-kill-14-injure-78-across-ukraine-over-past-day-hitting-kyivs-southern-northern-bridges/",
-   "genuineness": "verified",
-   "outlets": [
-    "Kyiv Independent",
-    "Reuters",
-    "Le Temps",
-    "The New Voice of Ukraine"
+    "CNN",
+    "Gulf News",
+    "Mathrubhumi"
    ],
    "image": null,
    "image_credit": null
@@ -59,6 +39,42 @@
    "image_credit": "Rosavtodor, Wikimedia Commons (CC BY 4.0)"
   },
   {
+   "id": "world-20261118-0727-01",
+   "published_ist": "2026-11-18T04:45:00+05:30",
+   "headline": "Bangladesh me phir hinsa, BNP neta ki maut",
+   "detail": "Faridpur me BNP neta Raju Mollah ki hatya ke baad Gopalganj me thana aur sansad ke ghar me aag lagayi gayi; Dhaka me buson me aag aur crude bomb dhamake hue.",
+   "category": "World",
+   "exam_angle": "Bangladesh ki rajneeti, Sheikh Hasina ki wapsi — UPSC ke liye upyogi.",
+   "source": "The Print",
+   "source_url": "https://theprint.in/world/fresh-violence-grips-hasinas-hometown-amid-brewing-tensions-in-bangladesh/3101624/",
+   "genuineness": "verified",
+   "outlets": [
+    "PTI",
+    "ANI",
+    "BDnews24",
+    "Daily Waadaa"
+   ],
+   "image": null,
+   "image_credit": null
+  },
+  {
+   "id": "world-20261118-0822-04",
+   "published_ist": "2026-11-18T03:51:00+05:30",
+   "headline": "Norway-Sweden: Ukraine ko $371 million",
+   "detail": "Norway aur Sweden ne Ukraine ko hathiyaron ke liye lagbhag $371 million dene ki ghoshna ki — Norway $300 million NATO ki PURL yojana ko aur Sweden 720 million kronor dega.",
+   "category": "World",
+   "exam_angle": "NATO ki PURL yojana aur Ukraine sahayata — UPSC ke liye mahatvapurna.",
+   "source": "Kyiv Independent",
+   "source_url": "https://kyivindependent.com/norway-sweden-to-provide-over-370-million-in-weapons-funding-for-ukraine/",
+   "genuineness": "verified",
+   "outlets": [
+    "Kyiv Independent",
+    "Ukrinform"
+   ],
+   "image": null,
+   "image_credit": null
+  },
+  {
    "id": "world-20261118-0622-02",
    "published_ist": "2026-11-18T03:51:00+05:30",
    "headline": "Siberia me sainya viman gira, 19 ki maut",
@@ -79,19 +95,19 @@
    "image_credit": null
   },
   {
-   "id": "world-20261118-0622-03",
-   "published_ist": "2026-11-17T16:30:00+05:30",
-   "headline": "America-Thailand vyapar samjhota tay",
-   "detail": "Manila me America aur Thailand ne parasparik vyapar samjhote (ART) par baatchit ke mool roop se poora hone ki ghoshna ki; Thailand America se aane wale saaman par tariff khatm karega.",
+   "id": "world-20261118-0822-03",
+   "published_ist": "2026-11-17T22:42:00+05:30",
+   "headline": "Guinea me avaidh khanan par 224 ko saza",
+   "detail": "Guinea ki adalat ne Siguiri me avaidh sone ke khanan par 224 logon ko saza di — 22 poorv adhikariyon ko do saal aur 202 khanan-mazdooron ko teen saal ki kaid.",
    "category": "World",
-   "exam_angle": "ASEAN, America-Thailand vyapar aur reciprocal tariff — UPSC ke liye upyogi.",
-   "source": "The White House",
-   "source_url": "https://www.whitehouse.gov/briefings-statements/2026/11/joint-statement-on-an-agreement-between-the-united-states-of-america-and-the-kingdom-of-thailand-on-reciprocal-trade/",
+   "exam_angle": "Avaidh khanan aur paryavaran — UPSC ke liye upyogi.",
+   "source": "Citi Newsroom",
+   "source_url": "https://www.citinewsroom.com/2026/11/guinea-jails-224-administrators-individuals-over-illegal-gold-mining-in-siguiri/",
    "genuineness": "verified",
    "outlets": [
-    "The White House",
-    "Reuters",
-    "The Nation"
+    "Associated Press",
+    "DW",
+    "Citi Newsroom"
    ],
    "image": null,
    "image_credit": null
@@ -193,6 +209,25 @@
    "image_credit": null
   },
   {
+   "id": "world-20261118-0727-02",
+   "published_ist": "2026-11-17T16:53:00+05:30",
+   "headline": "Kyiv ke pulon par hamla, 14 ki maut",
+   "detail": "Russia ke hamle me Ukraine bhar me 14 log mare aur 78 ghayal hue; Kyiv ke Northern aur Southern pul band hue aur kai kshetron me bijli dhwast hui.",
+   "category": "World",
+   "exam_angle": "Russia-Ukraine yuddh, Kyiv aur Dnipro nadi — UPSC ke liye upyogi.",
+   "source": "Kyiv Independent",
+   "source_url": "https://kyivindependent.com/russian-attacks-kill-14-injure-78-across-ukraine-over-past-day-hitting-kyivs-southern-northern-bridges/",
+   "genuineness": "verified",
+   "outlets": [
+    "Kyiv Independent",
+    "Reuters",
+    "Le Temps",
+    "The New Voice of Ukraine"
+   ],
+   "image": null,
+   "image_credit": null
+  },
+  {
    "id": "world-20261117-2122-01",
    "published_ist": "2026-11-17T16:50:00+05:30",
    "headline": "Netherlands sarkar bachi, sankat khatm",
@@ -205,6 +240,24 @@
    "outlets": [
     "Reuters",
     "Brussels Signal"
+   ],
+   "image": null,
+   "image_credit": null
+  },
+  {
+   "id": "world-20261118-0622-03",
+   "published_ist": "2026-11-17T16:30:00+05:30",
+   "headline": "America-Thailand vyapar samjhota tay",
+   "detail": "Manila me America aur Thailand ne parasparik vyapar samjhote (ART) par baatchit ke mool roop se poora hone ki ghoshna ki; Thailand America se aane wale saaman par tariff khatm karega.",
+   "category": "World",
+   "exam_angle": "ASEAN, America-Thailand vyapar aur reciprocal tariff — UPSC ke liye upyogi.",
+   "source": "The White House",
+   "source_url": "https://www.whitehouse.gov/briefings-statements/2026/11/joint-statement-on-an-agreement-between-the-united-states-of-america-and-the-kingdom-of-thailand-on-reciprocal-trade/",
+   "genuineness": "verified",
+   "outlets": [
+    "The White House",
+    "Reuters",
+    "The Nation"
    ],
    "image": null,
    "image_credit": null
@@ -227,6 +280,23 @@
    ],
    "image": null,
    "image_credit": null
+  },
+  {
+   "id": "world-20261118-0822-02",
+   "published_ist": "2026-11-17T16:10:00+05:30",
+   "headline": "Dhaka airport ke paas do bam dhamake",
+   "detail": "Dhaka ke Hazrat Shahjalal airport ke bahari gate aur Jasimuddin area me do crude bam phate; teen paidal yatri mamuli roop se ghayal hue aur suraksha badha di gayi.",
+   "category": "World",
+   "exam_angle": "Bangladesh me rajnaitik tanav — UPSC ke liye upyogi.",
+   "source": "News18",
+   "source_url": "https://www.news18.com/world/three-pedestrians-injured-in-twin-crude-bomb-blasts-near-dhaka-airport-10429927.html",
+   "genuineness": "corroborated",
+   "outlets": [
+    "Dhaka Tribune",
+    "News18"
+   ],
+   "image": "../images/world/world-20261118-0822-02.jpg",
+   "image_credit": "Md Shaifuzzaman Ayon, Wikimedia Commons (CC BY-SA 4.0)"
   },
   {
    "id": "world-20261117-1822-01",
@@ -368,83 +438,6 @@
     "ONS",
     "Reuters",
     "The Guardian"
-   ],
-   "image": null,
-   "image_credit": null
-  },
-  {
-   "id": "world-20261117-1922-03",
-   "published_ist": "2026-11-17T12:23:00+05:30",
-   "headline": "UK ne Israeli basti companiyon par pratibandh lagaye",
-   "detail": "Britain ne West Bank me basti banane wali aath companiyon aur Gaza sahayata rokne wale Tzav 9 par sampatti jabti aur nideshak pratibandh lagaye; E1 pariyojana ki boliyon se pehle yeh kadam uthaya gaya.",
-   "category": "World",
-   "exam_angle": "UK pratibandh, West Bank basti aur E1 pariyojana — UPSC ke liye upyogi.",
-   "source": "Reuters",
-   "source_url": "https://www.reuters.com/world/uk/britain-sanctions-israeli-settlement-builders-gaza-aid-blocking-activists-2026-11-17/",
-   "genuineness": "verified",
-   "outlets": [
-    "Reuters",
-    "Haaretz",
-    "The Jerusalem Post",
-    "Israel Hayom",
-    "Outlook India"
-   ],
-   "image": null,
-   "image_credit": null
-  },
-  {
-   "id": "world-20261117-1722-01",
-   "published_ist": "2026-11-17T12:17:00+05:30",
-   "headline": "Mongolia ke Rashtrapati ne istifa diya",
-   "detail": "Bhrashtachar ke aaropon aur mahaabhiyog ki dhamki ke baad Ukhnaa Khurelsukh ne istifa diya — aaropon se inkar karte hue kaha jaanch me sahyog karenge; sansad ko chaar mahine me chunav karana hoga.",
-   "category": "World",
-   "exam_angle": "Mongolia, rashtrapati istifa aur bhrashtachar — UPSC ke liye upyogi.",
-   "source": "Reuters",
-   "source_url": "https://www.reuters.com/world/china/mongolian-president-announces-resignation-over-alleged-corruption-2026-11-17/",
-   "genuineness": "verified",
-   "outlets": [
-    "Reuters",
-    "AP",
-    "AFP",
-    "TRT World"
-   ],
-   "image": null,
-   "image_credit": null
-  },
-  {
-   "id": "world-20261117-1422-01",
-   "published_ist": "2026-11-17T10:49:00+05:30",
-   "headline": "Serbia: chhatra dal ki sansad ne shapath li",
-   "detail": "Belgrade me Serbia ki nayi sansad ki pehli baithak hui aur chhatra samarthit Student List ke 140 sansadon ne shapath li, jisse Vucic ke 14 saal ke shasan ka ant aupcharik hua.",
-   "category": "World",
-   "exam_angle": "Serbia, loktantra aur chhatra andolan — UPSC ke liye upyogi.",
-   "source": "The Thursday Times",
-   "source_url": "https://thursdaytimes.com/2026/11/17/news/international/serbia-student-list-mps-oath-new-parliament/",
-   "genuineness": "corroborated",
-   "outlets": [
-    "The Thursday Times",
-    "EU Today",
-    "The New York Times"
-   ],
-   "image": null,
-   "image_credit": null
-  },
-  {
-   "id": "world-20261117-1422-02",
-   "published_ist": "2026-11-17T10:30:00+05:30",
-   "headline": "Optimizely hack: 178 badi websites nishane par",
-   "detail": "Optimizely platform ke zariye Zoom, BBC, CNN, HSBC aur IKEA samet 178 sangathanon ki websites par crypto aur card details churane wala kharab JavaScript daala gaya; Optimizely ne kami band kar di hai.",
-   "category": "World",
-   "exam_angle": "Supply-chain cyberattack aur digital suraksha — UPSC ke liye mahatvapurna.",
-   "source": "Reuters",
-   "source_url": "https://www.reuters.com/legal/government/popular-websites-subverted-bid-steal-crypto-target-iphone-users-2026-11-17/",
-   "genuineness": "verified",
-   "outlets": [
-    "Reuters",
-    "BleepingComputer",
-    "Cointelegraph",
-    "CybersecurityNews",
-    "Outlook India"
    ],
    "image": null,
    "image_credit": null
