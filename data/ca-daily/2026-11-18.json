@@ -212,6 +212,76 @@
     ],
     "answer_index": 1
    }
+  },
+  {
+   "episode": 136,
+   "video_hi": "D4VLaqC0-6M",
+   "video_hinglish": "D4VLaqC0-6M",
+   "capsules": [
+    {
+     "id": "ca-ep136-s1",
+     "headline_hi": "Tokyo mein chauthi Bharat-Japan 2+2 vaarta",
+     "headline_hinglish": "Tokyo mein chauthi Bharat-Japan 2+2 vaarta",
+     "detail_hi": "Raksha Mantri Rajnath Singh aur Videsh Mantri Jaishankar Tokyo pahunche; raksha sahyog par charcha hogi.",
+     "detail_hinglish": "Raksha Mantri Rajnath Singh aur Videsh Mantri Jaishankar Tokyo pahunche; raksha sahyog par charcha hogi.",
+     "category_hi": "International",
+     "category_en": "National"
+    },
+    {
+     "id": "ca-ep136-s2",
+     "headline_hi": "Bharat-America vyapar samjhauta antim charan mein",
+     "headline_hinglish": "Bharat-America vyapar samjhauta antim charan mein",
+     "detail_hi": "Vanijya Sachiv Rajesh Agrawal ne kaha samjhauta taiyaar hai; hastakshar tariff dhaanche ke baad honge.",
+     "detail_hinglish": "Vanijya Sachiv Rajesh Agrawal ne kaha samjhauta taiyaar hai; hastakshar tariff dhaanche ke baad honge.",
+     "category_hi": "Economy",
+     "category_en": "Economy"
+    },
+    {
+     "id": "ca-ep136-s3",
+     "headline_hi": "Chamoli mein chaar dashamlav ek teevrata ka bhookamp",
+     "headline_hinglish": "Chamoli mein chaar dashamlav ek teevrata ka bhookamp",
+     "detail_hi": "Uttarakhand ke Chamoli jile mein subah das baje ke aas-paas chaar dashamlav ek teevrata ka bhookamp aaya.",
+     "detail_hinglish": "Uttarakhand ke Chamoli jile mein subah das baje ke aas-paas chaar dashamlav ek teevrata ka bhookamp aaya.",
+     "category_hi": "Environment",
+     "category_en": "Environment"
+    },
+    {
+     "id": "ca-ep136-s4",
+     "headline_hi": "Delhi-NCR mein GRAP Stage 3 hataaya gaya",
+     "headline_hinglish": "Delhi-NCR mein GRAP Stage 3 hataaya gaya",
+     "detail_hi": "CAQM ne Mangalvar ko Delhi-NCR mein GRAP Stage 3 ke pratibandh hata diye; hawa mein sudhaar hua.",
+     "detail_hinglish": "CAQM ne Mangalvar ko Delhi-NCR mein GRAP Stage 3 ke pratibandh hata diye; hawa mein sudhaar hua.",
+     "category_hi": "Environment",
+     "category_en": "Environment"
+    },
+    {
+     "id": "ca-ep136-s5",
+     "headline_hi": "NIA ne KZF samarthak Thikriwal ko giraftaar kiya",
+     "headline_hinglish": "NIA ne KZF samarthak Thikriwal ko giraftaar kiya",
+     "detail_hi": "America se nirvasit Surinder Singh urf Thikriwal Dilli airport par giraftaar hua; aathvin giraftaari hui.",
+     "detail_hinglish": "America se nirvasit Surinder Singh urf Thikriwal Dilli airport par giraftaar hua; aathvin giraftaari hui.",
+     "category_hi": "Security",
+     "category_en": "National"
+    }
+   ],
+   "mcq": {
+    "id": "ca-ep136-mcq",
+    "q_hi": "Bharat-Japan 2+2 vaarta mein kin do mantralayon ke mantri shamil hote hain?",
+    "q_hinglish": "Bharat-Japan 2+2 vaarta mein kin do mantralayon ke mantri shamil hote hain?",
+    "options_hi": [
+     "Vitt aur Videsh",
+     "Videsh aur Raksha",
+     "Raksha aur Grih",
+     "Videsh aur Vanijya"
+    ],
+    "options_hinglish": [
+     "Vitt aur Videsh",
+     "Videsh aur Raksha",
+     "Raksha aur Grih",
+     "Videsh aur Vanijya"
+    ],
+    "answer_index": 1
+   }
   }
  ]
 }
