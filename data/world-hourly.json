@@ -1,6 +1,81 @@
 {
- "updated_ist": "2026-11-18T14:29:12+05:30",
+ "updated_ist": "2026-11-18T15:27:26+05:30",
  "items": [
+  {
+   "id": "world-20261118-1522-01",
+   "published_ist": "2026-11-18T13:20:00+05:30",
+   "headline": "Xi-Putin mile, bahudhruviya duniya ka vaada",
+   "detail": "APEC ke kinare Shenzhen me Xi Jinping aur Vladimir Putin mile; dono ne kaha Russia aur China bahudhruviya duniya ki ore netritva karenge, aur kal Trump ke saath pehli tri-pakshiya baithak hogi.",
+   "category": "World",
+   "exam_angle": "APEC, China-Russia saajhedaari aur bahudhruviya vyavastha — UPSC ke liye mahatvapurna.",
+   "source": "Al Jazeera",
+   "source_url": "https://www.aljazeera.com/news/2026/11/18/president-xi-says-russia-and-china-should-lead-push-to-multipolar-world",
+   "genuineness": "verified",
+   "outlets": [
+    "Al Jazeera",
+    "Nikkei Asia",
+    "Reuters",
+    "The Federal"
+   ],
+   "image": null,
+   "image_credit": null
+  },
+  {
+   "id": "world-20261118-1522-02",
+   "published_ist": "2026-11-18T11:57:00+05:30",
+   "headline": "Sona ek saal ke sabse neeche",
+   "detail": "Sona lagbhag 2% girkar $3,778 prati ounce par aa gaya — September 2025 ke baad sabse neeche; mazboot dollar aur Fed ke byaaj badhane ki aashanka wajah bani.",
+   "category": "World",
+   "exam_angle": "Sona, dollar aur Fed ki neeti — UPSC ke liye upyogi.",
+   "source": "The Hindu BusinessLine",
+   "source_url": "https://www.thehindubusinessline.com/markets/gold/gold-prices-fall-nearly-2-to-one-year-low-as-dollar-strengthens/article71714840.ece",
+   "genuineness": "verified",
+   "outlets": [
+    "Reuters",
+    "The Hindu BusinessLine",
+    "The Economic Times"
+   ],
+   "image": null,
+   "image_credit": null
+  },
+  {
+   "id": "world-20261118-1522-03",
+   "published_ist": "2026-11-18T09:17:00+05:30",
+   "headline": "Rubio: Washington par koi turant khatra nahi",
+   "detail": "Videsh mantri Marco Rubio ne kaha Washington par Iran ke kathit dirty bomb hamle ka koi turant khatra nahi hai; CNN ki report ko kharij karte hue unhone khufiya sroton ko jhootha bataya.",
+   "category": "World",
+   "exam_angle": "America-Iran tanav aur parmanu suraksha — UPSC ke liye upyogi.",
+   "source": "The Times of India",
+   "source_url": "https://timesofindia.indiatimes.com/world/middle-east/no-imminent-threat-rubio-hits-back-at-iran-dirty-bomb-report-brands-intelligence-sources-liars/articleshow/135947349.cms",
+   "genuineness": "verified",
+   "outlets": [
+    "Reuters",
+    "The Jerusalem Post",
+    "The Times of India",
+    "The Straits Times"
+   ],
+   "image": null,
+   "image_credit": null
+  },
+  {
+   "id": "world-20261118-1522-04",
+   "published_ist": "2026-11-18T06:50:00+05:30",
+   "headline": "Trump hatya sajish: Merchant ko 27 saal",
+   "detail": "America ki adalat ne Pakistani nagrik Asif Merchant ko 27 saal se zyada ki saza di; 2024 me Trump aur anya netaon ki hatya ki sajish me Iran ke IRGC se jude hone ka aarop tha.",
+   "category": "World",
+   "exam_angle": "America-Iran, aatankwad aur nyay — UPSC ke liye upyogi.",
+   "source": "The Hindu",
+   "source_url": "https://www.thehindu.com/news/international/pakistani-man-convicted-of-plotting-to-kill-trump-is-sentenced-to-over-27-years-in-prison/article71714337.ece",
+   "genuineness": "verified",
+   "outlets": [
+    "Reuters",
+    "The Hindu",
+    "The National",
+    "Khaleej Times"
+   ],
+   "image": null,
+   "image_credit": null
+  },
   {
    "id": "world-20261118-1422-01",
    "published_ist": "2026-11-18T11:57:00+05:30",
@@ -367,81 +442,6 @@
    "outlets": [
     "Reuters",
     "Al Jazeera"
-   ],
-   "image": null,
-   "image_credit": null
-  },
-  {
-   "id": "world-20261118-1322-04",
-   "published_ist": "2026-11-18T01:08:00+05:30",
-   "headline": "Congo me Ebola doguna, 11,000 case",
-   "detail": "WHO ne kaha Congo me Ebola ke case teen mahine me dogune se zyada ho gaye — 11,000 se zyada case aur 5,400 mautein, aath pranton ke 67 swasthya kshetron me faila.",
-   "category": "World",
-   "exam_angle": "Ebola, WHO aur swasthya sankat — UPSC ke liye mahatvapurna.",
-   "source": "UN News",
-   "source_url": "https://news.un.org/en/story/2026/11/1168827",
-   "genuineness": "verified",
-   "outlets": [
-    "UN News",
-    "Gazette Nigeria",
-    "Traders Union",
-    "The Manila Times"
-   ],
-   "image": null,
-   "image_credit": null
-  },
-  {
-   "id": "world-20261118-1022-03",
-   "published_ist": "2026-11-18T00:00:00+05:30",
-   "headline": "178 website par cyber hamla, BBC-IKEA bhi",
-   "detail": "Optimizely ke tool me kharab code daalkar lagbhag 178 badi website par hamla hua; BBC, IKEA, Zoom aur Air France bhi nishane par aaye.",
-   "category": "World",
-   "exam_angle": "Supply-chain cyber hamla aur digital suraksha — UPSC ke liye upyogi.",
-   "source": "Dawn",
-   "source_url": "https://www.dawn.com/news/2045214",
-   "genuineness": "verified",
-   "outlets": [
-    "Dawn",
-    "The Business Standard",
-    "Daily Mirror",
-    "NZ Herald"
-   ],
-   "image": null,
-   "image_credit": null
-  },
-  {
-   "id": "world-20261118-0822-03",
-   "published_ist": "2026-11-17T22:42:00+05:30",
-   "headline": "Guinea me avaidh khanan par 224 ko saza",
-   "detail": "Guinea ki adalat ne Siguiri me avaidh sone ke khanan par 224 logon ko saza di — 22 poorv adhikariyon ko do saal aur 202 khanan-mazdooron ko teen saal ki kaid.",
-   "category": "World",
-   "exam_angle": "Avaidh khanan aur paryavaran — UPSC ke liye upyogi.",
-   "source": "Citi Newsroom",
-   "source_url": "https://www.citinewsroom.com/2026/11/guinea-jails-224-administrators-individuals-over-illegal-gold-mining-in-siguiri/",
-   "genuineness": "verified",
-   "outlets": [
-    "Associated Press",
-    "DW",
-    "Citi Newsroom"
-   ],
-   "image": null,
-   "image_credit": null
-  },
-  {
-   "id": "world-20261118-1222-03",
-   "published_ist": "2026-11-17T21:40:00+05:30",
-   "headline": "America ne measles-mukt darja khoya",
-   "detail": "PAHO ne 26 saal baad America ka measles unmoolan darja wapas le liya; is saal 5,400 se zyada case — 1991 ke baad sabse zyada — aur ek saal se zyada lagataar sankraman ke kaaran darja gaya.",
-   "category": "World",
-   "exam_angle": "Swasthya, teekakaran aur WHO/PAHO — UPSC ke liye mahatvapurna.",
-   "source": "Scientific American",
-   "source_url": "https://www.scientificamerican.com/article/u-s-officially-loses-measles-elimination-status-in-a-body-blow-to-public-health/",
-   "genuineness": "verified",
-   "outlets": [
-    "PAHO",
-    "CNN",
-    "Scientific American",
-    "Firstpost"
    ],
    "image": null,
    "image_credit": null
