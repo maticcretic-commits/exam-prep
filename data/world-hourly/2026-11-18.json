@@ -237,5 +237,62 @@
   ],
   "image": null,
   "image_credit": null
+ },
+ {
+  "id": "world-20261118-1022-01",
+  "published_ist": "2026-11-18T10:04:00+05:30",
+  "headline": "America ne paanch Irani tanker duboye",
+  "detail": "America ne Iran ke paanch tel tanker duboye; Iran ne jawab me Jordan ke Al-Azraq base par missile daage, Jordan ne 18 missile rokne ka daava kiya.",
+  "category": "World",
+  "exam_angle": "Hormuz, Khadi me America-Iran yuddh aur tel — UPSC ke liye mahatvapurna.",
+  "source": "Zee News",
+  "source_url": "https://zeenews.india.com/world/us-hits-5-iranian-oil-tankers-tehran-retaliates-by-striking-us-base-in-jordan-3070613.html",
+  "genuineness": "verified",
+  "outlets": [
+   "Al Jazeera",
+   "Zee News",
+   "Sahara News",
+   "Reuters"
+  ],
+  "image": null,
+  "image_credit": null
+ },
+ {
+  "id": "world-20261118-1022-03",
+  "published_ist": "2026-11-18T00:00:00+05:30",
+  "headline": "178 website par cyber hamla, BBC-IKEA bhi",
+  "detail": "Optimizely ke tool me kharab code daalkar lagbhag 178 badi website par hamla hua; BBC, IKEA, Zoom aur Air France bhi nishane par aaye.",
+  "category": "World",
+  "exam_angle": "Supply-chain cyber hamla aur digital suraksha — UPSC ke liye upyogi.",
+  "source": "Dawn",
+  "source_url": "https://www.dawn.com/news/2045214",
+  "genuineness": "verified",
+  "outlets": [
+   "Dawn",
+   "The Business Standard",
+   "Daily Mirror",
+   "NZ Herald"
+  ],
+  "image": null,
+  "image_credit": null
+ },
+ {
+  "id": "world-20261118-1022-02",
+  "published_ist": "2026-11-17T16:06:00+05:30",
+  "headline": "America ne 26 saal baad khasra-mukt darja khoya",
+  "detail": "PAHO ne ghoshna ki America ne 26 saal baad khasra unmoolan ka darja kho diya; 2026 me 5,412 mamle mile, 1991 ke baad sabse zyada.",
+  "category": "World",
+  "exam_angle": "Khasra, PAHO aur saarvajanik swasthya — UPSC ke liye upyogi.",
+  "source": "Healthline",
+  "source_url": "https://www.healthline.com/health-news/u-s-loses-measles-elimination-status-after-26-years",
+  "genuineness": "verified",
+  "outlets": [
+   "Healthline",
+   "Smithsonian Magazine",
+   "Science News",
+   "Reuters"
+  ],
+  "image": null,
+  "image_credit": null
  }
 ]
