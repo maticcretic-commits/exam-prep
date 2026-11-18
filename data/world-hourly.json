@@ -1,6 +1,25 @@
 {
- "updated_ist": "2026-11-18T09:28:19+05:30",
+ "updated_ist": "2026-11-18T10:25:44+05:30",
  "items": [
+  {
+   "id": "world-20261118-1022-01",
+   "published_ist": "2026-11-18T10:04:00+05:30",
+   "headline": "America ne paanch Irani tanker duboye",
+   "detail": "America ne Iran ke paanch tel tanker duboye; Iran ne jawab me Jordan ke Al-Azraq base par missile daage, Jordan ne 18 missile rokne ka daava kiya.",
+   "category": "World",
+   "exam_angle": "Hormuz, Khadi me America-Iran yuddh aur tel — UPSC ke liye mahatvapurna.",
+   "source": "Zee News",
+   "source_url": "https://zeenews.india.com/world/us-hits-5-iranian-oil-tankers-tehran-retaliates-by-striking-us-base-in-jordan-3070613.html",
+   "genuineness": "verified",
+   "outlets": [
+    "Al Jazeera",
+    "Zee News",
+    "Sahara News",
+    "Reuters"
+   ],
+   "image": null,
+   "image_credit": null
+  },
   {
    "id": "world-20261118-0822-01",
    "published_ist": "2026-11-18T06:17:00+05:30",
@@ -125,6 +144,25 @@
    "outlets": [
     "Reuters",
     "Al Jazeera"
+   ],
+   "image": null,
+   "image_credit": null
+  },
+  {
+   "id": "world-20261118-1022-03",
+   "published_ist": "2026-11-18T00:00:00+05:30",
+   "headline": "178 website par cyber hamla, BBC-IKEA bhi",
+   "detail": "Optimizely ke tool me kharab code daalkar lagbhag 178 badi website par hamla hua; BBC, IKEA, Zoom aur Air France bhi nishane par aaye.",
+   "category": "World",
+   "exam_angle": "Supply-chain cyber hamla aur digital suraksha — UPSC ke liye upyogi.",
+   "source": "Dawn",
+   "source_url": "https://www.dawn.com/news/2045214",
+   "genuineness": "verified",
+   "outlets": [
+    "Dawn",
+    "The Business Standard",
+    "Daily Mirror",
+    "NZ Herald"
    ],
    "image": null,
    "image_credit": null
@@ -354,6 +392,25 @@
    "image_credit": "Md Shaifuzzaman Ayon, Wikimedia Commons (CC BY-SA 4.0)"
   },
   {
+   "id": "world-20261118-1022-02",
+   "published_ist": "2026-11-17T16:06:00+05:30",
+   "headline": "America ne 26 saal baad khasra-mukt darja khoya",
+   "detail": "PAHO ne ghoshna ki America ne 26 saal baad khasra unmoolan ka darja kho diya; 2026 me 5,412 mamle mile, 1991 ke baad sabse zyada.",
+   "category": "World",
+   "exam_angle": "Khasra, PAHO aur saarvajanik swasthya — UPSC ke liye upyogi.",
+   "source": "Healthline",
+   "source_url": "https://www.healthline.com/health-news/u-s-loses-measles-elimination-status-after-26-years",
+   "genuineness": "verified",
+   "outlets": [
+    "Healthline",
+    "Smithsonian Magazine",
+    "Science News",
+    "Reuters"
+   ],
+   "image": null,
+   "image_credit": null
+  },
+  {
    "id": "world-20261117-1822-01",
    "published_ist": "2026-11-17T15:10:00+05:30",
    "headline": "Tara Gas par doosra hamla, 1 Bharatiya lapata",
@@ -385,59 +442,6 @@
     "Reuters",
     "Türkiye Today",
     "The Defence Blog"
-   ],
-   "image": null,
-   "image_credit": null
-  },
-  {
-   "id": "world-20261117-2022-02",
-   "published_ist": "2026-11-17T14:45:00+05:30",
-   "headline": "Iran ki dhamki: bandh-bijli ghar nishane par",
-   "detail": "Iran ke sansad adhyaksh Ghalibaf ne kaha America-Israel ke thikanon ke paas bandh, bandargah aur bijli ghar bhi 'dual-use' mane jayenge; yeh chetavni NYT ki report ke jawab me aayi.",
-   "category": "World",
-   "exam_angle": "Iran-US tanaav aur 'dual-use' siddhant — UPSC ke liye mahatvapurna.",
-   "source": "Firstpost",
-   "source_url": "https://www.firstpost.com/world/iran-us-israel-threat-dam-ports-power-plants-nyt-report-dual-use-military-infrastructure-missile-cities-14060594.html",
-   "genuineness": "corroborated",
-   "outlets": [
-    "Firstpost",
-    "Outlook India"
-   ],
-   "image": null,
-   "image_credit": null
-  },
-  {
-   "id": "world-20261117-2226-03",
-   "published_ist": "2026-11-17T14:30:00+05:30",
-   "headline": "Bangladesh 33rd parmanu-bijli wala desh",
-   "detail": "Rooppur parmanu sanyantra ki pehli unit se 350 MW bijli pehli baar trial par national grid se judi; mantri ne kaha Bangladesh duniya ka 33rd parmanu-bijli wala desh bana.",
-   "category": "World",
-   "exam_angle": "Bangladesh, parmanu urja, Russia sahyog — UPSC ke liye upyogi.",
-   "source": "Dhaka Tribune",
-   "source_url": "https://www.dhakatribune.com/bangladesh/power-energy/424916/bangladesh-emerges-as-33rd-nuclear-power-nation",
-   "genuineness": "verified",
-   "outlets": [
-    "Dhaka Tribune",
-    "Prothom Alo",
-    "ANI"
-   ],
-   "image": null,
-   "image_credit": null
-  },
-  {
-   "id": "world-20261117-1522-01",
-   "published_ist": "2026-11-17T14:12:00+05:30",
-   "headline": "Bahrain: Iran ka teesra drone hamla",
-   "detail": "Iran ne Sheikh Isa Air Base par US radar ko nishana banaya — paanch din me teesra hamla; Bahrain ne drone roke, teesra US carrier bhi kshetra me pahuncha.",
-   "category": "World",
-   "exam_angle": "West Asia me tanav, Hormuz tel supply par asar.",
-   "source": "Malay Mail",
-   "source_url": "https://www.malaymail.com/amp/news/world/2026/11/17/blasts-rock-manama-as-iran-launches-third-drone-attack-on-bahrain-in-five-days/243617",
-   "genuineness": "verified",
-   "outlets": [
-    "AFP",
-    "The National",
-    "Al Jazeera"
    ],
    "image": null,
    "image_credit": null
