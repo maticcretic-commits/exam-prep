@@ -182,5 +182,60 @@
   ],
   "image": null,
   "image_credit": null
+ },
+ {
+  "id": "world-20261118-0928-01",
+  "published_ist": "2026-11-17T20:56:00+05:30",
+  "headline": "Quad ki pehli sainya abhyaas 2027 me",
+  "detail": "Bharat, America, Japan aur Australia ne Manila me 2027 ke liye pehli Quad sainya abhyaas ki ghoshna ki; P-8 aur P-3C gasht viman samudri abhyaas me hissa lenge.",
+  "category": "World",
+  "exam_angle": "Quad, Indo-Pacific aur samudri suraksha — UPSC ke liye mahatvapurna.",
+  "source": "The Tribune",
+  "source_url": "https://www.tribuneindia.com/news/defence/quad-announces-first-ever-military-exercise-for-2027-sends-political-signal-to-china/",
+  "genuineness": "verified",
+  "outlets": [
+   "The Tribune",
+   "Financial Express",
+   "The New Indian Express",
+   "Yonhap",
+   "Jiji Press"
+  ],
+  "image": null,
+  "image_credit": null
+ },
+ {
+  "id": "world-20261118-0928-02",
+  "published_ist": "2026-11-18T01:52:00+05:30",
+  "headline": "Ukraine-Russia kaidi adla-badli ki taiyari",
+  "detail": "Zelenskyy ne kaha Ukraine Abu Dhabi samjhaute ke baad bade paimane par kaidi adla-badli ki taiyari kar raha hai, aur Berlin me is hafte Europe-America ke saath paanch prathmiktayein tay hongi.",
+  "category": "World",
+  "exam_angle": "Ukraine-Russia vaarta aur kaidi adla-badli — UPSC ke liye mahatvapurna.",
+  "source": "The Tribune",
+  "source_url": "https://www.tribuneindia.com/news/world/zelenskyy-says-ukraine-preparing-for-prisoner-exchange-with-russia-after-abu-dhabi-talks/amp/",
+  "genuineness": "verified",
+  "outlets": [
+   "The Tribune",
+   "The Page",
+   "UNITED24 Media"
+  ],
+  "image": null,
+  "image_credit": null
+ },
+ {
+  "id": "world-20261118-0928-03",
+  "published_ist": "2026-11-18T01:17:00+05:30",
+  "headline": "Jasoosi jaanch: America ko saunpa sena adhikari",
+  "detail": "Britain ne Russia ke liye jasoosi ke sandeh me 10 November ko giraftar American sena adhikari ko America ki sainya hirasat me saunp diya; FBI aur MI5 jaanch me shaamil hain.",
+  "category": "World",
+  "exam_angle": "NATO, jasoosi aur rashtriya suraksha — UPSC ke liye mahatvapurna.",
+  "source": "Reuters",
+  "source_url": "https://www.reuters.com/world/uk/uk-hands-us-army-officer-us-military-espionage-probe-2026-11-17/",
+  "genuineness": "corroborated",
+  "outlets": [
+   "Reuters",
+   "Al Jazeera"
+  ],
+  "image": null,
+  "image_credit": null
  }
 ]
