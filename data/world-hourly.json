@@ -1,5 +1,5 @@
 {
- "updated_ist": "2026-11-18T12:24:10+05:30",
+ "updated_ist": "2026-11-18T13:26:27+05:30",
  "items": [
   {
    "id": "world-20261118-1022-01",
@@ -39,6 +39,25 @@
    "image_credit": null
   },
   {
+   "id": "world-20261118-1322-01",
+   "published_ist": "2026-11-18T08:32:00+05:30",
+   "headline": "Trump Kim se milne ko taiyaar",
+   "detail": "Videsh mantri Marco Rubio ne kaha Trump Uttar Korea ke neta Kim Jong Un se milne ko taiyaar hain, lekin abhi koi baithak tay nahi hui; pehle karyakal me dono teen baar mile the.",
+   "category": "World",
+   "exam_angle": "America-Uttar Korea, parmanu kootneeti — UPSC ke liye upyogi.",
+   "source": "The Tribune",
+   "source_url": "https://www.tribuneindia.com/news/world/marco-rubio-says-trump-remains-willing-to-meet-with-north-koreas-leader/",
+   "genuineness": "verified",
+   "outlets": [
+    "The Tribune",
+    "Yonhap",
+    "Philippine News Agency",
+    "Aju Press"
+   ],
+   "image": null,
+   "image_credit": null
+  },
+  {
    "id": "world-20261118-1122-01",
    "published_ist": "2026-11-18T07:09:00+05:30",
    "headline": "Trump-Xi-Putin ki pehli tri-pakshiya baithak kal",
@@ -54,6 +73,25 @@
     "Le Monde",
     "The Times",
     "The Economic Times"
+   ],
+   "image": null,
+   "image_credit": null
+  },
+  {
+   "id": "world-20261118-1322-02",
+   "published_ist": "2026-11-18T07:00:00+05:30",
+   "headline": "Japan ke aakaash me Russian viman",
+   "detail": "Japan ne kaha do sandeh wale Russian vimanon ne Fukuoka ke paas uska hawai kshetra ullanghan kiya; Japan ne ladaku viman bheje aur Moscow se kadha virodh jataaya, 2024 ke baad pehli aisi ghatna hai.",
+   "category": "World",
+   "exam_angle": "Japan-Russia, hawai kshetra aur APEC — UPSC ke liye upyogi.",
+   "source": "The Print",
+   "source_url": "https://theprint.in/world/taiwan-japan-flag-incursions-by-russian-aircraft-ahead-of-putins-arrival-in-china/3101632/",
+   "genuineness": "verified",
+   "outlets": [
+    "Reuters",
+    "The Manila Times",
+    "Daily Pioneer",
+    "Khmer Times"
    ],
    "image": null,
    "image_credit": null
@@ -189,6 +227,25 @@
    "image_credit": null
   },
   {
+   "id": "world-20261118-1322-03",
+   "published_ist": "2026-11-18T03:00:00+05:30",
+   "headline": "Prague me do train takraayi, 46 ghayal",
+   "detail": "Prague ke mukhya station ke paas do yatri train aamne-saamne takra gayi; 46 log ghayal hue, jinme dono driver bhi gambhir roop se ghayal hain; shuruaati jaanch me ek train ke laal signal paar karne ki aashanka hai.",
+   "category": "World",
+   "exam_angle": "Rail suraksha aur haadsa jaanch — UPSC ke liye upyogi.",
+   "source": "Qatar Tribune",
+   "source_url": "https://www.qatar-tribune.com/article/264844/world/dozens-injured-as-passenger-trains-collide-near-prague",
+   "genuineness": "verified",
+   "outlets": [
+    "Qatar Tribune",
+    "Prague Daily",
+    "News9live",
+    "The Express Tribune"
+   ],
+   "image": null,
+   "image_credit": null
+  },
+  {
    "id": "world-20261118-1122-03",
    "published_ist": "2026-11-18T02:58:00+05:30",
    "headline": "Nvidia ki record kamai: $115.8 arab",
@@ -238,6 +295,25 @@
    "outlets": [
     "Reuters",
     "Al Jazeera"
+   ],
+   "image": null,
+   "image_credit": null
+  },
+  {
+   "id": "world-20261118-1322-04",
+   "published_ist": "2026-11-18T01:08:00+05:30",
+   "headline": "Congo me Ebola doguna, 11,000 case",
+   "detail": "WHO ne kaha Congo me Ebola ke case teen mahine me dogune se zyada ho gaye — 11,000 se zyada case aur 5,400 mautein, aath pranton ke 67 swasthya kshetron me faila.",
+   "category": "World",
+   "exam_angle": "Ebola, WHO aur swasthya sankat — UPSC ke liye mahatvapurna.",
+   "source": "UN News",
+   "source_url": "https://news.un.org/en/story/2026/11/1168827",
+   "genuineness": "verified",
+   "outlets": [
+    "UN News",
+    "Gazette Nigeria",
+    "Traders Union",
+    "The Manila Times"
    ],
    "image": null,
    "image_credit": null
@@ -371,81 +447,6 @@
     "Moneycontrol",
     "News9",
     "Press TV"
-   ],
-   "image": null,
-   "image_credit": null
-  },
-  {
-   "id": "world-20261117-1922-01",
-   "published_ist": "2026-11-17T17:53:00+05:30",
-   "headline": "Trump: Iran hamla kare to bhari keemat",
-   "detail": "Manila me Trump ne kaha agar Iran ne Washington par hamla kiya to use aisi keemat chukani hogi jo kisi desh ne kabhi nahi chukayi; White House ne kaha filhal koi pakka khatra nahi dikh raha, Iran ne aaropon ko 'bebuniyad' batakar kharij kiya.",
-   "category": "World",
-   "exam_angle": "US-Iran yuddh, dirty bomb aur rasayanik hathiyar — UPSC ke liye mahatvapurna.",
-   "source": "The Times of India",
-   "source_url": "https://timesofindia.indiatimes.com/world/us/trump-warns-iran-will-pay-a-price-no-country-has-ever-faced-over-dirty-bomb-threat-to-washington/articleshow/135925387.cms",
-   "genuineness": "verified",
-   "outlets": [
-    "CNN",
-    "Reuters",
-    "The Times of India",
-    "The Jerusalem Post",
-    "New York Post"
-   ],
-   "image": null,
-   "image_credit": null
-  },
-  {
-   "id": "world-20261117-1922-02",
-   "published_ist": "2026-11-17T17:20:00+05:30",
-   "headline": "Jericho me golibari: 72 saal ki mahila ki maut",
-   "detail": "Duyuk al-Tahta gaon me raat ko golibari me 72 saal ki ek mahila ki maut ho gayi aur kai log ghayal hue; Filistin adhikariyon ne basne walon par aarop lagaya, Israeli sena ne kaha pehle gaadi se hamla hua tha.",
-   "category": "World",
-   "exam_angle": "West Bank, Israeli basti aur do-rashtra samadhan — UPSC ke liye upyogi.",
-   "source": "Al Arabiya",
-   "source_url": "https://english.alarabiya.net/News/middle-east/2026/11/17/israeli-settlers-kill-palestinian-woman-72-in-west-bank?utm_source=article&utm_medium=explore&utm_campaign=explore-more",
-   "genuineness": "verified",
-   "outlets": [
-    "Reuters",
-    "Al Arabiya",
-    "Haaretz",
-    "BBC"
-   ],
-   "image": null,
-   "image_credit": null
-  },
-  {
-   "id": "world-20261118-0727-02",
-   "published_ist": "2026-11-17T16:53:00+05:30",
-   "headline": "Kyiv ke pulon par hamla, 14 ki maut",
-   "detail": "Russia ke hamle me Ukraine bhar me 14 log mare aur 78 ghayal hue; Kyiv ke Northern aur Southern pul band hue aur kai kshetron me bijli dhwast hui.",
-   "category": "World",
-   "exam_angle": "Russia-Ukraine yuddh, Kyiv aur Dnipro nadi — UPSC ke liye upyogi.",
-   "source": "Kyiv Independent",
-   "source_url": "https://kyivindependent.com/russian-attacks-kill-14-injure-78-across-ukraine-over-past-day-hitting-kyivs-southern-northern-bridges/",
-   "genuineness": "verified",
-   "outlets": [
-    "Kyiv Independent",
-    "Reuters",
-    "Le Temps",
-    "The New Voice of Ukraine"
-   ],
-   "image": null,
-   "image_credit": null
-  },
-  {
-   "id": "world-20261117-2122-01",
-   "published_ist": "2026-11-17T16:50:00+05:30",
-   "headline": "Netherlands sarkar bachi, sankat khatm",
-   "detail": "Char din ke sankat ke baad PM Rob Jetten ne kaha teeno dalon ke beech vishwas bahaal ho gaya aur alpasankhyak sarkar kaam karti rahegi; vivaad dhan kar par tha.",
-   "category": "World",
-   "exam_angle": "Europe me alpasankhyak sarkar aur gathbandhan rajneeti — UPSC ke liye mahatvapurna.",
-   "source": "Reuters",
-   "source_url": "https://www.reuters.com/world/dutch-pm-says-coalition-has-found-way-keep-going-after-crisis-talks-2026-11-17/",
-   "genuineness": "verified",
-   "outlets": [
-    "Reuters",
-    "Brussels Signal"
    ],
    "image": null,
    "image_credit": null
