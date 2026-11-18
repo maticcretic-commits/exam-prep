@@ -1,6 +1,23 @@
 {
- "updated_ist": "2026-11-18T18:27:19+05:30",
+ "updated_ist": "2026-11-18T19:31:53+05:30",
  "items": [
+  {
+   "id": "world-20261118-1922-01",
+   "published_ist": "2026-11-18T16:49:00+05:30",
+   "headline": "Board of Peace: Israel-Hamas ne vaade tode",
+   "detail": "Trump ke Board of Peace ne apni doosri report me Israel aur Hamas dono par Gaza yuddhaviram ki shartein na nibhane ka aarop lagaya; report ke mutabik yuddhaviram khatre me hai.",
+   "category": "World",
+   "exam_angle": "Gaza yuddhaviram aur Board of Peace — UPSC ke liye mahatvapurna.",
+   "source": "Reuters",
+   "source_url": "https://www.reuters.com/world/middle-east/trumps-board-peace-faults-israel-hamas-failure-end-gaza-war-2026-11-18/",
+   "genuineness": "corroborated",
+   "outlets": [
+    "Reuters",
+    "Israel National News"
+   ],
+   "image": null,
+   "image_credit": null
+  },
   {
    "id": "world-20261118-1822-01",
    "published_ist": "2026-11-18T15:53:00+05:30",
@@ -430,25 +447,6 @@
     "The Manila Times",
     "Daily Pioneer",
     "Khmer Times"
-   ],
-   "image": null,
-   "image_credit": null
-  },
-  {
-   "id": "world-20261118-1522-04",
-   "published_ist": "2026-11-18T06:50:00+05:30",
-   "headline": "Trump hatya sajish: Merchant ko 27 saal",
-   "detail": "America ki adalat ne Pakistani nagrik Asif Merchant ko 27 saal se zyada ki saza di; 2024 me Trump aur anya netaon ki hatya ki sajish me Iran ke IRGC se jude hone ka aarop tha.",
-   "category": "World",
-   "exam_angle": "America-Iran, aatankwad aur nyay — UPSC ke liye upyogi.",
-   "source": "The Hindu",
-   "source_url": "https://www.thehindu.com/news/international/pakistani-man-convicted-of-plotting-to-kill-trump-is-sentenced-to-over-27-years-in-prison/article71714337.ece",
-   "genuineness": "verified",
-   "outlets": [
-    "Reuters",
-    "The Hindu",
-    "The National",
-    "Khaleej Times"
    ],
    "image": null,
    "image_credit": null
