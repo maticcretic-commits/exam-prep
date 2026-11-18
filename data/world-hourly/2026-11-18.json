@@ -55,5 +55,62 @@
   ],
   "image": null,
   "image_credit": null
+ },
+ {
+  "id": "world-20261118-0727-01",
+  "published_ist": "2026-11-18T04:45:00+05:30",
+  "headline": "Bangladesh me phir hinsa, BNP neta ki maut",
+  "detail": "Faridpur me BNP neta Raju Mollah ki hatya ke baad Gopalganj me thana aur sansad ke ghar me aag lagayi gayi; Dhaka me buson me aag aur crude bomb dhamake hue.",
+  "category": "World",
+  "exam_angle": "Bangladesh ki rajneeti, Sheikh Hasina ki wapsi — UPSC ke liye upyogi.",
+  "source": "The Print",
+  "source_url": "https://theprint.in/world/fresh-violence-grips-hasinas-hometown-amid-brewing-tensions-in-bangladesh/3101624/",
+  "genuineness": "verified",
+  "outlets": [
+   "PTI",
+   "ANI",
+   "BDnews24",
+   "Daily Waadaa"
+  ],
+  "image": null,
+  "image_credit": null
+ },
+ {
+  "id": "world-20261118-0727-02",
+  "published_ist": "2026-11-17T16:53:00+05:30",
+  "headline": "Kyiv ke pulon par hamla, 14 ki maut",
+  "detail": "Russia ke hamle me Ukraine bhar me 14 log mare aur 78 ghayal hue; Kyiv ke Northern aur Southern pul band hue aur kai kshetron me bijli dhwast hui.",
+  "category": "World",
+  "exam_angle": "Russia-Ukraine yuddh, Kyiv aur Dnipro nadi — UPSC ke liye upyogi.",
+  "source": "Kyiv Independent",
+  "source_url": "https://kyivindependent.com/russian-attacks-kill-14-injure-78-across-ukraine-over-past-day-hitting-kyivs-southern-northern-bridges/",
+  "genuineness": "verified",
+  "outlets": [
+   "Kyiv Independent",
+   "Reuters",
+   "Le Temps",
+   "The New Voice of Ukraine"
+  ],
+  "image": null,
+  "image_credit": null
+ },
+ {
+  "id": "world-20261117-2226-01",
+  "published_ist": "2026-11-17T21:09:00+05:30",
+  "headline": "America ne Qeshm missile site par hamla kiya",
+  "detail": "America ne Qeshm dweep par missile launch site par hawai hamle kiye — ek American adhikari ne Reuters ko pushti ki; ye Iran ke Bahrain me American thikanon par hamle ka jawab tha. (Update: pehle Iran ne America par aarop lagaya tha, ab America ne hamle ki pushti ki hai.)",
+  "category": "World",
+  "exam_angle": "US-Iran yuddh, Hormuz me tanaav — UPSC ke liye mahatvapurna.",
+  "source": "Reuters",
+  "source_url": "https://www.reuters.com/world/middle-east/us-strikes-iranian-missile-launch-site-qeshm-island-us-official-says-2026-11-17/",
+  "genuineness": "verified",
+  "outlets": [
+   "AFP",
+   "Al Jazeera",
+   "NDTV",
+   "Reuters"
+  ],
+  "image": null,
+  "image_credit": null
  }
 ]
