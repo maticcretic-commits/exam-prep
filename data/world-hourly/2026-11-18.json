@@ -1,0 +1,59 @@
+[
+ {
+  "id": "world-20261118-0622-01",
+  "published_ist": "2026-11-18T06:11:00+05:30",
+  "headline": "Kerch Bridge par hamla, sadak hissa gira",
+  "detail": "Ukraine ne drone aur missile se Kerch Bridge par hamla kiya; sadak wale hisse ki mehraab aur span samundar me gir gaye, rail seva aanshik roop se bahal hui.",
+  "category": "World",
+  "exam_angle": "Kerch Bridge, Crimea aur Russia-Ukraine yuddh — UPSC ke liye mahatvapurna.",
+  "source": "The Times of India",
+  "source_url": "https://timesofindia.indiatimes.com/world/europe/ukraine-strikes-putins-prized-crimean-bridge-destroys-central-road-section-ahead-of-us-china-meet/articleshow/135944199.cms",
+  "genuineness": "verified",
+  "outlets": [
+   "Associated Press",
+   "The Times of India",
+   "Bloomberg",
+   "The National"
+  ],
+  "image": "../images/world/world-20261118-0622-01.jpg",
+  "image_credit": "Rosavtodor, Wikimedia Commons (CC BY 4.0)"
+ },
+ {
+  "id": "world-20261118-0622-02",
+  "published_ist": "2026-11-18T03:51:00+05:30",
+  "headline": "Siberia me sainya viman gira, 19 ki maut",
+  "detail": "Russia ka An-12 sainya parivahan viman Kemerovo ke paas gira; raksha mantralaya ke mutabik sawaar 19 logon ki maut ho gayi, takneeki kharabi ko shuruaati wajah bataya gaya.",
+  "category": "World",
+  "exam_angle": "Russia, sainya viman aur An-12 — UPSC ke liye upyogi.",
+  "source": "Al Jazeera",
+  "source_url": "https://www.aljazeera.com/news/2026/11/17/russian-military-plane-crash-in-siberia-kills-19?traffic_source=rss",
+  "genuineness": "verified",
+  "outlets": [
+   "Al Jazeera",
+   "CNN",
+   "Dawn",
+   "Channel News Asia",
+   "Reuters"
+  ],
+  "image": null,
+  "image_credit": null
+ },
+ {
+  "id": "world-20261118-0622-03",
+  "published_ist": "2026-11-17T16:30:00+05:30",
+  "headline": "America-Thailand vyapar samjhota tay",
+  "detail": "Manila me America aur Thailand ne parasparik vyapar samjhote (ART) par baatchit ke mool roop se poora hone ki ghoshna ki; Thailand America se aane wale saaman par tariff khatm karega.",
+  "category": "World",
+  "exam_angle": "ASEAN, America-Thailand vyapar aur reciprocal tariff — UPSC ke liye upyogi.",
+  "source": "The White House",
+  "source_url": "https://www.whitehouse.gov/briefings-statements/2026/11/joint-statement-on-an-agreement-between-the-united-states-of-america-and-the-kingdom-of-thailand-on-reciprocal-trade/",
+  "genuineness": "verified",
+  "outlets": [
+   "The White House",
+   "Reuters",
+   "The Nation"
+  ],
+  "image": null,
+  "image_credit": null
+ }
+]
