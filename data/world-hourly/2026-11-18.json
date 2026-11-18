@@ -352,5 +352,60 @@
   ],
   "image": null,
   "image_credit": null
+ },
+ {
+  "id": "world-20261118-1222-01",
+  "published_ist": "2026-11-18T09:27:00+05:30",
+  "headline": "Papua New Guinea me 6.0 ka bhookamp",
+  "detail": "Budhvaar ko Papua New Guinea me 6.0 teevrata ka bhookamp aaya; GFZ ke anusaar kendra Lae se 109 kilometre uttar me aur gahrai 10 kilometre thi, nuksaan ki khabar abhi nahi mili.",
+  "category": "World",
+  "exam_angle": "Bhookamp, Ring of Fire aur prashant kshetra — UPSC ke liye upyogi.",
+  "source": "Reuters",
+  "source_url": "https://www.reuters.com/business/environment/magnitude-6-earthquake-strikes-papua-new-guinea-gfz-says-2026-11-18/",
+  "genuineness": "verified",
+  "outlets": [
+   "Reuters",
+   "The Times of India",
+   "Gulf News"
+  ],
+  "image": null,
+  "image_credit": null
+ },
+ {
+  "id": "world-20261118-1222-02",
+  "published_ist": "2026-11-18T03:25:00+05:30",
+  "headline": "Canary Islands par 11,000 pravasi pahunche",
+  "detail": "Spain ke Canary Islands par November ke pehle pakhwade me 11,000 se zyada pravasi samundar se pahunche; chunaav se pehle Spain ne dweepon par apatkal ghoshit kiya.",
+  "category": "World",
+  "exam_angle": "Pravasan, Europe aur Spain chunaav — UPSC ke liye upyogi.",
+  "source": "Arab News",
+  "source_url": "https://www.arabnews.pk/world/migrant-arrivals-from-africa-to-the-canary-islands-spike-as-spains-general-election-nears-3007331",
+  "genuineness": "verified",
+  "outlets": [
+   "Associated Press",
+   "Arab News",
+   "Okay News"
+  ],
+  "image": null,
+  "image_credit": null
+ },
+ {
+  "id": "world-20261118-1222-03",
+  "published_ist": "2026-11-17T21:40:00+05:30",
+  "headline": "America ne measles-mukt darja khoya",
+  "detail": "PAHO ne 26 saal baad America ka measles unmoolan darja wapas le liya; is saal 5,400 se zyada case — 1991 ke baad sabse zyada — aur ek saal se zyada lagataar sankraman ke kaaran darja gaya.",
+  "category": "World",
+  "exam_angle": "Swasthya, teekakaran aur WHO/PAHO — UPSC ke liye mahatvapurna.",
+  "source": "Scientific American",
+  "source_url": "https://www.scientificamerican.com/article/u-s-officially-loses-measles-elimination-status-in-a-body-blow-to-public-health/",
+  "genuineness": "verified",
+  "outlets": [
+   "PAHO",
+   "CNN",
+   "Scientific American",
+   "Firstpost"
+  ],
+  "image": null,
+  "image_credit": null
  }
 ]
