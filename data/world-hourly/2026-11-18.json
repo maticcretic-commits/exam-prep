@@ -294,5 +294,63 @@
   ],
   "image": null,
   "image_credit": null
+ },
+ {
+  "id": "world-20261118-1122-01",
+  "published_ist": "2026-11-18T07:09:00+05:30",
+  "headline": "Trump-Xi-Putin ki pehli tri-pakshiya baithak kal",
+  "detail": "Shenzhen me APEC ke kinare Trump, Xi Jinping aur Vladimir Putin ki pehli tri-pakshiya baithak guruvaar ko hogi; parmanu hathiyar, Ukraine aur Iran par charcha sambhav hai.",
+  "category": "World",
+  "exam_angle": "APEC, mahashakti kootneeti aur parmanu hathiyar niyantran — UPSC ke liye mahatvapurna.",
+  "source": "NDTV",
+  "source_url": "https://www.ndtv.com/world-news/trump-heads-to-china-for-trilateral-meeting-with-xi-jinping-vladimir-putin-12341630/amp/1",
+  "genuineness": "verified",
+  "outlets": [
+   "NDTV",
+   "The Indian Express",
+   "Le Monde",
+   "The Times",
+   "The Economic Times"
+  ],
+  "image": null,
+  "image_credit": null
+ },
+ {
+  "id": "world-20261118-1122-02",
+  "published_ist": "2026-11-18T04:08:00+05:30",
+  "headline": "Yemen me 60 Houthi thikano par hamla",
+  "detail": "Saudi netritva wale gathbandhan ne Yemen ke chaar pranton me Houthi ke 60 sainya thikano ko nasht karne ka daava kiya; missile surang aur drone workshop nishane par the.",
+  "category": "World",
+  "exam_angle": "Yemen, Houthi aur Laal Sagar suraksha — UPSC ke liye upyogi.",
+  "source": "Arab News",
+  "source_url": "https://www.arabnews.com/middle-east/kuwait-bahrain-fend-off-iranian-aerial-attacks-as-coalition-hits-houthi-military-sites-3012614",
+  "genuineness": "verified",
+  "outlets": [
+   "Arab News",
+   "Al Jazeera",
+   "Anadolu Agency",
+   "Gulf News"
+  ],
+  "image": null,
+  "image_credit": null
+ },
+ {
+  "id": "world-20261118-1122-03",
+  "published_ist": "2026-11-18T02:58:00+05:30",
+  "headline": "Nvidia ki record kamai: $115.8 arab",
+  "detail": "Nvidia ne teesri timahi me $115.8 arab ki record kamai ki, pichhle saal se doguni; data centre se $107.6 arab aaye aur agle quarter ke liye $130 arab ka anumaan hai.",
+  "category": "World",
+  "exam_angle": "AI chip, semiconductor aur data centre — UPSC ke liye upyogi.",
+  "source": "Chosun Biz",
+  "source_url": "https://biz.chosun.com/en/en-it/2026/11/18/NQJTLPEVYBBFFJYWK7J6BZIC2U/",
+  "genuineness": "verified",
+  "outlets": [
+   "Chosun Biz",
+   "FXStreet",
+   "TradingView",
+   "Decrypt"
+  ],
+  "image": null,
+  "image_credit": null
  }
 ]
