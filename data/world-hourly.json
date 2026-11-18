@@ -1,6 +1,63 @@
 {
- "updated_ist": "2026-11-17T22:26:00+05:30",
+ "updated_ist": "2026-11-18T06:26:57+05:30",
  "items": [
+  {
+   "id": "world-20261118-0622-01",
+   "published_ist": "2026-11-18T06:11:00+05:30",
+   "headline": "Kerch Bridge par hamla, sadak hissa gira",
+   "detail": "Ukraine ne drone aur missile se Kerch Bridge par hamla kiya; sadak wale hisse ki mehraab aur span samundar me gir gaye, rail seva aanshik roop se bahal hui.",
+   "category": "World",
+   "exam_angle": "Kerch Bridge, Crimea aur Russia-Ukraine yuddh — UPSC ke liye mahatvapurna.",
+   "source": "The Times of India",
+   "source_url": "https://timesofindia.indiatimes.com/world/europe/ukraine-strikes-putins-prized-crimean-bridge-destroys-central-road-section-ahead-of-us-china-meet/articleshow/135944199.cms",
+   "genuineness": "verified",
+   "outlets": [
+    "Associated Press",
+    "The Times of India",
+    "Bloomberg",
+    "The National"
+   ],
+   "image": "../images/world/world-20261118-0622-01.jpg",
+   "image_credit": "Rosavtodor, Wikimedia Commons (CC BY 4.0)"
+  },
+  {
+   "id": "world-20261118-0622-02",
+   "published_ist": "2026-11-18T03:51:00+05:30",
+   "headline": "Siberia me sainya viman gira, 19 ki maut",
+   "detail": "Russia ka An-12 sainya parivahan viman Kemerovo ke paas gira; raksha mantralaya ke mutabik sawaar 19 logon ki maut ho gayi, takneeki kharabi ko shuruaati wajah bataya gaya.",
+   "category": "World",
+   "exam_angle": "Russia, sainya viman aur An-12 — UPSC ke liye upyogi.",
+   "source": "Al Jazeera",
+   "source_url": "https://www.aljazeera.com/news/2026/11/17/russian-military-plane-crash-in-siberia-kills-19?traffic_source=rss",
+   "genuineness": "verified",
+   "outlets": [
+    "Al Jazeera",
+    "CNN",
+    "Dawn",
+    "Channel News Asia",
+    "Reuters"
+   ],
+   "image": null,
+   "image_credit": null
+  },
+  {
+   "id": "world-20261118-0622-03",
+   "published_ist": "2026-11-17T16:30:00+05:30",
+   "headline": "America-Thailand vyapar samjhota tay",
+   "detail": "Manila me America aur Thailand ne parasparik vyapar samjhote (ART) par baatchit ke mool roop se poora hone ki ghoshna ki; Thailand America se aane wale saaman par tariff khatm karega.",
+   "category": "World",
+   "exam_angle": "ASEAN, America-Thailand vyapar aur reciprocal tariff — UPSC ke liye upyogi.",
+   "source": "The White House",
+   "source_url": "https://www.whitehouse.gov/briefings-statements/2026/11/joint-statement-on-an-agreement-between-the-united-states-of-america-and-the-kingdom-of-thailand-on-reciprocal-trade/",
+   "genuineness": "verified",
+   "outlets": [
+    "The White House",
+    "Reuters",
+    "The Nation"
+   ],
+   "image": null,
+   "image_credit": null
+  },
   {
    "id": "world-20261117-2226-01",
    "published_ist": "2026-11-17T21:09:00+05:30",
@@ -385,62 +442,6 @@
    "outlets": [
     "Reuters",
     "WION"
-   ],
-   "image": null,
-   "image_credit": null
-  },
-  {
-   "id": "world-20261117-1222-01",
-   "published_ist": "2026-11-17T09:09:00+05:30",
-   "headline": "Manila me Quad netaon ki baithak",
-   "detail": "Trump aaj Manila pahunche; America, Bharat, Japan aur Australia ke netaon ki do saal me pehli aamne-saamne baithak — samudri suraksha aur critical minerals par charcha.",
-   "category": "World",
-   "exam_angle": "Quad — Bharat, America, Japan, Australia; Indo-Pacific aur samudri suraksha pariksha ke liye mahatvapurna.",
-   "source": "Reuters",
-   "source_url": "https://www.gmanetwork.com/news/topstories/nation/1009760/trump-to-kick-off-asia-trip-with-quad-talks-in-manila-ahead-of-china-visit/story/?just_in",
-   "genuineness": "verified",
-   "outlets": [
-    "Reuters",
-    "Rappler",
-    "The New Indian Express"
-   ],
-   "image": null,
-   "image_credit": null
-  },
-  {
-   "id": "world-20261117-1022-02",
-   "published_ist": "2026-11-17T07:12:00+05:30",
-   "headline": "Pope Leo ki South America yatra khatm",
-   "detail": "12 din, 50 karyakram aur 1.3 crore log — Lima me 15 lakh ki antim Mass ke saath Pope Leo ne Uruguay, Argentina aur Peru ki yatra samapt ki, phaphde ki surgery ke ek mahine baad.",
-   "category": "World",
-   "exam_angle": "Pope Leo XIV, Vatican aur Latin America — UPSC ke liye upyogi.",
-   "source": "Reuters",
-   "source_url": "https://www.reuters.com/world/americas/pope-leo-ends-south-america-tour-that-drew-millions-with-one-final-vast-crowd-2026-11-16/",
-   "genuineness": "verified",
-   "outlets": [
-    "Reuters",
-    "Geo TV",
-    "France 24",
-    "The Times"
-   ],
-   "image": "../images/world/world-20261117-1022-02.jpg",
-   "image_credit": "GORE Callao, Wikimedia Commons (Public domain)"
-  },
-  {
-   "id": "world-20261117-1622-03",
-   "published_ist": "2026-11-17T07:08:00+05:30",
-   "headline": "South Africa: do golibari me 17 ki maut",
-   "detail": "Ravivar raat Pretoria ke paas jhopdi me 9 aur Pietermaritzburg ke paas gaadi me 8 log mare gaye; police ne dono hamlo ko asambandhit bataya, abhi koi giraftari nahi hui.",
-   "category": "World",
-   "exam_angle": "South Africa, bandook hinsa aur kanoon-vyavastha — UPSC ke liye upyogi.",
-   "source": "Dawn",
-   "source_url": "https://www.dawn.com/news/print/2045065",
-   "genuineness": "verified",
-   "outlets": [
-    "Dawn",
-    "The Nation",
-    "Bolo",
-    "Tribuna"
    ],
    "image": null,
    "image_credit": null
