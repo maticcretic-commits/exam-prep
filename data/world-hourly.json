@@ -1,6 +1,44 @@
 {
- "updated_ist": "2026-11-18T06:26:57+05:30",
+ "updated_ist": "2026-11-18T07:27:05+05:30",
  "items": [
+  {
+   "id": "world-20261118-0727-01",
+   "published_ist": "2026-11-18T04:45:00+05:30",
+   "headline": "Bangladesh me phir hinsa, BNP neta ki maut",
+   "detail": "Faridpur me BNP neta Raju Mollah ki hatya ke baad Gopalganj me thana aur sansad ke ghar me aag lagayi gayi; Dhaka me buson me aag aur crude bomb dhamake hue.",
+   "category": "World",
+   "exam_angle": "Bangladesh ki rajneeti, Sheikh Hasina ki wapsi — UPSC ke liye upyogi.",
+   "source": "The Print",
+   "source_url": "https://theprint.in/world/fresh-violence-grips-hasinas-hometown-amid-brewing-tensions-in-bangladesh/3101624/",
+   "genuineness": "verified",
+   "outlets": [
+    "PTI",
+    "ANI",
+    "BDnews24",
+    "Daily Waadaa"
+   ],
+   "image": null,
+   "image_credit": null
+  },
+  {
+   "id": "world-20261118-0727-02",
+   "published_ist": "2026-11-17T16:53:00+05:30",
+   "headline": "Kyiv ke pulon par hamla, 14 ki maut",
+   "detail": "Russia ke hamle me Ukraine bhar me 14 log mare aur 78 ghayal hue; Kyiv ke Northern aur Southern pul band hue aur kai kshetron me bijli dhwast hui.",
+   "category": "World",
+   "exam_angle": "Russia-Ukraine yuddh, Kyiv aur Dnipro nadi — UPSC ke liye upyogi.",
+   "source": "Kyiv Independent",
+   "source_url": "https://kyivindependent.com/russian-attacks-kill-14-injure-78-across-ukraine-over-past-day-hitting-kyivs-southern-northern-bridges/",
+   "genuineness": "verified",
+   "outlets": [
+    "Kyiv Independent",
+    "Reuters",
+    "Le Temps",
+    "The New Voice of Ukraine"
+   ],
+   "image": null,
+   "image_credit": null
+  },
   {
    "id": "world-20261118-0622-01",
    "published_ist": "2026-11-18T06:11:00+05:30",
@@ -61,17 +99,18 @@
   {
    "id": "world-20261117-2226-01",
    "published_ist": "2026-11-17T21:09:00+05:30",
-   "headline": "Qeshm dweep par hamle, America par aarop",
-   "detail": "Iran ke Hormuz sthit Qeshm dweep par shaam ko kai dhamake hue; Iranian adhikari ne America par hamle ka aarop lagaya aur kaha koi nuksan nahi hua.",
+   "headline": "America ne Qeshm missile site par hamla kiya",
+   "detail": "America ne Qeshm dweep par missile launch site par hawai hamle kiye — ek American adhikari ne Reuters ko pushti ki; ye Iran ke Bahrain me American thikanon par hamle ka jawab tha. (Update: pehle Iran ne America par aarop lagaya tha, ab America ne hamle ki pushti ki hai.)",
    "category": "World",
    "exam_angle": "US-Iran yuddh, Hormuz me tanaav — UPSC ke liye mahatvapurna.",
-   "source": "Arab News",
-   "source_url": "https://www.arabnews.com/middle-east/us-attacks-irans-qeshm-island-in-strait-of-hormuz-official-3012499",
+   "source": "Reuters",
+   "source_url": "https://www.reuters.com/world/middle-east/us-strikes-iranian-missile-launch-site-qeshm-island-us-official-says-2026-11-17/",
    "genuineness": "verified",
    "outlets": [
     "AFP",
     "Al Jazeera",
-    "NDTV"
+    "NDTV",
+    "Reuters"
    ],
    "image": null,
    "image_credit": null
@@ -406,42 +445,6 @@
     "Cointelegraph",
     "CybersecurityNews",
     "Outlook India"
-   ],
-   "image": null,
-   "image_credit": null
-  },
-  {
-   "id": "world-20261117-1622-02",
-   "published_ist": "2026-11-17T10:00:00+05:30",
-   "headline": "Vance: Iran yuddh 'forever war' nahi hoga",
-   "detail": "Up-Rashtrapati Vance ne Fox News se kaha Trump Iran sangharsh ko lamba nahi khinchenge — 10-15 saal to door, do saal ki pratibaddhta bhi nahi hogi.",
-   "category": "World",
-   "exam_angle": "America-Iran yuddh, US videsh neeti — UPSC ke liye mahatvapurna.",
-   "source": "The Economic Times",
-   "source_url": "https://economictimes.indiatimes.com/news/international/world-news/us-vice-president-jd-vance-says-trump-will-avoid-forever-war-in-iran/articleshow/135910319.cms",
-   "genuineness": "verified",
-   "outlets": [
-    "The Economic Times",
-    "Jerusalem Post",
-    "Dawn",
-    "New York Post"
-   ],
-   "image": null,
-   "image_credit": null
-  },
-  {
-   "id": "world-20261117-1126-01",
-   "published_ist": "2026-11-17T09:46:00+05:30",
-   "headline": "Canada-China: vyapar samjhota, tariff me katauti",
-   "detail": "Carney-Xi mulakat ke baad China ne Canada ke suar ka maas aur seafood par tariff ghataaya; Canada ne cheeni steel par riyaayat badhaayi.",
-   "category": "World",
-   "exam_angle": "US tariff ke beech Canada-China vyapar — APEC aur vyapar yuddh pariksha ke liye mahatvapurna.",
-   "source": "Reuters",
-   "source_url": "https://duke.fm/2026/11/16/china-canada-relations-more-stable-carney-says-as-he-meets-xi/",
-   "genuineness": "corroborated",
-   "outlets": [
-    "Reuters",
-    "WION"
    ],
    "image": null,
    "image_credit": null
