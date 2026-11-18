@@ -1,0 +1,77 @@
+{
+ "date": "2026-11-19",
+ "date_hi": "19 November 2026",
+ "date_en": "19 November 2026",
+ "episodes": [
+  {
+   "episode": 137,
+   "video_hi": "rThmGyMcr-Y",
+   "video_hinglish": "rThmGyMcr-Y",
+   "capsules": [
+    {
+     "id": "ca-ep137-s1",
+     "headline_hi": "Cyclone Akvan Andhra tat ki ore badh raha",
+     "headline_hinglish": "Cyclone Akvan Andhra tat ki ore badh raha",
+     "detail_hi": "Bengal ki Khadi mein bana toofan bees November ko Andhra tat se takra sakta hai; teen rajya alert par hain.",
+     "detail_hinglish": "Bengal ki Khadi mein bana toofan bees November ko Andhra tat se takra sakta hai; teen rajya alert par hain.",
+     "category_hi": "Environment",
+     "category_en": "Environment"
+    },
+    {
+     "id": "ca-ep137-s2",
+     "headline_hi": "Shenzhen mein Trump-Xi-Putin shikhar vaarta",
+     "headline_hinglish": "Shenzhen mein Trump-Xi-Putin shikhar vaarta",
+     "detail_hi": "America ke Rashtrapati Trump, China ke Xi Jinping aur Russia ke Putin aaj Shenzhen mein mil rahe hain.",
+     "detail_hinglish": "America ke Rashtrapati Trump, China ke Xi Jinping aur Russia ke Putin aaj Shenzhen mein mil rahe hain.",
+     "category_hi": "International",
+     "category_en": "National"
+    },
+    {
+     "id": "ca-ep137-s3",
+     "headline_hi": "Amazon Bharat mein saat arab dollar nivesh karega",
+     "headline_hinglish": "Amazon Bharat mein saat arab dollar nivesh karega",
+     "detail_hi": "Amazon do hazaar tees tak Bharat ke solar aur wind projects mein saat arab dollar lagayega.",
+     "detail_hinglish": "Amazon do hazaar tees tak Bharat ke solar aur wind projects mein saat arab dollar lagayega.",
+     "category_hi": "Economy",
+     "category_en": "Economy"
+    },
+    {
+     "id": "ca-ep137-s4",
+     "headline_hi": "NEET paper leak mein chaudah aaropiyon par aarop tay",
+     "headline_hinglish": "NEET paper leak mein chaudah aaropiyon par aarop tay",
+     "detail_hi": "Dilli ki adalat ne NEET-UG do hazaar chhabbees paper leak mamle mein chaudah aaropiyon ke khilaf aarop tay kiye.",
+     "detail_hinglish": "Dilli ki adalat ne NEET-UG do hazaar chhabbees paper leak mamle mein chaudah aaropiyon ke khilaf aarop tay kiye.",
+     "category_hi": "Education",
+     "category_en": "Education"
+    },
+    {
+     "id": "ca-ep137-s5",
+     "headline_hi": "PV Sindhu chaar saal baad duniya ki paanchvi",
+     "headline_hinglish": "PV Sindhu chaar saal baad duniya ki paanchvi",
+     "detail_hi": "PV Sindhu BWF ranking mein paanchve number par pahunchi; chaar saal baad top paanch mein lauti.",
+     "detail_hinglish": "PV Sindhu BWF ranking mein paanchve number par pahunchi; chaar saal baad top paanch mein lauti.",
+     "category_hi": "Sports",
+     "category_en": "Sports"
+    }
+   ],
+   "mcq": {
+    "id": "ca-ep137-mcq",
+    "q_hi": "NEET-UG 2026 paper leak mamle mein kitne aaropiyon ke khilaf aarop tay kiye gaye?",
+    "q_hinglish": "NEET-UG 2026 paper leak mamle mein kitne aaropiyon ke khilaf aarop tay kiye gaye?",
+    "options_hi": [
+     "10",
+     "12",
+     "14",
+     "18"
+    ],
+    "options_hinglish": [
+     "10",
+     "12",
+     "14",
+     "18"
+    ],
+    "answer_index": 2
+   }
+  }
+ ]
+}
