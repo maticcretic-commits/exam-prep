@@ -72,6 +72,76 @@
     ],
     "answer_index": 2
    }
+  },
+  {
+   "episode": 134,
+   "video_hi": "fuueqcfX47w",
+   "video_hinglish": "fuueqcfX47w",
+   "capsules": [
+    {
+     "id": "ca-ep134-s1",
+     "headline_hi": "Bharat ka dasva SAFF khitaab, Pakistan hara",
+     "headline_hinglish": "Bharat ka dasva SAFF khitaab, Pakistan hara",
+     "detail_hi": "Dhaka final mein Bharat ne Pakistan ko do ek se hara kar teesri baar lagatar SAFF Championship jeeta.",
+     "detail_hinglish": "Dhaka final mein Bharat ne Pakistan ko do ek se hara kar teesri baar lagatar SAFF Championship jeeta.",
+     "category_hi": "Sports",
+     "category_en": "Sports"
+    },
+    {
+     "id": "ca-ep134-s2",
+     "headline_hi": "Panipat mein Bharat ka pehla SAF plant",
+     "headline_hinglish": "Panipat mein Bharat ka pehla SAF plant",
+     "detail_hi": "Indian Oil ki Panipat refinery mein tees hazaar tonne saalana kshamata wala sustainable aviation fuel plant taiyaar hai.",
+     "detail_hinglish": "Indian Oil ki Panipat refinery mein tees hazaar tonne saalana kshamata wala sustainable aviation fuel plant taiyaar hai.",
+     "category_hi": "Economy",
+     "category_en": "Economy"
+    },
+    {
+     "id": "ca-ep134-s3",
+     "headline_hi": "Tokyo mein Bharat-Japan 2+2 samvaad",
+     "headline_hinglish": "Tokyo mein Bharat-Japan 2+2 samvaad",
+     "detail_hi": "Raksha Mantri Rajnath Singh aur Videsh Mantri Jaishankar atharah-unnees November ko Tokyo samvaad mein hissa lenge.",
+     "detail_hinglish": "Raksha Mantri Rajnath Singh aur Videsh Mantri Jaishankar atharah-unnees November ko Tokyo samvaad mein hissa lenge.",
+     "category_hi": "International",
+     "category_en": "National"
+    },
+    {
+     "id": "ca-ep134-s4",
+     "headline_hi": "IIT Delhi duniya mein 194ve sthan par",
+     "headline_hinglish": "IIT Delhi duniya mein 194ve sthan par",
+     "detail_hi": "QS Sustainability Rankings 2027 mein IIT Delhi Bharat ka sabse upar sthan par raha, Kharagpur 224ve sthan par hai.",
+     "detail_hinglish": "QS Sustainability Rankings 2027 mein IIT Delhi Bharat ka sabse upar sthan par raha, Kharagpur 224ve sthan par hai.",
+     "category_hi": "Education",
+     "category_en": "Education"
+    },
+    {
+     "id": "ca-ep134-s5",
+     "headline_hi": "Delhi mein GRAP Stage III hata, AQI sudhra",
+     "headline_hinglish": "Delhi mein GRAP Stage III hata, AQI sudhra",
+     "detail_hi": "Dilli-NCR mein hawa sudharne par CAQM ne Stage III pabandiyan wapas li, ausat AQI do sau chaar par pahuncha.",
+     "detail_hinglish": "Dilli-NCR mein hawa sudharne par CAQM ne Stage III pabandiyan wapas li, ausat AQI do sau chaar par pahuncha.",
+     "category_hi": "Environment",
+     "category_en": "Environment"
+    }
+   ],
+   "mcq": {
+    "id": "ca-ep134-mcq",
+    "q_hi": "Panipat SAF plant ki saalana utpadan kshamata kitni hai?",
+    "q_hinglish": "Panipat SAF plant ki saalana utpadan kshamata kitni hai?",
+    "options_hi": [
+     "Das hazaar tonne",
+     "Tees hazaar tonne",
+     "Pachaas hazaar tonne",
+     "Ek lakh tonne"
+    ],
+    "options_hinglish": [
+     "Das hazaar tonne",
+     "Tees hazaar tonne",
+     "Pachaas hazaar tonne",
+     "Ek lakh tonne"
+    ],
+    "answer_index": 1
+   }
   }
  ]
 }
