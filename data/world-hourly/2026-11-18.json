@@ -407,5 +407,81 @@
   ],
   "image": null,
   "image_credit": null
+ },
+ {
+  "id": "world-20261118-1322-01",
+  "published_ist": "2026-11-18T08:32:00+05:30",
+  "headline": "Trump Kim se milne ko taiyaar",
+  "detail": "Videsh mantri Marco Rubio ne kaha Trump Uttar Korea ke neta Kim Jong Un se milne ko taiyaar hain, lekin abhi koi baithak tay nahi hui; pehle karyakal me dono teen baar mile the.",
+  "category": "World",
+  "exam_angle": "America-Uttar Korea, parmanu kootneeti — UPSC ke liye upyogi.",
+  "source": "The Tribune",
+  "source_url": "https://www.tribuneindia.com/news/world/marco-rubio-says-trump-remains-willing-to-meet-with-north-koreas-leader/",
+  "genuineness": "verified",
+  "outlets": [
+   "The Tribune",
+   "Yonhap",
+   "Philippine News Agency",
+   "Aju Press"
+  ],
+  "image": null,
+  "image_credit": null
+ },
+ {
+  "id": "world-20261118-1322-02",
+  "published_ist": "2026-11-18T07:00:00+05:30",
+  "headline": "Japan ke aakaash me Russian viman",
+  "detail": "Japan ne kaha do sandeh wale Russian vimanon ne Fukuoka ke paas uska hawai kshetra ullanghan kiya; Japan ne ladaku viman bheje aur Moscow se kadha virodh jataaya, 2024 ke baad pehli aisi ghatna hai.",
+  "category": "World",
+  "exam_angle": "Japan-Russia, hawai kshetra aur APEC — UPSC ke liye upyogi.",
+  "source": "The Print",
+  "source_url": "https://theprint.in/world/taiwan-japan-flag-incursions-by-russian-aircraft-ahead-of-putins-arrival-in-china/3101632/",
+  "genuineness": "verified",
+  "outlets": [
+   "Reuters",
+   "The Manila Times",
+   "Daily Pioneer",
+   "Khmer Times"
+  ],
+  "image": null,
+  "image_credit": null
+ },
+ {
+  "id": "world-20261118-1322-03",
+  "published_ist": "2026-11-18T03:00:00+05:30",
+  "headline": "Prague me do train takraayi, 46 ghayal",
+  "detail": "Prague ke mukhya station ke paas do yatri train aamne-saamne takra gayi; 46 log ghayal hue, jinme dono driver bhi gambhir roop se ghayal hain; shuruaati jaanch me ek train ke laal signal paar karne ki aashanka hai.",
+  "category": "World",
+  "exam_angle": "Rail suraksha aur haadsa jaanch — UPSC ke liye upyogi.",
+  "source": "Qatar Tribune",
+  "source_url": "https://www.qatar-tribune.com/article/264844/world/dozens-injured-as-passenger-trains-collide-near-prague",
+  "genuineness": "verified",
+  "outlets": [
+   "Qatar Tribune",
+   "Prague Daily",
+   "News9live",
+   "The Express Tribune"
+  ],
+  "image": null,
+  "image_credit": null
+ },
+ {
+  "id": "world-20261118-1322-04",
+  "published_ist": "2026-11-18T01:08:00+05:30",
+  "headline": "Congo me Ebola doguna, 11,000 case",
+  "detail": "WHO ne kaha Congo me Ebola ke case teen mahine me dogune se zyada ho gaye — 11,000 se zyada case aur 5,400 mautein, aath pranton ke 67 swasthya kshetron me faila.",
+  "category": "World",
+  "exam_angle": "Ebola, WHO aur swasthya sankat — UPSC ke liye mahatvapurna.",
+  "source": "UN News",
+  "source_url": "https://news.un.org/en/story/2026/11/1168827",
+  "genuineness": "verified",
+  "outlets": [
+   "UN News",
+   "Gazette Nigeria",
+   "Traders Union",
+   "The Manila Times"
+  ],
+  "image": null,
+  "image_credit": null
  }
 ]
