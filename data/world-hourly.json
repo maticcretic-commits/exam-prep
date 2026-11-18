@@ -1,5 +1,5 @@
 {
- "updated_ist": "2026-11-18T08:27:05+05:30",
+ "updated_ist": "2026-11-18T09:28:19+05:30",
  "items": [
   {
    "id": "world-20261118-0822-01",
@@ -95,6 +95,41 @@
    "image_credit": null
   },
   {
+   "id": "world-20261118-0928-02",
+   "published_ist": "2026-11-18T01:52:00+05:30",
+   "headline": "Ukraine-Russia kaidi adla-badli ki taiyari",
+   "detail": "Zelenskyy ne kaha Ukraine Abu Dhabi samjhaute ke baad bade paimane par kaidi adla-badli ki taiyari kar raha hai, aur Berlin me is hafte Europe-America ke saath paanch prathmiktayein tay hongi.",
+   "category": "World",
+   "exam_angle": "Ukraine-Russia vaarta aur kaidi adla-badli — UPSC ke liye mahatvapurna.",
+   "source": "The Tribune",
+   "source_url": "https://www.tribuneindia.com/news/world/zelenskyy-says-ukraine-preparing-for-prisoner-exchange-with-russia-after-abu-dhabi-talks/amp/",
+   "genuineness": "verified",
+   "outlets": [
+    "The Tribune",
+    "The Page",
+    "UNITED24 Media"
+   ],
+   "image": null,
+   "image_credit": null
+  },
+  {
+   "id": "world-20261118-0928-03",
+   "published_ist": "2026-11-18T01:17:00+05:30",
+   "headline": "Jasoosi jaanch: America ko saunpa sena adhikari",
+   "detail": "Britain ne Russia ke liye jasoosi ke sandeh me 10 November ko giraftar American sena adhikari ko America ki sainya hirasat me saunp diya; FBI aur MI5 jaanch me shaamil hain.",
+   "category": "World",
+   "exam_angle": "NATO, jasoosi aur rashtriya suraksha — UPSC ke liye mahatvapurna.",
+   "source": "Reuters",
+   "source_url": "https://www.reuters.com/world/uk/uk-hands-us-army-officer-us-military-espionage-probe-2026-11-17/",
+   "genuineness": "corroborated",
+   "outlets": [
+    "Reuters",
+    "Al Jazeera"
+   ],
+   "image": null,
+   "image_credit": null
+  },
+  {
    "id": "world-20261118-0822-03",
    "published_ist": "2026-11-17T22:42:00+05:30",
    "headline": "Guinea me avaidh khanan par 224 ko saza",
@@ -127,6 +162,26 @@
     "Al Jazeera",
     "NDTV",
     "Reuters"
+   ],
+   "image": null,
+   "image_credit": null
+  },
+  {
+   "id": "world-20261118-0928-01",
+   "published_ist": "2026-11-17T20:56:00+05:30",
+   "headline": "Quad ki pehli sainya abhyaas 2027 me",
+   "detail": "Bharat, America, Japan aur Australia ne Manila me 2027 ke liye pehli Quad sainya abhyaas ki ghoshna ki; P-8 aur P-3C gasht viman samudri abhyaas me hissa lenge.",
+   "category": "World",
+   "exam_angle": "Quad, Indo-Pacific aur samudri suraksha — UPSC ke liye mahatvapurna.",
+   "source": "The Tribune",
+   "source_url": "https://www.tribuneindia.com/news/defence/quad-announces-first-ever-military-exercise-for-2027-sends-political-signal-to-china/",
+   "genuineness": "verified",
+   "outlets": [
+    "The Tribune",
+    "Financial Express",
+    "The New Indian Express",
+    "Yonhap",
+    "Jiji Press"
    ],
    "image": null,
    "image_credit": null
@@ -383,61 +438,6 @@
     "AFP",
     "The National",
     "Al Jazeera"
-   ],
-   "image": null,
-   "image_credit": null
-  },
-  {
-   "id": "world-20261117-1622-01",
-   "published_ist": "2026-11-17T13:48:00+05:30",
-   "headline": "Zaporizhzhia par hamla: 2 ki maut, 18 ghayal",
-   "detail": "Subah ke hamle me Zaporizhzhia ke teen jilon ki audyogik imaraton par hamla hua — 2 log mare, 18 ghayal; malbe se ek mahila zinda nikali gayi.",
-   "category": "World",
-   "exam_angle": "Russia-Ukraine yuddh, nagrik nuksan — UPSC ke liye mahatvapurna.",
-   "source": "Ukrainska Pravda",
-   "source_url": "https://www.pravda.com.ua/eng/news/2026/11/17/8063226/",
-   "genuineness": "verified",
-   "outlets": [
-    "Ukrainska Pravda",
-    "Hromadske",
-    "Kyiv Post",
-    "LB.ua"
-   ],
-   "image": null,
-   "image_credit": null
-  },
-  {
-   "id": "world-20261117-2226-04",
-   "published_ist": "2026-11-17T13:30:00+05:30",
-   "headline": "Mozambique: vipaksh neta par mukadma shuru",
-   "detail": "2024 ke vivadit chunav ke baad hinsa par vipaksh neta Venancio Mondlane par Maputo ki Supreme Court me mukadma shuru hua; un par aatankwad bhadkane ke aarop hain, doshi paye gaye to 24 saal tak ki saza ho sakti hai.",
-   "category": "World",
-   "exam_angle": "Africa me loktantra, chunav-hinsa — UPSC ke liye upyogi.",
-   "source": "Reuters",
-   "source_url": "https://www.reuters.com/business/media-telecom/mozambiques-main-opposition-leader-goes-trial-over-post-election-unrest-2026-11-17/",
-   "genuineness": "verified",
-   "outlets": [
-    "Reuters",
-    "Al Jazeera",
-    "Associated Press"
-   ],
-   "image": null,
-   "image_credit": null
-  },
-  {
-   "id": "world-20261117-1322-03",
-   "published_ist": "2026-11-17T12:37:00+05:30",
-   "headline": "UK me berozgari 4.6% par aayi",
-   "detail": "ONS ke mutabik July–September me UK ki berozgari dar 4.7% se ghatkar 4.6% hui, jabki vetan vriddhi 3.5% par dheemi padi aur October me company payroll me 34,000 ki kami aayi.",
-   "category": "World",
-   "exam_angle": "UK arthvyavastha aur Bank of England — UPSC ke liye upyogi.",
-   "source": "ONS",
-   "source_url": "https://www.ons.gov.uk/employmentandlabourmarket/peopleinwork/employmentandemployeetypes/bulletins/employmentintheuk/november2026",
-   "genuineness": "verified",
-   "outlets": [
-    "ONS",
-    "Reuters",
-    "The Guardian"
    ],
    "image": null,
    "image_credit": null
