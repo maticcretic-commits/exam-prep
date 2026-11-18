@@ -630,5 +630,61 @@
   ],
   "image": null,
   "image_credit": null
+ },
+ {
+  "id": "world-20261118-1622-01",
+  "published_ist": "2026-11-18T13:15:00+05:30",
+  "headline": "Takaichi pehli baar China pahunchi",
+  "detail": "Japan ki PM Sanae Takaichi APEC shikhar sammelan ke liye Shenzhen pahunchi; Taiwan par unki tippani ke baad se tanav ke beech yeh unki pehli China yatra hai, Xi Jinping se aupcharik baithak ki sambhavna kam hai.",
+  "category": "World",
+  "exam_angle": "Japan-China, Taiwan aur APEC — UPSC ke liye mahatvapurna.",
+  "source": "Kyodo News",
+  "source_url": "https://english.kyodonews.net/articles/-/91833",
+  "genuineness": "verified",
+  "outlets": [
+   "Kyodo News",
+   "Nikkei Asia",
+   "Free Malaysia Today",
+   "Arab News",
+   "Channel News Asia"
+  ],
+  "image": "../images/world/world-20261118-1622-01.jpg",
+  "image_credit": "Cabinet Public Affairs Office, Wikimedia Commons (CC BY 4.0)"
+ },
+ {
+  "id": "world-20261118-1622-02",
+  "published_ist": "2026-11-18T11:05:00+05:30",
+  "headline": "ASEAN shikhar: Myanmar, samudra sanhita adhuri",
+  "detail": "Manila mein 49va ASEAN shikhar sammelan samapt hua; 100 se zyada dastavezon par sahmati bani, lekin Myanmar sankat aur South China Sea aacharan sanhita par koi faisla nahi hua, adhyakshata Singapore ko mili.",
+  "category": "World",
+  "exam_angle": "ASEAN, Myanmar aur South China Sea — UPSC ke liye mahatvapurna.",
+  "source": "Rappler",
+  "source_url": "https://www.rappler.com/philippines/myanmar-south-china-sea-coc-unsolved-asean-summit-november-2026/",
+  "genuineness": "verified",
+  "outlets": [
+   "Rappler",
+   "Philstar",
+   "Nikkei Asia",
+   "Al Jazeera"
+  ],
+  "image": null,
+  "image_credit": null
+ },
+ {
+  "id": "world-20261118-1622-03",
+  "published_ist": "2026-11-18T07:07:00+05:30",
+  "headline": "UAE duniya ka sabse surakshit desh",
+  "detail": "Gallup ki 2026 Global Safety Report mein UAE pehle sthan par raha — 96% logon ne kaha raat mein akele chalna surakshit hai; Singapore bhi 96% ke saath barabar raha, jabki duniya bhar mein suraksha ki bhavna 69% par gir gayi.",
+  "category": "World",
+  "exam_angle": "Gallup Global Safety Report aur Law and Order Index — UPSC ke liye upyogi.",
+  "source": "The National",
+  "source_url": "https://www.thenationalnews.com/news/uae/2026/11/18/uae-safety-ranking-gallup-safest/",
+  "genuineness": "corroborated",
+  "outlets": [
+   "Gallup",
+   "The National"
+  ],
+  "image": null,
+  "image_credit": null
  }
 ]
