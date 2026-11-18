@@ -142,6 +142,76 @@
     ],
     "answer_index": 1
    }
+  },
+  {
+   "episode": 135,
+   "video_hi": "t-6pLlmGHdQ",
+   "video_hinglish": "t-6pLlmGHdQ",
+   "capsules": [
+    {
+     "id": "ca-ep135-s1",
+     "headline_hi": "Manila mein unchaasva ASEAN shikhar sammelan",
+     "headline_hinglish": "Manila mein unchaasva ASEAN shikhar sammelan",
+     "detail_hi": "PM Modi unchaasve ASEAN shikhar sammelan ke baad Manila se Dilli laute; Bharat ne muft e-visa ka prastav rakha.",
+     "detail_hinglish": "PM Modi unchaasve ASEAN shikhar sammelan ke baad Manila se Dilli laute; Bharat ne muft e-visa ka prastav rakha.",
+     "category_hi": "International",
+     "category_en": "National"
+    },
+    {
+     "id": "ca-ep135-s2",
+     "headline_hi": "Cyclone Akvan: bees November ko Andhra tat",
+     "headline_hinglish": "Cyclone Akvan: bees November ko Andhra tat",
+     "detail_hi": "Akvan unnees November tak ati gambhir toofan banega aur bees November ko Andhra Pradesh tat se takrayega.",
+     "detail_hinglish": "Akvan unnees November tak ati gambhir toofan banega aur bees November ko Andhra Pradesh tat se takrayega.",
+     "category_hi": "Environment",
+     "category_en": "Environment"
+    },
+    {
+     "id": "ca-ep135-s3",
+     "headline_hi": "Kulgam mein LeT ka aakhri aatanki dhair",
+     "headline_hinglish": "Kulgam mein LeT ka aakhri aatanki dhair",
+     "detail_hi": "Suraksha balon ne Kulgam mein LeT ke aakhri sakriya sthaniya aatanki Lateef Bhat ko muthbhed mein mar giraya.",
+     "detail_hinglish": "Suraksha balon ne Kulgam mein LeT ke aakhri sakriya sthaniya aatanki Lateef Bhat ko muthbhed mein mar giraya.",
+     "category_hi": "Security",
+     "category_en": "National"
+    },
+    {
+     "id": "ca-ep135-s4",
+     "headline_hi": "Railway ka naya PRS: do hazaar do sau trains",
+     "headline_hinglish": "Railway ka naya PRS: do hazaar do sau trains",
+     "detail_hi": "Railway ne chalees saal purane PRS ki jagah naye system par do hazaar do sau se zyada trains shift kar di hain.",
+     "detail_hinglish": "Railway ne chalees saal purane PRS ki jagah naye system par do hazaar do sau se zyada trains shift kar di hain.",
+     "category_hi": "Economy",
+     "category_en": "Economy"
+    },
+    {
+     "id": "ca-ep135-s5",
+     "headline_hi": "Nepal ko Bharat se teen sau pachaas MW bijli",
+     "headline_hinglish": "Nepal ko Bharat se teen sau pachaas MW bijli",
+     "detail_hi": "Nepal is sardi mein Bharat se teen sau pachaas megawatt bijli aayat karega; vyavastha July do hazaar sattaees tak chalegi.",
+     "detail_hinglish": "Nepal is sardi mein Bharat se teen sau pachaas megawatt bijli aayat karega; vyavastha July do hazaar sattaees tak chalegi.",
+     "category_hi": "Energy",
+     "category_en": "National"
+    }
+   ],
+   "mcq": {
+    "id": "ca-ep135-mcq",
+    "q_hi": "Cyclone Akvan kis rajya ke tat se takrayega?",
+    "q_hinglish": "Cyclone Akvan kis rajya ke tat se takrayega?",
+    "options_hi": [
+     "Odisha",
+     "Andhra Pradesh",
+     "Tamil Nadu",
+     "Gujarat"
+    ],
+    "options_hinglish": [
+     "Odisha",
+     "Andhra Pradesh",
+     "Tamil Nadu",
+     "Gujarat"
+    ],
+    "answer_index": 1
+   }
   }
  ]
 }
