@@ -1,6 +1,42 @@
 {
- "updated_ist": "2026-11-18T13:26:27+05:30",
+ "updated_ist": "2026-11-18T14:29:12+05:30",
  "items": [
+  {
+   "id": "world-20261118-1422-01",
+   "published_ist": "2026-11-18T11:57:00+05:30",
+   "headline": "Riyadh ki ore Houthi missile roka gaya",
+   "detail": "Saudi netritva wale gathbandhan ne kaha Riyadh ki taraf daagi gayi Houthi cruise missile ko hawai raksha ne rok kar nasht kar diya.",
+   "category": "World",
+   "exam_angle": "Yemen sangharsh aur Khadi suraksha — UPSC ke liye mahatvapurna.",
+   "source": "Saudi Gazette",
+   "source_url": "https://saudigazette.com.sa/article/666329/saudi-arabia/coalition-destroys-60-houthi-military-targets-in-yemen-intercepts-cruise-missile-targeting-riyadh",
+   "genuineness": "verified",
+   "outlets": [
+    "Al Arabiya",
+    "Saudi Gazette",
+    "Arab News"
+   ],
+   "image": null,
+   "image_credit": null
+  },
+  {
+   "id": "world-20261118-1422-02",
+   "published_ist": "2026-11-18T11:11:00+05:30",
+   "headline": "Iran ka daava: Kuwait base par hamla kiya",
+   "detail": "Iran ki sena ne kaha uske drone ne Kuwait ke Ali Al Salem air base par America ke Patriot system aur missile platform ko nishana banaya; Kuwait ne kaha uski vayu raksha hamlo ka jawab de rahi hai.",
+   "category": "World",
+   "exam_angle": "Khadi me America-Iran tanav — UPSC ke liye mahatvapurna.",
+   "source": "The Express Tribune",
+   "source_url": "https://tribune.com.pk/story/2640955/iranian-army-says-drone-strikes-targeted-us-installations-at-kuwait-air-base",
+   "genuineness": "verified",
+   "outlets": [
+    "The Hindu",
+    "Gulf News",
+    "Arab News"
+   ],
+   "image": null,
+   "image_credit": null
+  },
   {
    "id": "world-20261118-1022-01",
    "published_ist": "2026-11-18T10:04:00+05:30",
@@ -39,6 +75,24 @@
    "image_credit": null
   },
   {
+   "id": "world-20261118-1422-03",
+   "published_ist": "2026-11-18T09:01:00+05:30",
+   "headline": "FAA ne naye router lagane roke",
+   "detail": "America ki FAA ne Juniper router lagana asthayi roop se roka; pichhle hafte inhi router se jude sanchar gadbadi ke karan desh bhar me udanein roki gayi thi aur lagbhag 20,000 udanein radd hui thi.",
+   "category": "World",
+   "exam_angle": null,
+   "source": "The Economic Times",
+   "source_url": "https://economictimes.indiatimes.com/news/international/world-news/faa-temporarily-stops-router-installations-connected-to-air-travel-stoppage/articleshow/135947357.cms",
+   "genuineness": "verified",
+   "outlets": [
+    "The Wall Street Journal",
+    "CNN",
+    "The Straits Times"
+   ],
+   "image": null,
+   "image_credit": null
+  },
+  {
    "id": "world-20261118-1322-01",
    "published_ist": "2026-11-18T08:32:00+05:30",
    "headline": "Trump Kim se milne ko taiyaar",
@@ -56,6 +110,24 @@
    ],
    "image": null,
    "image_credit": null
+  },
+  {
+   "id": "world-20261118-1422-04",
+   "published_ist": "2026-11-18T07:46:00+05:30",
+   "headline": "Netanyahu ko jhatka: Knesset speaker badle",
+   "detail": "Israel ki sansad ne Matan Kahana ko 66-52 se speaker chuna; ve Eisenkot ke Yashar dal se hain aur Netanyahu ke sahyogi Amir Ohana ki jagah lenge.",
+   "category": "World",
+   "exam_angle": "Israel ki rajneeti aur sansadiya vyavastha — UPSC ke liye mahatvapurna.",
+   "source": "WION",
+   "source_url": "https://www.wionews.com/world/benjamin-netanyahu-suffers-major-political-setback-as-israel-s-opposition-elects-new-knesset-speaker-1794967291339/amp",
+   "genuineness": "verified",
+   "outlets": [
+    "CNN",
+    "Reuters",
+    "WION"
+   ],
+   "image": "../images/world/world-20261118-1422-04.jpg",
+   "image_credit": "Gary Todd, Wikimedia Commons (CC0)"
   },
   {
    "id": "world-20261118-1122-01",
@@ -370,83 +442,6 @@
     "CNN",
     "Scientific American",
     "Firstpost"
-   ],
-   "image": null,
-   "image_credit": null
-  },
-  {
-   "id": "world-20261117-2226-01",
-   "published_ist": "2026-11-17T21:09:00+05:30",
-   "headline": "America ne Qeshm missile site par hamla kiya",
-   "detail": "America ne Qeshm dweep par missile launch site par hawai hamle kiye — ek American adhikari ne Reuters ko pushti ki; ye Iran ke Bahrain me American thikanon par hamle ka jawab tha. (Update: pehle Iran ne America par aarop lagaya tha, ab America ne hamle ki pushti ki hai.)",
-   "category": "World",
-   "exam_angle": "US-Iran yuddh, Hormuz me tanaav — UPSC ke liye mahatvapurna.",
-   "source": "Reuters",
-   "source_url": "https://www.reuters.com/world/middle-east/us-strikes-iranian-missile-launch-site-qeshm-island-us-official-says-2026-11-17/",
-   "genuineness": "verified",
-   "outlets": [
-    "AFP",
-    "Al Jazeera",
-    "NDTV",
-    "Reuters"
-   ],
-   "image": null,
-   "image_credit": null
-  },
-  {
-   "id": "world-20261118-0928-01",
-   "published_ist": "2026-11-17T20:56:00+05:30",
-   "headline": "Quad ki pehli sainya abhyaas 2027 me",
-   "detail": "Bharat, America, Japan aur Australia ne Manila me 2027 ke liye pehli Quad sainya abhyaas ki ghoshna ki; P-8 aur P-3C gasht viman samudri abhyaas me hissa lenge.",
-   "category": "World",
-   "exam_angle": "Quad, Indo-Pacific aur samudri suraksha — UPSC ke liye mahatvapurna.",
-   "source": "The Tribune",
-   "source_url": "https://www.tribuneindia.com/news/defence/quad-announces-first-ever-military-exercise-for-2027-sends-political-signal-to-china/",
-   "genuineness": "verified",
-   "outlets": [
-    "The Tribune",
-    "Financial Express",
-    "The New Indian Express",
-    "Yonhap",
-    "Jiji Press"
-   ],
-   "image": null,
-   "image_credit": null
-  },
-  {
-   "id": "world-20261117-2226-02",
-   "published_ist": "2026-11-17T19:54:00+05:30",
-   "headline": "Yemen me Saudi hamle, 7 ki maut ka daava",
-   "detail": "Houthi media ke mutabik Saudi netritva wale gathbandhan ne Sanaa aur Hodeidah me factoryon par hamle kiye; Houthi swasthya mantralaya ne 7 ki maut batayi, Saudi ne abhi pushti nahi ki hai.",
-   "category": "World",
-   "exam_angle": "Yemen yuddh, Saudi-Houthi sangharsh — UPSC ke liye upyogi.",
-   "source": "Al Bawaba",
-   "source_url": "https://www.albawaba.net/news/saudi-airstrikes-hit-industrial-sites-1641617",
-   "genuineness": "corroborated",
-   "outlets": [
-    "AFP",
-    "Al Bawaba",
-    "Anadolu"
-   ],
-   "image": null,
-   "image_credit": null
-  },
-  {
-   "id": "world-20261117-2022-01",
-   "published_ist": "2026-11-17T19:07:00+05:30",
-   "headline": "Iran ka daava: do American drone giraye",
-   "detail": "Iran ki sena aur IRGC ne daava kiya ki Hormuz ke paas America ke LUCAS aur MQ-1 drone giraye gaye; America ne abhi iski pushti nahi ki hai.",
-   "category": "World",
-   "exam_angle": "US-Iran yuddh me drone yuddh — UPSC ke liye mahatvapurna.",
-   "source": "Moneycontrol",
-   "source_url": "https://www.moneycontrol.com/world/iran-says-it-shot-down-us-made-lucas-drone-over-strait-of-hormuz-article-14082782.html/amp",
-   "genuineness": "corroborated",
-   "outlets": [
-    "Dawn",
-    "Al Jazeera",
-    "Moneycontrol",
-    "News9",
-    "Press TV"
    ],
    "image": null,
    "image_credit": null
