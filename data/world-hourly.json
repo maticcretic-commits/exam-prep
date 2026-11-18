@@ -1,5 +1,5 @@
 {
- "updated_ist": "2026-11-18T15:27:26+05:30",
+ "updated_ist": "2026-11-18T16:26:21+05:30",
  "items": [
   {
    "id": "world-20261118-1522-01",
@@ -21,6 +21,26 @@
    "image_credit": null
   },
   {
+   "id": "world-20261118-1622-01",
+   "published_ist": "2026-11-18T13:15:00+05:30",
+   "headline": "Takaichi pehli baar China pahunchi",
+   "detail": "Japan ki PM Sanae Takaichi APEC shikhar sammelan ke liye Shenzhen pahunchi; Taiwan par unki tippani ke baad se tanav ke beech yeh unki pehli China yatra hai, Xi Jinping se aupcharik baithak ki sambhavna kam hai.",
+   "category": "World",
+   "exam_angle": "Japan-China, Taiwan aur APEC — UPSC ke liye mahatvapurna.",
+   "source": "Kyodo News",
+   "source_url": "https://english.kyodonews.net/articles/-/91833",
+   "genuineness": "verified",
+   "outlets": [
+    "Kyodo News",
+    "Nikkei Asia",
+    "Free Malaysia Today",
+    "Arab News",
+    "Channel News Asia"
+   ],
+   "image": "../images/world/world-20261118-1622-01.jpg",
+   "image_credit": "Cabinet Public Affairs Office, Wikimedia Commons (CC BY 4.0)"
+  },
+  {
    "id": "world-20261118-1522-02",
    "published_ist": "2026-11-18T11:57:00+05:30",
    "headline": "Sona ek saal ke sabse neeche",
@@ -34,44 +54,6 @@
     "Reuters",
     "The Hindu BusinessLine",
     "The Economic Times"
-   ],
-   "image": null,
-   "image_credit": null
-  },
-  {
-   "id": "world-20261118-1522-03",
-   "published_ist": "2026-11-18T09:17:00+05:30",
-   "headline": "Rubio: Washington par koi turant khatra nahi",
-   "detail": "Videsh mantri Marco Rubio ne kaha Washington par Iran ke kathit dirty bomb hamle ka koi turant khatra nahi hai; CNN ki report ko kharij karte hue unhone khufiya sroton ko jhootha bataya.",
-   "category": "World",
-   "exam_angle": "America-Iran tanav aur parmanu suraksha — UPSC ke liye upyogi.",
-   "source": "The Times of India",
-   "source_url": "https://timesofindia.indiatimes.com/world/middle-east/no-imminent-threat-rubio-hits-back-at-iran-dirty-bomb-report-brands-intelligence-sources-liars/articleshow/135947349.cms",
-   "genuineness": "verified",
-   "outlets": [
-    "Reuters",
-    "The Jerusalem Post",
-    "The Times of India",
-    "The Straits Times"
-   ],
-   "image": null,
-   "image_credit": null
-  },
-  {
-   "id": "world-20261118-1522-04",
-   "published_ist": "2026-11-18T06:50:00+05:30",
-   "headline": "Trump hatya sajish: Merchant ko 27 saal",
-   "detail": "America ki adalat ne Pakistani nagrik Asif Merchant ko 27 saal se zyada ki saza di; 2024 me Trump aur anya netaon ki hatya ki sajish me Iran ke IRGC se jude hone ka aarop tha.",
-   "category": "World",
-   "exam_angle": "America-Iran, aatankwad aur nyay — UPSC ke liye upyogi.",
-   "source": "The Hindu",
-   "source_url": "https://www.thehindu.com/news/international/pakistani-man-convicted-of-plotting-to-kill-trump-is-sentenced-to-over-27-years-in-prison/article71714337.ece",
-   "genuineness": "verified",
-   "outlets": [
-    "Reuters",
-    "The Hindu",
-    "The National",
-    "Khaleej Times"
    ],
    "image": null,
    "image_credit": null
@@ -113,6 +95,25 @@
    "image_credit": null
   },
   {
+   "id": "world-20261118-1622-02",
+   "published_ist": "2026-11-18T11:05:00+05:30",
+   "headline": "ASEAN shikhar: Myanmar, samudra sanhita adhuri",
+   "detail": "Manila mein 49va ASEAN shikhar sammelan samapt hua; 100 se zyada dastavezon par sahmati bani, lekin Myanmar sankat aur South China Sea aacharan sanhita par koi faisla nahi hua, adhyakshata Singapore ko mili.",
+   "category": "World",
+   "exam_angle": "ASEAN, Myanmar aur South China Sea — UPSC ke liye mahatvapurna.",
+   "source": "Rappler",
+   "source_url": "https://www.rappler.com/philippines/myanmar-south-china-sea-coc-unsolved-asean-summit-november-2026/",
+   "genuineness": "verified",
+   "outlets": [
+    "Rappler",
+    "Philstar",
+    "Nikkei Asia",
+    "Al Jazeera"
+   ],
+   "image": null,
+   "image_credit": null
+  },
+  {
    "id": "world-20261118-1022-01",
    "published_ist": "2026-11-18T10:04:00+05:30",
    "headline": "America ne paanch Irani tanker duboye",
@@ -145,6 +146,25 @@
     "Reuters",
     "The Times of India",
     "Gulf News"
+   ],
+   "image": null,
+   "image_credit": null
+  },
+  {
+   "id": "world-20261118-1522-03",
+   "published_ist": "2026-11-18T09:17:00+05:30",
+   "headline": "Rubio: Washington par koi turant khatra nahi",
+   "detail": "Videsh mantri Marco Rubio ne kaha Washington par Iran ke kathit dirty bomb hamle ka koi turant khatra nahi hai; CNN ki report ko kharij karte hue unhone khufiya sroton ko jhootha bataya.",
+   "category": "World",
+   "exam_angle": "America-Iran tanav aur parmanu suraksha — UPSC ke liye upyogi.",
+   "source": "The Times of India",
+   "source_url": "https://timesofindia.indiatimes.com/world/middle-east/no-imminent-threat-rubio-hits-back-at-iran-dirty-bomb-report-brands-intelligence-sources-liars/articleshow/135947349.cms",
+   "genuineness": "verified",
+   "outlets": [
+    "Reuters",
+    "The Jerusalem Post",
+    "The Times of India",
+    "The Straits Times"
    ],
    "image": null,
    "image_credit": null
@@ -225,6 +245,23 @@
    "image_credit": null
   },
   {
+   "id": "world-20261118-1622-03",
+   "published_ist": "2026-11-18T07:07:00+05:30",
+   "headline": "UAE duniya ka sabse surakshit desh",
+   "detail": "Gallup ki 2026 Global Safety Report mein UAE pehle sthan par raha — 96% logon ne kaha raat mein akele chalna surakshit hai; Singapore bhi 96% ke saath barabar raha, jabki duniya bhar mein suraksha ki bhavna 69% par gir gayi.",
+   "category": "World",
+   "exam_angle": "Gallup Global Safety Report aur Law and Order Index — UPSC ke liye upyogi.",
+   "source": "The National",
+   "source_url": "https://www.thenationalnews.com/news/uae/2026/11/18/uae-safety-ranking-gallup-safest/",
+   "genuineness": "corroborated",
+   "outlets": [
+    "Gallup",
+    "The National"
+   ],
+   "image": null,
+   "image_credit": null
+  },
+  {
    "id": "world-20261118-1322-02",
    "published_ist": "2026-11-18T07:00:00+05:30",
    "headline": "Japan ke aakaash me Russian viman",
@@ -239,6 +276,25 @@
     "The Manila Times",
     "Daily Pioneer",
     "Khmer Times"
+   ],
+   "image": null,
+   "image_credit": null
+  },
+  {
+   "id": "world-20261118-1522-04",
+   "published_ist": "2026-11-18T06:50:00+05:30",
+   "headline": "Trump hatya sajish: Merchant ko 27 saal",
+   "detail": "America ki adalat ne Pakistani nagrik Asif Merchant ko 27 saal se zyada ki saza di; 2024 me Trump aur anya netaon ki hatya ki sajish me Iran ke IRGC se jude hone ka aarop tha.",
+   "category": "World",
+   "exam_angle": "America-Iran, aatankwad aur nyay — UPSC ke liye upyogi.",
+   "source": "The Hindu",
+   "source_url": "https://www.thehindu.com/news/international/pakistani-man-convicted-of-plotting-to-kill-trump-is-sentenced-to-over-27-years-in-prison/article71714337.ece",
+   "genuineness": "verified",
+   "outlets": [
+    "Reuters",
+    "The Hindu",
+    "The National",
+    "Khaleej Times"
    ],
    "image": null,
    "image_credit": null
@@ -388,60 +444,6 @@
     "Prague Daily",
     "News9live",
     "The Express Tribune"
-   ],
-   "image": null,
-   "image_credit": null
-  },
-  {
-   "id": "world-20261118-1122-03",
-   "published_ist": "2026-11-18T02:58:00+05:30",
-   "headline": "Nvidia ki record kamai: $115.8 arab",
-   "detail": "Nvidia ne teesri timahi me $115.8 arab ki record kamai ki, pichhle saal se doguni; data centre se $107.6 arab aaye aur agle quarter ke liye $130 arab ka anumaan hai.",
-   "category": "World",
-   "exam_angle": "AI chip, semiconductor aur data centre — UPSC ke liye upyogi.",
-   "source": "Chosun Biz",
-   "source_url": "https://biz.chosun.com/en/en-it/2026/11/18/NQJTLPEVYBBFFJYWK7J6BZIC2U/",
-   "genuineness": "verified",
-   "outlets": [
-    "Chosun Biz",
-    "FXStreet",
-    "TradingView",
-    "Decrypt"
-   ],
-   "image": null,
-   "image_credit": null
-  },
-  {
-   "id": "world-20261118-0928-02",
-   "published_ist": "2026-11-18T01:52:00+05:30",
-   "headline": "Ukraine-Russia kaidi adla-badli ki taiyari",
-   "detail": "Zelenskyy ne kaha Ukraine Abu Dhabi samjhaute ke baad bade paimane par kaidi adla-badli ki taiyari kar raha hai, aur Berlin me is hafte Europe-America ke saath paanch prathmiktayein tay hongi.",
-   "category": "World",
-   "exam_angle": "Ukraine-Russia vaarta aur kaidi adla-badli — UPSC ke liye mahatvapurna.",
-   "source": "The Tribune",
-   "source_url": "https://www.tribuneindia.com/news/world/zelenskyy-says-ukraine-preparing-for-prisoner-exchange-with-russia-after-abu-dhabi-talks/amp/",
-   "genuineness": "verified",
-   "outlets": [
-    "The Tribune",
-    "The Page",
-    "UNITED24 Media"
-   ],
-   "image": null,
-   "image_credit": null
-  },
-  {
-   "id": "world-20261118-0928-03",
-   "published_ist": "2026-11-18T01:17:00+05:30",
-   "headline": "Jasoosi jaanch: America ko saunpa sena adhikari",
-   "detail": "Britain ne Russia ke liye jasoosi ke sandeh me 10 November ko giraftar American sena adhikari ko America ki sainya hirasat me saunp diya; FBI aur MI5 jaanch me shaamil hain.",
-   "category": "World",
-   "exam_angle": "NATO, jasoosi aur rashtriya suraksha — UPSC ke liye mahatvapurna.",
-   "source": "Reuters",
-   "source_url": "https://www.reuters.com/world/uk/uk-hands-us-army-officer-us-military-espionage-probe-2026-11-17/",
-   "genuineness": "corroborated",
-   "outlets": [
-    "Reuters",
-    "Al Jazeera"
    ],
    "image": null,
    "image_credit": null
