@@ -1,6 +1,44 @@
 {
- "updated_ist": "2026-11-19T21:26:45+05:30",
+ "updated_ist": "2026-11-19T22:29:00+05:30",
  "items": [
+  {
+   "id": "world-20261119-2222-01",
+   "published_ist": "2026-11-19T20:07:00+05:30",
+   "headline": "Kyiv me Dutch dutavas par drone hamla",
+   "detail": "Russia ke drone hamle me Kyiv me Dutch dutavas ki imarat ko halka nuksan hua; koi karmchari ghayal nahi hua aur jaanch jaari hai.",
+   "category": "World",
+   "exam_angle": "Russia-Ukraine war, diplomatic missions — UPSC IR",
+   "source": "Ukrainska Pravda",
+   "source_url": "https://www.pravda.com.ua/eng/news/2026/11/19/8063652/",
+   "genuineness": "verified",
+   "outlets": [
+    "Ukrainska Pravda",
+    "The Kyiv Independent",
+    "European Pravda",
+    "The Times"
+   ],
+   "image": "../images/world/world-20261119-2222-01.jpg",
+   "image_credit": "Ukrainska Pravda"
+  },
+  {
+   "id": "world-20261119-2222-02",
+   "published_ist": "2026-11-19T15:00:00+05:30",
+   "headline": "Kenya ne Mrima Hill sauda US ko diya",
+   "detail": "Kenya ne Mrima Hill ki durlabh khanij aur niobium khadan ke liye America ke Frontier Minerals sangh ko chuna; do Chinese company pehle hi peeche hat chuki thi.",
+   "category": "World",
+   "exam_angle": "Critical minerals, rare earths, US-China rivalry — UPSC IR/Economy",
+   "source": "Reuters",
+   "source_url": "https://www.reuters.com/world/africa/kenya-chooses-us-consortium-to-develop-mrima-hill-critical-minerals-project-2026-11-19/",
+   "genuineness": "verified",
+   "outlets": [
+    "Reuters",
+    "Daily Nation",
+    "Business Daily",
+    "Kenyans.co.ke"
+   ],
+   "image": null,
+   "image_credit": null
+  },
   {
    "id": "world-20261119-2122-01",
    "published_ist": "2026-11-19T16:36:00+05:30",
@@ -54,24 +92,6 @@
    ],
    "image": "../images/world/world-20261119-2122-03.jpg",
    "image_credit": "NASA (Wikimedia Commons, public domain)"
-  },
-  {
-   "id": "world-20261119-2122-04",
-   "published_ist": "2026-11-17T16:58:00+05:30",
-   "headline": "Rio Tinto dega Panguna ke liye $250 million",
-   "detail": "Rio Tinto ne Papua New Guinea ki band Panguna khadan se hue paryavaran nuksan ke liye $250 million ka fund dene ka elan kiya.",
-   "category": "World",
-   "exam_angle": "Mining, environmental remediation — UPSC Environment",
-   "source": "MiningWrap",
-   "source_url": "https://miningwrap.co.za/articles/rio-tinto-commits-250-million-to-address-panguna-mine-legacy-in-bougainville",
-   "genuineness": "verified",
-   "outlets": [
-    "Reuters",
-    "The Guardian",
-    "MiningWrap"
-   ],
-   "image": null,
-   "image_credit": null
   },
   {
    "id": "world-20261119-2022-01",
@@ -159,24 +179,6 @@
     "Reuters",
     "Malay Mail",
     "IndonesiaNow"
-   ],
-   "image": null,
-   "image_credit": null
-  },
-  {
-   "id": "world-20261119-1922-01",
-   "published_ist": "2026-11-17T23:20:00+05:30",
-   "headline": "NASA ka Terra satellite 1 December ko band",
-   "detail": "27 saal baad NASA ka Terra satellite 1 December 2026 se vigyan data lena band kar dega; January 2027 me iske saare system band honge.",
-   "category": "World",
-   "exam_angle": "Earth observation satellites, remote sensing — UPSC Science & Tech",
-   "source": "NASA Science",
-   "source_url": "https://science.nasa.gov/blogs/science-news/2026/11/17/nasas-terra-mission-to-end/",
-   "genuineness": "verified",
-   "outlets": [
-    "NASA Science",
-    "GeekRadar",
-    "UrduPoint"
    ],
    "image": null,
    "image_credit": null
