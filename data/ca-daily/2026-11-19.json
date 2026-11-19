@@ -142,6 +142,76 @@
     ],
     "answer_index": 1
    }
+  },
+  {
+   "episode": 139,
+   "video_hi": "GUMZf_Q1zUs",
+   "video_hinglish": "GUMZf_Q1zUs",
+   "capsules": [
+    {
+     "id": "ca-ep139-s1",
+     "headline_hi": "Chakravaat Akvan: Odisha mein bada bachav",
+     "headline_hinglish": "Chakravaat Akvan: Odisha mein bada bachav",
+     "detail_hi": "Odisha mein chakravaat Akvan se pehle lagbhag pachas hazaar log surakshit sthanon par pahunche.",
+     "detail_hinglish": "Odisha mein chakravaat Akvan se pehle lagbhag pachas hazaar log surakshit sthanon par pahunche.",
+     "category_hi": "Environment",
+     "category_en": "Environment"
+    },
+    {
+     "id": "ca-ep139-s2",
+     "headline_hi": "Shenzhen mein Trump, Xi aur Putin ki baithak",
+     "headline_hinglish": "Shenzhen mein Trump, Xi aur Putin ki baithak",
+     "detail_hi": "America, China aur Russia ke neta Shenzhen mein durlabh tri-pakshiya shikhar sammelan mein mile.",
+     "detail_hinglish": "America, China aur Russia ke neta Shenzhen mein durlabh tri-pakshiya shikhar sammelan mein mile.",
+     "category_hi": "International",
+     "category_en": "National"
+    },
+    {
+     "id": "ca-ep139-s3",
+     "headline_hi": "Gaganyaan G1: December mein pehli bina-chalak udaan",
+     "headline_hinglish": "Gaganyaan G1: December mein pehli bina-chalak udaan",
+     "detail_hi": "ISRO ki pehli bina-chalak kakshiya udaan December mein hogi, robot Vyommitra sawaar hoga.",
+     "detail_hinglish": "ISRO ki pehli bina-chalak kakshiya udaan December mein hogi, robot Vyommitra sawaar hoga.",
+     "category_hi": "Science",
+     "category_en": "National"
+    },
+    {
+     "id": "ca-ep139-s4",
+     "headline_hi": "EPFO: unchi pension par ek lakh crore kharch",
+     "headline_hinglish": "EPFO: unchi pension par ek lakh crore kharch",
+     "detail_hi": "EPFO ne kaha chaar lakh pachtalis hazaar avedakon ko unchi pension dene mein ek lakh crore se zyada lagega.",
+     "detail_hinglish": "EPFO ne kaha chaar lakh pachtalis hazaar avedakon ko unchi pension dene mein ek lakh crore se zyada lagega.",
+     "category_hi": "Economy",
+     "category_en": "Economy"
+    },
+    {
+     "id": "ca-ep139-s5",
+     "headline_hi": "NEET paper leak: pachchis November se mukadma",
+     "headline_hinglish": "NEET paper leak: pachchis November se mukadma",
+     "detail_hi": "Fast-track court ne aarop tay karne ka adesh diya, NEET paper leak ka mukadma pachchis November se shuru hoga.",
+     "detail_hinglish": "Fast-track court ne aarop tay karne ka adesh diya, NEET paper leak ka mukadma pachchis November se shuru hoga.",
+     "category_hi": "Education",
+     "category_en": "Education"
+    }
+   ],
+   "mcq": {
+    "id": "ca-ep139-mcq",
+    "q_hi": "Gaganyaan ki pehli bina-chalak udaan mein kaun sa robot sawaar hoga?",
+    "q_hinglish": "Gaganyaan ki pehli bina-chalak udaan mein kaun sa robot sawaar hoga?",
+    "options_hi": [
+     "Pragyan",
+     "Vikram",
+     "Vyommitra",
+     "Aditya"
+    ],
+    "options_hinglish": [
+     "Pragyan",
+     "Vikram",
+     "Vyommitra",
+     "Aditya"
+    ],
+    "answer_index": 2
+   }
   }
  ]
 }
