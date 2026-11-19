@@ -1,6 +1,62 @@
 {
- "updated_ist": "2026-11-19T07:27:21+05:30",
+ "updated_ist": "2026-11-19T08:25:22+05:30",
  "items": [
+  {
+   "id": "world-20261119-0822-01",
+   "published_ist": "2026-11-19T05:35:00+05:30",
+   "headline": "Anthropic ka $83 IPO, sabse bada tech listing",
+   "detail": "AI company Anthropic ne apna IPO $83 prati share par tay kiya; 980 million share se $81.3 arab juta — ab tak ka sabse bada tech IPO, aaj Nasdaq par ANT ticker se trading shuru hogi.",
+   "category": "World",
+   "exam_angle": "IPO aur AI company ka pehla bada public listing — UPSC ke liye upyogi.",
+   "source": "Fast Company",
+   "source_url": "https://www.fastcompany.com/91644956/ant-stock-live-anthropic-trading-time-date-ipo-share-price",
+   "genuineness": "verified",
+   "outlets": [
+    "Bloomberg",
+    "Reuters",
+    "Fast Company",
+    "PitchBook"
+   ],
+   "image": null,
+   "image_credit": null
+  },
+  {
+   "id": "world-20261119-0822-02",
+   "published_ist": "2026-11-19T04:15:00+05:30",
+   "headline": "Iran ne Kuwait-Bahrain me US thikano par hamla",
+   "detail": "Iran ke drone ne Kuwait ke Ali Al-Salem air base aur Bahrain me US sainya thikano ko nishana banaya; dono deshon ne hamle roke, koi nuksan ya hatahat ki khabar nahi.",
+   "category": "World",
+   "exam_angle": "Khadi me US sainya adde aur America-Iran tanav — UPSC ke liye mahatvapurna.",
+   "source": "Gulf News",
+   "source_url": "https://gulfnews.com/amp/story/world%2Fmena%2Firan-fires-on-us-airbase-in-kuwait-several-times-at-bahrain-1.500752840",
+   "genuineness": "verified",
+   "outlets": [
+    "Associated Press",
+    "AFP",
+    "China Daily"
+   ],
+   "image": null,
+   "image_credit": null
+  },
+  {
+   "id": "world-20261119-0822-03",
+   "published_ist": "2026-11-18T17:32:00+05:30",
+   "headline": "Uttar Korea ne Yongbyon samvardhan sanyantra badhaya",
+   "detail": "IAEA pramukh Grossi ne kaha Uttar Korea ne Yongbyon parmanu parisar me uranium samvardhan sanyantra ka aur vistaar kar liya hai; vistaar October ke ant tak bahari roop se poora ho gaya tha.",
+   "category": "World",
+   "exam_angle": "Uttar Korea ka parmanu karyakram aur IAEA ki bhoomika — UPSC ke liye mahatvapurna.",
+   "source": "Reuters",
+   "source_url": "https://www.reuters.com/world/china/iaea-says-north-korea-is-expanding-uranium-enrichment-plant-yongbyon-2026-11-18/",
+   "genuineness": "verified",
+   "outlets": [
+    "Reuters",
+    "The Korea Times",
+    "The Jerusalem Post",
+    "Al Arabiya"
+   ],
+   "image": null,
+   "image_credit": null
+  },
   {
    "id": "world-20261119-0722-01",
    "published_ist": "2026-11-18T22:52:00+05:30",
@@ -393,60 +449,6 @@
     "Dawn",
     "Gulf News",
     "WAM"
-   ],
-   "image": null,
-   "image_credit": null
-  },
-  {
-   "id": "world-20261118-2022-01",
-   "published_ist": "2026-11-18T12:12:00+05:30",
-   "headline": "Red Cross: swayatt hathiyaron par niyam banao",
-   "detail": "Geneva me UN bahas ke beech Red Cross ne swayatt hathiyaron par turant kanuni niyam ki maang ki; America, Russia aur Israel bandhan wale samjhote ke khilaf hain.",
-   "category": "World",
-   "exam_angle": "Swayatt hathiyar, CCW aur manavtavadi kanoon — UPSC ke liye mahatvapurna.",
-   "source": "Malay Mail",
-   "source_url": "https://www.malaymail.com/news/world/2026/11/18/red-cross-urges-rules-on-autonomous-weapons-as-un-debate-opens/243732",
-   "genuineness": "verified",
-   "outlets": [
-    "Malay Mail",
-    "NPR Illinois",
-    "Reuters"
-   ],
-   "image": null,
-   "image_credit": null
-  },
-  {
-   "id": "world-20261118-1822-04",
-   "published_ist": "2026-11-18T12:10:00+05:30",
-   "headline": "Etihad, flydubai ne Saudi udanein aur radd ki",
-   "detail": "Etihad ne Riyadh-Dammam udanein 30 November tak aur flydubai ne Riyadh-Abha udanein 27 November tak radd kar di; EASA ne Khadi ki udaan chetavni 31 January 2027 tak badha di.",
-   "category": "World",
-   "exam_angle": "Khadi tanav aur nagrik uddayan suraksha — UPSC ke liye upyogi.",
-   "source": "Gulf News",
-   "source_url": "https://gulfnews.com/amp/story/world%2Fgulf%2Fsaudi%2Fuae-flights-status-update-etihad-flydubai-extend-saudi-cancellations-as-gulf-attacks-escalate-on-november-18-1.500751819",
-   "genuineness": "verified",
-   "outlets": [
-    "Gulf News",
-    "ARN News",
-    "Arabian Business"
-   ],
-   "image": null,
-   "image_credit": null
-  },
-  {
-   "id": "world-20261118-1522-02",
-   "published_ist": "2026-11-18T11:57:00+05:30",
-   "headline": "Sona ek saal ke sabse neeche",
-   "detail": "Sona lagbhag 2% girkar $3,778 prati ounce par aa gaya — September 2025 ke baad sabse neeche; mazboot dollar aur Fed ke byaaj badhane ki aashanka wajah bani.",
-   "category": "World",
-   "exam_angle": "Sona, dollar aur Fed ki neeti — UPSC ke liye upyogi.",
-   "source": "The Hindu BusinessLine",
-   "source_url": "https://www.thehindubusinessline.com/markets/gold/gold-prices-fall-nearly-2-to-one-year-low-as-dollar-strengthens/article71714840.ece",
-   "genuineness": "verified",
-   "outlets": [
-    "Reuters",
-    "The Hindu BusinessLine",
-    "The Economic Times"
    ],
    "image": null,
    "image_credit": null
