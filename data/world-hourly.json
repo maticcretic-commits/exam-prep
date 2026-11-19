@@ -1,6 +1,78 @@
 {
- "updated_ist": "2026-11-19T20:31:30+05:30",
+ "updated_ist": "2026-11-19T21:26:45+05:30",
  "items": [
+  {
+   "id": "world-20261119-2122-01",
+   "published_ist": "2026-11-19T16:36:00+05:30",
+   "headline": "Hormuz me 2 tanker surang se takraye",
+   "detail": "IRGC ke dawe ke mutabik Hormuz me 2 supertanker samudri surang se takra kar jalne lage; dawa abhi swatantra roop se verify nahi hua hai.",
+   "category": "World",
+   "exam_angle": "Strait of Hormuz, oil shipping — UPSC IR/Geography",
+   "source": "IRNA",
+   "source_url": "https://en.irna.ir/news/86326732/Two-more-violating-supertankers-catch-fire-in-Strait-of-Hormuz",
+   "genuineness": "verified",
+   "outlets": [
+    "IRNA",
+    "Al Arabiya",
+    "Press TV"
+   ],
+   "image": null,
+   "image_credit": null
+  },
+  {
+   "id": "world-20261119-2122-02",
+   "published_ist": "2026-11-18T22:52:00+05:30",
+   "headline": "Kumamoto me 5.7 ka bhukamp, 2 ghayal",
+   "detail": "Japan ke Kumamoto me subah 2:22 baje 5.7 magnitude ka bhukamp aaya; 2 log ghayal hue aur tsunami ka koi khatra nahi hai.",
+   "category": "World",
+   "exam_angle": "Earthquakes, seismic zones — UPSC Geography/Disaster Management",
+   "source": "NHK",
+   "source_url": "https://www3.nhk.or.jp/nhkworld/news/20261119de78099/",
+   "genuineness": "verified",
+   "outlets": [
+    "NHK",
+    "Jiji Press",
+    "Kyodo News"
+   ],
+   "image": null,
+   "image_credit": null
+  },
+  {
+   "id": "world-20261119-2122-03",
+   "published_ist": "2026-11-18T15:46:00+05:30",
+   "headline": "Voyager 1 ek light-day door, pehli manav-nirmit vastu",
+   "detail": "18 November ko Voyager 1 Prithvi se ek light-day door pahuncha — lagbhag 25.9 arab km; ab is tak sandesh pahunchne me 24 ghante lagenge.",
+   "category": "World",
+   "exam_angle": "Deep space, interstellar exploration — UPSC Science & Tech",
+   "source": "The Hindu",
+   "source_url": "https://www.thehindu.com/sci-tech/science/nasa-voyager-1-probe-believed-to-have-reached-light-day-milestone/article71715503.ece",
+   "genuineness": "verified",
+   "outlets": [
+    "The Hindu",
+    "Smithsonian Magazine",
+    "Down To Earth"
+   ],
+   "image": "../images/world/world-20261119-2122-03.jpg",
+   "image_credit": "NASA (Wikimedia Commons, public domain)"
+  },
+  {
+   "id": "world-20261119-2122-04",
+   "published_ist": "2026-11-17T16:58:00+05:30",
+   "headline": "Rio Tinto dega Panguna ke liye $250 million",
+   "detail": "Rio Tinto ne Papua New Guinea ki band Panguna khadan se hue paryavaran nuksan ke liye $250 million ka fund dene ka elan kiya.",
+   "category": "World",
+   "exam_angle": "Mining, environmental remediation — UPSC Environment",
+   "source": "MiningWrap",
+   "source_url": "https://miningwrap.co.za/articles/rio-tinto-commits-250-million-to-address-panguna-mine-legacy-in-bougainville",
+   "genuineness": "verified",
+   "outlets": [
+    "Reuters",
+    "The Guardian",
+    "MiningWrap"
+   ],
+   "image": null,
+   "image_credit": null
+  },
   {
    "id": "world-20261119-2022-01",
    "published_ist": "2026-11-19T16:50:00+05:30",
@@ -365,85 +437,6 @@
     "Reuters",
     "The Hindu",
     "CNN"
-   ],
-   "image": null,
-   "image_credit": null
-  },
-  {
-   "id": "world-20261119-1222-01",
-   "published_ist": "2026-11-19T09:11:00+05:30",
-   "headline": "Van Gogh ki painting $190.4 million me biki",
-   "detail": "Sotheby's New York me Van Gogh ki 1890 ki 'Chataigniers en fleurs' $190.4 million me biki — kalakar ka ab tak ka sabse bada nilami record; Nazi kaal ke malikana vivad par samjhauta hua tha.",
-   "category": "World",
-   "exam_angle": "Nilami record aur sanskritik sampatti ka vivad — UPSC ke liye upyogi.",
-   "source": "Reuters",
-   "source_url": "https://www.reuters.com/lifestyle/van-goghs-chataigniers-en-fleurs-sells-auction-record-1904-million-2026-11-19/",
-   "genuineness": "verified",
-   "outlets": [
-    "Reuters",
-    "The National",
-    "BBC",
-    "The Wall Street Journal",
-    "Le Temps"
-   ],
-   "image": "../images/world/world-20261119-1222-01.jpg",
-   "image_credit": "Vincent van Gogh (Public domain, Wikimedia Commons)"
-  },
-  {
-   "id": "world-20261119-1122-01",
-   "published_ist": "2026-11-19T07:52:00+05:30",
-   "headline": "Trump Iran par naye hamle par vichar",
-   "detail": "New York Times ki report ke mutabik Rashtrapati Trump Iran par naye bade hamlo par vichar kar rahe hain; Netanyahu chaar se saat din ke sanyukt hawai abhiyan ke liye dabav bana rahe hain, lekin abhi koi faisla nahi hua.",
-   "category": "World",
-   "exam_angle": "America-Iran tanav aur Hormuz: UPSC ke liye mahatvapurna.",
-   "source": "The Jerusalem Post",
-   "source_url": "https://www.jpost.com/international/article-915391",
-   "genuineness": "verified",
-   "outlets": [
-    "The New York Times",
-    "The Jerusalem Post",
-    "Ynet",
-    "Times of Israel",
-    "Israel Hayom"
-   ],
-   "image": "../images/world/world-20261119-1122-01.jpg",
-   "image_credit": "The Jerusalem Post"
-  },
-  {
-   "id": "world-20261119-1222-02",
-   "published_ist": "2026-11-19T07:38:00+05:30",
-   "headline": "Peltola ne Alaska Senate seat jeeti",
-   "detail": "Democrat Mary Peltola ne Alaska Senate chunav me Republican Dan Sullivan ko haraya; unki jeet se Senate me Democrats ki sankhya 56 ho gayi, aur ve Senate pahunchne wali pehli Alaska Native bani.",
-   "category": "World",
-   "exam_angle": "America ke midterm natije aur ranked-choice voting — UPSC ke liye mahatvapurna.",
-   "source": "Al Jazeera",
-   "source_url": "https://www.aljazeera.com/news/2026/11/18/why-democrat-mary-peltolas-us-senate-win-in-alaska-matters?traffic_source=rss",
-   "genuineness": "verified",
-   "outlets": [
-    "Associated Press",
-    "Al Jazeera",
-    "Nikkei Asia",
-    "The Times of India",
-    "Democracy Docket"
-   ],
-   "image": "../images/world/world-20261119-1222-02.jpg",
-   "image_credit": "Leah Herman / U.S. House of Representatives (Public domain, Wikimedia Commons)"
-  },
-  {
-   "id": "world-20261119-1422-02",
-   "published_ist": "2026-11-19T06:13:00+05:30",
-   "headline": "Gaza Yellow Line paar Israel ka ground operation",
-   "detail": "Israeli tank budhvar ko Gaza me yuddhaviram rekha Yellow Line ke paar Nuseirat-Bureij ke paas pahunche, October 2025 ke yuddhaviram ke baad pehli baar; sena ne ise surang dhwast karne ki karvai bataya, Hamas ne ullanghan kaha.",
-   "category": "World",
-   "exam_angle": "Yellow Line: Gaza yuddhaviram ke tahat Israel-Hamas niyantran rekha.",
-   "source": "Rappler",
-   "source_url": "https://www.rappler.com/world/middle-east/dozens-flee-israel-launches-rare-ground-operation-central-gaza-november-2026/",
-   "genuineness": "verified",
-   "outlets": [
-    "Reuters",
-    "Rappler",
-    "DD India",
-    "BBC"
    ],
    "image": null,
    "image_credit": null
