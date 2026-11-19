@@ -126,6 +126,62 @@
    ],
    "image": "../images/world/world-20261119-0722-02.jpg",
    "image_credit": "Arab News"
+  },
+  {
+   "id": "world-20261119-0822-01",
+   "published_ist": "2026-11-19T05:35:00+05:30",
+   "headline": "Anthropic ka $83 IPO, sabse bada tech listing",
+   "detail": "AI company Anthropic ne apna IPO $83 prati share par tay kiya; 980 million share se $81.3 arab juta — ab tak ka sabse bada tech IPO, aaj Nasdaq par ANT ticker se trading shuru hogi.",
+   "category": "World",
+   "exam_angle": "IPO aur AI company ka pehla bada public listing — UPSC ke liye upyogi.",
+   "source": "Fast Company",
+   "source_url": "https://www.fastcompany.com/91644956/ant-stock-live-anthropic-trading-time-date-ipo-share-price",
+   "genuineness": "verified",
+   "outlets": [
+    "Bloomberg",
+    "Reuters",
+    "Fast Company",
+    "PitchBook"
+   ],
+   "image": null,
+   "image_credit": null
+  },
+  {
+   "id": "world-20261119-0822-02",
+   "published_ist": "2026-11-19T04:15:00+05:30",
+   "headline": "Iran ne Kuwait-Bahrain me US thikano par hamla",
+   "detail": "Iran ke drone ne Kuwait ke Ali Al-Salem air base aur Bahrain me US sainya thikano ko nishana banaya; dono deshon ne hamle roke, koi nuksan ya hatahat ki khabar nahi.",
+   "category": "World",
+   "exam_angle": "Khadi me US sainya adde aur America-Iran tanav — UPSC ke liye mahatvapurna.",
+   "source": "Gulf News",
+   "source_url": "https://gulfnews.com/amp/story/world%2Fmena%2Firan-fires-on-us-airbase-in-kuwait-several-times-at-bahrain-1.500752840",
+   "genuineness": "verified",
+   "outlets": [
+    "Associated Press",
+    "AFP",
+    "China Daily"
+   ],
+   "image": null,
+   "image_credit": null
+  },
+  {
+   "id": "world-20261119-0822-03",
+   "published_ist": "2026-11-18T17:32:00+05:30",
+   "headline": "Uttar Korea ne Yongbyon samvardhan sanyantra badhaya",
+   "detail": "IAEA pramukh Grossi ne kaha Uttar Korea ne Yongbyon parmanu parisar me uranium samvardhan sanyantra ka aur vistaar kar liya hai; vistaar October ke ant tak bahari roop se poora ho gaya tha.",
+   "category": "World",
+   "exam_angle": "Uttar Korea ka parmanu karyakram aur IAEA ki bhoomika — UPSC ke liye mahatvapurna.",
+   "source": "Reuters",
+   "source_url": "https://www.reuters.com/world/china/iaea-says-north-korea-is-expanding-uranium-enrichment-plant-yongbyon-2026-11-18/",
+   "genuineness": "verified",
+   "outlets": [
+    "Reuters",
+    "The Korea Times",
+    "The Jerusalem Post",
+    "Al Arabiya"
+   ],
+   "image": null,
+   "image_credit": null
   }
  ]
 }
