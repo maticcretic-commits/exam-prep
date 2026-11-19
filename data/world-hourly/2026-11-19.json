@@ -238,6 +238,80 @@
    ],
    "image": "../images/world/world-20261119-0922-03.jpg",
    "image_credit": "The Straits Times"
+  },
+  {
+   "id": "world-20261119-1022-01",
+   "published_ist": "2026-11-19T07:40:00+05:30",
+   "headline": "Aaj ICJ Rohingya par faisla sunayega",
+   "detail": "Antarrashtriya Nyayalaya aaj The Hague me Gambia ke 2019 ke mukadme par faisla sunayega — kya Myanmar ne 2017 me Rohingya ke khilaf narsanhar kiya; faisla IST dopahar 2:30 se padha jayega.",
+   "category": "World",
+   "exam_angle": "ICJ aur 1948 Narsanhar Samjhauta — UPSC ke liye mahatvapurna.",
+   "source": "Al Jazeera",
+   "source_url": "https://www.aljazeera.com/news/2026/11/19/icj-to-rule-on-rohingya-genocide-case-against-myanmar",
+   "genuineness": "corroborated",
+   "outlets": [
+    "Al Jazeera",
+    "Reuters"
+   ],
+   "image": "../images/world/world-20261119-1022-01.jpg",
+   "image_credit": "Al Jazeera"
+  },
+  {
+   "id": "world-20261119-1022-02",
+   "published_ist": "2026-11-19T04:30:00+05:30",
+   "headline": "NSA outage se Middle East khufiya kaam thappa",
+   "detail": "America ki National Security Agency ke network me do din se chal rahi gadbad se Georgia kendra me Middle East par khufiya kaam ruk gaya; NSANet band hua, lekin sabse samvedansheel pranaliyan chal rahi hain aur cyber hamle ki baat nahi hai.",
+   "category": "World",
+   "exam_angle": "America ki khufiya sanrachna aur cyber suraksha — UPSC ke liye upyogi.",
+   "source": "CNN",
+   "source_url": "https://www.cnn.com/2026/11/18/politics/nsa-outage-disrupts-georgia-intel-hub-middle-east-intelligence?cid=external-feeds_iluminar_meta",
+   "genuineness": "corroborated",
+   "outlets": [
+    "CNN",
+    "The Jerusalem Post",
+    "WION",
+    "News18"
+   ],
+   "image": null,
+   "image_credit": null
+  },
+  {
+   "id": "world-20261119-1022-03",
+   "published_ist": "2026-11-19T02:31:00+05:30",
+   "headline": "America-Venezuela sainya saajhedari ka samjhota",
+   "detail": "America ke raksha mantri Pete Hegseth ne Caracas ki achanak yatra me Venezuela ke saath sainya sahyog ka samjhota kiya; sanyukt prashikshan aur khufiya jaankari sajha karenge, antaram rashtrapati Delcy Rodriguez se bhi mile.",
+   "category": "World",
+   "exam_angle": "Venezuela me January me Maduro ko hatane ke baad America ka badhta prabhav — UPSC ke liye mahatvapurna.",
+   "source": "Al Jazeera",
+   "source_url": "https://www.aljazeera.com/news/2026/11/18/us-defence-secretary-announces-military-partnership-on-trip-to-venezuela",
+   "genuineness": "verified",
+   "outlets": [
+    "Al Jazeera",
+    "CNN",
+    "Reuters",
+    "The Times"
+   ],
+   "image": "../images/world/world-20261119-1022-03.jpg",
+   "image_credit": "Al Jazeera"
+  },
+  {
+   "id": "world-20261119-1022-04",
+   "published_ist": "2026-11-18T16:23:00+05:30",
+   "headline": "Hasina ki vapsi par Bangladesh me ashanti",
+   "detail": "Bangladesh ne poorv PM Sheikh Hasina ki December me vapsi ki yojana ke beech hinsa badhne par desh bhar me saikadon ardh-sainik bal tainat kiye; pichle 10 din me 28 jilon me bomb aur aagjani ki ghatnayein hui hain.",
+   "category": "World",
+   "exam_angle": "Bangladesh ki rajneeti aur Sheikh Hasina — UPSC ke liye mahatvapurna.",
+   "source": "Reuters",
+   "source_url": "https://www.reuters.com/world/asia-pacific/bangladesh-deploys-paramilitary-unrest-grows-over-hasinas-return-2026-11-18/",
+   "genuineness": "verified",
+   "outlets": [
+    "Reuters",
+    "Dawn",
+    "The Times of India",
+    "The Straits Times"
+   ],
+   "image": "../images/world/world-20261119-1022-04.jpg",
+   "image_credit": "The Times of India"
   }
  ]
 }
