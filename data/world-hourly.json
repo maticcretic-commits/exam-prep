@@ -1,6 +1,26 @@
 {
- "updated_ist": "2026-11-19T10:26:08+05:30",
+ "updated_ist": "2026-11-19T11:24:30+05:30",
  "items": [
+  {
+   "id": "world-20261119-1122-01",
+   "published_ist": "2026-11-19T07:52:00+05:30",
+   "headline": "Trump Iran par naye hamle par vichar",
+   "detail": "New York Times ki report ke mutabik Rashtrapati Trump Iran par naye bade hamlo par vichar kar rahe hain; Netanyahu chaar se saat din ke sanyukt hawai abhiyan ke liye dabav bana rahe hain, lekin abhi koi faisla nahi hua.",
+   "category": "World",
+   "exam_angle": "America-Iran tanav aur Hormuz: UPSC ke liye mahatvapurna.",
+   "source": "The Jerusalem Post",
+   "source_url": "https://www.jpost.com/international/article-915391",
+   "genuineness": "verified",
+   "outlets": [
+    "The New York Times",
+    "The Jerusalem Post",
+    "Ynet",
+    "Times of Israel",
+    "Israel Hayom"
+   ],
+   "image": "../images/world/world-20261119-1122-01.jpg",
+   "image_credit": "The Jerusalem Post"
+  },
   {
    "id": "world-20261119-1022-01",
    "published_ist": "2026-11-19T07:40:00+05:30",
@@ -184,6 +204,25 @@
    ],
    "image": "../images/world/world-20261119-0922-01.jpg",
    "image_credit": "NHK"
+  },
+  {
+   "id": "world-20261119-1122-02",
+   "published_ist": "2026-11-19T00:55:00+05:30",
+   "headline": "Odesa par hamle me chaar mare, 13 ghayal",
+   "detail": "Russia ne Budhvar ko Ukraine ke Odesa shahar ke aitihasik kendra par teen hamle kiye; chaar log mare gaye aur 13 ghayal hue, aur UNESCO-sanrakshit ilake me saat imaraton ki khidkiyan toot gayin.",
+   "category": "World",
+   "exam_angle": "Odesa: Krishna Sagar ka mahatvapurna bandargah aur UNESCO sthal.",
+   "source": "Reuters",
+   "source_url": "https://www.reuters.com/world/europe/russian-attacks-ukrainian-city-odesa-kill-four-officials-say-2026-11-18/",
+   "genuineness": "verified",
+   "outlets": [
+    "Reuters",
+    "Al Jazeera",
+    "Associated Press",
+    "AFP"
+   ],
+   "image": "../images/world/world-20261119-1122-02.jpg",
+   "image_credit": "Al Jazeera"
   },
   {
    "id": "world-20261119-0722-01",
@@ -407,45 +446,6 @@
    ],
    "image": "../images/world/world-20261119-1022-04.jpg",
    "image_credit": "The Times of India"
-  },
-  {
-   "id": "world-20261118-1822-01",
-   "published_ist": "2026-11-18T15:53:00+05:30",
-   "headline": "Australia ne Israeli basne walon par pratibandh lagaye",
-   "detail": "Australia ne West Bank me avaidh basti vistaar aur hinsa par teen Israeli vyaktiyon aur chaar sangathanon par pratibandh lagaye; Britain ne bhi kal aath nirman companiyon par pratibandh lagaye the.",
-   "category": "World",
-   "exam_angle": "West Bank, do-rashtra samadhan aur pratibandh — UPSC ke liye mahatvapurna.",
-   "source": "The Hindu",
-   "source_url": "https://www.thehindu.com/news/international/australia-sanctions-israeli-settlers-organisations-over-west-bank-expansion/article71715383.ece",
-   "genuineness": "verified",
-   "outlets": [
-    "Reuters",
-    "Haaretz",
-    "The Times of Israel",
-    "The Hindu"
-   ],
-   "image": null,
-   "image_credit": null
-  },
-  {
-   "id": "world-20261118-1822-02",
-   "published_ist": "2026-11-18T15:08:00+05:30",
-   "headline": "Peltola ne Alaska Senate seat jeeti",
-   "detail": "Democrat Mary Peltola ne Alaska me Republican Dan Sullivan ko hara diya; Democrats ke Senate me 56 seat ho gaye — 2009 ke baad sabse bada bahumat.",
-   "category": "World",
-   "exam_angle": "America ke midterm chunav aur Senate bahumat — UPSC ke liye mahatvapurna.",
-   "source": "Al Jazeera",
-   "source_url": "https://www.aljazeera.com/news/2026/11/18/why-democrat-mary-peltolas-us-senate-win-in-alaska-matters",
-   "genuineness": "verified",
-   "outlets": [
-    "Al Jazeera",
-    "Reuters",
-    "Haaretz",
-    "Dawn",
-    "Nikkei Asia"
-   ],
-   "image": "../images/world/world-20261118-1822-02.jpg",
-   "image_credit": "Leah Herman, House Creative Services, Wikimedia Commons (Public domain)"
   }
  ]
 }
