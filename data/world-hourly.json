@@ -1,6 +1,23 @@
 {
- "updated_ist": "2026-11-19T12:27:24+05:30",
+ "updated_ist": "2026-11-19T13:22:24+05:30",
  "items": [
+  {
+   "id": "world-20261119-1322-01",
+   "published_ist": "2026-11-19T11:27:04+05:30",
+   "headline": "Khadi desh Iran yuddh rokne me jute",
+   "detail": "Khadi desh, Pakistan aur Turkiye ne America se sampark kar Netanyahu ke Iran par hamle ke dabav ke khilaf yuddh rokne ki koshish tez ki; Mossad pramukh ki America yatra par bhi chinta jatai.",
+   "category": "World",
+   "exam_angle": "Paschim Asia me kootneeti aur Hormuz — UPSC ke liye mahatvapurna.",
+   "source": "AsiaOne",
+   "source_url": "https://www.asiaone.com/asia/mideast-nations-ramp-efforts-avert-all-out-war-israel-urges-iran-strikes-officials-say",
+   "genuineness": "corroborated",
+   "outlets": [
+    "Associated Press",
+    "Reuters"
+   ],
+   "image": "../images/world/world-20261119-1322-01.jpg",
+   "image_credit": "AsiaOne"
+  },
   {
    "id": "world-20261119-1222-01",
    "published_ist": "2026-11-19T09:11:00+05:30",
@@ -208,6 +225,25 @@
    "image_credit": null
   },
   {
+   "id": "world-20261119-1322-02",
+   "published_ist": "2026-11-19T03:04:27+05:30",
+   "headline": "Google ne Gemini 4 Neon launch kiya",
+   "detail": "Google ne 18 November ko Gemini 4 Neon model launch kiya — coding aur science kaam ke liye tez frontier model; API keemat $3 prati million input token, 1 million token context window.",
+   "category": "World",
+   "exam_angle": "AI models aur unki keemat — UPSC science-tech ke liye upyogi.",
+   "source": "Google",
+   "source_url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-4-neon/",
+   "genuineness": "verified",
+   "outlets": [
+    "Google",
+    "9to5Google",
+    "VentureBeat",
+    "TalkAndroid"
+   ],
+   "image": null,
+   "image_credit": null
+  },
+  {
    "id": "world-20261119-1022-03",
    "published_ist": "2026-11-19T02:31:00+05:30",
    "headline": "America-Venezuela sainya saajhedari ka samjhota",
@@ -410,44 +446,6 @@
     "Nikkei Asia",
     "The Jerusalem Post",
     "New York Post"
-   ],
-   "image": null,
-   "image_credit": null
-  },
-  {
-   "id": "world-20261119-0630-04",
-   "published_ist": "2026-11-18T17:33:00+05:30",
-   "headline": "Israel ka Gaza me naya bhumi abhiyan",
-   "detail": "Israel ne October 2025 yuddhaviram ke baad pehli baar madhya Gaza me Yellow Line ke paschim me bhumi karvai shuru ki; Bureij-Nuseirat ke logon ko ilaka khali karne ko kaha gaya.",
-   "category": "World",
-   "exam_angle": "Gaza yuddhaviram (Oct 2025) aur Board of Peace ki bhoomika.",
-   "source": "Al Jazeera",
-   "source_url": "https://www.aljazeera.com/amp/news/2026/11/18/what-does-israels-new-ground-offensive-mean-for-palestinians-in-gaza",
-   "genuineness": "verified",
-   "outlets": [
-    "Al Jazeera",
-    "Times of Israel",
-    "Haaretz",
-    "Reuters"
-   ],
-   "image": null,
-   "image_credit": null
-  },
-  {
-   "id": "world-20261119-0822-03",
-   "published_ist": "2026-11-18T17:32:00+05:30",
-   "headline": "Uttar Korea ne Yongbyon samvardhan sanyantra badhaya",
-   "detail": "IAEA pramukh Grossi ne kaha Uttar Korea ne Yongbyon parmanu parisar me uranium samvardhan sanyantra ka aur vistaar kar liya hai; vistaar October ke ant tak bahari roop se poora ho gaya tha.",
-   "category": "World",
-   "exam_angle": "Uttar Korea ka parmanu karyakram aur IAEA ki bhoomika — UPSC ke liye mahatvapurna.",
-   "source": "Reuters",
-   "source_url": "https://www.reuters.com/world/china/iaea-says-north-korea-is-expanding-uranium-enrichment-plant-yongbyon-2026-11-18/",
-   "genuineness": "verified",
-   "outlets": [
-    "Reuters",
-    "The Korea Times",
-    "The Jerusalem Post",
-    "Al Arabiya"
    ],
    "image": null,
    "image_credit": null
