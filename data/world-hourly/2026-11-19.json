@@ -411,6 +411,42 @@
    ],
    "image": "../images/world/world-20261119-1222-03.jpg",
    "image_credit": "Dllu (CC BY 4.0, Wikimedia Commons)"
+  },
+  {
+   "id": "world-20261119-1322-01",
+   "published_ist": "2026-11-19T11:27:04+05:30",
+   "headline": "Khadi desh Iran yuddh rokne me jute",
+   "detail": "Khadi desh, Pakistan aur Turkiye ne America se sampark kar Netanyahu ke Iran par hamle ke dabav ke khilaf yuddh rokne ki koshish tez ki; Mossad pramukh ki America yatra par bhi chinta jatai.",
+   "category": "World",
+   "exam_angle": "Paschim Asia me kootneeti aur Hormuz — UPSC ke liye mahatvapurna.",
+   "source": "AsiaOne",
+   "source_url": "https://www.asiaone.com/asia/mideast-nations-ramp-efforts-avert-all-out-war-israel-urges-iran-strikes-officials-say",
+   "genuineness": "corroborated",
+   "outlets": [
+    "Associated Press",
+    "Reuters"
+   ],
+   "image": "../images/world/world-20261119-1322-01.jpg",
+   "image_credit": "AsiaOne"
+  },
+  {
+   "id": "world-20261119-1322-02",
+   "published_ist": "2026-11-19T03:04:27+05:30",
+   "headline": "Google ne Gemini 4 Neon launch kiya",
+   "detail": "Google ne 18 November ko Gemini 4 Neon model launch kiya — coding aur science kaam ke liye tez frontier model; API keemat $3 prati million input token, 1 million token context window.",
+   "category": "World",
+   "exam_angle": "AI models aur unki keemat — UPSC science-tech ke liye upyogi.",
+   "source": "Google",
+   "source_url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-4-neon/",
+   "genuineness": "verified",
+   "outlets": [
+    "Google",
+    "9to5Google",
+    "VentureBeat",
+    "TalkAndroid"
+   ],
+   "image": null,
+   "image_credit": null
   }
  ]
 }
