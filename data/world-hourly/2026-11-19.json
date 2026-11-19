@@ -892,6 +892,78 @@
    ],
    "image": null,
    "image_credit": null
+  },
+  {
+   "id": "world-20261119-2122-01",
+   "published_ist": "2026-11-19T16:36:00+05:30",
+   "headline": "Hormuz me 2 tanker surang se takraye",
+   "detail": "IRGC ke dawe ke mutabik Hormuz me 2 supertanker samudri surang se takra kar jalne lage; dawa abhi swatantra roop se verify nahi hua hai.",
+   "category": "World",
+   "exam_angle": "Strait of Hormuz, oil shipping — UPSC IR/Geography",
+   "source": "IRNA",
+   "source_url": "https://en.irna.ir/news/86326732/Two-more-violating-supertankers-catch-fire-in-Strait-of-Hormuz",
+   "genuineness": "verified",
+   "outlets": [
+    "IRNA",
+    "Al Arabiya",
+    "Press TV"
+   ],
+   "image": null,
+   "image_credit": null
+  },
+  {
+   "id": "world-20261119-2122-02",
+   "published_ist": "2026-11-18T22:52:00+05:30",
+   "headline": "Kumamoto me 5.7 ka bhukamp, 2 ghayal",
+   "detail": "Japan ke Kumamoto me subah 2:22 baje 5.7 magnitude ka bhukamp aaya; 2 log ghayal hue aur tsunami ka koi khatra nahi hai.",
+   "category": "World",
+   "exam_angle": "Earthquakes, seismic zones — UPSC Geography/Disaster Management",
+   "source": "NHK",
+   "source_url": "https://www3.nhk.or.jp/nhkworld/news/20261119de78099/",
+   "genuineness": "verified",
+   "outlets": [
+    "NHK",
+    "Jiji Press",
+    "Kyodo News"
+   ],
+   "image": null,
+   "image_credit": null
+  },
+  {
+   "id": "world-20261119-2122-03",
+   "published_ist": "2026-11-18T15:46:00+05:30",
+   "headline": "Voyager 1 ek light-day door, pehli manav-nirmit vastu",
+   "detail": "18 November ko Voyager 1 Prithvi se ek light-day door pahuncha — lagbhag 25.9 arab km; ab is tak sandesh pahunchne me 24 ghante lagenge.",
+   "category": "World",
+   "exam_angle": "Deep space, interstellar exploration — UPSC Science & Tech",
+   "source": "The Hindu",
+   "source_url": "https://www.thehindu.com/sci-tech/science/nasa-voyager-1-probe-believed-to-have-reached-light-day-milestone/article71715503.ece",
+   "genuineness": "verified",
+   "outlets": [
+    "The Hindu",
+    "Smithsonian Magazine",
+    "Down To Earth"
+   ],
+   "image": "../images/world/world-20261119-2122-03.jpg",
+   "image_credit": "NASA (Wikimedia Commons, public domain)"
+  },
+  {
+   "id": "world-20261119-2122-04",
+   "published_ist": "2026-11-17T16:58:00+05:30",
+   "headline": "Rio Tinto dega Panguna ke liye $250 million",
+   "detail": "Rio Tinto ne Papua New Guinea ki band Panguna khadan se hue paryavaran nuksan ke liye $250 million ka fund dene ka elan kiya.",
+   "category": "World",
+   "exam_angle": "Mining, environmental remediation — UPSC Environment",
+   "source": "MiningWrap",
+   "source_url": "https://miningwrap.co.za/articles/rio-tinto-commits-250-million-to-address-panguna-mine-legacy-in-bougainville",
+   "genuineness": "verified",
+   "outlets": [
+    "Reuters",
+    "The Guardian",
+    "MiningWrap"
+   ],
+   "image": null,
+   "image_credit": null
   }
  ]
 }
