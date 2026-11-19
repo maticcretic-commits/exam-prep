@@ -447,6 +447,63 @@
    ],
    "image": null,
    "image_credit": null
+  },
+  {
+   "id": "world-20261119-1422-01",
+   "published_ist": "2026-11-19T13:14:00+05:30",
+   "headline": "Riyadh me Houthi hamle se PIF Tower kshatigrast",
+   "detail": "Houthi missile ke khatre se nipatne ke dauran Riyadh ke King Abdullah Financial District me sthit 80-manzila PIF Tower ki facade kai manzilon par kshatigrast hui; Saudi gathbandhan ne malbe se nuksan ki pushti ki.",
+   "category": "World",
+   "exam_angle": "PIF: Saudi Arabia ka sovereign wealth fund; KAFD Riyadh ka vittiya jila.",
+   "source": "Gulf Today",
+   "source_url": "https://www.gulftoday.ae/news/2026/11/19/riyadh-skyscraper-damaged-as-saudi-reports-new-houthi-attacks",
+   "genuineness": "verified",
+   "outlets": [
+    "AFP",
+    "The Jerusalem Post",
+    "Times of Israel",
+    "Le Temps"
+   ],
+   "image": "../images/world/world-20261119-1422-01.jpg",
+   "image_credit": "Faisal Arif, Wikimedia Commons (CC BY-SA 4.0)"
+  },
+  {
+   "id": "world-20261119-1422-02",
+   "published_ist": "2026-11-19T06:13:00+05:30",
+   "headline": "Gaza Yellow Line paar Israel ka ground operation",
+   "detail": "Israeli tank budhvar ko Gaza me yuddhaviram rekha Yellow Line ke paar Nuseirat-Bureij ke paas pahunche, October 2025 ke yuddhaviram ke baad pehli baar; sena ne ise surang dhwast karne ki karvai bataya, Hamas ne ullanghan kaha.",
+   "category": "World",
+   "exam_angle": "Yellow Line: Gaza yuddhaviram ke tahat Israel-Hamas niyantran rekha.",
+   "source": "Rappler",
+   "source_url": "https://www.rappler.com/world/middle-east/dozens-flee-israel-launches-rare-ground-operation-central-gaza-november-2026/",
+   "genuineness": "verified",
+   "outlets": [
+    "Reuters",
+    "Rappler",
+    "DD India",
+    "BBC"
+   ],
+   "image": null,
+   "image_credit": null
+  },
+  {
+   "id": "world-20261119-1422-03",
+   "published_ist": "2026-11-18T19:12:00+05:30",
+   "headline": "Uttar Korea ne Yongbyon parmanu kendra badhaya",
+   "detail": "IAEA pramukh Rafael Grossi ne bataya Uttar Korea ne Yongbyon me uranium samriddhi sanyantra ka vistaar pura kar liya hai; agency ne ise gambhir chinta ka vishay kaha, 2009 se uske nirikshak wahan nahi gaye.",
+   "category": "World",
+   "exam_angle": "IAEA: sanyukt rashtra ki parmanu nigrani agency, mukhyalaya Vienna.",
+   "source": "Arab News",
+   "source_url": "https://www.arabnews.com/world/iaea-says-north-korea-is-expanding-uranium-enrichment-plant-at-yongbyon-3012711",
+   "genuineness": "verified",
+   "outlets": [
+    "Arab News",
+    "The Jerusalem Post",
+    "The Korea Times",
+    "NY Post"
+   ],
+   "image": null,
+   "image_credit": null
   }
  ]
 }
