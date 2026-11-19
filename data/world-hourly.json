@@ -1,6 +1,42 @@
 {
- "updated_ist": "2026-11-19T06:31:25+05:30",
+ "updated_ist": "2026-11-19T07:27:21+05:30",
  "items": [
+  {
+   "id": "world-20261119-0722-01",
+   "published_ist": "2026-11-18T22:52:00+05:30",
+   "headline": "Kumamoto me 5.7 ka bhukamp",
+   "detail": "Japan ke Kumamoto prant me subah 5.7 teevrata ka bhukamp aaya; koi sunami chetavni nahi, ek hafte tak tez jhatko ki aashanka hai.",
+   "category": "World",
+   "exam_angle": "Japan: Ring of Fire par sthit, bhukamp-prone desh.",
+   "source": "NHK",
+   "source_url": "https://www3.nhk.or.jp/nhkworld/news/20261119de78099/",
+   "genuineness": "verified",
+   "outlets": [
+    "NHK",
+    "Kyodo News",
+    "The Japan Times"
+   ],
+   "image": null,
+   "image_credit": null
+  },
+  {
+   "id": "world-20261119-0722-02",
+   "published_ist": "2026-11-19T05:06:00+05:30",
+   "headline": "Crimean Bridge par hafte me teesra hamla",
+   "detail": "Crimea ke governor ke anusar is hafte teesri baar Crimean Bridge par hamle ke baad yatayat roka gaya; nuksan ka aaklan chal raha hai.",
+   "category": "World",
+   "exam_angle": "Kerch Bridge: Russia-Crimea ko jodne wala 19 km lamba pul.",
+   "source": "Arab News",
+   "source_url": "https://www.arabnews.com/world/third-attack-in-a-week-suspends-traffic-over-crimean-bridge-russian-official-says-3012816",
+   "genuineness": "verified",
+   "outlets": [
+    "Reuters",
+    "BBC",
+    "Gulf News"
+   ],
+   "image": "../images/world/world-20261119-0722-02.jpg",
+   "image_credit": "Arab News"
+  },
   {
    "id": "world-20261119-0630-01",
    "published_ist": "2026-11-19T05:20:00+05:30",
@@ -414,42 +450,6 @@
    ],
    "image": null,
    "image_credit": null
-  },
-  {
-   "id": "world-20261118-1422-01",
-   "published_ist": "2026-11-18T11:57:00+05:30",
-   "headline": "Riyadh ki ore Houthi missile roka gaya",
-   "detail": "Saudi netritva wale gathbandhan ne kaha Riyadh ki taraf daagi gayi Houthi cruise missile ko hawai raksha ne rok kar nasht kar diya.",
-   "category": "World",
-   "exam_angle": "Yemen sangharsh aur Khadi suraksha — UPSC ke liye mahatvapurna.",
-   "source": "Saudi Gazette",
-   "source_url": "https://saudigazette.com.sa/article/666329/saudi-arabia/coalition-destroys-60-houthi-military-targets-in-yemen-intercepts-cruise-missile-targeting-riyadh",
-   "genuineness": "verified",
-   "outlets": [
-    "Al Arabiya",
-    "Saudi Gazette",
-    "Arab News"
-   ],
-   "image": null,
-   "image_credit": null
-  },
-  {
-   "id": "world-20261119-0630-05",
-   "published_ist": "2026-11-17T14:46:00+05:30",
-   "headline": "Bangladesh ka pehla parmanu sanyantra grid se juda",
-   "detail": "Bangladesh ke Rooppur parmanu sanyantra ki pehli ikai ne 17 November ko parikshan ke roop me 350 MW bijli rashtriya grid ko di; poori kshamata 1,200 MW hai aur vanijyik utpadan 10 mahine ke parikshan ke baad shuru hoga.",
-   "category": "World",
-   "exam_angle": "Bangladesh ka pehla parmanu sanyantra; Russia ki Rosatom ne banaya.",
-   "source": "Arab News",
-   "source_url": "https://www.arabnews.pk/world/bangladesh-connects-its-first-nuclear-power-plant-to-national-grid-3007328",
-   "genuineness": "verified",
-   "outlets": [
-    "Arab News",
-    "NewsNextBD",
-    "EnergyNews"
-   ],
-   "image": "../images/world/world-20261119-0630-05.jpg",
-   "image_credit": "Jusujon1980, Wikimedia Commons (CC BY-SA 4.0)"
   }
  ]
 }
