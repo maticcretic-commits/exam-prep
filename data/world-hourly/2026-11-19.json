@@ -964,6 +964,44 @@
    ],
    "image": null,
    "image_credit": null
+  },
+  {
+   "id": "world-20261119-2222-01",
+   "published_ist": "2026-11-19T20:07:00+05:30",
+   "headline": "Kyiv me Dutch dutavas par drone hamla",
+   "detail": "Russia ke drone hamle me Kyiv me Dutch dutavas ki imarat ko halka nuksan hua; koi karmchari ghayal nahi hua aur jaanch jaari hai.",
+   "category": "World",
+   "exam_angle": "Russia-Ukraine war, diplomatic missions — UPSC IR",
+   "source": "Ukrainska Pravda",
+   "source_url": "https://www.pravda.com.ua/eng/news/2026/11/19/8063652/",
+   "genuineness": "verified",
+   "outlets": [
+    "Ukrainska Pravda",
+    "The Kyiv Independent",
+    "European Pravda",
+    "The Times"
+   ],
+   "image": "../images/world/world-20261119-2222-01.jpg",
+   "image_credit": "Ukrainska Pravda"
+  },
+  {
+   "id": "world-20261119-2222-02",
+   "published_ist": "2026-11-19T15:00:00+05:30",
+   "headline": "Kenya ne Mrima Hill sauda US ko diya",
+   "detail": "Kenya ne Mrima Hill ki durlabh khanij aur niobium khadan ke liye America ke Frontier Minerals sangh ko chuna; do Chinese company pehle hi peeche hat chuki thi.",
+   "category": "World",
+   "exam_angle": "Critical minerals, rare earths, US-China rivalry — UPSC IR/Economy",
+   "source": "Reuters",
+   "source_url": "https://www.reuters.com/world/africa/kenya-chooses-us-consortium-to-develop-mrima-hill-critical-minerals-project-2026-11-19/",
+   "genuineness": "verified",
+   "outlets": [
+    "Reuters",
+    "Daily Nation",
+    "Business Daily",
+    "Kenyans.co.ke"
+   ],
+   "image": null,
+   "image_credit": null
   }
  ]
 }
