@@ -72,6 +72,76 @@
     ],
     "answer_index": 2
    }
+  },
+  {
+   "episode": 138,
+   "video_hi": "7xf7VSmD1wE",
+   "video_hinglish": "7xf7VSmD1wE",
+   "capsules": [
+    {
+     "id": "ca-ep138-s1",
+     "headline_hi": "Janaganana 2027 mein dharm ki nayi soochi",
+     "headline_hinglish": "Janaganana 2027 mein dharm ki nayi soochi",
+     "detail_hi": "Do hazaar sattais ki janaganana mein 'anya' dharm ke liye chhihattar vikalp predictive text se milenge.",
+     "detail_hinglish": "Do hazaar sattais ki janaganana mein 'anya' dharm ke liye chhihattar vikalp predictive text se milenge.",
+     "category_hi": "Polity",
+     "category_en": "Polity"
+    },
+    {
+     "id": "ca-ep138-s2",
+     "headline_hi": "Manila mein Quad netaon ki badi baithak",
+     "headline_hinglish": "Manila mein Quad netaon ki badi baithak",
+     "detail_hi": "Bharat, America, Australia aur Japan ne samudri nigrani ke liye naya sahyog shuru kiya.",
+     "detail_hinglish": "Bharat, America, Australia aur Japan ne samudri nigrani ke liye naya sahyog shuru kiya.",
+     "category_hi": "International",
+     "category_en": "National"
+    },
+    {
+     "id": "ca-ep138-s3",
+     "headline_hi": "Jay Shah phir ICC adhyaksh chune gaye",
+     "headline_hinglish": "Jay Shah phir ICC adhyaksh chune gaye",
+     "detail_hi": "Bharat do hazaar untees Champions Trophy ki mezbani karega aur do hazaar iktees World Cup sanyukt roop se karayega.",
+     "detail_hinglish": "Bharat do hazaar untees Champions Trophy ki mezbani karega aur do hazaar iktees World Cup sanyukt roop se karayega.",
+     "category_hi": "Sports",
+     "category_en": "Sports"
+    },
+    {
+     "id": "ca-ep138-s4",
+     "headline_hi": "Jalwayu suchakank mein Bharat atthaisve sthan par",
+     "headline_hinglish": "Jalwayu suchakank mein Bharat atthaisve sthan par",
+     "detail_hi": "Climate Change Performance Index do hazaar sattais mein Bharat paanch sthan fisal kar atthaisve number par aa gaya.",
+     "detail_hinglish": "Climate Change Performance Index do hazaar sattais mein Bharat paanch sthan fisal kar atthaisve number par aa gaya.",
+     "category_hi": "Environment",
+     "category_en": "Environment"
+    },
+    {
+     "id": "ca-ep138-s5",
+     "headline_hi": "Voyager 1 ne ek light-day ka safar poora kiya",
+     "headline_hinglish": "Voyager 1 ne ek light-day ka safar poora kiya",
+     "detail_hi": "NASA ka Voyager 1 pehla manav nirmit yantra bana jo dharti se ek prakash-din door pahuncha.",
+     "detail_hinglish": "NASA ka Voyager 1 pehla manav nirmit yantra bana jo dharti se ek prakash-din door pahuncha.",
+     "category_hi": "Science",
+     "category_en": "National"
+    }
+   ],
+   "mcq": {
+    "id": "ca-ep138-mcq",
+    "q_hi": "Climate Change Performance Index 2027 mein Bharat kis sthan par hai?",
+    "q_hinglish": "Climate Change Performance Index 2027 mein Bharat kis sthan par hai?",
+    "options_hi": [
+     "23rd",
+     "28th",
+     "31st",
+     "25th"
+    ],
+    "options_hinglish": [
+     "23rd",
+     "28th",
+     "31st",
+     "25th"
+    ],
+    "answer_index": 1
+   }
   }
  ]
 }
