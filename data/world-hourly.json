@@ -1,40 +1,56 @@
 {
- "updated_ist": "2026-11-18T22:28:08+05:30",
+ "updated_ist": "2026-11-19T06:31:25+05:30",
  "items": [
   {
-   "id": "world-20261118-2222-01",
-   "published_ist": "2026-11-18T07:31:00+05:30",
-   "headline": "Hegseth Colombia jayenge, C-130 saunpenge",
-   "detail": "America ke raksha mantri Pete Hegseth aaj Bogota jayenge aur Colombia ki sena ko pehla C-130 Hercules viman saunpenge; nashili dawaon ke khilaf sahyog par bhi baat hogi.",
+   "id": "world-20261119-0630-01",
+   "published_ist": "2026-11-19T05:20:00+05:30",
+   "headline": "Hormuz me teen tanker mine se aag",
+   "detail": "Iran ke anusar Hormuz ke poorv me teen tel tanker samudri mine se takrakar aag me ghire; Iran ka daava hai jahaz pratibandhit kshetra me the, swatantra pushti abhi nahi hui.",
    "category": "World",
-   "exam_angle": "America-Colombia raksha sahyog; Shield of the Americas.",
-   "source": "The Straits Times",
-   "source_url": "https://www.straitstimes.com/world/hegseth-to-visit-colombia-on-wednesday-to-deliver-military-equipment",
-   "genuineness": "verified",
+   "exam_angle": "Hormuz: vishwa tel vyapar ka mahatvapurna jaladmarumadhya.",
+   "source": "NDTV",
+   "source_url": "https://www.ndtv.com/world-news/3-oil-tankers-catch-fire-after-hitting-mines-east-of-strait-of-hormuz-iran-12346597/amp/1",
+   "genuineness": "corroborated",
    "outlets": [
-    "Reuters",
-    "The City Paper Bogotá",
-    "News Central TV",
-    "Sociedad Media"
+    "NDTV",
+    "Al Jazeera",
+    "Sabq"
    ],
-   "image": "../images/world/world-20261118-2222-01.jpg",
-   "image_credit": "U.S. Department of Defense (Chad J. McNeeley), Public domain via Wikimedia Commons"
+   "image": null,
+   "image_credit": null
   },
   {
-   "id": "world-20261118-2222-02",
-   "published_ist": "2026-11-18T19:03:00+05:30",
-   "headline": "Iran ne hatya sajish ka aarop nakara",
-   "detail": "Iran ne North Macedonia ke daave ko kharij kar diya ki usse jude network ne Greece me ek vyakti ki hatya ki sajish rachi; paanch sandigdh hirasat me hain.",
+   "id": "world-20261119-0630-02",
+   "published_ist": "2026-11-18T21:07:00+05:30",
+   "headline": "Jeffries pehle Black Speaker ke ummidvar",
+   "detail": "House Democrats ne band matdan me 251-11 se Hakeem Jeffries ko Speaker pad ke liye namankit kiya; 3 January ko poore House me matdan hoga, jeetne par ve pehle Black Speaker banenge.",
    "category": "World",
-   "exam_angle": null,
-   "source": "Arab News",
-   "source_url": "https://www.arabnews.com/world/iran-denies-north-macedonian-terrorist-plot-claims-3012709",
+   "exam_angle": "America ke House Speaker: rashtrapati uttaradhikar me teesra sthan.",
+   "source": "Al Jazeera",
+   "source_url": "https://www.aljazeera.com/news/2026/11/18/hakeem-jeffries-becomes-first-black-nominee-for-us-house-speaker",
    "genuineness": "verified",
    "outlets": [
-    "AFP",
-    "IRNA",
-    "Fox News",
-    "Rapporteur"
+    "CNN",
+    "Al Jazeera",
+    "Dawn"
+   ],
+   "image": "../images/world/world-20261119-0630-02.jpg",
+   "image_credit": "Office of Representative Hakeem Jeffries, Public domain via Wikimedia Commons"
+  },
+  {
+   "id": "world-20261119-0630-03",
+   "published_ist": "2026-11-18T20:59:00+05:30",
+   "headline": "2035 tak Islam sabse bada dharm",
+   "detail": "Pew Research ke anuman ke mutabik 2035 tak Musalman aabadi 2.57 arab hokar Isaiyon (2.52 arab) se aage nikal jayegi; unchi janm dar is badlav ki mukhya vajah hai.",
+   "category": "World",
+   "exam_angle": "Pew Global Religious Futures: jansankhya aur dharm ka adhyayan.",
+   "source": "Religion News",
+   "source_url": "https://religionnews.com/2026/11/18/muslims-are-projected-to-outnumber-christians-by-2035-as-the-worlds-largest-religion/",
+   "genuineness": "verified",
+   "outlets": [
+    "Al Jazeera",
+    "Religion News",
+    "Associated Press"
    ],
    "image": null,
    "image_credit": null
@@ -54,6 +70,25 @@
     "Bangkok Post",
     "Interfax-Ukraine",
     "SCMP"
+   ],
+   "image": null,
+   "image_credit": null
+  },
+  {
+   "id": "world-20261118-2222-02",
+   "published_ist": "2026-11-18T19:03:00+05:30",
+   "headline": "Iran ne hatya sajish ka aarop nakara",
+   "detail": "Iran ne North Macedonia ke daave ko kharij kar diya ki usse jude network ne Greece me ek vyakti ki hatya ki sajish rachi; paanch sandigdh hirasat me hain.",
+   "category": "World",
+   "exam_angle": null,
+   "source": "Arab News",
+   "source_url": "https://www.arabnews.com/world/iran-denies-north-macedonian-terrorist-plot-claims-3012709",
+   "genuineness": "verified",
+   "outlets": [
+    "AFP",
+    "IRNA",
+    "Fox News",
+    "Rapporteur"
    ],
    "image": null,
    "image_credit": null
@@ -97,37 +132,19 @@
    "image_credit": null
   },
   {
-   "id": "world-20261118-2122-04",
-   "published_ist": "2026-11-17T16:18:00+05:30",
-   "headline": "Europe me record aag: 10.8 lakh hectare jala",
-   "detail": "EU ke Joint Research Centre ne kaha 2025 me Europe me lagbhag 10.8 lakh hectare jangal jala — 18 saal ke ausat se dugne se bhi zyada; aadha nuksan August ke pehle teen hafton me, Spain-Portugal me 63%.",
+   "id": "world-20261119-0630-04",
+   "published_ist": "2026-11-18T17:33:00+05:30",
+   "headline": "Israel ka Gaza me naya bhumi abhiyan",
+   "detail": "Israel ne October 2025 yuddhaviram ke baad pehli baar madhya Gaza me Yellow Line ke paschim me bhumi karvai shuru ki; Bureij-Nuseirat ke logon ko ilaka khali karne ko kaha gaya.",
    "category": "World",
-   "exam_angle": "Jalvayu parivartan, EFFIS aur van-aag prabandhan.",
-   "source": "Joint Research Centre",
-   "source_url": "https://joint-research-centre.ec.europa.eu/jrc-news-and-updates/2025-fire-season-official-data-35-countries-show-how-record-season-unfolded-2026-11-17_en",
+   "exam_angle": "Gaza yuddhaviram (Oct 2025) aur Board of Peace ki bhoomika.",
+   "source": "Al Jazeera",
+   "source_url": "https://www.aljazeera.com/amp/news/2026/11/18/what-does-israels-new-ground-offensive-mean-for-palestinians-in-gaza",
    "genuineness": "verified",
    "outlets": [
-    "Joint Research Centre",
-    "Anadolu Agency",
-    "Copernicus",
-    "MENAFN"
-   ],
-   "image": "../images/world/world-20261118-2122-04.jpg",
-   "image_credit": "European Union, Copernicus Sentinel-2 imagery, Wikimedia Commons (Attribution)"
-  },
-  {
-   "id": "world-20261118-2022-01",
-   "published_ist": "2026-11-18T12:12:00+05:30",
-   "headline": "Red Cross: swayatt hathiyaron par niyam banao",
-   "detail": "Geneva me UN bahas ke beech Red Cross ne swayatt hathiyaron par turant kanuni niyam ki maang ki; America, Russia aur Israel bandhan wale samjhote ke khilaf hain.",
-   "category": "World",
-   "exam_angle": "Swayatt hathiyar, CCW aur manavtavadi kanoon — UPSC ke liye mahatvapurna.",
-   "source": "Malay Mail",
-   "source_url": "https://www.malaymail.com/news/world/2026/11/18/red-cross-urges-rules-on-autonomous-weapons-as-un-debate-opens/243732",
-   "genuineness": "verified",
-   "outlets": [
-    "Malay Mail",
-    "NPR Illinois",
+    "Al Jazeera",
+    "Times of Israel",
+    "Haaretz",
     "Reuters"
    ],
    "image": null,
@@ -345,6 +362,24 @@
    "image_credit": null
   },
   {
+   "id": "world-20261118-2022-01",
+   "published_ist": "2026-11-18T12:12:00+05:30",
+   "headline": "Red Cross: swayatt hathiyaron par niyam banao",
+   "detail": "Geneva me UN bahas ke beech Red Cross ne swayatt hathiyaron par turant kanuni niyam ki maang ki; America, Russia aur Israel bandhan wale samjhote ke khilaf hain.",
+   "category": "World",
+   "exam_angle": "Swayatt hathiyar, CCW aur manavtavadi kanoon — UPSC ke liye mahatvapurna.",
+   "source": "Malay Mail",
+   "source_url": "https://www.malaymail.com/news/world/2026/11/18/red-cross-urges-rules-on-autonomous-weapons-as-un-debate-opens/243732",
+   "genuineness": "verified",
+   "outlets": [
+    "Malay Mail",
+    "NPR Illinois",
+    "Reuters"
+   ],
+   "image": null,
+   "image_credit": null
+  },
+  {
    "id": "world-20261118-1822-04",
    "published_ist": "2026-11-18T12:10:00+05:30",
    "headline": "Etihad, flydubai ne Saudi udanein aur radd ki",
@@ -399,60 +434,22 @@
    "image_credit": null
   },
   {
-   "id": "world-20261118-1422-02",
-   "published_ist": "2026-11-18T11:11:00+05:30",
-   "headline": "Iran ka daava: Kuwait base par hamla kiya",
-   "detail": "Iran ki sena ne kaha uske drone ne Kuwait ke Ali Al Salem air base par America ke Patriot system aur missile platform ko nishana banaya; Kuwait ne kaha uski vayu raksha hamlo ka jawab de rahi hai.",
+   "id": "world-20261119-0630-05",
+   "published_ist": "2026-11-17T14:46:00+05:30",
+   "headline": "Bangladesh ka pehla parmanu sanyantra grid se juda",
+   "detail": "Bangladesh ke Rooppur parmanu sanyantra ki pehli ikai ne 17 November ko parikshan ke roop me 350 MW bijli rashtriya grid ko di; poori kshamata 1,200 MW hai aur vanijyik utpadan 10 mahine ke parikshan ke baad shuru hoga.",
    "category": "World",
-   "exam_angle": "Khadi me America-Iran tanav — UPSC ke liye mahatvapurna.",
-   "source": "The Express Tribune",
-   "source_url": "https://tribune.com.pk/story/2640955/iranian-army-says-drone-strikes-targeted-us-installations-at-kuwait-air-base",
+   "exam_angle": "Bangladesh ka pehla parmanu sanyantra; Russia ki Rosatom ne banaya.",
+   "source": "Arab News",
+   "source_url": "https://www.arabnews.pk/world/bangladesh-connects-its-first-nuclear-power-plant-to-national-grid-3007328",
    "genuineness": "verified",
    "outlets": [
-    "The Hindu",
-    "Gulf News",
-    "Arab News"
+    "Arab News",
+    "NewsNextBD",
+    "EnergyNews"
    ],
-   "image": null,
-   "image_credit": null
-  },
-  {
-   "id": "world-20261118-1622-02",
-   "published_ist": "2026-11-18T11:05:00+05:30",
-   "headline": "ASEAN shikhar: Myanmar, samudra sanhita adhuri",
-   "detail": "Manila mein 49va ASEAN shikhar sammelan samapt hua; 100 se zyada dastavezon par sahmati bani, lekin Myanmar sankat aur South China Sea aacharan sanhita par koi faisla nahi hua, adhyakshata Singapore ko mili.",
-   "category": "World",
-   "exam_angle": "ASEAN, Myanmar aur South China Sea — UPSC ke liye mahatvapurna.",
-   "source": "Rappler",
-   "source_url": "https://www.rappler.com/philippines/myanmar-south-china-sea-coc-unsolved-asean-summit-november-2026/",
-   "genuineness": "verified",
-   "outlets": [
-    "Rappler",
-    "Philstar",
-    "Nikkei Asia",
-    "Al Jazeera"
-   ],
-   "image": null,
-   "image_credit": null
-  },
-  {
-   "id": "world-20261118-1022-01",
-   "published_ist": "2026-11-18T10:04:00+05:30",
-   "headline": "America ne paanch Irani tanker duboye",
-   "detail": "America ne Iran ke paanch tel tanker duboye; Iran ne jawab me Jordan ke Al-Azraq base par missile daage, Jordan ne 18 missile rokne ka daava kiya.",
-   "category": "World",
-   "exam_angle": "Hormuz, Khadi me America-Iran yuddh aur tel — UPSC ke liye mahatvapurna.",
-   "source": "Zee News",
-   "source_url": "https://zeenews.india.com/world/us-hits-5-iranian-oil-tankers-tehran-retaliates-by-striking-us-base-in-jordan-3070613.html",
-   "genuineness": "verified",
-   "outlets": [
-    "Al Jazeera",
-    "Zee News",
-    "Sahara News",
-    "Reuters"
-   ],
-   "image": null,
-   "image_credit": null
+   "image": "../images/world/world-20261119-0630-05.jpg",
+   "image_credit": "Jusujon1980, Wikimedia Commons (CC BY-SA 4.0)"
   }
  ]
 }
