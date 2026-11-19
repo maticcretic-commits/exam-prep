@@ -1,24 +1,41 @@
 {
- "updated_ist": "2026-11-19T09:26:34+05:30",
+ "updated_ist": "2026-11-19T10:26:08+05:30",
  "items": [
   {
-   "id": "world-20261119-0922-01",
-   "published_ist": "2026-11-19T02:31:00+05:30",
-   "headline": "Takaichi ne Putin se pehli mulaqat ki",
-   "detail": "Japan ki PM Sanae Takaichi ne Shenzhen me APEC ke kinare Russia ke rashtrapati Vladimir Putin se lagbhag 30 minute baat ki; 2019 ke baad dono deshon ke netaon ki pehli aamne-saamne mulaqat hai.",
+   "id": "world-20261119-1022-01",
+   "published_ist": "2026-11-19T07:40:00+05:30",
+   "headline": "Aaj ICJ Rohingya par faisla sunayega",
+   "detail": "Antarrashtriya Nyayalaya aaj The Hague me Gambia ke 2019 ke mukadme par faisla sunayega — kya Myanmar ne 2017 me Rohingya ke khilaf narsanhar kiya; faisla IST dopahar 2:30 se padha jayega.",
    "category": "World",
-   "exam_angle": "Japan-Russia sambandh aur APEC shikhar sammelan — UPSC ke liye mahatvapurna.",
-   "source": "NHK",
-   "source_url": "https://www3.nhk.or.jp/nhkworld/news/20261119de78131/",
+   "exam_angle": "ICJ aur 1948 Narsanhar Samjhauta — UPSC ke liye mahatvapurna.",
+   "source": "Al Jazeera",
+   "source_url": "https://www.aljazeera.com/news/2026/11/19/icj-to-rule-on-rohingya-genocide-case-against-myanmar",
+   "genuineness": "corroborated",
+   "outlets": [
+    "Al Jazeera",
+    "Reuters"
+   ],
+   "image": "../images/world/world-20261119-1022-01.jpg",
+   "image_credit": "Al Jazeera"
+  },
+  {
+   "id": "world-20261119-0822-01",
+   "published_ist": "2026-11-19T05:35:00+05:30",
+   "headline": "Anthropic ka $83 IPO, sabse bada tech listing",
+   "detail": "AI company Anthropic ne apna IPO $83 prati share par tay kiya; 980 million share se $81.3 arab juta — ab tak ka sabse bada tech IPO, aaj Nasdaq par ANT ticker se trading shuru hogi.",
+   "category": "World",
+   "exam_angle": "IPO aur AI company ka pehla bada public listing — UPSC ke liye upyogi.",
+   "source": "Fast Company",
+   "source_url": "https://www.fastcompany.com/91644956/ant-stock-live-anthropic-trading-time-date-ipo-share-price",
    "genuineness": "verified",
    "outlets": [
-    "NHK",
-    "Kyodo News",
-    "SCMP",
-    "Japan Today"
+    "Bloomberg",
+    "Reuters",
+    "Fast Company",
+    "PitchBook"
    ],
-   "image": "../images/world/world-20261119-0922-01.jpg",
-   "image_credit": "NHK"
+   "image": null,
+   "image_credit": null
   },
   {
    "id": "world-20261119-0922-02",
@@ -58,75 +75,19 @@
    "image_credit": "The Straits Times"
   },
   {
-   "id": "world-20261119-0822-01",
-   "published_ist": "2026-11-19T05:35:00+05:30",
-   "headline": "Anthropic ka $83 IPO, sabse bada tech listing",
-   "detail": "AI company Anthropic ne apna IPO $83 prati share par tay kiya; 980 million share se $81.3 arab juta — ab tak ka sabse bada tech IPO, aaj Nasdaq par ANT ticker se trading shuru hogi.",
+   "id": "world-20261119-0630-01",
+   "published_ist": "2026-11-19T05:20:00+05:30",
+   "headline": "Hormuz me teen tanker mine se aag",
+   "detail": "Iran ke anusar Hormuz ke poorv me teen tel tanker samudri mine se takrakar aag me ghire; Iran ka daava hai jahaz pratibandhit kshetra me the, swatantra pushti abhi nahi hui.",
    "category": "World",
-   "exam_angle": "IPO aur AI company ka pehla bada public listing — UPSC ke liye upyogi.",
-   "source": "Fast Company",
-   "source_url": "https://www.fastcompany.com/91644956/ant-stock-live-anthropic-trading-time-date-ipo-share-price",
-   "genuineness": "verified",
+   "exam_angle": "Hormuz: vishwa tel vyapar ka mahatvapurna jaladmarumadhya.",
+   "source": "NDTV",
+   "source_url": "https://www.ndtv.com/world-news/3-oil-tankers-catch-fire-after-hitting-mines-east-of-strait-of-hormuz-iran-12346597/amp/1",
+   "genuineness": "corroborated",
    "outlets": [
-    "Bloomberg",
-    "Reuters",
-    "Fast Company",
-    "PitchBook"
-   ],
-   "image": null,
-   "image_credit": null
-  },
-  {
-   "id": "world-20261119-0822-02",
-   "published_ist": "2026-11-19T04:15:00+05:30",
-   "headline": "Iran ne Kuwait-Bahrain me US thikano par hamla",
-   "detail": "Iran ke drone ne Kuwait ke Ali Al-Salem air base aur Bahrain me US sainya thikano ko nishana banaya; dono deshon ne hamle roke, koi nuksan ya hatahat ki khabar nahi.",
-   "category": "World",
-   "exam_angle": "Khadi me US sainya adde aur America-Iran tanav — UPSC ke liye mahatvapurna.",
-   "source": "Gulf News",
-   "source_url": "https://gulfnews.com/amp/story/world%2Fmena%2Firan-fires-on-us-airbase-in-kuwait-several-times-at-bahrain-1.500752840",
-   "genuineness": "verified",
-   "outlets": [
-    "Associated Press",
-    "AFP",
-    "China Daily"
-   ],
-   "image": null,
-   "image_credit": null
-  },
-  {
-   "id": "world-20261119-0822-03",
-   "published_ist": "2026-11-18T17:32:00+05:30",
-   "headline": "Uttar Korea ne Yongbyon samvardhan sanyantra badhaya",
-   "detail": "IAEA pramukh Grossi ne kaha Uttar Korea ne Yongbyon parmanu parisar me uranium samvardhan sanyantra ka aur vistaar kar liya hai; vistaar October ke ant tak bahari roop se poora ho gaya tha.",
-   "category": "World",
-   "exam_angle": "Uttar Korea ka parmanu karyakram aur IAEA ki bhoomika — UPSC ke liye mahatvapurna.",
-   "source": "Reuters",
-   "source_url": "https://www.reuters.com/world/china/iaea-says-north-korea-is-expanding-uranium-enrichment-plant-yongbyon-2026-11-18/",
-   "genuineness": "verified",
-   "outlets": [
-    "Reuters",
-    "The Korea Times",
-    "The Jerusalem Post",
-    "Al Arabiya"
-   ],
-   "image": null,
-   "image_credit": null
-  },
-  {
-   "id": "world-20261119-0722-01",
-   "published_ist": "2026-11-18T22:52:00+05:30",
-   "headline": "Kumamoto me 5.7 ka bhukamp",
-   "detail": "Japan ke Kumamoto prant me subah 5.7 teevrata ka bhukamp aaya; koi sunami chetavni nahi, ek hafte tak tez jhatko ki aashanka hai.",
-   "category": "World",
-   "exam_angle": "Japan: Ring of Fire par sthit, bhukamp-prone desh.",
-   "source": "NHK",
-   "source_url": "https://www3.nhk.or.jp/nhkworld/news/20261119de78099/",
-   "genuineness": "verified",
-   "outlets": [
-    "NHK",
-    "Kyodo News",
-    "The Japan Times"
+    "NDTV",
+    "Al Jazeera",
+    "Sabq"
    ],
    "image": null,
    "image_credit": null
@@ -150,19 +111,94 @@
    "image_credit": "Arab News"
   },
   {
-   "id": "world-20261119-0630-01",
-   "published_ist": "2026-11-19T05:20:00+05:30",
-   "headline": "Hormuz me teen tanker mine se aag",
-   "detail": "Iran ke anusar Hormuz ke poorv me teen tel tanker samudri mine se takrakar aag me ghire; Iran ka daava hai jahaz pratibandhit kshetra me the, swatantra pushti abhi nahi hui.",
+   "id": "world-20261119-1022-02",
+   "published_ist": "2026-11-19T04:30:00+05:30",
+   "headline": "NSA outage se Middle East khufiya kaam thappa",
+   "detail": "America ki National Security Agency ke network me do din se chal rahi gadbad se Georgia kendra me Middle East par khufiya kaam ruk gaya; NSANet band hua, lekin sabse samvedansheel pranaliyan chal rahi hain aur cyber hamle ki baat nahi hai.",
    "category": "World",
-   "exam_angle": "Hormuz: vishwa tel vyapar ka mahatvapurna jaladmarumadhya.",
-   "source": "NDTV",
-   "source_url": "https://www.ndtv.com/world-news/3-oil-tankers-catch-fire-after-hitting-mines-east-of-strait-of-hormuz-iran-12346597/amp/1",
+   "exam_angle": "America ki khufiya sanrachna aur cyber suraksha — UPSC ke liye upyogi.",
+   "source": "CNN",
+   "source_url": "https://www.cnn.com/2026/11/18/politics/nsa-outage-disrupts-georgia-intel-hub-middle-east-intelligence?cid=external-feeds_iluminar_meta",
    "genuineness": "corroborated",
    "outlets": [
-    "NDTV",
+    "CNN",
+    "The Jerusalem Post",
+    "WION",
+    "News18"
+   ],
+   "image": null,
+   "image_credit": null
+  },
+  {
+   "id": "world-20261119-0822-02",
+   "published_ist": "2026-11-19T04:15:00+05:30",
+   "headline": "Iran ne Kuwait-Bahrain me US thikano par hamla",
+   "detail": "Iran ke drone ne Kuwait ke Ali Al-Salem air base aur Bahrain me US sainya thikano ko nishana banaya; dono deshon ne hamle roke, koi nuksan ya hatahat ki khabar nahi.",
+   "category": "World",
+   "exam_angle": "Khadi me US sainya adde aur America-Iran tanav — UPSC ke liye mahatvapurna.",
+   "source": "Gulf News",
+   "source_url": "https://gulfnews.com/amp/story/world%2Fmena%2Firan-fires-on-us-airbase-in-kuwait-several-times-at-bahrain-1.500752840",
+   "genuineness": "verified",
+   "outlets": [
+    "Associated Press",
+    "AFP",
+    "China Daily"
+   ],
+   "image": null,
+   "image_credit": null
+  },
+  {
+   "id": "world-20261119-1022-03",
+   "published_ist": "2026-11-19T02:31:00+05:30",
+   "headline": "America-Venezuela sainya saajhedari ka samjhota",
+   "detail": "America ke raksha mantri Pete Hegseth ne Caracas ki achanak yatra me Venezuela ke saath sainya sahyog ka samjhota kiya; sanyukt prashikshan aur khufiya jaankari sajha karenge, antaram rashtrapati Delcy Rodriguez se bhi mile.",
+   "category": "World",
+   "exam_angle": "Venezuela me January me Maduro ko hatane ke baad America ka badhta prabhav — UPSC ke liye mahatvapurna.",
+   "source": "Al Jazeera",
+   "source_url": "https://www.aljazeera.com/news/2026/11/18/us-defence-secretary-announces-military-partnership-on-trip-to-venezuela",
+   "genuineness": "verified",
+   "outlets": [
     "Al Jazeera",
-    "Sabq"
+    "CNN",
+    "Reuters",
+    "The Times"
+   ],
+   "image": "../images/world/world-20261119-1022-03.jpg",
+   "image_credit": "Al Jazeera"
+  },
+  {
+   "id": "world-20261119-0922-01",
+   "published_ist": "2026-11-19T02:31:00+05:30",
+   "headline": "Takaichi ne Putin se pehli mulaqat ki",
+   "detail": "Japan ki PM Sanae Takaichi ne Shenzhen me APEC ke kinare Russia ke rashtrapati Vladimir Putin se lagbhag 30 minute baat ki; 2019 ke baad dono deshon ke netaon ki pehli aamne-saamne mulaqat hai.",
+   "category": "World",
+   "exam_angle": "Japan-Russia sambandh aur APEC shikhar sammelan — UPSC ke liye mahatvapurna.",
+   "source": "NHK",
+   "source_url": "https://www3.nhk.or.jp/nhkworld/news/20261119de78131/",
+   "genuineness": "verified",
+   "outlets": [
+    "NHK",
+    "Kyodo News",
+    "SCMP",
+    "Japan Today"
+   ],
+   "image": "../images/world/world-20261119-0922-01.jpg",
+   "image_credit": "NHK"
+  },
+  {
+   "id": "world-20261119-0722-01",
+   "published_ist": "2026-11-18T22:52:00+05:30",
+   "headline": "Kumamoto me 5.7 ka bhukamp",
+   "detail": "Japan ke Kumamoto prant me subah 5.7 teevrata ka bhukamp aaya; koi sunami chetavni nahi, ek hafte tak tez jhatko ki aashanka hai.",
+   "category": "World",
+   "exam_angle": "Japan: Ring of Fire par sthit, bhukamp-prone desh.",
+   "source": "NHK",
+   "source_url": "https://www3.nhk.or.jp/nhkworld/news/20261119de78099/",
+   "genuineness": "verified",
+   "outlets": [
+    "NHK",
+    "Kyodo News",
+    "The Japan Times"
    ],
    "image": null,
    "image_credit": null
@@ -299,6 +335,25 @@
    "image_credit": null
   },
   {
+   "id": "world-20261119-0822-03",
+   "published_ist": "2026-11-18T17:32:00+05:30",
+   "headline": "Uttar Korea ne Yongbyon samvardhan sanyantra badhaya",
+   "detail": "IAEA pramukh Grossi ne kaha Uttar Korea ne Yongbyon parmanu parisar me uranium samvardhan sanyantra ka aur vistaar kar liya hai; vistaar October ke ant tak bahari roop se poora ho gaya tha.",
+   "category": "World",
+   "exam_angle": "Uttar Korea ka parmanu karyakram aur IAEA ki bhoomika — UPSC ke liye mahatvapurna.",
+   "source": "Reuters",
+   "source_url": "https://www.reuters.com/world/china/iaea-says-north-korea-is-expanding-uranium-enrichment-plant-yongbyon-2026-11-18/",
+   "genuineness": "verified",
+   "outlets": [
+    "Reuters",
+    "The Korea Times",
+    "The Jerusalem Post",
+    "Al Arabiya"
+   ],
+   "image": null,
+   "image_credit": null
+  },
+  {
    "id": "world-20261118-2022-02",
    "published_ist": "2026-11-18T16:53:00+05:30",
    "headline": "Ukraine ne Xi, Trump se Putin par dabav manga",
@@ -333,6 +388,25 @@
    ],
    "image": null,
    "image_credit": null
+  },
+  {
+   "id": "world-20261119-1022-04",
+   "published_ist": "2026-11-18T16:23:00+05:30",
+   "headline": "Hasina ki vapsi par Bangladesh me ashanti",
+   "detail": "Bangladesh ne poorv PM Sheikh Hasina ki December me vapsi ki yojana ke beech hinsa badhne par desh bhar me saikadon ardh-sainik bal tainat kiye; pichle 10 din me 28 jilon me bomb aur aagjani ki ghatnayein hui hain.",
+   "category": "World",
+   "exam_angle": "Bangladesh ki rajneeti aur Sheikh Hasina — UPSC ke liye mahatvapurna.",
+   "source": "Reuters",
+   "source_url": "https://www.reuters.com/world/asia-pacific/bangladesh-deploys-paramilitary-unrest-grows-over-hasinas-return-2026-11-18/",
+   "genuineness": "verified",
+   "outlets": [
+    "Reuters",
+    "Dawn",
+    "The Times of India",
+    "The Straits Times"
+   ],
+   "image": "../images/world/world-20261119-1022-04.jpg",
+   "image_credit": "The Times of India"
   },
   {
    "id": "world-20261118-1822-01",
@@ -372,85 +446,6 @@
    ],
    "image": "../images/world/world-20261118-1822-02.jpg",
    "image_credit": "Leah Herman, House Creative Services, Wikimedia Commons (Public domain)"
-  },
-  {
-   "id": "world-20261118-1722-01",
-   "published_ist": "2026-11-18T15:01:00+05:30",
-   "headline": "Riyadh me dhamaka, do Houthi missile roke gaye",
-   "detail": "Riyadh me zoradar dhamaka suna gaya, hawai adde ke paas dhuaan dikha; gathbandhan ne kaha do Houthi cruise missile roke gaye, subah ek aur missile bhi roka gaya tha.",
-   "category": "World",
-   "exam_angle": "Yemen, Houthi hamle aur Khadi suraksha — UPSC ke liye mahatvapurna.",
-   "source": "NDTV",
-   "source_url": "https://www.ndtv.com/world-news/extremely-loud-explosion-in-riyadh-amid-saudi-arabia-houthi-clashes-smoke-seen-near-airport-12343563/amp/1",
-   "genuineness": "corroborated",
-   "outlets": [
-    "AFP",
-    "Saudi-led coalition",
-    "NDTV",
-    "Malay Mail"
-   ],
-   "image": null,
-   "image_credit": null
-  },
-  {
-   "id": "world-20261118-1822-03",
-   "published_ist": "2026-11-18T14:46:00+05:30",
-   "headline": "Nvidia ne China ko AI chip band kiye",
-   "detail": "Nvidia ne America ki manzoori ke baad bhi Hopper AI chip China bhejna band kar diya; teesri timahi me $2.4 arab ke chip beche the, aage koi shipment nahi hogi.",
-   "category": "World",
-   "exam_angle": "America-China tech yuddh aur chip niryat niyantran — UPSC ke liye mahatvapurna.",
-   "source": "Reuters",
-   "source_url": "https://www.reuters.com/world/china/nvidia-stops-shipping-us-approved-ai-chips-china-2026-11-18/",
-   "genuineness": "verified",
-   "outlets": [
-    "Reuters",
-    "Bloomberg",
-    "Business Standard",
-    "The Economic Times",
-    "The Straits Times"
-   ],
-   "image": null,
-   "image_credit": null
-  },
-  {
-   "id": "world-20261118-1722-02",
-   "published_ist": "2026-11-18T14:29:00+05:30",
-   "headline": "Trump China pahunche, Xi ne swagat kiya",
-   "detail": "Trump APEC ke liye Shenzhen pahunche; Xi Jinping ne hawai adde par unka swagat kiya — lagbhag 50 saal me pehli baar kisi Chinese neta ne mehmaan ka airport par swagat kiya, kal tri-pakshiya baithak hogi.",
-   "category": "World",
-   "exam_angle": "APEC, America-China-Russia tri-pakshiya baithak — UPSC ke liye mahatvapurna.",
-   "source": "The Times of India",
-   "source_url": "https://timesofindia.indiatimes.com/world/china/trump-lands-in-china-for-historic-trilateral-summit-with-xi-putin/articleshow/135956865.cms",
-   "genuineness": "verified",
-   "outlets": [
-    "The National",
-    "The Times of India",
-    "Times Now",
-    "Outlook",
-    "CNBC Africa",
-    "Free Malaysia Today"
-   ],
-   "image": null,
-   "image_credit": null
-  },
-  {
-   "id": "world-20261118-1722-03",
-   "published_ist": "2026-11-18T14:24:00+05:30",
-   "headline": "Iran sena pramukh: jawab aur bhi bhayankar hoga",
-   "detail": "Iran ke sena pramukh Amir Hatami ne kaha America ke naye hamle par jawab 'aur bhi bhayankar' hoga aur America ke sahyogiyon ko bhi nishana banayega.",
-   "category": "World",
-   "exam_angle": "America-Iran tanav aur Khadi suraksha — UPSC ke liye mahatvapurna.",
-   "source": "Free Malaysia Today",
-   "source_url": "https://www.freemalaysiatoday.com/category/world/2026/11/18/army-chief-threatens-more-devastating-response-if-iran-attacked",
-   "genuineness": "corroborated",
-   "outlets": [
-    "AFP",
-    "Fars News Agency",
-    "Free Malaysia Today",
-    "Kurdistan24"
-   ],
-   "image": null,
-   "image_credit": null
   }
  ]
 }
