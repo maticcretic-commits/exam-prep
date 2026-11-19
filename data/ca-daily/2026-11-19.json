@@ -212,6 +212,76 @@
     ],
     "answer_index": 2
    }
+  },
+  {
+   "episode": 140,
+   "video_hi": "KTbqi5zM0Q0",
+   "video_hinglish": "KTbqi5zM0Q0",
+   "capsules": [
+    {
+     "id": "ca-ep140-s1",
+     "headline_hi": "Janganana 2027: 'Other' dharm mein 76 entry",
+     "headline_hinglish": "Janganana 2027: 'Other' dharm mein 76 entry",
+     "detail_hi": "Janganana 2027 mein 'Other' dharm ke liye chhihattar entry predictive text mein milengi.",
+     "detail_hinglish": "Janganana 2027 mein 'Other' dharm ke liye chhihattar entry predictive text mein milengi.",
+     "category_hi": "Polity",
+     "category_en": "Polity"
+    },
+    {
+     "id": "ca-ep140-s2",
+     "headline_hi": "Tokyo mein Bharat-Japan Two Plus Two baithak",
+     "headline_hinglish": "Tokyo mein Bharat-Japan Two Plus Two baithak",
+     "detail_hi": "Raksha Mantri Rajnath Singh ne Tokyo mein Japan ke Raksha Mantri se chaunthi Two Plus Two baithak mein mulaqaat ki.",
+     "detail_hinglish": "Raksha Mantri Rajnath Singh ne Tokyo mein Japan ke Raksha Mantri se chaunthi Two Plus Two baithak mein mulaqaat ki.",
+     "category_hi": "Defence",
+     "category_en": "Defence"
+    },
+    {
+     "id": "ca-ep140-s3",
+     "headline_hi": "Malaysia: Bharatiyon ke liye visa-free khatm",
+     "headline_hinglish": "Malaysia: Bharatiyon ke liye visa-free khatm",
+     "detail_hi": "Malaysia ne ek January do hazaar sattais se Bharatiya nagrikon ke liye visa-free entry khatm karne ka elaan kiya.",
+     "detail_hinglish": "Malaysia ne ek January do hazaar sattais se Bharatiya nagrikon ke liye visa-free entry khatm karne ka elaan kiya.",
+     "category_hi": "International",
+     "category_en": "National"
+    },
+    {
+     "id": "ca-ep140-s4",
+     "headline_hi": "Do hazaar untees tak pachhattar hazaar medical seat",
+     "headline_hinglish": "Do hazaar untees tak pachhattar hazaar medical seat",
+     "detail_hi": "Sarkar ne do hazaar untees tak pachhattar hazaar nayi medical seat jodne ka lakshya rakha hai.",
+     "detail_hinglish": "Sarkar ne do hazaar untees tak pachhattar hazaar nayi medical seat jodne ka lakshya rakha hai.",
+     "category_hi": "Education",
+     "category_en": "Education"
+    },
+    {
+     "id": "ca-ep140-s5",
+     "headline_hi": "Anthropic ka ikyasi arab dollar ka IPO",
+     "headline_hinglish": "Anthropic ka ikyasi arab dollar ka IPO",
+     "detail_hi": "AI company Anthropic ka ikyasi arab dollar ka IPO itihaas ka sabse bada IPO bana, SpaceX ka record toota.",
+     "detail_hinglish": "AI company Anthropic ka ikyasi arab dollar ka IPO itihaas ka sabse bada IPO bana, SpaceX ka record toota.",
+     "category_hi": "Economy",
+     "category_en": "Economy"
+    }
+   ],
+   "mcq": {
+    "id": "ca-ep140-mcq",
+    "q_hi": "Janganana 2027 mein 'Other' dharm ke tahat kitni entry predictive text mein dikhengi?",
+    "q_hinglish": "Janganana 2027 mein 'Other' dharm ke tahat kitni entry predictive text mein dikhengi?",
+    "options_hi": [
+     "Pachpan",
+     "Chhihattar",
+     "Sau",
+     "Do sau"
+    ],
+    "options_hinglish": [
+     "Pachpan",
+     "Chhihattar",
+     "Sau",
+     "Do sau"
+    ],
+    "answer_index": 1
+   }
   }
  ]
 }
