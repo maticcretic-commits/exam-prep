@@ -1,528 +1,586 @@
 {
- "items": [
-  {
-   "id": "world-20261119-0630-01",
-   "published_ist": "2026-11-19T05:20:00+05:30",
-   "headline": "Hormuz me teen tanker mine se aag",
-   "detail": "Iran ke anusar Hormuz ke poorv me teen tel tanker samudri mine se takrakar aag me ghire; Iran ka daava hai jahaz pratibandhit kshetra me the, swatantra pushti abhi nahi hui.",
-   "category": "World",
-   "exam_angle": "Hormuz: vishwa tel vyapar ka mahatvapurna jaladmarumadhya.",
-   "source": "NDTV",
-   "source_url": "https://www.ndtv.com/world-news/3-oil-tankers-catch-fire-after-hitting-mines-east-of-strait-of-hormuz-iran-12346597/amp/1",
-   "genuineness": "corroborated",
-   "outlets": [
-    "NDTV",
-    "Al Jazeera",
-    "Sabq"
-   ],
-   "image": null,
-   "image_credit": null
-  },
-  {
-   "id": "world-20261119-0630-02",
-   "published_ist": "2026-11-18T21:07:00+05:30",
-   "headline": "Jeffries pehle Black Speaker ke ummidvar",
-   "detail": "House Democrats ne band matdan me 251-11 se Hakeem Jeffries ko Speaker pad ke liye namankit kiya; 3 January ko poore House me matdan hoga, jeetne par ve pehle Black Speaker banenge.",
-   "category": "World",
-   "exam_angle": "America ke House Speaker: rashtrapati uttaradhikar me teesra sthan.",
-   "source": "Al Jazeera",
-   "source_url": "https://www.aljazeera.com/news/2026/11/18/hakeem-jeffries-becomes-first-black-nominee-for-us-house-speaker",
-   "genuineness": "verified",
-   "outlets": [
-    "CNN",
-    "Al Jazeera",
-    "Dawn"
-   ],
-   "image": "../images/world/world-20261119-0630-02.jpg",
-   "image_credit": "Office of Representative Hakeem Jeffries, Public domain via Wikimedia Commons"
-  },
-  {
-   "id": "world-20261119-0630-03",
-   "published_ist": "2026-11-18T20:59:00+05:30",
-   "headline": "2035 tak Islam sabse bada dharm",
-   "detail": "Pew Research ke anuman ke mutabik 2035 tak Musalman aabadi 2.57 arab hokar Isaiyon (2.52 arab) se aage nikal jayegi; unchi janm dar is badlav ki mukhya vajah hai.",
-   "category": "World",
-   "exam_angle": "Pew Global Religious Futures: jansankhya aur dharm ka adhyayan.",
-   "source": "Religion News",
-   "source_url": "https://religionnews.com/2026/11/18/muslims-are-projected-to-outnumber-christians-by-2035-as-the-worlds-largest-religion/",
-   "genuineness": "verified",
-   "outlets": [
-    "Al Jazeera",
-    "Religion News",
-    "Associated Press"
-   ],
-   "image": null,
-   "image_credit": null
-  },
-  {
-   "id": "world-20261119-0630-04",
-   "published_ist": "2026-11-18T17:33:00+05:30",
-   "headline": "Israel ka Gaza me naya bhumi abhiyan",
-   "detail": "Israel ne October 2025 yuddhaviram ke baad pehli baar madhya Gaza me Yellow Line ke paschim me bhumi karvai shuru ki; Bureij-Nuseirat ke logon ko ilaka khali karne ko kaha gaya.",
-   "category": "World",
-   "exam_angle": "Gaza yuddhaviram (Oct 2025) aur Board of Peace ki bhoomika.",
-   "source": "Al Jazeera",
-   "source_url": "https://www.aljazeera.com/amp/news/2026/11/18/what-does-israels-new-ground-offensive-mean-for-palestinians-in-gaza",
-   "genuineness": "verified",
-   "outlets": [
-    "Al Jazeera",
-    "Times of Israel",
-    "Haaretz",
-    "Reuters"
-   ],
-   "image": null,
-   "image_credit": null
-  },
-  {
-   "id": "world-20261119-0630-05",
-   "published_ist": "2026-11-17T14:46:00+05:30",
-   "headline": "Bangladesh ka pehla parmanu sanyantra grid se juda",
-   "detail": "Bangladesh ke Rooppur parmanu sanyantra ki pehli ikai ne 17 November ko parikshan ke roop me 350 MW bijli rashtriya grid ko di; poori kshamata 1,200 MW hai aur vanijyik utpadan 10 mahine ke parikshan ke baad shuru hoga.",
-   "category": "World",
-   "exam_angle": "Bangladesh ka pehla parmanu sanyantra; Russia ki Rosatom ne banaya.",
-   "source": "Arab News",
-   "source_url": "https://www.arabnews.pk/world/bangladesh-connects-its-first-nuclear-power-plant-to-national-grid-3007328",
-   "genuineness": "verified",
-   "outlets": [
-    "Arab News",
-    "NewsNextBD",
-    "EnergyNews"
-   ],
-   "image": "../images/world/world-20261119-0630-05.jpg",
-   "image_credit": "Jusujon1980, Wikimedia Commons (CC BY-SA 4.0)"
-  },
-  {
-   "id": "world-20261119-0722-01",
-   "published_ist": "2026-11-18T22:52:00+05:30",
-   "headline": "Kumamoto me 5.7 ka bhukamp",
-   "detail": "Japan ke Kumamoto prant me subah 5.7 teevrata ka bhukamp aaya; koi sunami chetavni nahi, ek hafte tak tez jhatko ki aashanka hai.",
-   "category": "World",
-   "exam_angle": "Japan: Ring of Fire par sthit, bhukamp-prone desh.",
-   "source": "NHK",
-   "source_url": "https://www3.nhk.or.jp/nhkworld/news/20261119de78099/",
-   "genuineness": "verified",
-   "outlets": [
-    "NHK",
-    "Kyodo News",
-    "The Japan Times"
-   ],
-   "image": null,
-   "image_credit": null
-  },
-  {
-   "id": "world-20261119-0722-02",
-   "published_ist": "2026-11-19T05:06:00+05:30",
-   "headline": "Crimean Bridge par hafte me teesra hamla",
-   "detail": "Crimea ke governor ke anusar is hafte teesri baar Crimean Bridge par hamle ke baad yatayat roka gaya; nuksan ka aaklan chal raha hai.",
-   "category": "World",
-   "exam_angle": "Kerch Bridge: Russia-Crimea ko jodne wala 19 km lamba pul.",
-   "source": "Arab News",
-   "source_url": "https://www.arabnews.com/world/third-attack-in-a-week-suspends-traffic-over-crimean-bridge-russian-official-says-3012816",
-   "genuineness": "verified",
-   "outlets": [
-    "Reuters",
-    "BBC",
-    "Gulf News"
-   ],
-   "image": "../images/world/world-20261119-0722-02.jpg",
-   "image_credit": "Arab News"
-  },
-  {
-   "id": "world-20261119-0822-01",
-   "published_ist": "2026-11-19T05:35:00+05:30",
-   "headline": "Anthropic ka $83 IPO, sabse bada tech listing",
-   "detail": "AI company Anthropic ne apna IPO $83 prati share par tay kiya; 980 million share se $81.3 arab juta — ab tak ka sabse bada tech IPO, aaj Nasdaq par ANT ticker se trading shuru hogi.",
-   "category": "World",
-   "exam_angle": "IPO aur AI company ka pehla bada public listing — UPSC ke liye upyogi.",
-   "source": "Fast Company",
-   "source_url": "https://www.fastcompany.com/91644956/ant-stock-live-anthropic-trading-time-date-ipo-share-price",
-   "genuineness": "verified",
-   "outlets": [
-    "Bloomberg",
-    "Reuters",
-    "Fast Company",
-    "PitchBook"
-   ],
-   "image": null,
-   "image_credit": null
-  },
-  {
-   "id": "world-20261119-0822-02",
-   "published_ist": "2026-11-19T04:15:00+05:30",
-   "headline": "Iran ne Kuwait-Bahrain me US thikano par hamla",
-   "detail": "Iran ke drone ne Kuwait ke Ali Al-Salem air base aur Bahrain me US sainya thikano ko nishana banaya; dono deshon ne hamle roke, koi nuksan ya hatahat ki khabar nahi.",
-   "category": "World",
-   "exam_angle": "Khadi me US sainya adde aur America-Iran tanav — UPSC ke liye mahatvapurna.",
-   "source": "Gulf News",
-   "source_url": "https://gulfnews.com/amp/story/world%2Fmena%2Firan-fires-on-us-airbase-in-kuwait-several-times-at-bahrain-1.500752840",
-   "genuineness": "verified",
-   "outlets": [
-    "Associated Press",
-    "AFP",
-    "China Daily"
-   ],
-   "image": null,
-   "image_credit": null
-  },
-  {
-   "id": "world-20261119-0822-03",
-   "published_ist": "2026-11-18T17:32:00+05:30",
-   "headline": "Uttar Korea ne Yongbyon samvardhan sanyantra badhaya",
-   "detail": "IAEA pramukh Grossi ne kaha Uttar Korea ne Yongbyon parmanu parisar me uranium samvardhan sanyantra ka aur vistaar kar liya hai; vistaar October ke ant tak bahari roop se poora ho gaya tha.",
-   "category": "World",
-   "exam_angle": "Uttar Korea ka parmanu karyakram aur IAEA ki bhoomika — UPSC ke liye mahatvapurna.",
-   "source": "Reuters",
-   "source_url": "https://www.reuters.com/world/china/iaea-says-north-korea-is-expanding-uranium-enrichment-plant-yongbyon-2026-11-18/",
-   "genuineness": "verified",
-   "outlets": [
-    "Reuters",
-    "The Korea Times",
-    "The Jerusalem Post",
-    "Al Arabiya"
-   ],
-   "image": null,
-   "image_credit": null
-  },
-  {
-   "id": "world-20261119-0922-01",
-   "published_ist": "2026-11-19T02:31:00+05:30",
-   "headline": "Takaichi ne Putin se pehli mulaqat ki",
-   "detail": "Japan ki PM Sanae Takaichi ne Shenzhen me APEC ke kinare Russia ke rashtrapati Vladimir Putin se lagbhag 30 minute baat ki; 2019 ke baad dono deshon ke netaon ki pehli aamne-saamne mulaqat hai.",
-   "category": "World",
-   "exam_angle": "Japan-Russia sambandh aur APEC shikhar sammelan — UPSC ke liye mahatvapurna.",
-   "source": "NHK",
-   "source_url": "https://www3.nhk.or.jp/nhkworld/news/20261119de78131/",
-   "genuineness": "verified",
-   "outlets": [
-    "NHK",
-    "Kyodo News",
-    "SCMP",
-    "Japan Today"
-   ],
-   "image": "../images/world/world-20261119-0922-01.jpg",
-   "image_credit": "NHK"
-  },
-  {
-   "id": "world-20261119-0922-02",
-   "published_ist": "2026-11-19T05:31:00+05:30",
-   "headline": "Bayesian report: hawa ka khatra anjana tha",
-   "detail": "Britain ki MAIB ne kaha superyacht Bayesian 2024 me Sicily ke paas tez hawa se 15 second me palat gayi thi, saat log mare gaye the; uski hawa se kamzori ka aaklan kabhi hua hi nahi tha, isliye chalak-dal ko khatre ka pata nahi tha.",
-   "category": "World",
-   "exam_angle": "Samudri suraksha jaanch aur MAIB ki bhoomika — UPSC ke liye mahatvapurna.",
-   "source": "GOV.UK",
-   "source_url": "https://www.gov.uk/government/news/bayesian-report-and-safety-flyer-published",
-   "genuineness": "verified",
-   "outlets": [
-    "GOV.UK",
-    "Malay Mail",
-    "Press Association",
-    "LADbible"
-   ],
-   "image": null,
-   "image_credit": null
-  },
-  {
-   "id": "world-20261119-0922-03",
-   "published_ist": "2026-11-19T05:30:00+05:30",
-   "headline": "Machado ne Trump tel saude par sawal uthaye",
-   "detail": "Venezuela ki vipaksh neta Maria Corina Machado ne America ke 100 arab dollar wale tel saude me pardarshita ki kami par sawal uthaye; kaha har saude ki dobara jaanch hogi, lekin America se lambi saajhedari zaroori hai.",
-   "category": "World",
-   "exam_angle": "Venezuela tel sauda aur America ki videsh neeti — UPSC ke liye mahatvapurna.",
-   "source": "The Straits Times",
-   "source_url": "https://www.straitstimes.com/world/venezuelas-opposition-leader-machado-questions-trumps-oil-deal-while-committing-to-us-ties?ref=latest-headlines",
-   "genuineness": "verified",
-   "outlets": [
-    "The Straits Times",
-    "Al Jazeera",
-    "Bloomberg"
-   ],
-   "image": "../images/world/world-20261119-0922-03.jpg",
-   "image_credit": "The Straits Times"
-  },
-  {
-   "id": "world-20261119-1022-01",
-   "published_ist": "2026-11-19T07:40:00+05:30",
-   "headline": "Aaj ICJ Rohingya par faisla sunayega",
-   "detail": "Antarrashtriya Nyayalaya aaj The Hague me Gambia ke 2019 ke mukadme par faisla sunayega — kya Myanmar ne 2017 me Rohingya ke khilaf narsanhar kiya; faisla IST dopahar 2:30 se padha jayega.",
-   "category": "World",
-   "exam_angle": "ICJ aur 1948 Narsanhar Samjhauta — UPSC ke liye mahatvapurna.",
-   "source": "Al Jazeera",
-   "source_url": "https://www.aljazeera.com/news/2026/11/19/icj-to-rule-on-rohingya-genocide-case-against-myanmar",
-   "genuineness": "corroborated",
-   "outlets": [
-    "Al Jazeera",
-    "Reuters"
-   ],
-   "image": "../images/world/world-20261119-1022-01.jpg",
-   "image_credit": "Al Jazeera"
-  },
-  {
-   "id": "world-20261119-1022-02",
-   "published_ist": "2026-11-19T04:30:00+05:30",
-   "headline": "NSA outage se Middle East khufiya kaam thappa",
-   "detail": "America ki National Security Agency ke network me do din se chal rahi gadbad se Georgia kendra me Middle East par khufiya kaam ruk gaya; NSANet band hua, lekin sabse samvedansheel pranaliyan chal rahi hain aur cyber hamle ki baat nahi hai.",
-   "category": "World",
-   "exam_angle": "America ki khufiya sanrachna aur cyber suraksha — UPSC ke liye upyogi.",
-   "source": "CNN",
-   "source_url": "https://www.cnn.com/2026/11/18/politics/nsa-outage-disrupts-georgia-intel-hub-middle-east-intelligence?cid=external-feeds_iluminar_meta",
-   "genuineness": "corroborated",
-   "outlets": [
-    "CNN",
-    "The Jerusalem Post",
-    "WION",
-    "News18"
-   ],
-   "image": null,
-   "image_credit": null
-  },
-  {
-   "id": "world-20261119-1022-03",
-   "published_ist": "2026-11-19T02:31:00+05:30",
-   "headline": "America-Venezuela sainya saajhedari ka samjhota",
-   "detail": "America ke raksha mantri Pete Hegseth ne Caracas ki achanak yatra me Venezuela ke saath sainya sahyog ka samjhota kiya; sanyukt prashikshan aur khufiya jaankari sajha karenge, antaram rashtrapati Delcy Rodriguez se bhi mile.",
-   "category": "World",
-   "exam_angle": "Venezuela me January me Maduro ko hatane ke baad America ka badhta prabhav — UPSC ke liye mahatvapurna.",
-   "source": "Al Jazeera",
-   "source_url": "https://www.aljazeera.com/news/2026/11/18/us-defence-secretary-announces-military-partnership-on-trip-to-venezuela",
-   "genuineness": "verified",
-   "outlets": [
-    "Al Jazeera",
-    "CNN",
-    "Reuters",
-    "The Times"
-   ],
-   "image": "../images/world/world-20261119-1022-03.jpg",
-   "image_credit": "Al Jazeera"
-  },
-  {
-   "id": "world-20261119-1022-04",
-   "published_ist": "2026-11-18T16:23:00+05:30",
-   "headline": "Hasina ki vapsi par Bangladesh me ashanti",
-   "detail": "Bangladesh ne poorv PM Sheikh Hasina ki December me vapsi ki yojana ke beech hinsa badhne par desh bhar me saikadon ardh-sainik bal tainat kiye; pichle 10 din me 28 jilon me bomb aur aagjani ki ghatnayein hui hain.",
-   "category": "World",
-   "exam_angle": "Bangladesh ki rajneeti aur Sheikh Hasina — UPSC ke liye mahatvapurna.",
-   "source": "Reuters",
-   "source_url": "https://www.reuters.com/world/asia-pacific/bangladesh-deploys-paramilitary-unrest-grows-over-hasinas-return-2026-11-18/",
-   "genuineness": "verified",
-   "outlets": [
-    "Reuters",
-    "Dawn",
-    "The Times of India",
-    "The Straits Times"
-   ],
-   "image": "../images/world/world-20261119-1022-04.jpg",
-   "image_credit": "The Times of India"
-  },
-  {
-   "id": "world-20261119-1122-01",
-   "published_ist": "2026-11-19T07:52:00+05:30",
-   "headline": "Trump Iran par naye hamle par vichar",
-   "detail": "New York Times ki report ke mutabik Rashtrapati Trump Iran par naye bade hamlo par vichar kar rahe hain; Netanyahu chaar se saat din ke sanyukt hawai abhiyan ke liye dabav bana rahe hain, lekin abhi koi faisla nahi hua.",
-   "category": "World",
-   "exam_angle": "America-Iran tanav aur Hormuz: UPSC ke liye mahatvapurna.",
-   "source": "The Jerusalem Post",
-   "source_url": "https://www.jpost.com/international/article-915391",
-   "genuineness": "verified",
-   "outlets": [
-    "The New York Times",
-    "The Jerusalem Post",
-    "Ynet",
-    "Times of Israel",
-    "Israel Hayom"
-   ],
-   "image": "../images/world/world-20261119-1122-01.jpg",
-   "image_credit": "The Jerusalem Post"
-  },
-  {
-   "id": "world-20261119-1122-02",
-   "published_ist": "2026-11-19T00:55:00+05:30",
-   "headline": "Odesa par hamle me chaar mare, 13 ghayal",
-   "detail": "Russia ne Budhvar ko Ukraine ke Odesa shahar ke aitihasik kendra par teen hamle kiye; chaar log mare gaye aur 13 ghayal hue, aur UNESCO-sanrakshit ilake me saat imaraton ki khidkiyan toot gayin.",
-   "category": "World",
-   "exam_angle": "Odesa: Krishna Sagar ka mahatvapurna bandargah aur UNESCO sthal.",
-   "source": "Reuters",
-   "source_url": "https://www.reuters.com/world/europe/russian-attacks-ukrainian-city-odesa-kill-four-officials-say-2026-11-18/",
-   "genuineness": "verified",
-   "outlets": [
-    "Reuters",
-    "Al Jazeera",
-    "Associated Press",
-    "AFP"
-   ],
-   "image": "../images/world/world-20261119-1122-02.jpg",
-   "image_credit": "Al Jazeera"
-  },
-  {
-   "id": "world-20261119-1222-01",
-   "published_ist": "2026-11-19T09:11:00+05:30",
-   "headline": "Van Gogh ki painting $190.4 million me biki",
-   "detail": "Sotheby's New York me Van Gogh ki 1890 ki 'Chataigniers en fleurs' $190.4 million me biki — kalakar ka ab tak ka sabse bada nilami record; Nazi kaal ke malikana vivad par samjhauta hua tha.",
-   "category": "World",
-   "exam_angle": "Nilami record aur sanskritik sampatti ka vivad — UPSC ke liye upyogi.",
-   "source": "Reuters",
-   "source_url": "https://www.reuters.com/lifestyle/van-goghs-chataigniers-en-fleurs-sells-auction-record-1904-million-2026-11-19/",
-   "genuineness": "verified",
-   "outlets": [
-    "Reuters",
-    "The National",
-    "BBC",
-    "The Wall Street Journal",
-    "Le Temps"
-   ],
-   "image": "../images/world/world-20261119-1222-01.jpg",
-   "image_credit": "Vincent van Gogh (Public domain, Wikimedia Commons)"
-  },
-  {
-   "id": "world-20261119-1222-02",
-   "published_ist": "2026-11-19T07:38:00+05:30",
-   "headline": "Peltola ne Alaska Senate seat jeeti",
-   "detail": "Democrat Mary Peltola ne Alaska Senate chunav me Republican Dan Sullivan ko haraya; unki jeet se Senate me Democrats ki sankhya 56 ho gayi, aur ve Senate pahunchne wali pehli Alaska Native bani.",
-   "category": "World",
-   "exam_angle": "America ke midterm natije aur ranked-choice voting — UPSC ke liye mahatvapurna.",
-   "source": "Al Jazeera",
-   "source_url": "https://www.aljazeera.com/news/2026/11/18/why-democrat-mary-peltolas-us-senate-win-in-alaska-matters?traffic_source=rss",
-   "genuineness": "verified",
-   "outlets": [
-    "Associated Press",
-    "Al Jazeera",
-    "Nikkei Asia",
-    "The Times of India",
-    "Democracy Docket"
-   ],
-   "image": "../images/world/world-20261119-1222-02.jpg",
-   "image_credit": "Leah Herman / U.S. House of Representatives (Public domain, Wikimedia Commons)"
-  },
-  {
-   "id": "world-20261119-1222-03",
-   "published_ist": "2026-11-18T23:15:00+05:30",
-   "headline": "Waymo ki driverless gaadiyan freeway se hati",
-   "detail": "California ke DMV ne suraksha chinta par Waymo ki driverless gaadiyon par freeway pratibandh lagaya; company ne America bhar me freeway seva asthayi roop se roki, shahar ki sadkon par seva jaari hai.",
-   "category": "World",
-   "exam_angle": "Driverless gaadiyon ka niyaman aur AI suraksha — UPSC ke liye upyogi.",
-   "source": "CNN",
-   "source_url": "https://www.cnn.com/2026/11/17/us/california-waymo-ban-freeways?cid=external-feeds_iluminar_meta",
-   "genuineness": "verified",
-   "outlets": [
-    "CNN",
-    "The Wall Street Journal",
-    "The Register",
-    "TechSpot",
-    "Free Malaysia Today"
-   ],
-   "image": "../images/world/world-20261119-1222-03.jpg",
-   "image_credit": "Dllu (CC BY 4.0, Wikimedia Commons)"
-  },
-  {
-   "id": "world-20261119-1322-01",
-   "published_ist": "2026-11-19T11:27:04+05:30",
-   "headline": "Khadi desh Iran yuddh rokne me jute",
-   "detail": "Khadi desh, Pakistan aur Turkiye ne America se sampark kar Netanyahu ke Iran par hamle ke dabav ke khilaf yuddh rokne ki koshish tez ki; Mossad pramukh ki America yatra par bhi chinta jatai.",
-   "category": "World",
-   "exam_angle": "Paschim Asia me kootneeti aur Hormuz — UPSC ke liye mahatvapurna.",
-   "source": "AsiaOne",
-   "source_url": "https://www.asiaone.com/asia/mideast-nations-ramp-efforts-avert-all-out-war-israel-urges-iran-strikes-officials-say",
-   "genuineness": "corroborated",
-   "outlets": [
-    "Associated Press",
-    "Reuters"
-   ],
-   "image": "../images/world/world-20261119-1322-01.jpg",
-   "image_credit": "AsiaOne"
-  },
-  {
-   "id": "world-20261119-1322-02",
-   "published_ist": "2026-11-19T03:04:27+05:30",
-   "headline": "Google ne Gemini 4 Neon launch kiya",
-   "detail": "Google ne 18 November ko Gemini 4 Neon model launch kiya — coding aur science kaam ke liye tez frontier model; API keemat $3 prati million input token, 1 million token context window.",
-   "category": "World",
-   "exam_angle": "AI models aur unki keemat — UPSC science-tech ke liye upyogi.",
-   "source": "Google",
-   "source_url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-4-neon/",
-   "genuineness": "verified",
-   "outlets": [
-    "Google",
-    "9to5Google",
-    "VentureBeat",
-    "TalkAndroid"
-   ],
-   "image": null,
-   "image_credit": null
-  },
-  {
-   "id": "world-20261119-1422-01",
-   "published_ist": "2026-11-19T13:14:00+05:30",
-   "headline": "Riyadh me Houthi hamle se PIF Tower kshatigrast",
-   "detail": "Houthi missile ke khatre se nipatne ke dauran Riyadh ke King Abdullah Financial District me sthit 80-manzila PIF Tower ki facade kai manzilon par kshatigrast hui; Saudi gathbandhan ne malbe se nuksan ki pushti ki.",
-   "category": "World",
-   "exam_angle": "PIF: Saudi Arabia ka sovereign wealth fund; KAFD Riyadh ka vittiya jila.",
-   "source": "Gulf Today",
-   "source_url": "https://www.gulftoday.ae/news/2026/11/19/riyadh-skyscraper-damaged-as-saudi-reports-new-houthi-attacks",
-   "genuineness": "verified",
-   "outlets": [
-    "AFP",
-    "The Jerusalem Post",
-    "Times of Israel",
-    "Le Temps"
-   ],
-   "image": "../images/world/world-20261119-1422-01.jpg",
-   "image_credit": "Faisal Arif, Wikimedia Commons (CC BY-SA 4.0)"
-  },
-  {
-   "id": "world-20261119-1422-02",
-   "published_ist": "2026-11-19T06:13:00+05:30",
-   "headline": "Gaza Yellow Line paar Israel ka ground operation",
-   "detail": "Israeli tank budhvar ko Gaza me yuddhaviram rekha Yellow Line ke paar Nuseirat-Bureij ke paas pahunche, October 2025 ke yuddhaviram ke baad pehli baar; sena ne ise surang dhwast karne ki karvai bataya, Hamas ne ullanghan kaha.",
-   "category": "World",
-   "exam_angle": "Yellow Line: Gaza yuddhaviram ke tahat Israel-Hamas niyantran rekha.",
-   "source": "Rappler",
-   "source_url": "https://www.rappler.com/world/middle-east/dozens-flee-israel-launches-rare-ground-operation-central-gaza-november-2026/",
-   "genuineness": "verified",
-   "outlets": [
-    "Reuters",
-    "Rappler",
-    "DD India",
-    "BBC"
-   ],
-   "image": null,
-   "image_credit": null
-  },
-  {
-   "id": "world-20261119-1422-03",
-   "published_ist": "2026-11-18T19:12:00+05:30",
-   "headline": "Uttar Korea ne Yongbyon parmanu kendra badhaya",
-   "detail": "IAEA pramukh Rafael Grossi ne bataya Uttar Korea ne Yongbyon me uranium samriddhi sanyantra ka vistaar pura kar liya hai; agency ne ise gambhir chinta ka vishay kaha, 2009 se uske nirikshak wahan nahi gaye.",
-   "category": "World",
-   "exam_angle": "IAEA: sanyukt rashtra ki parmanu nigrani agency, mukhyalaya Vienna.",
-   "source": "Arab News",
-   "source_url": "https://www.arabnews.com/world/iaea-says-north-korea-is-expanding-uranium-enrichment-plant-at-yongbyon-3012711",
-   "genuineness": "verified",
-   "outlets": [
-    "Arab News",
-    "The Jerusalem Post",
-    "The Korea Times",
-    "NY Post"
-   ],
-   "image": null,
-   "image_credit": null
-  },
-  {
-   "id": "world-20261119-1522-01",
-   "published_ist": "2026-11-19T14:30:00+05:30",
-   "headline": "Denmark ne Greenland suraksha samjhota manzoor kiya",
-   "detail": "Denmark ki sansad ne sarvasammati se America-Greenland suraksha samjhote ko manzoori di; America ko Greenland me do sainya adde banane ki ijazat milegi, 1951 ke samjhote ka vistaar hoga.",
-   "category": "World",
-   "exam_angle": "Greenland: Denmark ka swayatt-shasit kshetra; Arctic me America ki sainya upasthiti aur 1951 raksha sandhi.",
-   "source": "Al Arabiya",
-   "source_url": "https://english.alarabiya.net/News/world/2026/11/19/denmark-s-parliament-ratifies-security-agreement-with-us-greenland",
-   "genuineness": "verified",
-   "outlets": [
-    "Reuters",
-    "Al Arabiya",
-    "The Times of India",
-    "Sweden Herald"
-   ],
-   "image": "../images/world/world-20261119-1522-01.jpg",
-   "image_credit": "Moahim, Wikimedia Commons (CC BY-SA 4.0)"
-  }
- ]
+  "items": [
+    {
+      "id": "world-20261119-0630-01",
+      "published_ist": "2026-11-19T05:20:00+05:30",
+      "headline": "Hormuz me teen tanker mine se aag",
+      "detail": "Iran ke anusar Hormuz ke poorv me teen tel tanker samudri mine se takrakar aag me ghire; Iran ka daava hai jahaz pratibandhit kshetra me the, swatantra pushti abhi nahi hui.",
+      "category": "World",
+      "exam_angle": "Hormuz: vishwa tel vyapar ka mahatvapurna jaladmarumadhya.",
+      "source": "NDTV",
+      "source_url": "https://www.ndtv.com/world-news/3-oil-tankers-catch-fire-after-hitting-mines-east-of-strait-of-hormuz-iran-12346597/amp/1",
+      "genuineness": "corroborated",
+      "outlets": [
+        "NDTV",
+        "Al Jazeera",
+        "Sabq"
+      ],
+      "image": null,
+      "image_credit": null
+    },
+    {
+      "id": "world-20261119-0630-02",
+      "published_ist": "2026-11-18T21:07:00+05:30",
+      "headline": "Jeffries pehle Black Speaker ke ummidvar",
+      "detail": "House Democrats ne band matdan me 251-11 se Hakeem Jeffries ko Speaker pad ke liye namankit kiya; 3 January ko poore House me matdan hoga, jeetne par ve pehle Black Speaker banenge.",
+      "category": "World",
+      "exam_angle": "America ke House Speaker: rashtrapati uttaradhikar me teesra sthan.",
+      "source": "Al Jazeera",
+      "source_url": "https://www.aljazeera.com/news/2026/11/18/hakeem-jeffries-becomes-first-black-nominee-for-us-house-speaker",
+      "genuineness": "verified",
+      "outlets": [
+        "CNN",
+        "Al Jazeera",
+        "Dawn"
+      ],
+      "image": "../images/world/world-20261119-0630-02.jpg",
+      "image_credit": "Office of Representative Hakeem Jeffries, Public domain via Wikimedia Commons"
+    },
+    {
+      "id": "world-20261119-0630-03",
+      "published_ist": "2026-11-18T20:59:00+05:30",
+      "headline": "2035 tak Islam sabse bada dharm",
+      "detail": "Pew Research ke anuman ke mutabik 2035 tak Musalman aabadi 2.57 arab hokar Isaiyon (2.52 arab) se aage nikal jayegi; unchi janm dar is badlav ki mukhya vajah hai.",
+      "category": "World",
+      "exam_angle": "Pew Global Religious Futures: jansankhya aur dharm ka adhyayan.",
+      "source": "Religion News",
+      "source_url": "https://religionnews.com/2026/11/18/muslims-are-projected-to-outnumber-christians-by-2035-as-the-worlds-largest-religion/",
+      "genuineness": "verified",
+      "outlets": [
+        "Al Jazeera",
+        "Religion News",
+        "Associated Press"
+      ],
+      "image": null,
+      "image_credit": null
+    },
+    {
+      "id": "world-20261119-0630-04",
+      "published_ist": "2026-11-18T17:33:00+05:30",
+      "headline": "Israel ka Gaza me naya bhumi abhiyan",
+      "detail": "Israel ne October 2025 yuddhaviram ke baad pehli baar madhya Gaza me Yellow Line ke paschim me bhumi karvai shuru ki; Bureij-Nuseirat ke logon ko ilaka khali karne ko kaha gaya.",
+      "category": "World",
+      "exam_angle": "Gaza yuddhaviram (Oct 2025) aur Board of Peace ki bhoomika.",
+      "source": "Al Jazeera",
+      "source_url": "https://www.aljazeera.com/amp/news/2026/11/18/what-does-israels-new-ground-offensive-mean-for-palestinians-in-gaza",
+      "genuineness": "verified",
+      "outlets": [
+        "Al Jazeera",
+        "Times of Israel",
+        "Haaretz",
+        "Reuters"
+      ],
+      "image": null,
+      "image_credit": null
+    },
+    {
+      "id": "world-20261119-0630-05",
+      "published_ist": "2026-11-17T14:46:00+05:30",
+      "headline": "Bangladesh ka pehla parmanu sanyantra grid se juda",
+      "detail": "Bangladesh ke Rooppur parmanu sanyantra ki pehli ikai ne 17 November ko parikshan ke roop me 350 MW bijli rashtriya grid ko di; poori kshamata 1,200 MW hai aur vanijyik utpadan 10 mahine ke parikshan ke baad shuru hoga.",
+      "category": "World",
+      "exam_angle": "Bangladesh ka pehla parmanu sanyantra; Russia ki Rosatom ne banaya.",
+      "source": "Arab News",
+      "source_url": "https://www.arabnews.pk/world/bangladesh-connects-its-first-nuclear-power-plant-to-national-grid-3007328",
+      "genuineness": "verified",
+      "outlets": [
+        "Arab News",
+        "NewsNextBD",
+        "EnergyNews"
+      ],
+      "image": "../images/world/world-20261119-0630-05.jpg",
+      "image_credit": "Jusujon1980, Wikimedia Commons (CC BY-SA 4.0)"
+    },
+    {
+      "id": "world-20261119-0722-01",
+      "published_ist": "2026-11-18T22:52:00+05:30",
+      "headline": "Kumamoto me 5.7 ka bhukamp",
+      "detail": "Japan ke Kumamoto prant me subah 5.7 teevrata ka bhukamp aaya; koi sunami chetavni nahi, ek hafte tak tez jhatko ki aashanka hai.",
+      "category": "World",
+      "exam_angle": "Japan: Ring of Fire par sthit, bhukamp-prone desh.",
+      "source": "NHK",
+      "source_url": "https://www3.nhk.or.jp/nhkworld/news/20261119de78099/",
+      "genuineness": "verified",
+      "outlets": [
+        "NHK",
+        "Kyodo News",
+        "The Japan Times"
+      ],
+      "image": null,
+      "image_credit": null
+    },
+    {
+      "id": "world-20261119-0722-02",
+      "published_ist": "2026-11-19T05:06:00+05:30",
+      "headline": "Crimean Bridge par hafte me teesra hamla",
+      "detail": "Crimea ke governor ke anusar is hafte teesri baar Crimean Bridge par hamle ke baad yatayat roka gaya; nuksan ka aaklan chal raha hai.",
+      "category": "World",
+      "exam_angle": "Kerch Bridge: Russia-Crimea ko jodne wala 19 km lamba pul.",
+      "source": "Arab News",
+      "source_url": "https://www.arabnews.com/world/third-attack-in-a-week-suspends-traffic-over-crimean-bridge-russian-official-says-3012816",
+      "genuineness": "verified",
+      "outlets": [
+        "Reuters",
+        "BBC",
+        "Gulf News"
+      ],
+      "image": "../images/world/world-20261119-0722-02.jpg",
+      "image_credit": "Arab News"
+    },
+    {
+      "id": "world-20261119-0822-01",
+      "published_ist": "2026-11-19T05:35:00+05:30",
+      "headline": "Anthropic ka $83 IPO, sabse bada tech listing",
+      "detail": "AI company Anthropic ne apna IPO $83 prati share par tay kiya; 980 million share se $81.3 arab juta — ab tak ka sabse bada tech IPO, aaj Nasdaq par ANT ticker se trading shuru hogi.",
+      "category": "World",
+      "exam_angle": "IPO aur AI company ka pehla bada public listing — UPSC ke liye upyogi.",
+      "source": "Fast Company",
+      "source_url": "https://www.fastcompany.com/91644956/ant-stock-live-anthropic-trading-time-date-ipo-share-price",
+      "genuineness": "verified",
+      "outlets": [
+        "Bloomberg",
+        "Reuters",
+        "Fast Company",
+        "PitchBook"
+      ],
+      "image": null,
+      "image_credit": null
+    },
+    {
+      "id": "world-20261119-0822-02",
+      "published_ist": "2026-11-19T04:15:00+05:30",
+      "headline": "Iran ne Kuwait-Bahrain me US thikano par hamla",
+      "detail": "Iran ke drone ne Kuwait ke Ali Al-Salem air base aur Bahrain me US sainya thikano ko nishana banaya; dono deshon ne hamle roke, koi nuksan ya hatahat ki khabar nahi.",
+      "category": "World",
+      "exam_angle": "Khadi me US sainya adde aur America-Iran tanav — UPSC ke liye mahatvapurna.",
+      "source": "Gulf News",
+      "source_url": "https://gulfnews.com/amp/story/world%2Fmena%2Firan-fires-on-us-airbase-in-kuwait-several-times-at-bahrain-1.500752840",
+      "genuineness": "verified",
+      "outlets": [
+        "Associated Press",
+        "AFP",
+        "China Daily"
+      ],
+      "image": null,
+      "image_credit": null
+    },
+    {
+      "id": "world-20261119-0822-03",
+      "published_ist": "2026-11-18T17:32:00+05:30",
+      "headline": "Uttar Korea ne Yongbyon samvardhan sanyantra badhaya",
+      "detail": "IAEA pramukh Grossi ne kaha Uttar Korea ne Yongbyon parmanu parisar me uranium samvardhan sanyantra ka aur vistaar kar liya hai; vistaar October ke ant tak bahari roop se poora ho gaya tha.",
+      "category": "World",
+      "exam_angle": "Uttar Korea ka parmanu karyakram aur IAEA ki bhoomika — UPSC ke liye mahatvapurna.",
+      "source": "Reuters",
+      "source_url": "https://www.reuters.com/world/china/iaea-says-north-korea-is-expanding-uranium-enrichment-plant-yongbyon-2026-11-18/",
+      "genuineness": "verified",
+      "outlets": [
+        "Reuters",
+        "The Korea Times",
+        "The Jerusalem Post",
+        "Al Arabiya"
+      ],
+      "image": null,
+      "image_credit": null
+    },
+    {
+      "id": "world-20261119-0922-01",
+      "published_ist": "2026-11-19T02:31:00+05:30",
+      "headline": "Takaichi ne Putin se pehli mulaqat ki",
+      "detail": "Japan ki PM Sanae Takaichi ne Shenzhen me APEC ke kinare Russia ke rashtrapati Vladimir Putin se lagbhag 30 minute baat ki; 2019 ke baad dono deshon ke netaon ki pehli aamne-saamne mulaqat hai.",
+      "category": "World",
+      "exam_angle": "Japan-Russia sambandh aur APEC shikhar sammelan — UPSC ke liye mahatvapurna.",
+      "source": "NHK",
+      "source_url": "https://www3.nhk.or.jp/nhkworld/news/20261119de78131/",
+      "genuineness": "verified",
+      "outlets": [
+        "NHK",
+        "Kyodo News",
+        "SCMP",
+        "Japan Today"
+      ],
+      "image": "../images/world/world-20261119-0922-01.jpg",
+      "image_credit": "NHK"
+    },
+    {
+      "id": "world-20261119-0922-02",
+      "published_ist": "2026-11-19T05:31:00+05:30",
+      "headline": "Bayesian report: hawa ka khatra anjana tha",
+      "detail": "Britain ki MAIB ne kaha superyacht Bayesian 2024 me Sicily ke paas tez hawa se 15 second me palat gayi thi, saat log mare gaye the; uski hawa se kamzori ka aaklan kabhi hua hi nahi tha, isliye chalak-dal ko khatre ka pata nahi tha.",
+      "category": "World",
+      "exam_angle": "Samudri suraksha jaanch aur MAIB ki bhoomika — UPSC ke liye mahatvapurna.",
+      "source": "GOV.UK",
+      "source_url": "https://www.gov.uk/government/news/bayesian-report-and-safety-flyer-published",
+      "genuineness": "verified",
+      "outlets": [
+        "GOV.UK",
+        "Malay Mail",
+        "Press Association",
+        "LADbible"
+      ],
+      "image": null,
+      "image_credit": null
+    },
+    {
+      "id": "world-20261119-0922-03",
+      "published_ist": "2026-11-19T05:30:00+05:30",
+      "headline": "Machado ne Trump tel saude par sawal uthaye",
+      "detail": "Venezuela ki vipaksh neta Maria Corina Machado ne America ke 100 arab dollar wale tel saude me pardarshita ki kami par sawal uthaye; kaha har saude ki dobara jaanch hogi, lekin America se lambi saajhedari zaroori hai.",
+      "category": "World",
+      "exam_angle": "Venezuela tel sauda aur America ki videsh neeti — UPSC ke liye mahatvapurna.",
+      "source": "The Straits Times",
+      "source_url": "https://www.straitstimes.com/world/venezuelas-opposition-leader-machado-questions-trumps-oil-deal-while-committing-to-us-ties?ref=latest-headlines",
+      "genuineness": "verified",
+      "outlets": [
+        "The Straits Times",
+        "Al Jazeera",
+        "Bloomberg"
+      ],
+      "image": "../images/world/world-20261119-0922-03.jpg",
+      "image_credit": "The Straits Times"
+    },
+    {
+      "id": "world-20261119-1022-01",
+      "published_ist": "2026-11-19T07:40:00+05:30",
+      "headline": "Aaj ICJ Rohingya par faisla sunayega",
+      "detail": "Antarrashtriya Nyayalaya aaj The Hague me Gambia ke 2019 ke mukadme par faisla sunayega — kya Myanmar ne 2017 me Rohingya ke khilaf narsanhar kiya; faisla IST dopahar 2:30 se padha jayega.",
+      "category": "World",
+      "exam_angle": "ICJ aur 1948 Narsanhar Samjhauta — UPSC ke liye mahatvapurna.",
+      "source": "Al Jazeera",
+      "source_url": "https://www.aljazeera.com/news/2026/11/19/icj-to-rule-on-rohingya-genocide-case-against-myanmar",
+      "genuineness": "corroborated",
+      "outlets": [
+        "Al Jazeera",
+        "Reuters"
+      ],
+      "image": "../images/world/world-20261119-1022-01.jpg",
+      "image_credit": "Al Jazeera"
+    },
+    {
+      "id": "world-20261119-1022-02",
+      "published_ist": "2026-11-19T04:30:00+05:30",
+      "headline": "NSA outage se Middle East khufiya kaam thappa",
+      "detail": "America ki National Security Agency ke network me do din se chal rahi gadbad se Georgia kendra me Middle East par khufiya kaam ruk gaya; NSANet band hua, lekin sabse samvedansheel pranaliyan chal rahi hain aur cyber hamle ki baat nahi hai.",
+      "category": "World",
+      "exam_angle": "America ki khufiya sanrachna aur cyber suraksha — UPSC ke liye upyogi.",
+      "source": "CNN",
+      "source_url": "https://www.cnn.com/2026/11/18/politics/nsa-outage-disrupts-georgia-intel-hub-middle-east-intelligence?cid=external-feeds_iluminar_meta",
+      "genuineness": "corroborated",
+      "outlets": [
+        "CNN",
+        "The Jerusalem Post",
+        "WION",
+        "News18"
+      ],
+      "image": null,
+      "image_credit": null
+    },
+    {
+      "id": "world-20261119-1022-03",
+      "published_ist": "2026-11-19T02:31:00+05:30",
+      "headline": "America-Venezuela sainya saajhedari ka samjhota",
+      "detail": "America ke raksha mantri Pete Hegseth ne Caracas ki achanak yatra me Venezuela ke saath sainya sahyog ka samjhota kiya; sanyukt prashikshan aur khufiya jaankari sajha karenge, antaram rashtrapati Delcy Rodriguez se bhi mile.",
+      "category": "World",
+      "exam_angle": "Venezuela me January me Maduro ko hatane ke baad America ka badhta prabhav — UPSC ke liye mahatvapurna.",
+      "source": "Al Jazeera",
+      "source_url": "https://www.aljazeera.com/news/2026/11/18/us-defence-secretary-announces-military-partnership-on-trip-to-venezuela",
+      "genuineness": "verified",
+      "outlets": [
+        "Al Jazeera",
+        "CNN",
+        "Reuters",
+        "The Times"
+      ],
+      "image": "../images/world/world-20261119-1022-03.jpg",
+      "image_credit": "Al Jazeera"
+    },
+    {
+      "id": "world-20261119-1022-04",
+      "published_ist": "2026-11-18T16:23:00+05:30",
+      "headline": "Hasina ki vapsi par Bangladesh me ashanti",
+      "detail": "Bangladesh ne poorv PM Sheikh Hasina ki December me vapsi ki yojana ke beech hinsa badhne par desh bhar me saikadon ardh-sainik bal tainat kiye; pichle 10 din me 28 jilon me bomb aur aagjani ki ghatnayein hui hain.",
+      "category": "World",
+      "exam_angle": "Bangladesh ki rajneeti aur Sheikh Hasina — UPSC ke liye mahatvapurna.",
+      "source": "Reuters",
+      "source_url": "https://www.reuters.com/world/asia-pacific/bangladesh-deploys-paramilitary-unrest-grows-over-hasinas-return-2026-11-18/",
+      "genuineness": "verified",
+      "outlets": [
+        "Reuters",
+        "Dawn",
+        "The Times of India",
+        "The Straits Times"
+      ],
+      "image": "../images/world/world-20261119-1022-04.jpg",
+      "image_credit": "The Times of India"
+    },
+    {
+      "id": "world-20261119-1122-01",
+      "published_ist": "2026-11-19T07:52:00+05:30",
+      "headline": "Trump Iran par naye hamle par vichar",
+      "detail": "New York Times ki report ke mutabik Rashtrapati Trump Iran par naye bade hamlo par vichar kar rahe hain; Netanyahu chaar se saat din ke sanyukt hawai abhiyan ke liye dabav bana rahe hain, lekin abhi koi faisla nahi hua.",
+      "category": "World",
+      "exam_angle": "America-Iran tanav aur Hormuz: UPSC ke liye mahatvapurna.",
+      "source": "The Jerusalem Post",
+      "source_url": "https://www.jpost.com/international/article-915391",
+      "genuineness": "verified",
+      "outlets": [
+        "The New York Times",
+        "The Jerusalem Post",
+        "Ynet",
+        "Times of Israel",
+        "Israel Hayom"
+      ],
+      "image": "../images/world/world-20261119-1122-01.jpg",
+      "image_credit": "The Jerusalem Post"
+    },
+    {
+      "id": "world-20261119-1122-02",
+      "published_ist": "2026-11-19T00:55:00+05:30",
+      "headline": "Odesa par hamle me chaar mare, 13 ghayal",
+      "detail": "Russia ne Budhvar ko Ukraine ke Odesa shahar ke aitihasik kendra par teen hamle kiye; chaar log mare gaye aur 13 ghayal hue, aur UNESCO-sanrakshit ilake me saat imaraton ki khidkiyan toot gayin.",
+      "category": "World",
+      "exam_angle": "Odesa: Krishna Sagar ka mahatvapurna bandargah aur UNESCO sthal.",
+      "source": "Reuters",
+      "source_url": "https://www.reuters.com/world/europe/russian-attacks-ukrainian-city-odesa-kill-four-officials-say-2026-11-18/",
+      "genuineness": "verified",
+      "outlets": [
+        "Reuters",
+        "Al Jazeera",
+        "Associated Press",
+        "AFP"
+      ],
+      "image": "../images/world/world-20261119-1122-02.jpg",
+      "image_credit": "Al Jazeera"
+    },
+    {
+      "id": "world-20261119-1222-01",
+      "published_ist": "2026-11-19T09:11:00+05:30",
+      "headline": "Van Gogh ki painting $190.4 million me biki",
+      "detail": "Sotheby's New York me Van Gogh ki 1890 ki 'Chataigniers en fleurs' $190.4 million me biki — kalakar ka ab tak ka sabse bada nilami record; Nazi kaal ke malikana vivad par samjhauta hua tha.",
+      "category": "World",
+      "exam_angle": "Nilami record aur sanskritik sampatti ka vivad — UPSC ke liye upyogi.",
+      "source": "Reuters",
+      "source_url": "https://www.reuters.com/lifestyle/van-goghs-chataigniers-en-fleurs-sells-auction-record-1904-million-2026-11-19/",
+      "genuineness": "verified",
+      "outlets": [
+        "Reuters",
+        "The National",
+        "BBC",
+        "The Wall Street Journal",
+        "Le Temps"
+      ],
+      "image": "../images/world/world-20261119-1222-01.jpg",
+      "image_credit": "Vincent van Gogh (Public domain, Wikimedia Commons)"
+    },
+    {
+      "id": "world-20261119-1222-02",
+      "published_ist": "2026-11-19T07:38:00+05:30",
+      "headline": "Peltola ne Alaska Senate seat jeeti",
+      "detail": "Democrat Mary Peltola ne Alaska Senate chunav me Republican Dan Sullivan ko haraya; unki jeet se Senate me Democrats ki sankhya 56 ho gayi, aur ve Senate pahunchne wali pehli Alaska Native bani.",
+      "category": "World",
+      "exam_angle": "America ke midterm natije aur ranked-choice voting — UPSC ke liye mahatvapurna.",
+      "source": "Al Jazeera",
+      "source_url": "https://www.aljazeera.com/news/2026/11/18/why-democrat-mary-peltolas-us-senate-win-in-alaska-matters?traffic_source=rss",
+      "genuineness": "verified",
+      "outlets": [
+        "Associated Press",
+        "Al Jazeera",
+        "Nikkei Asia",
+        "The Times of India",
+        "Democracy Docket"
+      ],
+      "image": "../images/world/world-20261119-1222-02.jpg",
+      "image_credit": "Leah Herman / U.S. House of Representatives (Public domain, Wikimedia Commons)"
+    },
+    {
+      "id": "world-20261119-1222-03",
+      "published_ist": "2026-11-18T23:15:00+05:30",
+      "headline": "Waymo ki driverless gaadiyan freeway se hati",
+      "detail": "California ke DMV ne suraksha chinta par Waymo ki driverless gaadiyon par freeway pratibandh lagaya; company ne America bhar me freeway seva asthayi roop se roki, shahar ki sadkon par seva jaari hai.",
+      "category": "World",
+      "exam_angle": "Driverless gaadiyon ka niyaman aur AI suraksha — UPSC ke liye upyogi.",
+      "source": "CNN",
+      "source_url": "https://www.cnn.com/2026/11/17/us/california-waymo-ban-freeways?cid=external-feeds_iluminar_meta",
+      "genuineness": "verified",
+      "outlets": [
+        "CNN",
+        "The Wall Street Journal",
+        "The Register",
+        "TechSpot",
+        "Free Malaysia Today"
+      ],
+      "image": "../images/world/world-20261119-1222-03.jpg",
+      "image_credit": "Dllu (CC BY 4.0, Wikimedia Commons)"
+    },
+    {
+      "id": "world-20261119-1322-01",
+      "published_ist": "2026-11-19T11:27:04+05:30",
+      "headline": "Khadi desh Iran yuddh rokne me jute",
+      "detail": "Khadi desh, Pakistan aur Turkiye ne America se sampark kar Netanyahu ke Iran par hamle ke dabav ke khilaf yuddh rokne ki koshish tez ki; Mossad pramukh ki America yatra par bhi chinta jatai.",
+      "category": "World",
+      "exam_angle": "Paschim Asia me kootneeti aur Hormuz — UPSC ke liye mahatvapurna.",
+      "source": "AsiaOne",
+      "source_url": "https://www.asiaone.com/asia/mideast-nations-ramp-efforts-avert-all-out-war-israel-urges-iran-strikes-officials-say",
+      "genuineness": "corroborated",
+      "outlets": [
+        "Associated Press",
+        "Reuters"
+      ],
+      "image": "../images/world/world-20261119-1322-01.jpg",
+      "image_credit": "AsiaOne"
+    },
+    {
+      "id": "world-20261119-1322-02",
+      "published_ist": "2026-11-19T03:04:27+05:30",
+      "headline": "Google ne Gemini 4 Neon launch kiya",
+      "detail": "Google ne 18 November ko Gemini 4 Neon model launch kiya — coding aur science kaam ke liye tez frontier model; API keemat $3 prati million input token, 1 million token context window.",
+      "category": "World",
+      "exam_angle": "AI models aur unki keemat — UPSC science-tech ke liye upyogi.",
+      "source": "Google",
+      "source_url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-4-neon/",
+      "genuineness": "verified",
+      "outlets": [
+        "Google",
+        "9to5Google",
+        "VentureBeat",
+        "TalkAndroid"
+      ],
+      "image": null,
+      "image_credit": null
+    },
+    {
+      "id": "world-20261119-1422-01",
+      "published_ist": "2026-11-19T13:14:00+05:30",
+      "headline": "Riyadh me Houthi hamle se PIF Tower kshatigrast",
+      "detail": "Houthi missile ke khatre se nipatne ke dauran Riyadh ke King Abdullah Financial District me sthit 80-manzila PIF Tower ki facade kai manzilon par kshatigrast hui; Saudi gathbandhan ne malbe se nuksan ki pushti ki.",
+      "category": "World",
+      "exam_angle": "PIF: Saudi Arabia ka sovereign wealth fund; KAFD Riyadh ka vittiya jila.",
+      "source": "Gulf Today",
+      "source_url": "https://www.gulftoday.ae/news/2026/11/19/riyadh-skyscraper-damaged-as-saudi-reports-new-houthi-attacks",
+      "genuineness": "verified",
+      "outlets": [
+        "AFP",
+        "The Jerusalem Post",
+        "Times of Israel",
+        "Le Temps"
+      ],
+      "image": "../images/world/world-20261119-1422-01.jpg",
+      "image_credit": "Faisal Arif, Wikimedia Commons (CC BY-SA 4.0)"
+    },
+    {
+      "id": "world-20261119-1422-02",
+      "published_ist": "2026-11-19T06:13:00+05:30",
+      "headline": "Gaza Yellow Line paar Israel ka ground operation",
+      "detail": "Israeli tank budhvar ko Gaza me yuddhaviram rekha Yellow Line ke paar Nuseirat-Bureij ke paas pahunche, October 2025 ke yuddhaviram ke baad pehli baar; sena ne ise surang dhwast karne ki karvai bataya, Hamas ne ullanghan kaha.",
+      "category": "World",
+      "exam_angle": "Yellow Line: Gaza yuddhaviram ke tahat Israel-Hamas niyantran rekha.",
+      "source": "Rappler",
+      "source_url": "https://www.rappler.com/world/middle-east/dozens-flee-israel-launches-rare-ground-operation-central-gaza-november-2026/",
+      "genuineness": "verified",
+      "outlets": [
+        "Reuters",
+        "Rappler",
+        "DD India",
+        "BBC"
+      ],
+      "image": null,
+      "image_credit": null
+    },
+    {
+      "id": "world-20261119-1422-03",
+      "published_ist": "2026-11-18T19:12:00+05:30",
+      "headline": "Uttar Korea ne Yongbyon parmanu kendra badhaya",
+      "detail": "IAEA pramukh Rafael Grossi ne bataya Uttar Korea ne Yongbyon me uranium samriddhi sanyantra ka vistaar pura kar liya hai; agency ne ise gambhir chinta ka vishay kaha, 2009 se uske nirikshak wahan nahi gaye.",
+      "category": "World",
+      "exam_angle": "IAEA: sanyukt rashtra ki parmanu nigrani agency, mukhyalaya Vienna.",
+      "source": "Arab News",
+      "source_url": "https://www.arabnews.com/world/iaea-says-north-korea-is-expanding-uranium-enrichment-plant-at-yongbyon-3012711",
+      "genuineness": "verified",
+      "outlets": [
+        "Arab News",
+        "The Jerusalem Post",
+        "The Korea Times",
+        "NY Post"
+      ],
+      "image": null,
+      "image_credit": null
+    },
+    {
+      "id": "world-20261119-1522-01",
+      "published_ist": "2026-11-19T14:30:00+05:30",
+      "headline": "Denmark ne Greenland suraksha samjhota manzoor kiya",
+      "detail": "Denmark ki sansad ne sarvasammati se America-Greenland suraksha samjhote ko manzoori di; America ko Greenland me do sainya adde banane ki ijazat milegi, 1951 ke samjhote ka vistaar hoga.",
+      "category": "World",
+      "exam_angle": "Greenland: Denmark ka swayatt-shasit kshetra; Arctic me America ki sainya upasthiti aur 1951 raksha sandhi.",
+      "source": "Al Arabiya",
+      "source_url": "https://english.alarabiya.net/News/world/2026/11/19/denmark-s-parliament-ratifies-security-agreement-with-us-greenland",
+      "genuineness": "verified",
+      "outlets": [
+        "Reuters",
+        "Al Arabiya",
+        "The Times of India",
+        "Sweden Herald"
+      ],
+      "image": "../images/world/world-20261119-1522-01.jpg",
+      "image_credit": "Moahim, Wikimedia Commons (CC BY-SA 4.0)"
+    },
+    {
+      "id": "world-20261119-1622-01",
+      "published_ist": "2026-11-19T14:02:00+05:30",
+      "headline": "Trump, Xi, Putin ki pehli tri-pakshiya baithak",
+      "detail": "Teeno neta APEC sammelan ke dauraan Shenzhen mein pehli baar ek saath mile; Xi ne baithak ko aitihasik bataya, agenda mein parmanu hathiyaar, Iran aur Ukraine yuddh hain.",
+      "category": "World",
+      "exam_angle": "APEC shikhar sammelan; New START sandhi February 2026 mein samapt — parmanu hathiyaar niyantran par charcha.",
+      "source": "Al Jazeera",
+      "source_url": "https://www.aljazeera.com/news/2026/11/19/trump-meets-putin-and-xi-ahead-of-us-russia-china-trilateral-talks",
+      "genuineness": "verified",
+      "outlets": [
+        "Al Jazeera",
+        "The Korea Times",
+        "The Economic Times",
+        "The Hindu",
+        "Nikkei Asia"
+      ],
+      "image": "../images/world/world-20261119-1622-01.jpg",
+      "image_credit": "Al Jazeera"
+    },
+    {
+      "id": "world-20261119-1622-02",
+      "published_ist": "2026-11-19T14:59:00+05:30",
+      "headline": "Han Duck-soo ki saza radd, mamla dobara sunvai",
+      "detail": "Dakshin Korea ki Supreme Court ne poorv PM Han Duck-soo ki 15 saal ki saza radd kar mamla Seoul High Court ko wapas bheja; ghoshna ke baad ke kuch aarop barkarar, hirasat do mahine badhai.",
+      "category": "World",
+      "exam_angle": "Dakshin Korea: 2024 martial law ke baad Yoon ko hataya gaya; Han par mukadma jaari — UPSC ke liye mahatvapurna.",
+      "source": "Yonhap News Agency",
+      "source_url": "https://en.yna.co.kr/view/AEN20261119001252315",
+      "genuineness": "verified",
+      "outlets": [
+        "Yonhap",
+        "The Straits Times",
+        "Korea Herald",
+        "The Korea Times"
+      ],
+      "image": "../images/world/world-20261119-1622-02.jpg",
+      "image_credit": "Michael Gruber / Austrian Foreign Ministry, Wikimedia Commons (CC BY 2.0)"
+    },
+    {
+      "id": "world-20261119-1022-01",
+      "published_ist": "2026-11-19T15:50:00+05:30",
+      "headline": "ICJ: Myanmar ke khilaf narsanhar ka faisla",
+      "detail": "ICJ ne faisla sunaya — Myanmar ki sena ne 2017 mein hazaaron Rohingya nagrik mare aur vyaapak yaun hinsa ki; adalat ne kuch mamalon mein 'genocidal intent' paya; sabooton ke anusaar lagbhag 10,000 Rohingya mare gaye.",
+      "category": "World",
+      "exam_angle": "ICJ aur 1948 Narsanhar Samjhauta — UPSC ke liye mahatvapurna.",
+      "source": "Al Jazeera",
+      "source_url": "https://www.aljazeera.com/news/2026/11/19/un-top-court-finds-myanmar-killed-10000-rohingya-as-it-rules-on-genocide",
+      "genuineness": "verified",
+      "outlets": [
+        "Al Jazeera",
+        "The Hindu",
+        "The Jerusalem Post",
+        "New Age BD"
+      ],
+      "image": "../images/world/world-20261119-1022-01.jpg",
+      "image_credit": "Al Jazeera"
+    }
+  ]
 }
