@@ -1,0 +1,77 @@
+{
+ "date": "2026-11-20",
+ "date_hi": "20 November 2026",
+ "date_en": "20 November 2026",
+ "episodes": [
+  {
+   "episode": 141,
+   "video_hi": "ydxIcrh0hnI",
+   "video_hinglish": "ydxIcrh0hnI",
+   "capsules": [
+    {
+     "id": "ca-ep141-s1",
+     "headline_hi": "Chakravat Akvan aaj Odisha tat se takrayega",
+     "headline_hinglish": "Chakravat Akvan aaj Odisha tat se takrayega",
+     "detail_hi": "Ek lakh bees hazaar log surakshit jagah pahunchaaye gaye, teen sau se zyada rescue team tainaat.",
+     "detail_hinglish": "Ek lakh bees hazaar log surakshit jagah pahunchaaye gaye, teen sau se zyada rescue team tainaat.",
+     "category_hi": "Environment",
+     "category_en": "Environment"
+    },
+    {
+     "id": "ca-ep141-s2",
+     "headline_hi": "Modi: Tax raahat ke badle naukri badhao",
+     "headline_hinglish": "Modi: Tax raahat ke badle naukri badhao",
+     "detail_hi": "Pradhan Mantri ne FICCI ke shatabdi sammelan mein industry se rozgaar aur vetan badhane ko kaha.",
+     "detail_hinglish": "Pradhan Mantri ne FICCI ke shatabdi sammelan mein industry se rozgaar aur vetan badhane ko kaha.",
+     "category_hi": "Economy",
+     "category_en": "Economy"
+    },
+    {
+     "id": "ca-ep141-s3",
+     "headline_hi": "Purana Quila mein pehla SCO Dialogue Forum",
+     "headline_hinglish": "Purana Quila mein pehla SCO Dialogue Forum",
+     "detail_hi": "Pradhan Mantri Modi ne bees se bais November tak chalne wale pehle SCO Civilisational Dialogue Forum ka udghatan kiya.",
+     "detail_hinglish": "Pradhan Mantri Modi ne bees se bais November tak chalne wale pehle SCO Civilisational Dialogue Forum ka udghatan kiya.",
+     "category_hi": "International",
+     "category_en": "National"
+    },
+    {
+     "id": "ca-ep141-s4",
+     "headline_hi": "EPFO: PF nikaasi aasan, minimum balance 10%",
+     "headline_hinglish": "EPFO: PF nikaasi aasan, minimum balance 10%",
+     "detail_hi": "EPFO ne PF se niyamit nikaasi ki nayi yojana ko swikriti di, minimum balance dus pratishat kar diya.",
+     "detail_hinglish": "EPFO ne PF se niyamit nikaasi ki nayi yojana ko swikriti di, minimum balance dus pratishat kar diya.",
+     "category_hi": "Economy",
+     "category_en": "Economy"
+    },
+    {
+     "id": "ca-ep141-s5",
+     "headline_hi": "America mein Bharatiya companiyon ka record nivesh",
+     "headline_hinglish": "America mein Bharatiya companiyon ka record nivesh",
+     "detail_hi": "Bharatiya companiyon ne America mein bees dashamlav paanch arab dollar ka nivesh kiya, is saal sabse zyada.",
+     "detail_hinglish": "Bharatiya companiyon ne America mein bees dashamlav paanch arab dollar ka nivesh kiya, is saal sabse zyada.",
+     "category_hi": "Economy",
+     "category_en": "Economy"
+    }
+   ],
+   "mcq": {
+    "id": "ca-ep141-mcq",
+    "q_hi": "Pehla SCO Civilisational Dialogue Forum kahan aayojit ho raha hai?",
+    "q_hinglish": "Pehla SCO Civilisational Dialogue Forum kahan aayojit ho raha hai?",
+    "options_hi": [
+     "Purana Quila",
+     "India Gate",
+     "Qutub Minar",
+     "Lal Qila"
+    ],
+    "options_hinglish": [
+     "Purana Quila",
+     "India Gate",
+     "Qutub Minar",
+     "Lal Qila"
+    ],
+    "answer_index": 0
+   }
+  }
+ ]
+}
