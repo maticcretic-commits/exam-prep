@@ -182,6 +182,62 @@
    ],
    "image": null,
    "image_credit": null
+  },
+  {
+   "id": "world-20261119-0922-01",
+   "published_ist": "2026-11-19T02:31:00+05:30",
+   "headline": "Takaichi ne Putin se pehli mulaqat ki",
+   "detail": "Japan ki PM Sanae Takaichi ne Shenzhen me APEC ke kinare Russia ke rashtrapati Vladimir Putin se lagbhag 30 minute baat ki; 2019 ke baad dono deshon ke netaon ki pehli aamne-saamne mulaqat hai.",
+   "category": "World",
+   "exam_angle": "Japan-Russia sambandh aur APEC shikhar sammelan — UPSC ke liye mahatvapurna.",
+   "source": "NHK",
+   "source_url": "https://www3.nhk.or.jp/nhkworld/news/20261119de78131/",
+   "genuineness": "verified",
+   "outlets": [
+    "NHK",
+    "Kyodo News",
+    "SCMP",
+    "Japan Today"
+   ],
+   "image": "../images/world/world-20261119-0922-01.jpg",
+   "image_credit": "NHK"
+  },
+  {
+   "id": "world-20261119-0922-02",
+   "published_ist": "2026-11-19T05:31:00+05:30",
+   "headline": "Bayesian report: hawa ka khatra anjana tha",
+   "detail": "Britain ki MAIB ne kaha superyacht Bayesian 2024 me Sicily ke paas tez hawa se 15 second me palat gayi thi, saat log mare gaye the; uski hawa se kamzori ka aaklan kabhi hua hi nahi tha, isliye chalak-dal ko khatre ka pata nahi tha.",
+   "category": "World",
+   "exam_angle": "Samudri suraksha jaanch aur MAIB ki bhoomika — UPSC ke liye mahatvapurna.",
+   "source": "GOV.UK",
+   "source_url": "https://www.gov.uk/government/news/bayesian-report-and-safety-flyer-published",
+   "genuineness": "verified",
+   "outlets": [
+    "GOV.UK",
+    "Malay Mail",
+    "Press Association",
+    "LADbible"
+   ],
+   "image": null,
+   "image_credit": null
+  },
+  {
+   "id": "world-20261119-0922-03",
+   "published_ist": "2026-11-19T05:30:00+05:30",
+   "headline": "Machado ne Trump tel saude par sawal uthaye",
+   "detail": "Venezuela ki vipaksh neta Maria Corina Machado ne America ke 100 arab dollar wale tel saude me pardarshita ki kami par sawal uthaye; kaha har saude ki dobara jaanch hogi, lekin America se lambi saajhedari zaroori hai.",
+   "category": "World",
+   "exam_angle": "Venezuela tel sauda aur America ki videsh neeti — UPSC ke liye mahatvapurna.",
+   "source": "The Straits Times",
+   "source_url": "https://www.straitstimes.com/world/venezuelas-opposition-leader-machado-questions-trumps-oil-deal-while-committing-to-us-ties?ref=latest-headlines",
+   "genuineness": "verified",
+   "outlets": [
+    "The Straits Times",
+    "Al Jazeera",
+    "Bloomberg"
+   ],
+   "image": "../images/world/world-20261119-0922-03.jpg",
+   "image_credit": "The Straits Times"
   }
  ]
 }
