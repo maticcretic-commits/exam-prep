@@ -1,6 +1,62 @@
 {
- "updated_ist": "2026-11-19T08:25:22+05:30",
+ "updated_ist": "2026-11-19T09:26:34+05:30",
  "items": [
+  {
+   "id": "world-20261119-0922-01",
+   "published_ist": "2026-11-19T02:31:00+05:30",
+   "headline": "Takaichi ne Putin se pehli mulaqat ki",
+   "detail": "Japan ki PM Sanae Takaichi ne Shenzhen me APEC ke kinare Russia ke rashtrapati Vladimir Putin se lagbhag 30 minute baat ki; 2019 ke baad dono deshon ke netaon ki pehli aamne-saamne mulaqat hai.",
+   "category": "World",
+   "exam_angle": "Japan-Russia sambandh aur APEC shikhar sammelan — UPSC ke liye mahatvapurna.",
+   "source": "NHK",
+   "source_url": "https://www3.nhk.or.jp/nhkworld/news/20261119de78131/",
+   "genuineness": "verified",
+   "outlets": [
+    "NHK",
+    "Kyodo News",
+    "SCMP",
+    "Japan Today"
+   ],
+   "image": "../images/world/world-20261119-0922-01.jpg",
+   "image_credit": "NHK"
+  },
+  {
+   "id": "world-20261119-0922-02",
+   "published_ist": "2026-11-19T05:31:00+05:30",
+   "headline": "Bayesian report: hawa ka khatra anjana tha",
+   "detail": "Britain ki MAIB ne kaha superyacht Bayesian 2024 me Sicily ke paas tez hawa se 15 second me palat gayi thi, saat log mare gaye the; uski hawa se kamzori ka aaklan kabhi hua hi nahi tha, isliye chalak-dal ko khatre ka pata nahi tha.",
+   "category": "World",
+   "exam_angle": "Samudri suraksha jaanch aur MAIB ki bhoomika — UPSC ke liye mahatvapurna.",
+   "source": "GOV.UK",
+   "source_url": "https://www.gov.uk/government/news/bayesian-report-and-safety-flyer-published",
+   "genuineness": "verified",
+   "outlets": [
+    "GOV.UK",
+    "Malay Mail",
+    "Press Association",
+    "LADbible"
+   ],
+   "image": null,
+   "image_credit": null
+  },
+  {
+   "id": "world-20261119-0922-03",
+   "published_ist": "2026-11-19T05:30:00+05:30",
+   "headline": "Machado ne Trump tel saude par sawal uthaye",
+   "detail": "Venezuela ki vipaksh neta Maria Corina Machado ne America ke 100 arab dollar wale tel saude me pardarshita ki kami par sawal uthaye; kaha har saude ki dobara jaanch hogi, lekin America se lambi saajhedari zaroori hai.",
+   "category": "World",
+   "exam_angle": "Venezuela tel sauda aur America ki videsh neeti — UPSC ke liye mahatvapurna.",
+   "source": "The Straits Times",
+   "source_url": "https://www.straitstimes.com/world/venezuelas-opposition-leader-machado-questions-trumps-oil-deal-while-committing-to-us-ties?ref=latest-headlines",
+   "genuineness": "verified",
+   "outlets": [
+    "The Straits Times",
+    "Al Jazeera",
+    "Bloomberg"
+   ],
+   "image": "../images/world/world-20261119-0922-03.jpg",
+   "image_credit": "The Straits Times"
+  },
   {
    "id": "world-20261119-0822-01",
    "published_ist": "2026-11-19T05:35:00+05:30",
@@ -392,63 +448,6 @@
     "Fars News Agency",
     "Free Malaysia Today",
     "Kurdistan24"
-   ],
-   "image": null,
-   "image_credit": null
-  },
-  {
-   "id": "world-20261118-1522-01",
-   "published_ist": "2026-11-18T13:20:00+05:30",
-   "headline": "Xi-Putin mile, bahudhruviya duniya ka vaada",
-   "detail": "APEC ke kinare Shenzhen me Xi Jinping aur Vladimir Putin mile; dono ne kaha Russia aur China bahudhruviya duniya ki ore netritva karenge, aur kal Trump ke saath pehli tri-pakshiya baithak hogi.",
-   "category": "World",
-   "exam_angle": "APEC, China-Russia saajhedaari aur bahudhruviya vyavastha — UPSC ke liye mahatvapurna.",
-   "source": "Al Jazeera",
-   "source_url": "https://www.aljazeera.com/news/2026/11/18/president-xi-says-russia-and-china-should-lead-push-to-multipolar-world",
-   "genuineness": "verified",
-   "outlets": [
-    "Al Jazeera",
-    "Nikkei Asia",
-    "Reuters",
-    "The Federal"
-   ],
-   "image": null,
-   "image_credit": null
-  },
-  {
-   "id": "world-20261118-1622-01",
-   "published_ist": "2026-11-18T13:15:00+05:30",
-   "headline": "Takaichi pehli baar China pahunchi",
-   "detail": "Japan ki PM Sanae Takaichi APEC shikhar sammelan ke liye Shenzhen pahunchi; Taiwan par unki tippani ke baad se tanav ke beech yeh unki pehli China yatra hai, Xi Jinping se aupcharik baithak ki sambhavna kam hai.",
-   "category": "World",
-   "exam_angle": "Japan-China, Taiwan aur APEC — UPSC ke liye mahatvapurna.",
-   "source": "Kyodo News",
-   "source_url": "https://english.kyodonews.net/articles/-/91833",
-   "genuineness": "verified",
-   "outlets": [
-    "Kyodo News",
-    "Nikkei Asia",
-    "Free Malaysia Today",
-    "Arab News",
-    "Channel News Asia"
-   ],
-   "image": "../images/world/world-20261118-1622-01.jpg",
-   "image_credit": "Cabinet Public Affairs Office, Wikimedia Commons (CC BY 4.0)"
-  },
-  {
-   "id": "world-20261118-1722-04",
-   "published_ist": "2026-11-18T13:08:00+05:30",
-   "headline": "Hormuz me ADNOC jahaz par hamla, ek lapata",
-   "detail": "Hormuz se guzarte ADNOC ke jahaz par hamla hua; ek chalak dal sadasya lapata aur 11 ghayal hue, UAE ki tel company ne WAM ko bataya.",
-   "category": "World",
-   "exam_angle": "Hormuz, Khadi me tel suraksha aur America-Iran tanav — UPSC ke liye mahatvapurna.",
-   "source": "Gulf News",
-   "source_url": "https://gulfnews.com/world/mena/middle-east-war-iran-attacks-bahrain-kuwait-drone-threats-keep-gulf-on-high-alert-as-us-hits-irans-qeshm-1.500751444",
-   "genuineness": "verified",
-   "outlets": [
-    "Dawn",
-    "Gulf News",
-    "WAM"
    ],
    "image": null,
    "image_credit": null
