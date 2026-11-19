@@ -1,4 +1,5 @@
 {
+  "date": "2026-11-19",
   "items": [
     {
       "id": "world-20261119-0630-01",
@@ -727,6 +728,77 @@
       "outlets": [
         "Reuters",
         "Agence Europe"
+      ],
+      "image": null,
+      "image_credit": null
+    },
+    {
+      "id": "world-20261119-1922-01",
+      "published_ist": "2026-11-17T23:20:00+05:30",
+      "headline": "NASA ka Terra satellite 1 December ko band",
+      "detail": "27 saal baad NASA ka Terra satellite 1 December 2026 se vigyan data lena band kar dega; January 2027 me iske saare system band honge.",
+      "category": "World",
+      "exam_angle": "Earth observation satellites, remote sensing — UPSC Science & Tech",
+      "source": "NASA Science",
+      "source_url": "https://science.nasa.gov/blogs/science-news/2026/11/17/nasas-terra-mission-to-end/",
+      "genuineness": "verified",
+      "outlets": [
+        "NASA Science",
+        "GeekRadar",
+        "UrduPoint"
+      ],
+      "image": null,
+      "image_credit": null
+    },
+    {
+      "id": "world-20261119-1922-02",
+      "published_ist": "2026-11-19T12:45:00+05:30",
+      "headline": "APEC me Indonesia-China ke bade samjhote",
+      "detail": "Indonesia aur China ne Shenzhen me APEC shikhar sammelan ke dauran smart city, manufacturing aur infrastructure par chaar bade samjhote kiye.",
+      "category": "World",
+      "exam_angle": "APEC 2026, regional economic cooperation — UPSC IR",
+      "source": "The Manila Times",
+      "source_url": "https://www.manilatimes.net/2026/11/18/tmt-newswire/media-outreach-newswire/indonesia-and-chinese-partners-set-out-usd-63-billion-in-cooperation-at-apec-shenzhen/2473375/amp",
+      "genuineness": "verified",
+      "outlets": [
+        "Reuters",
+        "Antara",
+        "Media OutReach Newswire"
+      ],
+      "image": null,
+      "image_credit": null
+    },
+    {
+      "id": "world-20261119-1922-03",
+      "published_ist": "2026-11-19T12:55:00+05:30",
+      "headline": "Trump-Xi-Putin ki sanyukt shanti ghoshna",
+      "detail": "Shenzhen me pehli tri-pakshiya baithak ke baad Trump, Xi aur Putin ne 'Shanti Ghoshna' jaari ki; parmanu yuddh kabhi jeeta nahi ja sakta, is par sahmati bani.",
+      "category": "World",
+      "exam_angle": "Nuclear arms control, APEC, UNSC reform — UPSC IR",
+      "source": "The New Indian Express",
+      "source_url": "https://www.newindianexpress.com/world/2026/Nov/19/nuclear-war-cannot-be-won-must-never-be-fought-trump-putin-and-xi-adopt-peace-declaration-after-historic-talks",
+      "genuineness": "verified",
+      "outlets": [
+        "USA Today",
+        "Nikkei Asia",
+        "The New Indian Express"
+      ],
+      "image": null,
+      "image_credit": null
+    },
+    {
+      "id": "world-20261119-1922-04",
+      "published_ist": "2026-11-19T18:35:00+05:30",
+      "headline": "Uganda bhuskhalan peediton ki UN me shikayat",
+      "detail": "2019 ke Bududa bhuskhalan ke 48 peediton ne Uganda sarkar ke khilaf UN Human Rights Committee me shikayat ki; punarvas aur muaavze ki maang hai.",
+      "category": "World",
+      "exam_angle": "Climate adaptation, UN Human Rights Committee — UPSC Environment",
+      "source": "MyJoyOnline",
+      "source_url": "https://www.myjoyonline.com/survivors-of-ugandas-deadly-landslide-seek-justice-at-the-un/",
+      "genuineness": "corroborated",
+      "outlets": [
+        "BBC",
+        "The Brief Brief"
       ],
       "image": null,
       "image_credit": null
