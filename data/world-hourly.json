@@ -1,6 +1,77 @@
 {
-  "updated_ist": "2026-11-19T18:25:49+05:30",
+  "updated_ist": "2026-11-19T19:28:24+05:30",
   "items": [
+    {
+      "id": "world-20261119-1922-01",
+      "published_ist": "2026-11-17T23:20:00+05:30",
+      "headline": "NASA ka Terra satellite 1 December ko band",
+      "detail": "27 saal baad NASA ka Terra satellite 1 December 2026 se vigyan data lena band kar dega; January 2027 me iske saare system band honge.",
+      "category": "World",
+      "exam_angle": "Earth observation satellites, remote sensing — UPSC Science & Tech",
+      "source": "NASA Science",
+      "source_url": "https://science.nasa.gov/blogs/science-news/2026/11/17/nasas-terra-mission-to-end/",
+      "genuineness": "verified",
+      "outlets": [
+        "NASA Science",
+        "GeekRadar",
+        "UrduPoint"
+      ],
+      "image": null,
+      "image_credit": null
+    },
+    {
+      "id": "world-20261119-1922-02",
+      "published_ist": "2026-11-19T12:45:00+05:30",
+      "headline": "APEC me Indonesia-China ke bade samjhote",
+      "detail": "Indonesia aur China ne Shenzhen me APEC shikhar sammelan ke dauran smart city, manufacturing aur infrastructure par chaar bade samjhote kiye.",
+      "category": "World",
+      "exam_angle": "APEC 2026, regional economic cooperation — UPSC IR",
+      "source": "The Manila Times",
+      "source_url": "https://www.manilatimes.net/2026/11/18/tmt-newswire/media-outreach-newswire/indonesia-and-chinese-partners-set-out-usd-63-billion-in-cooperation-at-apec-shenzhen/2473375/amp",
+      "genuineness": "verified",
+      "outlets": [
+        "Reuters",
+        "Antara",
+        "Media OutReach Newswire"
+      ],
+      "image": null,
+      "image_credit": null
+    },
+    {
+      "id": "world-20261119-1922-03",
+      "published_ist": "2026-11-19T12:55:00+05:30",
+      "headline": "Trump-Xi-Putin ki sanyukt shanti ghoshna",
+      "detail": "Shenzhen me pehli tri-pakshiya baithak ke baad Trump, Xi aur Putin ne 'Shanti Ghoshna' jaari ki; parmanu yuddh kabhi jeeta nahi ja sakta, is par sahmati bani.",
+      "category": "World",
+      "exam_angle": "Nuclear arms control, APEC, UNSC reform — UPSC IR",
+      "source": "The New Indian Express",
+      "source_url": "https://www.newindianexpress.com/world/2026/Nov/19/nuclear-war-cannot-be-won-must-never-be-fought-trump-putin-and-xi-adopt-peace-declaration-after-historic-talks",
+      "genuineness": "verified",
+      "outlets": [
+        "USA Today",
+        "Nikkei Asia",
+        "The New Indian Express"
+      ],
+      "image": null,
+      "image_credit": null
+    },
+    {
+      "id": "world-20261119-1922-04",
+      "published_ist": "2026-11-19T18:35:00+05:30",
+      "headline": "Uganda bhuskhalan peediton ki UN me shikayat",
+      "detail": "2019 ke Bududa bhuskhalan ke 48 peediton ne Uganda sarkar ke khilaf UN Human Rights Committee me shikayat ki; punarvas aur muaavze ki maang hai.",
+      "category": "World",
+      "exam_angle": "Climate adaptation, UN Human Rights Committee — UPSC Environment",
+      "source": "MyJoyOnline",
+      "source_url": "https://www.myjoyonline.com/survivors-of-ugandas-deadly-landslide-seek-justice-at-the-un/",
+      "genuineness": "corroborated",
+      "outlets": [
+        "BBC",
+        "The Brief Brief"
+      ],
+      "image": null,
+      "image_credit": null
+    },
     {
       "id": "world-20261119-1022-01",
       "published_ist": "2026-11-19T15:50:00+05:30",
@@ -378,81 +449,6 @@
       ],
       "image": "../images/world/world-20261119-0722-02.jpg",
       "image_credit": "Arab News"
-    },
-    {
-      "id": "world-20261119-1022-02",
-      "published_ist": "2026-11-19T04:30:00+05:30",
-      "headline": "NSA outage se Middle East khufiya kaam thappa",
-      "detail": "America ki National Security Agency ke network me do din se chal rahi gadbad se Georgia kendra me Middle East par khufiya kaam ruk gaya; NSANet band hua, lekin sabse samvedansheel pranaliyan chal rahi hain aur cyber hamle ki baat nahi hai.",
-      "category": "World",
-      "exam_angle": "America ki khufiya sanrachna aur cyber suraksha — UPSC ke liye upyogi.",
-      "source": "CNN",
-      "source_url": "https://www.cnn.com/2026/11/18/politics/nsa-outage-disrupts-georgia-intel-hub-middle-east-intelligence?cid=external-feeds_iluminar_meta",
-      "genuineness": "corroborated",
-      "outlets": [
-        "CNN",
-        "The Jerusalem Post",
-        "WION",
-        "News18"
-      ],
-      "image": null,
-      "image_credit": null
-    },
-    {
-      "id": "world-20261119-0822-02",
-      "published_ist": "2026-11-19T04:15:00+05:30",
-      "headline": "Iran ne Kuwait-Bahrain me US thikano par hamla",
-      "detail": "Iran ke drone ne Kuwait ke Ali Al-Salem air base aur Bahrain me US sainya thikano ko nishana banaya; dono deshon ne hamle roke, koi nuksan ya hatahat ki khabar nahi.",
-      "category": "World",
-      "exam_angle": "Khadi me US sainya adde aur America-Iran tanav — UPSC ke liye mahatvapurna.",
-      "source": "Gulf News",
-      "source_url": "https://gulfnews.com/amp/story/world%2Fmena%2Firan-fires-on-us-airbase-in-kuwait-several-times-at-bahrain-1.500752840",
-      "genuineness": "verified",
-      "outlets": [
-        "Associated Press",
-        "AFP",
-        "China Daily"
-      ],
-      "image": null,
-      "image_credit": null
-    },
-    {
-      "id": "world-20261119-1322-02",
-      "published_ist": "2026-11-19T03:04:27+05:30",
-      "headline": "Google ne Gemini 4 Neon launch kiya",
-      "detail": "Google ne 18 November ko Gemini 4 Neon model launch kiya — coding aur science kaam ke liye tez frontier model; API keemat $3 prati million input token, 1 million token context window.",
-      "category": "World",
-      "exam_angle": "AI models aur unki keemat — UPSC science-tech ke liye upyogi.",
-      "source": "Google",
-      "source_url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-4-neon/",
-      "genuineness": "verified",
-      "outlets": [
-        "Google",
-        "9to5Google",
-        "VentureBeat",
-        "TalkAndroid"
-      ],
-      "image": null,
-      "image_credit": null
-    },
-    {
-      "id": "world-20261119-1022-03",
-      "published_ist": "2026-11-19T02:31:00+05:30",
-      "headline": "America-Venezuela sainya saajhedari ka samjhota",
-      "detail": "America ke raksha mantri Pete Hegseth ne Caracas ki achanak yatra me Venezuela ke saath sainya sahyog ka samjhota kiya; sanyukt prashikshan aur khufiya jaankari sajha karenge, antaram rashtrapati Delcy Rodriguez se bhi mile.",
-      "category": "World",
-      "exam_angle": "Venezuela me January me Maduro ko hatane ke baad America ka badhta prabhav — UPSC ke liye mahatvapurna.",
-      "source": "Al Jazeera",
-      "source_url": "https://www.aljazeera.com/news/2026/11/18/us-defence-secretary-announces-military-partnership-on-trip-to-venezuela",
-      "genuineness": "verified",
-      "outlets": [
-        "Al Jazeera",
-        "CNN",
-        "Reuters",
-        "The Times"
-      ],
-      "image": "../images/world/world-20261119-1022-03.jpg",
-      "image_credit": "Al Jazeera"
     }
   ]
 }
