@@ -657,6 +657,79 @@
       ],
       "image": "../images/world/world-20261119-1722-04.jpg",
       "image_credit": "Verlin Levi Collins, U.S. Air Force, Public domain via Wikimedia Commons"
+    },
+    {
+      "id": "world-20261119-1822-01",
+      "published_ist": "2026-11-19T12:38:00+05:30",
+      "headline": "Bangladesh me Yunus ka ghar jalaya gaya",
+      "detail": "Chattogram me Muhammad Yunus ke paitrik ghar aur Grameen Bank ki shakhaon me aag lagayi gayi; 28 jilon me kachche bam aur aagajani hui, kam se kam chaar log mare gaye.",
+      "category": "World",
+      "exam_angle": "Bangladesh: Hasina ko maut ki saza ke ek saal baad ashanti; Yunus antarim sarkar ke pramukh rahe.",
+      "source": "The Japan Times",
+      "source_url": "https://www.japantimes.co.jp/news/2026/11/19/asia-pacific/bangladesh-protests-hasina-yunus/",
+      "genuineness": "corroborated",
+      "outlets": [
+        "Reuters",
+        "PTI",
+        "The Telegraph"
+      ],
+      "image": "../images/world/world-20261119-1822-01.jpg",
+      "image_credit": "The Japan Times"
+    },
+    {
+      "id": "world-20261119-1822-02",
+      "published_ist": "2026-11-19T10:30:00+05:30",
+      "headline": "GTA VI 13 saal baad duniya bhar me launch",
+      "detail": "Rockstar ka GTA VI aaj PS5 aur Xbox par launch hua; presale me 17 million se zyada copies se 1.65 arab dollar ki kamai hui, Metacritic par 99 ka score mila.",
+      "category": "World",
+      "exam_angle": null,
+      "source": "USA Today",
+      "source_url": "https://www.usatoday.com/story/tech/gaming/2026/11/19/gta-6-live-updates--live/92811863007/",
+      "genuineness": "verified",
+      "outlets": [
+        "USA Today",
+        "Malay Mail",
+        "DD India",
+        "People"
+      ],
+      "image": null,
+      "image_credit": null
+    },
+    {
+      "id": "world-20261119-1822-03",
+      "published_ist": "2026-11-19T09:28:00+05:30",
+      "headline": "Haiti rashtrapati hatya: Miami me pastor doshi",
+      "detail": "Miami ki federal adalat ne pastor Christian Sanon ko Haiti ke rashtrapati Jovenel Moise ki 2021 hatya ki sajish ke aath aaropon me doshi thahraya; 10 February ko saza sunayi jayegi, umar-kaid tak ho sakti hai.",
+      "category": "World",
+      "exam_angle": "Haiti: 2021 se koi rashtrapati nahi; America me 40 se zyada logon par aarop lage.",
+      "source": "Al Jazeera",
+      "source_url": "https://www.aljazeera.com/amp/news/2026/11/19/miami-court-convicts-us-haitian-pastor-over-2021-assassination-of-president",
+      "genuineness": "verified",
+      "outlets": [
+        "Al Jazeera",
+        "Reuters",
+        "The Hindu",
+        "CNN"
+      ],
+      "image": null,
+      "image_credit": null
+    },
+    {
+      "id": "world-20261119-1822-04",
+      "published_ist": "2026-11-18T17:35:00+05:30",
+      "headline": "Ukraine ke liye EU ka 45 arab euro rin",
+      "detail": "European Commission ne 2027 ke liye Ukraine ko 45 arab euro ka rin prastavit kiya — 25 arab sainya sahayata aur 20 arab budget ke liye; Ukraine ko chukana tabhi hoga jab Russia harjana de.",
+      "category": "World",
+      "exam_angle": "EU: Ukraine ko rin; Russia ki japt sampatti aur harjane par bahas jaari.",
+      "source": "Free Malaysia Today",
+      "source_url": "https://www.freemalaysiatoday.com/category/world/2026/11/18/eu-proposes-45bil-ukraine-loan-to-be-repaid-after-russia-pays-reparations",
+      "genuineness": "corroborated",
+      "outlets": [
+        "Reuters",
+        "Agence Europe"
+      ],
+      "image": null,
+      "image_credit": null
     }
   ]
 }
