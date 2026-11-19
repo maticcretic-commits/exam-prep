@@ -1,0 +1,93 @@
+[
+ {
+  "id": "world-20261119-0630-01",
+  "published_ist": "2026-11-19T05:20:00+05:30",
+  "headline": "Hormuz me teen tanker mine se aag",
+  "detail": "Iran ke anusar Hormuz ke poorv me teen tel tanker samudri mine se takrakar aag me ghire; Iran ka daava hai jahaz pratibandhit kshetra me the, swatantra pushti abhi nahi hui.",
+  "category": "World",
+  "exam_angle": "Hormuz: vishwa tel vyapar ka mahatvapurna jaladmarumadhya.",
+  "source": "NDTV",
+  "source_url": "https://www.ndtv.com/world-news/3-oil-tankers-catch-fire-after-hitting-mines-east-of-strait-of-hormuz-iran-12346597/amp/1",
+  "genuineness": "corroborated",
+  "outlets": [
+   "NDTV",
+   "Al Jazeera",
+   "Sabq"
+  ],
+  "image": null,
+  "image_credit": null
+ },
+ {
+  "id": "world-20261119-0630-02",
+  "published_ist": "2026-11-18T21:07:00+05:30",
+  "headline": "Jeffries pehle Black Speaker ke ummidvar",
+  "detail": "House Democrats ne band matdan me 251-11 se Hakeem Jeffries ko Speaker pad ke liye namankit kiya; 3 January ko poore House me matdan hoga, jeetne par ve pehle Black Speaker banenge.",
+  "category": "World",
+  "exam_angle": "America ke House Speaker: rashtrapati uttaradhikar me teesra sthan.",
+  "source": "Al Jazeera",
+  "source_url": "https://www.aljazeera.com/news/2026/11/18/hakeem-jeffries-becomes-first-black-nominee-for-us-house-speaker",
+  "genuineness": "verified",
+  "outlets": [
+   "CNN",
+   "Al Jazeera",
+   "Dawn"
+  ],
+  "image": "../images/world/world-20261119-0630-02.jpg",
+  "image_credit": "Office of Representative Hakeem Jeffries, Public domain via Wikimedia Commons"
+ },
+ {
+  "id": "world-20261119-0630-03",
+  "published_ist": "2026-11-18T20:59:00+05:30",
+  "headline": "2035 tak Islam sabse bada dharm",
+  "detail": "Pew Research ke anuman ke mutabik 2035 tak Musalman aabadi 2.57 arab hokar Isaiyon (2.52 arab) se aage nikal jayegi; unchi janm dar is badlav ki mukhya vajah hai.",
+  "category": "World",
+  "exam_angle": "Pew Global Religious Futures: jansankhya aur dharm ka adhyayan.",
+  "source": "Religion News",
+  "source_url": "https://religionnews.com/2026/11/18/muslims-are-projected-to-outnumber-christians-by-2035-as-the-worlds-largest-religion/",
+  "genuineness": "verified",
+  "outlets": [
+   "Al Jazeera",
+   "Religion News",
+   "Associated Press"
+  ],
+  "image": null,
+  "image_credit": null
+ },
+ {
+  "id": "world-20261119-0630-04",
+  "published_ist": "2026-11-18T17:33:00+05:30",
+  "headline": "Israel ka Gaza me naya bhumi abhiyan",
+  "detail": "Israel ne October 2025 yuddhaviram ke baad pehli baar madhya Gaza me Yellow Line ke paschim me bhumi karvai shuru ki; Bureij-Nuseirat ke logon ko ilaka khali karne ko kaha gaya.",
+  "category": "World",
+  "exam_angle": "Gaza yuddhaviram (Oct 2025) aur Board of Peace ki bhoomika.",
+  "source": "Al Jazeera",
+  "source_url": "https://www.aljazeera.com/amp/news/2026/11/18/what-does-israels-new-ground-offensive-mean-for-palestinians-in-gaza",
+  "genuineness": "verified",
+  "outlets": [
+   "Al Jazeera",
+   "Times of Israel",
+   "Haaretz",
+   "Reuters"
+  ],
+  "image": null,
+  "image_credit": null
+ },
+ {
+  "id": "world-20261119-0630-05",
+  "published_ist": "2026-11-17T14:46:00+05:30",
+  "headline": "Bangladesh ka pehla parmanu sanyantra grid se juda",
+  "detail": "Bangladesh ke Rooppur parmanu sanyantra ki pehli ikai ne 17 November ko parikshan ke roop me 350 MW bijli rashtriya grid ko di; poori kshamata 1,200 MW hai aur vanijyik utpadan 10 mahine ke parikshan ke baad shuru hoga.",
+  "category": "World",
+  "exam_angle": "Bangladesh ka pehla parmanu sanyantra; Russia ki Rosatom ne banaya.",
+  "source": "Arab News",
+  "source_url": "https://www.arabnews.pk/world/bangladesh-connects-its-first-nuclear-power-plant-to-national-grid-3007328",
+  "genuineness": "verified",
+  "outlets": [
+   "Arab News",
+   "NewsNextBD",
+   "EnergyNews"
+  ],
+  "image": "../images/world/world-20261119-0630-05.jpg",
+  "image_credit": "Jusujon1980, Wikimedia Commons (CC BY-SA 4.0)"
+ }
+]
