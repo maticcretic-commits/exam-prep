@@ -581,6 +581,82 @@
       ],
       "image": "../images/world/world-20261119-1022-01.jpg",
       "image_credit": "Al Jazeera"
+    },
+    {
+      "id": "world-20261119-1722-01",
+      "published_ist": "2026-11-19T15:02:00+05:30",
+      "headline": "Senegal ke kinare pravasi naav doobi, darjanon lapata",
+      "detail": "Lagbhag 100 pravasiyon se bhari naav Dakar ke paas Yenne ke kinare palat gayi; kam se kam chaar shav mile, darjanon lapata hain aur talash jaari hai.",
+      "category": "World",
+      "exam_angle": "Paschim Africa se Atlantic marg par pravasi sankat — IOM ke anusar is saal 454 se zyada mautein ya lapata.",
+      "source": "Daily Mirror",
+      "source_url": "https://www.dailymirror.lk/international/Dozens-missing-after-boat-carrying-100-migrants-sinks-off-Senegals-coast/107-355298",
+      "genuineness": "verified",
+      "outlets": [
+        "BBC",
+        "AFP",
+        "Daily Mirror",
+        "The Morning"
+      ],
+      "image": null,
+      "image_credit": null
+    },
+    {
+      "id": "world-20261119-1722-02",
+      "published_ist": "2026-11-19T11:47:00+05:30",
+      "headline": "Hormuz sankat urja suraksha ko sabse bada khatra",
+      "detail": "IEA ne apni World Energy Outlook me kaha — Hormuz sankat itihas me urja suraksha ke liye sabse bada khatra hai, 1970 ke tel sankat se bhi bada; 2.8 arab barrel tel aur 60 arab ghana meter gas ka nuksan hua.",
+      "category": "World",
+      "exam_angle": "IEA: Paris sthit antarrashtriya urja agency; yuddh se pehle duniya ke tel ka paanchva hissa Hormuz se guzarta tha.",
+      "source": "The Hindu",
+      "source_url": "https://www.thehindu.com/news/international/west-asia-crisis-largest-threat-to-energy-security-ever-iea/article71718854.ece",
+      "genuineness": "verified",
+      "outlets": [
+        "IEA",
+        "AFP",
+        "The Hindu",
+        "The Times of Israel"
+      ],
+      "image": null,
+      "image_credit": null
+    },
+    {
+      "id": "world-20261119-1722-03",
+      "published_ist": "2026-11-18T15:46:00+05:30",
+      "headline": "Voyager 1 ek light-day door, pehli manav-nirmit vastu",
+      "detail": "NASA ka Voyager 1 18 November ko prithvi se ek light-day (lagbhag 26 arab km) door pahuncha — kisi bhi manav-nirmit vastu ke liye pehli baar; ab sandesh pahunchne me 24 ghante lagenge.",
+      "category": "World",
+      "exam_angle": "Voyager 1: 1977 me launch, 2012 me antartarakiya antariksh me pahuncha pehla yan.",
+      "source": "CNN",
+      "source_url": "https://www.cnn.com/2026/11/18/science/voyager-1-light-day?cid=external-feeds_iluminar_meta",
+      "genuineness": "verified",
+      "outlets": [
+        "CNN",
+        "Al Jazeera",
+        "USA Today",
+        "The Times"
+      ],
+      "image": "../images/world/world-20261119-1722-03.jpg",
+      "image_credit": "NASA/JPL, Public domain via Wikimedia Commons"
+    },
+    {
+      "id": "world-20261119-1722-04",
+      "published_ist": "2026-11-18T04:09:00+05:30",
+      "headline": "Siberia me sainya viman gira, 19 ki maut",
+      "detail": "Russia ka Antonov An-12 sainya parivahan viman Kemerovo ke paas Yagunovo gaon ke nazdeek gira; sawaar sabhi 19 log mare gaye, prarambhik karan takniki kharabi bataya gaya.",
+      "category": "World",
+      "exam_angle": "An-12: Soviet kaal ka chaar-engine turboprop sainya parivahan viman, 1950 ke dashak se seva me.",
+      "source": "The Hindu",
+      "source_url": "https://www.thehindu.com/news/international/several-dead-after-russian-military-transport-plane-crashes-in-siberia/article71713626.ece",
+      "genuineness": "verified",
+      "outlets": [
+        "The Hindu",
+        "Al Jazeera",
+        "Reuters",
+        "AFP"
+      ],
+      "image": "../images/world/world-20261119-1722-04.jpg",
+      "image_credit": "Verlin Levi Collins, U.S. Air Force, Public domain via Wikimedia Commons"
     }
   ]
 }
