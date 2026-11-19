@@ -1,6 +1,25 @@
 {
- "updated_ist": "2026-11-19T14:28:24+05:30",
+ "updated_ist": "2026-11-19T15:31:59+05:30",
  "items": [
+  {
+   "id": "world-20261119-1522-01",
+   "published_ist": "2026-11-19T14:30:00+05:30",
+   "headline": "Denmark ne Greenland suraksha samjhota manzoor kiya",
+   "detail": "Denmark ki sansad ne sarvasammati se America-Greenland suraksha samjhote ko manzoori di; America ko Greenland me do sainya adde banane ki ijazat milegi, 1951 ke samjhote ka vistaar hoga.",
+   "category": "World",
+   "exam_angle": "Greenland: Denmark ka swayatt-shasit kshetra; Arctic me America ki sainya upasthiti aur 1951 raksha sandhi.",
+   "source": "Al Arabiya",
+   "source_url": "https://english.alarabiya.net/News/world/2026/11/19/denmark-s-parliament-ratifies-security-agreement-with-us-greenland",
+   "genuineness": "verified",
+   "outlets": [
+    "Reuters",
+    "Al Arabiya",
+    "The Times of India",
+    "Sweden Herald"
+   ],
+   "image": "../images/world/world-20261119-1522-01.jpg",
+   "image_credit": "Moahim, Wikimedia Commons (CC BY-SA 4.0)"
+  },
   {
    "id": "world-20261119-1422-01",
    "published_ist": "2026-11-19T13:14:00+05:30",
@@ -427,25 +446,6 @@
     "Bangkok Post",
     "Interfax-Ukraine",
     "SCMP"
-   ],
-   "image": null,
-   "image_credit": null
-  },
-  {
-   "id": "world-20261119-1422-03",
-   "published_ist": "2026-11-18T19:12:00+05:30",
-   "headline": "Uttar Korea ne Yongbyon parmanu kendra badhaya",
-   "detail": "IAEA pramukh Rafael Grossi ne bataya Uttar Korea ne Yongbyon me uranium samriddhi sanyantra ka vistaar pura kar liya hai; agency ne ise gambhir chinta ka vishay kaha, 2009 se uske nirikshak wahan nahi gaye.",
-   "category": "World",
-   "exam_angle": "IAEA: sanyukt rashtra ki parmanu nigrani agency, mukhyalaya Vienna.",
-   "source": "Arab News",
-   "source_url": "https://www.arabnews.com/world/iaea-says-north-korea-is-expanding-uranium-enrichment-plant-at-yongbyon-3012711",
-   "genuineness": "verified",
-   "outlets": [
-    "Arab News",
-    "The Jerusalem Post",
-    "The Korea Times",
-    "NY Post"
    ],
    "image": null,
    "image_credit": null
