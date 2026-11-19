@@ -312,6 +312,45 @@
    ],
    "image": "../images/world/world-20261119-1022-04.jpg",
    "image_credit": "The Times of India"
+  },
+  {
+   "id": "world-20261119-1122-01",
+   "published_ist": "2026-11-19T07:52:00+05:30",
+   "headline": "Trump Iran par naye hamle par vichar",
+   "detail": "New York Times ki report ke mutabik Rashtrapati Trump Iran par naye bade hamlo par vichar kar rahe hain; Netanyahu chaar se saat din ke sanyukt hawai abhiyan ke liye dabav bana rahe hain, lekin abhi koi faisla nahi hua.",
+   "category": "World",
+   "exam_angle": "America-Iran tanav aur Hormuz: UPSC ke liye mahatvapurna.",
+   "source": "The Jerusalem Post",
+   "source_url": "https://www.jpost.com/international/article-915391",
+   "genuineness": "verified",
+   "outlets": [
+    "The New York Times",
+    "The Jerusalem Post",
+    "Ynet",
+    "Times of Israel",
+    "Israel Hayom"
+   ],
+   "image": "../images/world/world-20261119-1122-01.jpg",
+   "image_credit": "The Jerusalem Post"
+  },
+  {
+   "id": "world-20261119-1122-02",
+   "published_ist": "2026-11-19T00:55:00+05:30",
+   "headline": "Odesa par hamle me chaar mare, 13 ghayal",
+   "detail": "Russia ne Budhvar ko Ukraine ke Odesa shahar ke aitihasik kendra par teen hamle kiye; chaar log mare gaye aur 13 ghayal hue, aur UNESCO-sanrakshit ilake me saat imaraton ki khidkiyan toot gayin.",
+   "category": "World",
+   "exam_angle": "Odesa: Krishna Sagar ka mahatvapurna bandargah aur UNESCO sthal.",
+   "source": "Reuters",
+   "source_url": "https://www.reuters.com/world/europe/russian-attacks-ukrainian-city-odesa-kill-four-officials-say-2026-11-18/",
+   "genuineness": "verified",
+   "outlets": [
+    "Reuters",
+    "Al Jazeera",
+    "Associated Press",
+    "AFP"
+   ],
+   "image": "../images/world/world-20261119-1122-02.jpg",
+   "image_credit": "Al Jazeera"
   }
  ]
 }
