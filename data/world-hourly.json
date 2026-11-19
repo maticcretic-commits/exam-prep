@@ -1,5 +1,5 @@
 {
-  "updated_ist": "2026-11-19T16:26:59+05:30",
+  "updated_ist": "2026-11-19T17:25:11+05:30",
   "items": [
     {
       "id": "world-20261119-1022-01",
@@ -19,6 +19,25 @@
       ],
       "image": "../images/world/world-20261119-1022-01.jpg",
       "image_credit": "Al Jazeera"
+    },
+    {
+      "id": "world-20261119-1722-01",
+      "published_ist": "2026-11-19T15:02:00+05:30",
+      "headline": "Senegal ke kinare pravasi naav doobi, darjanon lapata",
+      "detail": "Lagbhag 100 pravasiyon se bhari naav Dakar ke paas Yenne ke kinare palat gayi; kam se kam chaar shav mile, darjanon lapata hain aur talash jaari hai.",
+      "category": "World",
+      "exam_angle": "Paschim Africa se Atlantic marg par pravasi sankat — IOM ke anusar is saal 454 se zyada mautein ya lapata.",
+      "source": "Daily Mirror",
+      "source_url": "https://www.dailymirror.lk/international/Dozens-missing-after-boat-carrying-100-migrants-sinks-off-Senegals-coast/107-355298",
+      "genuineness": "verified",
+      "outlets": [
+        "BBC",
+        "AFP",
+        "Daily Mirror",
+        "The Morning"
+      ],
+      "image": null,
+      "image_credit": null
     },
     {
       "id": "world-20261119-1622-02",
@@ -96,6 +115,25 @@
       ],
       "image": "../images/world/world-20261119-1422-01.jpg",
       "image_credit": "Faisal Arif, Wikimedia Commons (CC BY-SA 4.0)"
+    },
+    {
+      "id": "world-20261119-1722-02",
+      "published_ist": "2026-11-19T11:47:00+05:30",
+      "headline": "Hormuz sankat urja suraksha ko sabse bada khatra",
+      "detail": "IEA ne apni World Energy Outlook me kaha — Hormuz sankat itihas me urja suraksha ke liye sabse bada khatra hai, 1970 ke tel sankat se bhi bada; 2.8 arab barrel tel aur 60 arab ghana meter gas ka nuksan hua.",
+      "category": "World",
+      "exam_angle": "IEA: Paris sthit antarrashtriya urja agency; yuddh se pehle duniya ke tel ka paanchva hissa Hormuz se guzarta tha.",
+      "source": "The Hindu",
+      "source_url": "https://www.thehindu.com/news/international/west-asia-crisis-largest-threat-to-energy-security-ever-iea/article71718854.ece",
+      "genuineness": "verified",
+      "outlets": [
+        "IEA",
+        "AFP",
+        "The Hindu",
+        "The Times of Israel"
+      ],
+      "image": null,
+      "image_credit": null
     },
     {
       "id": "world-20261119-1322-01",
@@ -417,42 +455,6 @@
       ],
       "image": "../images/world/world-20261119-1222-03.jpg",
       "image_credit": "Dllu (CC BY 4.0, Wikimedia Commons)"
-    },
-    {
-      "id": "world-20261119-0722-01",
-      "published_ist": "2026-11-18T22:52:00+05:30",
-      "headline": "Kumamoto me 5.7 ka bhukamp",
-      "detail": "Japan ke Kumamoto prant me subah 5.7 teevrata ka bhukamp aaya; koi sunami chetavni nahi, ek hafte tak tez jhatko ki aashanka hai.",
-      "category": "World",
-      "exam_angle": "Japan: Ring of Fire par sthit, bhukamp-prone desh.",
-      "source": "NHK",
-      "source_url": "https://www3.nhk.or.jp/nhkworld/news/20261119de78099/",
-      "genuineness": "verified",
-      "outlets": [
-        "NHK",
-        "Kyodo News",
-        "The Japan Times"
-      ],
-      "image": null,
-      "image_credit": null
-    },
-    {
-      "id": "world-20261119-0630-02",
-      "published_ist": "2026-11-18T21:07:00+05:30",
-      "headline": "Jeffries pehle Black Speaker ke ummidvar",
-      "detail": "House Democrats ne band matdan me 251-11 se Hakeem Jeffries ko Speaker pad ke liye namankit kiya; 3 January ko poore House me matdan hoga, jeetne par ve pehle Black Speaker banenge.",
-      "category": "World",
-      "exam_angle": "America ke House Speaker: rashtrapati uttaradhikar me teesra sthan.",
-      "source": "Al Jazeera",
-      "source_url": "https://www.aljazeera.com/news/2026/11/18/hakeem-jeffries-becomes-first-black-nominee-for-us-house-speaker",
-      "genuineness": "verified",
-      "outlets": [
-        "CNN",
-        "Al Jazeera",
-        "Dawn"
-      ],
-      "image": "../images/world/world-20261119-0630-02.jpg",
-      "image_credit": "Office of Representative Hakeem Jeffries, Public domain via Wikimedia Commons"
     }
   ]
 }
