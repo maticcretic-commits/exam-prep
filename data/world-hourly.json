@@ -1,6 +1,78 @@
 {
- "updated_ist": "2026-11-20T06:26:34+05:30",
+ "updated_ist": "2026-11-20T07:27:14+05:30",
  "items": [
+  {
+   "id": "world-20261120-0727-01",
+   "published_ist": "2026-11-20T07:03:00+05:30",
+   "headline": "Kushner: Russia ko NATO-jaisi guarantee manzoor",
+   "detail": "America ke doot Jared Kushner ne Berlin me kaha ki Russia ko Ukraine ke liye NATO ke Article 5 jaisi suraksha guarantee manzoor hai aur Trump bhi iske liye taiyaar hain; Russia ne abhi is par kuch nahi kaha.",
+   "category": "World",
+   "exam_angle": "Ukraine war, NATO Article 5 — UPSC IR",
+   "source": "ETV Bharat (AP)",
+   "source_url": "https://www.etvbharat.com/en/international/us-envoy-kushner-says-he-believes-russia-is-comfortable-with-nato-like-security-guarantees-for-ukraine-enn26112000575",
+   "genuineness": "verified",
+   "outlets": [
+    "AP",
+    "Al Jazeera",
+    "Kyiv Post"
+   ],
+   "image": null,
+   "image_credit": null
+  },
+  {
+   "id": "world-20261120-0727-02",
+   "published_ist": "2026-11-20T05:30:00+05:30",
+   "headline": "Trump ne divangat Pete Rose ko maafi di",
+   "detail": "Rashtrapati Trump ne baseball ke sabse zyada hit (4,256) banane wale divangat Pete Rose ko tax mamle me poori maafi de di; Rose ko 1990 me tax jhooth bolne par saza hui thi aur woh 2024 me guzar gaye the.",
+   "category": "World",
+   "exam_angle": null,
+   "source": "Reuters",
+   "source_url": "https://www.reuters.com/sports/trump-pardons-late-baseball-legend-pete-rose-tax-crimes-2026-11-19/",
+   "genuineness": "verified",
+   "outlets": [
+    "Reuters",
+    "AP",
+    "CNN",
+    "USA Today"
+   ],
+   "image": null,
+   "image_credit": null
+  },
+  {
+   "id": "world-20261120-0727-03",
+   "published_ist": "2026-11-20T01:48:00+05:30",
+   "headline": "China ko 9 lakh AI chip ki manzoori",
+   "detail": "America ne December 2025 se May 2026 tak Nvidia aur AMD ke lagbhag 8,79,000 advanced AI chip China ko bechne ki manzoori di, jinme Alibaba ke 75,000 aur Tencent ke 1,50,000 chip shamil hain.",
+   "category": "World",
+   "exam_angle": "US-China tech war, export controls — UPSC IR/Economy",
+   "source": "Reuters",
+   "source_url": "https://www.reuters.com/world/license-information-ai-chips-sent-china-released-by-us-house-committee-2026-11-19/",
+   "genuineness": "corroborated",
+   "outlets": [
+    "Reuters",
+    "Al Jazeera"
+   ],
+   "image": null,
+   "image_credit": null
+  },
+  {
+   "id": "world-20261120-0727-04",
+   "published_ist": "2026-11-20T00:16:00+05:30",
+   "headline": "Gaza me Israel ka pehla zameeni hamla",
+   "detail": "Yuddh-viram ke baad pehli baar Israel ne madhya Gaza me zameeni karvai ki, Yellow Line se aage Nuseirat ke paas ek surang ko nishana banaya; teen log mare gaye aur hazaaron phir se beghar hue, karvai 19 November ko poori hui.",
+   "category": "World",
+   "exam_angle": "Israel-Palestine, ceasefire — UPSC IR",
+   "source": "Al Jazeera",
+   "source_url": "https://www.aljazeera.com/amp/news/2026/11/19/palestinians-in-gaza-face-new-displacement-after-israeli-army-operation",
+   "genuineness": "verified",
+   "outlets": [
+    "Al Jazeera",
+    "Reuters",
+    "AFP"
+   ],
+   "image": null,
+   "image_credit": null
+  },
   {
    "id": "world-20261120-0622-01",
    "published_ist": "2026-11-19T23:42:00+05:30",
@@ -71,6 +143,23 @@
    "outlets": [
     "BBC",
     "The Brief Brief"
+   ],
+   "image": null,
+   "image_credit": null
+  },
+  {
+   "id": "world-20261120-0727-05",
+   "published_ist": "2026-11-19T17:26:00+05:30",
+   "headline": "UN pramukh ki race atki, neta ka sankat",
+   "detail": "Suraksha Parishad aath daur ke gupt matdan ke baad bhi Guterres ke uttaradhikari par sahmat nahi ho payi, aur 31 December ko unka karyakal khatm hone par UN bina pramukh ke reh sakta hai.",
+   "category": "World",
+   "exam_angle": "UN Secretary-General selection, UNSC — UPSC IR",
+   "source": "Reuters",
+   "source_url": "https://www.reuters.com/world/un-could-soon-be-leaderless-race-succeed-guterres-stalls-2026-11-19/",
+   "genuineness": "corroborated",
+   "outlets": [
+    "Reuters",
+    "Arab News"
    ],
    "image": null,
    "image_credit": null
@@ -352,97 +441,6 @@
    ],
    "image": "../images/world/world-20261119-1822-01.jpg",
    "image_credit": "The Japan Times"
-  },
-  {
-   "id": "world-20261119-1722-02",
-   "published_ist": "2026-11-19T11:47:00+05:30",
-   "headline": "Hormuz sankat urja suraksha ko sabse bada khatra",
-   "detail": "IEA ne apni World Energy Outlook me kaha — Hormuz sankat itihas me urja suraksha ke liye sabse bada khatra hai, 1970 ke tel sankat se bhi bada; 2.8 arab barrel tel aur 60 arab ghana meter gas ka nuksan hua.",
-   "category": "World",
-   "exam_angle": "IEA: Paris sthit antarrashtriya urja agency; yuddh se pehle duniya ke tel ka paanchva hissa Hormuz se guzarta tha.",
-   "source": "The Hindu",
-   "source_url": "https://www.thehindu.com/news/international/west-asia-crisis-largest-threat-to-energy-security-ever-iea/article71718854.ece",
-   "genuineness": "verified",
-   "outlets": [
-    "IEA",
-    "AFP",
-    "The Hindu",
-    "The Times of Israel"
-   ],
-   "image": null,
-   "image_credit": null
-  },
-  {
-   "id": "world-20261119-2022-04",
-   "published_ist": "2026-11-19T11:40:00+05:30",
-   "headline": "El Nino sukhe se Fiji-Tonga me apatkal ghoshit",
-   "detail": "El Nino se sukha sankat badhne par Fiji ne deshvyapi apatkal aur Tonga ne 27 din ka emergency ghoshit kiya; paani aur fasalon par sankat gehra hai.",
-   "category": "World",
-   "exam_angle": "El Niño, drought, Pacific island states — UPSC Geography/Environment",
-   "source": "TRT World",
-   "source_url": "https://www.trtworld.com:443/article/3c5e27520155?utm_source=f5402b114f99&utm_medium=internal&utm_campaign=recommended&utm_content=inline",
-   "genuineness": "verified",
-   "outlets": [
-    "TRT World",
-    "Malay Mail",
-    "Reuters"
-   ],
-   "image": "../images/world/world-20261119-2022-04.jpg",
-   "image_credit": "TRT World"
-  },
-  {
-   "id": "world-20261119-1322-01",
-   "published_ist": "2026-11-19T11:27:04+05:30",
-   "headline": "Khadi desh Iran yuddh rokne me jute",
-   "detail": "Khadi desh, Pakistan aur Turkiye ne America se sampark kar Netanyahu ke Iran par hamle ke dabav ke khilaf yuddh rokne ki koshish tez ki; Mossad pramukh ki America yatra par bhi chinta jatai.",
-   "category": "World",
-   "exam_angle": "Paschim Asia me kootneeti aur Hormuz — UPSC ke liye mahatvapurna.",
-   "source": "AsiaOne",
-   "source_url": "https://www.asiaone.com/asia/mideast-nations-ramp-efforts-avert-all-out-war-israel-urges-iran-strikes-officials-say",
-   "genuineness": "corroborated",
-   "outlets": [
-    "Associated Press",
-    "Reuters"
-   ],
-   "image": "../images/world/world-20261119-1322-01.jpg",
-   "image_credit": "AsiaOne"
-  },
-  {
-   "id": "world-20261119-1822-02",
-   "published_ist": "2026-11-19T10:30:00+05:30",
-   "headline": "GTA VI 13 saal baad duniya bhar me launch",
-   "detail": "Rockstar ka GTA VI aaj PS5 aur Xbox par launch hua; presale me 17 million se zyada copies se 1.65 arab dollar ki kamai hui, Metacritic par 99 ka score mila.",
-   "category": "World",
-   "exam_angle": null,
-   "source": "USA Today",
-   "source_url": "https://www.usatoday.com/story/tech/gaming/2026/11/19/gta-6-live-updates--live/92811863007/",
-   "genuineness": "verified",
-   "outlets": [
-    "USA Today",
-    "Malay Mail",
-    "DD India",
-    "People"
-   ],
-   "image": null,
-   "image_credit": null
-  },
-  {
-   "id": "world-20261119-2022-05",
-   "published_ist": "2026-11-19T10:20:00+05:30",
-   "headline": "Indonesia me bina sazaa sampatti zabt kanoon pass",
-   "detail": "18 saal baad Indonesia ki sansad ne kanoon pass kiya jisse bhrashtachar se judi 1 arab rupiah se zyada ki sampatti bina sazaa ke zabt ki ja sakegi.",
-   "category": "World",
-   "exam_angle": "Non-conviction asset forfeiture — UPSC Polity/Governance",
-   "source": "Reuters",
-   "source_url": "https://www.reuters.com/world/asia-pacific/indonesia-parliament-passes-asset-forfeiture-bill-into-law-2026-11-19/",
-   "genuineness": "verified",
-   "outlets": [
-    "Reuters",
-    "Malay Mail",
-    "IndonesiaNow"
-   ],
-   "image": null,
-   "image_credit": null
   }
  ]
 }
