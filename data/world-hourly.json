@@ -1,447 +1,449 @@
 {
- "updated_ist": "2026-11-20T08:25:22+05:30",
- "items": [
-  {
-   "id": "world-20261120-0727-01",
-   "published_ist": "2026-11-20T07:03:00+05:30",
-   "headline": "Kushner: Russia ko NATO-jaisi guarantee manzoor",
-   "detail": "America ke doot Jared Kushner ne Berlin me kaha ki Russia ko Ukraine ke liye NATO ke Article 5 jaisi suraksha guarantee manzoor hai aur Trump bhi iske liye taiyaar hain; Russia ne abhi is par kuch nahi kaha.",
-   "category": "World",
-   "exam_angle": "Ukraine war, NATO Article 5 — UPSC IR",
-   "source": "ETV Bharat (AP)",
-   "source_url": "https://www.etvbharat.com/en/international/us-envoy-kushner-says-he-believes-russia-is-comfortable-with-nato-like-security-guarantees-for-ukraine-enn26112000575",
-   "genuineness": "verified",
-   "outlets": [
-    "AP",
-    "Al Jazeera",
-    "Kyiv Post"
-   ],
-   "image": null,
-   "image_credit": null
-  },
-  {
-   "id": "world-20261120-0727-02",
-   "published_ist": "2026-11-20T05:30:00+05:30",
-   "headline": "Trump ne divangat Pete Rose ko maafi di",
-   "detail": "Rashtrapati Trump ne baseball ke sabse zyada hit (4,256) banane wale divangat Pete Rose ko tax mamle me poori maafi de di; Rose ko 1990 me tax jhooth bolne par saza hui thi aur woh 2024 me guzar gaye the.",
-   "category": "World",
-   "exam_angle": null,
-   "source": "Reuters",
-   "source_url": "https://www.reuters.com/sports/trump-pardons-late-baseball-legend-pete-rose-tax-crimes-2026-11-19/",
-   "genuineness": "verified",
-   "outlets": [
-    "Reuters",
-    "AP",
-    "CNN",
-    "USA Today"
-   ],
-   "image": null,
-   "image_credit": null
-  },
-  {
-   "id": "world-20261120-0825-01",
-   "published_ist": "2026-11-20T04:55:00+05:30",
-   "headline": "California ne Nvidia ko summon bheja",
-   "detail": "California ke Attorney General Rob Bonta ne Nvidia ko subpoena bhejkar jaanch shuru ki ki kya uske advanced chip ya gopniya jankari China tak pahunchi aur kya company ne investors ko gumrah kiya; abhi koi aarop tay nahi hua.",
-   "category": "World",
-   "exam_angle": "US-China chip war, export controls — UPSC IR/Economy",
-   "source": "NY Post",
-   "source_url": "https://nypost.com/2026/11/19/business/california-ag-rob-bonta-serves-nvidia-with-subpoena-in-wake-of-jensen-huangs-chinese-spy-affairs-scandals/",
-   "genuineness": "verified",
-   "outlets": [
-    "NY Post",
-    "BBC",
-    "Reuters",
-    "AFP"
-   ],
-   "image": null,
-   "image_credit": null
-  },
-  {
-   "id": "world-20261120-0727-03",
-   "published_ist": "2026-11-20T01:48:00+05:30",
-   "headline": "China ko 9 lakh AI chip ki manzoori",
-   "detail": "America ne December 2025 se May 2026 tak Nvidia aur AMD ke lagbhag 8,79,000 advanced AI chip China ko bechne ki manzoori di, jinme Alibaba ke 75,000 aur Tencent ke 1,50,000 chip shamil hain.",
-   "category": "World",
-   "exam_angle": "US-China tech war, export controls — UPSC IR/Economy",
-   "source": "Reuters",
-   "source_url": "https://www.reuters.com/world/license-information-ai-chips-sent-china-released-by-us-house-committee-2026-11-19/",
-   "genuineness": "corroborated",
-   "outlets": [
-    "Reuters",
-    "Al Jazeera"
-   ],
-   "image": null,
-   "image_credit": null
-  },
-  {
-   "id": "world-20261120-0727-04",
-   "published_ist": "2026-11-20T00:16:00+05:30",
-   "headline": "Gaza me Israel ka pehla zameeni hamla",
-   "detail": "Yuddh-viram ke baad pehli baar Israel ne madhya Gaza me zameeni karvai ki, Yellow Line se aage Nuseirat ke paas ek surang ko nishana banaya; teen log mare gaye aur hazaaron phir se beghar hue, karvai 19 November ko poori hui.",
-   "category": "World",
-   "exam_angle": "Israel-Palestine, ceasefire — UPSC IR",
-   "source": "Al Jazeera",
-   "source_url": "https://www.aljazeera.com/amp/news/2026/11/19/palestinians-in-gaza-face-new-displacement-after-israeli-army-operation",
-   "genuineness": "verified",
-   "outlets": [
-    "Al Jazeera",
-    "Reuters",
-    "AFP"
-   ],
-   "image": null,
-   "image_credit": null
-  },
-  {
-   "id": "world-20261120-0622-01",
-   "published_ist": "2026-11-19T23:42:00+05:30",
-   "headline": "Anthropic ka Nasdaq debut, valuation $2 trillion",
-   "detail": "Anthropic ke share Nasdaq debut par $111.50 par khule — IPO price $83 se 34% upar; din bhar me company ki valuation $2 trillion tak pahunchi, AI company ka ab tak ka sabse bada IPO.",
-   "category": "World",
-   "exam_angle": "AI companies, IPO records — UPSC Economy",
-   "source": "Onmanorama",
-   "source_url": "https://www.onmanorama.com/news/business/2026/11/19/anthropic-makes-stellar-stock-market-debut-us.html",
-   "genuineness": "verified",
-   "outlets": [
-    "Reuters",
-    "USA Today",
-    "Onmanorama",
-    "Al Mayadeen"
-   ],
-   "image": null,
-   "image_credit": null
-  },
-  {
-   "id": "world-20261119-2222-01",
-   "published_ist": "2026-11-19T20:07:00+05:30",
-   "headline": "Kyiv me Dutch dutavas par drone hamla",
-   "detail": "Russia ke drone hamle me Kyiv me Dutch dutavas ki imarat ko halka nuksan hua; koi karmchari ghayal nahi hua aur jaanch jaari hai.",
-   "category": "World",
-   "exam_angle": "Russia-Ukraine war, diplomatic missions — UPSC IR",
-   "source": "Ukrainska Pravda",
-   "source_url": "https://www.pravda.com.ua/eng/news/2026/11/19/8063652/",
-   "genuineness": "verified",
-   "outlets": [
-    "Ukrainska Pravda",
-    "The Kyiv Independent",
-    "European Pravda",
-    "The Times"
-   ],
-   "image": "../images/world/world-20261119-2222-01.jpg",
-   "image_credit": "Ukrainska Pravda"
-  },
-  {
-   "id": "world-20261120-0622-02",
-   "published_ist": "2026-11-19T19:19:00+05:30",
-   "headline": "Kerch Bridge par teesra hamla, Putin ne badle ki dhamki",
-   "detail": "Ukraine ne chaar din me teesri baar Kerch Bridge par hamla kiya, rail seva ruk gayi; Putin ne bahut zyada dardnak jawab ki dhamki di aur samudri-urja yuddh-viram ki baat khatm kar di.",
-   "category": "World",
-   "exam_angle": "Russia-Ukraine war, Crimea — UPSC IR",
-   "source": "Firstpost",
-   "source_url": "https://www.firstpost.com/world/putin-vows-retaliation-after-third-ukrainian-attack-on-key-crimea-bridge-in-four-days-14061337.html",
-   "genuineness": "verified",
-   "outlets": [
-    "Reuters",
-    "The Hindu",
-    "Firstpost",
-    "Times Now"
-   ],
-   "image": null,
-   "image_credit": null
-  },
-  {
-   "id": "world-20261119-1922-04",
-   "published_ist": "2026-11-19T18:35:00+05:30",
-   "headline": "Uganda bhuskhalan peediton ki UN me shikayat",
-   "detail": "2019 ke Bududa bhuskhalan ke 48 peediton ne Uganda sarkar ke khilaf UN Human Rights Committee me shikayat ki; punarvas aur muaavze ki maang hai.",
-   "category": "World",
-   "exam_angle": "Climate adaptation, UN Human Rights Committee — UPSC Environment",
-   "source": "MyJoyOnline",
-   "source_url": "https://www.myjoyonline.com/survivors-of-ugandas-deadly-landslide-seek-justice-at-the-un/",
-   "genuineness": "corroborated",
-   "outlets": [
-    "BBC",
-    "The Brief Brief"
-   ],
-   "image": null,
-   "image_credit": null
-  },
-  {
-   "id": "world-20261120-0727-05",
-   "published_ist": "2026-11-19T17:26:00+05:30",
-   "headline": "UN pramukh ki race atki, neta ka sankat",
-   "detail": "Suraksha Parishad aath daur ke gupt matdan ke baad bhi Guterres ke uttaradhikari par sahmat nahi ho payi, aur 31 December ko unka karyakal khatm hone par UN bina pramukh ke reh sakta hai.",
-   "category": "World",
-   "exam_angle": "UN Secretary-General selection, UNSC — UPSC IR",
-   "source": "Reuters",
-   "source_url": "https://www.reuters.com/world/un-could-soon-be-leaderless-race-succeed-guterres-stalls-2026-11-19/",
-   "genuineness": "corroborated",
-   "outlets": [
-    "Reuters",
-    "Arab News"
-   ],
-   "image": null,
-   "image_credit": null
-  },
-  {
-   "id": "world-20261120-0622-03",
-   "published_ist": "2026-11-19T17:13:00+05:30",
-   "headline": "Berlin me Ukraine sahyogiyon ki badi baithak",
-   "detail": "Zelenskyy Berlin pahunche; 40 se zyada sahyogi deshon ke neta Coalition of the Willing baithak me mile, shanti vartao me Europe ki bhumika aur suraksha guarantee par charcha hui.",
-   "category": "World",
-   "exam_angle": "Ukraine war, European security — UPSC IR",
-   "source": "Interfax-Ukraine",
-   "source_url": "https://en.interfax.com.ua/news/general/1239165.html",
-   "genuineness": "verified",
-   "outlets": [
-    "Reuters",
-    "Al Jazeera",
-    "Interfax-Ukraine"
-   ],
-   "image": null,
-   "image_credit": null
-  },
-  {
-   "id": "world-20261119-2022-01",
-   "published_ist": "2026-11-19T16:50:00+05:30",
-   "headline": "Katherine Clark pehli mahila House majority leader",
-   "detail": "America me House Democrats ne Katherine Clark ko majority leader chuna; ye pad sambhalne wali ve pehli mahila hongi.",
-   "category": "World",
-   "exam_angle": "US House leadership — UPSC Polity",
-   "source": "KNKX",
-   "source_url": "https://www.knkx.org/2026-11-19/incoming-house-majority-leader-katherine-clark-stresses-democratic-unity",
-   "genuineness": "verified",
-   "outlets": [
-    "KNKX",
-    "The Telegram",
-    "QNC News"
-   ],
-   "image": "../images/world/world-20261119-2022-01.jpg",
-   "image_credit": "KNKX"
-  },
-  {
-   "id": "world-20261119-2122-01",
-   "published_ist": "2026-11-19T16:36:00+05:30",
-   "headline": "Hormuz me 2 tanker surang se takraye",
-   "detail": "IRGC ke dawe ke mutabik Hormuz me 2 supertanker samudri surang se takra kar jalne lage; dawa abhi swatantra roop se verify nahi hua hai.",
-   "category": "World",
-   "exam_angle": "Strait of Hormuz, oil shipping — UPSC IR/Geography",
-   "source": "IRNA",
-   "source_url": "https://en.irna.ir/news/86326732/Two-more-violating-supertankers-catch-fire-in-Strait-of-Hormuz",
-   "genuineness": "verified",
-   "outlets": [
-    "IRNA",
-    "Al Arabiya",
-    "Press TV"
-   ],
-   "image": null,
-   "image_credit": null
-  },
-  {
-   "id": "world-20261119-1022-01",
-   "published_ist": "2026-11-19T15:50:00+05:30",
-   "headline": "ICJ: Myanmar ke khilaf narsanhar ka faisla",
-   "detail": "ICJ ne faisla sunaya — Myanmar ki sena ne 2017 mein hazaaron Rohingya nagrik mare aur vyaapak yaun hinsa ki; adalat ne kuch mamalon mein 'genocidal intent' paya; sabooton ke anusaar lagbhag 10,000 Rohingya mare gaye.",
-   "category": "World",
-   "exam_angle": "ICJ aur 1948 Narsanhar Samjhauta — UPSC ke liye mahatvapurna.",
-   "source": "Al Jazeera",
-   "source_url": "https://www.aljazeera.com/news/2026/11/19/un-top-court-finds-myanmar-killed-10000-rohingya-as-it-rules-on-genocide",
-   "genuineness": "verified",
-   "outlets": [
-    "Al Jazeera",
-    "The Hindu",
-    "The Jerusalem Post",
-    "New Age BD"
-   ],
-   "image": "../images/world/world-20261119-1022-01.jpg",
-   "image_credit": "Al Jazeera"
-  },
-  {
-   "id": "world-20261119-1722-01",
-   "published_ist": "2026-11-19T15:02:00+05:30",
-   "headline": "Senegal ke kinare pravasi naav doobi, darjanon lapata",
-   "detail": "Lagbhag 100 pravasiyon se bhari naav Dakar ke paas Yenne ke kinare palat gayi; kam se kam chaar shav mile, darjanon lapata hain aur talash jaari hai.",
-   "category": "World",
-   "exam_angle": "Paschim Africa se Atlantic marg par pravasi sankat — IOM ke anusar is saal 454 se zyada mautein ya lapata.",
-   "source": "Daily Mirror",
-   "source_url": "https://www.dailymirror.lk/international/Dozens-missing-after-boat-carrying-100-migrants-sinks-off-Senegals-coast/107-355298",
-   "genuineness": "verified",
-   "outlets": [
-    "BBC",
-    "AFP",
-    "Daily Mirror",
-    "The Morning"
-   ],
-   "image": null,
-   "image_credit": null
-  },
-  {
-   "id": "world-20261119-2222-02",
-   "published_ist": "2026-11-19T15:00:00+05:30",
-   "headline": "Kenya ne Mrima Hill sauda US ko diya",
-   "detail": "Kenya ne Mrima Hill ki durlabh khanij aur niobium khadan ke liye America ke Frontier Minerals sangh ko chuna; do Chinese company pehle hi peeche hat chuki thi.",
-   "category": "World",
-   "exam_angle": "Critical minerals, rare earths, US-China rivalry — UPSC IR/Economy",
-   "source": "Reuters",
-   "source_url": "https://www.reuters.com/world/africa/kenya-chooses-us-consortium-to-develop-mrima-hill-critical-minerals-project-2026-11-19/",
-   "genuineness": "verified",
-   "outlets": [
-    "Reuters",
-    "Daily Nation",
-    "Business Daily",
-    "Kenyans.co.ke"
-   ],
-   "image": null,
-   "image_credit": null
-  },
-  {
-   "id": "world-20261119-1622-02",
-   "published_ist": "2026-11-19T14:59:00+05:30",
-   "headline": "Han Duck-soo ki saza radd, mamla dobara sunvai",
-   "detail": "Dakshin Korea ki Supreme Court ne poorv PM Han Duck-soo ki 15 saal ki saza radd kar mamla Seoul High Court ko wapas bheja; ghoshna ke baad ke kuch aarop barkarar, hirasat do mahine badhai.",
-   "category": "World",
-   "exam_angle": "Dakshin Korea: 2024 martial law ke baad Yoon ko hataya gaya; Han par mukadma jaari — UPSC ke liye mahatvapurna.",
-   "source": "Yonhap News Agency",
-   "source_url": "https://en.yna.co.kr/view/AEN20261119001252315",
-   "genuineness": "verified",
-   "outlets": [
-    "Yonhap",
-    "The Straits Times",
-    "Korea Herald",
-    "The Korea Times"
-   ],
-   "image": "../images/world/world-20261119-1622-02.jpg",
-   "image_credit": "Michael Gruber / Austrian Foreign Ministry, Wikimedia Commons (CC BY 2.0)"
-  },
-  {
-   "id": "world-20261119-1522-01",
-   "published_ist": "2026-11-19T14:30:00+05:30",
-   "headline": "Denmark ne Greenland suraksha samjhota manzoor kiya",
-   "detail": "Denmark ki sansad ne sarvasammati se America-Greenland suraksha samjhote ko manzoori di; America ko Greenland me do sainya adde banane ki ijazat milegi, 1951 ke samjhote ka vistaar hoga.",
-   "category": "World",
-   "exam_angle": "Greenland: Denmark ka swayatt-shasit kshetra; Arctic me America ki sainya upasthiti aur 1951 raksha sandhi.",
-   "source": "Al Arabiya",
-   "source_url": "https://english.alarabiya.net/News/world/2026/11/19/denmark-s-parliament-ratifies-security-agreement-with-us-greenland",
-   "genuineness": "verified",
-   "outlets": [
-    "Reuters",
-    "Al Arabiya",
-    "The Times of India",
-    "Sweden Herald"
-   ],
-   "image": "../images/world/world-20261119-1522-01.jpg",
-   "image_credit": "Moahim, Wikimedia Commons (CC BY-SA 4.0)"
-  },
-  {
-   "id": "world-20261119-2022-02",
-   "published_ist": "2026-11-19T14:22:00+05:30",
-   "headline": "Olivio Gomes hatya: France police ko 8 saal",
-   "detail": "France ki appeal adalat ne police adhikari Gilles Guilbert ko 2020 me Olivio Gomes ki hatya ke liye 8 saal ki saza sunayi; pehle 10 saal ki saza mili thi.",
-   "category": "World",
-   "exam_angle": null,
-   "source": "Malay Mail",
-   "source_url": "https://www.malaymail.com/news/world/2026/11/19/rare-police-brutality-conviction-french-cop-jailed-eight-years-for-shooting-black-man-as-he-drove-away/243935",
-   "genuineness": "verified",
-   "outlets": [
-    "Malay Mail",
-    "Euronews",
-    "EconoTimes"
-   ],
-   "image": null,
-   "image_credit": null
-  },
-  {
-   "id": "world-20261119-1622-01",
-   "published_ist": "2026-11-19T14:02:00+05:30",
-   "headline": "Trump, Xi, Putin ki pehli tri-pakshiya baithak",
-   "detail": "Teeno neta APEC sammelan ke dauraan Shenzhen mein pehli baar ek saath mile; Xi ne baithak ko aitihasik bataya, agenda mein parmanu hathiyaar, Iran aur Ukraine yuddh hain.",
-   "category": "World",
-   "exam_angle": "APEC shikhar sammelan; New START sandhi February 2026 mein samapt — parmanu hathiyaar niyantran par charcha.",
-   "source": "Al Jazeera",
-   "source_url": "https://www.aljazeera.com/news/2026/11/19/trump-meets-putin-and-xi-ahead-of-us-russia-china-trilateral-talks",
-   "genuineness": "verified",
-   "outlets": [
-    "Al Jazeera",
-    "The Korea Times",
-    "The Economic Times",
-    "The Hindu",
-    "Nikkei Asia"
-   ],
-   "image": "../images/world/world-20261119-1622-01.jpg",
-   "image_credit": "Al Jazeera"
-  },
-  {
-   "id": "world-20261119-2022-03",
-   "published_ist": "2026-11-19T13:27:00+05:30",
-   "headline": "Iran ne Ocean Koi tanker zabt kiya",
-   "detail": "Iran ki nausena ne Oman ki Khadi me tanker Ocean Koi ko zabt kar liya; America ne Iran jaane wale do tanker band karne ka dawa kiya.",
-   "category": "World",
-   "exam_angle": "Strait of Hormuz, oil shipping — UPSC IR/Geography",
-   "source": "Al Jazeera",
-   "source_url": "https://aljazeeranews.edgeone.app/news/2026/5/8/iran-says-it-has-seized-oil-tanker-over-attempts-to-disrupt-its-oil-exports",
-   "genuineness": "verified",
-   "outlets": [
-    "Al Jazeera",
-    "IANS",
-    "The Oil Slick"
-   ],
-   "image": null,
-   "image_credit": null
-  },
-  {
-   "id": "world-20261119-1422-01",
-   "published_ist": "2026-11-19T13:14:00+05:30",
-   "headline": "Riyadh me Houthi hamle se PIF Tower kshatigrast",
-   "detail": "Houthi missile ke khatre se nipatne ke dauran Riyadh ke King Abdullah Financial District me sthit 80-manzila PIF Tower ki facade kai manzilon par kshatigrast hui; Saudi gathbandhan ne malbe se nuksan ki pushti ki.",
-   "category": "World",
-   "exam_angle": "PIF: Saudi Arabia ka sovereign wealth fund; KAFD Riyadh ka vittiya jila.",
-   "source": "Gulf Today",
-   "source_url": "https://www.gulftoday.ae/news/2026/11/19/riyadh-skyscraper-damaged-as-saudi-reports-new-houthi-attacks",
-   "genuineness": "verified",
-   "outlets": [
-    "AFP",
-    "The Jerusalem Post",
-    "Times of Israel",
-    "Le Temps"
-   ],
-   "image": "../images/world/world-20261119-1422-01.jpg",
-   "image_credit": "Faisal Arif, Wikimedia Commons (CC BY-SA 4.0)"
-  },
-  {
-   "id": "world-20261119-1922-03",
-   "published_ist": "2026-11-19T12:55:00+05:30",
-   "headline": "Trump-Xi-Putin ki sanyukt shanti ghoshna",
-   "detail": "Shenzhen me pehli tri-pakshiya baithak ke baad Trump, Xi aur Putin ne 'Shanti Ghoshna' jaari ki; parmanu yuddh kabhi jeeta nahi ja sakta, is par sahmati bani.",
-   "category": "World",
-   "exam_angle": "Nuclear arms control, APEC, UNSC reform — UPSC IR",
-   "source": "The New Indian Express",
-   "source_url": "https://www.newindianexpress.com/world/2026/Nov/19/nuclear-war-cannot-be-won-must-never-be-fought-trump-putin-and-xi-adopt-peace-declaration-after-historic-talks",
-   "genuineness": "verified",
-   "outlets": [
-    "USA Today",
-    "Nikkei Asia",
-    "The New Indian Express"
-   ],
-   "image": null,
-   "image_credit": null
-  },
-  {
-   "id": "world-20261119-1922-02",
-   "published_ist": "2026-11-19T12:45:00+05:30",
-   "headline": "APEC me Indonesia-China ke bade samjhote",
-   "detail": "Indonesia aur China ne Shenzhen me APEC shikhar sammelan ke dauran smart city, manufacturing aur infrastructure par chaar bade samjhote kiye.",
-   "category": "World",
-   "exam_angle": "APEC 2026, regional economic cooperation — UPSC IR",
-   "source": "The Manila Times",
-   "source_url": "https://www.manilatimes.net/2026/11/18/tmt-newswire/media-outreach-newswire/indonesia-and-chinese-partners-set-out-usd-63-billion-in-cooperation-at-apec-shenzhen/2473375/amp",
-   "genuineness": "verified",
-   "outlets": [
-    "Reuters",
-    "Antara",
-    "Media OutReach Newswire"
-   ],
-   "image": null,
-   "image_credit": null
-  }
- ]
+  "updated_ist": "2026-11-20T09:24:42+05:30",
+  "items": [
+    {
+      "id": "world-20261120-0727-01",
+      "published_ist": "2026-11-20T07:03:00+05:30",
+      "headline": "Kushner: Russia ko NATO-jaisi guarantee manzoor",
+      "detail": "America ke doot Jared Kushner ne Berlin me kaha ki Russia ko Ukraine ke liye NATO ke Article 5 jaisi suraksha guarantee manzoor hai aur Trump bhi iske liye taiyaar hain; Russia ne abhi is par kuch nahi kaha.",
+      "category": "World",
+      "exam_angle": "Ukraine war, NATO Article 5 — UPSC IR",
+      "source": "ETV Bharat (AP)",
+      "source_url": "https://www.etvbharat.com/en/international/us-envoy-kushner-says-he-believes-russia-is-comfortable-with-nato-like-security-guarantees-for-ukraine-enn26112000575",
+      "genuineness": "verified",
+      "outlets": [
+        "AP",
+        "Al Jazeera",
+        "Kyiv Post"
+      ],
+      "image": null,
+      "image_credit": null
+    },
+    {
+      "id": "world-20261120-0922-01",
+      "published_ist": "2026-11-20T05:30:00+05:30",
+      "headline": "Kyiv par Russia ka ballistic missile hamla",
+      "detail": "Russia ne subah-saver Kyiv par ballistic missile se hamla kiya; Obolonskyi, Podilskyi aur Holosiivskyi jilon me aag lagi, imaratein aur ek infrastructure facility kshatigrast hui.",
+      "category": "World",
+      "exam_angle": "Russia-Ukraine yuddh — UPSC IR",
+      "source": "Kyiv Post",
+      "source_url": "https://www.kyivpost.com/thread/90655",
+      "genuineness": "verified",
+      "outlets": [
+        "Kyiv Post",
+        "UNN",
+        "h.ua"
+      ],
+      "image": null,
+      "image_credit": null
+    },
+    {
+      "id": "world-20261120-0727-02",
+      "published_ist": "2026-11-20T05:30:00+05:30",
+      "headline": "Trump ne divangat Pete Rose ko maafi di",
+      "detail": "Rashtrapati Trump ne baseball ke sabse zyada hit (4,256) banane wale divangat Pete Rose ko tax mamle me poori maafi de di; Rose ko 1990 me tax jhooth bolne par saza hui thi aur woh 2024 me guzar gaye the.",
+      "category": "World",
+      "exam_angle": null,
+      "source": "Reuters",
+      "source_url": "https://www.reuters.com/sports/trump-pardons-late-baseball-legend-pete-rose-tax-crimes-2026-11-19/",
+      "genuineness": "verified",
+      "outlets": [
+        "Reuters",
+        "AP",
+        "CNN",
+        "USA Today"
+      ],
+      "image": null,
+      "image_credit": null
+    },
+    {
+      "id": "world-20261120-0825-01",
+      "published_ist": "2026-11-20T04:55:00+05:30",
+      "headline": "California ne Nvidia ko summon bheja",
+      "detail": "California ke Attorney General Rob Bonta ne Nvidia ko subpoena bhejkar jaanch shuru ki ki kya uske advanced chip ya gopniya jankari China tak pahunchi aur kya company ne investors ko gumrah kiya; abhi koi aarop tay nahi hua.",
+      "category": "World",
+      "exam_angle": "US-China chip war, export controls — UPSC IR/Economy",
+      "source": "NY Post",
+      "source_url": "https://nypost.com/2026/11/19/business/california-ag-rob-bonta-serves-nvidia-with-subpoena-in-wake-of-jensen-huangs-chinese-spy-affairs-scandals/",
+      "genuineness": "verified",
+      "outlets": [
+        "NY Post",
+        "BBC",
+        "Reuters",
+        "AFP"
+      ],
+      "image": null,
+      "image_credit": null
+    },
+    {
+      "id": "world-20261120-0727-03",
+      "published_ist": "2026-11-20T01:48:00+05:30",
+      "headline": "China ko 9 lakh AI chip ki manzoori",
+      "detail": "America ne December 2025 se May 2026 tak Nvidia aur AMD ke lagbhag 8,79,000 advanced AI chip China ko bechne ki manzoori di, jinme Alibaba ke 75,000 aur Tencent ke 1,50,000 chip shamil hain.",
+      "category": "World",
+      "exam_angle": "US-China tech war, export controls — UPSC IR/Economy",
+      "source": "Reuters",
+      "source_url": "https://www.reuters.com/world/license-information-ai-chips-sent-china-released-by-us-house-committee-2026-11-19/",
+      "genuineness": "corroborated",
+      "outlets": [
+        "Reuters",
+        "Al Jazeera"
+      ],
+      "image": null,
+      "image_credit": null
+    },
+    {
+      "id": "world-20261120-0922-02",
+      "published_ist": "2026-11-20T00:22:00+05:30",
+      "headline": "Macron: Ukraine ki NATO sadasyata par dobara bahas",
+      "detail": "France ke rashtrapati Emmanuel Macron ne Berlin me kaha ki Russia ki maximalist maangon ko dekhte hue Ukraine ki NATO sadasyata par dobara bahas honi chahiye; koi samay-sima ghoshit nahi hui.",
+      "category": "World",
+      "exam_angle": "NATO expansion, Ukraine — UPSC IR",
+      "source": "Reuters",
+      "source_url": "https://www.reuters.com/world/ukraines-nato-membership-is-relevant-european-security-macron-says-2026-11-19/",
+      "genuineness": "verified",
+      "outlets": [
+        "Reuters",
+        "Kyiv Post",
+        "Ukrinform",
+        "Interfax-Ukraine",
+        "Al Jazeera"
+      ],
+      "image": null,
+      "image_credit": null
+    },
+    {
+      "id": "world-20261120-0727-04",
+      "published_ist": "2026-11-20T00:16:00+05:30",
+      "headline": "Gaza me Israel ka pehla zameeni hamla",
+      "detail": "Yuddh-viram ke baad pehli baar Israel ne madhya Gaza me zameeni karvai ki, Yellow Line se aage Nuseirat ke paas ek surang ko nishana banaya; teen log mare gaye aur hazaaron phir se beghar hue, karvai 19 November ko poori hui.",
+      "category": "World",
+      "exam_angle": "Israel-Palestine, ceasefire — UPSC IR",
+      "source": "Al Jazeera",
+      "source_url": "https://www.aljazeera.com/amp/news/2026/11/19/palestinians-in-gaza-face-new-displacement-after-israeli-army-operation",
+      "genuineness": "verified",
+      "outlets": [
+        "Al Jazeera",
+        "Reuters",
+        "AFP"
+      ],
+      "image": null,
+      "image_credit": null
+    },
+    {
+      "id": "world-20261120-0622-01",
+      "published_ist": "2026-11-19T23:42:00+05:30",
+      "headline": "Anthropic ka Nasdaq debut, valuation $2 trillion",
+      "detail": "Anthropic ke share Nasdaq debut par $111.50 par khule — IPO price $83 se 34% upar; din bhar me company ki valuation $2 trillion tak pahunchi, AI company ka ab tak ka sabse bada IPO.",
+      "category": "World",
+      "exam_angle": "AI companies, IPO records — UPSC Economy",
+      "source": "Onmanorama",
+      "source_url": "https://www.onmanorama.com/news/business/2026/11/19/anthropic-makes-stellar-stock-market-debut-us.html",
+      "genuineness": "verified",
+      "outlets": [
+        "Reuters",
+        "USA Today",
+        "Onmanorama",
+        "Al Mayadeen"
+      ],
+      "image": null,
+      "image_credit": null
+    },
+    {
+      "id": "world-20261120-0922-03",
+      "published_ist": "2026-11-19T23:30:00+05:30",
+      "headline": "Bukele teesri baar rashtrapati chunav ladenge",
+      "detail": "El Salvador ke rashtrapati Nayib Bukele February 2027 ke chunav ke liye teesri baar ummeedvari darj karane wale hain; 2025 ke samvidhan sanshodhan se anishchit-kal punah chunav ki anumati mili hai.",
+      "category": "World",
+      "exam_angle": "El Salvador chunav, term limits — UPSC IR",
+      "source": "Reuters",
+      "source_url": "https://www.reuters.com/world/americas/el-salvadors-bukele-expected-seek-unprecedented-third-term-leader-2026-11-19/",
+      "genuineness": "corroborated",
+      "outlets": [
+        "Reuters",
+        "Al Jazeera"
+      ],
+      "image": null,
+      "image_credit": null
+    },
+    {
+      "id": "world-20261119-2222-01",
+      "published_ist": "2026-11-19T20:07:00+05:30",
+      "headline": "Kyiv me Dutch dutavas par drone hamla",
+      "detail": "Russia ke drone hamle me Kyiv me Dutch dutavas ki imarat ko halka nuksan hua; koi karmchari ghayal nahi hua aur jaanch jaari hai.",
+      "category": "World",
+      "exam_angle": "Russia-Ukraine war, diplomatic missions — UPSC IR",
+      "source": "Ukrainska Pravda",
+      "source_url": "https://www.pravda.com.ua/eng/news/2026/11/19/8063652/",
+      "genuineness": "verified",
+      "outlets": [
+        "Ukrainska Pravda",
+        "The Kyiv Independent",
+        "European Pravda",
+        "The Times"
+      ],
+      "image": "../images/world/world-20261119-2222-01.jpg",
+      "image_credit": "Ukrainska Pravda"
+    },
+    {
+      "id": "world-20261120-0622-02",
+      "published_ist": "2026-11-19T19:19:00+05:30",
+      "headline": "Kerch Bridge par teesra hamla, Putin ne badle ki dhamki",
+      "detail": "Ukraine ne chaar din me teesri baar Kerch Bridge par hamla kiya, rail seva ruk gayi; Putin ne bahut zyada dardnak jawab ki dhamki di aur samudri-urja yuddh-viram ki baat khatm kar di.",
+      "category": "World",
+      "exam_angle": "Russia-Ukraine war, Crimea — UPSC IR",
+      "source": "Firstpost",
+      "source_url": "https://www.firstpost.com/world/putin-vows-retaliation-after-third-ukrainian-attack-on-key-crimea-bridge-in-four-days-14061337.html",
+      "genuineness": "verified",
+      "outlets": [
+        "Reuters",
+        "The Hindu",
+        "Firstpost",
+        "Times Now"
+      ],
+      "image": null,
+      "image_credit": null
+    },
+    {
+      "id": "world-20261119-1922-04",
+      "published_ist": "2026-11-19T18:35:00+05:30",
+      "headline": "Uganda bhuskhalan peediton ki UN me shikayat",
+      "detail": "2019 ke Bududa bhuskhalan ke 48 peediton ne Uganda sarkar ke khilaf UN Human Rights Committee me shikayat ki; punarvas aur muaavze ki maang hai.",
+      "category": "World",
+      "exam_angle": "Climate adaptation, UN Human Rights Committee — UPSC Environment",
+      "source": "MyJoyOnline",
+      "source_url": "https://www.myjoyonline.com/survivors-of-ugandas-deadly-landslide-seek-justice-at-the-un/",
+      "genuineness": "corroborated",
+      "outlets": [
+        "BBC",
+        "The Brief Brief"
+      ],
+      "image": null,
+      "image_credit": null
+    },
+    {
+      "id": "world-20261120-0922-04",
+      "published_ist": "2026-11-19T18:07:00+05:30",
+      "headline": "UK dega Ukraine ko 1,000 se zyada drones",
+      "detail": "Britain ne Ukraine ke liye £260 million ka package ghoshit kiya, jisme 1,000 se zyada lambi doori wale strike drone hain jo 1,000 km se zyada ud sakte hain.",
+      "category": "World",
+      "exam_angle": "UK-Ukraine defence aid — UPSC IR",
+      "source": "UK Government (GOV.UK)",
+      "source_url": "https://www.gov.uk/government/news/1000-long-range-strike-drones-announced-for-ukraine-as-prime-minister-co-chairs-coalition-of-the-willing-in-berlin",
+      "genuineness": "verified",
+      "outlets": [
+        "GOV.UK",
+        "Ukrinform",
+        "Kyiv Post",
+        "Interfax-Ukraine",
+        "Ukrainska Pravda"
+      ],
+      "image": null,
+      "image_credit": null
+    },
+    {
+      "id": "world-20261120-0727-05",
+      "published_ist": "2026-11-19T17:26:00+05:30",
+      "headline": "UN pramukh ki race atki, neta ka sankat",
+      "detail": "Suraksha Parishad aath daur ke gupt matdan ke baad bhi Guterres ke uttaradhikari par sahmat nahi ho payi, aur 31 December ko unka karyakal khatm hone par UN bina pramukh ke reh sakta hai.",
+      "category": "World",
+      "exam_angle": "UN Secretary-General selection, UNSC — UPSC IR",
+      "source": "Reuters",
+      "source_url": "https://www.reuters.com/world/un-could-soon-be-leaderless-race-succeed-guterres-stalls-2026-11-19/",
+      "genuineness": "corroborated",
+      "outlets": [
+        "Reuters",
+        "Arab News"
+      ],
+      "image": null,
+      "image_credit": null
+    },
+    {
+      "id": "world-20261120-0622-03",
+      "published_ist": "2026-11-19T17:13:00+05:30",
+      "headline": "Berlin me Ukraine sahyogiyon ki badi baithak",
+      "detail": "Zelenskyy Berlin pahunche; 40 se zyada sahyogi deshon ke neta Coalition of the Willing baithak me mile, shanti vartao me Europe ki bhumika aur suraksha guarantee par charcha hui.",
+      "category": "World",
+      "exam_angle": "Ukraine war, European security — UPSC IR",
+      "source": "Interfax-Ukraine",
+      "source_url": "https://en.interfax.com.ua/news/general/1239165.html",
+      "genuineness": "verified",
+      "outlets": [
+        "Reuters",
+        "Al Jazeera",
+        "Interfax-Ukraine"
+      ],
+      "image": null,
+      "image_credit": null
+    },
+    {
+      "id": "world-20261119-2022-01",
+      "published_ist": "2026-11-19T16:50:00+05:30",
+      "headline": "Katherine Clark pehli mahila House majority leader",
+      "detail": "America me House Democrats ne Katherine Clark ko majority leader chuna; ye pad sambhalne wali ve pehli mahila hongi.",
+      "category": "World",
+      "exam_angle": "US House leadership — UPSC Polity",
+      "source": "KNKX",
+      "source_url": "https://www.knkx.org/2026-11-19/incoming-house-majority-leader-katherine-clark-stresses-democratic-unity",
+      "genuineness": "verified",
+      "outlets": [
+        "KNKX",
+        "The Telegram",
+        "QNC News"
+      ],
+      "image": "../images/world/world-20261119-2022-01.jpg",
+      "image_credit": "KNKX"
+    },
+    {
+      "id": "world-20261119-2122-01",
+      "published_ist": "2026-11-19T16:36:00+05:30",
+      "headline": "Hormuz me 2 tanker surang se takraye",
+      "detail": "IRGC ke dawe ke mutabik Hormuz me 2 supertanker samudri surang se takra kar jalne lage; dawa abhi swatantra roop se verify nahi hua hai.",
+      "category": "World",
+      "exam_angle": "Strait of Hormuz, oil shipping — UPSC IR/Geography",
+      "source": "IRNA",
+      "source_url": "https://en.irna.ir/news/86326732/Two-more-violating-supertankers-catch-fire-in-Strait-of-Hormuz",
+      "genuineness": "verified",
+      "outlets": [
+        "IRNA",
+        "Al Arabiya",
+        "Press TV"
+      ],
+      "image": null,
+      "image_credit": null
+    },
+    {
+      "id": "world-20261119-1022-01",
+      "published_ist": "2026-11-19T15:50:00+05:30",
+      "headline": "ICJ: Myanmar ke khilaf narsanhar ka faisla",
+      "detail": "ICJ ne faisla sunaya — Myanmar ki sena ne 2017 mein hazaaron Rohingya nagrik mare aur vyaapak yaun hinsa ki; adalat ne kuch mamalon mein 'genocidal intent' paya; sabooton ke anusaar lagbhag 10,000 Rohingya mare gaye.",
+      "category": "World",
+      "exam_angle": "ICJ aur 1948 Narsanhar Samjhauta — UPSC ke liye mahatvapurna.",
+      "source": "Al Jazeera",
+      "source_url": "https://www.aljazeera.com/news/2026/11/19/un-top-court-finds-myanmar-killed-10000-rohingya-as-it-rules-on-genocide",
+      "genuineness": "verified",
+      "outlets": [
+        "Al Jazeera",
+        "The Hindu",
+        "The Jerusalem Post",
+        "New Age BD"
+      ],
+      "image": "../images/world/world-20261119-1022-01.jpg",
+      "image_credit": "Al Jazeera"
+    },
+    {
+      "id": "world-20261119-1722-01",
+      "published_ist": "2026-11-19T15:02:00+05:30",
+      "headline": "Senegal ke kinare pravasi naav doobi, darjanon lapata",
+      "detail": "Lagbhag 100 pravasiyon se bhari naav Dakar ke paas Yenne ke kinare palat gayi; kam se kam chaar shav mile, darjanon lapata hain aur talash jaari hai.",
+      "category": "World",
+      "exam_angle": "Paschim Africa se Atlantic marg par pravasi sankat — IOM ke anusar is saal 454 se zyada mautein ya lapata.",
+      "source": "Daily Mirror",
+      "source_url": "https://www.dailymirror.lk/international/Dozens-missing-after-boat-carrying-100-migrants-sinks-off-Senegals-coast/107-355298",
+      "genuineness": "verified",
+      "outlets": [
+        "BBC",
+        "AFP",
+        "Daily Mirror",
+        "The Morning"
+      ],
+      "image": null,
+      "image_credit": null
+    },
+    {
+      "id": "world-20261119-2222-02",
+      "published_ist": "2026-11-19T15:00:00+05:30",
+      "headline": "Kenya ne Mrima Hill sauda US ko diya",
+      "detail": "Kenya ne Mrima Hill ki durlabh khanij aur niobium khadan ke liye America ke Frontier Minerals sangh ko chuna; do Chinese company pehle hi peeche hat chuki thi.",
+      "category": "World",
+      "exam_angle": "Critical minerals, rare earths, US-China rivalry — UPSC IR/Economy",
+      "source": "Reuters",
+      "source_url": "https://www.reuters.com/world/africa/kenya-chooses-us-consortium-to-develop-mrima-hill-critical-minerals-project-2026-11-19/",
+      "genuineness": "verified",
+      "outlets": [
+        "Reuters",
+        "Daily Nation",
+        "Business Daily",
+        "Kenyans.co.ke"
+      ],
+      "image": null,
+      "image_credit": null
+    },
+    {
+      "id": "world-20261119-1622-02",
+      "published_ist": "2026-11-19T14:59:00+05:30",
+      "headline": "Han Duck-soo ki saza radd, mamla dobara sunvai",
+      "detail": "Dakshin Korea ki Supreme Court ne poorv PM Han Duck-soo ki 15 saal ki saza radd kar mamla Seoul High Court ko wapas bheja; ghoshna ke baad ke kuch aarop barkarar, hirasat do mahine badhai.",
+      "category": "World",
+      "exam_angle": "Dakshin Korea: 2024 martial law ke baad Yoon ko hataya gaya; Han par mukadma jaari — UPSC ke liye mahatvapurna.",
+      "source": "Yonhap News Agency",
+      "source_url": "https://en.yna.co.kr/view/AEN20261119001252315",
+      "genuineness": "verified",
+      "outlets": [
+        "Yonhap",
+        "The Straits Times",
+        "Korea Herald",
+        "The Korea Times"
+      ],
+      "image": "../images/world/world-20261119-1622-02.jpg",
+      "image_credit": "Michael Gruber / Austrian Foreign Ministry, Wikimedia Commons (CC BY 2.0)"
+    },
+    {
+      "id": "world-20261119-1522-01",
+      "published_ist": "2026-11-19T14:30:00+05:30",
+      "headline": "Denmark ne Greenland suraksha samjhota manzoor kiya",
+      "detail": "Denmark ki sansad ne sarvasammati se America-Greenland suraksha samjhote ko manzoori di; America ko Greenland me do sainya adde banane ki ijazat milegi, 1951 ke samjhote ka vistaar hoga.",
+      "category": "World",
+      "exam_angle": "Greenland: Denmark ka swayatt-shasit kshetra; Arctic me America ki sainya upasthiti aur 1951 raksha sandhi.",
+      "source": "Al Arabiya",
+      "source_url": "https://english.alarabiya.net/News/world/2026/11/19/denmark-s-parliament-ratifies-security-agreement-with-us-greenland",
+      "genuineness": "verified",
+      "outlets": [
+        "Reuters",
+        "Al Arabiya",
+        "The Times of India",
+        "Sweden Herald"
+      ],
+      "image": "../images/world/world-20261119-1522-01.jpg",
+      "image_credit": "Moahim, Wikimedia Commons (CC BY-SA 4.0)"
+    },
+    {
+      "id": "world-20261119-2022-02",
+      "published_ist": "2026-11-19T14:22:00+05:30",
+      "headline": "Olivio Gomes hatya: France police ko 8 saal",
+      "detail": "France ki appeal adalat ne police adhikari Gilles Guilbert ko 2020 me Olivio Gomes ki hatya ke liye 8 saal ki saza sunayi; pehle 10 saal ki saza mili thi.",
+      "category": "World",
+      "exam_angle": null,
+      "source": "Malay Mail",
+      "source_url": "https://www.malaymail.com/news/world/2026/11/19/rare-police-brutality-conviction-french-cop-jailed-eight-years-for-shooting-black-man-as-he-drove-away/243935",
+      "genuineness": "verified",
+      "outlets": [
+        "Malay Mail",
+        "Euronews",
+        "EconoTimes"
+      ],
+      "image": null,
+      "image_credit": null
+    },
+    {
+      "id": "world-20261119-1622-01",
+      "published_ist": "2026-11-19T14:02:00+05:30",
+      "headline": "Trump, Xi, Putin ki pehli tri-pakshiya baithak",
+      "detail": "Teeno neta APEC sammelan ke dauraan Shenzhen mein pehli baar ek saath mile; Xi ne baithak ko aitihasik bataya, agenda mein parmanu hathiyaar, Iran aur Ukraine yuddh hain.",
+      "category": "World",
+      "exam_angle": "APEC shikhar sammelan; New START sandhi February 2026 mein samapt — parmanu hathiyaar niyantran par charcha.",
+      "source": "Al Jazeera",
+      "source_url": "https://www.aljazeera.com/news/2026/11/19/trump-meets-putin-and-xi-ahead-of-us-russia-china-trilateral-talks",
+      "genuineness": "verified",
+      "outlets": [
+        "Al Jazeera",
+        "The Korea Times",
+        "The Economic Times",
+        "The Hindu",
+        "Nikkei Asia"
+      ],
+      "image": "../images/world/world-20261119-1622-01.jpg",
+      "image_credit": "Al Jazeera"
+    }
+  ]
 }
