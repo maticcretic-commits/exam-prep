@@ -1,6 +1,41 @@
 {
- "updated_ist": "2026-11-20T17:24:15+05:30",
+ "updated_ist": "2026-11-20T18:30:18+05:30",
  "items": [
+  {
+   "id": "world-20261120-1822-01",
+   "published_ist": "2026-11-20T11:17:00+05:30",
+   "headline": "Trump ne Iran hamle ka faisla taal diya",
+   "detail": "Trump ne Reuters aur Axios se kaha Iran par dobara hamle ka faisla naye saal ke baad hoga — 'jaldi nahi hai'; Netanyahu turant bombing ke liye dabav bana rahe hain.",
+   "category": "World",
+   "exam_angle": "America-Iran yuddh aur West Asia ki sthiti — UPSC/PCS ke liye mahatvapurna.",
+   "source": "Gulf News",
+   "source_url": "https://gulfnews.com/world/americas/will-us-strike-iran-again-trump-says-decision-can-wait-until-2027-1.500754568",
+   "genuineness": "verified",
+   "outlets": [
+    "Reuters",
+    "Axios",
+    "Gulf News"
+   ],
+   "image": "../images/world/world-20261120-1822-01.jpg",
+   "image_credit": "Gulf News"
+  },
+  {
+   "id": "world-20261120-1822-02",
+   "published_ist": "2026-11-20T16:22:00+05:30",
+   "headline": "Europe me yuvaon ki badi hadtaal",
+   "detail": "25 se zyada deshon me hazaaron yuva sadkon par utre — mehengaai, awaas aur shiksha ke liye paise, hathiyaron par kharch band karne ki maang; Italy me aam hadtaal, Britain me 350 se zyada school-college band.",
+   "category": "World",
+   "exam_angle": "Europe me yuva andolan aur sainya kharch par bahas — antarrashtriya sambandh ke liye.",
+   "source": "CNN",
+   "source_url": "https://www.cnn.com/2026/11/20/europe/gen-z-youth-protests-europe-intl?cid=external-feeds_iluminar_meta",
+   "genuineness": "corroborated",
+   "outlets": [
+    "CNN",
+    "AFP"
+   ],
+   "image": null,
+   "image_credit": null
+  },
   {
    "id": "world-20261120-1722-01",
    "published_ist": "2026-11-20T08:30:00+05:30",
@@ -34,26 +69,6 @@
     "Reuters",
     "AFP",
     "The Straits Times"
-   ],
-   "image": null,
-   "image_credit": null
-  },
-  {
-   "id": "world-20261120-1722-03",
-   "published_ist": "2026-11-18T12:00:00+05:30",
-   "headline": "US-Venezuela sainya samjhauta, 20 saal baad",
-   "detail": "America ke raksha mantri Pete Hegseth ne Caracas me Venezuela ke antarim netritva ke saath sainya samjhauta kiya — sanyukt prashikshan aur khufiya jaankari sajha hogi, Maduro ko hatane ke 10 mahine baad.",
-   "category": "World",
-   "exam_angle": "US-Latin America sambandh — UPSC IR",
-   "source": "CNN",
-   "source_url": "https://www.cnn.com/2026/11/18/americas/us-venezuela-military-deal-hegseth-latam-intl?cid=external-feeds_iluminar_meta",
-   "genuineness": "verified",
-   "outlets": [
-    "CNN",
-    "The Wall Street Journal",
-    "Associated Press",
-    "The Hindu",
-    "The Times"
    ],
    "image": null,
    "image_credit": null
@@ -130,25 +145,6 @@
     "The Hindu",
     "NDTV",
     "The Times of India"
-   ],
-   "image": null,
-   "image_credit": null
-  },
-  {
-   "id": "world-20261120-1522-04",
-   "published_ist": "2026-11-19T05:30:00+05:30",
-   "headline": "Malaysia me Bharatiyon ki visa-free entry band",
-   "detail": "Malaysia ne 1 January 2027 se Bharatiya nagrikon ki visa-free entry khatm karne ka elan kiya; MyVISA portal par 1 December 2026 se aavedan hoga, 2023 se chali 30-din ki suvidha 31 December ko samapt hogi.",
-   "category": "World",
-   "exam_angle": "India-Malaysia relations, visa policy — UPSC IR",
-   "source": "The Hindu BusinessLine",
-   "source_url": "https://www.thehindubusinessline.com/news/malaysia-to-end-visa-free-entry-for-indians-from-january-1-2027/article71719877.ece",
-   "genuineness": "verified",
-   "outlets": [
-    "The Hindu BusinessLine",
-    "The Telegraph",
-    "Business Standard",
-    "The Economic Times"
    ],
    "image": null,
    "image_credit": null
