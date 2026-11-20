@@ -727,6 +727,41 @@
    ],
    "image": null,
    "image_credit": null
+  },
+  {
+   "id": "world-20261120-1822-01",
+   "published_ist": "2026-11-20T11:17:00+05:30",
+   "headline": "Trump ne Iran hamle ka faisla taal diya",
+   "detail": "Trump ne Reuters aur Axios se kaha Iran par dobara hamle ka faisla naye saal ke baad hoga — 'jaldi nahi hai'; Netanyahu turant bombing ke liye dabav bana rahe hain.",
+   "category": "World",
+   "exam_angle": "America-Iran yuddh aur West Asia ki sthiti — UPSC/PCS ke liye mahatvapurna.",
+   "source": "Gulf News",
+   "source_url": "https://gulfnews.com/world/americas/will-us-strike-iran-again-trump-says-decision-can-wait-until-2027-1.500754568",
+   "genuineness": "verified",
+   "outlets": [
+    "Reuters",
+    "Axios",
+    "Gulf News"
+   ],
+   "image": "../images/world/world-20261120-1822-01.jpg",
+   "image_credit": "Gulf News"
+  },
+  {
+   "id": "world-20261120-1822-02",
+   "published_ist": "2026-11-20T16:22:00+05:30",
+   "headline": "Europe me yuvaon ki badi hadtaal",
+   "detail": "25 se zyada deshon me hazaaron yuva sadkon par utre — mehengaai, awaas aur shiksha ke liye paise, hathiyaron par kharch band karne ki maang; Italy me aam hadtaal, Britain me 350 se zyada school-college band.",
+   "category": "World",
+   "exam_angle": "Europe me yuva andolan aur sainya kharch par bahas — antarrashtriya sambandh ke liye.",
+   "source": "CNN",
+   "source_url": "https://www.cnn.com/2026/11/20/europe/gen-z-youth-protests-europe-intl?cid=external-feeds_iluminar_meta",
+   "genuineness": "corroborated",
+   "outlets": [
+    "CNN",
+    "AFP"
+   ],
+   "image": null,
+   "image_credit": null
   }
  ]
 }
