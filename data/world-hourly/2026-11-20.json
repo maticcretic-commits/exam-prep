@@ -56,6 +56,95 @@
    ],
    "image": null,
    "image_credit": null
+  },
+  {
+   "id": "world-20261120-0727-01",
+   "published_ist": "2026-11-20T07:03:00+05:30",
+   "headline": "Kushner: Russia ko NATO-jaisi guarantee manzoor",
+   "detail": "America ke doot Jared Kushner ne Berlin me kaha ki Russia ko Ukraine ke liye NATO ke Article 5 jaisi suraksha guarantee manzoor hai aur Trump bhi iske liye taiyaar hain; Russia ne abhi is par kuch nahi kaha.",
+   "category": "World",
+   "exam_angle": "Ukraine war, NATO Article 5 — UPSC IR",
+   "source": "ETV Bharat (AP)",
+   "source_url": "https://www.etvbharat.com/en/international/us-envoy-kushner-says-he-believes-russia-is-comfortable-with-nato-like-security-guarantees-for-ukraine-enn26112000575",
+   "genuineness": "verified",
+   "outlets": [
+    "AP",
+    "Al Jazeera",
+    "Kyiv Post"
+   ],
+   "image": null,
+   "image_credit": null
+  },
+  {
+   "id": "world-20261120-0727-02",
+   "published_ist": "2026-11-20T05:30:00+05:30",
+   "headline": "Trump ne divangat Pete Rose ko maafi di",
+   "detail": "Rashtrapati Trump ne baseball ke sabse zyada hit (4,256) banane wale divangat Pete Rose ko tax mamle me poori maafi de di; Rose ko 1990 me tax jhooth bolne par saza hui thi aur woh 2024 me guzar gaye the.",
+   "category": "World",
+   "exam_angle": null,
+   "source": "Reuters",
+   "source_url": "https://www.reuters.com/sports/trump-pardons-late-baseball-legend-pete-rose-tax-crimes-2026-11-19/",
+   "genuineness": "verified",
+   "outlets": [
+    "Reuters",
+    "AP",
+    "CNN",
+    "USA Today"
+   ],
+   "image": null,
+   "image_credit": null
+  },
+  {
+   "id": "world-20261120-0727-03",
+   "published_ist": "2026-11-20T01:48:00+05:30",
+   "headline": "China ko 9 lakh AI chip ki manzoori",
+   "detail": "America ne December 2025 se May 2026 tak Nvidia aur AMD ke lagbhag 8,79,000 advanced AI chip China ko bechne ki manzoori di, jinme Alibaba ke 75,000 aur Tencent ke 1,50,000 chip shamil hain.",
+   "category": "World",
+   "exam_angle": "US-China tech war, export controls — UPSC IR/Economy",
+   "source": "Reuters",
+   "source_url": "https://www.reuters.com/world/license-information-ai-chips-sent-china-released-by-us-house-committee-2026-11-19/",
+   "genuineness": "corroborated",
+   "outlets": [
+    "Reuters",
+    "Al Jazeera"
+   ],
+   "image": null,
+   "image_credit": null
+  },
+  {
+   "id": "world-20261120-0727-04",
+   "published_ist": "2026-11-20T00:16:00+05:30",
+   "headline": "Gaza me Israel ka pehla zameeni hamla",
+   "detail": "Yuddh-viram ke baad pehli baar Israel ne madhya Gaza me zameeni karvai ki, Yellow Line se aage Nuseirat ke paas ek surang ko nishana banaya; teen log mare gaye aur hazaaron phir se beghar hue, karvai 19 November ko poori hui.",
+   "category": "World",
+   "exam_angle": "Israel-Palestine, ceasefire — UPSC IR",
+   "source": "Al Jazeera",
+   "source_url": "https://www.aljazeera.com/amp/news/2026/11/19/palestinians-in-gaza-face-new-displacement-after-israeli-army-operation",
+   "genuineness": "verified",
+   "outlets": [
+    "Al Jazeera",
+    "Reuters",
+    "AFP"
+   ],
+   "image": null,
+   "image_credit": null
+  },
+  {
+   "id": "world-20261120-0727-05",
+   "published_ist": "2026-11-19T17:26:00+05:30",
+   "headline": "UN pramukh ki race atki, neta ka sankat",
+   "detail": "Suraksha Parishad aath daur ke gupt matdan ke baad bhi Guterres ke uttaradhikari par sahmat nahi ho payi, aur 31 December ko unka karyakal khatm hone par UN bina pramukh ke reh sakta hai.",
+   "category": "World",
+   "exam_angle": "UN Secretary-General selection, UNSC — UPSC IR",
+   "source": "Reuters",
+   "source_url": "https://www.reuters.com/world/un-could-soon-be-leaderless-race-succeed-guterres-stalls-2026-11-19/",
+   "genuineness": "corroborated",
+   "outlets": [
+    "Reuters",
+    "Arab News"
+   ],
+   "image": null,
+   "image_credit": null
   }
  ]
 }
