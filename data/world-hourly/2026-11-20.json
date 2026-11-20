@@ -500,6 +500,60 @@
       ],
       "image": null,
       "image_credit": null
+    },
+    {
+      "id": "world-20261120-1422-01",
+      "published_ist": "2026-11-20T09:38:00+05:30",
+      "headline": "Saudi ne Houthi missile ko hawa me roka",
+      "detail": "Saudi vayu raksha ne Yemen ke Houthi vidrohiyon ki ballistic missile ko dakshini kshetra ke upar rok kar nasht kar diya; Jazan, Abha aur Khamis Mushait ke paas drone bhi giraye gaye.",
+      "category": "World",
+      "exam_angle": "West Asia sangharsh — UPSC IR",
+      "source": "Reuters",
+      "source_url": "https://www.reuters.com/world/middle-east/saudi-led-coalition-says-it-intercepted-houthi-missile-targeting-southern-region-2026-11-20/",
+      "genuineness": "corroborated",
+      "outlets": [
+        "Reuters",
+        "Jerusalem Post"
+      ],
+      "image": null,
+      "image_credit": null
+    },
+    {
+      "id": "world-20261120-1422-02",
+      "published_ist": "2026-11-20T00:19:00+05:30",
+      "headline": "Bangladesh hinsa: PM ne Bharat par aarop lagaya",
+      "detail": "Pradhan Mantri Tarique Rahman ne kaha seema ke us paar se Awami League hinsa bhadka rahi hai; shutdown me aagjani aur bomb visfot hue, Yunus ke paitrik ghar par hamla hua aur Dhaka me 107 log giraftar hue.",
+      "category": "World",
+      "exam_angle": "Bharat-Bangladesh sambandh — UPSC IR",
+      "source": "The Telegraph",
+      "source_url": "https://www.telegraphindia.com/world/bangladesh-pm-tarique-rahman-blames-india-as-sheikh-hasinas-party-supporters-stage-violent-shutdown/cid/2190314",
+      "genuineness": "verified",
+      "outlets": [
+        "The Telegraph",
+        "Moneycontrol",
+        "The Indian Express",
+        "WION"
+      ],
+      "image": null,
+      "image_credit": null
+    },
+    {
+      "id": "world-20261120-0922-01",
+      "published_ist": "2026-11-20T05:30:00+05:30",
+      "headline": "Kyiv par Russia ka ballistic missile hamla",
+      "detail": "Russia ne raat-bhar Kyiv aur pashchimi Ukraine par lagbhag 50 missilein daagin; Kyiv me teen log mare gaye aur 15 ghayal hue, Lviv me do log mare gaye, teen pul kshatigrast hue aur kai jilon me bijli band hui. (Sudhar: ghayalon ki sankhya 2 se badhkar 15 hui aur Lviv ke do mrityu jode gaye.)",
+      "category": "World",
+      "exam_angle": "Russia-Ukraine yuddh — UPSC IR",
+      "source": "UNN",
+      "source_url": "https://unn.ua/en/news/about-50-missiles-simultaneously-over-ukraine-russia-attacks-the-western-regions-there-are-fatalities-in-kyiv",
+      "genuineness": "verified",
+      "outlets": [
+        "UNN",
+        "EuropeSays",
+        "Kyiv Post"
+      ],
+      "image": null,
+      "image_credit": null
     }
   ]
 }
