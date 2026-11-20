@@ -1,6 +1,58 @@
 {
- "updated_ist": "2026-11-20T21:27:41+05:30",
+ "updated_ist": "2026-11-20T22:28:05+05:30",
  "items": [
+  {
+   "id": "world-20261120-2222-01",
+   "published_ist": "2026-11-19T12:00:00+05:30",
+   "headline": "Putin ne Europe ko Moscow bulaya",
+   "detail": "Putin ne kaha Europe ke doot Moscow aakar Ukraine vaarta par apna rukh saaf karein; Ryabkov ke anusar Britain, France aur Germany ke pratinidhiyon ki yatra par kaam chal raha hai.",
+   "category": "World",
+   "exam_angle": "Ukraine shanti vaarta, Europe ki bhumika — UPSC IR",
+   "source": "Reuters",
+   "source_url": "https://www.reuters.com/world/china/putin-says-russia-invited-europeans-moscow-clarify-position-ukraine-talks-2026-11-19/",
+   "genuineness": "corroborated",
+   "outlets": [
+    "Reuters",
+    "The Times"
+   ],
+   "image": null,
+   "image_credit": null
+  },
+  {
+   "id": "world-20261120-2222-02",
+   "published_ist": "2026-11-19T12:00:00+05:30",
+   "headline": "Gaza hamla khatm, log wapas laute",
+   "detail": "Israel ki sena ne kaha madhya Gaza me tankon wala zameeni operation khatm hua; Nuseirat shivir ke log wapas lautne lage aur Salah al-Din sadak phir khul gayi.",
+   "category": "World",
+   "exam_angle": "Gaza yuddhaviram, Yellow Line — UPSC IR",
+   "source": "The Hindu",
+   "source_url": "https://www.thehindu.com/news/international/israel-army-says-it-completed-ground-operation-in-central-gaza/article71721554.ece",
+   "genuineness": "corroborated",
+   "outlets": [
+    "AFP",
+    "Reuters"
+   ],
+   "image": null,
+   "image_credit": null
+  },
+  {
+   "id": "world-20261120-2222-03",
+   "published_ist": "2026-11-11T12:00:00+05:30",
+   "headline": "Kenya Ebola-mukt ki ore, aakhri mareez chhuta",
+   "detail": "Kenya ne apna aakhri Ebola mareez chhutti de di; saaton mareez theek hue aur 135 sampark wale logon ki nigrani poori hui, 23 December tak koi naya case na aaya to desh Ebola-mukt ghoshit hoga.",
+   "category": "World",
+   "exam_angle": "Ebola, WHO 42-din niyam — UPSC Health",
+   "source": "Citizen Digital",
+   "source_url": "https://citizen.digital/article/kenya-discharges-last-ebola-patient-as-all-7-victims-recover-n393706",
+   "genuineness": "verified",
+   "outlets": [
+    "Associated Press",
+    "BBC",
+    "Citizen Digital"
+   ],
+   "image": null,
+   "image_credit": null
+  },
   {
    "id": "world-20261120-2126-01",
    "published_ist": "2026-11-20T14:58:00+05:30",
@@ -391,64 +443,6 @@
     "The Hindu BusinessLine",
     "The Print",
     "ET EnergyWorld"
-   ],
-   "image": null,
-   "image_credit": null
-  },
-  {
-   "id": "world-20261120-0727-01",
-   "published_ist": "2026-11-20T07:03:00+05:30",
-   "headline": "Kushner: Russia ko NATO-jaisi guarantee manzoor",
-   "detail": "America ke doot Jared Kushner ne Berlin me kaha ki Russia ko Ukraine ke liye NATO ke Article 5 jaisi suraksha guarantee manzoor hai aur Trump bhi iske liye taiyaar hain; Russia ne abhi is par kuch nahi kaha.",
-   "category": "World",
-   "exam_angle": "Ukraine war, NATO Article 5 — UPSC IR",
-   "source": "ETV Bharat (AP)",
-   "source_url": "https://www.etvbharat.com/en/international/us-envoy-kushner-says-he-believes-russia-is-comfortable-with-nato-like-security-guarantees-for-ukraine-enn26112000575",
-   "genuineness": "verified",
-   "outlets": [
-    "AP",
-    "Al Jazeera",
-    "Kyiv Post"
-   ],
-   "image": null,
-   "image_credit": null
-  },
-  {
-   "id": "world-20261120-0922-01",
-   "published_ist": "2026-11-20T05:30:00+05:30",
-   "headline": "Kyiv par Russia ka ballistic missile hamla",
-   "detail": "Russia ne raat-bhar Kyiv aur pashchimi Ukraine par lagbhag 100 missilein aur 400 drone daage; aath log mare gaye aur 28 ghayal hue, Kyiv ke teen pul kshatigrast hue aur kai jilon me bijli band hui; ek missile ke Poland ki taraf jaane ki jaanch jaari hai. (Sudhar: missilein ~50 se badhkar ~100, mrityu 5 se badhkar 8, ghayal 15 se badhkar 28.)",
-   "category": "World",
-   "exam_angle": "Russia-Ukraine yuddh — UPSC IR",
-   "source": "Al Jazeera",
-   "source_url": "https://www.aljazeera.com/news/2026/11/20/russia-unleashes-retaliatory-barrage-on-kyiv-bridges",
-   "genuineness": "verified",
-   "outlets": [
-    "UNN",
-    "Al Jazeera",
-    "CNN",
-    "Channel News Asia",
-    "The New Voice of Ukraine",
-    "Ukrinform"
-   ],
-   "image": null,
-   "image_credit": null
-  },
-  {
-   "id": "world-20261120-0727-02",
-   "published_ist": "2026-11-20T05:30:00+05:30",
-   "headline": "Trump ne divangat Pete Rose ko maafi di",
-   "detail": "Rashtrapati Trump ne baseball ke sabse zyada hit (4,256) banane wale divangat Pete Rose ko tax mamle me poori maafi de di; Rose ko 1990 me tax jhooth bolne par saza hui thi aur woh 2024 me guzar gaye the.",
-   "category": "World",
-   "exam_angle": null,
-   "source": "Reuters",
-   "source_url": "https://www.reuters.com/sports/trump-pardons-late-baseball-legend-pete-rose-tax-crimes-2026-11-19/",
-   "genuineness": "verified",
-   "outlets": [
-    "Reuters",
-    "AP",
-    "CNN",
-    "USA Today"
    ],
    "image": null,
    "image_credit": null
