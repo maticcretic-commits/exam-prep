@@ -1,6 +1,25 @@
 {
- "updated_ist": "2026-11-19T22:29:00+05:30",
+ "updated_ist": "2026-11-20T06:26:34+05:30",
  "items": [
+  {
+   "id": "world-20261120-0622-01",
+   "published_ist": "2026-11-19T23:42:00+05:30",
+   "headline": "Anthropic ka Nasdaq debut, valuation $2 trillion",
+   "detail": "Anthropic ke share Nasdaq debut par $111.50 par khule — IPO price $83 se 34% upar; din bhar me company ki valuation $2 trillion tak pahunchi, AI company ka ab tak ka sabse bada IPO.",
+   "category": "World",
+   "exam_angle": "AI companies, IPO records — UPSC Economy",
+   "source": "Onmanorama",
+   "source_url": "https://www.onmanorama.com/news/business/2026/11/19/anthropic-makes-stellar-stock-market-debut-us.html",
+   "genuineness": "verified",
+   "outlets": [
+    "Reuters",
+    "USA Today",
+    "Onmanorama",
+    "Al Mayadeen"
+   ],
+   "image": null,
+   "image_credit": null
+  },
   {
    "id": "world-20261119-2222-01",
    "published_ist": "2026-11-19T20:07:00+05:30",
@@ -21,77 +40,58 @@
    "image_credit": "Ukrainska Pravda"
   },
   {
-   "id": "world-20261119-2222-02",
-   "published_ist": "2026-11-19T15:00:00+05:30",
-   "headline": "Kenya ne Mrima Hill sauda US ko diya",
-   "detail": "Kenya ne Mrima Hill ki durlabh khanij aur niobium khadan ke liye America ke Frontier Minerals sangh ko chuna; do Chinese company pehle hi peeche hat chuki thi.",
+   "id": "world-20261120-0622-02",
+   "published_ist": "2026-11-19T19:19:00+05:30",
+   "headline": "Kerch Bridge par teesra hamla, Putin ne badle ki dhamki",
+   "detail": "Ukraine ne chaar din me teesri baar Kerch Bridge par hamla kiya, rail seva ruk gayi; Putin ne bahut zyada dardnak jawab ki dhamki di aur samudri-urja yuddh-viram ki baat khatm kar di.",
    "category": "World",
-   "exam_angle": "Critical minerals, rare earths, US-China rivalry — UPSC IR/Economy",
-   "source": "Reuters",
-   "source_url": "https://www.reuters.com/world/africa/kenya-chooses-us-consortium-to-develop-mrima-hill-critical-minerals-project-2026-11-19/",
+   "exam_angle": "Russia-Ukraine war, Crimea — UPSC IR",
+   "source": "Firstpost",
+   "source_url": "https://www.firstpost.com/world/putin-vows-retaliation-after-third-ukrainian-attack-on-key-crimea-bridge-in-four-days-14061337.html",
    "genuineness": "verified",
    "outlets": [
     "Reuters",
-    "Daily Nation",
-    "Business Daily",
-    "Kenyans.co.ke"
-   ],
-   "image": null,
-   "image_credit": null
-  },
-  {
-   "id": "world-20261119-2122-01",
-   "published_ist": "2026-11-19T16:36:00+05:30",
-   "headline": "Hormuz me 2 tanker surang se takraye",
-   "detail": "IRGC ke dawe ke mutabik Hormuz me 2 supertanker samudri surang se takra kar jalne lage; dawa abhi swatantra roop se verify nahi hua hai.",
-   "category": "World",
-   "exam_angle": "Strait of Hormuz, oil shipping — UPSC IR/Geography",
-   "source": "IRNA",
-   "source_url": "https://en.irna.ir/news/86326732/Two-more-violating-supertankers-catch-fire-in-Strait-of-Hormuz",
-   "genuineness": "verified",
-   "outlets": [
-    "IRNA",
-    "Al Arabiya",
-    "Press TV"
-   ],
-   "image": null,
-   "image_credit": null
-  },
-  {
-   "id": "world-20261119-2122-02",
-   "published_ist": "2026-11-18T22:52:00+05:30",
-   "headline": "Kumamoto me 5.7 ka bhukamp, 2 ghayal",
-   "detail": "Japan ke Kumamoto me subah 2:22 baje 5.7 magnitude ka bhukamp aaya; 2 log ghayal hue aur tsunami ka koi khatra nahi hai.",
-   "category": "World",
-   "exam_angle": "Earthquakes, seismic zones — UPSC Geography/Disaster Management",
-   "source": "NHK",
-   "source_url": "https://www3.nhk.or.jp/nhkworld/news/20261119de78099/",
-   "genuineness": "verified",
-   "outlets": [
-    "NHK",
-    "Jiji Press",
-    "Kyodo News"
-   ],
-   "image": null,
-   "image_credit": null
-  },
-  {
-   "id": "world-20261119-2122-03",
-   "published_ist": "2026-11-18T15:46:00+05:30",
-   "headline": "Voyager 1 ek light-day door, pehli manav-nirmit vastu",
-   "detail": "18 November ko Voyager 1 Prithvi se ek light-day door pahuncha — lagbhag 25.9 arab km; ab is tak sandesh pahunchne me 24 ghante lagenge.",
-   "category": "World",
-   "exam_angle": "Deep space, interstellar exploration — UPSC Science & Tech",
-   "source": "The Hindu",
-   "source_url": "https://www.thehindu.com/sci-tech/science/nasa-voyager-1-probe-believed-to-have-reached-light-day-milestone/article71715503.ece",
-   "genuineness": "verified",
-   "outlets": [
     "The Hindu",
-    "Smithsonian Magazine",
-    "Down To Earth"
+    "Firstpost",
+    "Times Now"
    ],
-   "image": "../images/world/world-20261119-2122-03.jpg",
-   "image_credit": "NASA (Wikimedia Commons, public domain)"
+   "image": null,
+   "image_credit": null
+  },
+  {
+   "id": "world-20261119-1922-04",
+   "published_ist": "2026-11-19T18:35:00+05:30",
+   "headline": "Uganda bhuskhalan peediton ki UN me shikayat",
+   "detail": "2019 ke Bududa bhuskhalan ke 48 peediton ne Uganda sarkar ke khilaf UN Human Rights Committee me shikayat ki; punarvas aur muaavze ki maang hai.",
+   "category": "World",
+   "exam_angle": "Climate adaptation, UN Human Rights Committee — UPSC Environment",
+   "source": "MyJoyOnline",
+   "source_url": "https://www.myjoyonline.com/survivors-of-ugandas-deadly-landslide-seek-justice-at-the-un/",
+   "genuineness": "corroborated",
+   "outlets": [
+    "BBC",
+    "The Brief Brief"
+   ],
+   "image": null,
+   "image_credit": null
+  },
+  {
+   "id": "world-20261120-0622-03",
+   "published_ist": "2026-11-19T17:13:00+05:30",
+   "headline": "Berlin me Ukraine sahyogiyon ki badi baithak",
+   "detail": "Zelenskyy Berlin pahunche; 40 se zyada sahyogi deshon ke neta Coalition of the Willing baithak me mile, shanti vartao me Europe ki bhumika aur suraksha guarantee par charcha hui.",
+   "category": "World",
+   "exam_angle": "Ukraine war, European security — UPSC IR",
+   "source": "Interfax-Ukraine",
+   "source_url": "https://en.interfax.com.ua/news/general/1239165.html",
+   "genuineness": "verified",
+   "outlets": [
+    "Reuters",
+    "Al Jazeera",
+    "Interfax-Ukraine"
+   ],
+   "image": null,
+   "image_credit": null
   },
   {
    "id": "world-20261119-2022-01",
@@ -112,126 +112,19 @@
    "image_credit": "KNKX"
   },
   {
-   "id": "world-20261119-2022-02",
-   "published_ist": "2026-11-19T14:22:00+05:30",
-   "headline": "Olivio Gomes hatya: France police ko 8 saal",
-   "detail": "France ki appeal adalat ne police adhikari Gilles Guilbert ko 2020 me Olivio Gomes ki hatya ke liye 8 saal ki saza sunayi; pehle 10 saal ki saza mili thi.",
-   "category": "World",
-   "exam_angle": null,
-   "source": "Malay Mail",
-   "source_url": "https://www.malaymail.com/news/world/2026/11/19/rare-police-brutality-conviction-french-cop-jailed-eight-years-for-shooting-black-man-as-he-drove-away/243935",
-   "genuineness": "verified",
-   "outlets": [
-    "Malay Mail",
-    "Euronews",
-    "EconoTimes"
-   ],
-   "image": null,
-   "image_credit": null
-  },
-  {
-   "id": "world-20261119-2022-03",
-   "published_ist": "2026-11-19T13:27:00+05:30",
-   "headline": "Iran ne Ocean Koi tanker zabt kiya",
-   "detail": "Iran ki nausena ne Oman ki Khadi me tanker Ocean Koi ko zabt kar liya; America ne Iran jaane wale do tanker band karne ka dawa kiya.",
+   "id": "world-20261119-2122-01",
+   "published_ist": "2026-11-19T16:36:00+05:30",
+   "headline": "Hormuz me 2 tanker surang se takraye",
+   "detail": "IRGC ke dawe ke mutabik Hormuz me 2 supertanker samudri surang se takra kar jalne lage; dawa abhi swatantra roop se verify nahi hua hai.",
    "category": "World",
    "exam_angle": "Strait of Hormuz, oil shipping — UPSC IR/Geography",
-   "source": "Al Jazeera",
-   "source_url": "https://aljazeeranews.edgeone.app/news/2026/5/8/iran-says-it-has-seized-oil-tanker-over-attempts-to-disrupt-its-oil-exports",
+   "source": "IRNA",
+   "source_url": "https://en.irna.ir/news/86326732/Two-more-violating-supertankers-catch-fire-in-Strait-of-Hormuz",
    "genuineness": "verified",
    "outlets": [
-    "Al Jazeera",
-    "IANS",
-    "The Oil Slick"
-   ],
-   "image": null,
-   "image_credit": null
-  },
-  {
-   "id": "world-20261119-2022-04",
-   "published_ist": "2026-11-19T11:40:00+05:30",
-   "headline": "El Nino sukhe se Fiji-Tonga me apatkal ghoshit",
-   "detail": "El Nino se sukha sankat badhne par Fiji ne deshvyapi apatkal aur Tonga ne 27 din ka emergency ghoshit kiya; paani aur fasalon par sankat gehra hai.",
-   "category": "World",
-   "exam_angle": "El Niño, drought, Pacific island states — UPSC Geography/Environment",
-   "source": "TRT World",
-   "source_url": "https://www.trtworld.com:443/article/3c5e27520155?utm_source=f5402b114f99&utm_medium=internal&utm_campaign=recommended&utm_content=inline",
-   "genuineness": "verified",
-   "outlets": [
-    "TRT World",
-    "Malay Mail",
-    "Reuters"
-   ],
-   "image": "../images/world/world-20261119-2022-04.jpg",
-   "image_credit": "TRT World"
-  },
-  {
-   "id": "world-20261119-2022-05",
-   "published_ist": "2026-11-19T10:20:00+05:30",
-   "headline": "Indonesia me bina sazaa sampatti zabt kanoon pass",
-   "detail": "18 saal baad Indonesia ki sansad ne kanoon pass kiya jisse bhrashtachar se judi 1 arab rupiah se zyada ki sampatti bina sazaa ke zabt ki ja sakegi.",
-   "category": "World",
-   "exam_angle": "Non-conviction asset forfeiture — UPSC Polity/Governance",
-   "source": "Reuters",
-   "source_url": "https://www.reuters.com/world/asia-pacific/indonesia-parliament-passes-asset-forfeiture-bill-into-law-2026-11-19/",
-   "genuineness": "verified",
-   "outlets": [
-    "Reuters",
-    "Malay Mail",
-    "IndonesiaNow"
-   ],
-   "image": null,
-   "image_credit": null
-  },
-  {
-   "id": "world-20261119-1922-02",
-   "published_ist": "2026-11-19T12:45:00+05:30",
-   "headline": "APEC me Indonesia-China ke bade samjhote",
-   "detail": "Indonesia aur China ne Shenzhen me APEC shikhar sammelan ke dauran smart city, manufacturing aur infrastructure par chaar bade samjhote kiye.",
-   "category": "World",
-   "exam_angle": "APEC 2026, regional economic cooperation — UPSC IR",
-   "source": "The Manila Times",
-   "source_url": "https://www.manilatimes.net/2026/11/18/tmt-newswire/media-outreach-newswire/indonesia-and-chinese-partners-set-out-usd-63-billion-in-cooperation-at-apec-shenzhen/2473375/amp",
-   "genuineness": "verified",
-   "outlets": [
-    "Reuters",
-    "Antara",
-    "Media OutReach Newswire"
-   ],
-   "image": null,
-   "image_credit": null
-  },
-  {
-   "id": "world-20261119-1922-03",
-   "published_ist": "2026-11-19T12:55:00+05:30",
-   "headline": "Trump-Xi-Putin ki sanyukt shanti ghoshna",
-   "detail": "Shenzhen me pehli tri-pakshiya baithak ke baad Trump, Xi aur Putin ne 'Shanti Ghoshna' jaari ki; parmanu yuddh kabhi jeeta nahi ja sakta, is par sahmati bani.",
-   "category": "World",
-   "exam_angle": "Nuclear arms control, APEC, UNSC reform — UPSC IR",
-   "source": "The New Indian Express",
-   "source_url": "https://www.newindianexpress.com/world/2026/Nov/19/nuclear-war-cannot-be-won-must-never-be-fought-trump-putin-and-xi-adopt-peace-declaration-after-historic-talks",
-   "genuineness": "verified",
-   "outlets": [
-    "USA Today",
-    "Nikkei Asia",
-    "The New Indian Express"
-   ],
-   "image": null,
-   "image_credit": null
-  },
-  {
-   "id": "world-20261119-1922-04",
-   "published_ist": "2026-11-19T18:35:00+05:30",
-   "headline": "Uganda bhuskhalan peediton ki UN me shikayat",
-   "detail": "2019 ke Bududa bhuskhalan ke 48 peediton ne Uganda sarkar ke khilaf UN Human Rights Committee me shikayat ki; punarvas aur muaavze ki maang hai.",
-   "category": "World",
-   "exam_angle": "Climate adaptation, UN Human Rights Committee — UPSC Environment",
-   "source": "MyJoyOnline",
-   "source_url": "https://www.myjoyonline.com/survivors-of-ugandas-deadly-landslide-seek-justice-at-the-un/",
-   "genuineness": "corroborated",
-   "outlets": [
-    "BBC",
-    "The Brief Brief"
+    "IRNA",
+    "Al Arabiya",
+    "Press TV"
    ],
    "image": null,
    "image_credit": null
@@ -275,6 +168,25 @@
    "image_credit": null
   },
   {
+   "id": "world-20261119-2222-02",
+   "published_ist": "2026-11-19T15:00:00+05:30",
+   "headline": "Kenya ne Mrima Hill sauda US ko diya",
+   "detail": "Kenya ne Mrima Hill ki durlabh khanij aur niobium khadan ke liye America ke Frontier Minerals sangh ko chuna; do Chinese company pehle hi peeche hat chuki thi.",
+   "category": "World",
+   "exam_angle": "Critical minerals, rare earths, US-China rivalry — UPSC IR/Economy",
+   "source": "Reuters",
+   "source_url": "https://www.reuters.com/world/africa/kenya-chooses-us-consortium-to-develop-mrima-hill-critical-minerals-project-2026-11-19/",
+   "genuineness": "verified",
+   "outlets": [
+    "Reuters",
+    "Daily Nation",
+    "Business Daily",
+    "Kenyans.co.ke"
+   ],
+   "image": null,
+   "image_credit": null
+  },
+  {
    "id": "world-20261119-1622-02",
    "published_ist": "2026-11-19T14:59:00+05:30",
    "headline": "Han Duck-soo ki saza radd, mamla dobara sunvai",
@@ -313,6 +225,24 @@
    "image_credit": "Moahim, Wikimedia Commons (CC BY-SA 4.0)"
   },
   {
+   "id": "world-20261119-2022-02",
+   "published_ist": "2026-11-19T14:22:00+05:30",
+   "headline": "Olivio Gomes hatya: France police ko 8 saal",
+   "detail": "France ki appeal adalat ne police adhikari Gilles Guilbert ko 2020 me Olivio Gomes ki hatya ke liye 8 saal ki saza sunayi; pehle 10 saal ki saza mili thi.",
+   "category": "World",
+   "exam_angle": null,
+   "source": "Malay Mail",
+   "source_url": "https://www.malaymail.com/news/world/2026/11/19/rare-police-brutality-conviction-french-cop-jailed-eight-years-for-shooting-black-man-as-he-drove-away/243935",
+   "genuineness": "verified",
+   "outlets": [
+    "Malay Mail",
+    "Euronews",
+    "EconoTimes"
+   ],
+   "image": null,
+   "image_credit": null
+  },
+  {
    "id": "world-20261119-1622-01",
    "published_ist": "2026-11-19T14:02:00+05:30",
    "headline": "Trump, Xi, Putin ki pehli tri-pakshiya baithak",
@@ -333,6 +263,24 @@
    "image_credit": "Al Jazeera"
   },
   {
+   "id": "world-20261119-2022-03",
+   "published_ist": "2026-11-19T13:27:00+05:30",
+   "headline": "Iran ne Ocean Koi tanker zabt kiya",
+   "detail": "Iran ki nausena ne Oman ki Khadi me tanker Ocean Koi ko zabt kar liya; America ne Iran jaane wale do tanker band karne ka dawa kiya.",
+   "category": "World",
+   "exam_angle": "Strait of Hormuz, oil shipping — UPSC IR/Geography",
+   "source": "Al Jazeera",
+   "source_url": "https://aljazeeranews.edgeone.app/news/2026/5/8/iran-says-it-has-seized-oil-tanker-over-attempts-to-disrupt-its-oil-exports",
+   "genuineness": "verified",
+   "outlets": [
+    "Al Jazeera",
+    "IANS",
+    "The Oil Slick"
+   ],
+   "image": null,
+   "image_credit": null
+  },
+  {
    "id": "world-20261119-1422-01",
    "published_ist": "2026-11-19T13:14:00+05:30",
    "headline": "Riyadh me Houthi hamle se PIF Tower kshatigrast",
@@ -350,6 +298,42 @@
    ],
    "image": "../images/world/world-20261119-1422-01.jpg",
    "image_credit": "Faisal Arif, Wikimedia Commons (CC BY-SA 4.0)"
+  },
+  {
+   "id": "world-20261119-1922-03",
+   "published_ist": "2026-11-19T12:55:00+05:30",
+   "headline": "Trump-Xi-Putin ki sanyukt shanti ghoshna",
+   "detail": "Shenzhen me pehli tri-pakshiya baithak ke baad Trump, Xi aur Putin ne 'Shanti Ghoshna' jaari ki; parmanu yuddh kabhi jeeta nahi ja sakta, is par sahmati bani.",
+   "category": "World",
+   "exam_angle": "Nuclear arms control, APEC, UNSC reform — UPSC IR",
+   "source": "The New Indian Express",
+   "source_url": "https://www.newindianexpress.com/world/2026/Nov/19/nuclear-war-cannot-be-won-must-never-be-fought-trump-putin-and-xi-adopt-peace-declaration-after-historic-talks",
+   "genuineness": "verified",
+   "outlets": [
+    "USA Today",
+    "Nikkei Asia",
+    "The New Indian Express"
+   ],
+   "image": null,
+   "image_credit": null
+  },
+  {
+   "id": "world-20261119-1922-02",
+   "published_ist": "2026-11-19T12:45:00+05:30",
+   "headline": "APEC me Indonesia-China ke bade samjhote",
+   "detail": "Indonesia aur China ne Shenzhen me APEC shikhar sammelan ke dauran smart city, manufacturing aur infrastructure par chaar bade samjhote kiye.",
+   "category": "World",
+   "exam_angle": "APEC 2026, regional economic cooperation — UPSC IR",
+   "source": "The Manila Times",
+   "source_url": "https://www.manilatimes.net/2026/11/18/tmt-newswire/media-outreach-newswire/indonesia-and-chinese-partners-set-out-usd-63-billion-in-cooperation-at-apec-shenzhen/2473375/amp",
+   "genuineness": "verified",
+   "outlets": [
+    "Reuters",
+    "Antara",
+    "Media OutReach Newswire"
+   ],
+   "image": null,
+   "image_credit": null
   },
   {
    "id": "world-20261119-1822-01",
@@ -389,6 +373,24 @@
    "image_credit": null
   },
   {
+   "id": "world-20261119-2022-04",
+   "published_ist": "2026-11-19T11:40:00+05:30",
+   "headline": "El Nino sukhe se Fiji-Tonga me apatkal ghoshit",
+   "detail": "El Nino se sukha sankat badhne par Fiji ne deshvyapi apatkal aur Tonga ne 27 din ka emergency ghoshit kiya; paani aur fasalon par sankat gehra hai.",
+   "category": "World",
+   "exam_angle": "El Niño, drought, Pacific island states — UPSC Geography/Environment",
+   "source": "TRT World",
+   "source_url": "https://www.trtworld.com:443/article/3c5e27520155?utm_source=f5402b114f99&utm_medium=internal&utm_campaign=recommended&utm_content=inline",
+   "genuineness": "verified",
+   "outlets": [
+    "TRT World",
+    "Malay Mail",
+    "Reuters"
+   ],
+   "image": "../images/world/world-20261119-2022-04.jpg",
+   "image_credit": "TRT World"
+  },
+  {
    "id": "world-20261119-1322-01",
    "published_ist": "2026-11-19T11:27:04+05:30",
    "headline": "Khadi desh Iran yuddh rokne me jute",
@@ -425,20 +427,19 @@
    "image_credit": null
   },
   {
-   "id": "world-20261119-1822-03",
-   "published_ist": "2026-11-19T09:28:00+05:30",
-   "headline": "Haiti rashtrapati hatya: Miami me pastor doshi",
-   "detail": "Miami ki federal adalat ne pastor Christian Sanon ko Haiti ke rashtrapati Jovenel Moise ki 2021 hatya ki sajish ke aath aaropon me doshi thahraya; 10 February ko saza sunayi jayegi, umar-kaid tak ho sakti hai.",
+   "id": "world-20261119-2022-05",
+   "published_ist": "2026-11-19T10:20:00+05:30",
+   "headline": "Indonesia me bina sazaa sampatti zabt kanoon pass",
+   "detail": "18 saal baad Indonesia ki sansad ne kanoon pass kiya jisse bhrashtachar se judi 1 arab rupiah se zyada ki sampatti bina sazaa ke zabt ki ja sakegi.",
    "category": "World",
-   "exam_angle": "Haiti: 2021 se koi rashtrapati nahi; America me 40 se zyada logon par aarop lage.",
-   "source": "Al Jazeera",
-   "source_url": "https://www.aljazeera.com/amp/news/2026/11/19/miami-court-convicts-us-haitian-pastor-over-2021-assassination-of-president",
+   "exam_angle": "Non-conviction asset forfeiture — UPSC Polity/Governance",
+   "source": "Reuters",
+   "source_url": "https://www.reuters.com/world/asia-pacific/indonesia-parliament-passes-asset-forfeiture-bill-into-law-2026-11-19/",
    "genuineness": "verified",
    "outlets": [
-    "Al Jazeera",
     "Reuters",
-    "The Hindu",
-    "CNN"
+    "Malay Mail",
+    "IndonesiaNow"
    ],
    "image": null,
    "image_credit": null
