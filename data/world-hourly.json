@@ -1,6 +1,63 @@
 {
- "updated_ist": "2026-11-20T16:25:54+05:30",
+ "updated_ist": "2026-11-20T17:24:15+05:30",
  "items": [
+  {
+   "id": "world-20261120-1722-01",
+   "published_ist": "2026-11-20T08:30:00+05:30",
+   "headline": "Iraqi fauj Kataib Hezbollah ke gadh me",
+   "detail": "Iraqi sarkari faujon ne shukravar ko Jurf al-Sakher me Kataib Hezbollah ke gadh me pravesh kiya, tel-taskari ke aarop par hue tanav ke baad hue samjhaute ke tahat, bina kisi sangharsh ke.",
+   "category": "World",
+   "exam_angle": "Iraq-Iran proxy sangharsh — UPSC IR",
+   "source": "Reuters",
+   "source_url": "https://www.reuters.com/world/middle-east/iraqi-security-forces-deploy-iran-backed-militia-stronghold-security-officials-2026-11-20/",
+   "genuineness": "verified",
+   "outlets": [
+    "Reuters",
+    "AFP",
+    "Rudaw",
+    "The Jerusalem Post"
+   ],
+   "image": null,
+   "image_credit": null
+  },
+  {
+   "id": "world-20261120-1722-02",
+   "published_ist": "2026-11-19T07:30:00+05:30",
+   "headline": "Senegal tat par pravasi naav doobi, darjanon lapata",
+   "detail": "Senegal ke Yenne tat ke paas budhvar subah Europe ja rahi pravasi naav palat gayi — kam se kam 50 log sawaar the, chaar shav mile aur darjanon lapata hain.",
+   "category": "World",
+   "exam_angle": "Antarrashtriya pravasan — UPSC IR",
+   "source": "Reuters",
+   "source_url": "https://www.reuters.com/world/dozens-missing-migrant-boat-capsizes-off-senegal-coast-ngo-says-2026-11-19/",
+   "genuineness": "verified",
+   "outlets": [
+    "Reuters",
+    "AFP",
+    "The Straits Times"
+   ],
+   "image": null,
+   "image_credit": null
+  },
+  {
+   "id": "world-20261120-1722-03",
+   "published_ist": "2026-11-18T12:00:00+05:30",
+   "headline": "US-Venezuela sainya samjhauta, 20 saal baad",
+   "detail": "America ke raksha mantri Pete Hegseth ne Caracas me Venezuela ke antarim netritva ke saath sainya samjhauta kiya — sanyukt prashikshan aur khufiya jaankari sajha hogi, Maduro ko hatane ke 10 mahine baad.",
+   "category": "World",
+   "exam_angle": "US-Latin America sambandh — UPSC IR",
+   "source": "CNN",
+   "source_url": "https://www.cnn.com/2026/11/18/americas/us-venezuela-military-deal-hegseth-latam-intl?cid=external-feeds_iluminar_meta",
+   "genuineness": "verified",
+   "outlets": [
+    "CNN",
+    "The Wall Street Journal",
+    "Associated Press",
+    "The Hindu",
+    "The Times"
+   ],
+   "image": null,
+   "image_credit": null
+  },
   {
    "id": "world-20261120-1622-01",
    "published_ist": "2026-11-20T15:00:00+05:30",
@@ -391,61 +448,6 @@
    "outlets": [
     "Reuters",
     "Al Jazeera"
-   ],
-   "image": null,
-   "image_credit": null
-  },
-  {
-   "id": "world-20261120-1122-01",
-   "published_ist": "2026-11-19T22:59:00+05:30",
-   "headline": "Russia ne Wikimedia ko undesirable ghoshit karne ki dhamki di",
-   "detail": "Russia ke Prosecutor General ne Wikimedia Foundation ko chetavni di hai ki Wikipedia chalane wali sanstha ko undesirable ghoshit kiya ja sakta hai, kyunki us par desh ko asthir karne ka aarop hai.",
-   "category": "World",
-   "exam_angle": "Russia ka undesirable kanoon, Wikipedia — UPSC IR",
-   "source": "Reuters",
-   "source_url": "https://www.reuters.com/world/russian-prosecutors-warn-wikimedia-could-be-labelled-undesirable-2026-11-19/",
-   "genuineness": "corroborated",
-   "outlets": [
-    "Reuters",
-    "Europe Says"
-   ],
-   "image": null,
-   "image_credit": null
-  },
-  {
-   "id": "world-20261120-1022-03",
-   "published_ist": "2026-11-19T22:52:00+05:30",
-   "headline": "Trump-Xi-Putin ki pehli tri-pakshiya shikhar baithak",
-   "detail": "Shenzhen me America, China aur Russia ke netaon ne pehli baar teen-pakshiya shikhar baithak ki aur chaar-sutriya 'shanti ghoshna' jaari ki — UN sudhar, tel aapurti, ICC aur parmanu jokhim par samvaad; Ukraine ya Iran yuddh ka zikr nahi hua.",
-   "category": "World",
-   "exam_angle": "US-China-Russia trilateral, APEC — UPSC IR",
-   "source": "Al Jazeera",
-   "source_url": "https://www.aljazeera.com/news/2026/11/19/groundbreaking-trump-xi-putin-summit-five-key-takeaways",
-   "genuineness": "verified",
-   "outlets": [
-    "Al Jazeera",
-    "Channel News Asia",
-    "The Indian Express",
-    "The Wire"
-   ],
-   "image": null,
-   "image_credit": null
-  },
-  {
-   "id": "world-20261120-1222-03",
-   "published_ist": "2026-11-19T22:42:00+05:30",
-   "headline": "Zelenskyy: Ab chaar-pakshiya vaarta, NATO-EU guarantee",
-   "detail": "Berlin me Zelenskyy ne kaha ki Russia se agli vaarta chaar-pakshiya hogi — Ukraine, Europe, America aur Russia; NATO aur EU sadasyata ko sabse mazboot suraksha guarantee bataya.",
-   "category": "World",
-   "exam_angle": "Ukraine shanti vaarta, NATO — UPSC IR",
-   "source": "Kyiv Post",
-   "source_url": "https://www.kyivpost.com/post/90635",
-   "genuineness": "verified",
-   "outlets": [
-    "Kyiv Post",
-    "Ukrainska Pravda",
-    "TRT World",
-    "ANI"
    ],
    "image": null,
    "image_credit": null
