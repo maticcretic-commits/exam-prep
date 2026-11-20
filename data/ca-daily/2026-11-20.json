@@ -212,6 +212,76 @@
     ],
     "answer_index": 3
    }
+  },
+  {
+   "episode": 144,
+   "video_hi": "uxMPWnrqB1I",
+   "video_hinglish": "uxMPWnrqB1I",
+   "capsules": [
+    {
+     "id": "ca-ep144-s1",
+     "headline_hi": "Japan ki sena Bharat mein pehli live-fire training",
+     "headline_hinglish": "Japan ki sena Bharat mein pehli live-fire training",
+     "detail_hi": "Tokyo mein two-plus-two vaarta ke baad dono deshon ne is aitihasik faisle ki ghoshna ki.",
+     "detail_hinglish": "Tokyo mein two-plus-two vaarta ke baad dono deshon ne is aitihasik faisle ki ghoshna ki.",
+     "category_hi": "Defence",
+     "category_en": "Defence"
+    },
+    {
+     "id": "ca-ep144-s2",
+     "headline_hi": "SIR: Hataaye voter 30 November tak mauka lein",
+     "headline_hinglish": "SIR: Hataaye voter 30 November tak mauka lein",
+     "detail_hi": "Supreme Court ne kaha, ECI ke har mauke ka istemal karke voter list mein naam judwayein.",
+     "detail_hinglish": "Supreme Court ne kaha, ECI ke har mauke ka istemal karke voter list mein naam judwayein.",
+     "category_hi": "Polity",
+     "category_en": "Polity"
+    },
+    {
+     "id": "ca-ep144-s3",
+     "headline_hi": "Kuno cheetah ne chaar shavakon ko janm diya",
+     "headline_hinglish": "Kuno cheetah ne chaar shavakon ko janm diya",
+     "detail_hi": "Botswana se laayi gayi KOMG 3 ke baad Bharat mein cheeton ki sankhya 62 ho gayi.",
+     "detail_hinglish": "Botswana se laayi gayi KOMG 3 ke baad Bharat mein cheeton ki sankhya 62 ho gayi.",
+     "category_hi": "Environment",
+     "category_en": "Environment"
+    },
+    {
+     "id": "ca-ep144-s4",
+     "headline_hi": "Nepal PM Balendra Shah Bharat aayenge 22 November",
+     "headline_hinglish": "Nepal PM Balendra Shah Bharat aayenge 22 November",
+     "detail_hi": "Ye unki pehli dwipakshiya videsh yatra hogi, Bharat-Nepal sambandhon par baatchit hogi.",
+     "detail_hinglish": "Ye unki pehli dwipakshiya videsh yatra hogi, Bharat-Nepal sambandhon par baatchit hogi.",
+     "category_hi": "International",
+     "category_en": "National"
+    },
+    {
+     "id": "ca-ep144-s5",
+     "headline_hi": "Budget 2027: Sanghon ne 42,000 nyuntam vetan manga",
+     "headline_hinglish": "Budget 2027: Sanghon ne 42,000 nyuntam vetan manga",
+     "detail_hi": "Trade union ne gratuity ki seema doguni karke 40 lakh rupaye karne ki bhi maang ki.",
+     "detail_hinglish": "Trade union ne gratuity ki seema doguni karke 40 lakh rupaye karne ki bhi maang ki.",
+     "category_hi": "Economy",
+     "category_en": "Economy"
+    }
+   ],
+   "mcq": {
+    "id": "ca-ep144-mcq",
+    "q_hi": "Kuno mein chaar shavakon ke janm ke baad Bharat mein cheeton ki kul sankhya kitni ho gayi hai?",
+    "q_hinglish": "Kuno mein chaar shavakon ke janm ke baad Bharat mein cheeton ki kul sankhya kitni ho gayi hai?",
+    "options_hi": [
+     "54",
+     "59",
+     "62",
+     "66"
+    ],
+    "options_hinglish": [
+     "54",
+     "59",
+     "62",
+     "66"
+    ],
+    "answer_index": 2
+   }
   }
  ]
 }
