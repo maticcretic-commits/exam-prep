@@ -462,6 +462,44 @@
       ],
       "image": null,
       "image_credit": null
+    },
+    {
+      "id": "world-20261120-1322-01",
+      "published_ist": "2026-11-20T08:27:00+05:30",
+      "headline": "EU par pehla AI-sahayata wala cyber hamla",
+      "detail": "European Commission ne mana ki October me uske aantarik system par AI auzaron se hamla hua; 22 October ko pakda gaya, kuch sevaein abhi bhi band hain aur jaanch jaari hai, karmchariyon ke data leak ka koi saboot nahi mila.",
+      "category": "World",
+      "exam_angle": "Cyber suraksha, AI — UPSC Sci & Tech",
+      "source": "The Economic Times",
+      "source_url": "https://economictimes.indiatimes.com/news/international/business/eu-confirms-first-ai-assisted-cyberattack-on-key-institution/articleshow/136010890.cms",
+      "genuineness": "verified",
+      "outlets": [
+        "AP",
+        "Reuters",
+        "The Economic Times",
+        "NDTV"
+      ],
+      "image": null,
+      "image_credit": null
+    },
+    {
+      "id": "world-20261120-1322-02",
+      "published_ist": "2026-11-20T07:39:00+05:30",
+      "headline": "IEA: Hormuz sankat ne urja ki duniya badli",
+      "detail": "IEA ki World Energy Outlook 2026 me kaha gaya ki Bharat aur Dakshin-Purvi Asia 2035 tak duniya ki urja maang me vriddhi ka 45 pratishat hissa denge; Hormuz se tel-gais ki aapoorti me 2.8 arab barrel ka nuksan hua.",
+      "category": "World",
+      "exam_angle": "Urja suraksha, IEA, Hormuz — UPSC Economy",
+      "source": "IANS",
+      "source_url": "https://ianslive.in/india-among-biggest-drivers-of-energy-growth-amid-hormuz-crisis-iea--20261120073903",
+      "genuineness": "verified",
+      "outlets": [
+        "IANS",
+        "The Hindu BusinessLine",
+        "The Print",
+        "ET EnergyWorld"
+      ],
+      "image": null,
+      "image_credit": null
     }
   ]
 }
