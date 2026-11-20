@@ -142,6 +142,76 @@
     ],
     "answer_index": 2
    }
+  },
+  {
+   "episode": 143,
+   "video_hi": "l7IhwAMSSUA",
+   "video_hinglish": "l7IhwAMSSUA",
+   "capsules": [
+    {
+     "id": "ca-ep143-s1",
+     "headline_hi": "Odisha kinare se takraya Chakravat Akvan",
+     "headline_hinglish": "Odisha kinare se takraya Chakravat Akvan",
+     "detail_hi": "Gopalpur ke paas landfall hua, hazaaron log surakshit jagah shift kiye gaye.",
+     "detail_hinglish": "Gopalpur ke paas landfall hua, hazaaron log surakshit jagah shift kiye gaye.",
+     "category_hi": "Environment",
+     "category_en": "Environment"
+    },
+    {
+     "id": "ca-ep143-s2",
+     "headline_hi": "EPFO: 90 pratishat tak PF nikaasi ki chhoot",
+     "headline_hinglish": "EPFO: 90 pratishat tak PF nikaasi ki chhoot",
+     "detail_hi": "Pehle seema pachhattar pratishat thi, naukri jaane par intezaar ab sirf do mahine.",
+     "detail_hinglish": "Pehle seema pachhattar pratishat thi, naukri jaane par intezaar ab sirf do mahine.",
+     "category_hi": "Economy",
+     "category_en": "Economy"
+    },
+    {
+     "id": "ca-ep143-s3",
+     "headline_hi": "Delhi mein SCO Civilisational Dialogue Forum shuru",
+     "headline_hinglish": "Delhi mein SCO Civilisational Dialogue Forum shuru",
+     "detail_hi": "Pradhan Mantri Modi ne Purana Qila mein teen din ke karyakram ka udghatan kiya.",
+     "detail_hinglish": "Pradhan Mantri Modi ne Purana Qila mein teen din ke karyakram ka udghatan kiya.",
+     "category_hi": "International",
+     "category_en": "National"
+    },
+    {
+     "id": "ca-ep143-s4",
+     "headline_hi": "UGC-NET December 2026 ka schedule jaari",
+     "headline_hinglish": "UGC-NET December 2026 ka schedule jaari",
+     "detail_hi": "NTA ne vishay-vaar pariksha karyakram jaari kiya, pariksha December mein hogi.",
+     "detail_hinglish": "NTA ne vishay-vaar pariksha karyakram jaari kiya, pariksha December mein hogi.",
+     "category_hi": "Education",
+     "category_en": "Education"
+    },
+    {
+     "id": "ca-ep143-s5",
+     "headline_hi": "Bharat ki pehli swadeshi H5N1 bird flu vaccine",
+     "headline_hinglish": "Bharat ki pehli swadeshi H5N1 bird flu vaccine",
+     "detail_hi": "Bhopal ke ICAR-NIHSAD ne vaccine banayi, murgi palakon ko badi raahat milegi.",
+     "detail_hinglish": "Bhopal ke ICAR-NIHSAD ne vaccine banayi, murgi palakon ko badi raahat milegi.",
+     "category_hi": "Science",
+     "category_en": "National"
+    }
+   ],
+   "mcq": {
+    "id": "ca-ep143-mcq",
+    "q_hi": "EPFO ne 55 saal se kam umar ke sadasyon ke liye nikaasi seema kitni kar di hai?",
+    "q_hinglish": "EPFO ne 55 saal se kam umar ke sadasyon ke liye nikaasi seema kitni kar di hai?",
+    "options_hi": [
+     "75 pratishat",
+     "80 pratishat",
+     "85 pratishat",
+     "90 pratishat"
+    ],
+    "options_hinglish": [
+     "75 pratishat",
+     "80 pratishat",
+     "85 pratishat",
+     "90 pratishat"
+    ],
+    "answer_index": 3
+   }
   }
  ]
 }
