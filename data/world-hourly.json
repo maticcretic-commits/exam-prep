@@ -1,6 +1,80 @@
 {
-  "updated_ist": "2026-11-20T14:26:55+05:30",
+  "updated_ist": "2026-11-20T15:25:37+05:30",
   "items": [
+    {
+      "id": "world-20261120-1522-01",
+      "published_ist": "2026-11-20T07:30:00+05:30",
+      "headline": "Asia bazaar: 2020 ke baad sabse bura hafta",
+      "detail": "MSCI Asia-Pacific index shukravar ko 3.2% gira aur hafte me 8.3% toota — March 2020 ke baad sabse bura hafta; Nikkei 4.1% aur KOSPI 4.4% gire, AI rally par bharosa kamzor pada.",
+      "category": "World",
+      "exam_angle": "Global markets, AI rally — UPSC Economy",
+      "source": "Reuters",
+      "source_url": "https://www.reuters.com/world/china/global-markets-global-markets-2026-11-20/",
+      "genuineness": "corroborated",
+      "outlets": [
+        "Reuters",
+        "WION"
+      ],
+      "image": null,
+      "image_credit": null
+    },
+    {
+      "id": "world-20261120-1522-02",
+      "published_ist": "2026-11-20T06:30:00+05:30",
+      "headline": "White House ne cyber chief ko hataya",
+      "detail": "Rashtrapati Trump ke rashtriya cyber nideshak Sean Cairncross ko tech outages ke baad pad se hataya gaya; Pentagon ki Kirsten Davies ko acting cyber director banaya gaya.",
+      "category": "World",
+      "exam_angle": "US cyber policy, AI threats — UPSC IR/Sci & Tech",
+      "source": "The Hindu",
+      "source_url": "https://www.thehindu.com/news/international/white-house-fires-cybersecurity-chief-after-widespread-outages/article71722952.ece",
+      "genuineness": "verified",
+      "outlets": [
+        "WSJ",
+        "AFP",
+        "CNN",
+        "USA Today"
+      ],
+      "image": null,
+      "image_credit": null
+    },
+    {
+      "id": "world-20261120-1522-03",
+      "published_ist": "2026-11-20T06:00:00+05:30",
+      "headline": "Canada me Goldy Brar sabse wanted, $250,000 inam",
+      "detail": "Canada ke BOLO programme ne Goldy Brar ko 25 most-wanted ki list me pehle number par rakha; Winnipeg me 2023 hatya par first-degree murder ka aarop hai aur giraftari ki jankari par 250,000 Canadian dollar ka inam hai.",
+      "category": "World",
+      "exam_angle": "India-Canada relations, organised crime — UPSC IR",
+      "source": "The Hindu",
+      "source_url": "https://www.thehindu.com/news/international/goldy-brar-wanted-in-canada-for-2023-murder-faces-first-degree-murder-charge/article71723147.ece",
+      "genuineness": "verified",
+      "outlets": [
+        "CBC",
+        "The Hindu",
+        "NDTV",
+        "The Times of India"
+      ],
+      "image": null,
+      "image_credit": null
+    },
+    {
+      "id": "world-20261120-1522-04",
+      "published_ist": "2026-11-19T05:30:00+05:30",
+      "headline": "Malaysia me Bharatiyon ki visa-free entry band",
+      "detail": "Malaysia ne 1 January 2027 se Bharatiya nagrikon ki visa-free entry khatm karne ka elan kiya; MyVISA portal par 1 December 2026 se aavedan hoga, 2023 se chali 30-din ki suvidha 31 December ko samapt hogi.",
+      "category": "World",
+      "exam_angle": "India-Malaysia relations, visa policy — UPSC IR",
+      "source": "The Hindu BusinessLine",
+      "source_url": "https://www.thehindubusinessline.com/news/malaysia-to-end-visa-free-entry-for-indians-from-january-1-2027/article71719877.ece",
+      "genuineness": "verified",
+      "outlets": [
+        "The Hindu BusinessLine",
+        "The Telegraph",
+        "Business Standard",
+        "The Economic Times"
+      ],
+      "image": null,
+      "image_credit": null
+    },
     {
       "id": "world-20261120-1222-02",
       "published_ist": "2026-11-20T10:31:00+05:30",
@@ -366,80 +440,6 @@
         "Reuters",
         "WSJ",
         "Al Jazeera"
-      ],
-      "image": null,
-      "image_credit": null
-    },
-    {
-      "id": "world-20261120-1122-03",
-      "published_ist": "2026-11-19T20:43:00+05:30",
-      "headline": "UK me Pelicot-jaisi yaun hinsa par chaar doshi",
-      "detail": "Britain ki Winchester adalat ne chaar aadmiyon ko doshi thahraya jinhone pati dwara nasha di gayi mahila ke saath yaun hinsa ki; mahila ne Pelicot ki tarah apni pehchan khud ujagar ki.",
-      "category": "World",
-      "exam_angle": "Pelicot mamla, UK kanoon — UPSC Society",
-      "source": "Reuters",
-      "source_url": "https://www.reuters.com/world/four-uk-men-guilty-raping-or-sexually-assaulting-drugged-woman-case-with-echoes-2026-11-19/",
-      "genuineness": "verified",
-      "outlets": [
-        "Reuters",
-        "CNN",
-        "Jerusalem Post",
-        "SCMP"
-      ],
-      "image": null,
-      "image_credit": null
-    },
-    {
-      "id": "world-20261119-2222-01",
-      "published_ist": "2026-11-19T20:07:00+05:30",
-      "headline": "Kyiv me Dutch dutavas par drone hamla",
-      "detail": "Russia ke drone hamle me Kyiv me Dutch dutavas ki imarat ko halka nuksan hua; koi karmchari ghayal nahi hua aur jaanch jaari hai.",
-      "category": "World",
-      "exam_angle": "Russia-Ukraine war, diplomatic missions — UPSC IR",
-      "source": "Ukrainska Pravda",
-      "source_url": "https://www.pravda.com.ua/eng/news/2026/11/19/8063652/",
-      "genuineness": "verified",
-      "outlets": [
-        "Ukrainska Pravda",
-        "The Kyiv Independent",
-        "European Pravda",
-        "The Times"
-      ],
-      "image": "../images/world/world-20261119-2222-01.jpg",
-      "image_credit": "Ukrainska Pravda"
-    },
-    {
-      "id": "world-20261120-0622-02",
-      "published_ist": "2026-11-19T19:19:00+05:30",
-      "headline": "Kerch Bridge par teesra hamla, Putin ne badle ki dhamki",
-      "detail": "Ukraine ne chaar din me teesri baar Kerch Bridge par hamla kiya, rail seva ruk gayi; Putin ne bahut zyada dardnak jawab ki dhamki di aur samudri-urja yuddh-viram ki baat khatm kar di.",
-      "category": "World",
-      "exam_angle": "Russia-Ukraine war, Crimea — UPSC IR",
-      "source": "Firstpost",
-      "source_url": "https://www.firstpost.com/world/putin-vows-retaliation-after-third-ukrainian-attack-on-key-crimea-bridge-in-four-days-14061337.html",
-      "genuineness": "verified",
-      "outlets": [
-        "Reuters",
-        "The Hindu",
-        "Firstpost",
-        "Times Now"
-      ],
-      "image": null,
-      "image_credit": null
-    },
-    {
-      "id": "world-20261119-1922-04",
-      "published_ist": "2026-11-19T18:35:00+05:30",
-      "headline": "Uganda bhuskhalan peediton ki UN me shikayat",
-      "detail": "2019 ke Bududa bhuskhalan ke 48 peediton ne Uganda sarkar ke khilaf UN Human Rights Committee me shikayat ki; punarvas aur muaavze ki maang hai.",
-      "category": "World",
-      "exam_angle": "Climate adaptation, UN Human Rights Committee — UPSC Environment",
-      "source": "MyJoyOnline",
-      "source_url": "https://www.myjoyonline.com/survivors-of-ugandas-deadly-landslide-seek-justice-at-the-un/",
-      "genuineness": "corroborated",
-      "outlets": [
-        "BBC",
-        "The Brief Brief"
       ],
       "image": null,
       "image_credit": null
