@@ -1,5 +1,5 @@
 {
-  "updated_ist": "2026-11-20T10:22:21+05:30",
+  "updated_ist": "2026-11-20T11:25:33+05:30",
   "items": [
     {
       "id": "world-20261120-0727-01",
@@ -205,6 +205,23 @@
       "image_credit": null
     },
     {
+      "id": "world-20261120-1122-01",
+      "published_ist": "2026-11-19T22:59:00+05:30",
+      "headline": "Russia ne Wikimedia ko undesirable ghoshit karne ki dhamki di",
+      "detail": "Russia ke Prosecutor General ne Wikimedia Foundation ko chetavni di hai ki Wikipedia chalane wali sanstha ko undesirable ghoshit kiya ja sakta hai, kyunki us par desh ko asthir karne ka aarop hai.",
+      "category": "World",
+      "exam_angle": "Russia ka undesirable kanoon, Wikipedia — UPSC IR",
+      "source": "Reuters",
+      "source_url": "https://www.reuters.com/world/russian-prosecutors-warn-wikimedia-could-be-labelled-undesirable-2026-11-19/",
+      "genuineness": "corroborated",
+      "outlets": [
+        "Reuters",
+        "Europe Says"
+      ],
+      "image": null,
+      "image_credit": null
+    },
+    {
       "id": "world-20261120-1022-03",
       "published_ist": "2026-11-19T22:52:00+05:30",
       "headline": "Trump-Xi-Putin ki pehli tri-pakshiya shikhar baithak",
@@ -219,6 +236,43 @@
         "Channel News Asia",
         "The Indian Express",
         "The Wire"
+      ],
+      "image": null,
+      "image_credit": null
+    },
+    {
+      "id": "world-20261120-1122-02",
+      "published_ist": "2026-11-19T21:52:00+05:30",
+      "headline": "Houthi hamle me Riyadh ki sabse unchi imarat kshatigrast",
+      "detail": "Yemen ke Houthi vidrohiyon ke hamle me Riyadh ki sabse unchi imarat, PIF Tower, ki kai manzilein kshatigrast hui; koi ghayal nahi hua, lekin aas-paas ki imaratein bhi nuksan me aayi.",
+      "category": "World",
+      "exam_angle": "Houthi-Saudi sangharsh, West Asia — UPSC IR",
+      "source": "Indian Express (Reuters)",
+      "source_url": "https://indianexpress.com/article/world/houthi-attack-damages-saudi-arabia-riyadh-tallest-building-housing-sovereign-wealth-fund-10970416/",
+      "genuineness": "verified",
+      "outlets": [
+        "Reuters",
+        "WSJ",
+        "Al Jazeera"
+      ],
+      "image": null,
+      "image_credit": null
+    },
+    {
+      "id": "world-20261120-1122-03",
+      "published_ist": "2026-11-19T20:43:00+05:30",
+      "headline": "UK me Pelicot-jaisi yaun hinsa par chaar doshi",
+      "detail": "Britain ki Winchester adalat ne chaar aadmiyon ko doshi thahraya jinhone pati dwara nasha di gayi mahila ke saath yaun hinsa ki; mahila ne Pelicot ki tarah apni pehchan khud ujagar ki.",
+      "category": "World",
+      "exam_angle": "Pelicot mamla, UK kanoon — UPSC Society",
+      "source": "Reuters",
+      "source_url": "https://www.reuters.com/world/four-uk-men-guilty-raping-or-sexually-assaulting-drugged-woman-case-with-echoes-2026-11-19/",
+      "genuineness": "verified",
+      "outlets": [
+        "Reuters",
+        "CNN",
+        "Jerusalem Post",
+        "SCMP"
       ],
       "image": null,
       "image_credit": null
@@ -383,63 +437,6 @@
         "IRNA",
         "Al Arabiya",
         "Press TV"
-      ],
-      "image": null,
-      "image_credit": null
-    },
-    {
-      "id": "world-20261119-1022-01",
-      "published_ist": "2026-11-19T15:50:00+05:30",
-      "headline": "ICJ: Myanmar ke khilaf narsanhar ka faisla",
-      "detail": "ICJ ne faisla sunaya — Myanmar ki sena ne 2017 mein hazaaron Rohingya nagrik mare aur vyaapak yaun hinsa ki; adalat ne kuch mamalon mein 'genocidal intent' paya; sabooton ke anusaar lagbhag 10,000 Rohingya mare gaye.",
-      "category": "World",
-      "exam_angle": "ICJ aur 1948 Narsanhar Samjhauta — UPSC ke liye mahatvapurna.",
-      "source": "Al Jazeera",
-      "source_url": "https://www.aljazeera.com/news/2026/11/19/un-top-court-finds-myanmar-killed-10000-rohingya-as-it-rules-on-genocide",
-      "genuineness": "verified",
-      "outlets": [
-        "Al Jazeera",
-        "The Hindu",
-        "The Jerusalem Post",
-        "New Age BD"
-      ],
-      "image": "../images/world/world-20261119-1022-01.jpg",
-      "image_credit": "Al Jazeera"
-    },
-    {
-      "id": "world-20261119-1722-01",
-      "published_ist": "2026-11-19T15:02:00+05:30",
-      "headline": "Senegal ke kinare pravasi naav doobi, darjanon lapata",
-      "detail": "Lagbhag 100 pravasiyon se bhari naav Dakar ke paas Yenne ke kinare palat gayi; kam se kam chaar shav mile, darjanon lapata hain aur talash jaari hai.",
-      "category": "World",
-      "exam_angle": "Paschim Africa se Atlantic marg par pravasi sankat — IOM ke anusar is saal 454 se zyada mautein ya lapata.",
-      "source": "Daily Mirror",
-      "source_url": "https://www.dailymirror.lk/international/Dozens-missing-after-boat-carrying-100-migrants-sinks-off-Senegals-coast/107-355298",
-      "genuineness": "verified",
-      "outlets": [
-        "BBC",
-        "AFP",
-        "Daily Mirror",
-        "The Morning"
-      ],
-      "image": null,
-      "image_credit": null
-    },
-    {
-      "id": "world-20261119-2222-02",
-      "published_ist": "2026-11-19T15:00:00+05:30",
-      "headline": "Kenya ne Mrima Hill sauda US ko diya",
-      "detail": "Kenya ne Mrima Hill ki durlabh khanij aur niobium khadan ke liye America ke Frontier Minerals sangh ko chuna; do Chinese company pehle hi peeche hat chuki thi.",
-      "category": "World",
-      "exam_angle": "Critical minerals, rare earths, US-China rivalry — UPSC IR/Economy",
-      "source": "Reuters",
-      "source_url": "https://www.reuters.com/world/africa/kenya-chooses-us-consortium-to-develop-mrima-hill-critical-minerals-project-2026-11-19/",
-      "genuineness": "verified",
-      "outlets": [
-        "Reuters",
-        "Daily Nation",
-        "Business Daily",
-        "Kenyans.co.ke"
       ],
       "image": null,
       "image_credit": null
