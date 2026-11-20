@@ -1,5 +1,5 @@
 {
- "updated_ist": "2026-11-20T07:27:14+05:30",
+ "updated_ist": "2026-11-20T08:25:22+05:30",
  "items": [
   {
    "id": "world-20261120-0727-01",
@@ -34,6 +34,25 @@
     "AP",
     "CNN",
     "USA Today"
+   ],
+   "image": null,
+   "image_credit": null
+  },
+  {
+   "id": "world-20261120-0825-01",
+   "published_ist": "2026-11-20T04:55:00+05:30",
+   "headline": "California ne Nvidia ko summon bheja",
+   "detail": "California ke Attorney General Rob Bonta ne Nvidia ko subpoena bhejkar jaanch shuru ki ki kya uske advanced chip ya gopniya jankari China tak pahunchi aur kya company ne investors ko gumrah kiya; abhi koi aarop tay nahi hua.",
+   "category": "World",
+   "exam_angle": "US-China chip war, export controls — UPSC IR/Economy",
+   "source": "NY Post",
+   "source_url": "https://nypost.com/2026/11/19/business/california-ag-rob-bonta-serves-nvidia-with-subpoena-in-wake-of-jensen-huangs-chinese-spy-affairs-scandals/",
+   "genuineness": "verified",
+   "outlets": [
+    "NY Post",
+    "BBC",
+    "Reuters",
+    "AFP"
    ],
    "image": null,
    "image_credit": null
@@ -423,24 +442,6 @@
    ],
    "image": null,
    "image_credit": null
-  },
-  {
-   "id": "world-20261119-1822-01",
-   "published_ist": "2026-11-19T12:38:00+05:30",
-   "headline": "Bangladesh me Yunus ka ghar jalaya gaya",
-   "detail": "Chattogram me Muhammad Yunus ke paitrik ghar aur Grameen Bank ki shakhaon me aag lagayi gayi; 28 jilon me kachche bam aur aagajani hui, kam se kam chaar log mare gaye.",
-   "category": "World",
-   "exam_angle": "Bangladesh: Hasina ko maut ki saza ke ek saal baad ashanti; Yunus antarim sarkar ke pramukh rahe.",
-   "source": "The Japan Times",
-   "source_url": "https://www.japantimes.co.jp/news/2026/11/19/asia-pacific/bangladesh-protests-hasina-yunus/",
-   "genuineness": "corroborated",
-   "outlets": [
-    "Reuters",
-    "PTI",
-    "The Telegraph"
-   ],
-   "image": "../images/world/world-20261119-1822-01.jpg",
-   "image_credit": "The Japan Times"
   }
  ]
 }
