@@ -1,5 +1,4 @@
 {
- "date": "2026-11-20",
  "items": [
   {
    "id": "world-20261120-0622-01",
@@ -949,6 +948,58 @@
    "outlets": [
     "Reuters",
     "Financial Times"
+   ],
+   "image": null,
+   "image_credit": null
+  },
+  {
+   "id": "world-20261120-2222-01",
+   "published_ist": "2026-11-19T12:00:00+05:30",
+   "headline": "Putin ne Europe ko Moscow bulaya",
+   "detail": "Putin ne kaha Europe ke doot Moscow aakar Ukraine vaarta par apna rukh saaf karein; Ryabkov ke anusar Britain, France aur Germany ke pratinidhiyon ki yatra par kaam chal raha hai.",
+   "category": "World",
+   "exam_angle": "Ukraine shanti vaarta, Europe ki bhumika — UPSC IR",
+   "source": "Reuters",
+   "source_url": "https://www.reuters.com/world/china/putin-says-russia-invited-europeans-moscow-clarify-position-ukraine-talks-2026-11-19/",
+   "genuineness": "corroborated",
+   "outlets": [
+    "Reuters",
+    "The Times"
+   ],
+   "image": null,
+   "image_credit": null
+  },
+  {
+   "id": "world-20261120-2222-02",
+   "published_ist": "2026-11-19T12:00:00+05:30",
+   "headline": "Gaza hamla khatm, log wapas laute",
+   "detail": "Israel ki sena ne kaha madhya Gaza me tankon wala zameeni operation khatm hua; Nuseirat shivir ke log wapas lautne lage aur Salah al-Din sadak phir khul gayi.",
+   "category": "World",
+   "exam_angle": "Gaza yuddhaviram, Yellow Line — UPSC IR",
+   "source": "The Hindu",
+   "source_url": "https://www.thehindu.com/news/international/israel-army-says-it-completed-ground-operation-in-central-gaza/article71721554.ece",
+   "genuineness": "corroborated",
+   "outlets": [
+    "AFP",
+    "Reuters"
+   ],
+   "image": null,
+   "image_credit": null
+  },
+  {
+   "id": "world-20261120-2222-03",
+   "published_ist": "2026-11-11T12:00:00+05:30",
+   "headline": "Kenya Ebola-mukt ki ore, aakhri mareez chhuta",
+   "detail": "Kenya ne apna aakhri Ebola mareez chhutti de di; saaton mareez theek hue aur 135 sampark wale logon ki nigrani poori hui, 23 December tak koi naya case na aaya to desh Ebola-mukt ghoshit hoga.",
+   "category": "World",
+   "exam_angle": "Ebola, WHO 42-din niyam — UPSC Health",
+   "source": "Citizen Digital",
+   "source_url": "https://citizen.digital/article/kenya-discharges-last-ebola-patient-as-all-7-victims-recover-n393706",
+   "genuineness": "verified",
+   "outlets": [
+    "Associated Press",
+    "BBC",
+    "Citizen Digital"
    ],
    "image": null,
    "image_credit": null
