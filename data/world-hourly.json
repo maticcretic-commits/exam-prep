@@ -1,25 +1,6 @@
 {
-  "updated_ist": "2026-11-20T12:26:43+05:30",
+  "updated_ist": "2026-11-20T13:26:10+05:30",
   "items": [
-    {
-      "id": "world-20261120-1222-01",
-      "published_ist": "2026-11-19T17:35:00+05:30",
-      "headline": "COP31 masaude se fossil fuel ka zikr gayab",
-      "detail": "Antalya me COP31 ke naye masaude se jeevashm indhan se door hatne ka har zikr hata diya gaya; 1.5°C lakshya se aage badhne ki baat mani gayi aur bijli ki hissedari 35% tak badhane ka lakshya barkarar raha.",
-      "category": "World",
-      "exam_angle": "COP31, jalvayu vaarta — UPSC Environment",
-      "source": "UN News",
-      "source_url": "https://news.un.org/en/story/2026/11/1168839",
-      "genuineness": "verified",
-      "outlets": [
-        "UN News",
-        "The Hindu",
-        "Indian Express",
-        "Down To Earth"
-      ],
-      "image": null,
-      "image_credit": null
-    },
     {
       "id": "world-20261120-1222-02",
       "published_ist": "2026-11-20T10:31:00+05:30",
@@ -40,20 +21,39 @@
       "image_credit": null
     },
     {
-      "id": "world-20261120-1222-03",
-      "published_ist": "2026-11-19T22:42:00+05:30",
-      "headline": "Zelenskyy: Ab chaar-pakshiya vaarta, NATO-EU guarantee",
-      "detail": "Berlin me Zelenskyy ne kaha ki Russia se agli vaarta chaar-pakshiya hogi — Ukraine, Europe, America aur Russia; NATO aur EU sadasyata ko sabse mazboot suraksha guarantee bataya.",
+      "id": "world-20261120-1322-01",
+      "published_ist": "2026-11-20T08:27:00+05:30",
+      "headline": "EU par pehla AI-sahayata wala cyber hamla",
+      "detail": "European Commission ne mana ki October me uske aantarik system par AI auzaron se hamla hua; 22 October ko pakda gaya, kuch sevaein abhi bhi band hain aur jaanch jaari hai, karmchariyon ke data leak ka koi saboot nahi mila.",
       "category": "World",
-      "exam_angle": "Ukraine shanti vaarta, NATO — UPSC IR",
-      "source": "Kyiv Post",
-      "source_url": "https://www.kyivpost.com/post/90635",
+      "exam_angle": "Cyber suraksha, AI — UPSC Sci & Tech",
+      "source": "The Economic Times",
+      "source_url": "https://economictimes.indiatimes.com/news/international/business/eu-confirms-first-ai-assisted-cyberattack-on-key-institution/articleshow/136010890.cms",
       "genuineness": "verified",
       "outlets": [
-        "Kyiv Post",
-        "Ukrainska Pravda",
-        "TRT World",
-        "ANI"
+        "AP",
+        "Reuters",
+        "The Economic Times",
+        "NDTV"
+      ],
+      "image": null,
+      "image_credit": null
+    },
+    {
+      "id": "world-20261120-1322-02",
+      "published_ist": "2026-11-20T07:39:00+05:30",
+      "headline": "IEA: Hormuz sankat ne urja ki duniya badli",
+      "detail": "IEA ki World Energy Outlook 2026 me kaha gaya ki Bharat aur Dakshin-Purvi Asia 2035 tak duniya ki urja maang me vriddhi ka 45 pratishat hissa denge; Hormuz se tel-gais ki aapoorti me 2.8 arab barrel ka nuksan hua.",
+      "category": "World",
+      "exam_angle": "Urja suraksha, IEA, Hormuz — UPSC Economy",
+      "source": "IANS",
+      "source_url": "https://ianslive.in/india-among-biggest-drivers-of-energy-growth-amid-hormuz-crisis-iea--20261120073903",
+      "genuineness": "verified",
+      "outlets": [
+        "IANS",
+        "The Hindu BusinessLine",
+        "The Print",
+        "ET EnergyWorld"
       ],
       "image": null,
       "image_credit": null
@@ -298,6 +298,25 @@
       "image_credit": null
     },
     {
+      "id": "world-20261120-1222-03",
+      "published_ist": "2026-11-19T22:42:00+05:30",
+      "headline": "Zelenskyy: Ab chaar-pakshiya vaarta, NATO-EU guarantee",
+      "detail": "Berlin me Zelenskyy ne kaha ki Russia se agli vaarta chaar-pakshiya hogi — Ukraine, Europe, America aur Russia; NATO aur EU sadasyata ko sabse mazboot suraksha guarantee bataya.",
+      "category": "World",
+      "exam_angle": "Ukraine shanti vaarta, NATO — UPSC IR",
+      "source": "Kyiv Post",
+      "source_url": "https://www.kyivpost.com/post/90635",
+      "genuineness": "verified",
+      "outlets": [
+        "Kyiv Post",
+        "Ukrainska Pravda",
+        "TRT World",
+        "ANI"
+      ],
+      "image": null,
+      "image_credit": null
+    },
+    {
       "id": "world-20261120-1122-02",
       "published_ist": "2026-11-19T21:52:00+05:30",
       "headline": "Houthi hamle me Riyadh ki sabse unchi imarat kshatigrast",
@@ -410,36 +429,20 @@
       "image_credit": null
     },
     {
-      "id": "world-20261120-0727-05",
-      "published_ist": "2026-11-19T17:26:00+05:30",
-      "headline": "UN pramukh ki race atki, neta ka sankat",
-      "detail": "Suraksha Parishad aath daur ke gupt matdan ke baad bhi Guterres ke uttaradhikari par sahmat nahi ho payi, aur 31 December ko unka karyakal khatm hone par UN bina pramukh ke reh sakta hai.",
+      "id": "world-20261120-1222-01",
+      "published_ist": "2026-11-19T17:35:00+05:30",
+      "headline": "COP31 masaude se fossil fuel ka zikr gayab",
+      "detail": "Antalya me COP31 ke naye masaude se jeevashm indhan se door hatne ka har zikr hata diya gaya; 1.5°C lakshya se aage badhne ki baat mani gayi aur bijli ki hissedari 35% tak badhane ka lakshya barkarar raha.",
       "category": "World",
-      "exam_angle": "UN Secretary-General selection, UNSC — UPSC IR",
-      "source": "Reuters",
-      "source_url": "https://www.reuters.com/world/un-could-soon-be-leaderless-race-succeed-guterres-stalls-2026-11-19/",
-      "genuineness": "corroborated",
-      "outlets": [
-        "Reuters",
-        "Arab News"
-      ],
-      "image": null,
-      "image_credit": null
-    },
-    {
-      "id": "world-20261120-0622-03",
-      "published_ist": "2026-11-19T17:13:00+05:30",
-      "headline": "Berlin me Ukraine sahyogiyon ki badi baithak",
-      "detail": "Zelenskyy Berlin pahunche; 40 se zyada sahyogi deshon ke neta Coalition of the Willing baithak me mile, shanti vartao me Europe ki bhumika aur suraksha guarantee par charcha hui.",
-      "category": "World",
-      "exam_angle": "Ukraine war, European security — UPSC IR",
-      "source": "Interfax-Ukraine",
-      "source_url": "https://en.interfax.com.ua/news/general/1239165.html",
+      "exam_angle": "COP31, jalvayu vaarta — UPSC Environment",
+      "source": "UN News",
+      "source_url": "https://news.un.org/en/story/2026/11/1168839",
       "genuineness": "verified",
       "outlets": [
-        "Reuters",
-        "Al Jazeera",
-        "Interfax-Ukraine"
+        "UN News",
+        "The Hindu",
+        "Indian Express",
+        "Down To Earth"
       ],
       "image": null,
       "image_credit": null
