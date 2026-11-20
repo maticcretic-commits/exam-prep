@@ -1,6 +1,79 @@
 {
- "updated_ist": "2026-11-20T19:25:06+05:30",
+ "updated_ist": "2026-11-20T20:28:55+05:30",
  "items": [
+  {
+   "id": "world-20261120-2028-01",
+   "published_ist": "2026-11-20T12:00:00+05:30",
+   "headline": "America ne Ukraine-NATO sadasyata ka vikalp uthaya",
+   "detail": "Wall Street Journal ke anusar America ke doot Kushner aur Witkoff ne band kamre ki baatchit me sujhav diya ki Ukraine bacha hua Donbas Russia ko de to use NATO ki poorna sadasyata mil sakti hai; Zelenskyy ne kaha Ukraine zameen nahi chhodega.",
+   "category": "World",
+   "exam_angle": "Ukraine shanti vaarta, NATO vistar — UPSC IR",
+   "source": "Kyiv Post",
+   "source_url": "https://www.kyivpost.com/post/90709",
+   "genuineness": "corroborated",
+   "outlets": [
+    "The Wall Street Journal",
+    "Kyiv Post",
+    "TRT World"
+   ],
+   "image": "../images/world/world-20261120-2028-01.jpg",
+   "image_credit": "Kyiv Post"
+  },
+  {
+   "id": "world-20261120-2028-02",
+   "published_ist": "2026-11-20T12:00:00+05:30",
+   "headline": "RAF Fairford mamle me 2027 me mukadma",
+   "detail": "London ki adalat ne RAF Fairford sainya adde par September ki ghatna ke do aaropiyon ka mukadma 22 November 2027 se tay kiya; abhiyojakon ke anusar ye Iran ke hit me ki gayi thi, dono ne dosh na manne ka sanket diya hai.",
+   "category": "World",
+   "exam_angle": "Britain-Iran tanav, rashtriya suraksha — UPSC IR",
+   "source": "Reuters",
+   "source_url": "https://www.reuters.com/world/uk/two-men-stand-trial-uk-next-year-over-raf-fairford-incident-allegedly-linked-2026-11-20/",
+   "genuineness": "corroborated",
+   "outlets": [
+    "Reuters",
+    "The National",
+    "Times of Israel"
+   ],
+   "image": null,
+   "image_credit": null
+  },
+  {
+   "id": "world-20261120-2028-03",
+   "published_ist": "2026-11-19T12:00:00+05:30",
+   "headline": "Pakistan me chhapo me 22 atankwadi mare",
+   "detail": "Pakistan ki fauj ne Khyber Pakhtunkhwa ke Dakshin Waziristan, Bannu aur Tank jilon me chhapon ke dauran 22 atankwadiyon ko marne ka dawa kiya; fauj ne aarop lagaya ki ve Bharat ke samarthan wale sangathan se jude the.",
+   "category": "World",
+   "exam_angle": "Pakistan me atankwad-virodhi karwai, Bharat-Pak tanav — UPSC IR",
+   "source": "Dawn",
+   "source_url": "https://www.dawn.com/news/2045769",
+   "genuineness": "corroborated",
+   "outlets": [
+    "Dawn",
+    "AP"
+   ],
+   "image": null,
+   "image_credit": null
+  },
+  {
+   "id": "world-20261120-2028-04",
+   "published_ist": "2026-11-18T15:46:00+05:30",
+   "headline": "Voyager 1 dharti se ek light-day door",
+   "detail": "NASA ka Voyager 1 pehli manav-nirmit vastu bana jo dharti se ek light-day — lagbhag 2,600 crore km — door pahuncha; is doori par radio sanket ko ek taraf jaane me poore 24 ghante lagte hain.",
+   "category": "World",
+   "exam_angle": "NASA, antariksh anveshan — UPSC Science & Tech",
+   "source": "Reuters",
+   "source_url": "https://www.reuters.com/science/nasa-confirms-voyager-1-probes-light-day-distance-milestone-2026-11-19/",
+   "genuineness": "verified",
+   "outlets": [
+    "NASA",
+    "Reuters",
+    "CNN",
+    "Al Jazeera",
+    "Smithsonian"
+   ],
+   "image": "../images/world/world-20261120-2028-04.jpg",
+   "image_credit": "NASA/JPL, Public domain"
+  },
   {
    "id": "world-20261120-1922-01",
    "published_ist": "2026-11-20T12:00:00+05:30",
@@ -374,82 +447,6 @@
     "USA Today",
     "Jerusalem Post",
     "Al Arabiya"
-   ],
-   "image": null,
-   "image_credit": null
-  },
-  {
-   "id": "world-20261120-1022-02",
-   "published_ist": "2026-11-20T00:34:00+05:30",
-   "headline": "Europe Russia se baatchit ke liye taiyaar",
-   "detail": "Berlin me Ukraine sahyogiyon ne kaha ki Europe Russia se baatchit ke liye taiyaar hai; Putin ne Europe ke netaon ko Moscow aane ka nyota diya, lekin Russia ne abhi Europe ki bhumika manzoor nahi ki.",
-   "category": "World",
-   "exam_angle": "Ukraine shanti varta, Coalition of the Willing — UPSC IR",
-   "source": "Al Jazeera",
-   "source_url": "https://www.aljazeera.com/amp/news/2026/11/19/european-leaders-unite-in-berlin-to-reaffirm-support-for-ukraine",
-   "genuineness": "verified",
-   "outlets": [
-    "Al Jazeera",
-    "Sky News",
-    "Brussels Reporter",
-    "The Oldham Times"
-   ],
-   "image": null,
-   "image_credit": null
-  },
-  {
-   "id": "world-20261120-0922-02",
-   "published_ist": "2026-11-20T00:22:00+05:30",
-   "headline": "Macron: Ukraine ki NATO sadasyata par dobara bahas",
-   "detail": "France ke rashtrapati Emmanuel Macron ne Berlin me kaha ki Russia ki maximalist maangon ko dekhte hue Ukraine ki NATO sadasyata par dobara bahas honi chahiye; koi samay-sima ghoshit nahi hui.",
-   "category": "World",
-   "exam_angle": "NATO expansion, Ukraine — UPSC IR",
-   "source": "Reuters",
-   "source_url": "https://www.reuters.com/world/ukraines-nato-membership-is-relevant-european-security-macron-says-2026-11-19/",
-   "genuineness": "verified",
-   "outlets": [
-    "Reuters",
-    "Kyiv Post",
-    "Ukrinform",
-    "Interfax-Ukraine",
-    "Al Jazeera"
-   ],
-   "image": null,
-   "image_credit": null
-  },
-  {
-   "id": "world-20261120-1422-02",
-   "published_ist": "2026-11-20T00:19:00+05:30",
-   "headline": "Bangladesh hinsa: PM ne Bharat par aarop lagaya",
-   "detail": "Pradhan Mantri Tarique Rahman ne kaha seema ke us paar se Awami League hinsa bhadka rahi hai; shutdown me aagjani aur bomb visfot hue, Yunus ke paitrik ghar par hamla hua aur Dhaka me 107 log giraftar hue.",
-   "category": "World",
-   "exam_angle": "Bharat-Bangladesh sambandh — UPSC IR",
-   "source": "The Telegraph",
-   "source_url": "https://www.telegraphindia.com/world/bangladesh-pm-tarique-rahman-blames-india-as-sheikh-hasinas-party-supporters-stage-violent-shutdown/cid/2190314",
-   "genuineness": "verified",
-   "outlets": [
-    "The Telegraph",
-    "Moneycontrol",
-    "The Indian Express",
-    "WION"
-   ],
-   "image": null,
-   "image_credit": null
-  },
-  {
-   "id": "world-20261120-0727-04",
-   "published_ist": "2026-11-20T00:16:00+05:30",
-   "headline": "Gaza me Israel ka pehla zameeni hamla",
-   "detail": "Yuddh-viram ke baad pehli baar Israel ne madhya Gaza me zameeni karvai ki, Yellow Line se aage Nuseirat ke paas ek surang ko nishana banaya; teen log mare gaye aur hazaaron phir se beghar hue, karvai 19 November ko poori hui.",
-   "category": "World",
-   "exam_angle": "Israel-Palestine, ceasefire — UPSC IR",
-   "source": "Al Jazeera",
-   "source_url": "https://www.aljazeera.com/amp/news/2026/11/19/palestinians-in-gaza-face-new-displacement-after-israeli-army-operation",
-   "genuineness": "verified",
-   "outlets": [
-    "Al Jazeera",
-    "Reuters",
-    "AFP"
    ],
    "image": null,
    "image_credit": null
