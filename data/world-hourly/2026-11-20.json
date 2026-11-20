@@ -333,6 +333,60 @@
       ],
       "image": null,
       "image_credit": null
+    },
+    {
+      "id": "world-20261120-1122-01",
+      "published_ist": "2026-11-19T22:59:00+05:30",
+      "headline": "Russia ne Wikimedia ko undesirable ghoshit karne ki dhamki di",
+      "detail": "Russia ke Prosecutor General ne Wikimedia Foundation ko chetavni di hai ki Wikipedia chalane wali sanstha ko undesirable ghoshit kiya ja sakta hai, kyunki us par desh ko asthir karne ka aarop hai.",
+      "category": "World",
+      "exam_angle": "Russia ka undesirable kanoon, Wikipedia — UPSC IR",
+      "source": "Reuters",
+      "source_url": "https://www.reuters.com/world/russian-prosecutors-warn-wikimedia-could-be-labelled-undesirable-2026-11-19/",
+      "genuineness": "corroborated",
+      "outlets": [
+        "Reuters",
+        "Europe Says"
+      ],
+      "image": null,
+      "image_credit": null
+    },
+    {
+      "id": "world-20261120-1122-02",
+      "published_ist": "2026-11-19T21:52:00+05:30",
+      "headline": "Houthi hamle me Riyadh ki sabse unchi imarat kshatigrast",
+      "detail": "Yemen ke Houthi vidrohiyon ke hamle me Riyadh ki sabse unchi imarat, PIF Tower, ki kai manzilein kshatigrast hui; koi ghayal nahi hua, lekin aas-paas ki imaratein bhi nuksan me aayi.",
+      "category": "World",
+      "exam_angle": "Houthi-Saudi sangharsh, West Asia — UPSC IR",
+      "source": "Indian Express (Reuters)",
+      "source_url": "https://indianexpress.com/article/world/houthi-attack-damages-saudi-arabia-riyadh-tallest-building-housing-sovereign-wealth-fund-10970416/",
+      "genuineness": "verified",
+      "outlets": [
+        "Reuters",
+        "WSJ",
+        "Al Jazeera"
+      ],
+      "image": null,
+      "image_credit": null
+    },
+    {
+      "id": "world-20261120-1122-03",
+      "published_ist": "2026-11-19T20:43:00+05:30",
+      "headline": "UK me Pelicot-jaisi yaun hinsa par chaar doshi",
+      "detail": "Britain ki Winchester adalat ne chaar aadmiyon ko doshi thahraya jinhone pati dwara nasha di gayi mahila ke saath yaun hinsa ki; mahila ne Pelicot ki tarah apni pehchan khud ujagar ki.",
+      "category": "World",
+      "exam_angle": "Pelicot mamla, UK kanoon — UPSC Society",
+      "source": "Reuters",
+      "source_url": "https://www.reuters.com/world/four-uk-men-guilty-raping-or-sexually-assaulting-drugged-woman-case-with-echoes-2026-11-19/",
+      "genuineness": "verified",
+      "outlets": [
+        "Reuters",
+        "CNN",
+        "Jerusalem Post",
+        "SCMP"
+      ],
+      "image": null,
+      "image_credit": null
     }
   ]
 }
