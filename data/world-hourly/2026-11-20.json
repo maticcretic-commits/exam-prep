@@ -239,6 +239,100 @@
       ],
       "image": null,
       "image_credit": null
+    },
+    {
+      "id": "world-20261120-1022-01",
+      "published_ist": "2026-11-20T01:12:00+05:30",
+      "headline": "US Senate ne Iran yuddh-prastav kharij kiya",
+      "detail": "America ki Senate ne 51-48 se woh prastav kharij kar diya jo Rashtrapati Trump ko Iran yuddh khatm karne ya Congress ki manzoori lene ko kehta tha; teen Republican ne prastav ka saath diya tha.",
+      "category": "World",
+      "exam_angle": "US War Powers Resolution, Iran yuddh — UPSC IR",
+      "source": "Reuters",
+      "source_url": "https://www.reuters.com/world/us-senate-rejects-resolution-curbing-trumps-iran-war-powers-2026-11-19/",
+      "genuineness": "verified",
+      "outlets": [
+        "Reuters",
+        "USA Today",
+        "Jerusalem Post",
+        "Al Arabiya"
+      ],
+      "image": null,
+      "image_credit": null
+    },
+    {
+      "id": "world-20261120-1022-02",
+      "published_ist": "2026-11-20T00:34:00+05:30",
+      "headline": "Europe Russia se baatchit ke liye taiyaar",
+      "detail": "Berlin me Ukraine sahyogiyon ne kaha ki Europe Russia se baatchit ke liye taiyaar hai; Putin ne Europe ke netaon ko Moscow aane ka nyota diya, lekin Russia ne abhi Europe ki bhumika manzoor nahi ki.",
+      "category": "World",
+      "exam_angle": "Ukraine shanti varta, Coalition of the Willing — UPSC IR",
+      "source": "Al Jazeera",
+      "source_url": "https://www.aljazeera.com/amp/news/2026/11/19/european-leaders-unite-in-berlin-to-reaffirm-support-for-ukraine",
+      "genuineness": "verified",
+      "outlets": [
+        "Al Jazeera",
+        "Sky News",
+        "Brussels Reporter",
+        "The Oldham Times"
+      ],
+      "image": null,
+      "image_credit": null
+    },
+    {
+      "id": "world-20261120-1022-03",
+      "published_ist": "2026-11-19T22:52:00+05:30",
+      "headline": "Trump-Xi-Putin ki pehli tri-pakshiya shikhar baithak",
+      "detail": "Shenzhen me America, China aur Russia ke netaon ne pehli baar teen-pakshiya shikhar baithak ki aur chaar-sutriya 'shanti ghoshna' jaari ki — UN sudhar, tel aapurti, ICC aur parmanu jokhim par samvaad; Ukraine ya Iran yuddh ka zikr nahi hua.",
+      "category": "World",
+      "exam_angle": "US-China-Russia trilateral, APEC — UPSC IR",
+      "source": "Al Jazeera",
+      "source_url": "https://www.aljazeera.com/news/2026/11/19/groundbreaking-trump-xi-putin-summit-five-key-takeaways",
+      "genuineness": "verified",
+      "outlets": [
+        "Al Jazeera",
+        "Channel News Asia",
+        "The Indian Express",
+        "The Wire"
+      ],
+      "image": null,
+      "image_credit": null
+    },
+    {
+      "id": "world-20261120-1022-04",
+      "published_ist": "2026-11-19T16:39:00+05:30",
+      "headline": "Denmark ne Greenland suraksha samjhauta manzoor kiya",
+      "detail": "Denmark ki sansad ne 109-0 se America-Greenland suraksha samjhaute ko manzoori di; America Greenland me do naye sainya adde bana sakega aur Pituffik adde ka vistar karega.",
+      "category": "World",
+      "exam_angle": "Greenland, Arctic suraksha, NATO — UPSC IR",
+      "source": "Al Jazeera",
+      "source_url": "https://www.aljazeera.com/news/2026/11/19/denmark-parliament-approves-security-deal-with-greenland-and-us",
+      "genuineness": "verified",
+      "outlets": [
+        "Al Jazeera",
+        "AP",
+        "Arab News"
+      ],
+      "image": null,
+      "image_credit": null
+    },
+    {
+      "id": "world-20261120-1022-05",
+      "published_ist": "2026-11-19T14:30:00+05:30",
+      "headline": "ICJ: Myanmar ne Rohingya narsanhar kiya",
+      "detail": "Antarrashtriya Nyayalaya ne 9-6 faisle me kaha ki Myanmar ki sena ne 2017 me Rohingya ke khilaf narsanhar kiya; lagbhag 10,000 log mare gaye aur saat lakh se zyada Bangladesh bhaage; muaavza baad me tay hoga.",
+      "category": "World",
+      "exam_angle": "ICJ, Genocide Convention, Rohingya — UPSC IR",
+      "source": "Reuters",
+      "source_url": "https://www.reuters.com/world/asia-pacific/top-un-court-finds-myanmar-committed-state-sponsored-genocide-against-muslim-2026-11-19/",
+      "genuineness": "verified",
+      "outlets": [
+        "Reuters",
+        "BBC",
+        "AP",
+        "Al Jazeera"
+      ],
+      "image": null,
+      "image_credit": null
     }
   ]
 }
