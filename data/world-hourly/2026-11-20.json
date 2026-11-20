@@ -895,6 +895,63 @@
    ],
    "image": "../images/world/world-20261120-2028-04.jpg",
    "image_credit": "NASA/JPL, Public domain"
+  },
+  {
+   "id": "world-20261120-2126-01",
+   "published_ist": "2026-11-20T14:58:00+05:30",
+   "headline": "Russia ne NATO-jaisi guarantee kharij ki",
+   "detail": "Russia ke up-videsh mantri Ryabkov ne kaha Ukraine ko NATO ke Article 5 jaisi suraksha guarantee ya 'quasi-membership' bilkul manzoor nahi; Kushner ne ek din pehle dawa kiya tha ki Russia is vichar se sahmat hai.",
+   "category": "World",
+   "exam_angle": "Ukraine shanti vaarta, NATO Article 5 — UPSC IR",
+   "source": "Reuters",
+   "source_url": "https://www.reuters.com/world/russia-pushes-back-against-us-idea-nato-style-security-guarantees-for-ukraine-2026-11-20/",
+   "genuineness": "verified",
+   "outlets": [
+    "Reuters",
+    "The Times",
+    "Kyiv Post",
+    "Ukrainska Pravda",
+    "Al Jazeera",
+    "The Straits Times"
+   ],
+   "image": null,
+   "image_credit": null
+  },
+  {
+   "id": "world-20261120-2126-02",
+   "published_ist": "2026-11-19T20:00:00+05:30",
+   "headline": "Kyiv hamle me dootavas, girjaghar kshatigrast",
+   "detail": "Russia ke din ke drone hamle me Kyiv me ek vyakti mara aur paanch ghayal hue; Austria aur Netherlands ke dootavas aur St Volodymyr Cathedral ki khidkiyan tooti.",
+   "category": "World",
+   "exam_angle": "Russia-Ukraine yuddh, rajnaitik suraksha — UPSC IR",
+   "source": "Channel News Asia",
+   "source_url": "https://www.channelnewsasia.com/world/russia-ukraine-drone-strikes-kyiv-putin-6566896",
+   "genuineness": "verified",
+   "outlets": [
+    "AFP",
+    "Euromaidan Press",
+    "The Kyiv Independent",
+    "h.ua"
+   ],
+   "image": null,
+   "image_credit": null
+  },
+  {
+   "id": "world-20261120-2126-03",
+   "published_ist": "2026-11-19T12:00:00+05:30",
+   "headline": "TSMC-Samsung ne China ko chip roki",
+   "detail": "America ke naye niryat niyam ke baad TSMC aur Samsung ne China ke grahakon ko kuch advanced chip ki delivery roki; 16nm se neeche ki takneek ke liye ab US licence chahiye.",
+   "category": "World",
+   "exam_angle": "US-China chip war, export controls — UPSC IR/Economy",
+   "source": "Reuters",
+   "source_url": "https://www.reuters.com/world/china/tsmc-tightens-china-ai-chip-curbs-new-us-rules-close-manufacturing-loophole-2026-11-19/",
+   "genuineness": "corroborated",
+   "outlets": [
+    "Reuters",
+    "Financial Times"
+   ],
+   "image": null,
+   "image_credit": null
   }
  ]
 }
