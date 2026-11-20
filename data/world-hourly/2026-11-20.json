@@ -387,6 +387,81 @@
       ],
       "image": null,
       "image_credit": null
+    },
+    {
+      "id": "world-20261120-1222-01",
+      "published_ist": "2026-11-19T17:35:00+05:30",
+      "headline": "COP31 masaude se fossil fuel ka zikr gayab",
+      "detail": "Antalya me COP31 ke naye masaude se jeevashm indhan se door hatne ka har zikr hata diya gaya; 1.5°C lakshya se aage badhne ki baat mani gayi aur bijli ki hissedari 35% tak badhane ka lakshya barkarar raha.",
+      "category": "World",
+      "exam_angle": "COP31, jalvayu vaarta — UPSC Environment",
+      "source": "UN News",
+      "source_url": "https://news.un.org/en/story/2026/11/1168839",
+      "genuineness": "verified",
+      "outlets": [
+        "UN News",
+        "The Hindu",
+        "Indian Express",
+        "Down To Earth"
+      ],
+      "image": null,
+      "image_credit": null
+    },
+    {
+      "id": "world-20261120-1222-02",
+      "published_ist": "2026-11-20T10:31:00+05:30",
+      "headline": "JPMorgan, Visa, Mastercard ka data leak hua",
+      "detail": "Teeno ne mana ki teesre-paksh wale vendor par hamle me grahakon ke naam aur email leak hue; card number surakshit rahe aur payment seva par koi asar nahi pada, ransomware group n0n ne zimmedari li.",
+      "category": "World",
+      "exam_angle": "Cyber suraksha, third-party risk — UPSC Economy",
+      "source": "The Statesman",
+      "source_url": "https://www.thestatesman.com/technology/jpmorgan-visa-mastercard-data-breach-what-was-exposed-in-third-party-cyberattacks-1503664667.html",
+      "genuineness": "verified",
+      "outlets": [
+        "WSJ",
+        "Reuters",
+        "The Statesman",
+        "Moneycontrol"
+      ],
+      "image": null,
+      "image_credit": null
+    },
+    {
+      "id": "world-20261120-1222-03",
+      "published_ist": "2026-11-19T22:42:00+05:30",
+      "headline": "Zelenskyy: Ab chaar-pakshiya vaarta, NATO-EU guarantee",
+      "detail": "Berlin me Zelenskyy ne kaha ki Russia se agli vaarta chaar-pakshiya hogi — Ukraine, Europe, America aur Russia; NATO aur EU sadasyata ko sabse mazboot suraksha guarantee bataya.",
+      "category": "World",
+      "exam_angle": "Ukraine shanti vaarta, NATO — UPSC IR",
+      "source": "Kyiv Post",
+      "source_url": "https://www.kyivpost.com/post/90635",
+      "genuineness": "verified",
+      "outlets": [
+        "Kyiv Post",
+        "Ukrainska Pravda",
+        "TRT World",
+        "ANI"
+      ],
+      "image": null,
+      "image_credit": null
+    },
+    {
+      "id": "world-20261120-0922-01",
+      "published_ist": "2026-11-20T05:30:00+05:30",
+      "headline": "Kyiv par Russia ka ballistic missile hamla",
+      "detail": "Russia ne raat-bhar aur subah Kyiv aur pashchimi Ukraine par lagbhag 50 missilein daagin; Kyiv me teen log mare gaye, do ghayal hue aur teen pul kshatigrast hue, kai jilon me aag lagi.",
+      "category": "World",
+      "exam_angle": "Russia-Ukraine yuddh — UPSC IR",
+      "source": "UNN",
+      "source_url": "https://unn.ua/en/news/about-50-missiles-simultaneously-over-ukraine-russia-attacks-the-western-regions-there-are-fatalities-in-kyiv",
+      "genuineness": "verified",
+      "outlets": [
+        "UNN",
+        "EuropeSays",
+        "Kyiv Post"
+      ],
+      "image": null,
+      "image_credit": null
     }
   ]
 }
