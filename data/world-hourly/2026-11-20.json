@@ -762,6 +762,66 @@
    ],
    "image": null,
    "image_credit": null
+  },
+  {
+   "id": "world-20261120-1922-01",
+   "published_ist": "2026-11-20T12:00:00+05:30",
+   "headline": "Poland me Russian missile giri, NATO madad",
+   "detail": "Poland ke raksha mantri ne kaha Russia ki do Kh-101 missile aur ek jet-powered drone Ukraine par hamle ke dauran Poland ke andar gire; koi hatahat nahi hua, lekin Poland ne NATO se atirikt sainya madad maangi hai.",
+   "category": "World",
+   "exam_angle": "NATO airspace violation, Russia-Ukraine yuddh — UPSC IR",
+   "source": "Kyiv Post",
+   "source_url": "https://www.kyivpost.com/post/90721",
+   "genuineness": "verified",
+   "outlets": [
+    "Kyiv Post",
+    "Kyiv Independent",
+    "The New Voice of Ukraine",
+    "The Straits Times",
+    "New Indian Express",
+    "Ukrainska Pravda"
+   ],
+   "image": null,
+   "image_credit": null
+  },
+  {
+   "id": "world-20261120-1922-02",
+   "published_ist": "2026-11-20T16:00:00+05:30",
+   "headline": "Estonia ne Russia seema chhah mahine band ki",
+   "detail": "Estonia 1 December se Russia ke saath apne paanchon sadak seema-par kam se kam chhah mahine ke liye band karega — raksha company par sandehspad aagajani ke baad suraksha karan; Russia ne ise 'Iron Curtain' batakar jawab dene ki dhamki di.",
+   "category": "World",
+   "exam_angle": "Baltic suraksha, NATO-Russia tanav — UPSC IR",
+   "source": "Reuters",
+   "source_url": "https://www.reuters.com/world/estonia-close-border-with-russia-least-six-months-2026-11-20/",
+   "genuineness": "verified",
+   "outlets": [
+    "Reuters",
+    "The Straits Times",
+    "Times Now",
+    "The Jerusalem Post",
+    "SCMP"
+   ],
+   "image": null,
+   "image_credit": null
+  },
+  {
+   "id": "world-20261120-1922-03",
+   "published_ist": "2026-11-19T09:21:00+05:30",
+   "headline": "IMF: duniya ka karz GDP ke 100% tak",
+   "detail": "IMF pramukh Kristalina Georgieva ne Shenzhen me APEC shikhar par chetavni di ki vaishvik sarkari karz jald duniya ki GDP ke 100% tak pahunch jayega — Dusre Vishwa Yuddh ke baad sabse uncha star; vaishvik mehengaai 4.7% rehne ka anumaan hai.",
+   "category": "World",
+   "exam_angle": "Vaishvik karz, IMF, APEC — UPSC Economy",
+   "source": "MercoPress",
+   "source_url": "https://en.mercopress.com/2026/11/19/imf-warns-global-debt-will-soon-reach-100-of-gdp-the-highest-since-world-war-ii",
+   "genuineness": "verified",
+   "outlets": [
+    "MercoPress",
+    "Trend",
+    "HIT.tv",
+    "The World Insiders"
+   ],
+   "image": null,
+   "image_credit": null
   }
  ]
 }
