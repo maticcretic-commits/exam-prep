@@ -1,0 +1,61 @@
+{
+ "date": "2026-11-20",
+ "items": [
+  {
+   "id": "world-20261120-0622-01",
+   "published_ist": "2026-11-19T23:42:00+05:30",
+   "headline": "Anthropic ka Nasdaq debut, valuation $2 trillion",
+   "detail": "Anthropic ke share Nasdaq debut par $111.50 par khule — IPO price $83 se 34% upar; din bhar me company ki valuation $2 trillion tak pahunchi, AI company ka ab tak ka sabse bada IPO.",
+   "category": "World",
+   "exam_angle": "AI companies, IPO records — UPSC Economy",
+   "source": "Onmanorama",
+   "source_url": "https://www.onmanorama.com/news/business/2026/11/19/anthropic-makes-stellar-stock-market-debut-us.html",
+   "genuineness": "verified",
+   "outlets": [
+    "Reuters",
+    "USA Today",
+    "Onmanorama",
+    "Al Mayadeen"
+   ],
+   "image": null,
+   "image_credit": null
+  },
+  {
+   "id": "world-20261120-0622-02",
+   "published_ist": "2026-11-19T19:19:00+05:30",
+   "headline": "Kerch Bridge par teesra hamla, Putin ne badle ki dhamki",
+   "detail": "Ukraine ne chaar din me teesri baar Kerch Bridge par hamla kiya, rail seva ruk gayi; Putin ne bahut zyada dardnak jawab ki dhamki di aur samudri-urja yuddh-viram ki baat khatm kar di.",
+   "category": "World",
+   "exam_angle": "Russia-Ukraine war, Crimea — UPSC IR",
+   "source": "Firstpost",
+   "source_url": "https://www.firstpost.com/world/putin-vows-retaliation-after-third-ukrainian-attack-on-key-crimea-bridge-in-four-days-14061337.html",
+   "genuineness": "verified",
+   "outlets": [
+    "Reuters",
+    "The Hindu",
+    "Firstpost",
+    "Times Now"
+   ],
+   "image": null,
+   "image_credit": null
+  },
+  {
+   "id": "world-20261120-0622-03",
+   "published_ist": "2026-11-19T17:13:00+05:30",
+   "headline": "Berlin me Ukraine sahyogiyon ki badi baithak",
+   "detail": "Zelenskyy Berlin pahunche; 40 se zyada sahyogi deshon ke neta Coalition of the Willing baithak me mile, shanti vartao me Europe ki bhumika aur suraksha guarantee par charcha hui.",
+   "category": "World",
+   "exam_angle": "Ukraine war, European security — UPSC IR",
+   "source": "Interfax-Ukraine",
+   "source_url": "https://en.interfax.com.ua/news/general/1239165.html",
+   "genuineness": "verified",
+   "outlets": [
+    "Reuters",
+    "Al Jazeera",
+    "Interfax-Ukraine"
+   ],
+   "image": null,
+   "image_credit": null
+  }
+ ]
+}
