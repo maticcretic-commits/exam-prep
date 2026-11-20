@@ -1,0 +1,77 @@
+{
+ "date": "2026-11-21",
+ "date_hi": "21 November 2026",
+ "date_en": "21 November 2026",
+ "episodes": [
+  {
+   "episode": 145,
+   "video_hi": "ldXkweTzN5o",
+   "video_hinglish": "ldXkweTzN5o",
+   "capsules": [
+    {
+     "id": "ca-ep145-s1",
+     "headline_hi": "Cyclone Akvan ne Odisha coast par landfall kiya",
+     "headline_hinglish": "Cyclone Akvan ne Odisha coast par landfall kiya",
+     "detail_hi": "Teen lakh sattar hazaar se zyada log surakshit jagah shift kiye gaye, koi badi tabahi nahi hui.",
+     "detail_hinglish": "Teen lakh sattar hazaar se zyada log surakshit jagah shift kiye gaye, koi badi tabahi nahi hui.",
+     "category_hi": "Disaster",
+     "category_en": "National"
+    },
+    {
+     "id": "ca-ep145-s2",
+     "headline_hi": "EPFO ne PF withdrawal limit 90% kar di",
+     "headline_hinglish": "EPFO ne PF withdrawal limit 90% kar di",
+     "detail_hi": "Naukri jaane par intezaar ab baarah mahine se sirf do mahine ho gaya.",
+     "detail_hinglish": "Naukri jaane par intezaar ab baarah mahine se sirf do mahine ho gaya.",
+     "category_hi": "Economy",
+     "category_en": "Economy"
+    },
+    {
+     "id": "ca-ep145-s3",
+     "headline_hi": "Bharat ne 20% ethanol blending haasil kiya",
+     "headline_hinglish": "Bharat ne 20% ethanol blending haasil kiya",
+     "detail_hi": "2030 ka lakshya paanch saal pehle poora, kisaanon ko ek lakh saath hazaar crore se zyada mile.",
+     "detail_hinglish": "2030 ka lakshya paanch saal pehle poora, kisaanon ko ek lakh saath hazaar crore se zyada mile.",
+     "category_hi": "Energy",
+     "category_en": "National"
+    },
+    {
+     "id": "ca-ep145-s4",
+     "headline_hi": "UGC NET December exam 14 December se shuru",
+     "headline_hinglish": "UGC NET December exam 14 December se shuru",
+     "detail_hi": "Sattaasi vishayon ka schedule jaari, city slip tees November ko milegi.",
+     "detail_hinglish": "Sattaasi vishayon ka schedule jaari, city slip tees November ko milegi.",
+     "category_hi": "Education",
+     "category_en": "Education"
+    },
+    {
+     "id": "ca-ep145-s5",
+     "headline_hi": "Bharat ki pehli swadeshi H5N1 vaccine taiyaar",
+     "headline_hinglish": "Bharat ki pehli swadeshi H5N1 vaccine taiyaar",
+     "detail_hi": "Bhopal ke ICAR-NIHSAD ne banayi, ek dose sirf ek se do rupaye mein.",
+     "detail_hinglish": "Bhopal ke ICAR-NIHSAD ne banayi, ek dose sirf ek se do rupaye mein.",
+     "category_hi": "Science",
+     "category_en": "National"
+    }
+   ],
+   "mcq": {
+    "id": "ca-ep145-mcq",
+    "q_hi": "EPFO ne PF withdrawal ki seema kitni kar di hai?",
+    "q_hinglish": "EPFO ne PF withdrawal ki seema kitni kar di hai?",
+    "options_hi": [
+     "80%",
+     "85%",
+     "90%",
+     "95%"
+    ],
+    "options_hinglish": [
+     "80%",
+     "85%",
+     "90%",
+     "95%"
+    ],
+    "answer_index": 2
+   }
+  }
+ ]
+}
