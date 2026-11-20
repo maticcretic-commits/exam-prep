@@ -72,6 +72,76 @@
     ],
     "answer_index": 0
    }
+  },
+  {
+   "episode": 142,
+   "video_hi": "APvAp0iHzuo",
+   "video_hinglish": "APvAp0iHzuo",
+   "capsules": [
+    {
+     "id": "ca-ep142-s1",
+     "headline_hi": "Dhaka mein Bharat ka dasvaan SAFF title",
+     "headline_hinglish": "Dhaka mein Bharat ka dasvaan SAFF title",
+     "detail_hi": "Final mein Pakistan ko do ek se haraya, teesri baar lagatar champion bana.",
+     "detail_hinglish": "Final mein Pakistan ko do ek se haraya, teesri baar lagatar champion bana.",
+     "category_hi": "Sports",
+     "category_en": "Sports"
+    },
+    {
+     "id": "ca-ep142-s2",
+     "headline_hi": "Sarkari banks ka karobar 300 lakh crore paar",
+     "headline_hinglish": "Sarkari banks ka karobar 300 lakh crore paar",
+     "detail_hi": "Kul karobar 301.6 lakh crore rupaye hua, September 2026 tak ka aankda.",
+     "detail_hinglish": "Kul karobar 301.6 lakh crore rupaye hua, September 2026 tak ka aankda.",
+     "category_hi": "Economy",
+     "category_en": "Economy"
+    },
+    {
+     "id": "ca-ep142-s3",
+     "headline_hi": "Barak missile upgrade ke liye 1,976 crore ka sauda",
+     "headline_hinglish": "Barak missile upgrade ke liye 1,976 crore ka sauda",
+     "detail_hi": "Raksha Mantralaya ne Israel Aerospace Industries se Barak missile system upgrade ka samjhauta kiya.",
+     "detail_hinglish": "Raksha Mantralaya ne Israel Aerospace Industries se Barak missile system upgrade ka samjhauta kiya.",
+     "category_hi": "Defence",
+     "category_en": "Defence"
+    },
+    {
+     "id": "ca-ep142-s4",
+     "headline_hi": "Supreme Court: 30 November se pehle voter list sudharwao",
+     "headline_hinglish": "Supreme Court: 30 November se pehle voter list sudharwao",
+     "detail_hi": "Hataaye gaye matdata ECI se dobara shamil hone ka mauka lein, adalat ne kaha.",
+     "detail_hinglish": "Hataaye gaye matdata ECI se dobara shamil hone ka mauka lein, adalat ne kaha.",
+     "category_hi": "Polity",
+     "category_en": "Polity"
+    },
+    {
+     "id": "ca-ep142-s5",
+     "headline_hi": "Japan ki sena pehli baar Bharat mein live-fire training",
+     "headline_hinglish": "Japan ki sena pehli baar Bharat mein live-fire training",
+     "detail_hi": "Tokyo mein do plus do baithak mein samjhauta, Bharat ki test range istemal hogi.",
+     "detail_hinglish": "Tokyo mein do plus do baithak mein samjhauta, Bharat ki test range istemal hogi.",
+     "category_hi": "International",
+     "category_en": "National"
+    }
+   ],
+   "mcq": {
+    "id": "ca-ep142-mcq",
+    "q_hi": "Bharat ne SAFF Championship ka khitaab kul kitni baar jeeta hai?",
+    "q_hinglish": "Bharat ne SAFF Championship ka khitaab kul kitni baar jeeta hai?",
+    "options_hi": [
+     "8 baar",
+     "9 baar",
+     "10 baar",
+     "11 baar"
+    ],
+    "options_hinglish": [
+     "8 baar",
+     "9 baar",
+     "10 baar",
+     "11 baar"
+    ],
+    "answer_index": 2
+   }
   }
  ]
 }
