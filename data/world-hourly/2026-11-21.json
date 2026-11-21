@@ -1,0 +1,76 @@
+{
+ "items": [
+  {
+   "id": "world-20261121-0622-01",
+   "published_ist": "2026-11-19T12:00:00+05:30",
+   "headline": "Trump-Xi-Putin ki pehli tri-pakshiya shikhar vaarta",
+   "detail": "Shenzhen me pehli baar America, China aur Russia ke netaon ne chaar-sutri shanti ghoshna par hastakshar kiye — UN sudhar, tel aapurti, ICC aur parmanu jokhim par samvaad; Ukraine aur Iran ka zikr nahi hua.",
+   "category": "World",
+   "exam_angle": "Trilateral summit, UN sudhar, parmanu jokhim — UPSC IR",
+   "source": "The Indian Express",
+   "source_url": "https://indianexpress.com/article/world/donald-trump-vladimir-putin-xi-jinping-trilateral-meeting-shenzhen-apec-takeaways-icc-ukraine-10970368/",
+   "genuineness": "verified",
+   "outlets": [
+    "The Indian Express",
+    "Channel News Asia",
+    "The Wire"
+   ],
+   "image": "../images/world/world-20261121-0622-01.jpg",
+   "image_credit": "President of Russia (Kremlin.ru), CC BY 4.0, via Wikimedia Commons"
+  },
+  {
+   "id": "world-20261121-0622-02",
+   "published_ist": "2026-11-20T12:00:00+05:30",
+   "headline": "Trump ko January tak Ukraine shanti samjhauta chahiye",
+   "detail": "Financial Times ki report ke anusar Trump prashasan chahta hai Ukraine-Russia shanti samjhauta January 2027 ki shuruaat tak ho, Democrats ke Congress sambhalne se pehle; Witkoff aur Kushner ne Moscow, Dublin aur Berlin me vaarta ki.",
+   "category": "World",
+   "exam_angle": "Ukraine shanti vaarta, US Congress — UPSC IR",
+   "source": "Times Now",
+   "source_url": "https://www.timesnownews.com/world/trump-wants-ukraine-peace-deal-by-january-before-democrats-take-congress-report-article-156543781",
+   "genuineness": "verified",
+   "outlets": [
+    "Financial Times",
+    "Times Now",
+    "Ukrinform"
+   ],
+   "image": null,
+   "image_credit": null
+  },
+  {
+   "id": "world-20261121-0622-03",
+   "published_ist": "2026-11-20T12:00:00+05:30",
+   "headline": "Denmark ne rapper-hatya sajish nakam ki",
+   "detail": "Denmark ne kaha uski police ne September me Copenhagen me US-Ukrainian rapper Kyivstoner ki hatya ki koshish nakam ki, jisme Russia ki khufiya seva ka haath bataya gaya; teen log giraftar hue aur Russia ke raksha attache ko nikal diya gaya.",
+   "category": "World",
+   "exam_angle": "Russia-Denmark, khufiya seva — UPSC IR",
+   "source": "Reuters",
+   "source_url": "https://www.reuters.com/world/europe/two-danes-suspected-being-hired-by-russia-kill-us-ukrainian-rapper-2026-11-20/",
+   "genuineness": "corroborated",
+   "outlets": [
+    "Reuters",
+    "News Media House"
+   ],
+   "image": null,
+   "image_credit": null
+  },
+  {
+   "id": "world-20261121-0622-04",
+   "published_ist": "2026-11-19T12:00:00+05:30",
+   "headline": "Malaysia ne Bharatiyon ki visa-mukt pravesh band ki",
+   "detail": "Malaysia ne kaha 1 January 2027 se Bharatiya nagrikon ko visa-mukt pravesh nahi milega; pehle se visa lena hoga, MyVISA portal par aavedan 1 December 2026 se shuru honge.",
+   "category": "World",
+   "exam_angle": "Malaysia visa niti — UPSC IR",
+   "source": "The Hindu",
+   "source_url": "https://www.thehindu.com/news/national/malaysia-to-end-visa-free-entry-to-indians-from-january-1-2027/article71719957.ece",
+   "genuineness": "verified",
+   "outlets": [
+    "The Hindu",
+    "Deccan Herald",
+    "The Economic Times",
+    "Khaleej Times"
+   ],
+   "image": null,
+   "image_credit": null
+  }
+ ]
+}
