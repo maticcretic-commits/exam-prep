@@ -1,5 +1,5 @@
 {
-  "updated_ist": "2026-11-21T17:24:46+05:30",
+  "updated_ist": "2026-11-21T18:26:02+05:30",
   "items": [
     {
       "id": "world-20261121-0622-01",
@@ -724,6 +724,65 @@
       "outlets": [
         "WAFA",
         "Outlook India"
+      ],
+      "image": null,
+      "image_credit": null
+    },
+    {
+      "id": "world-20261121-1822-01",
+      "published_ist": "2026-11-21T12:00:00+05:30",
+      "headline": "EU ka Big Tech par 3% tax prastav",
+      "detail": "European Council ke pramukh Antonio Costa ne 2028-2034 ke budget ke liye badi digital companies par 3% levy ka prastav diya; 204 arab euro ki katauti bhi prastavit hai, samjhauta December tak chahiye.",
+      "category": "World",
+      "exam_angle": "EU budget, digital tax, Big Tech — UPSC IR/Economy",
+      "source": "The Hindu",
+      "source_url": "https://www.thehindu.com/news/international/european-union-proposes-tax-on-big-tech-to-boost-budget/article71728111.ece",
+      "genuineness": "verified",
+      "outlets": [
+        "The Hindu",
+        "TRT World",
+        "Times of India",
+        "Turkiye Today",
+        "AFP"
+      ],
+      "image": null,
+      "image_credit": null
+    },
+    {
+      "id": "world-20261121-1822-02",
+      "published_ist": "2026-11-21T12:00:00+05:30",
+      "headline": "Videsh data centre par Trump ki tax-dhamki",
+      "detail": "Rashtrapati Trump ne kaha videsh me data centre banane wali Americi companies par 'tremendous tax' lagega; AI me China se aage rehne ke liye desh ke andar nivesh chahiye.",
+      "category": "World",
+      "exam_angle": "America, AI, data centre, China — UPSC IR/Economy",
+      "source": "Reuters",
+      "source_url": "https://www.reuters.com/technology/trump-says-us-penalize-firms-building-data-centers-abroad-2026-11-20/",
+      "genuineness": "verified",
+      "outlets": [
+        "Reuters",
+        "USA Today",
+        "Associated Press",
+        "Channel News Asia",
+        "The Hindu",
+        "Moneycontrol"
+      ],
+      "image": null,
+      "image_credit": null
+    },
+    {
+      "id": "world-20261121-1822-03",
+      "published_ist": "2026-11-21T12:00:00+05:30",
+      "headline": "IRGC ka dava: Hormuz me US drone giraya",
+      "detail": "Iran ke IRGC ne dava kiya uski vayu raksha ne Hormuz me ek MQ-9 aur Qeshm ke upar ek MQ-1 drone giraya; America ne abhi iski koi pushti nahi ki hai.",
+      "category": "World",
+      "exam_angle": "Iran-America tanav, Hormuz — UPSC IR",
+      "source": "Al Jazeera",
+      "source_url": "https://www.aljazeera.com/news/2026/11/21/irans-irgc-downs-us-drone-over-hormuz-as-efforts-to-end-war-remain-stalled",
+      "genuineness": "corroborated",
+      "outlets": [
+        "Mehr News",
+        "Al Jazeera",
+        "Gulf News"
       ],
       "image": null,
       "image_credit": null
