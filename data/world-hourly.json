@@ -1,6 +1,78 @@
 {
- "updated_ist": "2026-11-20T22:28:05+05:30",
+ "updated_ist": "2026-11-21T06:26:54+05:30",
  "items": [
+  {
+   "id": "world-20261121-0622-01",
+   "published_ist": "2026-11-19T12:00:00+05:30",
+   "headline": "Trump-Xi-Putin ki pehli tri-pakshiya shikhar vaarta",
+   "detail": "Shenzhen me pehli baar America, China aur Russia ke netaon ne chaar-sutri shanti ghoshna par hastakshar kiye — UN sudhar, tel aapurti, ICC aur parmanu jokhim par samvaad; Ukraine aur Iran ka zikr nahi hua.",
+   "category": "World",
+   "exam_angle": "Trilateral summit, UN sudhar, parmanu jokhim — UPSC IR",
+   "source": "The Indian Express",
+   "source_url": "https://indianexpress.com/article/world/donald-trump-vladimir-putin-xi-jinping-trilateral-meeting-shenzhen-apec-takeaways-icc-ukraine-10970368/",
+   "genuineness": "verified",
+   "outlets": [
+    "The Indian Express",
+    "Channel News Asia",
+    "The Wire"
+   ],
+   "image": "../images/world/world-20261121-0622-01.jpg",
+   "image_credit": "President of Russia (Kremlin.ru), CC BY 4.0, via Wikimedia Commons"
+  },
+  {
+   "id": "world-20261121-0622-02",
+   "published_ist": "2026-11-20T12:00:00+05:30",
+   "headline": "Trump ko January tak Ukraine shanti samjhauta chahiye",
+   "detail": "Financial Times ki report ke anusar Trump prashasan chahta hai Ukraine-Russia shanti samjhauta January 2027 ki shuruaat tak ho, Democrats ke Congress sambhalne se pehle; Witkoff aur Kushner ne Moscow, Dublin aur Berlin me vaarta ki.",
+   "category": "World",
+   "exam_angle": "Ukraine shanti vaarta, US Congress — UPSC IR",
+   "source": "Times Now",
+   "source_url": "https://www.timesnownews.com/world/trump-wants-ukraine-peace-deal-by-january-before-democrats-take-congress-report-article-156543781",
+   "genuineness": "verified",
+   "outlets": [
+    "Financial Times",
+    "Times Now",
+    "Ukrinform"
+   ],
+   "image": null,
+   "image_credit": null
+  },
+  {
+   "id": "world-20261121-0622-03",
+   "published_ist": "2026-11-20T12:00:00+05:30",
+   "headline": "Denmark ne rapper-hatya sajish nakam ki",
+   "detail": "Denmark ne kaha uski police ne September me Copenhagen me US-Ukrainian rapper Kyivstoner ki hatya ki koshish nakam ki, jisme Russia ki khufiya seva ka haath bataya gaya; teen log giraftar hue aur Russia ke raksha attache ko nikal diya gaya.",
+   "category": "World",
+   "exam_angle": "Russia-Denmark, khufiya seva — UPSC IR",
+   "source": "Reuters",
+   "source_url": "https://www.reuters.com/world/europe/two-danes-suspected-being-hired-by-russia-kill-us-ukrainian-rapper-2026-11-20/",
+   "genuineness": "corroborated",
+   "outlets": [
+    "Reuters",
+    "News Media House"
+   ],
+   "image": null,
+   "image_credit": null
+  },
+  {
+   "id": "world-20261121-0622-04",
+   "published_ist": "2026-11-19T12:00:00+05:30",
+   "headline": "Malaysia ne Bharatiyon ki visa-mukt pravesh band ki",
+   "detail": "Malaysia ne kaha 1 January 2027 se Bharatiya nagrikon ko visa-mukt pravesh nahi milega; pehle se visa lena hoga, MyVISA portal par aavedan 1 December 2026 se shuru honge.",
+   "category": "World",
+   "exam_angle": "Malaysia visa niti — UPSC IR",
+   "source": "The Hindu",
+   "source_url": "https://www.thehindu.com/news/national/malaysia-to-end-visa-free-entry-to-indians-from-january-1-2027/article71719957.ece",
+   "genuineness": "verified",
+   "outlets": [
+    "The Hindu",
+    "Deccan Herald",
+    "The Economic Times",
+    "Khaleej Times"
+   ],
+   "image": null,
+   "image_credit": null
+  },
   {
    "id": "world-20261120-2222-01",
    "published_ist": "2026-11-19T12:00:00+05:30",
@@ -369,80 +441,6 @@
     "The Hindu",
     "NDTV",
     "The Times of India"
-   ],
-   "image": null,
-   "image_credit": null
-  },
-  {
-   "id": "world-20261120-1222-02",
-   "published_ist": "2026-11-20T10:31:00+05:30",
-   "headline": "JPMorgan, Visa, Mastercard ka data leak hua",
-   "detail": "Teeno ne mana ki teesre-paksh wale vendor par hamle me grahakon ke naam aur email leak hue; card number surakshit rahe aur payment seva par koi asar nahi pada, ransomware group n0n ne zimmedari li.",
-   "category": "World",
-   "exam_angle": "Cyber suraksha, third-party risk — UPSC Economy",
-   "source": "The Statesman",
-   "source_url": "https://www.thestatesman.com/technology/jpmorgan-visa-mastercard-data-breach-what-was-exposed-in-third-party-cyberattacks-1503664667.html",
-   "genuineness": "verified",
-   "outlets": [
-    "WSJ",
-    "Reuters",
-    "The Statesman",
-    "Moneycontrol"
-   ],
-   "image": null,
-   "image_credit": null
-  },
-  {
-   "id": "world-20261120-1422-01",
-   "published_ist": "2026-11-20T09:38:00+05:30",
-   "headline": "Saudi ne Houthi missile ko hawa me roka",
-   "detail": "Saudi vayu raksha ne Yemen ke Houthi vidrohiyon ki ballistic missile ko dakshini kshetra ke upar rok kar nasht kar diya; Jazan, Abha aur Khamis Mushait ke paas drone bhi giraye gaye.",
-   "category": "World",
-   "exam_angle": "West Asia sangharsh — UPSC IR",
-   "source": "Reuters",
-   "source_url": "https://www.reuters.com/world/middle-east/saudi-led-coalition-says-it-intercepted-houthi-missile-targeting-southern-region-2026-11-20/",
-   "genuineness": "corroborated",
-   "outlets": [
-    "Reuters",
-    "Jerusalem Post"
-   ],
-   "image": null,
-   "image_credit": null
-  },
-  {
-   "id": "world-20261120-1322-01",
-   "published_ist": "2026-11-20T08:27:00+05:30",
-   "headline": "EU par pehla AI-sahayata wala cyber hamla",
-   "detail": "European Commission ne mana ki October me uske aantarik system par AI auzaron se hamla hua; 22 October ko pakda gaya, kuch sevaein abhi bhi band hain aur jaanch jaari hai, karmchariyon ke data leak ka koi saboot nahi mila.",
-   "category": "World",
-   "exam_angle": "Cyber suraksha, AI — UPSC Sci & Tech",
-   "source": "The Economic Times",
-   "source_url": "https://economictimes.indiatimes.com/news/international/business/eu-confirms-first-ai-assisted-cyberattack-on-key-institution/articleshow/136010890.cms",
-   "genuineness": "verified",
-   "outlets": [
-    "AP",
-    "Reuters",
-    "The Economic Times",
-    "NDTV"
-   ],
-   "image": null,
-   "image_credit": null
-  },
-  {
-   "id": "world-20261120-1322-02",
-   "published_ist": "2026-11-20T07:39:00+05:30",
-   "headline": "IEA: Hormuz sankat ne urja ki duniya badli",
-   "detail": "IEA ki World Energy Outlook 2026 me kaha gaya ki Bharat aur Dakshin-Purvi Asia 2035 tak duniya ki urja maang me vriddhi ka 45 pratishat hissa denge; Hormuz se tel-gais ki aapoorti me 2.8 arab barrel ka nuksan hua.",
-   "category": "World",
-   "exam_angle": "Urja suraksha, IEA, Hormuz — UPSC Economy",
-   "source": "IANS",
-   "source_url": "https://ianslive.in/india-among-biggest-drivers-of-energy-growth-amid-hormuz-crisis-iea--20261120073903",
-   "genuineness": "verified",
-   "outlets": [
-    "IANS",
-    "The Hindu BusinessLine",
-    "The Print",
-    "ET EnergyWorld"
    ],
    "image": null,
    "image_credit": null
