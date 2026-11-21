@@ -1,5 +1,5 @@
 {
-  "updated_ist": "2026-11-21T20:24:57+05:30",
+  "updated_ist": "2026-11-21T21:25:42+05:30",
   "items": [
     {
       "id": "world-20261121-0622-01",
@@ -872,6 +872,44 @@
       "outlets": [
         "Reuters",
         "Down to Earth"
+      ],
+      "image": null,
+      "image_credit": null
+    },
+    {
+      "id": "world-20261121-2122-01",
+      "published_ist": "2026-11-21T12:00:00+05:30",
+      "headline": "Iran ka F-16 dava, America ne kharij kiya",
+      "detail": "Iran ki sena ne dava kiya uski vayu raksha ne Khadi ke upar Americi F-16 par missile daagi aur use emergency landing karni padi; CENTCOM ne dava ko jhootha bataya, kaha koi F-16 par hamla hua hi nahi.",
+      "category": "World",
+      "exam_angle": "Iran-America tanav, Khadi — UPSC IR",
+      "source": "Reuters",
+      "source_url": "https://www.reuters.com/business/aerospace-defense/us-denies-iranian-account-that-missile-damaged-f-16-over-gulf-2026-11-21/",
+      "genuineness": "verified",
+      "outlets": [
+        "Reuters",
+        "Al Jazeera",
+        "The Jerusalem Post",
+        "Dawn",
+        "Al Arabiya"
+      ],
+      "image": null,
+      "image_credit": null
+    },
+    {
+      "id": "world-20261121-2122-02",
+      "published_ist": "2026-11-17T12:00:00+05:30",
+      "headline": "Sudan me drone hamle: 2,230 nagrik mare",
+      "detail": "UN Human Rights Office ki report ke anusar Sudan me January se October 2026 tak 2,230 se zyada nagrik mare gaye, jinme 1,630 se zyada drone hamlo me mare; drone yuddh ki sabse badi pehchan ban gaye hain.",
+      "category": "World",
+      "exam_angle": "Sudan yuddh, drone, manavadhikar — UPSC IR",
+      "source": "Astro Awani",
+      "source_url": "https://international.astroawani.com/global-news/drones-account-nearly-three-quarters-sudan-war-deaths-year-un-says",
+      "genuineness": "verified",
+      "outlets": [
+        "OHCHR",
+        "Astro Awani",
+        "Devdiscourse"
       ],
       "image": null,
       "image_credit": null
