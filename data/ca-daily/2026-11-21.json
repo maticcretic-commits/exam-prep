@@ -142,6 +142,76 @@
     ],
     "answer_index": 2
    }
+  },
+  {
+   "episode": 147,
+   "video_hi": "AFIsPh8REE8",
+   "video_hinglish": "AFIsPh8REE8",
+   "capsules": [
+    {
+     "id": "ca-ep147-s1",
+     "headline_hi": "Cyclone Akvan Odisha se takraya, lakhon log surakshit",
+     "headline_hinglish": "Cyclone Akvan Odisha se takraya, lakhon log surakshit",
+     "detail_hi": "Gopalpur ke paas landfall, teen lakh logon ko surakshit jagah pahunchaya gaya.",
+     "detail_hinglish": "Gopalpur ke paas landfall, teen lakh logon ko surakshit jagah pahunchaya gaya.",
+     "category_hi": "Disaster",
+     "category_en": "National"
+    },
+    {
+     "id": "ca-ep147-s2",
+     "headline_hi": "Nitish Setu ka udghatan, Bihar ko badi saugat",
+     "headline_hinglish": "Nitish Setu ka udghatan, Bihar ko badi saugat",
+     "detail_hi": "Chauttis hazaar crore se zyada ki pariyojnaon ke saath PM Modi ne udghatan kiya.",
+     "detail_hinglish": "Chauttis hazaar crore se zyada ki pariyojnaon ke saath PM Modi ne udghatan kiya.",
+     "category_hi": "Infrastructure",
+     "category_en": "National"
+    },
+    {
+     "id": "ca-ep147-s3",
+     "headline_hi": "Electronics exports chaalis chaar pratishat badhe",
+     "headline_hinglish": "Electronics exports chaalis chaar pratishat badhe",
+     "detail_hi": "April se September tak exports lagbhag baattis billion dollar pahunche.",
+     "detail_hinglish": "April se September tak exports lagbhag baattis billion dollar pahunche.",
+     "category_hi": "Economy",
+     "category_en": "Economy"
+    },
+    {
+     "id": "ca-ep147-s4",
+     "headline_hi": "Bharat ki pehli swadeshi H5N1 vaccine taiyaar",
+     "headline_hinglish": "Bharat ki pehli swadeshi H5N1 vaccine taiyaar",
+     "detail_hi": "Murgi palan ko bird flu se bachayegi, kisaano ka nuksaan kam hoga.",
+     "detail_hinglish": "Murgi palan ko bird flu se bachayegi, kisaano ka nuksaan kam hoga.",
+     "category_hi": "Science",
+     "category_en": "National"
+    },
+    {
+     "id": "ca-ep147-s5",
+     "headline_hi": "303 bhagode videsh se wapas laaye gaye",
+     "headline_hinglish": "303 bhagode videsh se wapas laaye gaye",
+     "detail_hi": "Do hazaar unnees se chhattis deshon se NIA ne bhagodon ko Bharat laaya.",
+     "detail_hinglish": "Do hazaar unnees se chhattis deshon se NIA ne bhagodon ko Bharat laaya.",
+     "category_hi": "Security",
+     "category_en": "National"
+    }
+   ],
+   "mcq": {
+    "id": "ca-ep147-mcq",
+    "q_hi": "Cyclone Akvan ne Odisha mein kahan landfall kiya?",
+    "q_hinglish": "Cyclone Akvan ne Odisha mein kahan landfall kiya?",
+    "options_hi": [
+     "Puri",
+     "Gopalpur",
+     "Balasore",
+     "Paradip"
+    ],
+    "options_hinglish": [
+     "Puri",
+     "Gopalpur",
+     "Balasore",
+     "Paradip"
+    ],
+    "answer_index": 1
+   }
   }
  ]
 }
