@@ -1,6 +1,60 @@
 {
-  "updated_ist": "2026-11-21T19:23:54+05:30",
+  "updated_ist": "2026-11-21T20:24:57+05:30",
   "items": [
+    {
+      "id": "world-20261121-2024-01",
+      "published_ist": "2026-11-21T12:00:00+05:30",
+      "headline": "Hormuz me tanker mine se takraya, aag lagi",
+      "detail": "Iran ki nausena ke anusar Hormuz ke poorv me ek tanker samudri mine se takrakar aag ki lapeton me aa gaya; UKMTO ne Oman ke paas do tankeron par hamle ki bhi khabar di.",
+      "category": "World",
+      "exam_angle": "Strait of Hormuz, tel vyapar — UPSC IR",
+      "source": "Al Jazeera",
+      "source_url": "https://www.aljazeera.com/amp/news/liveblog/2026/11/21/iran-war-live-saudi-led-coalition-repels-houthi-missiles",
+      "genuineness": "verified",
+      "outlets": [
+        "Al Jazeera",
+        "Reuters",
+        "Xinhua"
+      ],
+      "image": null,
+      "image_credit": null
+    },
+    {
+      "id": "world-20261121-2024-02",
+      "published_ist": "2026-11-20T12:00:00+05:30",
+      "headline": "Iraq ki sena Kataib Hezbollah ke gadh me ghusi",
+      "detail": "Samjhaute ke baad Iraqi suraksha balon ne Baghdad ke dakshin me Jurf al-Sakhar me pravesh kiya; Kataib Hezbollah ek mahine ke andar wahan se hatne par raazi hua, tel taskari ke aaropon ke beech.",
+      "category": "World",
+      "exam_angle": "Iraq, Iran-samarthit milicia — UPSC IR",
+      "source": "Al Jazeera",
+      "source_url": "https://www.aljazeera.com/amp/news/2026/11/20/iraqi-forces-deploy-to-jurf-al-sakhar-after-deal-with-iran-backed-group",
+      "genuineness": "verified",
+      "outlets": [
+        "Al Jazeera",
+        "International Crisis Group",
+        "The Jerusalem Post",
+        "Arab News"
+      ],
+      "image": null,
+      "image_credit": null
+    },
+    {
+      "id": "world-20261121-2024-03",
+      "published_ist": "2026-11-20T12:00:00+05:30",
+      "headline": "COP31 ke naye draft se jeevashm-indhan zikr hata",
+      "detail": "COP31 ke sanshodhit draft me jeevashm indhan se door hatne aur 120 arab dollar ke jalvayu vitt ka zikr hata diya gaya; 2035 tak bijli ki hissedari 35% karne ka lakshya barkarar hai.",
+      "category": "World",
+      "exam_angle": "COP31, jalvayu vitt — UPSC Environment",
+      "source": "Reuters",
+      "source_url": "https://www.reuters.com/sustainability/climate-focus-cop31-draft-deal-strips-fossil-fuel-references-2026-11-20/",
+      "genuineness": "corroborated",
+      "outlets": [
+        "Reuters",
+        "Down to Earth"
+      ],
+      "image": null,
+      "image_credit": null
+    },
     {
       "id": "world-20261121-1922-01",
       "published_ist": "2026-11-21T12:00:00+05:30",
@@ -391,60 +445,6 @@
         "The Wall Street Journal",
         "MarketWatch",
         "Investopedia"
-      ],
-      "image": null,
-      "image_credit": null
-    },
-    {
-      "id": "world-20261121-1122-01",
-      "published_ist": "2026-11-21T07:14:31+05:30",
-      "headline": "Pancreatic cancer ki nayi goli ne ummeed jagayi",
-      "detail": "Daraxonrasib goli + chemotherapy ke prarambhik trial me 61 mareezon me se 90% me tumour ruk gaya, 12 me se 1 me cancer scan par dikha hi nahi; Cancer Research UK ne ise 'dashakon ki sabse badi pragati' kaha, par doctoron ne kaha abhi ye ilaj nahi, bade trial ki zaroorat hai.",
-      "category": "World",
-      "exam_angle": "KRAS inhibitor, pancreatic cancer trial — UPSC Science & Tech",
-      "source": "Greater Kashmir",
-      "source_url": "https://www.greaterkashmir.com/health/new-pancreatic-cancer-drug-shows-promising-results-tumours-disappear-in-some-patients-12828086",
-      "genuineness": "verified",
-      "outlets": [
-        "BBC",
-        "OncLive",
-        "Mezha"
-      ],
-      "image": null,
-      "image_credit": null
-    },
-    {
-      "id": "world-20261121-0922-01",
-      "published_ist": "2026-11-21T05:39:00+05:30",
-      "headline": "Peru me 6.7 teevrata ka bhukamp, Lima hila",
-      "detail": "Madhya Peru me Junin ke paas 6.7 teevrata ka bhukamp aaya, jhatke Lima tak mehsoos hue; abhi tak koi nuksan ya hatahat ki khabar nahi.",
-      "category": "World",
-      "exam_angle": "Ring of Fire, bhukamp — UPSC Geography",
-      "source": "The Straits Times",
-      "source_url": "https://www.straitstimes.com/world/magnitude-6-9-earthquake-shakes-perus-andes-with-no-damage-or-casualties-immediately-reported?ref=latest",
-      "genuineness": "verified",
-      "outlets": [
-        "The Straits Times",
-        "Xinhua",
-        "CGTN"
-      ],
-      "image": null,
-      "image_credit": null
-    },
-    {
-      "id": "world-20261121-0922-03",
-      "published_ist": "2026-11-21T05:06:00+05:30",
-      "headline": "Nigeria me naav palti, chaar ki maut",
-      "detail": "Bayelsa me janaze me ja rahi bhari hui naav Nun nadi me palat gayi; kam se kam chaar log mare gaye, 24 bachaye gaye, saikadon ke sawaar hone ki aashanka hai.",
-      "category": "World",
-      "exam_angle": "Nigeria, naav durghatna — UPSC IR",
-      "source": "Al Jazeera",
-      "source_url": "https://www.aljazeera.com/news/2026/11/20/overturned-boat-carrying-mourners-to-funeral-kills-at-least-four-in-nigeria?traffic_source=rss",
-      "genuineness": "verified",
-      "outlets": [
-        "Al Jazeera",
-        "Punch",
-        "Channels TV"
       ],
       "image": null,
       "image_credit": null
