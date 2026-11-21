@@ -212,6 +212,76 @@
     ],
     "answer_index": 1
    }
+  },
+  {
+   "episode": 148,
+   "video_hi": "Sgd0hi1MF1g",
+   "video_hinglish": "Sgd0hi1MF1g",
+   "capsules": [
+    {
+     "id": "ca-ep148-s1",
+     "headline_hi": "HPV vaccine ki ek crore doses poori",
+     "headline_hinglish": "HPV vaccine ki ek crore doses poori",
+     "detail_hi": "Nau mahine mein ek crore doses, chaudah saal ki ladkiyon ko muft ek dose.",
+     "detail_hinglish": "Nau mahine mein ek crore doses, chaudah saal ki ladkiyon ko muft ek dose.",
+     "category_hi": "Health",
+     "category_en": "Health"
+    },
+    {
+     "id": "ca-ep148-s2",
+     "headline_hi": "IIT Kharagpur ke pachattar saal poore",
+     "headline_hinglish": "IIT Kharagpur ke pachattar saal poore",
+     "detail_hi": "Desh ka pehla IIT, Google ne paanch million dollar AI research ke liye diye.",
+     "detail_hinglish": "Desh ka pehla IIT, Google ne paanch million dollar AI research ke liye diye.",
+     "category_hi": "Education",
+     "category_en": "Education"
+    },
+    {
+     "id": "ca-ep148-s3",
+     "headline_hi": "BHASHINI: Bharat ki bhashaon mein AI seva",
+     "headline_hinglish": "BHASHINI: Bharat ki bhashaon mein AI seva",
+     "detail_hi": "Har roz lagbhag chaubees million baar istemal, AIIMS aur JIPMER ke saath swasthya seva mein.",
+     "detail_hinglish": "Har roz lagbhag chaubees million baar istemal, AIIMS aur JIPMER ke saath swasthya seva mein.",
+     "category_hi": "Technology",
+     "category_en": "Technology"
+    },
+    {
+     "id": "ca-ep148-s4",
+     "headline_hi": "Navi Mumbai airport: ek din mein do sau flights",
+     "headline_hinglish": "Navi Mumbai airport: ek din mein do sau flights",
+     "detail_hi": "Ek din mein do sau se zyada flights, ab tak ka sabse bada record.",
+     "detail_hinglish": "Ek din mein do sau se zyada flights, ab tak ka sabse bada record.",
+     "category_hi": "Infrastructure",
+     "category_en": "National"
+    },
+    {
+     "id": "ca-ep148-s5",
+     "headline_hi": "NEET paper leak: chaudah aaropiyon par mukadma",
+     "headline_hinglish": "NEET paper leak: chaudah aaropiyon par mukadma",
+     "detail_hi": "Pachees November se mukadma shuru, sabhi chaudah aaropiyon ne aarop nakare.",
+     "detail_hinglish": "Pachees November se mukadma shuru, sabhi chaudah aaropiyon ne aarop nakare.",
+     "category_hi": "Education",
+     "category_en": "Education"
+    }
+   ],
+   "mcq": {
+    "id": "ca-ep148-mcq",
+    "q_hi": "HPV vaccine abhiyan mein kul kitni doses lag chuki hain?",
+    "q_hinglish": "HPV vaccine abhiyan mein kul kitni doses lag chuki hain?",
+    "options_hi": [
+     "Pachaas lakh",
+     "Pachattar lakh",
+     "Ek crore",
+     "Do crore"
+    ],
+    "options_hinglish": [
+     "Pachaas lakh",
+     "Pachattar lakh",
+     "Ek crore",
+     "Do crore"
+    ],
+    "answer_index": 2
+   }
   }
  ]
 }
