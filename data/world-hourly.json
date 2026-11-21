@@ -1,6 +1,62 @@
 {
- "updated_ist": "2026-11-21T11:24:18+05:30",
+ "updated_ist": "2026-11-21T12:23:36+05:30",
  "items": [
+  {
+   "id": "world-20261121-1222-01",
+   "published_ist": "2026-11-21T12:00:00+05:30",
+   "headline": "Europe bhar me Gen Z ke virodh pradarshan",
+   "detail": "25 se zyada deshon me yuvaon ne mehengaai, kiraye, shiksha aur sainya kharch ke khilaf ek saath pradarshan kiye; France me shanivar ko 70,000 police tainat, Italy me aam hadtaal hui.",
+   "category": "World",
+   "exam_angle": "Europe, cost-of-living crisis, yuva virodh — UPSC IR",
+   "source": "The Manila Times",
+   "source_url": "https://www.manilatimes.net/2026/11/21/world/americas-emea/european-protesters-join-forces-over-living-costs/2474970/amp",
+   "genuineness": "verified",
+   "outlets": [
+    "Associated Press",
+    "AFP",
+    "WION",
+    "Times of India"
+   ],
+   "image": null,
+   "image_credit": null
+  },
+  {
+   "id": "world-20261121-1222-02",
+   "published_ist": "2026-11-20T12:00:00+05:30",
+   "headline": "FBI ka crime database hack, jaanch shuru",
+   "detail": "CNN ke anusar FBI apne National Crime Information Center database me sandigdh ghuspaith ki jaanch kar raha hai; isme warrants aur background checks ka data hota hai, kitna data chori hua abhi spasht nahi — kuch mahino me FBI system par doosra hamla hai.",
+   "category": "World",
+   "exam_angle": "Cyber security, NCIC, FBI — UPSC Science & Tech",
+   "source": "Reuters",
+   "source_url": "https://www.reuters.com/world/us/fbis-criminal-information-database-hacked-cnn-reports-2026-11-21/",
+   "genuineness": "verified",
+   "outlets": [
+    "CNN",
+    "Reuters",
+    "The Hindu",
+    "New York Post"
+   ],
+   "image": null,
+   "image_credit": null
+  },
+  {
+   "id": "world-20261121-1222-03",
+   "published_ist": "2026-11-20T12:00:00+05:30",
+   "headline": "Claude ne Riemann Hypothesis suljhane ka dava kiya",
+   "detail": "Anthropic ke ganitagya Levent Alpoge ne kaha Claude ke saath 1859 se ansuljhi Riemann Hypothesis ka praman mila, Lean me code karke jaari kiya; swatantra jaanch abhi baaki hai, praman ki pushti nahi hui hai.",
+   "category": "World",
+   "exam_angle": "Riemann Hypothesis, Millennium Prize, AI in maths — UPSC Science & Tech",
+   "source": "Scientific American",
+   "source_url": "https://www.scientificamerican.com/article/anthropic-mathematician-claims-to-prove-riemann-hypothesis-most-famous-problem-in-all-of-math/",
+   "genuineness": "verified",
+   "outlets": [
+    "Scientific American",
+    "Associated Press",
+    "The Indian Express"
+   ],
+   "image": null,
+   "image_credit": null
+  },
   {
    "id": "world-20261121-1122-01",
    "published_ist": "2026-11-21T07:14:31+05:30",
@@ -82,7 +138,7 @@
    "id": "world-20261121-0922-02",
    "published_ist": "2026-11-21T08:05:00+05:30",
    "headline": "AI sell-off se S&P 500, Dow correction me",
-   "detail": "Shukravar ko S&P 500 3.7% aur Nasdaq 5.3% gira; S&P aur Dow record unchai se 10% se zyada neeche, correction me; Nvidia 14% toota.",
+   "detail": "Shukravar ko S&P 500 3.7% aur Nasdaq 5.3% gira; S&P aur Dow record unchai se 10% se zyada neeche, correction me; Nvidia 14% toota, Nasdaq ne 2026 ke saare fayde mita diye aur October ki unchai se lagbhag 20% neeche hai.",
    "category": "World",
    "exam_angle": "US share bazaar, correction, AI bubble — UPSC Economy",
    "source": "Reuters",
@@ -384,64 +440,6 @@
    "outlets": [
     "AFP",
     "Reuters"
-   ],
-   "image": null,
-   "image_credit": null
-  },
-  {
-   "id": "world-20261120-2222-03",
-   "published_ist": "2026-11-11T12:00:00+05:30",
-   "headline": "Kenya Ebola-mukt ki ore, aakhri mareez chhuta",
-   "detail": "Kenya ne apna aakhri Ebola mareez chhutti de di; saaton mareez theek hue aur 135 sampark wale logon ki nigrani poori hui, 23 December tak koi naya case na aaya to desh Ebola-mukt ghoshit hoga.",
-   "category": "World",
-   "exam_angle": "Ebola, WHO 42-din niyam — UPSC Health",
-   "source": "Citizen Digital",
-   "source_url": "https://citizen.digital/article/kenya-discharges-last-ebola-patient-as-all-7-victims-recover-n393706",
-   "genuineness": "verified",
-   "outlets": [
-    "Associated Press",
-    "BBC",
-    "Citizen Digital"
-   ],
-   "image": null,
-   "image_credit": null
-  },
-  {
-   "id": "world-20261120-2126-01",
-   "published_ist": "2026-11-20T14:58:00+05:30",
-   "headline": "Russia ne NATO-jaisi guarantee kharij ki",
-   "detail": "Russia ke up-videsh mantri Ryabkov ne kaha Ukraine ko NATO ke Article 5 jaisi suraksha guarantee ya 'quasi-membership' bilkul manzoor nahi; Kushner ne ek din pehle dawa kiya tha ki Russia is vichar se sahmat hai.",
-   "category": "World",
-   "exam_angle": "Ukraine shanti vaarta, NATO Article 5 — UPSC IR",
-   "source": "Reuters",
-   "source_url": "https://www.reuters.com/world/russia-pushes-back-against-us-idea-nato-style-security-guarantees-for-ukraine-2026-11-20/",
-   "genuineness": "verified",
-   "outlets": [
-    "Reuters",
-    "The Times",
-    "Kyiv Post",
-    "Ukrainska Pravda",
-    "Al Jazeera",
-    "The Straits Times"
-   ],
-   "image": null,
-   "image_credit": null
-  },
-  {
-   "id": "world-20261120-2126-02",
-   "published_ist": "2026-11-19T20:00:00+05:30",
-   "headline": "Kyiv hamle me dootavas, girjaghar kshatigrast",
-   "detail": "Russia ke din ke drone hamle me Kyiv me ek vyakti mara aur paanch ghayal hue; Austria aur Netherlands ke dootavas aur St Volodymyr Cathedral ki khidkiyan tooti.",
-   "category": "World",
-   "exam_angle": "Russia-Ukraine yuddh, rajnaitik suraksha — UPSC IR",
-   "source": "Channel News Asia",
-   "source_url": "https://www.channelnewsasia.com/world/russia-ukraine-drone-strikes-kyiv-putin-6566896",
-   "genuineness": "verified",
-   "outlets": [
-    "AFP",
-    "Euromaidan Press",
-    "The Kyiv Independent",
-    "h.ua"
    ],
    "image": null,
    "image_credit": null
