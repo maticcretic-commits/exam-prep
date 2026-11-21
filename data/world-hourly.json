@@ -1,6 +1,41 @@
 {
-  "updated_ist": "2026-11-21T18:26:02+05:30",
+  "updated_ist": "2026-11-21T19:23:54+05:30",
   "items": [
+    {
+      "id": "world-20261121-1922-01",
+      "published_ist": "2026-11-21T12:00:00+05:30",
+      "headline": "Kryvyi Rih par triple-tap hamla, bachcha mara",
+      "detail": "Russia ke hamle me Kryvyi Rih me saat saal ka bachcha aur ek paramedic mare gaye, lagbhag 60 log ghayal hue; Zelensky ne ise aam nagrik ilake par hamla bataya.",
+      "category": "World",
+      "exam_angle": "Russia-Ukraine yuddh — UPSC IR",
+      "source": "CNN",
+      "source_url": "https://www.cnn.com/2026/11/21/europe/kryvyi-rih-ukraine-russia-attack-intl?cid=external-feeds_iluminar_meta",
+      "genuineness": "corroborated",
+      "outlets": [
+        "CNN",
+        "Ukrinform"
+      ],
+      "image": null,
+      "image_credit": null
+    },
+    {
+      "id": "world-20261121-1922-02",
+      "published_ist": "2026-11-21T12:00:00+05:30",
+      "headline": "UN: killer robot par niyam 2028 tak",
+      "detail": "Geneva me 128 deshon ne sahmati di ki ghatak swayatt hathiyaron par sambhavit niyam 2028 tak taiyar kiye jayenge; badhyakari niyamon par sahmati nahi bani.",
+      "category": "World",
+      "exam_angle": "UN CCW, swayatt hathiyar — UPSC IR/S&T",
+      "source": "Reuters",
+      "source_url": "https://www.reuters.com/world/states-agree-to-un-talks-aiming-regulate-killer-robots-by-2028-2026-11-21/",
+      "genuineness": "verified",
+      "outlets": [
+        "Reuters",
+        "Al Jazeera",
+        "Associated Press"
+      ],
+      "image": null,
+      "image_credit": null
+    },
     {
       "id": "world-20261121-1822-01",
       "published_ist": "2026-11-21T12:00:00+05:30",
@@ -410,42 +445,6 @@
         "Al Jazeera",
         "Punch",
         "Channels TV"
-      ],
-      "image": null,
-      "image_credit": null
-    },
-    {
-      "id": "world-20261121-1322-04",
-      "published_ist": "2026-11-20T12:00:00+05:30",
-      "headline": "Japan me do US Marines ko chori par saza",
-      "detail": "Japan ki adalat ne 11 million yen ki chori par do US Marines ko nilambit jail ki saza di, dono ko jail nahi jana padega.",
-      "category": "World",
-      "exam_angle": "US-Japan suraksha samjhauta (SOFA) — UPSC IR",
-      "source": "The Straits Times",
-      "source_url": "https://www.straitstimes.com/asia/east-asia/us-marine-in-japan-gets-suspended-sentence-for-thefts-totalling-89000?ref=latest",
-      "genuineness": "verified",
-      "outlets": [
-        "The Straits Times",
-        "WION",
-        "Japan Today"
-      ],
-      "image": null,
-      "image_credit": null
-    },
-    {
-      "id": "world-20261121-1322-03",
-      "published_ist": "2026-11-20T12:00:00+05:30",
-      "headline": "Korea pariksha me 111 chhatra nakal karte pakde",
-      "detail": "South Korea ki college entrance exam me 111 chhatron ke paas banned electronic devices mile, smart glasses aur camera-earphone bhi pakde gaye.",
-      "category": "World",
-      "exam_angle": "Parikshaon me AI se nakal par rok — UPSC",
-      "source": "Yonhap",
-      "source_url": "https://en.yna.co.kr/view/AEN20261120004400315?section=national/national",
-      "genuineness": "verified",
-      "outlets": [
-        "Yonhap",
-        "Korea Times",
-        "Korea Herald"
       ],
       "image": null,
       "image_credit": null
