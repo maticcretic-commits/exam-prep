@@ -72,6 +72,76 @@
     ],
     "answer_index": 2
    }
+  },
+  {
+   "episode": 146,
+   "video_hi": "lp69c27sdZo",
+   "video_hinglish": "lp69c27sdZo",
+   "capsules": [
+    {
+     "id": "ca-ep146-s1",
+     "headline_hi": "NSE duniya ka paanchva sabse bada exchange bana",
+     "headline_hinglish": "NSE duniya ka paanchva sabse bada exchange bana",
+     "detail_hi": "NASDAQ aur Hong Kong ko peeche chhod diya.",
+     "detail_hinglish": "NASDAQ aur Hong Kong ko peeche chhod diya.",
+     "category_hi": "Economy",
+     "category_en": "Economy"
+    },
+    {
+     "id": "ca-ep146-s2",
+     "headline_hi": "KL Rahul: SENA deshon mein shatak ka record",
+     "headline_hinglish": "KL Rahul: SENA deshon mein shatak ka record",
+     "detail_hi": "Wellington Test mein century, chaaron SENA deshon mein shatak lagane wale pehle Indian opener.",
+     "detail_hinglish": "Wellington Test mein century, chaaron SENA deshon mein shatak lagane wale pehle Indian opener.",
+     "category_hi": "Sports",
+     "category_en": "Sports"
+    },
+    {
+     "id": "ca-ep146-s3",
+     "headline_hi": "Kuno mein cheetah ke chaar shavakon ka janm",
+     "headline_hinglish": "Kuno mein cheetah ke chaar shavakon ka janm",
+     "detail_hi": "Botswana se aayi cheetah ki santan se Kuno mein cheetah parivar badha.",
+     "detail_hinglish": "Botswana se aayi cheetah ki santan se Kuno mein cheetah parivar badha.",
+     "category_hi": "Environment",
+     "category_en": "Environment"
+    },
+    {
+     "id": "ca-ep146-s4",
+     "headline_hi": "Nepal ke PM Balendra Shah Bharat aayenge",
+     "headline_hinglish": "Nepal ke PM Balendra Shah Bharat aayenge",
+     "detail_hi": "Baais se tees November tak state visit, PM Modi se mulaqaat hogi.",
+     "detail_hinglish": "Baais se tees November tak state visit, PM Modi se mulaqaat hogi.",
+     "category_hi": "International",
+     "category_en": "National"
+    },
+    {
+     "id": "ca-ep146-s5",
+     "headline_hi": "Antibiotic resistance par desh bhar mein jagrukta saptah",
+     "headline_hinglish": "Antibiotic resistance par desh bhar mein jagrukta saptah",
+     "detail_hi": "Health Ministry ne AMR Action Plan 2.0 par zor diya.",
+     "detail_hinglish": "Health Ministry ne AMR Action Plan 2.0 par zor diya.",
+     "category_hi": "Health",
+     "category_en": "Health"
+    }
+   ],
+   "mcq": {
+    "id": "ca-ep146-mcq",
+    "q_hi": "NSE duniya ka kaunsa sabse bada listed exchange ban gaya hai?",
+    "q_hinglish": "NSE duniya ka kaunsa sabse bada listed exchange ban gaya hai?",
+    "options_hi": [
+     "Teesra",
+     "Chautha",
+     "Paanchva",
+     "Chhatha"
+    ],
+    "options_hinglish": [
+     "Teesra",
+     "Chautha",
+     "Paanchva",
+     "Chhatha"
+    ],
+    "answer_index": 2
+   }
   }
  ]
 }
