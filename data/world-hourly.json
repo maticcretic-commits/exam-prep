@@ -1,6 +1,81 @@
 {
-  "updated_ist": "2026-11-21T16:25:50+05:30",
+  "updated_ist": "2026-11-21T17:24:46+05:30",
   "items": [
+    {
+      "id": "world-20261121-1722-01",
+      "published_ist": "2026-11-21T12:00:00+05:30",
+      "headline": "Gulf of Finland me Russian jahaz par hamla",
+      "detail": "Kaliningrad ja raha Russian cargo jahaz Sparta II Finland ki khaadi me do drone hamle ke baad aag ki lapet me aaya; chaalak dal ko nikala ja raha hai, Finland ki sena ne bhi hamle ki pushti ki.",
+      "category": "World",
+      "exam_angle": "Baltic, Russia-Ukraine yuddh, samudri suraksha — UPSC IR",
+      "source": "Turkiye Today",
+      "source_url": "https://www.turkiyetoday.com/world/drones-hit-russian-cargo-ship-bound-for-kaliningrad-in-gulf-of-finland-3232911",
+      "genuineness": "verified",
+      "outlets": [
+        "TRT World",
+        "Turkiye Today",
+        "NAMPA",
+        "Mezha",
+        "United24 Media"
+      ],
+      "image": "../images/world/world-20261121-1722-01.jpg",
+      "image_credit": "Turkiye Today"
+    },
+    {
+      "id": "world-20261121-1722-02",
+      "published_ist": "2026-11-21T16:15:00+05:30",
+      "headline": "China ke Qinghai me 5.6 teevrata ka bhukamp",
+      "detail": "Delingha ke paas bhukamp aaya — China ke CENC ke anusar 5.6 aur GFZ ke anusar 5.8 teevrata; gehrai 10 km, jhatke Delingha me zor se mehsoos hue, nuksan aur hatahat ki jaanch jaari hai.",
+      "category": "World",
+      "exam_angle": "Bhukamp, China — UPSC Geography",
+      "source": "CGTN",
+      "source_url": "https://news.cgtn.com/news/2026-11-21/news-1SfTvSaYabK/p.html",
+      "genuineness": "verified",
+      "outlets": [
+        "CGTN",
+        "Xinhua",
+        "GFZ",
+        "Reuters"
+      ],
+      "image": null,
+      "image_credit": null
+    },
+    {
+      "id": "world-20261121-1722-03",
+      "published_ist": "2026-11-21T12:00:00+05:30",
+      "headline": "Hormuz ke paas doosre tanker par hamla",
+      "detail": "UKMTO ke anusar Hormuz se nikalte doosre tanker ko engine room me ajnabee projectile laga, Khasab se 17 nautical miles poorv; Iran ki nausena ne kaha ek tanker restricted area me mine se takraya, par ye pushti nahi hui ki dono ek hi ghatna hain.",
+      "category": "World",
+      "exam_angle": "Hormuz, urja suraksha — UPSC IR",
+      "source": "The Straits Times",
+      "source_url": "https://www.straitstimes.com/world/europe/tanker-hit-by-unknown-projectile-near-omans-khasab-ukmto-says",
+      "genuineness": "corroborated",
+      "outlets": [
+        "UKMTO",
+        "The Straits Times",
+        "Outlook India",
+        "Arab News"
+      ],
+      "image": null,
+      "image_credit": null
+    },
+    {
+      "id": "world-20261121-1722-04",
+      "published_ist": "2026-11-21T12:00:00+05:30",
+      "headline": "Gaza me Israeli hamle me teen ki maut",
+      "detail": "Gaza City ke Tel al-Hawa me Israeli yuddh vimanon ne ek gaadi par bam giraya, teen log mare gaye aur kai ghayal hue.",
+      "category": "World",
+      "exam_angle": "Gaza, Israel-Palestine — UPSC IR",
+      "source": "WAFA",
+      "source_url": "https://english.wafa.ps/Pages/Details/177167",
+      "genuineness": "corroborated",
+      "outlets": [
+        "WAFA",
+        "Outlook India"
+      ],
+      "image": null,
+      "image_credit": null
+    },
     {
       "id": "world-20261121-1622-01",
       "published_ist": "2026-11-20T12:00:00+05:30",
@@ -369,79 +444,6 @@
         "South China Morning Post",
         "The Hindu",
         "Times Now"
-      ],
-      "image": null,
-      "image_credit": null
-    },
-    {
-      "id": "world-20261121-0822-02",
-      "published_ist": "2026-11-20T12:00:00+05:30",
-      "headline": "Britain-EU ne Brexit reset samjhauta kiya",
-      "detail": "Brussels shikhar me Britain aur EU ne khadya vyapar, yuva gatishilta aur carbon vyapar par samjhote kiye; 18-31 saal ke ek lakh yuva teen saal tak doosri taraf reh sakenge.",
-      "category": "World",
-      "exam_angle": "UK-EU reset, Brexit, CBAM — UPSC IR",
-      "source": "Reuters",
-      "source_url": "https://www.reuters.com/world/uk/what-eu-uk-have-agreed-summit-2026-11-20/",
-      "genuineness": "verified",
-      "outlets": [
-        "Reuters",
-        "Al Jazeera",
-        "Moneycontrol"
-      ],
-      "image": "../images/world/world-20261121-0822-02.jpg",
-      "image_credit": "Al Jazeera"
-    },
-    {
-      "id": "world-20261121-0727-03",
-      "published_ist": "2026-11-20T12:00:00+05:30",
-      "headline": "Pannun sajish: Gupta ko 19 saal ki saza",
-      "detail": "New York ki federal adaalat ne Nikhil Gupta ko Gurpatwant Singh Pannun ki hatya ki sajish me 235 mahine ki saza sunayi; Gupta ne February me aarop kabool kiye the.",
-      "category": "World",
-      "exam_angle": "Pannun mamla, Bharat-America sambandh — UPSC IR",
-      "source": "Reuters",
-      "source_url": "https://www.reuters.com/world/us/indian-man-sentenced-more-than-19-years-us-plotting-kill-sikh-separatist-2026-11-20/",
-      "genuineness": "verified",
-      "outlets": [
-        "Reuters",
-        "Al Jazeera",
-        "The Hindu",
-        "NDTV"
-      ],
-      "image": null,
-      "image_credit": null
-    },
-    {
-      "id": "world-20261121-0727-02",
-      "published_ist": "2026-11-20T12:00:00+05:30",
-      "headline": "Russia ka Ukraine par sabse bada hawai hamla",
-      "detail": "Russia ne raat bhar 400 se zyada drone aur 110 se zyada missile daage, Kyiv ke teen pulon aur bijli dhanchon ko nishana banaya; aath log mare gaye aur lagbhag 30 ghayal hue.",
-      "category": "World",
-      "exam_angle": "Russia-Ukraine yuddh, Kerch Bridge — UPSC IR",
-      "source": "Al Jazeera",
-      "source_url": "https://www.aljazeera.com/amp/news/2026/11/20/russia-unleashes-retaliatory-barrage-on-kyiv-bridges",
-      "genuineness": "verified",
-      "outlets": [
-        "Al Jazeera",
-        "CNN",
-        "Interfax",
-        "The New Indian Express"
-      ],
-      "image": null,
-      "image_credit": null
-    },
-    {
-      "id": "world-20261121-0622-03",
-      "published_ist": "2026-11-20T12:00:00+05:30",
-      "headline": "Denmark ne rapper-hatya sajish nakam ki",
-      "detail": "Denmark ne kaha uski police ne September me Copenhagen me US-Ukrainian rapper Kyivstoner ki hatya ki koshish nakam ki, jisme Russia ki khufiya seva ka haath bataya gaya; teen log giraftar hue aur Russia ke raksha attache ko nikal diya gaya.",
-      "category": "World",
-      "exam_angle": "Russia-Denmark, khufiya seva — UPSC IR",
-      "source": "Reuters",
-      "source_url": "https://www.reuters.com/world/europe/two-danes-suspected-being-hired-by-russia-kill-us-ukrainian-rapper-2026-11-20/",
-      "genuineness": "corroborated",
-      "outlets": [
-        "Reuters",
-        "News Media House"
       ],
       "image": null,
       "image_credit": null
