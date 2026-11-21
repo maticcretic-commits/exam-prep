@@ -1,452 +1,451 @@
 {
- "updated_ist": "2026-11-21T14:26:44+05:30",
- "items": [
-  {
-   "id": "world-20261121-1422-01",
-   "published_ist": "2026-11-21T12:00:00+05:30",
-   "headline": "Hormuz me tanker par hamla, koi ghayal nahi",
-   "detail": "Hormuz se bahar ja rahe tanker ko Khasab se 11 nautical miles uttar ajnabee projectile laga; UKMTO ke anusar koi ghayal nahi hua, paryavaran par asar abhi agyaat hai.",
-   "category": "World",
-   "exam_angle": "Hormuz jaladmarumadhya, urja suraksha — UPSC IR",
-   "source": "Reuters",
-   "source_url": "https://www.reuters.com/business/energy/tanker-hit-by-unknown-projectile-near-omans-khasab-ukmto-says-2026-11-21/",
-   "genuineness": "corroborated",
-   "outlets": [
-    "Reuters",
-    "Times of Israel"
-   ],
-   "image": null,
-   "image_credit": null
-  },
-  {
-   "id": "world-20261121-1422-02",
-   "published_ist": "2026-11-21T11:36:25+05:30",
-   "headline": "Ramallah me basti guard ne ek ko maara",
-   "detail": "Beit El basti ke suraksha guard ne Dura al-Qar gaon ke paas 42 saal ke Hamza Masoud Salim Abdo ko goli maari; shav roka gaya aur doosra vyakti giraftar hua.",
-   "category": "World",
-   "exam_angle": "West Bank, Israel-Palestine — UPSC IR",
-   "source": "ARY News",
-   "source_url": "https://arynews.tv/west-bank-settler-guard-shoots-dead-palestinian-man",
-   "genuineness": "verified",
-   "outlets": [
-    "ARY News",
-    "Haaretz",
-    "WAFA",
-    "SANA"
-   ],
-   "image": null,
-   "image_credit": null
-  },
-  {
-   "id": "world-20261121-0822-03",
-   "published_ist": "2026-11-21T12:00:00+05:30",
-   "headline": "COP31 samay se aage, jeevashm indhan par atka",
-   "detail": "Antalya me COP31 vaarta 21 November tak badh gayi; naya masuda jeevashm indhan ka zikr hata deta hai aur 120 arab dollar ki anukoolan vitt ki rakam bhi gayab hai — teesra masuda aaj aayega.",
-   "category": "World",
-   "exam_angle": "COP31, jalvayu vitt, jeevashm indhan — UPSC Environment",
-   "source": "Reuters",
-   "source_url": "https://www.reuters.com/sustainability/cop/cop31-climate-talks-spill-into-overtime-nations-quarrel-over-fossil-fuels-2026-11-20/",
-   "genuineness": "verified",
-   "outlets": [
-    "Reuters",
-    "AFP",
-    "The Daily Star",
-    "Free Malaysia Today",
-    "Hürriyet Daily News",
-    "Tribune"
-   ],
-   "image": null,
-   "image_credit": null
-  },
-  {
-   "id": "world-20261121-1322-02",
-   "published_ist": "2026-11-21T12:00:00+05:30",
-   "headline": "Bangladesh me aagjani badhi, Grameen Bank nishane par",
-   "detail": "Hasina ki wapsi ko lekar Bangladesh me aagjani aur hamle badhe, Grameen Bank ki 72 shakhaon par hamla hua aur 124 log giraftar hue.",
-   "category": "World",
-   "exam_angle": "Bangladesh ki rajneeti, Bharat se sambandh — UPSC IR",
-   "source": "Dawn",
-   "source_url": "https://www.dawn.com/news/2046066/fresh-arson-attacks-rock-bangladesh",
-   "genuineness": "verified",
-   "outlets": [
-    "Dawn",
-    "Daily Sun",
-    "Firstpost",
-    "Moneycontrol"
-   ],
-   "image": null,
-   "image_credit": null
-  },
-  {
-   "id": "world-20261121-1322-01",
-   "published_ist": "2026-11-21T12:00:00+05:30",
-   "headline": "Basra me gas pipeline phati, chaar ki maut",
-   "detail": "Basra ke Hartha power station ke paas gas pipeline phatne se aag lag gayi, kam se kam chaar ki maut aur 35 ghayal hue.",
-   "category": "World",
-   "exam_angle": "Iraq, West Asia — UPSC IR",
-   "source": "The National",
-   "source_url": "https://www.thenationalnews.com/news/mena/2026/11/21/basra-gas-explosion-kills-two-and-injures-dozens/",
-   "genuineness": "verified",
-   "outlets": [
-    "The National",
-    "Shafaq News",
-    "WION",
-    "Roya News"
-   ],
-   "image": null,
-   "image_credit": null
-  },
-  {
-   "id": "world-20261121-1222-01",
-   "published_ist": "2026-11-21T12:00:00+05:30",
-   "headline": "Europe bhar me Gen Z ke virodh pradarshan",
-   "detail": "25 se zyada deshon me yuvaon ne mehengaai, kiraye, shiksha aur sainya kharch ke khilaf ek saath pradarshan kiye; France me shanivar ko 70,000 police tainat, Italy me aam hadtaal hui.",
-   "category": "World",
-   "exam_angle": "Europe, cost-of-living crisis, yuva virodh — UPSC IR",
-   "source": "The Manila Times",
-   "source_url": "https://www.manilatimes.net/2026/11/21/world/americas-emea/european-protesters-join-forces-over-living-costs/2474970/amp",
-   "genuineness": "verified",
-   "outlets": [
-    "Associated Press",
-    "AFP",
-    "WION",
-    "Times of India"
-   ],
-   "image": null,
-   "image_credit": null
-  },
-  {
-   "id": "world-20261121-0822-01",
-   "published_ist": "2026-11-21T12:00:00+05:30",
-   "headline": "Houthi missile Riyadh ki ore, Saudi ne roki",
-   "detail": "Saudi netritva wale gathbandhan ne Riyadh ki taraf daage gaye teen ballistic missile giraye; isse pehle Hodeidah bandargah aur Sanaa me Houthi thikanon par hamle hue.",
-   "category": "World",
-   "exam_angle": "Yemen yuddh, Houthi, West Asia — UPSC IR",
-   "source": "The Straits Times",
-   "source_url": "https://www.straitstimes.com/world/middle-east/saudi-arabia-says-it-intercepts-three-houthi-missiles-targeting-riyadh?ref=latest",
-   "genuineness": "verified",
-   "outlets": [
-    "The Straits Times",
-    "Al Jazeera",
-    "The Jerusalem Post"
-   ],
-   "image": null,
-   "image_credit": null
-  },
-  {
-   "id": "world-20261121-0922-02",
-   "published_ist": "2026-11-21T08:05:00+05:30",
-   "headline": "AI sell-off se S&P 500, Dow correction me",
-   "detail": "Shukravar ko S&P 500 3.7% aur Nasdaq 5.3% gira; S&P aur Dow record unchai se 10% se zyada neeche, correction me; Nvidia 14% toota, Nasdaq ne 2026 ke saare fayde mita diye aur October ki unchai se lagbhag 20% neeche hai.",
-   "category": "World",
-   "exam_angle": "US share bazaar, correction, AI bubble — UPSC Economy",
-   "source": "Reuters",
-   "source_url": "https://www.tradingview.com/news/moneycontrol:7063c4045094b:0-wall-street-ends-sharply-lower-on-ai-selloff-s-p-500-dow-in-correction/",
-   "genuineness": "verified",
-   "outlets": [
-    "Reuters",
-    "The Wall Street Journal",
-    "MarketWatch",
-    "Investopedia"
-   ],
-   "image": null,
-   "image_credit": null
-  },
-  {
-   "id": "world-20261121-1122-01",
-   "published_ist": "2026-11-21T07:14:31+05:30",
-   "headline": "Pancreatic cancer ki nayi goli ne ummeed jagayi",
-   "detail": "Daraxonrasib goli + chemotherapy ke prarambhik trial me 61 mareezon me se 90% me tumour ruk gaya, 12 me se 1 me cancer scan par dikha hi nahi; Cancer Research UK ne ise 'dashakon ki sabse badi pragati' kaha, par doctoron ne kaha abhi ye ilaj nahi, bade trial ki zaroorat hai.",
-   "category": "World",
-   "exam_angle": "KRAS inhibitor, pancreatic cancer trial — UPSC Science & Tech",
-   "source": "Greater Kashmir",
-   "source_url": "https://www.greaterkashmir.com/health/new-pancreatic-cancer-drug-shows-promising-results-tumours-disappear-in-some-patients-12828086",
-   "genuineness": "verified",
-   "outlets": [
-    "BBC",
-    "OncLive",
-    "Mezha"
-   ],
-   "image": null,
-   "image_credit": null
-  },
-  {
-   "id": "world-20261121-0922-01",
-   "published_ist": "2026-11-21T05:39:00+05:30",
-   "headline": "Peru me 6.7 teevrata ka bhukamp, Lima hila",
-   "detail": "Madhya Peru me Junin ke paas 6.7 teevrata ka bhukamp aaya, jhatke Lima tak mehsoos hue; abhi tak koi nuksan ya hatahat ki khabar nahi.",
-   "category": "World",
-   "exam_angle": "Ring of Fire, bhukamp — UPSC Geography",
-   "source": "The Straits Times",
-   "source_url": "https://www.straitstimes.com/world/magnitude-6-9-earthquake-shakes-perus-andes-with-no-damage-or-casualties-immediately-reported?ref=latest",
-   "genuineness": "verified",
-   "outlets": [
-    "The Straits Times",
-    "Xinhua",
-    "CGTN"
-   ],
-   "image": null,
-   "image_credit": null
-  },
-  {
-   "id": "world-20261121-0922-03",
-   "published_ist": "2026-11-21T05:06:00+05:30",
-   "headline": "Nigeria me naav palti, chaar ki maut",
-   "detail": "Bayelsa me janaze me ja rahi bhari hui naav Nun nadi me palat gayi; kam se kam chaar log mare gaye, 24 bachaye gaye, saikadon ke sawaar hone ki aashanka hai.",
-   "category": "World",
-   "exam_angle": "Nigeria, naav durghatna — UPSC IR",
-   "source": "Al Jazeera",
-   "source_url": "https://www.aljazeera.com/news/2026/11/20/overturned-boat-carrying-mourners-to-funeral-kills-at-least-four-in-nigeria?traffic_source=rss",
-   "genuineness": "verified",
-   "outlets": [
-    "Al Jazeera",
-    "Punch",
-    "Channels TV"
-   ],
-   "image": null,
-   "image_credit": null
-  },
-  {
-   "id": "world-20261121-1322-04",
-   "published_ist": "2026-11-20T12:00:00+05:30",
-   "headline": "Japan me do US Marines ko chori par saza",
-   "detail": "Japan ki adalat ne 11 million yen ki chori par do US Marines ko nilambit jail ki saza di, dono ko jail nahi jana padega.",
-   "category": "World",
-   "exam_angle": "US-Japan suraksha samjhauta (SOFA) — UPSC IR",
-   "source": "The Straits Times",
-   "source_url": "https://www.straitstimes.com/asia/east-asia/us-marine-in-japan-gets-suspended-sentence-for-thefts-totalling-89000?ref=latest",
-   "genuineness": "verified",
-   "outlets": [
-    "The Straits Times",
-    "WION",
-    "Japan Today"
-   ],
-   "image": null,
-   "image_credit": null
-  },
-  {
-   "id": "world-20261121-1322-03",
-   "published_ist": "2026-11-20T12:00:00+05:30",
-   "headline": "Korea pariksha me 111 chhatra nakal karte pakde",
-   "detail": "South Korea ki college entrance exam me 111 chhatron ke paas banned electronic devices mile, smart glasses aur camera-earphone bhi pakde gaye.",
-   "category": "World",
-   "exam_angle": "Parikshaon me AI se nakal par rok — UPSC",
-   "source": "Yonhap",
-   "source_url": "https://en.yna.co.kr/view/AEN20261120004400315?section=national/national",
-   "genuineness": "verified",
-   "outlets": [
-    "Yonhap",
-    "Korea Times",
-    "Korea Herald"
-   ],
-   "image": null,
-   "image_credit": null
-  },
-  {
-   "id": "world-20261121-1222-03",
-   "published_ist": "2026-11-20T12:00:00+05:30",
-   "headline": "Claude ne Riemann Hypothesis suljhane ka dava kiya",
-   "detail": "Anthropic ke ganitagya Levent Alpoge ne kaha Claude ke saath 1859 se ansuljhi Riemann Hypothesis ka praman mila, Lean me code karke jaari kiya; swatantra jaanch abhi baaki hai, praman ki pushti nahi hui hai.",
-   "category": "World",
-   "exam_angle": "Riemann Hypothesis, Millennium Prize, AI in maths — UPSC Science & Tech",
-   "source": "Scientific American",
-   "source_url": "https://www.scientificamerican.com/article/anthropic-mathematician-claims-to-prove-riemann-hypothesis-most-famous-problem-in-all-of-math/",
-   "genuineness": "verified",
-   "outlets": [
-    "Scientific American",
-    "Associated Press",
-    "The Indian Express"
-   ],
-   "image": null,
-   "image_credit": null
-  },
-  {
-   "id": "world-20261121-1222-02",
-   "published_ist": "2026-11-20T12:00:00+05:30",
-   "headline": "FBI ka crime database hack, jaanch shuru",
-   "detail": "CNN ke anusar FBI apne National Crime Information Center database me sandigdh ghuspaith ki jaanch kar raha hai; isme warrants aur background checks ka data hota hai, kitna data chori hua abhi spasht nahi — kuch mahino me FBI system par doosra hamla hai.",
-   "category": "World",
-   "exam_angle": "Cyber security, NCIC, FBI — UPSC Science & Tech",
-   "source": "Reuters",
-   "source_url": "https://www.reuters.com/world/us/fbis-criminal-information-database-hacked-cnn-reports-2026-11-21/",
-   "genuineness": "verified",
-   "outlets": [
-    "CNN",
-    "Reuters",
-    "The Hindu",
-    "New York Post"
-   ],
-   "image": null,
-   "image_credit": null
-  },
-  {
-   "id": "world-20261121-1022-03",
-   "published_ist": "2026-11-20T12:00:00+05:30",
-   "headline": "Estonia ne Russia se seema chhah mahine band ki",
-   "detail": "Estonia 1 December se Russia se apni paanchon seema crossing kam se kam chhah mahine ke liye band karega; drone company par aagajani ke baad suraksha ka faisla, Moscow ne 'naya Iron Curtain' kaha.",
-   "category": "World",
-   "exam_angle": "NATO-EU sadasya, hybrid warfare — UPSC IR",
-   "source": "Reuters",
-   "source_url": "https://www.reuters.com/world/estonia-close-border-with-russia-least-six-months-2026-11-20/",
-   "genuineness": "verified",
-   "outlets": [
-    "Reuters",
-    "Al Jazeera",
-    "South China Morning Post",
-    "The Hindu",
-    "Times Now"
-   ],
-   "image": null,
-   "image_credit": null
-  },
-  {
-   "id": "world-20261121-0822-02",
-   "published_ist": "2026-11-20T12:00:00+05:30",
-   "headline": "Britain-EU ne Brexit reset samjhauta kiya",
-   "detail": "Brussels shikhar me Britain aur EU ne khadya vyapar, yuva gatishilta aur carbon vyapar par samjhote kiye; 18-31 saal ke ek lakh yuva teen saal tak doosri taraf reh sakenge.",
-   "category": "World",
-   "exam_angle": "UK-EU reset, Brexit, CBAM — UPSC IR",
-   "source": "Reuters",
-   "source_url": "https://www.reuters.com/world/uk/what-eu-uk-have-agreed-summit-2026-11-20/",
-   "genuineness": "verified",
-   "outlets": [
-    "Reuters",
-    "Al Jazeera",
-    "Moneycontrol"
-   ],
-   "image": "../images/world/world-20261121-0822-02.jpg",
-   "image_credit": "Al Jazeera"
-  },
-  {
-   "id": "world-20261121-0727-03",
-   "published_ist": "2026-11-20T12:00:00+05:30",
-   "headline": "Pannun sajish: Gupta ko 19 saal ki saza",
-   "detail": "New York ki federal adaalat ne Nikhil Gupta ko Gurpatwant Singh Pannun ki hatya ki sajish me 235 mahine ki saza sunayi; Gupta ne February me aarop kabool kiye the.",
-   "category": "World",
-   "exam_angle": "Pannun mamla, Bharat-America sambandh — UPSC IR",
-   "source": "Reuters",
-   "source_url": "https://www.reuters.com/world/us/indian-man-sentenced-more-than-19-years-us-plotting-kill-sikh-separatist-2026-11-20/",
-   "genuineness": "verified",
-   "outlets": [
-    "Reuters",
-    "Al Jazeera",
-    "The Hindu",
-    "NDTV"
-   ],
-   "image": null,
-   "image_credit": null
-  },
-  {
-   "id": "world-20261121-0727-02",
-   "published_ist": "2026-11-20T12:00:00+05:30",
-   "headline": "Russia ka Ukraine par sabse bada hawai hamla",
-   "detail": "Russia ne raat bhar 400 se zyada drone aur 110 se zyada missile daage, Kyiv ke teen pulon aur bijli dhanchon ko nishana banaya; aath log mare gaye aur lagbhag 30 ghayal hue.",
-   "category": "World",
-   "exam_angle": "Russia-Ukraine yuddh, Kerch Bridge — UPSC IR",
-   "source": "Al Jazeera",
-   "source_url": "https://www.aljazeera.com/amp/news/2026/11/20/russia-unleashes-retaliatory-barrage-on-kyiv-bridges",
-   "genuineness": "verified",
-   "outlets": [
-    "Al Jazeera",
-    "CNN",
-    "Interfax",
-    "The New Indian Express"
-   ],
-   "image": null,
-   "image_credit": null
-  },
-  {
-   "id": "world-20261121-0622-03",
-   "published_ist": "2026-11-20T12:00:00+05:30",
-   "headline": "Denmark ne rapper-hatya sajish nakam ki",
-   "detail": "Denmark ne kaha uski police ne September me Copenhagen me US-Ukrainian rapper Kyivstoner ki hatya ki koshish nakam ki, jisme Russia ki khufiya seva ka haath bataya gaya; teen log giraftar hue aur Russia ke raksha attache ko nikal diya gaya.",
-   "category": "World",
-   "exam_angle": "Russia-Denmark, khufiya seva — UPSC IR",
-   "source": "Reuters",
-   "source_url": "https://www.reuters.com/world/europe/two-danes-suspected-being-hired-by-russia-kill-us-ukrainian-rapper-2026-11-20/",
-   "genuineness": "corroborated",
-   "outlets": [
-    "Reuters",
-    "News Media House"
-   ],
-   "image": null,
-   "image_credit": null
-  },
-  {
-   "id": "world-20261121-0622-02",
-   "published_ist": "2026-11-20T12:00:00+05:30",
-   "headline": "Trump ko January tak Ukraine shanti samjhauta chahiye",
-   "detail": "Financial Times ki report ke anusar Trump prashasan chahta hai Ukraine-Russia shanti samjhauta January 2027 ki shuruaat tak ho, Democrats ke Congress sambhalne se pehle; Witkoff aur Kushner ne Moscow, Dublin aur Berlin me vaarta ki.",
-   "category": "World",
-   "exam_angle": "Ukraine shanti vaarta, US Congress — UPSC IR",
-   "source": "Times Now",
-   "source_url": "https://www.timesnownews.com/world/trump-wants-ukraine-peace-deal-by-january-before-democrats-take-congress-report-article-156543781",
-   "genuineness": "verified",
-   "outlets": [
-    "Financial Times",
-    "Times Now",
-    "Ukrinform"
-   ],
-   "image": null,
-   "image_credit": null
-  },
-  {
-   "id": "world-20261121-1022-01",
-   "published_ist": "2026-11-20T11:00:00+05:30",
-   "headline": "Russia ki missile Poland me giri",
-   "detail": "Do cruise missile aur ek jet-powered drone dakshin-purvi Poland me gire, koi ghayal nahi; PM Tusk ne ise jaanboojh kar uksava bataya, NATO ne 'grave violation' kaha.",
-   "category": "World",
-   "exam_angle": "NATO Article 5, Poland ki suraksha — UPSC IR",
-   "source": "Associated Press",
-   "source_url": "https://beta.manilatimes.net/2026/11/21/world/americas-emea/russian-missiles-land-in-poland-as-europe-held-military-drills-nearby-nato-calls-it-a-violation/2475390/amp",
-   "genuineness": "verified",
-   "outlets": [
-    "Reuters",
-    "Associated Press",
-    "BBC",
-    "Times of India"
-   ],
-   "image": null,
-   "image_credit": null
-  },
-  {
-   "id": "world-20261121-1022-02",
-   "published_ist": "2026-11-19T12:00:00+05:30",
-   "headline": "Anthropic ka IPO itihaas me sabse bada",
-   "detail": "Anthropic ne $81 arab jutaye — duniya ka sabse bada IPO; share $83 par list hokar $111.50 par khule aur $97.17 par band hue.",
-   "category": "World",
-   "exam_angle": "Sabse bada IPO, AI company ki listing — UPSC Economy",
-   "source": "NPR",
-   "source_url": "https://www.wcmu.org/national-world-news/2026-11-19/investors-scramble-for-a-piece-of-ai-giant-anthropic-in-blockbuster-ipo",
-   "genuineness": "verified",
-   "outlets": [
-    "NPR",
-    "The Wall Street Journal",
-    "Forbes India",
-    "The Indian Express",
-    "TRT World"
-   ],
-   "image": null,
-   "image_credit": null
-  },
-  {
-   "id": "world-20261121-0822-04",
-   "published_ist": "2026-11-19T12:00:00+05:30",
-   "headline": "Pehli baar Japan sena Bharat me live-fire abhyas",
-   "detail": "Tokyo me 2+2 vaarta me Bharat aur Japan ne samjhauta kiya — Japan ki sena pehli baar Bharat ki firing range me live-fire abhyas karegi, surface-to-ship missile sahit.",
-   "category": "World",
-   "exam_angle": "Bharat-Japan 2+2, raksha sahyog — UPSC IR",
-   "source": "The Hindu",
-   "source_url": "https://www.thehindu.com/news/national/in-a-first-japanese-forces-will-use-indian-facilities-for-live-fire-training/article71721191.ece",
-   "genuineness": "verified",
-   "outlets": [
-    "The Hindu",
-    "The Statesman",
-    "The Indian Express",
-    "Times of India"
-   ],
-   "image": null,
-   "image_credit": null
-  }
- ]
+  "updated_ist": "2026-11-21T15:24:25+05:30",
+  "items": [
+    {
+      "id": "world-20261121-1422-01",
+      "published_ist": "2026-11-21T12:00:00+05:30",
+      "headline": "Hormuz me tanker par hamla, koi ghayal nahi",
+      "detail": "Hormuz se bahar ja rahe tanker ko Khasab se 11 nautical miles uttar ajnabee projectile laga; UKMTO ke anusar koi ghayal nahi hua, paryavaran par asar abhi agyaat hai.",
+      "category": "World",
+      "exam_angle": "Hormuz jaladmarumadhya, urja suraksha — UPSC IR",
+      "source": "Reuters",
+      "source_url": "https://www.reuters.com/business/energy/tanker-hit-by-unknown-projectile-near-omans-khasab-ukmto-says-2026-11-21/",
+      "genuineness": "corroborated",
+      "outlets": [
+        "Reuters",
+        "Times of Israel"
+      ],
+      "image": null,
+      "image_credit": null
+    },
+    {
+      "id": "world-20261121-0822-03",
+      "published_ist": "2026-11-21T12:00:00+05:30",
+      "headline": "COP31 samay se aage, jeevashm indhan par atka",
+      "detail": "Antalya me COP31 vaarta 21 November tak badh gayi; naya masuda jeevashm indhan ka zikr hata deta hai aur 120 arab dollar ki anukoolan vitt ki rakam bhi gayab hai — teesra masuda aaj aayega.",
+      "category": "World",
+      "exam_angle": "COP31, jalvayu vitt, jeevashm indhan — UPSC Environment",
+      "source": "Reuters",
+      "source_url": "https://www.reuters.com/sustainability/cop/cop31-climate-talks-spill-into-overtime-nations-quarrel-over-fossil-fuels-2026-11-20/",
+      "genuineness": "verified",
+      "outlets": [
+        "Reuters",
+        "AFP",
+        "The Daily Star",
+        "Free Malaysia Today",
+        "Hürriyet Daily News",
+        "Tribune"
+      ],
+      "image": null,
+      "image_credit": null
+    },
+    {
+      "id": "world-20261121-1322-02",
+      "published_ist": "2026-11-21T12:00:00+05:30",
+      "headline": "Bangladesh me aagjani badhi, Grameen Bank nishane par",
+      "detail": "Hasina ki wapsi ko lekar Bangladesh me aagjani aur hamle badhe, Grameen Bank ki 72 shakhaon par hamla hua aur 124 log giraftar hue.",
+      "category": "World",
+      "exam_angle": "Bangladesh ki rajneeti, Bharat se sambandh — UPSC IR",
+      "source": "Dawn",
+      "source_url": "https://www.dawn.com/news/2046066/fresh-arson-attacks-rock-bangladesh",
+      "genuineness": "verified",
+      "outlets": [
+        "Dawn",
+        "Daily Sun",
+        "Firstpost",
+        "Moneycontrol"
+      ],
+      "image": null,
+      "image_credit": null
+    },
+    {
+      "id": "world-20261121-1322-01",
+      "published_ist": "2026-11-21T12:00:00+05:30",
+      "headline": "Basra me gas pipeline phati, chaar ki maut",
+      "detail": "Basra ke Hartha power station ke paas gas pipeline phatne se aag lag gayi, kam se kam chaar ki maut aur 35 ghayal hue.",
+      "category": "World",
+      "exam_angle": "Iraq, West Asia — UPSC IR",
+      "source": "The National",
+      "source_url": "https://www.thenationalnews.com/news/mena/2026/11/21/basra-gas-explosion-kills-two-and-injures-dozens/",
+      "genuineness": "verified",
+      "outlets": [
+        "The National",
+        "Shafaq News",
+        "WION",
+        "Roya News"
+      ],
+      "image": null,
+      "image_credit": null
+    },
+    {
+      "id": "world-20261121-1222-01",
+      "published_ist": "2026-11-21T12:00:00+05:30",
+      "headline": "Europe bhar me Gen Z ke virodh pradarshan",
+      "detail": "25 se zyada deshon me yuvaon ne mehengaai, kiraye, shiksha aur sainya kharch ke khilaf ek saath pradarshan kiye; France me shanivar ko 70,000 police tainat, Italy me aam hadtaal hui.",
+      "category": "World",
+      "exam_angle": "Europe, cost-of-living crisis, yuva virodh — UPSC IR",
+      "source": "The Manila Times",
+      "source_url": "https://www.manilatimes.net/2026/11/21/world/americas-emea/european-protesters-join-forces-over-living-costs/2474970/amp",
+      "genuineness": "verified",
+      "outlets": [
+        "Associated Press",
+        "AFP",
+        "WION",
+        "Times of India"
+      ],
+      "image": null,
+      "image_credit": null
+    },
+    {
+      "id": "world-20261121-0822-01",
+      "published_ist": "2026-11-21T12:00:00+05:30",
+      "headline": "Houthi missile Riyadh ki ore, Saudi ne roki",
+      "detail": "Saudi netritva wale gathbandhan ne Riyadh ki taraf daage gaye teen ballistic missile giraye; isse pehle Hodeidah bandargah aur Sanaa me Houthi thikanon par hamle hue.",
+      "category": "World",
+      "exam_angle": "Yemen yuddh, Houthi, West Asia — UPSC IR",
+      "source": "The Straits Times",
+      "source_url": "https://www.straitstimes.com/world/middle-east/saudi-arabia-says-it-intercepts-three-houthi-missiles-targeting-riyadh?ref=latest",
+      "genuineness": "verified",
+      "outlets": [
+        "The Straits Times",
+        "Al Jazeera",
+        "The Jerusalem Post"
+      ],
+      "image": null,
+      "image_credit": null
+    },
+    {
+      "id": "world-20261121-1422-02",
+      "published_ist": "2026-11-21T11:36:25+05:30",
+      "headline": "Ramallah me basti guard ne ek ko maara",
+      "detail": "Beit El basti ke suraksha guard ne Dura al-Qar gaon ke paas 42 saal ke Hamza Masoud Salim Abdo ko goli maari; shav roka gaya aur doosra vyakti giraftar hua.",
+      "category": "World",
+      "exam_angle": "West Bank, Israel-Palestine — UPSC IR",
+      "source": "ARY News",
+      "source_url": "https://arynews.tv/west-bank-settler-guard-shoots-dead-palestinian-man",
+      "genuineness": "verified",
+      "outlets": [
+        "ARY News",
+        "Haaretz",
+        "WAFA",
+        "SANA"
+      ],
+      "image": null,
+      "image_credit": null
+    },
+    {
+      "id": "world-20261121-1522-01",
+      "published_ist": "2026-11-21T11:14:00+05:30",
+      "headline": "Pehli mahila up-rashtrapati Mlambo-Ngcuka ka nidhan",
+      "detail": "Dakshin Africa ki pehli mahila up-rashtrapati aur UN Women ki poorv pramukh Phumzile Mlambo-Ngcuka ka 71 saal ki umr me nidhan ho gaya; unhone 2005 se 2008 tak up-rashtrapati aur 2013 se 2021 tak UN Women ka netritva kiya tha.",
+      "category": "World",
+      "exam_angle": "Dakshin Africa, UN Women — UPSC IR",
+      "source": "Reuters",
+      "source_url": "https://www.reuters.com/world/africa/south-africas-first-female-deputy-president-un-official-dies-2026-11-21/",
+      "genuineness": "verified",
+      "outlets": [
+        "Reuters",
+        "Business Day",
+        "The Presidency of South Africa",
+        "UN Women"
+      ],
+      "image": null,
+      "image_credit": null
+    },
+    {
+      "id": "world-20261121-0922-02",
+      "published_ist": "2026-11-21T08:05:00+05:30",
+      "headline": "AI sell-off se S&P 500, Dow correction me",
+      "detail": "Shukravar ko S&P 500 3.7% aur Nasdaq 5.3% gira; S&P aur Dow record unchai se 10% se zyada neeche, correction me; Nvidia 14% toota, Nasdaq ne 2026 ke saare fayde mita diye aur October ki unchai se lagbhag 20% neeche hai.",
+      "category": "World",
+      "exam_angle": "US share bazaar, correction, AI bubble — UPSC Economy",
+      "source": "Reuters",
+      "source_url": "https://www.tradingview.com/news/moneycontrol:7063c4045094b:0-wall-street-ends-sharply-lower-on-ai-selloff-s-p-500-dow-in-correction/",
+      "genuineness": "verified",
+      "outlets": [
+        "Reuters",
+        "The Wall Street Journal",
+        "MarketWatch",
+        "Investopedia"
+      ],
+      "image": null,
+      "image_credit": null
+    },
+    {
+      "id": "world-20261121-1122-01",
+      "published_ist": "2026-11-21T07:14:31+05:30",
+      "headline": "Pancreatic cancer ki nayi goli ne ummeed jagayi",
+      "detail": "Daraxonrasib goli + chemotherapy ke prarambhik trial me 61 mareezon me se 90% me tumour ruk gaya, 12 me se 1 me cancer scan par dikha hi nahi; Cancer Research UK ne ise 'dashakon ki sabse badi pragati' kaha, par doctoron ne kaha abhi ye ilaj nahi, bade trial ki zaroorat hai.",
+      "category": "World",
+      "exam_angle": "KRAS inhibitor, pancreatic cancer trial — UPSC Science & Tech",
+      "source": "Greater Kashmir",
+      "source_url": "https://www.greaterkashmir.com/health/new-pancreatic-cancer-drug-shows-promising-results-tumours-disappear-in-some-patients-12828086",
+      "genuineness": "verified",
+      "outlets": [
+        "BBC",
+        "OncLive",
+        "Mezha"
+      ],
+      "image": null,
+      "image_credit": null
+    },
+    {
+      "id": "world-20261121-0922-01",
+      "published_ist": "2026-11-21T05:39:00+05:30",
+      "headline": "Peru me 6.7 teevrata ka bhukamp, Lima hila",
+      "detail": "Madhya Peru me Junin ke paas 6.7 teevrata ka bhukamp aaya, jhatke Lima tak mehsoos hue; abhi tak koi nuksan ya hatahat ki khabar nahi.",
+      "category": "World",
+      "exam_angle": "Ring of Fire, bhukamp — UPSC Geography",
+      "source": "The Straits Times",
+      "source_url": "https://www.straitstimes.com/world/magnitude-6-9-earthquake-shakes-perus-andes-with-no-damage-or-casualties-immediately-reported?ref=latest",
+      "genuineness": "verified",
+      "outlets": [
+        "The Straits Times",
+        "Xinhua",
+        "CGTN"
+      ],
+      "image": null,
+      "image_credit": null
+    },
+    {
+      "id": "world-20261121-0922-03",
+      "published_ist": "2026-11-21T05:06:00+05:30",
+      "headline": "Nigeria me naav palti, chaar ki maut",
+      "detail": "Bayelsa me janaze me ja rahi bhari hui naav Nun nadi me palat gayi; kam se kam chaar log mare gaye, 24 bachaye gaye, saikadon ke sawaar hone ki aashanka hai.",
+      "category": "World",
+      "exam_angle": "Nigeria, naav durghatna — UPSC IR",
+      "source": "Al Jazeera",
+      "source_url": "https://www.aljazeera.com/news/2026/11/20/overturned-boat-carrying-mourners-to-funeral-kills-at-least-four-in-nigeria?traffic_source=rss",
+      "genuineness": "verified",
+      "outlets": [
+        "Al Jazeera",
+        "Punch",
+        "Channels TV"
+      ],
+      "image": null,
+      "image_credit": null
+    },
+    {
+      "id": "world-20261121-1322-04",
+      "published_ist": "2026-11-20T12:00:00+05:30",
+      "headline": "Japan me do US Marines ko chori par saza",
+      "detail": "Japan ki adalat ne 11 million yen ki chori par do US Marines ko nilambit jail ki saza di, dono ko jail nahi jana padega.",
+      "category": "World",
+      "exam_angle": "US-Japan suraksha samjhauta (SOFA) — UPSC IR",
+      "source": "The Straits Times",
+      "source_url": "https://www.straitstimes.com/asia/east-asia/us-marine-in-japan-gets-suspended-sentence-for-thefts-totalling-89000?ref=latest",
+      "genuineness": "verified",
+      "outlets": [
+        "The Straits Times",
+        "WION",
+        "Japan Today"
+      ],
+      "image": null,
+      "image_credit": null
+    },
+    {
+      "id": "world-20261121-1322-03",
+      "published_ist": "2026-11-20T12:00:00+05:30",
+      "headline": "Korea pariksha me 111 chhatra nakal karte pakde",
+      "detail": "South Korea ki college entrance exam me 111 chhatron ke paas banned electronic devices mile, smart glasses aur camera-earphone bhi pakde gaye.",
+      "category": "World",
+      "exam_angle": "Parikshaon me AI se nakal par rok — UPSC",
+      "source": "Yonhap",
+      "source_url": "https://en.yna.co.kr/view/AEN20261120004400315?section=national/national",
+      "genuineness": "verified",
+      "outlets": [
+        "Yonhap",
+        "Korea Times",
+        "Korea Herald"
+      ],
+      "image": null,
+      "image_credit": null
+    },
+    {
+      "id": "world-20261121-1222-03",
+      "published_ist": "2026-11-20T12:00:00+05:30",
+      "headline": "Claude ne Riemann Hypothesis suljhane ka dava kiya",
+      "detail": "Anthropic ke ganitagya Levent Alpoge ne kaha Claude ke saath 1859 se ansuljhi Riemann Hypothesis ka praman mila, Lean me code karke jaari kiya; swatantra jaanch abhi baaki hai, praman ki pushti nahi hui hai.",
+      "category": "World",
+      "exam_angle": "Riemann Hypothesis, Millennium Prize, AI in maths — UPSC Science & Tech",
+      "source": "Scientific American",
+      "source_url": "https://www.scientificamerican.com/article/anthropic-mathematician-claims-to-prove-riemann-hypothesis-most-famous-problem-in-all-of-math/",
+      "genuineness": "verified",
+      "outlets": [
+        "Scientific American",
+        "Associated Press",
+        "The Indian Express"
+      ],
+      "image": null,
+      "image_credit": null
+    },
+    {
+      "id": "world-20261121-1222-02",
+      "published_ist": "2026-11-20T12:00:00+05:30",
+      "headline": "FBI ka crime database hack, jaanch shuru",
+      "detail": "CNN ke anusar FBI apne National Crime Information Center database me sandigdh ghuspaith ki jaanch kar raha hai; isme warrants aur background checks ka data hota hai, kitna data chori hua abhi spasht nahi — kuch mahino me FBI system par doosra hamla hai.",
+      "category": "World",
+      "exam_angle": "Cyber security, NCIC, FBI — UPSC Science & Tech",
+      "source": "Reuters",
+      "source_url": "https://www.reuters.com/world/us/fbis-criminal-information-database-hacked-cnn-reports-2026-11-21/",
+      "genuineness": "verified",
+      "outlets": [
+        "CNN",
+        "Reuters",
+        "The Hindu",
+        "New York Post"
+      ],
+      "image": null,
+      "image_credit": null
+    },
+    {
+      "id": "world-20261121-1022-03",
+      "published_ist": "2026-11-20T12:00:00+05:30",
+      "headline": "Estonia ne Russia se seema chhah mahine band ki",
+      "detail": "Estonia 1 December se Russia se apni paanchon seema crossing kam se kam chhah mahine ke liye band karega; drone company par aagajani ke baad suraksha ka faisla, Moscow ne 'naya Iron Curtain' kaha.",
+      "category": "World",
+      "exam_angle": "NATO-EU sadasya, hybrid warfare — UPSC IR",
+      "source": "Reuters",
+      "source_url": "https://www.reuters.com/world/estonia-close-border-with-russia-least-six-months-2026-11-20/",
+      "genuineness": "verified",
+      "outlets": [
+        "Reuters",
+        "Al Jazeera",
+        "South China Morning Post",
+        "The Hindu",
+        "Times Now"
+      ],
+      "image": null,
+      "image_credit": null
+    },
+    {
+      "id": "world-20261121-0822-02",
+      "published_ist": "2026-11-20T12:00:00+05:30",
+      "headline": "Britain-EU ne Brexit reset samjhauta kiya",
+      "detail": "Brussels shikhar me Britain aur EU ne khadya vyapar, yuva gatishilta aur carbon vyapar par samjhote kiye; 18-31 saal ke ek lakh yuva teen saal tak doosri taraf reh sakenge.",
+      "category": "World",
+      "exam_angle": "UK-EU reset, Brexit, CBAM — UPSC IR",
+      "source": "Reuters",
+      "source_url": "https://www.reuters.com/world/uk/what-eu-uk-have-agreed-summit-2026-11-20/",
+      "genuineness": "verified",
+      "outlets": [
+        "Reuters",
+        "Al Jazeera",
+        "Moneycontrol"
+      ],
+      "image": "../images/world/world-20261121-0822-02.jpg",
+      "image_credit": "Al Jazeera"
+    },
+    {
+      "id": "world-20261121-0727-03",
+      "published_ist": "2026-11-20T12:00:00+05:30",
+      "headline": "Pannun sajish: Gupta ko 19 saal ki saza",
+      "detail": "New York ki federal adaalat ne Nikhil Gupta ko Gurpatwant Singh Pannun ki hatya ki sajish me 235 mahine ki saza sunayi; Gupta ne February me aarop kabool kiye the.",
+      "category": "World",
+      "exam_angle": "Pannun mamla, Bharat-America sambandh — UPSC IR",
+      "source": "Reuters",
+      "source_url": "https://www.reuters.com/world/us/indian-man-sentenced-more-than-19-years-us-plotting-kill-sikh-separatist-2026-11-20/",
+      "genuineness": "verified",
+      "outlets": [
+        "Reuters",
+        "Al Jazeera",
+        "The Hindu",
+        "NDTV"
+      ],
+      "image": null,
+      "image_credit": null
+    },
+    {
+      "id": "world-20261121-0727-02",
+      "published_ist": "2026-11-20T12:00:00+05:30",
+      "headline": "Russia ka Ukraine par sabse bada hawai hamla",
+      "detail": "Russia ne raat bhar 400 se zyada drone aur 110 se zyada missile daage, Kyiv ke teen pulon aur bijli dhanchon ko nishana banaya; aath log mare gaye aur lagbhag 30 ghayal hue.",
+      "category": "World",
+      "exam_angle": "Russia-Ukraine yuddh, Kerch Bridge — UPSC IR",
+      "source": "Al Jazeera",
+      "source_url": "https://www.aljazeera.com/amp/news/2026/11/20/russia-unleashes-retaliatory-barrage-on-kyiv-bridges",
+      "genuineness": "verified",
+      "outlets": [
+        "Al Jazeera",
+        "CNN",
+        "Interfax",
+        "The New Indian Express"
+      ],
+      "image": null,
+      "image_credit": null
+    },
+    {
+      "id": "world-20261121-0622-03",
+      "published_ist": "2026-11-20T12:00:00+05:30",
+      "headline": "Denmark ne rapper-hatya sajish nakam ki",
+      "detail": "Denmark ne kaha uski police ne September me Copenhagen me US-Ukrainian rapper Kyivstoner ki hatya ki koshish nakam ki, jisme Russia ki khufiya seva ka haath bataya gaya; teen log giraftar hue aur Russia ke raksha attache ko nikal diya gaya.",
+      "category": "World",
+      "exam_angle": "Russia-Denmark, khufiya seva — UPSC IR",
+      "source": "Reuters",
+      "source_url": "https://www.reuters.com/world/europe/two-danes-suspected-being-hired-by-russia-kill-us-ukrainian-rapper-2026-11-20/",
+      "genuineness": "corroborated",
+      "outlets": [
+        "Reuters",
+        "News Media House"
+      ],
+      "image": null,
+      "image_credit": null
+    },
+    {
+      "id": "world-20261121-0622-02",
+      "published_ist": "2026-11-20T12:00:00+05:30",
+      "headline": "Trump ko January tak Ukraine shanti samjhauta chahiye",
+      "detail": "Financial Times ki report ke anusar Trump prashasan chahta hai Ukraine-Russia shanti samjhauta January 2027 ki shuruaat tak ho, Democrats ke Congress sambhalne se pehle; Witkoff aur Kushner ne Moscow, Dublin aur Berlin me vaarta ki.",
+      "category": "World",
+      "exam_angle": "Ukraine shanti vaarta, US Congress — UPSC IR",
+      "source": "Times Now",
+      "source_url": "https://www.timesnownews.com/world/trump-wants-ukraine-peace-deal-by-january-before-democrats-take-congress-report-article-156543781",
+      "genuineness": "verified",
+      "outlets": [
+        "Financial Times",
+        "Times Now",
+        "Ukrinform"
+      ],
+      "image": null,
+      "image_credit": null
+    },
+    {
+      "id": "world-20261121-1522-03",
+      "published_ist": "2026-11-20T11:17:24+05:30",
+      "headline": "Trump ne Iran faisla naye saal tak taala",
+      "detail": "Rashtrapati Trump ne kaha ve Iran par nayi sainya karwai ka faisla naye saal se pehle nahi lenge, jabki Netanyahu naye hamlo ke liye dabav bana rahe hain; Senate ne Iran yuddh par ankush ka prastav 48-51 se kharij kar diya.",
+      "category": "World",
+      "exam_angle": "America-Iran tanav, West Asia — UPSC IR",
+      "source": "Gulf News",
+      "source_url": "https://gulfnews.com/amp/story/world%2Famericas%2Fwill-us-strike-iran-again-trump-says-decision-can-wait-until-2027-1.500754568",
+      "genuineness": "verified",
+      "outlets": [
+        "Gulf News",
+        "The Tribune",
+        "Breitbart",
+        "Mid-Day"
+      ],
+      "image": null,
+      "image_credit": null
+    },
+    {
+      "id": "world-20261121-1022-01",
+      "published_ist": "2026-11-20T11:00:00+05:30",
+      "headline": "Russia ki missile Poland me giri",
+      "detail": "Do cruise missile aur ek jet-powered drone dakshin-purvi Poland me gire, koi ghayal nahi; PM Tusk ne ise jaanboojh kar uksava bataya, NATO ne 'grave violation' kaha.",
+      "category": "World",
+      "exam_angle": "NATO Article 5, Poland ki suraksha — UPSC IR",
+      "source": "Associated Press",
+      "source_url": "https://beta.manilatimes.net/2026/11/21/world/americas-emea/russian-missiles-land-in-poland-as-europe-held-military-drills-nearby-nato-calls-it-a-violation/2475390/amp",
+      "genuineness": "verified",
+      "outlets": [
+        "Reuters",
+        "Associated Press",
+        "BBC",
+        "Times of India"
+      ],
+      "image": null,
+      "image_credit": null
+    }
+  ]
 }
