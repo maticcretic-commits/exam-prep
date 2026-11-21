@@ -1,0 +1,77 @@
+{
+ "date": "2026-11-22",
+ "date_hi": "22 November 2026",
+ "date_en": "22 November 2026",
+ "episodes": [
+  {
+   "episode": 149,
+   "video_hi": "RO0qwM0Ijg0",
+   "video_hinglish": "RO0qwM0Ijg0",
+   "capsules": [
+    {
+     "id": "ca-ep149-s1",
+     "headline_hi": "Nitish Setu: desh ka sabse lamba nadi pul",
+     "headline_hinglish": "Nitish Setu: desh ka sabse lamba nadi pul",
+     "detail_hi": "Kul lambai unnees point saat kilometre, lagat chaar hazaar do sau assi crore rupaye.",
+     "detail_hinglish": "Kul lambai unnees point saat kilometre, lagat chaar hazaar do sau assi crore rupaye.",
+     "category_hi": "Infrastructure",
+     "category_en": "National"
+    },
+    {
+     "id": "ca-ep149-s2",
+     "headline_hi": "Haj 2027: ek lakh pachattar hazaar Bharatiya yatri",
+     "headline_hinglish": "Haj 2027: ek lakh pachattar hazaar Bharatiya yatri",
+     "detail_hi": "Saudi Arabia ne Bharat ke liye ek lakh pachattar hazaar pachees Haj yatriyon ka kota tay kiya.",
+     "detail_hinglish": "Saudi Arabia ne Bharat ke liye ek lakh pachattar hazaar pachees Haj yatriyon ka kota tay kiya.",
+     "category_hi": "International",
+     "category_en": "National"
+    },
+    {
+     "id": "ca-ep149-s3",
+     "headline_hi": "Karnataka: 147 projects, 18,600 nayi naukriyan",
+     "headline_hinglish": "Karnataka: 147 projects, 18,600 nayi naukriyan",
+     "detail_hi": "Chhe hazaar aath sau chhabbees crore ka nivesh, attharah hazaar chhe sau nayi naukriyan.",
+     "detail_hinglish": "Chhe hazaar aath sau chhabbees crore ka nivesh, attharah hazaar chhe sau nayi naukriyan.",
+     "category_hi": "Economy",
+     "category_en": "Economy"
+    },
+    {
+     "id": "ca-ep149-s4",
+     "headline_hi": "Maharashtra mein 1972 ke baad sabse bhayankar sookha",
+     "headline_hinglish": "Maharashtra mein 1972 ke baad sabse bhayankar sookha",
+     "detail_hi": "Rabi faslon ki buwai aitihasik star par kam hui, sookha 1972 se bhi bhayankar.",
+     "detail_hinglish": "Rabi faslon ki buwai aitihasik star par kam hui, sookha 1972 se bhi bhayankar.",
+     "category_hi": "Agriculture",
+     "category_en": "Agriculture"
+    },
+    {
+     "id": "ca-ep149-s5",
+     "headline_hi": "SCO Civilisational Dialogue: Purana Quila mein pehla sammelan",
+     "headline_hinglish": "SCO Civilisational Dialogue: Purana Quila mein pehla sammelan",
+     "detail_hi": "Bees se baais November tak Delhi mein, sabhyataon ke beech samvaad ka pehla manch.",
+     "detail_hinglish": "Bees se baais November tak Delhi mein, sabhyataon ke beech samvaad ka pehla manch.",
+     "category_hi": "International",
+     "category_en": "National"
+    }
+   ],
+   "mcq": {
+    "id": "ca-ep149-mcq",
+    "q_hi": "Nitish Setu ki kul lambai kitni hai?",
+    "q_hinglish": "Nitish Setu ki kul lambai kitni hai?",
+    "options_hi": [
+     "9.76 km",
+     "19.7 km",
+     "25.3 km",
+     "12.4 km"
+    ],
+    "options_hinglish": [
+     "9.76 km",
+     "19.7 km",
+     "25.3 km",
+     "12.4 km"
+    ],
+    "answer_index": 1
+   }
+  }
+ ]
+}
