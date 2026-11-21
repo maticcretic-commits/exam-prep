@@ -1,6 +1,63 @@
 {
- "updated_ist": "2026-11-21T13:24:31+05:30",
+ "updated_ist": "2026-11-21T14:26:44+05:30",
  "items": [
+  {
+   "id": "world-20261121-1422-01",
+   "published_ist": "2026-11-21T12:00:00+05:30",
+   "headline": "Hormuz me tanker par hamla, koi ghayal nahi",
+   "detail": "Hormuz se bahar ja rahe tanker ko Khasab se 11 nautical miles uttar ajnabee projectile laga; UKMTO ke anusar koi ghayal nahi hua, paryavaran par asar abhi agyaat hai.",
+   "category": "World",
+   "exam_angle": "Hormuz jaladmarumadhya, urja suraksha — UPSC IR",
+   "source": "Reuters",
+   "source_url": "https://www.reuters.com/business/energy/tanker-hit-by-unknown-projectile-near-omans-khasab-ukmto-says-2026-11-21/",
+   "genuineness": "corroborated",
+   "outlets": [
+    "Reuters",
+    "Times of Israel"
+   ],
+   "image": null,
+   "image_credit": null
+  },
+  {
+   "id": "world-20261121-1422-02",
+   "published_ist": "2026-11-21T11:36:25+05:30",
+   "headline": "Ramallah me basti guard ne ek ko maara",
+   "detail": "Beit El basti ke suraksha guard ne Dura al-Qar gaon ke paas 42 saal ke Hamza Masoud Salim Abdo ko goli maari; shav roka gaya aur doosra vyakti giraftar hua.",
+   "category": "World",
+   "exam_angle": "West Bank, Israel-Palestine — UPSC IR",
+   "source": "ARY News",
+   "source_url": "https://arynews.tv/west-bank-settler-guard-shoots-dead-palestinian-man",
+   "genuineness": "verified",
+   "outlets": [
+    "ARY News",
+    "Haaretz",
+    "WAFA",
+    "SANA"
+   ],
+   "image": null,
+   "image_credit": null
+  },
+  {
+   "id": "world-20261121-0822-03",
+   "published_ist": "2026-11-21T12:00:00+05:30",
+   "headline": "COP31 samay se aage, jeevashm indhan par atka",
+   "detail": "Antalya me COP31 vaarta 21 November tak badh gayi; naya masuda jeevashm indhan ka zikr hata deta hai aur 120 arab dollar ki anukoolan vitt ki rakam bhi gayab hai — teesra masuda aaj aayega.",
+   "category": "World",
+   "exam_angle": "COP31, jalvayu vitt, jeevashm indhan — UPSC Environment",
+   "source": "Reuters",
+   "source_url": "https://www.reuters.com/sustainability/cop/cop31-climate-talks-spill-into-overtime-nations-quarrel-over-fossil-fuels-2026-11-20/",
+   "genuineness": "verified",
+   "outlets": [
+    "Reuters",
+    "AFP",
+    "The Daily Star",
+    "Free Malaysia Today",
+    "Hürriyet Daily News",
+    "Tribune"
+   ],
+   "image": null,
+   "image_credit": null
+  },
   {
    "id": "world-20261121-1322-02",
    "published_ist": "2026-11-21T12:00:00+05:30",
@@ -243,25 +300,6 @@
    "image_credit": null
   },
   {
-   "id": "world-20261121-0822-03",
-   "published_ist": "2026-11-20T12:00:00+05:30",
-   "headline": "COP31 samay se aage, jeevashm indhan par atka",
-   "detail": "Antalya me COP31 vaarta overtime me gayi; naya masuda jeevashm indhan ka zikr hata deta hai aur 120 arab dollar ki anukoolan vitt ki rakam bhi gayab hai.",
-   "category": "World",
-   "exam_angle": "COP31, jalvayu vitt, jeevashm indhan — UPSC Environment",
-   "source": "Reuters",
-   "source_url": "https://www.reuters.com/sustainability/cop/cop31-climate-talks-spill-into-overtime-nations-quarrel-over-fossil-fuels-2026-11-20/",
-   "genuineness": "verified",
-   "outlets": [
-    "Reuters",
-    "AFP",
-    "The Daily Star",
-    "Free Malaysia Today"
-   ],
-   "image": null,
-   "image_credit": null
-  },
-  {
    "id": "world-20261121-0822-02",
    "published_ist": "2026-11-20T12:00:00+05:30",
    "headline": "Britain-EU ne Brexit reset samjhauta kiya",
@@ -409,43 +447,6 @@
    ],
    "image": null,
    "image_credit": null
-  },
-  {
-   "id": "world-20261121-0727-04",
-   "published_ist": "2026-11-19T12:00:00+05:30",
-   "headline": "Ukraine vaarta me Europe ko bhi jagah milegi",
-   "detail": "Zelenskyy ne kaha paanch European desh, EU aur NATO aane wali Russia vaarta me shamil honge; Trump ne Berlin me Coalition of the Willing ki baithak me phone par hissa liya.",
-   "category": "World",
-   "exam_angle": "Ukraine vaarta, Coalition of the Willing — UPSC IR",
-   "source": "Euromaidan Press",
-   "source_url": "https://euromaidanpress.com/2026/11/20/ukraine-says-five-european-countries-plus-the-eu-and-nato-will-join-talks-on-russias-war-overnight-russia-launches-over-400-drones-and-over-110-missiles-at-ukraine/",
-   "genuineness": "verified",
-   "outlets": [
-    "Euromaidan Press",
-    "Ukrinform",
-    "Reuters"
-   ],
-   "image": null,
-   "image_credit": null
-  },
-  {
-   "id": "world-20261121-0727-01",
-   "published_ist": "2026-11-19T12:00:00+05:30",
-   "headline": "ICJ: Myanmar ne Rohingya ka narsanhar kiya",
-   "detail": "ICJ ne 9-6 ke faisle me kaha Myanmar ki sena ne 2017 me uttari Rakhine me Rohingya ka narsanhar kiya, kam se kam 10,000 log mare gaye; adaalat ne marammat aur surakshit wapsi ka aadesh diya.",
-   "category": "World",
-   "exam_angle": "ICJ, Genocide Convention, Rohingya — UPSC IR",
-   "source": "Al Jazeera",
-   "source_url": "https://www.aljazeera.com/amp/news/2026/11/19/un-top-court-finds-myanmar-killed-10000-rohingya-as-it-rules-on-genocide",
-   "genuineness": "verified",
-   "outlets": [
-    "Al Jazeera",
-    "CNN",
-    "The Wall Street Journal",
-    "Le Monde"
-   ],
-   "image": "../images/world/world-20261121-0727-01.jpg",
-   "image_credit": "International Court of Justice, public domain, via Wikimedia Commons"
   }
  ]
 }
