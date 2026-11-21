@@ -1,6 +1,80 @@
 {
- "updated_ist": "2026-11-21T07:27:06+05:30",
+ "updated_ist": "2026-11-21T08:25:56+05:30",
  "items": [
+  {
+   "id": "world-20261121-0822-01",
+   "published_ist": "2026-11-21T12:00:00+05:30",
+   "headline": "Houthi missile Riyadh ki ore, Saudi ne roki",
+   "detail": "Saudi netritva wale gathbandhan ne Riyadh ki taraf daage gaye teen ballistic missile giraye; isse pehle Hodeidah bandargah aur Sanaa me Houthi thikanon par hamle hue.",
+   "category": "World",
+   "exam_angle": "Yemen yuddh, Houthi, West Asia — UPSC IR",
+   "source": "The Straits Times",
+   "source_url": "https://www.straitstimes.com/world/middle-east/saudi-arabia-says-it-intercepts-three-houthi-missiles-targeting-riyadh?ref=latest",
+   "genuineness": "verified",
+   "outlets": [
+    "The Straits Times",
+    "Al Jazeera",
+    "The Jerusalem Post"
+   ],
+   "image": null,
+   "image_credit": null
+  },
+  {
+   "id": "world-20261121-0822-02",
+   "published_ist": "2026-11-20T12:00:00+05:30",
+   "headline": "Britain-EU ne Brexit reset samjhauta kiya",
+   "detail": "Brussels shikhar me Britain aur EU ne khadya vyapar, yuva gatishilta aur carbon vyapar par samjhote kiye; 18-31 saal ke ek lakh yuva teen saal tak doosri taraf reh sakenge.",
+   "category": "World",
+   "exam_angle": "UK-EU reset, Brexit, CBAM — UPSC IR",
+   "source": "Reuters",
+   "source_url": "https://www.reuters.com/world/uk/what-eu-uk-have-agreed-summit-2026-11-20/",
+   "genuineness": "verified",
+   "outlets": [
+    "Reuters",
+    "Al Jazeera",
+    "Moneycontrol"
+   ],
+   "image": "../images/world/world-20261121-0822-02.jpg",
+   "image_credit": "Al Jazeera"
+  },
+  {
+   "id": "world-20261121-0822-03",
+   "published_ist": "2026-11-20T12:00:00+05:30",
+   "headline": "COP31 samay se aage, jeevashm indhan par atka",
+   "detail": "Antalya me COP31 vaarta overtime me gayi; naya masuda jeevashm indhan ka zikr hata deta hai aur 120 arab dollar ki anukoolan vitt ki rakam bhi gayab hai.",
+   "category": "World",
+   "exam_angle": "COP31, jalvayu vitt, jeevashm indhan — UPSC Environment",
+   "source": "Reuters",
+   "source_url": "https://www.reuters.com/sustainability/cop/cop31-climate-talks-spill-into-overtime-nations-quarrel-over-fossil-fuels-2026-11-20/",
+   "genuineness": "verified",
+   "outlets": [
+    "Reuters",
+    "AFP",
+    "The Daily Star",
+    "Free Malaysia Today"
+   ],
+   "image": null,
+   "image_credit": null
+  },
+  {
+   "id": "world-20261121-0822-04",
+   "published_ist": "2026-11-19T12:00:00+05:30",
+   "headline": "Pehli baar Japan sena Bharat me live-fire abhyas",
+   "detail": "Tokyo me 2+2 vaarta me Bharat aur Japan ne samjhauta kiya — Japan ki sena pehli baar Bharat ki firing range me live-fire abhyas karegi, surface-to-ship missile sahit.",
+   "category": "World",
+   "exam_angle": "Bharat-Japan 2+2, raksha sahyog — UPSC IR",
+   "source": "The Hindu",
+   "source_url": "https://www.thehindu.com/news/national/in-a-first-japanese-forces-will-use-indian-facilities-for-live-fire-training/article71721191.ece",
+   "genuineness": "verified",
+   "outlets": [
+    "The Hindu",
+    "The Statesman",
+    "The Indian Express",
+    "Times of India"
+   ],
+   "image": null,
+   "image_credit": null
+  },
   {
    "id": "world-20261121-0727-01",
    "published_ist": "2026-11-19T12:00:00+05:30",
@@ -367,79 +441,6 @@
     "Times Now",
     "The Jerusalem Post",
     "SCMP"
-   ],
-   "image": null,
-   "image_credit": null
-  },
-  {
-   "id": "world-20261120-1922-03",
-   "published_ist": "2026-11-19T09:21:00+05:30",
-   "headline": "IMF: duniya ka karz GDP ke 100% tak",
-   "detail": "IMF pramukh Kristalina Georgieva ne Shenzhen me APEC shikhar par chetavni di ki vaishvik sarkari karz jald duniya ki GDP ke 100% tak pahunch jayega — Dusre Vishwa Yuddh ke baad sabse uncha star; vaishvik mehengaai 4.7% rehne ka anumaan hai.",
-   "category": "World",
-   "exam_angle": "Vaishvik karz, IMF, APEC — UPSC Economy",
-   "source": "MercoPress",
-   "source_url": "https://en.mercopress.com/2026/11/19/imf-warns-global-debt-will-soon-reach-100-of-gdp-the-highest-since-world-war-ii",
-   "genuineness": "verified",
-   "outlets": [
-    "MercoPress",
-    "Trend",
-    "HIT.tv",
-    "The World Insiders"
-   ],
-   "image": null,
-   "image_credit": null
-  },
-  {
-   "id": "world-20261120-1822-01",
-   "published_ist": "2026-11-20T11:17:00+05:30",
-   "headline": "Trump ne Iran hamle ka faisla taal diya",
-   "detail": "Trump ne Reuters aur Axios se kaha Iran par dobara hamle ka faisla naye saal ke baad hoga — 'jaldi nahi hai'; Netanyahu turant bombing ke liye dabav bana rahe hain.",
-   "category": "World",
-   "exam_angle": "America-Iran yuddh aur West Asia ki sthiti — UPSC/PCS ke liye mahatvapurna.",
-   "source": "Gulf News",
-   "source_url": "https://gulfnews.com/world/americas/will-us-strike-iran-again-trump-says-decision-can-wait-until-2027-1.500754568",
-   "genuineness": "verified",
-   "outlets": [
-    "Reuters",
-    "Axios",
-    "Gulf News"
-   ],
-   "image": "../images/world/world-20261120-1822-01.jpg",
-   "image_credit": "Gulf News"
-  },
-  {
-   "id": "world-20261120-1822-02",
-   "published_ist": "2026-11-20T16:22:00+05:30",
-   "headline": "Europe me yuvaon ki badi hadtaal",
-   "detail": "25 se zyada deshon me hazaaron yuva sadkon par utre — mehengaai, awaas aur shiksha ke liye paise, hathiyaron par kharch band karne ki maang; Italy me aam hadtaal, Britain me 350 se zyada school-college band.",
-   "category": "World",
-   "exam_angle": "Europe me yuva andolan aur sainya kharch par bahas — antarrashtriya sambandh ke liye.",
-   "source": "CNN",
-   "source_url": "https://www.cnn.com/2026/11/20/europe/gen-z-youth-protests-europe-intl?cid=external-feeds_iluminar_meta",
-   "genuineness": "corroborated",
-   "outlets": [
-    "CNN",
-    "AFP"
-   ],
-   "image": null,
-   "image_credit": null
-  },
-  {
-   "id": "world-20261120-1722-01",
-   "published_ist": "2026-11-20T08:30:00+05:30",
-   "headline": "Iraqi fauj Kataib Hezbollah ke gadh me",
-   "detail": "Iraqi sarkari faujon ne shukravar ko Jurf al-Sakher me Kataib Hezbollah ke gadh me pravesh kiya, tel-taskari ke aarop par hue tanav ke baad hue samjhaute ke tahat, bina kisi sangharsh ke.",
-   "category": "World",
-   "exam_angle": "Iraq-Iran proxy sangharsh — UPSC IR",
-   "source": "Reuters",
-   "source_url": "https://www.reuters.com/world/middle-east/iraqi-security-forces-deploy-iran-backed-militia-stronghold-security-officials-2026-11-20/",
-   "genuineness": "verified",
-   "outlets": [
-    "Reuters",
-    "AFP",
-    "Rudaw",
-    "The Jerusalem Post"
    ],
    "image": null,
    "image_credit": null
