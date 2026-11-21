@@ -146,6 +146,80 @@
    ],
    "image": null,
    "image_credit": null
+  },
+  {
+   "id": "world-20261121-0822-01",
+   "published_ist": "2026-11-21T12:00:00+05:30",
+   "headline": "Houthi missile Riyadh ki ore, Saudi ne roki",
+   "detail": "Saudi netritva wale gathbandhan ne Riyadh ki taraf daage gaye teen ballistic missile giraye; isse pehle Hodeidah bandargah aur Sanaa me Houthi thikanon par hamle hue.",
+   "category": "World",
+   "exam_angle": "Yemen yuddh, Houthi, West Asia — UPSC IR",
+   "source": "The Straits Times",
+   "source_url": "https://www.straitstimes.com/world/middle-east/saudi-arabia-says-it-intercepts-three-houthi-missiles-targeting-riyadh?ref=latest",
+   "genuineness": "verified",
+   "outlets": [
+    "The Straits Times",
+    "Al Jazeera",
+    "The Jerusalem Post"
+   ],
+   "image": null,
+   "image_credit": null
+  },
+  {
+   "id": "world-20261121-0822-02",
+   "published_ist": "2026-11-20T12:00:00+05:30",
+   "headline": "Britain-EU ne Brexit reset samjhauta kiya",
+   "detail": "Brussels shikhar me Britain aur EU ne khadya vyapar, yuva gatishilta aur carbon vyapar par samjhote kiye; 18-31 saal ke ek lakh yuva teen saal tak doosri taraf reh sakenge.",
+   "category": "World",
+   "exam_angle": "UK-EU reset, Brexit, CBAM — UPSC IR",
+   "source": "Reuters",
+   "source_url": "https://www.reuters.com/world/uk/what-eu-uk-have-agreed-summit-2026-11-20/",
+   "genuineness": "verified",
+   "outlets": [
+    "Reuters",
+    "Al Jazeera",
+    "Moneycontrol"
+   ],
+   "image": "../images/world/world-20261121-0822-02.jpg",
+   "image_credit": "Al Jazeera"
+  },
+  {
+   "id": "world-20261121-0822-03",
+   "published_ist": "2026-11-20T12:00:00+05:30",
+   "headline": "COP31 samay se aage, jeevashm indhan par atka",
+   "detail": "Antalya me COP31 vaarta overtime me gayi; naya masuda jeevashm indhan ka zikr hata deta hai aur 120 arab dollar ki anukoolan vitt ki rakam bhi gayab hai.",
+   "category": "World",
+   "exam_angle": "COP31, jalvayu vitt, jeevashm indhan — UPSC Environment",
+   "source": "Reuters",
+   "source_url": "https://www.reuters.com/sustainability/cop/cop31-climate-talks-spill-into-overtime-nations-quarrel-over-fossil-fuels-2026-11-20/",
+   "genuineness": "verified",
+   "outlets": [
+    "Reuters",
+    "AFP",
+    "The Daily Star",
+    "Free Malaysia Today"
+   ],
+   "image": null,
+   "image_credit": null
+  },
+  {
+   "id": "world-20261121-0822-04",
+   "published_ist": "2026-11-19T12:00:00+05:30",
+   "headline": "Pehli baar Japan sena Bharat me live-fire abhyas",
+   "detail": "Tokyo me 2+2 vaarta me Bharat aur Japan ne samjhauta kiya — Japan ki sena pehli baar Bharat ki firing range me live-fire abhyas karegi, surface-to-ship missile sahit.",
+   "category": "World",
+   "exam_angle": "Bharat-Japan 2+2, raksha sahyog — UPSC IR",
+   "source": "The Hindu",
+   "source_url": "https://www.thehindu.com/news/national/in-a-first-japanese-forces-will-use-indian-facilities-for-live-fire-training/article71721191.ece",
+   "genuineness": "verified",
+   "outlets": [
+    "The Hindu",
+    "The Statesman",
+    "The Indian Express",
+    "Times of India"
+   ],
+   "image": null,
+   "image_credit": null
   }
  ]
 }
