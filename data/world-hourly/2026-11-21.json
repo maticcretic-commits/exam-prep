@@ -1,5 +1,5 @@
 {
-  "updated_ist": "2026-11-21T19:23:54+05:30",
+  "updated_ist": "2026-11-21T20:24:57+05:30",
   "items": [
     {
       "id": "world-20261121-0622-01",
@@ -818,6 +818,60 @@
         "Reuters",
         "Al Jazeera",
         "Associated Press"
+      ],
+      "image": null,
+      "image_credit": null
+    },
+    {
+      "id": "world-20261121-2024-01",
+      "published_ist": "2026-11-21T12:00:00+05:30",
+      "headline": "Hormuz me tanker mine se takraya, aag lagi",
+      "detail": "Iran ki nausena ke anusar Hormuz ke poorv me ek tanker samudri mine se takrakar aag ki lapeton me aa gaya; UKMTO ne Oman ke paas do tankeron par hamle ki bhi khabar di.",
+      "category": "World",
+      "exam_angle": "Strait of Hormuz, tel vyapar — UPSC IR",
+      "source": "Al Jazeera",
+      "source_url": "https://www.aljazeera.com/amp/news/liveblog/2026/11/21/iran-war-live-saudi-led-coalition-repels-houthi-missiles",
+      "genuineness": "verified",
+      "outlets": [
+        "Al Jazeera",
+        "Reuters",
+        "Xinhua"
+      ],
+      "image": null,
+      "image_credit": null
+    },
+    {
+      "id": "world-20261121-2024-02",
+      "published_ist": "2026-11-20T12:00:00+05:30",
+      "headline": "Iraq ki sena Kataib Hezbollah ke gadh me ghusi",
+      "detail": "Samjhaute ke baad Iraqi suraksha balon ne Baghdad ke dakshin me Jurf al-Sakhar me pravesh kiya; Kataib Hezbollah ek mahine ke andar wahan se hatne par raazi hua, tel taskari ke aaropon ke beech.",
+      "category": "World",
+      "exam_angle": "Iraq, Iran-samarthit milicia — UPSC IR",
+      "source": "Al Jazeera",
+      "source_url": "https://www.aljazeera.com/amp/news/2026/11/20/iraqi-forces-deploy-to-jurf-al-sakhar-after-deal-with-iran-backed-group",
+      "genuineness": "verified",
+      "outlets": [
+        "Al Jazeera",
+        "International Crisis Group",
+        "The Jerusalem Post",
+        "Arab News"
+      ],
+      "image": null,
+      "image_credit": null
+    },
+    {
+      "id": "world-20261121-2024-03",
+      "published_ist": "2026-11-20T12:00:00+05:30",
+      "headline": "COP31 ke naye draft se jeevashm-indhan zikr hata",
+      "detail": "COP31 ke sanshodhit draft me jeevashm indhan se door hatne aur 120 arab dollar ke jalvayu vitt ka zikr hata diya gaya; 2035 tak bijli ki hissedari 35% karne ka lakshya barkarar hai.",
+      "category": "World",
+      "exam_angle": "COP31, jalvayu vitt — UPSC Environment",
+      "source": "Reuters",
+      "source_url": "https://www.reuters.com/sustainability/climate-focus-cop31-draft-deal-strips-fossil-fuel-references-2026-11-20/",
+      "genuineness": "corroborated",
+      "outlets": [
+        "Reuters",
+        "Down to Earth"
       ],
       "image": null,
       "image_credit": null
