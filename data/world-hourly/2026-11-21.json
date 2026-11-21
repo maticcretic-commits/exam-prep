@@ -220,6 +220,61 @@
    ],
    "image": null,
    "image_credit": null
+  },
+  {
+   "id": "world-20261121-0922-02",
+   "published_ist": "2026-11-21T08:05:00+05:30",
+   "headline": "AI sell-off se S&P 500, Dow correction me",
+   "detail": "Shukravar ko S&P 500 3.7% aur Nasdaq 5.3% gira; S&P aur Dow record unchai se 10% se zyada neeche, correction me; Nvidia 14% toota.",
+   "category": "World",
+   "exam_angle": "US share bazaar, correction, AI bubble — UPSC Economy",
+   "source": "Reuters",
+   "source_url": "https://www.tradingview.com/news/moneycontrol:7063c4045094b:0-wall-street-ends-sharply-lower-on-ai-selloff-s-p-500-dow-in-correction/",
+   "genuineness": "verified",
+   "outlets": [
+    "Reuters",
+    "The Wall Street Journal",
+    "MarketWatch",
+    "Investopedia"
+   ],
+   "image": null,
+   "image_credit": null
+  },
+  {
+   "id": "world-20261121-0922-01",
+   "published_ist": "2026-11-21T05:39:00+05:30",
+   "headline": "Peru me 6.7 teevrata ka bhukamp, Lima hila",
+   "detail": "Madhya Peru me Junin ke paas 6.7 teevrata ka bhukamp aaya, jhatke Lima tak mehsoos hue; abhi tak koi nuksan ya hatahat ki khabar nahi.",
+   "category": "World",
+   "exam_angle": "Ring of Fire, bhukamp — UPSC Geography",
+   "source": "The Straits Times",
+   "source_url": "https://www.straitstimes.com/world/magnitude-6-9-earthquake-shakes-perus-andes-with-no-damage-or-casualties-immediately-reported?ref=latest",
+   "genuineness": "verified",
+   "outlets": [
+    "The Straits Times",
+    "Xinhua",
+    "CGTN"
+   ],
+   "image": null,
+   "image_credit": null
+  },
+  {
+   "id": "world-20261121-0922-03",
+   "published_ist": "2026-11-21T05:06:00+05:30",
+   "headline": "Nigeria me naav palti, chaar ki maut",
+   "detail": "Bayelsa me janaze me ja rahi bhari hui naav Nun nadi me palat gayi; kam se kam chaar log mare gaye, 24 bachaye gaye, saikadon ke sawaar hone ki aashanka hai.",
+   "category": "World",
+   "exam_angle": "Nigeria, naav durghatna — UPSC IR",
+   "source": "Al Jazeera",
+   "source_url": "https://www.aljazeera.com/news/2026/11/20/overturned-boat-carrying-mourners-to-funeral-kills-at-least-four-in-nigeria?traffic_source=rss",
+   "genuineness": "verified",
+   "outlets": [
+    "Al Jazeera",
+    "Punch",
+    "Channels TV"
+   ],
+   "image": null,
+   "image_credit": null
   }
  ]
 }
