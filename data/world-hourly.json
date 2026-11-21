@@ -1,6 +1,81 @@
 {
- "updated_ist": "2026-11-21T06:26:54+05:30",
+ "updated_ist": "2026-11-21T07:27:06+05:30",
  "items": [
+  {
+   "id": "world-20261121-0727-01",
+   "published_ist": "2026-11-19T12:00:00+05:30",
+   "headline": "ICJ: Myanmar ne Rohingya ka narsanhar kiya",
+   "detail": "ICJ ne 9-6 ke faisle me kaha Myanmar ki sena ne 2017 me uttari Rakhine me Rohingya ka narsanhar kiya, kam se kam 10,000 log mare gaye; adaalat ne marammat aur surakshit wapsi ka aadesh diya.",
+   "category": "World",
+   "exam_angle": "ICJ, Genocide Convention, Rohingya — UPSC IR",
+   "source": "Al Jazeera",
+   "source_url": "https://www.aljazeera.com/amp/news/2026/11/19/un-top-court-finds-myanmar-killed-10000-rohingya-as-it-rules-on-genocide",
+   "genuineness": "verified",
+   "outlets": [
+    "Al Jazeera",
+    "CNN",
+    "The Wall Street Journal",
+    "Le Monde"
+   ],
+   "image": "../images/world/world-20261121-0727-01.jpg",
+   "image_credit": "International Court of Justice, public domain, via Wikimedia Commons"
+  },
+  {
+   "id": "world-20261121-0727-02",
+   "published_ist": "2026-11-20T12:00:00+05:30",
+   "headline": "Russia ka Ukraine par sabse bada hawai hamla",
+   "detail": "Russia ne raat bhar 400 se zyada drone aur 110 se zyada missile daage, Kyiv ke teen pulon aur bijli dhanchon ko nishana banaya; aath log mare gaye aur lagbhag 30 ghayal hue.",
+   "category": "World",
+   "exam_angle": "Russia-Ukraine yuddh, Kerch Bridge — UPSC IR",
+   "source": "Al Jazeera",
+   "source_url": "https://www.aljazeera.com/amp/news/2026/11/20/russia-unleashes-retaliatory-barrage-on-kyiv-bridges",
+   "genuineness": "verified",
+   "outlets": [
+    "Al Jazeera",
+    "CNN",
+    "Interfax",
+    "The New Indian Express"
+   ],
+   "image": null,
+   "image_credit": null
+  },
+  {
+   "id": "world-20261121-0727-03",
+   "published_ist": "2026-11-20T12:00:00+05:30",
+   "headline": "Pannun sajish: Gupta ko 19 saal ki saza",
+   "detail": "New York ki federal adaalat ne Nikhil Gupta ko Gurpatwant Singh Pannun ki hatya ki sajish me 235 mahine ki saza sunayi; Gupta ne February me aarop kabool kiye the.",
+   "category": "World",
+   "exam_angle": "Pannun mamla, Bharat-America sambandh — UPSC IR",
+   "source": "Reuters",
+   "source_url": "https://www.reuters.com/world/us/indian-man-sentenced-more-than-19-years-us-plotting-kill-sikh-separatist-2026-11-20/",
+   "genuineness": "verified",
+   "outlets": [
+    "Reuters",
+    "Al Jazeera",
+    "The Hindu",
+    "NDTV"
+   ],
+   "image": null,
+   "image_credit": null
+  },
+  {
+   "id": "world-20261121-0727-04",
+   "published_ist": "2026-11-19T12:00:00+05:30",
+   "headline": "Ukraine vaarta me Europe ko bhi jagah milegi",
+   "detail": "Zelenskyy ne kaha paanch European desh, EU aur NATO aane wali Russia vaarta me shamil honge; Trump ne Berlin me Coalition of the Willing ki baithak me phone par hissa liya.",
+   "category": "World",
+   "exam_angle": "Ukraine vaarta, Coalition of the Willing — UPSC IR",
+   "source": "Euromaidan Press",
+   "source_url": "https://euromaidanpress.com/2026/11/20/ukraine-says-five-european-countries-plus-the-eu-and-nato-will-join-talks-on-russias-war-overnight-russia-launches-over-400-drones-and-over-110-missiles-at-ukraine/",
+   "genuineness": "verified",
+   "outlets": [
+    "Euromaidan Press",
+    "Ukrinform",
+    "Reuters"
+   ],
+   "image": null,
+   "image_credit": null
+  },
   {
    "id": "world-20261121-0622-01",
    "published_ist": "2026-11-19T12:00:00+05:30",
@@ -365,82 +440,6 @@
     "AFP",
     "Rudaw",
     "The Jerusalem Post"
-   ],
-   "image": null,
-   "image_credit": null
-  },
-  {
-   "id": "world-20261120-1622-01",
-   "published_ist": "2026-11-20T15:00:00+05:30",
-   "headline": "UK-EU shikhar: Brexit ke baad doosri mulaqat",
-   "detail": "Brussels me PM Andy Burnham, Ursula von der Leyen aur Antonio Costa mile; yuva mobility, khaadya-jaanch khatm aur emissions trading par samjhaute ki ummeed hai, lekin EU chhatron ki tuition fee par vivaad se sauda atka hua hai.",
-   "category": "World",
-   "exam_angle": "UK-EU sambandh, Brexit ke baad — UPSC IR",
-   "source": "Al Jazeera",
-   "source_url": "https://www.aljazeera.com/news/2026/11/20/eu-and-britain-to-agree-steps-towards-relations-reset?traffic_source=rss",
-   "genuineness": "verified",
-   "outlets": [
-    "Al Jazeera",
-    "NPR",
-    "GOV.UK",
-    "European Council",
-    "The Times",
-    "Le Monde"
-   ],
-   "image": null,
-   "image_credit": null
-  },
-  {
-   "id": "world-20261120-1522-01",
-   "published_ist": "2026-11-20T07:30:00+05:30",
-   "headline": "Asia bazaar: 2020 ke baad sabse bura hafta",
-   "detail": "MSCI Asia-Pacific index shukravar ko 3.2% gira aur hafte me 8.3% toota — March 2020 ke baad sabse bura hafta; Nikkei 4.1% aur KOSPI 4.4% gire, AI rally par bharosa kamzor pada.",
-   "category": "World",
-   "exam_angle": "Global markets, AI rally — UPSC Economy",
-   "source": "Reuters",
-   "source_url": "https://www.reuters.com/world/china/global-markets-global-markets-2026-11-20/",
-   "genuineness": "corroborated",
-   "outlets": [
-    "Reuters",
-    "WION"
-   ],
-   "image": null,
-   "image_credit": null
-  },
-  {
-   "id": "world-20261120-1522-02",
-   "published_ist": "2026-11-20T06:30:00+05:30",
-   "headline": "White House ne cyber chief ko hataya",
-   "detail": "Rashtrapati Trump ke rashtriya cyber nideshak Sean Cairncross ko tech outages ke baad pad se hataya gaya; Pentagon ki Kirsten Davies ko acting cyber director banaya gaya.",
-   "category": "World",
-   "exam_angle": "US cyber policy, AI threats — UPSC IR/Sci & Tech",
-   "source": "The Hindu",
-   "source_url": "https://www.thehindu.com/news/international/white-house-fires-cybersecurity-chief-after-widespread-outages/article71722952.ece",
-   "genuineness": "verified",
-   "outlets": [
-    "WSJ",
-    "AFP",
-    "CNN",
-    "USA Today"
-   ],
-   "image": null,
-   "image_credit": null
-  },
-  {
-   "id": "world-20261120-1522-03",
-   "published_ist": "2026-11-20T06:00:00+05:30",
-   "headline": "Canada me Goldy Brar sabse wanted, $250,000 inam",
-   "detail": "Canada ke BOLO programme ne Goldy Brar ko 25 most-wanted ki list me pehle number par rakha; Winnipeg me 2023 hatya par first-degree murder ka aarop hai aur giraftari ki jankari par 250,000 Canadian dollar ka inam hai.",
-   "category": "World",
-   "exam_angle": "India-Canada relations, organised crime — UPSC IR",
-   "source": "The Hindu",
-   "source_url": "https://www.thehindu.com/news/international/goldy-brar-wanted-in-canada-for-2023-murder-faces-first-degree-murder-charge/article71723147.ece",
-   "genuineness": "verified",
-   "outlets": [
-    "CBC",
-    "The Hindu",
-    "NDTV",
-    "The Times of India"
    ],
    "image": null,
    "image_credit": null
