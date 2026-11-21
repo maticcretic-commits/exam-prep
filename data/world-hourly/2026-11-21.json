@@ -275,6 +275,65 @@
    ],
    "image": null,
    "image_credit": null
+  },
+  {
+   "id": "world-20261121-1022-01",
+   "published_ist": "2026-11-20T11:00:00+05:30",
+   "headline": "Russia ki missile Poland me giri",
+   "detail": "Do cruise missile aur ek jet-powered drone dakshin-purvi Poland me gire, koi ghayal nahi; PM Tusk ne ise jaanboojh kar uksava bataya, NATO ne 'grave violation' kaha.",
+   "category": "World",
+   "exam_angle": "NATO Article 5, Poland ki suraksha — UPSC IR",
+   "source": "Associated Press",
+   "source_url": "https://beta.manilatimes.net/2026/11/21/world/americas-emea/russian-missiles-land-in-poland-as-europe-held-military-drills-nearby-nato-calls-it-a-violation/2475390/amp",
+   "genuineness": "verified",
+   "outlets": [
+    "Reuters",
+    "Associated Press",
+    "BBC",
+    "Times of India"
+   ],
+   "image": null,
+   "image_credit": null
+  },
+  {
+   "id": "world-20261121-1022-02",
+   "published_ist": "2026-11-19T12:00:00+05:30",
+   "headline": "Anthropic ka IPO itihaas me sabse bada",
+   "detail": "Anthropic ne $81 arab jutaye — duniya ka sabse bada IPO; share $83 par list hokar $111.50 par khule aur $97.17 par band hue.",
+   "category": "World",
+   "exam_angle": "Sabse bada IPO, AI company ki listing — UPSC Economy",
+   "source": "NPR",
+   "source_url": "https://www.wcmu.org/national-world-news/2026-11-19/investors-scramble-for-a-piece-of-ai-giant-anthropic-in-blockbuster-ipo",
+   "genuineness": "verified",
+   "outlets": [
+    "NPR",
+    "The Wall Street Journal",
+    "Forbes India",
+    "The Indian Express",
+    "TRT World"
+   ],
+   "image": null,
+   "image_credit": null
+  },
+  {
+   "id": "world-20261121-1022-03",
+   "published_ist": "2026-11-20T12:00:00+05:30",
+   "headline": "Estonia ne Russia se seema chhah mahine band ki",
+   "detail": "Estonia 1 December se Russia se apni paanchon seema crossing kam se kam chhah mahine ke liye band karega; drone company par aagajani ke baad suraksha ka faisla, Moscow ne 'naya Iron Curtain' kaha.",
+   "category": "World",
+   "exam_angle": "NATO-EU sadasya, hybrid warfare — UPSC IR",
+   "source": "Reuters",
+   "source_url": "https://www.reuters.com/world/estonia-close-border-with-russia-least-six-months-2026-11-20/",
+   "genuineness": "verified",
+   "outlets": [
+    "Reuters",
+    "Al Jazeera",
+    "South China Morning Post",
+    "The Hindu",
+    "Times Now"
+   ],
+   "image": null,
+   "image_credit": null
   }
  ]
 }
