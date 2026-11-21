@@ -1,6 +1,65 @@
 {
- "updated_ist": "2026-11-21T09:24:58+05:30",
+ "updated_ist": "2026-11-21T10:24:47+05:30",
  "items": [
+  {
+   "id": "world-20261121-1022-01",
+   "published_ist": "2026-11-20T11:00:00+05:30",
+   "headline": "Russia ki missile Poland me giri",
+   "detail": "Do cruise missile aur ek jet-powered drone dakshin-purvi Poland me gire, koi ghayal nahi; PM Tusk ne ise jaanboojh kar uksava bataya, NATO ne 'grave violation' kaha.",
+   "category": "World",
+   "exam_angle": "NATO Article 5, Poland ki suraksha — UPSC IR",
+   "source": "Associated Press",
+   "source_url": "https://beta.manilatimes.net/2026/11/21/world/americas-emea/russian-missiles-land-in-poland-as-europe-held-military-drills-nearby-nato-calls-it-a-violation/2475390/amp",
+   "genuineness": "verified",
+   "outlets": [
+    "Reuters",
+    "Associated Press",
+    "BBC",
+    "Times of India"
+   ],
+   "image": null,
+   "image_credit": null
+  },
+  {
+   "id": "world-20261121-1022-02",
+   "published_ist": "2026-11-19T12:00:00+05:30",
+   "headline": "Anthropic ka IPO itihaas me sabse bada",
+   "detail": "Anthropic ne $81 arab jutaye — duniya ka sabse bada IPO; share $83 par list hokar $111.50 par khule aur $97.17 par band hue.",
+   "category": "World",
+   "exam_angle": "Sabse bada IPO, AI company ki listing — UPSC Economy",
+   "source": "NPR",
+   "source_url": "https://www.wcmu.org/national-world-news/2026-11-19/investors-scramble-for-a-piece-of-ai-giant-anthropic-in-blockbuster-ipo",
+   "genuineness": "verified",
+   "outlets": [
+    "NPR",
+    "The Wall Street Journal",
+    "Forbes India",
+    "The Indian Express",
+    "TRT World"
+   ],
+   "image": null,
+   "image_credit": null
+  },
+  {
+   "id": "world-20261121-1022-03",
+   "published_ist": "2026-11-20T12:00:00+05:30",
+   "headline": "Estonia ne Russia se seema chhah mahine band ki",
+   "detail": "Estonia 1 December se Russia se apni paanchon seema crossing kam se kam chhah mahine ke liye band karega; drone company par aagajani ke baad suraksha ka faisla, Moscow ne 'naya Iron Curtain' kaha.",
+   "category": "World",
+   "exam_angle": "NATO-EU sadasya, hybrid warfare — UPSC IR",
+   "source": "Reuters",
+   "source_url": "https://www.reuters.com/world/estonia-close-border-with-russia-least-six-months-2026-11-20/",
+   "genuineness": "verified",
+   "outlets": [
+    "Reuters",
+    "Al Jazeera",
+    "South China Morning Post",
+    "The Hindu",
+    "Times Now"
+   ],
+   "image": null,
+   "image_credit": null
+  },
   {
    "id": "world-20261121-0922-02",
    "published_ist": "2026-11-21T08:05:00+05:30",
@@ -382,59 +441,6 @@
    "outlets": [
     "Reuters",
     "Financial Times"
-   ],
-   "image": null,
-   "image_credit": null
-  },
-  {
-   "id": "world-20261120-2028-01",
-   "published_ist": "2026-11-20T12:00:00+05:30",
-   "headline": "America ne Ukraine-NATO sadasyata ka vikalp uthaya",
-   "detail": "Wall Street Journal ke anusar America ke doot Kushner aur Witkoff ne band kamre ki baatchit me sujhav diya ki Ukraine bacha hua Donbas Russia ko de to use NATO ki poorna sadasyata mil sakti hai; Zelenskyy ne kaha Ukraine zameen nahi chhodega.",
-   "category": "World",
-   "exam_angle": "Ukraine shanti vaarta, NATO vistar — UPSC IR",
-   "source": "Kyiv Post",
-   "source_url": "https://www.kyivpost.com/post/90709",
-   "genuineness": "corroborated",
-   "outlets": [
-    "The Wall Street Journal",
-    "Kyiv Post",
-    "TRT World"
-   ],
-   "image": "../images/world/world-20261120-2028-01.jpg",
-   "image_credit": "Kyiv Post"
-  },
-  {
-   "id": "world-20261120-2028-02",
-   "published_ist": "2026-11-20T12:00:00+05:30",
-   "headline": "RAF Fairford mamle me 2027 me mukadma",
-   "detail": "London ki adalat ne RAF Fairford sainya adde par September ki ghatna ke do aaropiyon ka mukadma 22 November 2027 se tay kiya; abhiyojakon ke anusar ye Iran ke hit me ki gayi thi, dono ne dosh na manne ka sanket diya hai.",
-   "category": "World",
-   "exam_angle": "Britain-Iran tanav, rashtriya suraksha — UPSC IR",
-   "source": "Reuters",
-   "source_url": "https://www.reuters.com/world/uk/two-men-stand-trial-uk-next-year-over-raf-fairford-incident-allegedly-linked-2026-11-20/",
-   "genuineness": "corroborated",
-   "outlets": [
-    "Reuters",
-    "The National",
-    "Times of Israel"
-   ],
-   "image": null,
-   "image_credit": null
-  },
-  {
-   "id": "world-20261120-2028-03",
-   "published_ist": "2026-11-19T12:00:00+05:30",
-   "headline": "Pakistan me chhapo me 22 atankwadi mare",
-   "detail": "Pakistan ki fauj ne Khyber Pakhtunkhwa ke Dakshin Waziristan, Bannu aur Tank jilon me chhapon ke dauran 22 atankwadiyon ko marne ka dawa kiya; fauj ne aarop lagaya ki ve Bharat ke samarthan wale sangathan se jude the.",
-   "category": "World",
-   "exam_angle": "Pakistan me atankwad-virodhi karwai, Bharat-Pak tanav — UPSC IR",
-   "source": "Dawn",
-   "source_url": "https://www.dawn.com/news/2045769",
-   "genuineness": "corroborated",
-   "outlets": [
-    "Dawn",
-    "AP"
    ],
    "image": null,
    "image_credit": null
