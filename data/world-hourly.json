@@ -1,6 +1,65 @@
 {
-  "updated_ist": "2026-11-21T17:24:46+05:30",
+  "updated_ist": "2026-11-21T18:26:02+05:30",
   "items": [
+    {
+      "id": "world-20261121-1822-01",
+      "published_ist": "2026-11-21T12:00:00+05:30",
+      "headline": "EU ka Big Tech par 3% tax prastav",
+      "detail": "European Council ke pramukh Antonio Costa ne 2028-2034 ke budget ke liye badi digital companies par 3% levy ka prastav diya; 204 arab euro ki katauti bhi prastavit hai, samjhauta December tak chahiye.",
+      "category": "World",
+      "exam_angle": "EU budget, digital tax, Big Tech — UPSC IR/Economy",
+      "source": "The Hindu",
+      "source_url": "https://www.thehindu.com/news/international/european-union-proposes-tax-on-big-tech-to-boost-budget/article71728111.ece",
+      "genuineness": "verified",
+      "outlets": [
+        "The Hindu",
+        "TRT World",
+        "Times of India",
+        "Turkiye Today",
+        "AFP"
+      ],
+      "image": null,
+      "image_credit": null
+    },
+    {
+      "id": "world-20261121-1822-02",
+      "published_ist": "2026-11-21T12:00:00+05:30",
+      "headline": "Videsh data centre par Trump ki tax-dhamki",
+      "detail": "Rashtrapati Trump ne kaha videsh me data centre banane wali Americi companies par 'tremendous tax' lagega; AI me China se aage rehne ke liye desh ke andar nivesh chahiye.",
+      "category": "World",
+      "exam_angle": "America, AI, data centre, China — UPSC IR/Economy",
+      "source": "Reuters",
+      "source_url": "https://www.reuters.com/technology/trump-says-us-penalize-firms-building-data-centers-abroad-2026-11-20/",
+      "genuineness": "verified",
+      "outlets": [
+        "Reuters",
+        "USA Today",
+        "Associated Press",
+        "Channel News Asia",
+        "The Hindu",
+        "Moneycontrol"
+      ],
+      "image": null,
+      "image_credit": null
+    },
+    {
+      "id": "world-20261121-1822-03",
+      "published_ist": "2026-11-21T12:00:00+05:30",
+      "headline": "IRGC ka dava: Hormuz me US drone giraya",
+      "detail": "Iran ke IRGC ne dava kiya uski vayu raksha ne Hormuz me ek MQ-9 aur Qeshm ke upar ek MQ-1 drone giraya; America ne abhi iski koi pushti nahi ki hai.",
+      "category": "World",
+      "exam_angle": "Iran-America tanav, Hormuz — UPSC IR",
+      "source": "Al Jazeera",
+      "source_url": "https://www.aljazeera.com/news/2026/11/21/irans-irgc-downs-us-drone-over-hormuz-as-efforts-to-end-war-remain-stalled",
+      "genuineness": "corroborated",
+      "outlets": [
+        "Mehr News",
+        "Al Jazeera",
+        "Gulf News"
+      ],
+      "image": null,
+      "image_credit": null
+    },
     {
       "id": "world-20261121-1722-01",
       "published_ist": "2026-11-21T12:00:00+05:30",
@@ -387,63 +446,6 @@
         "Yonhap",
         "Korea Times",
         "Korea Herald"
-      ],
-      "image": null,
-      "image_credit": null
-    },
-    {
-      "id": "world-20261121-1222-03",
-      "published_ist": "2026-11-20T12:00:00+05:30",
-      "headline": "Claude ne Riemann Hypothesis suljhane ka dava kiya",
-      "detail": "Anthropic ke ganitagya Levent Alpoge ne kaha Claude ke saath 1859 se ansuljhi Riemann Hypothesis ka praman mila, Lean me code karke jaari kiya; swatantra jaanch abhi baaki hai, praman ki pushti nahi hui hai.",
-      "category": "World",
-      "exam_angle": "Riemann Hypothesis, Millennium Prize, AI in maths — UPSC Science & Tech",
-      "source": "Scientific American",
-      "source_url": "https://www.scientificamerican.com/article/anthropic-mathematician-claims-to-prove-riemann-hypothesis-most-famous-problem-in-all-of-math/",
-      "genuineness": "verified",
-      "outlets": [
-        "Scientific American",
-        "Associated Press",
-        "The Indian Express"
-      ],
-      "image": null,
-      "image_credit": null
-    },
-    {
-      "id": "world-20261121-1222-02",
-      "published_ist": "2026-11-20T12:00:00+05:30",
-      "headline": "FBI ka crime database hack, jaanch shuru",
-      "detail": "CNN ke anusar FBI apne National Crime Information Center database me sandigdh ghuspaith ki jaanch kar raha hai; isme warrants aur background checks ka data hota hai, kitna data chori hua abhi spasht nahi — kuch mahino me FBI system par doosra hamla hai.",
-      "category": "World",
-      "exam_angle": "Cyber security, NCIC, FBI — UPSC Science & Tech",
-      "source": "Reuters",
-      "source_url": "https://www.reuters.com/world/us/fbis-criminal-information-database-hacked-cnn-reports-2026-11-21/",
-      "genuineness": "verified",
-      "outlets": [
-        "CNN",
-        "Reuters",
-        "The Hindu",
-        "New York Post"
-      ],
-      "image": null,
-      "image_credit": null
-    },
-    {
-      "id": "world-20261121-1022-03",
-      "published_ist": "2026-11-20T12:00:00+05:30",
-      "headline": "Estonia ne Russia se seema chhah mahine band ki",
-      "detail": "Estonia 1 December se Russia se apni paanchon seema crossing kam se kam chhah mahine ke liye band karega; drone company par aagajani ke baad suraksha ka faisla, Moscow ne 'naya Iron Curtain' kaha.",
-      "category": "World",
-      "exam_angle": "NATO-EU sadasya, hybrid warfare — UPSC IR",
-      "source": "Reuters",
-      "source_url": "https://www.reuters.com/world/estonia-close-border-with-russia-least-six-months-2026-11-20/",
-      "genuineness": "verified",
-      "outlets": [
-        "Reuters",
-        "Al Jazeera",
-        "South China Morning Post",
-        "The Hindu",
-        "Times Now"
       ],
       "image": null,
       "image_credit": null
