@@ -1,6 +1,44 @@
 {
-  "updated_ist": "2026-11-21T21:29:56+05:30",
+  "updated_ist": "2026-11-21T22:24:52+05:30",
   "items": [
+    {
+      "id": "world-20261121-2224-01",
+      "published_ist": "2026-11-21T17:23:00+05:30",
+      "headline": "Mexico ne FBI-wanted 'El Chapo Isidro' pakda",
+      "detail": "Sinaloa ke Guasave me sena ne FBI ki 10 most-wanted list wale Fausto Isidro Meza Flores ko giraftar kiya; us par 5 million dollar ka inaam tha.",
+      "category": "World",
+      "exam_angle": "Mexico, drug cartel, FBI most-wanted — UPSC IR",
+      "source": "Reuters",
+      "source_url": "https://www.reuters.com/world/americas/mexico-captures-top-drug-lord-el-chapo-isidro-latest-string-captures-2026-11-21/",
+      "genuineness": "verified",
+      "outlets": [
+        "Reuters",
+        "The Wall Street Journal",
+        "Al Jazeera",
+        "The Week",
+        "Times of India"
+      ],
+      "image": "../images/world/world-20261121-2224-01.jpg",
+      "image_credit": "Al Jazeera"
+    },
+    {
+      "id": "world-20261121-2224-02",
+      "published_ist": "2026-11-21T12:00:00+05:30",
+      "headline": "Iran-America vaarta uranium par atki",
+      "detail": "Madhyasthon ne kaha samvardhit uranium bhandar par matbhed se vaarta atki hai aur sangharsh phir bhadak sakta hai; Araghchi ne kaha Iran uranium desh se bahar nahi bhejega.",
+      "category": "World",
+      "exam_angle": "Iran parmanu vaarta, uranium, Hormuz — UPSC IR",
+      "source": "The Tribune",
+      "source_url": "https://www.tribuneindia.com/news/world/iran-us-negotiations-stalled-over-uranium-enrichment-dispute-mediators-warn-of-renewed-conflict-report/",
+      "genuineness": "corroborated",
+      "outlets": [
+        "Al Arabiya",
+        "The Hindu",
+        "Moneycontrol"
+      ],
+      "image": null,
+      "image_credit": null
+    },
     {
       "id": "world-20261121-2122-01",
       "published_ist": "2026-11-21T12:00:00+05:30",
@@ -408,25 +446,6 @@
         "The Straits Times",
         "Al Jazeera",
         "The Jerusalem Post"
-      ],
-      "image": null,
-      "image_credit": null
-    },
-    {
-      "id": "world-20261121-1422-02",
-      "published_ist": "2026-11-21T11:36:25+05:30",
-      "headline": "Ramallah me basti guard ne ek ko maara",
-      "detail": "Beit El basti ke suraksha guard ne Dura al-Qar gaon ke paas 42 saal ke Hamza Masoud Salim Abdo ko goli maari; shav roka gaya aur doosra vyakti giraftar hua.",
-      "category": "World",
-      "exam_angle": "West Bank, Israel-Palestine — UPSC IR",
-      "source": "ARY News",
-      "source_url": "https://arynews.tv/west-bank-settler-guard-shoots-dead-palestinian-man",
-      "genuineness": "verified",
-      "outlets": [
-        "ARY News",
-        "Haaretz",
-        "WAFA",
-        "SANA"
       ],
       "image": null,
       "image_credit": null
