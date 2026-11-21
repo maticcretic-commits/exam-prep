@@ -1,5 +1,5 @@
 {
-  "updated_ist": "2026-11-21T15:24:25+05:30",
+  "updated_ist": "2026-11-21T17:24:46+05:30",
   "items": [
     {
       "id": "world-20261121-0622-01",
@@ -652,6 +652,81 @@
       ],
       "image": "../images/world/world-20261121-1622-03.jpg",
       "image_credit": "The Hindu"
+    },
+    {
+      "id": "world-20261121-1722-01",
+      "published_ist": "2026-11-21T12:00:00+05:30",
+      "headline": "Gulf of Finland me Russian jahaz par hamla",
+      "detail": "Kaliningrad ja raha Russian cargo jahaz Sparta II Finland ki khaadi me do drone hamle ke baad aag ki lapet me aaya; chaalak dal ko nikala ja raha hai, Finland ki sena ne bhi hamle ki pushti ki.",
+      "category": "World",
+      "exam_angle": "Baltic, Russia-Ukraine yuddh, samudri suraksha — UPSC IR",
+      "source": "Turkiye Today",
+      "source_url": "https://www.turkiyetoday.com/world/drones-hit-russian-cargo-ship-bound-for-kaliningrad-in-gulf-of-finland-3232911",
+      "genuineness": "verified",
+      "outlets": [
+        "TRT World",
+        "Turkiye Today",
+        "NAMPA",
+        "Mezha",
+        "United24 Media"
+      ],
+      "image": "../images/world/world-20261121-1722-01.jpg",
+      "image_credit": "Turkiye Today"
+    },
+    {
+      "id": "world-20261121-1722-02",
+      "published_ist": "2026-11-21T16:15:00+05:30",
+      "headline": "China ke Qinghai me 5.6 teevrata ka bhukamp",
+      "detail": "Delingha ke paas bhukamp aaya — China ke CENC ke anusar 5.6 aur GFZ ke anusar 5.8 teevrata; gehrai 10 km, jhatke Delingha me zor se mehsoos hue, nuksan aur hatahat ki jaanch jaari hai.",
+      "category": "World",
+      "exam_angle": "Bhukamp, China — UPSC Geography",
+      "source": "CGTN",
+      "source_url": "https://news.cgtn.com/news/2026-11-21/news-1SfTvSaYabK/p.html",
+      "genuineness": "verified",
+      "outlets": [
+        "CGTN",
+        "Xinhua",
+        "GFZ",
+        "Reuters"
+      ],
+      "image": null,
+      "image_credit": null
+    },
+    {
+      "id": "world-20261121-1722-03",
+      "published_ist": "2026-11-21T12:00:00+05:30",
+      "headline": "Hormuz ke paas doosre tanker par hamla",
+      "detail": "UKMTO ke anusar Hormuz se nikalte doosre tanker ko engine room me ajnabee projectile laga, Khasab se 17 nautical miles poorv; Iran ki nausena ne kaha ek tanker restricted area me mine se takraya, par ye pushti nahi hui ki dono ek hi ghatna hain.",
+      "category": "World",
+      "exam_angle": "Hormuz, urja suraksha — UPSC IR",
+      "source": "The Straits Times",
+      "source_url": "https://www.straitstimes.com/world/europe/tanker-hit-by-unknown-projectile-near-omans-khasab-ukmto-says",
+      "genuineness": "corroborated",
+      "outlets": [
+        "UKMTO",
+        "The Straits Times",
+        "Outlook India",
+        "Arab News"
+      ],
+      "image": null,
+      "image_credit": null
+    },
+    {
+      "id": "world-20261121-1722-04",
+      "published_ist": "2026-11-21T12:00:00+05:30",
+      "headline": "Gaza me Israeli hamle me teen ki maut",
+      "detail": "Gaza City ke Tel al-Hawa me Israeli yuddh vimanon ne ek gaadi par bam giraya, teen log mare gaye aur kai ghayal hue.",
+      "category": "World",
+      "exam_angle": "Gaza, Israel-Palestine — UPSC IR",
+      "source": "WAFA",
+      "source_url": "https://english.wafa.ps/Pages/Details/177167",
+      "genuineness": "corroborated",
+      "outlets": [
+        "WAFA",
+        "Outlook India"
+      ],
+      "image": null,
+      "image_credit": null
     }
   ]
 }
