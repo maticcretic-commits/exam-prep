@@ -427,6 +427,80 @@
    ],
    "image": null,
    "image_credit": null
+  },
+  {
+   "id": "world-20261121-1322-01",
+   "published_ist": "2026-11-21T12:00:00+05:30",
+   "headline": "Basra me gas pipeline phati, chaar ki maut",
+   "detail": "Basra ke Hartha power station ke paas gas pipeline phatne se aag lag gayi, kam se kam chaar ki maut aur 35 ghayal hue.",
+   "category": "World",
+   "exam_angle": "Iraq, West Asia — UPSC IR",
+   "source": "The National",
+   "source_url": "https://www.thenationalnews.com/news/mena/2026/11/21/basra-gas-explosion-kills-two-and-injures-dozens/",
+   "genuineness": "verified",
+   "outlets": [
+    "The National",
+    "Shafaq News",
+    "WION",
+    "Roya News"
+   ],
+   "image": null,
+   "image_credit": null
+  },
+  {
+   "id": "world-20261121-1322-02",
+   "published_ist": "2026-11-21T12:00:00+05:30",
+   "headline": "Bangladesh me aagjani badhi, Grameen Bank nishane par",
+   "detail": "Hasina ki wapsi ko lekar Bangladesh me aagjani aur hamle badhe, Grameen Bank ki 72 shakhaon par hamla hua aur 124 log giraftar hue.",
+   "category": "World",
+   "exam_angle": "Bangladesh ki rajneeti, Bharat se sambandh — UPSC IR",
+   "source": "Dawn",
+   "source_url": "https://www.dawn.com/news/2046066/fresh-arson-attacks-rock-bangladesh",
+   "genuineness": "verified",
+   "outlets": [
+    "Dawn",
+    "Daily Sun",
+    "Firstpost",
+    "Moneycontrol"
+   ],
+   "image": null,
+   "image_credit": null
+  },
+  {
+   "id": "world-20261121-1322-03",
+   "published_ist": "2026-11-20T12:00:00+05:30",
+   "headline": "Korea pariksha me 111 chhatra nakal karte pakde",
+   "detail": "South Korea ki college entrance exam me 111 chhatron ke paas banned electronic devices mile, smart glasses aur camera-earphone bhi pakde gaye.",
+   "category": "World",
+   "exam_angle": "Parikshaon me AI se nakal par rok — UPSC",
+   "source": "Yonhap",
+   "source_url": "https://en.yna.co.kr/view/AEN20261120004400315?section=national/national",
+   "genuineness": "verified",
+   "outlets": [
+    "Yonhap",
+    "Korea Times",
+    "Korea Herald"
+   ],
+   "image": null,
+   "image_credit": null
+  },
+  {
+   "id": "world-20261121-1322-04",
+   "published_ist": "2026-11-20T12:00:00+05:30",
+   "headline": "Japan me do US Marines ko chori par saza",
+   "detail": "Japan ki adalat ne 11 million yen ki chori par do US Marines ko nilambit jail ki saza di, dono ko jail nahi jana padega.",
+   "category": "World",
+   "exam_angle": "US-Japan suraksha samjhauta (SOFA) — UPSC IR",
+   "source": "The Straits Times",
+   "source_url": "https://www.straitstimes.com/asia/east-asia/us-marine-in-japan-gets-suspended-sentence-for-thefts-totalling-89000?ref=latest",
+   "genuineness": "verified",
+   "outlets": [
+    "The Straits Times",
+    "WION",
+    "Japan Today"
+   ],
+   "image": null,
+   "image_credit": null
   }
  ]
 }
