@@ -501,6 +501,63 @@
    ],
    "image": null,
    "image_credit": null
+  },
+  {
+   "id": "world-20261121-1422-01",
+   "published_ist": "2026-11-21T12:00:00+05:30",
+   "headline": "Hormuz me tanker par hamla, koi ghayal nahi",
+   "detail": "Hormuz se bahar ja rahe tanker ko Khasab se 11 nautical miles uttar ajnabee projectile laga; UKMTO ke anusar koi ghayal nahi hua, paryavaran par asar abhi agyaat hai.",
+   "category": "World",
+   "exam_angle": "Hormuz jaladmarumadhya, urja suraksha — UPSC IR",
+   "source": "Reuters",
+   "source_url": "https://www.reuters.com/business/energy/tanker-hit-by-unknown-projectile-near-omans-khasab-ukmto-says-2026-11-21/",
+   "genuineness": "corroborated",
+   "outlets": [
+    "Reuters",
+    "Times of Israel"
+   ],
+   "image": null,
+   "image_credit": null
+  },
+  {
+   "id": "world-20261121-1422-02",
+   "published_ist": "2026-11-21T11:36:25+05:30",
+   "headline": "Ramallah me basti guard ne ek ko maara",
+   "detail": "Beit El basti ke suraksha guard ne Dura al-Qar gaon ke paas 42 saal ke Hamza Masoud Salim Abdo ko goli maari; shav roka gaya aur doosra vyakti giraftar hua.",
+   "category": "World",
+   "exam_angle": "West Bank, Israel-Palestine — UPSC IR",
+   "source": "ARY News",
+   "source_url": "https://arynews.tv/west-bank-settler-guard-shoots-dead-palestinian-man",
+   "genuineness": "verified",
+   "outlets": [
+    "ARY News",
+    "Haaretz",
+    "WAFA",
+    "SANA"
+   ],
+   "image": null,
+   "image_credit": null
+  },
+  {
+   "id": "world-20261121-0822-03",
+   "published_ist": "2026-11-21T12:00:00+05:30",
+   "headline": "COP31 samay se aage, jeevashm indhan par atka",
+   "detail": "Antalya me COP31 vaarta 21 November tak badh gayi; naya masuda jeevashm indhan ka zikr hata deta hai aur 120 arab dollar ki anukoolan vitt ki rakam bhi gayab hai — teesra masuda aaj aayega.",
+   "category": "World",
+   "exam_angle": "COP31, jalvayu vitt, jeevashm indhan — UPSC Environment",
+   "source": "Reuters",
+   "source_url": "https://www.reuters.com/sustainability/cop/cop31-climate-talks-spill-into-overtime-nations-quarrel-over-fossil-fuels-2026-11-20/",
+   "genuineness": "verified",
+   "outlets": [
+    "Reuters",
+    "AFP",
+    "The Daily Star",
+    "Free Malaysia Today",
+    "Hürriyet Daily News",
+    "Tribune"
+   ],
+   "image": null,
+   "image_credit": null
   }
  ]
 }
