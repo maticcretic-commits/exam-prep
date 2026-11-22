@@ -860,6 +860,44 @@
       ],
       "image": null,
       "image_credit": null
+    },
+    {
+      "id": "world-20261122-1922-01",
+      "published_ist": "2026-11-22T10:21:00+05:30",
+      "headline": "COP31 bina samjhote ke khatm, EU ne thukraya",
+      "detail": "Antalya me COP31 ka antim samjhota bina sahmati ke khatm ho gaya — EU aur Panama ne 'fossil fuels' ka zikr na hone par masaude ko thukraya; 2009 Copenhagen ke baad pehli baar koi samjhota nahi bana.",
+      "category": "World",
+      "exam_angle": "COP31, jalvayu samjhauta, 1.5°C — UPSC Environment",
+      "source": "Al Jazeera",
+      "source_url": "https://www.aljazeera.com/news/2026/11/22/fossil-fuel-impasse-pushes-cop31-climate-talks-into-second-day-of-overtime",
+      "genuineness": "verified",
+      "outlets": [
+        "Al Jazeera",
+        "Reuters",
+        "Ynet"
+      ],
+      "image": "../images/world/world-20261122-1922-01.jpg",
+      "image_credit": "Al Jazeera"
+    },
+    {
+      "id": "world-20261122-0630-01",
+      "published_ist": "2026-11-22T12:00:00+05:30",
+      "headline": "Iran ka Bahrain me US thikanon par hamla",
+      "detail": "IRGC ne dava kiya usne Bahrain ki al-Riffa aur Awali bases par do US Patriot radar nishana banaye; Bahrain ne kaha uski vayu raksha ne hamle roke, ek audyogik jagah par aag lagi. Corrected: Bahrain ke grih mantralaya ne baad me bataya hamle me do log ghayal hue, jinme ek Pakistani nagrik ki haalat gambhir hai.",
+      "category": "World",
+      "exam_angle": "Iran-America yuddh, Bahrain, US Fifth Fleet — UPSC IR",
+      "source": "Al Jazeera",
+      "source_url": "https://www.aljazeera.com/news/2026/11/21/bahrain-says-iranian-attack-causes-fire-at-industrial-facility",
+      "genuineness": "verified",
+      "outlets": [
+        "Al Jazeera",
+        "Gulf News",
+        "The Tribune",
+        "Iran International",
+        "Republic World"
+      ],
+      "image": null,
+      "image_credit": null
     }
   ]
 }
