@@ -1,6 +1,62 @@
 {
-  "updated_ist": "2026-11-22T17:23:42+05:30",
+  "updated_ist": "2026-11-22T18:24:26+05:30",
   "items": [
+    {
+      "id": "world-20261122-1822-01",
+      "published_ist": "2026-11-22T12:00:00+05:30",
+      "headline": "Kyiv kshetra me drone hamla, 14 lapata",
+      "detail": "Ravivaar subah Ukraine ke Kyiv kshetra ke Dymer me Russian drone hamle se paanch-manzila imarat ka hissa gir gaya — nau log nikale gaye, 14 log abhi bhi malbe me dabey hone ki aashanka hai; do log ghayal hue.",
+      "category": "World",
+      "exam_angle": "Ukraine yuddh, drone hamle — UPSC IR",
+      "source": "Reuters",
+      "source_url": "https://www.reuters.com/world/least-14-people-missing-after-russian-drone-hit-building-kyiv-region-zelenskiy-2026-11-22/",
+      "genuineness": "verified",
+      "outlets": [
+        "Reuters",
+        "Ukrainska Pravda",
+        "Kyiv Post",
+        "Ukrinform",
+        "The Hindu",
+        "The Straits Times"
+      ],
+      "image": null,
+      "image_credit": null
+    },
+    {
+      "id": "world-20261122-1822-02",
+      "published_ist": "2026-11-21T12:00:00+05:30",
+      "headline": "Lisbon me mehengaai ke khilaf hazaaron utre",
+      "detail": "Shanivaar ko Portugal ki rajdhani Lisbon me hazaaron log bhari baarish ke beech mehengaai, awas sankat aur kam vetan ke khilaf sadkon par utre — sabse bade mazdoor sangathan CGTP ne zyada vetan aur sasti zaroori cheezon ki maang ki.",
+      "category": "World",
+      "exam_angle": "Portugal, Europe me mehengaai virodh — UPSC IR",
+      "source": "Reuters",
+      "source_url": "https://www.reuters.com/world/europe/thousands-march-lisbon-living-costs-fuel-anger-2026-11-21/",
+      "genuineness": "verified",
+      "outlets": [
+        "Reuters",
+        "Al Jazeera",
+        "Demócrata"
+      ],
+      "image": null,
+      "image_credit": null
+    },
+    {
+      "id": "world-20261122-1822-03",
+      "published_ist": "2026-11-21T12:00:00+05:30",
+      "headline": "Myanmar ne ASEAN faisle ko 'unfair' kaha",
+      "detail": "Myanmar ki sena-samarthit sarkar ne Shanivaar ko ASEAN ke faisle ko 'unfair aur imbalanced' kaha — Manila shikhar sammelan me poori pratinidhitva se vanchit rakhne par bhedbhaav ka aarop lagaya; ASEAN ne paanch-sutriya shanti yojana par pragati ki shart rakhi hai.",
+      "category": "World",
+      "exam_angle": "ASEAN, Myanmar sankat — UPSC IR",
+      "source": "Reuters",
+      "source_url": "https://www.reuters.com/world/asia-pacific/myanmars-army-backed-government-calls-asean-decision-unfair-imbalanced-2026-11-22/",
+      "genuineness": "corroborated",
+      "outlets": [
+        "Reuters",
+        "The New Indian Express"
+      ],
+      "image": null,
+      "image_credit": null
+    },
     {
       "id": "world-20261122-1722-01",
       "published_ist": "2026-11-21T12:20:00+05:30",
@@ -16,46 +72,6 @@
         "CNN",
         "Al Jazeera",
         "Dawn",
-        "The Straits Times"
-      ],
-      "image": null,
-      "image_credit": null
-    },
-    {
-      "id": "world-20261122-1722-02",
-      "published_ist": "2026-11-20T12:00:00+05:30",
-      "headline": "Kryvyi Rih hamle me bachcha, paramedic mare",
-      "detail": "Shukravaar raat Ukraine ke Kryvyi Rih me Russia ke 'triple-tap' hamle me saat saal ka bachcha aur 20 saal ki paramedic mare gaye — pehle missile restaurant parking par gira, phir bachav-karmiyon par drone hamle hue; lagbhag 60 log ghayal hue.",
-      "category": "World",
-      "exam_angle": "Ukraine yuddh, triple-tap hamle — UPSC IR",
-      "source": "CNN",
-      "source_url": "https://www.cnn.com/2026/11/21/europe/kryvyi-rih-ukraine-russia-attack-intl?cid=external-feeds_iluminar_meta",
-      "genuineness": "verified",
-      "outlets": [
-        "CNN",
-        "Kyiv Post",
-        "Kyiv Independent",
-        "News18",
-        "Ukrainska Pravda"
-      ],
-      "image": null,
-      "image_credit": null
-    },
-    {
-      "id": "world-20261122-1722-03",
-      "published_ist": "2026-11-21T05:39:00+05:30",
-      "headline": "Peru me 6.7 teevrata ka bhookamp",
-      "detail": "Shukravaar shaam madhya Peru ke Junin ke paas 6.7 teevrata ka bhookamp aaya — gharo ko halka nuksan, bijli band aur bhooskhalan hue, koi mrityu nahi; jhatke rajdhani Lima tak mehsoos hue.",
-      "category": "World",
-      "exam_angle": "Bhookamp, Andes, Peru — UPSC Geography",
-      "source": "The Daily Star",
-      "source_url": "https://www.thedailystar.net/news/world/news/67-magnitude-earthquake-hits-central-peru-4329311",
-      "genuineness": "verified",
-      "outlets": [
-        "The Daily Star",
-        "TRT World",
-        "The New Indian Express",
-        "Korea Times",
         "The Straits Times"
       ],
       "image": null,
@@ -155,24 +171,6 @@
       "image_credit": null
     },
     {
-      "id": "world-20261122-1422-02",
-      "published_ist": "2026-11-20T12:00:00+05:30",
-      "headline": "Iran yuddh par America ka kharch $48.3 billion",
-      "detail": "Pentagon ne Congress ko bataya 13 November tak Iran yuddh par $48.3 billion kharch hue — hathiyar aur sanchalan shamil hain, thikanon ki marammat ka kharch isme nahi hai.",
-      "category": "World",
-      "exam_angle": "Iran yuddh ki lagat, America — UPSC IR/Economy",
-      "source": "Dawn",
-      "source_url": "https://www.dawn.com/news/print/2045807",
-      "genuineness": "verified",
-      "outlets": [
-        "Dawn",
-        "Associated Press",
-        "Business Standard"
-      ],
-      "image": null,
-      "image_credit": null
-    },
-    {
       "id": "world-20261122-1422-03",
       "published_ist": "2026-11-22T08:09:00+05:30",
       "headline": "Iran ka F-16 dava, America ne nakara",
@@ -247,18 +245,19 @@
     {
       "id": "world-20261122-1222-05",
       "published_ist": "2026-11-22T12:00:00+05:30",
-      "headline": "Indonesia candy factory me aag, 39 lapata",
-      "detail": "Jakarta ke paas Serang ki Fonusa Agung Mulia candy factory me shanivaar dopahar aag lagi — teen mare, 36 lapata hain aur talash jaari hai; 15 ko surakshit nikala gaya, chaar ghayal hue, kuchh hisso me aag abhi bhi jal rahi hai. (Updated)",
+      "headline": "Indonesia factory aag: 7 shav, 50 lapata",
+      "detail": "Ravivaar tak Indonesia ke Cikande candy factory ki aag me saat body bag mile aur lagbhag 50 mazdoor abhi bhi lapata hain — aag ki teevrata se pehchan mushkil, DNA jaanch me do-teen hafte lag sakte hain; shift me lagbhag 300 log maujood the.",
       "category": "World",
       "exam_angle": null,
-      "source": "The Straits Times",
-      "source_url": "https://www.straitstimes.com/asia/se-asia/rescuers-say-39-missing-after-indonesia-factory-fire",
+      "source": "Dawn",
+      "source_url": "https://www.dawn.com/news/2046306/three-dead-36-missing-after-indonesia-factory-fire",
       "genuineness": "verified",
       "outlets": [
+        "Dawn",
         "The Straits Times",
-        "The Hindu",
-        "Deccan Chronicle",
-        "Kuwait Times"
+        "Ynet",
+        "Times of India",
+        "AsiaOne"
       ],
       "image": null,
       "image_credit": null
