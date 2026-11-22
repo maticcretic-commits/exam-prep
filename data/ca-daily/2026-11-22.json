@@ -72,6 +72,76 @@
     ],
     "answer_index": 1
    }
+  },
+  {
+   "episode": 150,
+   "video_hi": "-XsCRew5ow4",
+   "video_hinglish": "-XsCRew5ow4",
+   "capsules": [
+    {
+     "id": "ca-ep150-s1",
+     "headline_hi": "PM-SETU: kaushal ke liye 60,000 crore",
+     "headline_hinglish": "PM-SETU: kaushal ke liye 60,000 crore",
+     "detail_hi": "Lucknow mein paanchve Kaushal Deekshant Samaroh mein PM ne ghoshna ki, WorldSkills Asia 2027 Greater Noida mein hoga.",
+     "detail_hinglish": "Lucknow mein paanchve Kaushal Deekshant Samaroh mein PM ne ghoshna ki, WorldSkills Asia 2027 Greater Noida mein hoga.",
+     "category_hi": "Skill Development",
+     "category_en": "National"
+    },
+    {
+     "id": "ca-ep150-s2",
+     "headline_hi": "Bharat-Canada CEPA: chhatha daur poora",
+     "headline_hinglish": "Bharat-Canada CEPA: chhatha daur poora",
+     "detail_hi": "Gyaarah se bees November tak Delhi mein baatchit, vastuon, sevaon aur nivesh par sahamati ki koshish.",
+     "detail_hinglish": "Gyaarah se bees November tak Delhi mein baatchit, vastuon, sevaon aur nivesh par sahamati ki koshish.",
+     "category_hi": "Economy",
+     "category_en": "Economy"
+    },
+    {
+     "id": "ca-ep150-s3",
+     "headline_hi": "Monsoon Thunder: NCB-DEA ne 6 taskaron ko pakda",
+     "headline_hinglish": "Monsoon Thunder: NCB-DEA ne 6 taskaron ko pakda",
+     "detail_hi": "Bharat-America ke sanyukt operation mein seema-paar nasha taskari network par badi karravai hui.",
+     "detail_hinglish": "Bharat-America ke sanyukt operation mein seema-paar nasha taskari network par badi karravai hui.",
+     "category_hi": "International",
+     "category_en": "National"
+    },
+    {
+     "id": "ca-ep150-s4",
+     "headline_hi": "Arunachal: Shah ne seema suraksha ki samiksha ki",
+     "headline_hinglish": "Arunachal: Shah ne seema suraksha ki samiksha ki",
+     "detail_hi": "Itanagar mein baithak, Cheen se lagti ek hazaar ek sau chhabbees kilometre seema par vikas par zor.",
+     "detail_hinglish": "Itanagar mein baithak, Cheen se lagti ek hazaar ek sau chhabbees kilometre seema par vikas par zor.",
+     "category_hi": "Security",
+     "category_en": "National"
+    },
+    {
+     "id": "ca-ep150-s5",
+     "headline_hi": "Odisha mein Cyber Command Centre ko 249 crore",
+     "headline_hinglish": "Odisha mein Cyber Command Centre ko 249 crore",
+     "detail_hi": "Cyber apradh se ladne ke liye Odisha Cyber Command Centre banega, kul kharch do sau unchaas crore rupaye.",
+     "detail_hinglish": "Cyber apradh se ladne ke liye Odisha Cyber Command Centre banega, kul kharch do sau unchaas crore rupaye.",
+     "category_hi": "Governance",
+     "category_en": "National"
+    }
+   ],
+   "mcq": {
+    "id": "ca-ep150-mcq",
+    "q_hi": "PM-SETU yojana ke tahat kaushal vikas par kitna nivesh hoga?",
+    "q_hinglish": "PM-SETU yojana ke tahat kaushal vikas par kitna nivesh hoga?",
+    "options_hi": [
+     "30,000 crore rupaye",
+     "45,000 crore rupaye",
+     "60,000 crore rupaye",
+     "75,000 crore rupaye"
+    ],
+    "options_hinglish": [
+     "30,000 crore rupaye",
+     "45,000 crore rupaye",
+     "60,000 crore rupaye",
+     "75,000 crore rupaye"
+    ],
+    "answer_index": 2
+   }
   }
  ]
 }
