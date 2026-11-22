@@ -1,5 +1,5 @@
 {
- "updated_ist": "2026-11-22T14:28:13+05:30",
+ "updated_ist": "2026-11-22T15:24:13+05:30",
  "items": [
   {
    "id": "world-20261122-0630-01",
@@ -627,6 +627,25 @@
     "The Hindu",
     "Deccan Chronicle",
     "Kuwait Times"
+   ],
+   "image": null,
+   "image_credit": null
+  },
+  {
+   "id": "world-20261122-1522-01",
+   "published_ist": "2026-11-21T12:00:00+05:30",
+   "headline": "Hormuz me do tanker par hamla",
+   "detail": "UKMTO ne bataya Shanivar ko Hormuz jaladmaru-madhya me do tanker par agyaat projectile se hamla hua — ek ki stern, doosre ke engine room par; koi ghayal nahi hua. Iran ne ek tanker ke mine se takrane ka dava kiya, jiski swatantra pushti nahi hui.",
+   "category": "World",
+   "exam_angle": "Strait of Hormuz, tel vyapar, Iran-America yuddh — UPSC IR",
+   "source": "Gulf News",
+   "source_url": "https://gulfnews.com/world/mena/two-tankers-attacked-in-hormuz-strait-maritime-agency-1.500756027",
+   "genuineness": "verified",
+   "outlets": [
+    "Al Jazeera",
+    "Haaretz",
+    "The Jerusalem Post",
+    "Arab News"
    ],
    "image": null,
    "image_credit": null
