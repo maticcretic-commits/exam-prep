@@ -1,5 +1,5 @@
 {
- "updated_ist": "2026-11-22T07:26:00+05:30",
+ "updated_ist": "2026-11-22T08:24:43+05:30",
  "items": [
   {
    "id": "world-20261122-0630-01",
@@ -152,6 +152,61 @@
     "The Hindu",
     "Al Jazeera",
     "Reuters"
+   ],
+   "image": null,
+   "image_credit": null
+  },
+  {
+   "id": "world-20261122-0822-01",
+   "published_ist": "2026-11-21T08:59:00+05:30",
+   "headline": "FBI aur USDA par hacker hamla",
+   "detail": "CNN ke mutabik FBI ke National Crime Information Center database me ghuspaith ki jaanch chal rahi hai; NBC ke mutabik USDA ke kisan-bhugtan system par bhi cyber hamla hua — dono ka sambandh aur zimmedar abhi agyaat hai.",
+   "category": "World",
+   "exam_angle": "America ki cyber suraksha, NCIC database — UPSC Science & Tech",
+   "source": "The Hindu",
+   "source_url": "https://www.thehindu.com/news/international/fbis-criminal-information-database-hacked-reports-say/article71727198.ece",
+   "genuineness": "verified",
+   "outlets": [
+    "CNN",
+    "NBC News",
+    "The Hindu",
+    "Dawn"
+   ],
+   "image": "../images/world/world-20261122-0822-01.jpg",
+   "image_credit": "ajay_suresh, Wikimedia Commons (CC BY 2.0)"
+  },
+  {
+   "id": "world-20261122-0822-02",
+   "published_ist": "2026-11-20T08:46:00+05:30",
+   "headline": "Trump, Xi, Putin ki shanti ghoshna",
+   "detail": "Shenzhen me pehli baar teen bade netaon ne 'Declaration toward Peace' jaari ki — parmanu yuddh kabhi nahi ladna chahiye, UN sudhar, tel aapoorti aur ICC par sahmati; Ukraine aur Iran ka zikr nahi, koi samay-seema nahi.",
+   "category": "World",
+   "exam_angle": "US-China-Russia, APEC, parmanu hathiyar — UPSC IR",
+   "source": "Channel News Asia",
+   "source_url": "https://www.channelnewsasia.com/world/china-russia-us-peace-declaration-nuclear-trilateral-talks-6565716",
+   "genuineness": "verified",
+   "outlets": [
+    "Channel News Asia",
+    "Dawn",
+    "Indian Express",
+    "Reuters"
+   ],
+   "image": "../images/world/world-20261122-0822-02.jpg",
+   "image_credit": "The White House, Wikimedia Commons (Public domain)"
+  },
+  {
+   "id": "world-20261122-0822-03",
+   "published_ist": "2026-11-22T06:59:00+05:30",
+   "headline": "Qatar ne Tehran me vaarta ki",
+   "detail": "Iran ke up-mantri ne kaha Qatar ka pratinidhimandal pichhli shaam Tehran aaya aur do ghante vaarta ki; yuddh khatm karne ki baatchit abhi atki hui hai.",
+   "category": "World",
+   "exam_angle": "West Asia kootniti, Qatar madhyasthata — UPSC IR",
+   "source": "The Hindu",
+   "source_url": "https://www.thehindu.com/news/international/bahrain-says-iran-struck-industrial-site-as-tankers-hit-in-hormuz/article71730497.ece",
+   "genuineness": "corroborated",
+   "outlets": [
+    "The Hindu",
+    "Gulf News"
    ],
    "image": null,
    "image_credit": null
