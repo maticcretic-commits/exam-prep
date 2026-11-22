@@ -1,21 +1,92 @@
 {
- "updated_ist": "2026-11-22T09:25:21+05:30",
+ "updated_ist": "2026-11-22T10:27:16+05:30",
  "items": [
   {
-   "id": "world-20261122-0925-01",
-   "published_ist": "2026-11-21T00:19:27+05:30",
-   "headline": "Anthropic ka $93.5 billion record IPO",
-   "detail": "AI company Anthropic ka IPO itihas ka sabse bada ban gaya — $93.5 billion jama, SpaceX ka $86 billion ka record toota; share pehle din 17% chadha, agle din 9.5% gira.",
+   "id": "world-20261122-1027-01",
+   "published_ist": "2026-11-21T12:00:00+05:30",
+   "headline": "Nigeria: janaze wali naav palti, 24 mare",
+   "detail": "Bayelsa me Ayama se Ukubie ja rahi bheed-bhaad wali naav shukravar ko palat gayi; NEMA ke mutabik 24 shav mile, 24 log bachaye gaye, talash jaari hai.",
    "category": "World",
-   "exam_angle": "Sabse bada IPO, AI economy — UPSC Economy",
+   "exam_angle": "Nigeria, aapda prabandhan — UPSC Geography",
    "source": "NDTV",
-   "source_url": "https://www.ndtv.com/world-news/anthropic-falls-over-9-day-after-record-ipo-12356452/amp/1",
+   "source_url": "https://www.ndtv.com/world-news/24-killed-as-boat-carrying-people-to-a-funeral-capsizes-in-nigeria-12360787",
    "genuineness": "verified",
    "outlets": [
-    "The Information",
-    "CNBC",
-    "BBC",
-    "NDTV"
+    "Al Jazeera",
+    "Associated Press",
+    "Times Now"
+   ],
+   "image": null,
+   "image_credit": null
+  },
+  {
+   "id": "world-20261122-1027-02",
+   "published_ist": "2026-11-21T12:00:00+05:30",
+   "headline": "NATO: Poland ki har inch zameen ki raksha",
+   "detail": "NATO pramukh Rutte ne Warsaw me kaha woh Poland ki har inch zameen ki raksha ki guarantee dete hain; NATO parishad somvar ko ullanghan par baithak karegi.",
+   "category": "World",
+   "exam_angle": "NATO, Poland, Russia-Ukraine yuddh — UPSC IR",
+   "source": "Reuters",
+   "source_url": "https://www.reuters.com/world/nato-will-defend-every-inch-polish-territory-rutte-says-2026-11-21/",
+   "genuineness": "verified",
+   "outlets": [
+    "Reuters",
+    "Kyiv Independent",
+    "The Times"
+   ],
+   "image": null,
+   "image_credit": null
+  },
+  {
+   "id": "world-20261122-1027-03",
+   "published_ist": "2026-11-21T12:00:00+05:30",
+   "headline": "Iran: Hormuz khul sakta hai, shartein manzoor hon",
+   "detail": "Videsh mantri Araghchi ne kaha America 'uchit shartein' mane to Hormuz kholna mushkil nahi; up-mantri ne Americi naakaabandi ko 'shatrutapoorn' bataya.",
+   "category": "World",
+   "exam_angle": "Hormuz, Iran-America, tel vyapar — UPSC IR",
+   "source": "Al Jazeera",
+   "source_url": "https://www.aljazeera.com/news/2026/11/21/iran-says-held-talks-with-qatari-mediators-urges-us-to-accept-conditions?traffic_source=rss",
+   "genuineness": "verified",
+   "outlets": [
+    "Al Jazeera",
+    "The Times of India",
+    "The Tribune"
+   ],
+   "image": null,
+   "image_credit": null
+  },
+  {
+   "id": "world-20261122-1027-04",
+   "published_ist": "2026-11-22T07:27:00+05:30",
+   "headline": "China ne US telecom pratibandh ka virodh kiya",
+   "detail": "China ke vanijya mantralaya ne FCC ke faisle ka virodh kiya — China Mobile, China Telecom aur China Unicom ko US phone number se roka gaya; jawabi kadam ki chetavni di.",
+   "category": "World",
+   "exam_angle": "US-China, telecom, rashtriya suraksha — UPSC IR/Economy",
+   "source": "Reuters",
+   "source_url": "https://www.reuters.com/world/china-opposes-us-fcc-ban-chinese-telecoms-direct-access-us-phone-numbers-2026-11-22/",
+   "genuineness": "verified",
+   "outlets": [
+    "Reuters",
+    "South China Morning Post",
+    "The Edge Singapore"
+   ],
+   "image": null,
+   "image_credit": null
+  },
+  {
+   "id": "world-20261122-1027-05",
+   "published_ist": "2026-11-21T12:00:00+05:30",
+   "headline": "Baltic me Russian jahaz par drone hamla, aag",
+   "detail": "Finland ki khadi me Kaliningrad ja raha Sparta II drone hamle ke baad jal utha; 16 sadasyiya dal ko nikala gaya, Finland ko Ukraine par shak hai.",
+   "category": "World",
+   "exam_angle": "Baltic, Finland, Russia-Ukraine yuddh — UPSC IR",
+   "source": "Reuters",
+   "source_url": "https://www.reuters.com/world/russia-says-cargo-vessel-struck-by-drones-finland-says-it-is-fire-its-waters-2026-11-21/",
+   "genuineness": "verified",
+   "outlets": [
+    "Reuters",
+    "CNN",
+    "Dawn"
    ],
    "image": null,
    "image_credit": null
@@ -38,63 +109,6 @@
    ],
    "image": "../images/world/world-20261122-0925-02.jpg",
    "image_credit": "Alexxx1979, Wikimedia Commons (CC BY-SA 4.0)"
-  },
-  {
-   "id": "world-20261122-0925-03",
-   "published_ist": "2026-11-20T04:51:00+05:30",
-   "headline": "Trump ne Iran faisla agle saal tak taala",
-   "detail": "Trump ne kaha Iran par naye hamlo ka faisla 'saal ki shuruaat ke baad' hoga — Reuters se 'We've got time', Fox ko '1 January ke baad dekhenge'; Senate ne yuddh rokne wala prastav phir kharij kiya.",
-   "category": "World",
-   "exam_angle": "US-Iran tanaav, West Asia — UPSC IR",
-   "source": "Haaretz",
-   "source_url": "https://www.haaretz.com/us-news/2026-11-20/ty-article/trump-pushes-iran-strike-decision-to-next-year-weve-got-time/000001a1-f623-d175-abf5-fe3795240000",
-   "genuineness": "verified",
-   "outlets": [
-    "Reuters",
-    "Gulf News",
-    "Haaretz",
-    "SCMP"
-   ],
-   "image": "../images/world/world-20261122-0925-03.jpg",
-   "image_credit": "The White House, Wikimedia Commons (Public domain)"
-  },
-  {
-   "id": "world-20261122-0822-01",
-   "published_ist": "2026-11-21T08:59:00+05:30",
-   "headline": "FBI aur USDA par hacker hamla",
-   "detail": "CNN ke mutabik FBI ke National Crime Information Center database me ghuspaith ki jaanch chal rahi hai; NBC ke mutabik USDA ke kisan-bhugtan system par bhi cyber hamla hua — dono ka sambandh aur zimmedar abhi agyaat hai.",
-   "category": "World",
-   "exam_angle": "America ki cyber suraksha, NCIC database — UPSC Science & Tech",
-   "source": "The Hindu",
-   "source_url": "https://www.thehindu.com/news/international/fbis-criminal-information-database-hacked-reports-say/article71727198.ece",
-   "genuineness": "verified",
-   "outlets": [
-    "CNN",
-    "NBC News",
-    "The Hindu",
-    "Dawn"
-   ],
-   "image": "../images/world/world-20261122-0822-01.jpg",
-   "image_credit": "ajay_suresh, Wikimedia Commons (CC BY 2.0)"
-  },
-  {
-   "id": "world-20261122-0822-02",
-   "published_ist": "2026-11-20T08:46:00+05:30",
-   "headline": "Trump, Xi, Putin ki shanti ghoshna",
-   "detail": "Shenzhen me pehli baar teen bade netaon ne 'Declaration toward Peace' jaari ki — parmanu yuddh kabhi nahi ladna chahiye, UN sudhar, tel aapoorti aur ICC par sahmati; Ukraine aur Iran ka zikr nahi, koi samay-seema nahi.",
-   "category": "World",
-   "exam_angle": "US-China-Russia, APEC, parmanu hathiyar — UPSC IR",
-   "source": "Channel News Asia",
-   "source_url": "https://www.channelnewsasia.com/world/china-russia-us-peace-declaration-nuclear-trilateral-talks-6565716",
-   "genuineness": "verified",
-   "outlets": [
-    "Channel News Asia",
-    "Dawn",
-    "Indian Express",
-    "Reuters"
-   ],
-   "image": "../images/world/world-20261122-0822-02.jpg",
-   "image_credit": "The White House, Wikimedia Commons (Public domain)"
   },
   {
    "id": "world-20261122-0822-03",
@@ -209,44 +223,6 @@
    "image_credit": null
   },
   {
-   "id": "world-20261122-0630-03",
-   "published_ist": "2026-11-21T05:39:00+05:30",
-   "headline": "Peru ke Andes me 6.7 ka bhukamp",
-   "detail": "Junin ke paas shaam 7:09 baje bhukamp aaya, jhatke Lima tak mehsoos hue; USGS ke anusar teevrata 6.7 aur gehrai 108 km thi, koi maut ya bada nuksan nahi hua.",
-   "category": "World",
-   "exam_angle": "Bhukamp, Ring of Fire — UPSC Geography",
-   "source": "The Manila Times",
-   "source_url": "https://www.manilatimes.net/2026/11/22/world/americas-emea/67-magnitude-quake-hits-peru-no-report-of-deaths/2475517/amp",
-   "genuineness": "verified",
-   "outlets": [
-    "Associated Press",
-    "USGS",
-    "Korea JoongAng Daily",
-    "NDTV"
-   ],
-   "image": null,
-   "image_credit": null
-  },
-  {
-   "id": "world-20261122-0630-04",
-   "published_ist": "2026-11-20T12:00:00+05:30",
-   "headline": "Russia ka Ukraine par bada hamla, aath mare",
-   "detail": "Russia ne raat bhar 400 se zyada drone aur 110 se zyada missile daage, Kyiv ke Dnipro pul aur bijli-rail dhwast hue; aath log mare gaye, chhah Kyiv me.",
-   "category": "World",
-   "exam_angle": "Russia-Ukraine yuddh, Kerch Bridge — UPSC IR",
-   "source": "Al Jazeera",
-   "source_url": "https://www.aljazeera.com/news/2026/11/20/russia-unleashes-retaliatory-barrage-on-kyiv-bridges",
-   "genuineness": "verified",
-   "outlets": [
-    "Al Jazeera",
-    "Associated Press",
-    "Moneycontrol",
-    "The New Indian Express"
-   ],
-   "image": null,
-   "image_credit": null
-  },
-  {
    "id": "world-20261121-2224-01",
    "published_ist": "2026-11-21T17:23:00+05:30",
    "headline": "Mexico ne FBI-wanted 'El Chapo Isidro' pakda",
@@ -320,42 +296,6 @@
     "Al Jazeera",
     "Reuters",
     "Xinhua"
-   ],
-   "image": null,
-   "image_credit": null
-  },
-  {
-   "id": "world-20261121-2024-02",
-   "published_ist": "2026-11-20T12:00:00+05:30",
-   "headline": "Iraq ki sena Kataib Hezbollah ke gadh me ghusi",
-   "detail": "Samjhaute ke baad Iraqi suraksha balon ne Baghdad ke dakshin me Jurf al-Sakhar me pravesh kiya; Kataib Hezbollah ek mahine ke andar wahan se hatne par raazi hua, tel taskari ke aaropon ke beech.",
-   "category": "World",
-   "exam_angle": "Iraq, Iran-samarthit milicia — UPSC IR",
-   "source": "Al Jazeera",
-   "source_url": "https://www.aljazeera.com/amp/news/2026/11/20/iraqi-forces-deploy-to-jurf-al-sakhar-after-deal-with-iran-backed-group",
-   "genuineness": "verified",
-   "outlets": [
-    "Al Jazeera",
-    "International Crisis Group",
-    "The Jerusalem Post",
-    "Arab News"
-   ],
-   "image": null,
-   "image_credit": null
-  },
-  {
-   "id": "world-20261121-2024-03",
-   "published_ist": "2026-11-20T12:00:00+05:30",
-   "headline": "COP31 ke naye draft se jeevashm-indhan zikr hata",
-   "detail": "COP31 ke sanshodhit draft me jeevashm indhan se door hatne aur 120 arab dollar ke jalvayu vitt ka zikr hata diya gaya; 2035 tak bijli ki hissedari 35% karne ka lakshya barkarar hai.",
-   "category": "World",
-   "exam_angle": "COP31, jalvayu vitt — UPSC Environment",
-   "source": "Reuters",
-   "source_url": "https://www.reuters.com/sustainability/climate-focus-cop31-draft-deal-strips-fossil-fuel-references-2026-11-20/",
-   "genuineness": "corroborated",
-   "outlets": [
-    "Reuters",
-    "Down to Earth"
    ],
    "image": null,
    "image_credit": null
