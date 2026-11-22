@@ -1,6 +1,25 @@
 {
- "updated_ist": "2026-11-22T14:28:13+05:30",
+ "updated_ist": "2026-11-22T15:24:13+05:30",
  "items": [
+  {
+   "id": "world-20261122-1522-01",
+   "published_ist": "2026-11-21T12:00:00+05:30",
+   "headline": "Hormuz me do tanker par hamla",
+   "detail": "UKMTO ne bataya Shanivar ko Hormuz jaladmaru-madhya me do tanker par agyaat projectile se hamla hua — ek ki stern, doosre ke engine room par; koi ghayal nahi hua. Iran ne ek tanker ke mine se takrane ka dava kiya, jiski swatantra pushti nahi hui.",
+   "category": "World",
+   "exam_angle": "Strait of Hormuz, tel vyapar, Iran-America yuddh — UPSC IR",
+   "source": "Gulf News",
+   "source_url": "https://gulfnews.com/world/mena/two-tankers-attacked-in-hormuz-strait-maritime-agency-1.500756027",
+   "genuineness": "verified",
+   "outlets": [
+    "Al Jazeera",
+    "Haaretz",
+    "The Jerusalem Post",
+    "Arab News"
+   ],
+   "image": null,
+   "image_credit": null
+  },
   {
    "id": "world-20261122-1422-01",
    "published_ist": "2026-11-22T12:00:00+05:30",
@@ -422,25 +441,6 @@
    ],
    "image": null,
    "image_credit": null
-  },
-  {
-   "id": "world-20261122-0722-01",
-   "published_ist": "2026-11-21T12:00:00+05:30",
-   "headline": "Houthi missile Riyadh par, Saudi ne roke",
-   "detail": "Saudi gathbandhan ne Riyadh ki taraf aaye teen Houthi ballistic missile roke; Houthi ne Hodeidah hamle ka badla lene ki baat kahi.",
-   "category": "World",
-   "exam_angle": "Yemen-Saudi sangharsh, Red Sea suraksha — UPSC IR",
-   "source": "The Hindu",
-   "source_url": "https://www.thehindu.com/news/international/yemens-houthis-launch-strikes-after-saudi-coalitions-special-operation/article71729354.ece",
-   "genuineness": "verified",
-   "outlets": [
-    "The Hindu",
-    "Reuters",
-    "Dawn",
-    "South China Morning Post"
-   ],
-   "image": "../images/world/world-20261122-0722-01.jpg",
-   "image_credit": "B.alotaby, Wikimedia Commons (CC BY-SA 4.0)"
   }
  ]
 }
