@@ -1,5 +1,5 @@
 {
- "updated_ist": "2026-11-22T09:25:21+05:30",
+ "updated_ist": "2026-11-22T10:27:16+05:30",
  "items": [
   {
    "id": "world-20261122-0630-01",
@@ -267,6 +267,96 @@
    ],
    "image": "../images/world/world-20261122-0925-03.jpg",
    "image_credit": "The White House, Wikimedia Commons (Public domain)"
+  },
+  {
+   "id": "world-20261122-1027-01",
+   "published_ist": "2026-11-21T12:00:00+05:30",
+   "headline": "Nigeria: janaze wali naav palti, 24 mare",
+   "detail": "Bayelsa me Ayama se Ukubie ja rahi bheed-bhaad wali naav shukravar ko palat gayi; NEMA ke mutabik 24 shav mile, 24 log bachaye gaye, talash jaari hai.",
+   "category": "World",
+   "exam_angle": "Nigeria, aapda prabandhan — UPSC Geography",
+   "source": "NDTV",
+   "source_url": "https://www.ndtv.com/world-news/24-killed-as-boat-carrying-people-to-a-funeral-capsizes-in-nigeria-12360787",
+   "genuineness": "verified",
+   "outlets": [
+    "Al Jazeera",
+    "Associated Press",
+    "Times Now"
+   ],
+   "image": null,
+   "image_credit": null
+  },
+  {
+   "id": "world-20261122-1027-02",
+   "published_ist": "2026-11-21T12:00:00+05:30",
+   "headline": "NATO: Poland ki har inch zameen ki raksha",
+   "detail": "NATO pramukh Rutte ne Warsaw me kaha woh Poland ki har inch zameen ki raksha ki guarantee dete hain; NATO parishad somvar ko ullanghan par baithak karegi.",
+   "category": "World",
+   "exam_angle": "NATO, Poland, Russia-Ukraine yuddh — UPSC IR",
+   "source": "Reuters",
+   "source_url": "https://www.reuters.com/world/nato-will-defend-every-inch-polish-territory-rutte-says-2026-11-21/",
+   "genuineness": "verified",
+   "outlets": [
+    "Reuters",
+    "Kyiv Independent",
+    "The Times"
+   ],
+   "image": null,
+   "image_credit": null
+  },
+  {
+   "id": "world-20261122-1027-03",
+   "published_ist": "2026-11-21T12:00:00+05:30",
+   "headline": "Iran: Hormuz khul sakta hai, shartein manzoor hon",
+   "detail": "Videsh mantri Araghchi ne kaha America 'uchit shartein' mane to Hormuz kholna mushkil nahi; up-mantri ne Americi naakaabandi ko 'shatrutapoorn' bataya.",
+   "category": "World",
+   "exam_angle": "Hormuz, Iran-America, tel vyapar — UPSC IR",
+   "source": "Al Jazeera",
+   "source_url": "https://www.aljazeera.com/news/2026/11/21/iran-says-held-talks-with-qatari-mediators-urges-us-to-accept-conditions?traffic_source=rss",
+   "genuineness": "verified",
+   "outlets": [
+    "Al Jazeera",
+    "The Times of India",
+    "The Tribune"
+   ],
+   "image": null,
+   "image_credit": null
+  },
+  {
+   "id": "world-20261122-1027-04",
+   "published_ist": "2026-11-22T07:27:00+05:30",
+   "headline": "China ne US telecom pratibandh ka virodh kiya",
+   "detail": "China ke vanijya mantralaya ne FCC ke faisle ka virodh kiya — China Mobile, China Telecom aur China Unicom ko US phone number se roka gaya; jawabi kadam ki chetavni di.",
+   "category": "World",
+   "exam_angle": "US-China, telecom, rashtriya suraksha — UPSC IR/Economy",
+   "source": "Reuters",
+   "source_url": "https://www.reuters.com/world/china-opposes-us-fcc-ban-chinese-telecoms-direct-access-us-phone-numbers-2026-11-22/",
+   "genuineness": "verified",
+   "outlets": [
+    "Reuters",
+    "South China Morning Post",
+    "The Edge Singapore"
+   ],
+   "image": null,
+   "image_credit": null
+  },
+  {
+   "id": "world-20261122-1027-05",
+   "published_ist": "2026-11-21T12:00:00+05:30",
+   "headline": "Baltic me Russian jahaz par drone hamla, aag",
+   "detail": "Finland ki khadi me Kaliningrad ja raha Sparta II drone hamle ke baad jal utha; 16 sadasyiya dal ko nikala gaya, Finland ko Ukraine par shak hai.",
+   "category": "World",
+   "exam_angle": "Baltic, Finland, Russia-Ukraine yuddh — UPSC IR",
+   "source": "Reuters",
+   "source_url": "https://www.reuters.com/world/russia-says-cargo-vessel-struck-by-drones-finland-says-it-is-fire-its-waters-2026-11-21/",
+   "genuineness": "verified",
+   "outlets": [
+    "Reuters",
+    "CNN",
+    "Dawn"
+   ],
+   "image": null,
+   "image_credit": null
   }
  ]
 }
