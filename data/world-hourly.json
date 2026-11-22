@@ -1,6 +1,78 @@
 {
- "updated_ist": "2026-11-22T10:27:16+05:30",
+ "updated_ist": "2026-11-22T11:25:12+05:30",
  "items": [
+  {
+   "id": "world-20261122-1122-01",
+   "published_ist": "2026-11-22T12:00:00+05:30",
+   "headline": "Gaza: khane wali gaadi par hamla, teen mare",
+   "detail": "Gaza City ke Tel al-Hawa me khana pahuncha rahi gaadi par Israeli hamle me teen log mare gaye; Israel ne kaha woh Islamic Jihad ke ladake the, Hamas ne madhyasthon ki turant baithak mangi.",
+   "category": "World",
+   "exam_angle": "Gaza yuddhaviram, Israel-Hamas — UPSC IR",
+   "source": "Dawn",
+   "source_url": "https://www.dawn.com/news/print/2046198",
+   "genuineness": "verified",
+   "outlets": [
+    "Dawn",
+    "The Times of India",
+    "Anadolu Agency"
+   ],
+   "image": null,
+   "image_credit": null
+  },
+  {
+   "id": "world-20261122-1122-02",
+   "published_ist": "2026-11-21T12:00:00+05:30",
+   "headline": "France me chhathe hafte bhi bada pradarshan",
+   "detail": "Mehngai aur kharab sarkari sevayon ke khilaf France bhar me chhathe hafte pradarshan hue; grih mantralaya ke mutabik 82,500 log shamil hue, 144 giraftar, kai jagah aansu gas chali.",
+   "category": "World",
+   "exam_angle": null,
+   "source": "Al Jazeera",
+   "source_url": "https://www.aljazeera.com/news/2026/11/21/thousands-protest-across-europe-over-living-costs-and-housing",
+   "genuineness": "verified",
+   "outlets": [
+    "Al Jazeera",
+    "RFI",
+    "Agence France-Presse"
+   ],
+   "image": null,
+   "image_credit": null
+  },
+  {
+   "id": "world-20261122-1122-03",
+   "published_ist": "2026-11-22T12:00:00+05:30",
+   "headline": "Iran me bijli rationing, ravivaar se katoti",
+   "detail": "Yuddh se urja dhacha kshatigrast hone par Iran ne ravivaar se rolling power cut ki ghoshna ki — ilaake ke hisab se har do din me ya roz do ghante tak bijli band rahegi.",
+   "category": "World",
+   "exam_angle": "Iran urja sankat, yuddh ka asar — UPSC IR/Economy",
+   "source": "The Straits Times",
+   "source_url": "https://www.straitstimes.com/world/middle-east/iran-to-ration-electricity-as-war-hits-energy-network",
+   "genuineness": "corroborated",
+   "outlets": [
+    "Agence France-Presse",
+    "VNN"
+   ],
+   "image": null,
+   "image_credit": null
+  },
+  {
+   "id": "world-20261122-1122-04",
+   "published_ist": "2026-11-22T04:20:00+05:30",
+   "headline": "Mecca kshetra me alert, missile roka gaya",
+   "detail": "Shanivaar raat Houthi missile paschimi Saudi ki taraf aaya to Mecca prant me khatre ka alert jaari hua, thodi der me hata liya gaya; gathbandhan ne missile roka, Houthi ne Mecca ko nishana banane se inkar kiya.",
+   "category": "World",
+   "exam_angle": "Houthi-Saudi sangharsh, Mecca suraksha — UPSC IR",
+   "source": "Times Now",
+   "source_url": "https://www.timesnownews.com/world/middle-east/iran-us-war-latest-news-donald-trump-latest-statement-on-us-involvement-israel-conflict-middle-east-tensions-and-strait-of-hormuz-crisis-liveblog-156536030",
+   "genuineness": "verified",
+   "outlets": [
+    "Times Now",
+    "Anadolu Agency",
+    "Iran International",
+    "The Times of India"
+   ],
+   "image": null,
+   "image_credit": null
+  },
   {
    "id": "world-20261122-1027-01",
    "published_ist": "2026-11-21T12:00:00+05:30",
@@ -372,24 +444,6 @@
     "Channel News Asia",
     "The Hindu",
     "Moneycontrol"
-   ],
-   "image": null,
-   "image_credit": null
-  },
-  {
-   "id": "world-20261121-1822-03",
-   "published_ist": "2026-11-21T12:00:00+05:30",
-   "headline": "IRGC ka dava: Hormuz me US drone giraya",
-   "detail": "Iran ke IRGC ne dava kiya uski vayu raksha ne Hormuz me ek MQ-9 aur Qeshm ke upar ek MQ-1 drone giraya; America ne abhi iski koi pushti nahi ki hai.",
-   "category": "World",
-   "exam_angle": "Iran-America tanav, Hormuz — UPSC IR",
-   "source": "Al Jazeera",
-   "source_url": "https://www.aljazeera.com/news/2026/11/21/irans-irgc-downs-us-drone-over-hormuz-as-efforts-to-end-war-remain-stalled",
-   "genuineness": "corroborated",
-   "outlets": [
-    "Mehr News",
-    "Al Jazeera",
-    "Gulf News"
    ],
    "image": null,
    "image_credit": null
