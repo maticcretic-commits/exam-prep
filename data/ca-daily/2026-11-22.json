@@ -212,6 +212,76 @@
     ],
     "answer_index": 1
    }
+  },
+  {
+   "episode": 152,
+   "video_hi": "bQWb75kadU8",
+   "video_hinglish": "bQWb75kadU8",
+   "capsules": [
+    {
+     "id": "ca-ep152-s1",
+     "headline_hi": "Bharat-EU FTA: 93% exports duty-free",
+     "headline_hinglish": "Bharat-EU FTA: 93% exports duty-free",
+     "detail_hi": "16 December ko Brussels mein hastakshar honge, Bharat ke 93 pratishat exports ko duty-free access milega.",
+     "detail_hinglish": "16 December ko Brussels mein hastakshar honge, Bharat ke 93 pratishat exports ko duty-free access milega.",
+     "category_hi": "Economy",
+     "category_en": "Economy"
+    },
+    {
+     "id": "ca-ep152-s2",
+     "headline_hi": "JEE Main: aaj raat 11:50 baje aakhri mauka",
+     "headline_hinglish": "JEE Main: aaj raat 11:50 baje aakhri mauka",
+     "detail_hi": "15.04 lakh forms jama hue, 13.10 lakh ne fee bhari; late fee 500 rupaye ke saath 26 November tak mauka.",
+     "detail_hinglish": "15.04 lakh forms jama hue, 13.10 lakh ne fee bhari; late fee 500 rupaye ke saath 26 November tak mauka.",
+     "category_hi": "Education",
+     "category_en": "Education"
+    },
+    {
+     "id": "ca-ep152-s3",
+     "headline_hi": "Naukri dhoondhne walon ke liye NCS ONE Portal",
+     "headline_hinglish": "Naukri dhoondhne walon ke liye NCS ONE Portal",
+     "detail_hi": "Shram Mantri ne NCS ONE Portal, Occupational Shortage Index aur e-Shram Livelihood Profile launch kiya.",
+     "detail_hinglish": "Shram Mantri ne NCS ONE Portal, Occupational Shortage Index aur e-Shram Livelihood Profile launch kiya.",
+     "category_hi": "Employment",
+     "category_en": "National"
+    },
+    {
+     "id": "ca-ep152-s4",
+     "headline_hi": "Nepal ke PM Balen Shah Delhi pahunche",
+     "headline_hinglish": "Nepal ke PM Balen Shah Delhi pahunche",
+     "detail_hi": "Do din ki yatra mein 669 MW Lower Arun project ka udghatan aur vyapar-urja par baatchit hogi.",
+     "detail_hinglish": "Do din ki yatra mein 669 MW Lower Arun project ka udghatan aur vyapar-urja par baatchit hogi.",
+     "category_hi": "International",
+     "category_en": "National"
+    },
+    {
+     "id": "ca-ep152-s5",
+     "headline_hi": "COP31: fossil fuel par samjhauta atka",
+     "headline_hinglish": "COP31: fossil fuel par samjhauta atka",
+     "detail_hi": "EU ne bina fossil fuel zikr wale draft ko khariz kiya, lagbhag 200 deshon mein sehmati nahi bani.",
+     "detail_hinglish": "EU ne bina fossil fuel zikr wale draft ko khariz kiya, lagbhag 200 deshon mein sehmati nahi bani.",
+     "category_hi": "Environment",
+     "category_en": "Environment"
+    }
+   ],
+   "mcq": {
+    "id": "ca-ep152-mcq",
+    "q_hi": "Bharat-EU FTA ke tahat Bharat ke kitne pratishat exports ko EU mein duty-free access milega?",
+    "q_hinglish": "Bharat-EU FTA ke tahat Bharat ke kitne pratishat exports ko EU mein duty-free access milega?",
+    "options_hi": [
+     "75%",
+     "86%",
+     "93%",
+     "100%"
+    ],
+    "options_hinglish": [
+     "75%",
+     "86%",
+     "93%",
+     "100%"
+    ],
+    "answer_index": 2
+   }
   }
  ]
 }
