@@ -1,5 +1,5 @@
 {
-  "updated_ist": "2026-11-22T17:23:42+05:30",
+  "updated_ist": "2026-11-22T18:24:26+05:30",
   "items": [
     {
       "id": "world-20261122-0630-01",
@@ -781,6 +781,82 @@
         "The Hindu",
         "Deccan Chronicle",
         "Kuwait Times"
+      ],
+      "image": null,
+      "image_credit": null
+    },
+    {
+      "id": "world-20261122-1822-01",
+      "published_ist": "2026-11-22T12:00:00+05:30",
+      "headline": "Kyiv kshetra me drone hamla, 14 lapata",
+      "detail": "Ravivaar subah Ukraine ke Kyiv kshetra ke Dymer me Russian drone hamle se paanch-manzila imarat ka hissa gir gaya — nau log nikale gaye, 14 log abhi bhi malbe me dabey hone ki aashanka hai; do log ghayal hue.",
+      "category": "World",
+      "exam_angle": "Ukraine yuddh, drone hamle — UPSC IR",
+      "source": "Reuters",
+      "source_url": "https://www.reuters.com/world/least-14-people-missing-after-russian-drone-hit-building-kyiv-region-zelenskiy-2026-11-22/",
+      "genuineness": "verified",
+      "outlets": [
+        "Reuters",
+        "Ukrainska Pravda",
+        "Kyiv Post",
+        "Ukrinform",
+        "The Hindu",
+        "The Straits Times"
+      ],
+      "image": null,
+      "image_credit": null
+    },
+    {
+      "id": "world-20261122-1822-02",
+      "published_ist": "2026-11-21T12:00:00+05:30",
+      "headline": "Lisbon me mehengaai ke khilaf hazaaron utre",
+      "detail": "Shanivaar ko Portugal ki rajdhani Lisbon me hazaaron log bhari baarish ke beech mehengaai, awas sankat aur kam vetan ke khilaf sadkon par utre — sabse bade mazdoor sangathan CGTP ne zyada vetan aur sasti zaroori cheezon ki maang ki.",
+      "category": "World",
+      "exam_angle": "Portugal, Europe me mehengaai virodh — UPSC IR",
+      "source": "Reuters",
+      "source_url": "https://www.reuters.com/world/europe/thousands-march-lisbon-living-costs-fuel-anger-2026-11-21/",
+      "genuineness": "verified",
+      "outlets": [
+        "Reuters",
+        "Al Jazeera",
+        "Demócrata"
+      ],
+      "image": null,
+      "image_credit": null
+    },
+    {
+      "id": "world-20261122-1822-03",
+      "published_ist": "2026-11-21T12:00:00+05:30",
+      "headline": "Myanmar ne ASEAN faisle ko 'unfair' kaha",
+      "detail": "Myanmar ki sena-samarthit sarkar ne Shanivaar ko ASEAN ke faisle ko 'unfair aur imbalanced' kaha — Manila shikhar sammelan me poori pratinidhitva se vanchit rakhne par bhedbhaav ka aarop lagaya; ASEAN ne paanch-sutriya shanti yojana par pragati ki shart rakhi hai.",
+      "category": "World",
+      "exam_angle": "ASEAN, Myanmar sankat — UPSC IR",
+      "source": "Reuters",
+      "source_url": "https://www.reuters.com/world/asia-pacific/myanmars-army-backed-government-calls-asean-decision-unfair-imbalanced-2026-11-22/",
+      "genuineness": "corroborated",
+      "outlets": [
+        "Reuters",
+        "The New Indian Express"
+      ],
+      "image": null,
+      "image_credit": null
+    },
+    {
+      "id": "world-20261122-1222-05",
+      "published_ist": "2026-11-22T12:00:00+05:30",
+      "headline": "Indonesia factory aag: 7 shav, 50 lapata",
+      "detail": "Ravivaar tak Indonesia ke Cikande candy factory ki aag me saat body bag mile aur lagbhag 50 mazdoor abhi bhi lapata hain — aag ki teevrata se pehchan mushkil, DNA jaanch me do-teen hafte lag sakte hain; shift me lagbhag 300 log maujood the.",
+      "category": "World",
+      "exam_angle": null,
+      "source": "Dawn",
+      "source_url": "https://www.dawn.com/news/2046306/three-dead-36-missing-after-indonesia-factory-fire",
+      "genuineness": "verified",
+      "outlets": [
+        "Dawn",
+        "The Straits Times",
+        "Ynet",
+        "Times of India",
+        "AsiaOne"
       ],
       "image": null,
       "image_credit": null
