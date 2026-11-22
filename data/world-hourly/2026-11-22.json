@@ -1,0 +1,104 @@
+{
+  "updated_ist": "2026-11-22T06:30:02+05:30",
+  "items": [
+    {
+      "id": "world-20261122-0630-01",
+      "published_ist": "2026-11-22T12:00:00+05:30",
+      "headline": "Iran ka Bahrain me US thikanon par hamla",
+      "detail": "IRGC ne dava kiya usne Bahrain ki al-Riffa aur Awali bases par do US Patriot radar nishana banaye; Bahrain ne kaha uski vayu raksha ne hamle roke, ek audyogik jagah par aag lagi, koi ghayal nahi hua.",
+      "category": "World",
+      "exam_angle": "Iran-America yuddh, Bahrain, US Fifth Fleet — UPSC IR",
+      "source": "Al Jazeera",
+      "source_url": "https://www.aljazeera.com/news/2026/11/21/bahrain-says-iranian-attack-causes-fire-at-industrial-facility",
+      "genuineness": "verified",
+      "outlets": [
+        "Al Jazeera",
+        "Gulf News",
+        "The Tribune",
+        "Iran International",
+        "Republic World"
+      ],
+      "image": null,
+      "image_credit": null
+    },
+    {
+      "id": "world-20261122-0630-02",
+      "published_ist": "2026-11-21T12:00:00+05:30",
+      "headline": "Poland me Russian missile gira, NATO naraz",
+      "detail": "Ukraine par raat ke hamle ke dauran do Russian missile aur ek drone Poland me gire; PM Tusk ne ise jaanboojh kar uksava bataya, NATO pramukh Rutte ne ise gambhir ullanghan kaha, koi ghayal nahi hua.",
+      "category": "World",
+      "exam_angle": "Poland, NATO, Russia-Ukraine yuddh — UPSC IR",
+      "source": "Al Jazeera",
+      "source_url": "https://www.aljazeera.com/news/2026/11/21/russian-missiles-hit-poland-what-happened-and-could-nato-respond?traffic_source=rss",
+      "genuineness": "verified",
+      "outlets": [
+        "Al Jazeera",
+        "Associated Press",
+        "Moneycontrol",
+        "Business Standard"
+      ],
+      "image": null,
+      "image_credit": null
+    },
+    {
+      "id": "world-20261122-0630-03",
+      "published_ist": "2026-11-21T05:39:00+05:30",
+      "headline": "Peru ke Andes me 6.7 ka bhukamp",
+      "detail": "Junin ke paas shaam 7:09 baje bhukamp aaya, jhatke Lima tak mehsoos hue; USGS ke anusar teevrata 6.7 aur gehrai 108 km thi, koi maut ya bada nuksan nahi hua.",
+      "category": "World",
+      "exam_angle": "Bhukamp, Ring of Fire — UPSC Geography",
+      "source": "The Manila Times",
+      "source_url": "https://www.manilatimes.net/2026/11/22/world/americas-emea/67-magnitude-quake-hits-peru-no-report-of-deaths/2475517/amp",
+      "genuineness": "verified",
+      "outlets": [
+        "Associated Press",
+        "USGS",
+        "Korea JoongAng Daily",
+        "NDTV"
+      ],
+      "image": null,
+      "image_credit": null
+    },
+    {
+      "id": "world-20261122-0630-04",
+      "published_ist": "2026-11-20T12:00:00+05:30",
+      "headline": "Russia ka Ukraine par bada hamla, aath mare",
+      "detail": "Russia ne raat bhar 400 se zyada drone aur 110 se zyada missile daage, Kyiv ke Dnipro pul aur bijli-rail dhwast hue; aath log mare gaye, chhah Kyiv me.",
+      "category": "World",
+      "exam_angle": "Russia-Ukraine yuddh, Kerch Bridge — UPSC IR",
+      "source": "Al Jazeera",
+      "source_url": "https://www.aljazeera.com/news/2026/11/20/russia-unleashes-retaliatory-barrage-on-kyiv-bridges",
+      "genuineness": "verified",
+      "outlets": [
+        "Al Jazeera",
+        "Associated Press",
+        "Moneycontrol",
+        "The New Indian Express"
+      ],
+      "image": null,
+      "image_credit": null
+    },
+    {
+      "id": "world-20261121-2224-01",
+      "published_ist": "2026-11-21T17:23:00+05:30",
+      "headline": "Mexico ne FBI-wanted 'El Chapo Isidro' pakda",
+      "detail": "Sinaloa ke Guasave me sena ne FBI ki 10 most-wanted list wale Fausto Isidro Meza Flores ko giraftar kiya; giraftari ke baad hui hinsa me 11 log mare gaye — saat sandigdh bandukdhari aur chaar sainik.",
+      "category": "World",
+      "exam_angle": "Mexico, drug cartel, FBI most-wanted — UPSC IR",
+      "source": "Reuters",
+      "source_url": "https://www.reuters.com/world/americas/mexico-captures-top-drug-lord-el-chapo-isidro-latest-string-captures-2026-11-21/",
+      "genuineness": "verified",
+      "outlets": [
+        "Reuters",
+        "The Wall Street Journal",
+        "Al Jazeera",
+        "The Week",
+        "Times of India",
+        "Associated Press",
+        "CNN"
+      ],
+      "image": "../images/world/world-20261121-2224-01.jpg",
+      "image_credit": "Al Jazeera"
+    }
+  ]
+}
