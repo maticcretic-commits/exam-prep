@@ -1,0 +1,77 @@
+{
+ "date": "2026-11-23",
+ "date_hi": "23 November 2026",
+ "date_en": "23 November 2026",
+ "episodes": [
+  {
+   "episode": 153,
+   "video_hi": "r5iZCvDBklA",
+   "video_hinglish": "r5iZCvDBklA",
+   "capsules": [
+    {
+     "id": "ca-ep153-s1",
+     "headline_hi": "Arunachal ke liye 5,611 crore ka package",
+     "headline_hinglish": "Arunachal ke liye 5,611 crore ka package",
+     "detail_hi": "Grih Mantri Amit Shah ne Itanagar mein Cooperative Vision 2047 jaari kiya; sadak, bijli aur shiksha ki chaar badi yojanaein launch hui.",
+     "detail_hinglish": "Grih Mantri Amit Shah ne Itanagar mein Cooperative Vision 2047 jaari kiya; sadak, bijli aur shiksha ki chaar badi yojanaein launch hui.",
+     "category_hi": "Polity",
+     "category_en": "Polity"
+    },
+    {
+     "id": "ca-ep153-s2",
+     "headline_hi": "Tel-gas import bill 60% badhkar $16 billion",
+     "headline_hinglish": "Tel-gas import bill 60% badhkar $16 billion",
+     "detail_hi": "October mein Brent crude lagbhag dugna hokar 124.77 dollar prati barrel raha; rasoi gas ki khapat mein girawat aayi.",
+     "detail_hinglish": "October mein Brent crude lagbhag dugna hokar 124.77 dollar prati barrel raha; rasoi gas ki khapat mein girawat aayi.",
+     "category_hi": "Economy",
+     "category_en": "Economy"
+    },
+    {
+     "id": "ca-ep153-s3",
+     "headline_hi": "IIT Patna mein 60 crore ka AI Centre khula",
+     "headline_hinglish": "IIT Patna mein 60 crore ka AI Centre khula",
+     "detail_hi": "PM Modi ne 60 crore ke AI Centre ka udghatan kiya aur 400 crore ke research park ki neev rakhi.",
+     "detail_hinglish": "PM Modi ne 60 crore ke AI Centre ka udghatan kiya aur 400 crore ke research park ki neev rakhi.",
+     "category_hi": "Education",
+     "category_en": "Education"
+    },
+    {
+     "id": "ca-ep153-s4",
+     "headline_hi": "NEET PG: 10,105 seats blocked category mein",
+     "headline_hinglish": "NEET PG: 10,105 seats blocked category mein",
+     "detail_hi": "Round 2 ke baad SARTHA data mein 10,105 seats blocked dikhi; sarkar float rule par vichaar kar rahi hai.",
+     "detail_hinglish": "Round 2 ke baad SARTHA data mein 10,105 seats blocked dikhi; sarkar float rule par vichaar kar rahi hai.",
+     "category_hi": "Education",
+     "category_en": "Education"
+    },
+    {
+     "id": "ca-ep153-s5",
+     "headline_hi": "UP ke 75 jilon mein blackout mock drill",
+     "headline_hinglish": "UP ke 75 jilon mein blackout mock drill",
+     "detail_hi": "Shaam 6 baje do minute ka siren baja, phir blackout ki taiyaari parakhi gayi; CM Yogi ne Lucknow mein abhyaas dekha.",
+     "detail_hinglish": "Shaam 6 baje do minute ka siren baja, phir blackout ki taiyaari parakhi gayi; CM Yogi ne Lucknow mein abhyaas dekha.",
+     "category_hi": "Defence",
+     "category_en": "Defence"
+    }
+   ],
+   "mcq": {
+    "id": "ca-ep153-mcq",
+    "q_hi": "Arunachal Pradesh ke liye launch ki gayi yojanaon ki kul rakam kitni hai?",
+    "q_hinglish": "Arunachal Pradesh ke liye launch ki gayi yojanaon ki kul rakam kitni hai?",
+    "options_hi": [
+     "4,000 crore rupaye",
+     "5,611 crore rupaye",
+     "2,000 crore rupaye",
+     "1,500 crore rupaye"
+    ],
+    "options_hinglish": [
+     "4,000 crore rupaye",
+     "5,611 crore rupaye",
+     "2,000 crore rupaye",
+     "1,500 crore rupaye"
+    ],
+    "answer_index": 1
+   }
+  }
+ ]
+}
