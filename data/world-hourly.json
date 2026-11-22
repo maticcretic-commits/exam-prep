@@ -1,6 +1,61 @@
 {
- "updated_ist": "2026-11-22T07:26:00+05:30",
+ "updated_ist": "2026-11-22T08:24:43+05:30",
  "items": [
+  {
+   "id": "world-20261122-0822-01",
+   "published_ist": "2026-11-21T08:59:00+05:30",
+   "headline": "FBI aur USDA par hacker hamla",
+   "detail": "CNN ke mutabik FBI ke National Crime Information Center database me ghuspaith ki jaanch chal rahi hai; NBC ke mutabik USDA ke kisan-bhugtan system par bhi cyber hamla hua — dono ka sambandh aur zimmedar abhi agyaat hai.",
+   "category": "World",
+   "exam_angle": "America ki cyber suraksha, NCIC database — UPSC Science & Tech",
+   "source": "The Hindu",
+   "source_url": "https://www.thehindu.com/news/international/fbis-criminal-information-database-hacked-reports-say/article71727198.ece",
+   "genuineness": "verified",
+   "outlets": [
+    "CNN",
+    "NBC News",
+    "The Hindu",
+    "Dawn"
+   ],
+   "image": "../images/world/world-20261122-0822-01.jpg",
+   "image_credit": "ajay_suresh, Wikimedia Commons (CC BY 2.0)"
+  },
+  {
+   "id": "world-20261122-0822-02",
+   "published_ist": "2026-11-20T08:46:00+05:30",
+   "headline": "Trump, Xi, Putin ki shanti ghoshna",
+   "detail": "Shenzhen me pehli baar teen bade netaon ne 'Declaration toward Peace' jaari ki — parmanu yuddh kabhi nahi ladna chahiye, UN sudhar, tel aapoorti aur ICC par sahmati; Ukraine aur Iran ka zikr nahi, koi samay-seema nahi.",
+   "category": "World",
+   "exam_angle": "US-China-Russia, APEC, parmanu hathiyar — UPSC IR",
+   "source": "Channel News Asia",
+   "source_url": "https://www.channelnewsasia.com/world/china-russia-us-peace-declaration-nuclear-trilateral-talks-6565716",
+   "genuineness": "verified",
+   "outlets": [
+    "Channel News Asia",
+    "Dawn",
+    "Indian Express",
+    "Reuters"
+   ],
+   "image": "../images/world/world-20261122-0822-02.jpg",
+   "image_credit": "The White House, Wikimedia Commons (Public domain)"
+  },
+  {
+   "id": "world-20261122-0822-03",
+   "published_ist": "2026-11-22T06:59:00+05:30",
+   "headline": "Qatar ne Tehran me vaarta ki",
+   "detail": "Iran ke up-mantri ne kaha Qatar ka pratinidhimandal pichhli shaam Tehran aaya aur do ghante vaarta ki; yuddh khatm karne ki baatchit abhi atki hui hai.",
+   "category": "World",
+   "exam_angle": "West Asia kootniti, Qatar madhyasthata — UPSC IR",
+   "source": "The Hindu",
+   "source_url": "https://www.thehindu.com/news/international/bahrain-says-iran-struck-industrial-site-as-tankers-hit-in-hormuz/article71730497.ece",
+   "genuineness": "corroborated",
+   "outlets": [
+    "The Hindu",
+    "Gulf News"
+   ],
+   "image": null,
+   "image_credit": null
+  },
   {
    "id": "world-20261122-0722-01",
    "published_ist": "2026-11-21T12:00:00+05:30",
@@ -396,59 +451,6 @@
     "The Straits Times",
     "Outlook India",
     "Arab News"
-   ],
-   "image": null,
-   "image_credit": null
-  },
-  {
-   "id": "world-20261121-1722-04",
-   "published_ist": "2026-11-21T12:00:00+05:30",
-   "headline": "Gaza me Israeli hamle me teen ki maut",
-   "detail": "Gaza City ke Tel al-Hawa me Israeli yuddh vimanon ne ek gaadi par bam giraya, teen log mare gaye aur kai ghayal hue.",
-   "category": "World",
-   "exam_angle": "Gaza, Israel-Palestine — UPSC IR",
-   "source": "WAFA",
-   "source_url": "https://english.wafa.ps/Pages/Details/177167",
-   "genuineness": "corroborated",
-   "outlets": [
-    "WAFA",
-    "Outlook India"
-   ],
-   "image": null,
-   "image_credit": null
-  },
-  {
-   "id": "world-20261121-1622-01",
-   "published_ist": "2026-11-20T12:00:00+05:30",
-   "headline": "Haiti me visfotak se teen Salvadoran sainik mare",
-   "detail": "El Salvador ki sena ke anusar Haiti me visfotak sambhalte samay dhamake me teen sainik mare gaye aur ek ghayal hua; October ke ant se tainat lagbhag 2,500 sainikon me ye pehli maut hai.",
-   "category": "World",
-   "exam_angle": "Haiti sankat, videshi sainya hastakshep — UPSC IR",
-   "source": "Al Jazeera",
-   "source_url": "https://www.aljazeera.com/news/2026/11/20/two-salvadoran-soldiers-killed-in-haiti-while-handling-explosives?traffic_source=rss",
-   "genuineness": "verified",
-   "outlets": [
-    "Reuters",
-    "Al Jazeera",
-    "AFP"
-   ],
-   "image": "../images/world/world-20261121-1622-01.jpg",
-   "image_credit": "Al Jazeera"
-  },
-  {
-   "id": "world-20261121-1622-02",
-   "published_ist": "2026-11-20T12:00:00+05:30",
-   "headline": "Thailand-Philippines se Trump ke vyapar samjhaute",
-   "detail": "Trump ne Asia yatra ke baad ghoshna ki: Thailand 99% Americi niryat par shulk khatm karega aur har saal 2.6 arab dollar ke krishi utpad kharidega; Philippines 20 Boeing 787 kharidega — kul 17 arab dollar se zyada ke saude.",
-   "category": "World",
-   "exam_angle": "America-ASEAN vyapar, shulk neeti — UPSC IR/Economy",
-   "source": "White House",
-   "source_url": "https://www.whitehouse.gov/fact-sheets/2026/11/president-trump-brings-home-billions-in-economic-growth-and-strengthens-americas-security/",
-   "genuineness": "verified",
-   "outlets": [
-    "White House",
-    "Times Now",
-    "Newsmax"
    ],
    "image": null,
    "image_credit": null
