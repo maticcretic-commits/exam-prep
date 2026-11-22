@@ -1,6 +1,59 @@
 {
- "updated_ist": "2026-11-22T13:26:09+05:30",
+ "updated_ist": "2026-11-22T14:28:13+05:30",
  "items": [
+  {
+   "id": "world-20261122-1422-01",
+   "published_ist": "2026-11-22T12:00:00+05:30",
+   "headline": "COP31 draft me 'fossil fuels' shabd nahi",
+   "detail": "Antalya me COP31 ke antim masaude me 'fossil fuels', tel ya koyla ka zikr hi nahi — 2035 tak bijli ki hissedari 35% ka lakshya hai, aur masaude me pehli baar 1.5°C paar hone ki chinta jatai gayi; manzoori par baatchit jaari hai.",
+   "category": "World",
+   "exam_angle": "COP31, jalvayu samjhauta, 1.5°C — UPSC Environment",
+   "source": "The Hindu",
+   "source_url": "https://www.thehindu.com/news/international/cop31-turkiyes-final-draft-doesnt-mention-the-words-fossil-fuels-that-cause-global-warming/article71730648.ece",
+   "genuineness": "verified",
+   "outlets": [
+    "Associated Press",
+    "The Curtain",
+    "CarrZee"
+   ],
+   "image": null,
+   "image_credit": null
+  },
+  {
+   "id": "world-20261122-1422-02",
+   "published_ist": "2026-11-20T12:00:00+05:30",
+   "headline": "Iran yuddh par America ka kharch $48.3 billion",
+   "detail": "Pentagon ne Congress ko bataya 13 November tak Iran yuddh par $48.3 billion kharch hue — hathiyar aur sanchalan shamil hain, thikanon ki marammat ka kharch isme nahi hai.",
+   "category": "World",
+   "exam_angle": "Iran yuddh ki lagat, America — UPSC IR/Economy",
+   "source": "Dawn",
+   "source_url": "https://www.dawn.com/news/print/2045807",
+   "genuineness": "verified",
+   "outlets": [
+    "Dawn",
+    "Associated Press",
+    "Business Standard"
+   ],
+   "image": null,
+   "image_credit": null
+  },
+  {
+   "id": "world-20261122-1422-03",
+   "published_ist": "2026-11-22T08:09:00+05:30",
+   "headline": "Iran ka F-16 dava, America ne nakara",
+   "detail": "Iran ne dava kiya uski vayu raksha ne Farsi ki Khadi me US F-16 ko nishana banaya; US Central Command ne ise 'false report' batakar kharij kiya, saare jet surakshit hain.",
+   "category": "World",
+   "exam_angle": "Iran-America yuddh, F-16 dava — UPSC IR",
+   "source": "The Week",
+   "source_url": "https://www.theweek.in/news/middle-east/2026/11/22/war-soon-iran-claims-it-hit-us-f-16-fighter-jet-patriot-radars-in-bahrain.amp.html",
+   "genuineness": "corroborated",
+   "outlets": [
+    "The Week",
+    "The Times of India"
+   ],
+   "image": null,
+   "image_credit": null
+  },
   {
    "id": "world-20261122-1322-02",
    "published_ist": "2026-11-22T12:00:00+05:30",
@@ -60,7 +113,7 @@
    "id": "world-20261122-1222-05",
    "published_ist": "2026-11-22T12:00:00+05:30",
    "headline": "Indonesia candy factory me aag, 39 lapata",
-   "detail": "Jakarta ke paas Serang ki Fonusa Agung Mulia candy factory me shanivaar dopahar aag lagi, 39 log lapata hain aur talash jaari hai; chaar ghayal hue, kuchh hisso me aag abhi bhi jal rahi hai.",
+   "detail": "Jakarta ke paas Serang ki Fonusa Agung Mulia candy factory me shanivaar dopahar aag lagi — teen mare, 36 lapata hain aur talash jaari hai; chaar ghayal hue, kuchh hisso me aag abhi bhi jal rahi hai. (Updated)",
    "category": "World",
    "exam_angle": null,
    "source": "The Straits Times",
@@ -388,62 +441,6 @@
    ],
    "image": "../images/world/world-20261122-0722-01.jpg",
    "image_credit": "B.alotaby, Wikimedia Commons (CC BY-SA 4.0)"
-  },
-  {
-   "id": "world-20261122-0722-02",
-   "published_ist": "2026-11-21T12:00:00+05:30",
-   "headline": "Myanmar ne ICJ faisla thukraya, France UNSC jayega",
-   "detail": "France ne kaha woh UN Security Council ki baithak mangega, kyunki Myanmar ne Rohingya narasanhar par ICJ ke faisle ko manne se inkar kar diya.",
-   "category": "World",
-   "exam_angle": "ICJ faisla, Rohingya sankat — antarrashtriya kanoon",
-   "source": "The Jerusalem Post",
-   "source_url": "https://www.jpost.com/international/article-915642",
-   "genuineness": "verified",
-   "outlets": [
-    "Reuters",
-    "The Jerusalem Post",
-    "Times of Israel"
-   ],
-   "image": "../images/world/world-20261122-0722-02.jpg",
-   "image_credit": "Ontheway Advice, Wikimedia Commons (CC0)"
-  },
-  {
-   "id": "world-20261122-0722-03",
-   "published_ist": "2026-11-21T12:00:00+05:30",
-   "headline": "Basra power station me aag, chaar ki maut",
-   "detail": "Hartha power station me gas pipeline me aag lagi, kam se kam chaar mare aur tees ghayal; toll badhne ki aashanka hai.",
-   "category": "World",
-   "exam_angle": null,
-   "source": "The Hindu",
-   "source_url": "https://www.thehindu.com/news/international/fire-at-basras-hartha-power-station-in-iraq/article71727609.ece",
-   "genuineness": "verified",
-   "outlets": [
-    "Arab News",
-    "The Hindu",
-    "Al Jazeera",
-    "Reuters"
-   ],
-   "image": null,
-   "image_credit": null
-  },
-  {
-   "id": "world-20261122-0630-02",
-   "published_ist": "2026-11-21T12:00:00+05:30",
-   "headline": "Poland me Russian missile gira, NATO naraz",
-   "detail": "Ukraine par raat ke hamle ke dauran do Russian missile aur ek drone Poland me gire; PM Tusk ne ise jaanboojh kar uksava bataya, NATO pramukh Rutte ne ise gambhir ullanghan kaha, koi ghayal nahi hua.",
-   "category": "World",
-   "exam_angle": "Poland, NATO, Russia-Ukraine yuddh — UPSC IR",
-   "source": "Al Jazeera",
-   "source_url": "https://www.aljazeera.com/news/2026/11/21/russian-missiles-hit-poland-what-happened-and-could-nato-respond?traffic_source=rss",
-   "genuineness": "verified",
-   "outlets": [
-    "Al Jazeera",
-    "Associated Press",
-    "Moneycontrol",
-    "Business Standard"
-   ],
-   "image": null,
-   "image_credit": null
   }
  ]
 }
