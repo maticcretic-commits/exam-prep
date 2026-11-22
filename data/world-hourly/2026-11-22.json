@@ -1,5 +1,5 @@
 {
- "updated_ist": "2026-11-22T12:24:17+05:30",
+ "updated_ist": "2026-11-22T13:26:09+05:30",
  "items": [
   {
    "id": "world-20261122-0630-01",
@@ -519,6 +519,42 @@
     "The Hindu",
     "Deccan Chronicle",
     "Kuwait Times"
+   ],
+   "image": null,
+   "image_credit": null
+  },
+  {
+   "id": "world-20261122-1322-01",
+   "published_ist": "2026-11-21T12:00:00+05:30",
+   "headline": "EU-Indonesia vyapar samjhauta, 10 saal baad",
+   "detail": "EU aur Indonesia ne 10 saal ki baatchit ke baad mukt vyapar samjhauta (CEPA) aur nivesh suraksha samjhauta sign kiya; 90% se zyada utpadon par shulk khatm hoga, 2027 se lagu hone ki ummeed hai.",
+   "category": "World",
+   "exam_angle": "EU ke vyapar samjhote, Bharat-EU FTA — UPSC IR",
+   "source": "Reuters",
+   "source_url": "https://www.reuters.com/markets/commodities/eu-indonesia-sign-trade-deal-after-10-years-negotiations-2026-11-21/",
+   "genuineness": "verified",
+   "outlets": [
+    "Reuters",
+    "Deutsche Welle",
+    "Asia Daily"
+   ],
+   "image": null,
+   "image_credit": null
+  },
+  {
+   "id": "world-20261122-1322-02",
+   "published_ist": "2026-11-22T12:00:00+05:30",
+   "headline": "Bangladesh me hinsa: Narail me ghar jalaye",
+   "detail": "Bangladesh me rajnaitik hinsa jaari hai: Narail me BNP netaon ki hatya ke baad darjanon ghar aur dukanein jalayi gayin, Pabna me bhi jhadap hui; pichhle hafte chaar log mare gaye.",
+   "category": "World",
+   "exam_angle": "Bangladesh rajnaitik sankat, Bharat sambandh — UPSC IR",
+   "source": "The Indian Express",
+   "source_url": "https://indianexpress.com/article/world/bangladesh-unrest-awami-league-homes-torched-narail-bnp-leaders-killed-sheikh-hasina-extradition-10972971/",
+   "genuineness": "verified",
+   "outlets": [
+    "The Indian Express",
+    "Dhaka Tribune",
+    "The Shillong Times"
    ],
    "image": null,
    "image_credit": null
