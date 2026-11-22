@@ -1,5 +1,4 @@
 {
-  "updated_ist": "2026-11-22T18:24:26+05:30",
   "items": [
     {
       "id": "world-20261122-0630-01",
@@ -895,6 +894,45 @@
         "The Tribune",
         "Iran International",
         "Republic World"
+      ],
+      "image": null,
+      "image_credit": null
+    },
+    {
+      "id": "world-20261122-2022-01",
+      "published_ist": "2026-11-22T01:00:00+05:30",
+      "headline": "Bolsonaro ICU me, pet me rukavat",
+      "detail": "Brazil ke poorv rashtrapati Jair Bolsonaro ko pet me gambhir rukavat ke kaaran Brasilia ke DF Star hospital ke ICU me bharti kiya gaya — ve sthir aur hosh me hain; takhtapalat ki sajish me 27 saal ki saza kaat rahe hain.",
+      "category": "World",
+      "exam_angle": "Brazil, Bolsonaro, takhtapalat sajish — UPSC IR",
+      "source": "Reuters",
+      "source_url": "https://www.reuters.com/world/americas/brazil-ex-president-jair-bolsonaro-taken-icu-2026-11-21/",
+      "genuineness": "verified",
+      "outlets": [
+        "Reuters",
+        "The Times",
+        "Times Now"
+      ],
+      "image": "../images/world/world-20261122-2022-01.jpg",
+      "image_credit": "Isac Nóbrega/PR, CC BY 2.0"
+    },
+    {
+      "id": "world-20261122-1822-01",
+      "published_ist": "2026-11-22T12:00:00+05:30",
+      "headline": "Kyiv kshetra me drone hamla, 2 mare",
+      "detail": "Ravivaar subah Ukraine ke Kyiv kshetra ke Dymer me Russian drone hamle se paanch-manzila imarat ka hissa gir gaya — nau log nikale gaye. Corrected: ab tak 2 ki maut hui (ek 18 saal ka yuvak), 4 ghayal hue aur 11 log malbe me dabey hain; bachaav kaam jaari hai.",
+      "category": "World",
+      "exam_angle": "Ukraine yuddh, drone hamle — UPSC IR",
+      "source": "Reuters",
+      "source_url": "https://www.reuters.com/world/least-14-people-missing-after-russian-drone-hit-building-kyiv-region-zelenskiy-2026-11-22/",
+      "genuineness": "verified",
+      "outlets": [
+        "Reuters",
+        "Ukrainska Pravda",
+        "Kyiv Post",
+        "Ukrinform",
+        "The Hindu",
+        "The Straits Times"
       ],
       "image": null,
       "image_credit": null
