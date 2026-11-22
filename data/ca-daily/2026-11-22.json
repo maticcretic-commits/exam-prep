@@ -142,6 +142,76 @@
     ],
     "answer_index": 2
    }
+  },
+  {
+   "episode": 151,
+   "video_hi": "UXkrKPaNIQg",
+   "video_hinglish": "UXkrKPaNIQg",
+   "capsules": [
+    {
+     "id": "ca-ep151-s1",
+     "headline_hi": "Sona 65 lakh rupaye prati kilo sasta",
+     "headline_hinglish": "Sona 65 lakh rupaye prati kilo sasta",
+     "detail_hi": "PM ki May wali appeal ke baad keemat 1.90 crore se girkar 1.25 crore rupaye prati kilo hui.",
+     "detail_hinglish": "PM ki May wali appeal ke baad keemat 1.90 crore se girkar 1.25 crore rupaye prati kilo hui.",
+     "category_hi": "Economy",
+     "category_en": "Economy"
+    },
+    {
+     "id": "ca-ep151-s2",
+     "headline_hi": "Wellington mein Bharat ka 720 run ka record",
+     "headline_hinglish": "Wellington mein Bharat ka 720 run ka record",
+     "detail_hi": "Bharat ne New Zealand ke khilaf 720 run banaye, videsh mein apna sabse bada Test score.",
+     "detail_hinglish": "Bharat ne New Zealand ke khilaf 720 run banaye, videsh mein apna sabse bada Test score.",
+     "category_hi": "Sports",
+     "category_en": "Sports"
+    },
+    {
+     "id": "ca-ep151-s3",
+     "headline_hi": "Ladakh: aath saal baad chunav, 70% matdan",
+     "headline_hinglish": "Ladakh: aath saal baad chunav, 70% matdan",
+     "detail_hi": "Panchayat chunav mein 70 pratishat matdan hua, UT banne ke baad pehla sthaniya chunav.",
+     "detail_hinglish": "Panchayat chunav mein 70 pratishat matdan hua, UT banne ke baad pehla sthaniya chunav.",
+     "category_hi": "Polity",
+     "category_en": "Polity"
+    },
+    {
+     "id": "ca-ep151-s4",
+     "headline_hi": "Critical minerals ke liye 2,814 crore ki yojana",
+     "headline_hinglish": "Critical minerals ke liye 2,814 crore ki yojana",
+     "detail_hi": "Cabinet ne lithium aur nickel ke chaar processing plants ke liye 2,814 crore ki yojana ko swikriti di.",
+     "detail_hinglish": "Cabinet ne lithium aur nickel ke chaar processing plants ke liye 2,814 crore ki yojana ko swikriti di.",
+     "category_hi": "Energy",
+     "category_en": "National"
+    },
+    {
+     "id": "ca-ep151-s5",
+     "headline_hi": "Maharashtra FDA: 21 food licences suspend",
+     "headline_hinglish": "Maharashtra FDA: 21 food licences suspend",
+     "detail_hi": "Vidhan Bhavan aur Air India building ki jaanch ke baad rajya bhar mein 21 licences suspend, kul 1.57 lakh rupaye jurmana.",
+     "detail_hinglish": "Vidhan Bhavan aur Air India building ki jaanch ke baad rajya bhar mein 21 licences suspend, kul 1.57 lakh rupaye jurmana.",
+     "category_hi": "Governance",
+     "category_en": "National"
+    }
+   ],
+   "mcq": {
+    "id": "ca-ep151-mcq",
+    "q_hi": "Sona prati kilogram kitna sasta hua?",
+    "q_hinglish": "Sona prati kilogram kitna sasta hua?",
+    "options_hi": [
+     "45 lakh rupaye",
+     "65 lakh rupaye",
+     "85 lakh rupaye",
+     "25 lakh rupaye"
+    ],
+    "options_hinglish": [
+     "45 lakh rupaye",
+     "65 lakh rupaye",
+     "85 lakh rupaye",
+     "25 lakh rupaye"
+    ],
+    "answer_index": 1
+   }
   }
  ]
 }
