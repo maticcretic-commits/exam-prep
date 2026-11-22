@@ -1,6 +1,66 @@
 {
-  "updated_ist": "2026-11-22T16:25:03+05:30",
+  "updated_ist": "2026-11-22T17:23:42+05:30",
   "items": [
+    {
+      "id": "world-20261122-1722-01",
+      "published_ist": "2026-11-21T12:20:00+05:30",
+      "headline": "Baltic me Russian jahaaz par drone hamla",
+      "detail": "Shanivaar ko Baltic Sagar me Russian cargo jahaaz Sparta II par drone hamle ke baad aag lag gayi — Finland ke anusar hamle ke peeche Ukraine hone ki sambhavna hai; 16 chaalak-dal surakshit nikale gaye, jahaaz Finland ke jal me langar par hai aur aag abhi bhi jal rahi hai.",
+      "category": "World",
+      "exam_angle": "Baltic Sagar, Ukraine yuddh, Finland-NATO — UPSC IR",
+      "source": "Reuters",
+      "source_url": "https://www.reuters.com/world/europe/russian-cargo-ship-still-fire-off-finland-after-attack-2026-11-22/",
+      "genuineness": "verified",
+      "outlets": [
+        "Reuters",
+        "CNN",
+        "Al Jazeera",
+        "Dawn",
+        "The Straits Times"
+      ],
+      "image": null,
+      "image_credit": null
+    },
+    {
+      "id": "world-20261122-1722-02",
+      "published_ist": "2026-11-20T12:00:00+05:30",
+      "headline": "Kryvyi Rih hamle me bachcha, paramedic mare",
+      "detail": "Shukravaar raat Ukraine ke Kryvyi Rih me Russia ke 'triple-tap' hamle me saat saal ka bachcha aur 20 saal ki paramedic mare gaye — pehle missile restaurant parking par gira, phir bachav-karmiyon par drone hamle hue; lagbhag 60 log ghayal hue.",
+      "category": "World",
+      "exam_angle": "Ukraine yuddh, triple-tap hamle — UPSC IR",
+      "source": "CNN",
+      "source_url": "https://www.cnn.com/2026/11/21/europe/kryvyi-rih-ukraine-russia-attack-intl?cid=external-feeds_iluminar_meta",
+      "genuineness": "verified",
+      "outlets": [
+        "CNN",
+        "Kyiv Post",
+        "Kyiv Independent",
+        "News18",
+        "Ukrainska Pravda"
+      ],
+      "image": null,
+      "image_credit": null
+    },
+    {
+      "id": "world-20261122-1722-03",
+      "published_ist": "2026-11-21T05:39:00+05:30",
+      "headline": "Peru me 6.7 teevrata ka bhookamp",
+      "detail": "Shukravaar shaam madhya Peru ke Junin ke paas 6.7 teevrata ka bhookamp aaya — gharo ko halka nuksan, bijli band aur bhooskhalan hue, koi mrityu nahi; jhatke rajdhani Lima tak mehsoos hue.",
+      "category": "World",
+      "exam_angle": "Bhookamp, Andes, Peru — UPSC Geography",
+      "source": "The Daily Star",
+      "source_url": "https://www.thedailystar.net/news/world/news/67-magnitude-earthquake-hits-central-peru-4329311",
+      "genuineness": "verified",
+      "outlets": [
+        "The Daily Star",
+        "TRT World",
+        "The New Indian Express",
+        "Korea Times",
+        "The Straits Times"
+      ],
+      "image": null,
+      "image_credit": null
+    },
     {
       "id": "world-20261122-1622-01",
       "published_ist": "2026-11-22T08:00:00+05:30",
@@ -188,7 +248,7 @@
       "id": "world-20261122-1222-05",
       "published_ist": "2026-11-22T12:00:00+05:30",
       "headline": "Indonesia candy factory me aag, 39 lapata",
-      "detail": "Jakarta ke paas Serang ki Fonusa Agung Mulia candy factory me shanivaar dopahar aag lagi — teen mare, 36 lapata hain aur talash jaari hai; chaar ghayal hue, kuchh hisso me aag abhi bhi jal rahi hai. (Updated)",
+      "detail": "Jakarta ke paas Serang ki Fonusa Agung Mulia candy factory me shanivaar dopahar aag lagi — teen mare, 36 lapata hain aur talash jaari hai; 15 ko surakshit nikala gaya, chaar ghayal hue, kuchh hisso me aag abhi bhi jal rahi hai. (Updated)",
       "category": "World",
       "exam_angle": null,
       "source": "The Straits Times",
@@ -385,61 +445,6 @@
         "Reuters",
         "Deutsche Welle",
         "Asia Daily"
-      ],
-      "image": null,
-      "image_credit": null
-    },
-    {
-      "id": "world-20261122-1222-02",
-      "published_ist": "2026-11-21T12:00:00+05:30",
-      "headline": "Eisenkot ne Netanyahu se gathbandhan vaarta shuru ki",
-      "detail": "Israel me sarkar banane ki zimmedari wale Gadi Eisenkot ne Netanyahu ki Likud party ko gathbandhan vaarta ke liye bulaya; vaarta ravivaar se shuru hogi, unke paas December tak ka samay hai.",
-      "category": "World",
-      "exam_angle": "Israel sarkar-gathan, Netanyahu — UPSC IR",
-      "source": "NDTV",
-      "source_url": "https://www.ndtv.com/world-news/israel-government-formation-news-gadi-eisenkot-invites-benjamin-netanyahu-for-talks-to-form-new-israeli-government-12360569",
-      "genuineness": "verified",
-      "outlets": [
-        "NDTV",
-        "The Straits Times",
-        "New Indian Express",
-        "The Daily Star"
-      ],
-      "image": null,
-      "image_credit": null
-    },
-    {
-      "id": "world-20261122-1122-02",
-      "published_ist": "2026-11-21T12:00:00+05:30",
-      "headline": "France me chhathe hafte bhi bada pradarshan",
-      "detail": "Mehngai aur kharab sarkari sevayon ke khilaf France bhar me chhathe hafte pradarshan hue; grih mantralaya ke mutabik 82,500 log shamil hue, 144 giraftar, kai jagah aansu gas chali.",
-      "category": "World",
-      "exam_angle": null,
-      "source": "Al Jazeera",
-      "source_url": "https://www.aljazeera.com/news/2026/11/21/thousands-protest-across-europe-over-living-costs-and-housing",
-      "genuineness": "verified",
-      "outlets": [
-        "Al Jazeera",
-        "RFI",
-        "Agence France-Presse"
-      ],
-      "image": null,
-      "image_credit": null
-    },
-    {
-      "id": "world-20261122-1027-01",
-      "published_ist": "2026-11-21T12:00:00+05:30",
-      "headline": "Nigeria: janaze wali naav palti, 24 mare",
-      "detail": "Bayelsa me Ayama se Ukubie ja rahi bheed-bhaad wali naav shukravar ko palat gayi; NEMA ke mutabik 24 shav mile, 24 log bachaye gaye, talash jaari hai.",
-      "category": "World",
-      "exam_angle": "Nigeria, aapda prabandhan — UPSC Geography",
-      "source": "NDTV",
-      "source_url": "https://www.ndtv.com/world-news/24-killed-as-boat-carrying-people-to-a-funeral-capsizes-in-nigeria-12360787",
-      "genuineness": "verified",
-      "outlets": [
-        "Al Jazeera",
-        "Associated Press",
-        "Times Now"
       ],
       "image": null,
       "image_credit": null
