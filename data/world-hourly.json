@@ -1,6 +1,62 @@
 {
-  "updated_ist": "2026-11-22T15:27:55+05:30",
+  "updated_ist": "2026-11-22T16:25:03+05:30",
   "items": [
+    {
+      "id": "world-20261122-1622-01",
+      "published_ist": "2026-11-22T08:00:00+05:30",
+      "headline": "Khartoum me drone hamle, ghar tabah",
+      "detail": "Ravivaar subah Sudan ki rajdhani Khartoum me drone hamle hue — subah 2 baje se 4:30 tak dhamake hote rahe, kai ghar tabah ho gaye; abhi tak koi hatahat ki khabar nahi hai. Sudan sena ne hawai raksha sakriya kar di, hamle ke peeche kaun hai ye abhi saaf nahi hua.",
+      "category": "World",
+      "exam_angle": "Sudan grih yuddh, drone yuddh, manaviya sankat — UPSC IR",
+      "source": "Arab News",
+      "source_url": "https://www.arabnews.com/middle-east/drone-strikes-hit-homes-in-sudans-capital-witnesses-3013486",
+      "genuineness": "verified",
+      "outlets": [
+        "AFP",
+        "Saudi Gazette",
+        "Ahram Online",
+        "Anadolu Agency"
+      ],
+      "image": "../images/world/world-20261122-1622-01.jpg",
+      "image_credit": "Arab News"
+    },
+    {
+      "id": "world-20261122-1622-02",
+      "published_ist": "2026-11-21T12:00:00+05:30",
+      "headline": "Iran ke tel dalalon par America ka pratibandh",
+      "detail": "US Treasury ne chaar Iraniyon par pratibandh lagaya — ve Iran ke tel ki videsh bikri se arbon dollar vasool kar rahe the; unki sampatti jabt hogi aur dollar len-den band. Ye kadam Operation Economic Outcast ke tahat uthaya gaya.",
+      "category": "World",
+      "exam_angle": "Iran par pratibandh, Operation Economic Outcast, tel vyapar — UPSC IR",
+      "source": "Saudi Gazette",
+      "source_url": "https://saudigazette.com.sa/article/666412/world/us-imposes-new-sanctions-on-iranian-oil-traders-and-government-linked-facilitators",
+      "genuineness": "verified",
+      "outlets": [
+        "Saudi Gazette",
+        "Anadolu Agency",
+        "Rudaw",
+        "ANI"
+      ],
+      "image": null,
+      "image_credit": null
+    },
+    {
+      "id": "world-20261122-1622-03",
+      "published_ist": "2026-11-22T09:04:00+05:30",
+      "headline": "El Chapo Isidro ki giraftari me 11 mare",
+      "detail": "Sinaloa ke Guasave me cartel neta Fausto Isidro Meza Flores ki giraftari ke dauran hui hinsa me 11 log mare — saat sandigdh bandukdhari aur chaar sipahi; use Mexico City le jaya gaya hai.",
+      "category": "World",
+      "exam_angle": "Mexico drug cartel, FBI most-wanted, America-Mexico — UPSC IR",
+      "source": "Al Jazeera",
+      "source_url": "https://www.aljazeera.com/news/2026/11/22/eleven-killed-in-burst-of-violence-during-mexican-cartel-leaders-capture",
+      "genuineness": "verified",
+      "outlets": [
+        "Al Jazeera",
+        "Associated Press",
+        "Sky News"
+      ],
+      "image": null,
+      "image_credit": null
+    },
     {
       "id": "world-20261122-1522-01",
       "published_ist": "2026-11-21T12:00:00+05:30",
@@ -384,60 +440,6 @@
         "Al Jazeera",
         "Associated Press",
         "Times Now"
-      ],
-      "image": null,
-      "image_credit": null
-    },
-    {
-      "id": "world-20261122-1027-02",
-      "published_ist": "2026-11-21T12:00:00+05:30",
-      "headline": "NATO: Poland ki har inch zameen ki raksha",
-      "detail": "NATO pramukh Rutte ne Warsaw me kaha woh Poland ki har inch zameen ki raksha ki guarantee dete hain; NATO parishad somvar ko ullanghan par baithak karegi.",
-      "category": "World",
-      "exam_angle": "NATO, Poland, Russia-Ukraine yuddh — UPSC IR",
-      "source": "Reuters",
-      "source_url": "https://www.reuters.com/world/nato-will-defend-every-inch-polish-territory-rutte-says-2026-11-21/",
-      "genuineness": "verified",
-      "outlets": [
-        "Reuters",
-        "Kyiv Independent",
-        "The Times"
-      ],
-      "image": null,
-      "image_credit": null
-    },
-    {
-      "id": "world-20261122-1027-03",
-      "published_ist": "2026-11-21T12:00:00+05:30",
-      "headline": "Iran: Hormuz khul sakta hai, shartein manzoor hon",
-      "detail": "Videsh mantri Araghchi ne kaha America 'uchit shartein' mane to Hormuz kholna mushkil nahi; up-mantri ne Americi naakaabandi ko 'shatrutapoorn' bataya.",
-      "category": "World",
-      "exam_angle": "Hormuz, Iran-America, tel vyapar — UPSC IR",
-      "source": "Al Jazeera",
-      "source_url": "https://www.aljazeera.com/news/2026/11/21/iran-says-held-talks-with-qatari-mediators-urges-us-to-accept-conditions?traffic_source=rss",
-      "genuineness": "verified",
-      "outlets": [
-        "Al Jazeera",
-        "The Times of India",
-        "The Tribune"
-      ],
-      "image": null,
-      "image_credit": null
-    },
-    {
-      "id": "world-20261122-1027-05",
-      "published_ist": "2026-11-21T12:00:00+05:30",
-      "headline": "Baltic me Russian jahaz par drone hamla, aag",
-      "detail": "Finland ki khadi me Kaliningrad ja raha Sparta II drone hamle ke baad jal utha; 16 sadasyiya dal ko nikala gaya, Finland ko Ukraine par shak hai.",
-      "category": "World",
-      "exam_angle": "Baltic, Finland, Russia-Ukraine yuddh — UPSC IR",
-      "source": "Reuters",
-      "source_url": "https://www.reuters.com/world/russia-says-cargo-vessel-struck-by-drones-finland-says-it-is-fire-its-waters-2026-11-21/",
-      "genuineness": "verified",
-      "outlets": [
-        "Reuters",
-        "CNN",
-        "Dawn"
       ],
       "image": null,
       "image_credit": null
