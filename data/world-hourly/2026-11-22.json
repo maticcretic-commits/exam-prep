@@ -1,5 +1,5 @@
 {
-  "updated_ist": "2026-11-22T16:25:03+05:30",
+  "updated_ist": "2026-11-22T17:23:42+05:30",
   "items": [
     {
       "id": "world-20261122-0630-01",
@@ -702,6 +702,85 @@
         "Al Jazeera",
         "Associated Press",
         "Sky News"
+      ],
+      "image": null,
+      "image_credit": null
+    },
+    {
+      "id": "world-20261122-1722-01",
+      "published_ist": "2026-11-21T12:20:00+05:30",
+      "headline": "Baltic me Russian jahaaz par drone hamla",
+      "detail": "Shanivaar ko Baltic Sagar me Russian cargo jahaaz Sparta II par drone hamle ke baad aag lag gayi — Finland ke anusar hamle ke peeche Ukraine hone ki sambhavna hai; 16 chaalak-dal surakshit nikale gaye, jahaaz Finland ke jal me langar par hai aur aag abhi bhi jal rahi hai.",
+      "category": "World",
+      "exam_angle": "Baltic Sagar, Ukraine yuddh, Finland-NATO — UPSC IR",
+      "source": "Reuters",
+      "source_url": "https://www.reuters.com/world/europe/russian-cargo-ship-still-fire-off-finland-after-attack-2026-11-22/",
+      "genuineness": "verified",
+      "outlets": [
+        "Reuters",
+        "CNN",
+        "Al Jazeera",
+        "Dawn",
+        "The Straits Times"
+      ],
+      "image": null,
+      "image_credit": null
+    },
+    {
+      "id": "world-20261122-1722-02",
+      "published_ist": "2026-11-20T12:00:00+05:30",
+      "headline": "Kryvyi Rih hamle me bachcha, paramedic mare",
+      "detail": "Shukravaar raat Ukraine ke Kryvyi Rih me Russia ke 'triple-tap' hamle me saat saal ka bachcha aur 20 saal ki paramedic mare gaye — pehle missile restaurant parking par gira, phir bachav-karmiyon par drone hamle hue; lagbhag 60 log ghayal hue.",
+      "category": "World",
+      "exam_angle": "Ukraine yuddh, triple-tap hamle — UPSC IR",
+      "source": "CNN",
+      "source_url": "https://www.cnn.com/2026/11/21/europe/kryvyi-rih-ukraine-russia-attack-intl?cid=external-feeds_iluminar_meta",
+      "genuineness": "verified",
+      "outlets": [
+        "CNN",
+        "Kyiv Post",
+        "Kyiv Independent",
+        "News18",
+        "Ukrainska Pravda"
+      ],
+      "image": null,
+      "image_credit": null
+    },
+    {
+      "id": "world-20261122-1722-03",
+      "published_ist": "2026-11-21T05:39:00+05:30",
+      "headline": "Peru me 6.7 teevrata ka bhookamp",
+      "detail": "Shukravaar shaam madhya Peru ke Junin ke paas 6.7 teevrata ka bhookamp aaya — gharo ko halka nuksan, bijli band aur bhooskhalan hue, koi mrityu nahi; jhatke rajdhani Lima tak mehsoos hue.",
+      "category": "World",
+      "exam_angle": "Bhookamp, Andes, Peru — UPSC Geography",
+      "source": "The Daily Star",
+      "source_url": "https://www.thedailystar.net/news/world/news/67-magnitude-earthquake-hits-central-peru-4329311",
+      "genuineness": "verified",
+      "outlets": [
+        "The Daily Star",
+        "TRT World",
+        "The New Indian Express",
+        "Korea Times",
+        "The Straits Times"
+      ],
+      "image": null,
+      "image_credit": null
+    },
+    {
+      "id": "world-20261122-1222-05",
+      "published_ist": "2026-11-22T12:00:00+05:30",
+      "headline": "Indonesia candy factory me aag, 39 lapata",
+      "detail": "Jakarta ke paas Serang ki Fonusa Agung Mulia candy factory me shanivaar dopahar aag lagi — teen mare, 36 lapata hain aur talash jaari hai; 15 ko surakshit nikala gaya, chaar ghayal hue, kuchh hisso me aag abhi bhi jal rahi hai. (Updated)",
+      "category": "World",
+      "exam_angle": null,
+      "source": "The Straits Times",
+      "source_url": "https://www.straitstimes.com/asia/se-asia/rescuers-say-39-missing-after-indonesia-factory-fire",
+      "genuineness": "verified",
+      "outlets": [
+        "The Straits Times",
+        "The Hindu",
+        "Deccan Chronicle",
+        "Kuwait Times"
       ],
       "image": null,
       "image_credit": null
