@@ -1,20 +1,23 @@
 {
-  "updated_ist": "2026-11-22T22:25:47+05:30",
+  "updated_ist": "2026-11-22T22:28:48+05:30",
   "items": [
     {
-      "id": "world-20261122-2222-01",
-      "published_ist": "2026-11-22T12:00:00+05:30",
-      "headline": "Eisenkot ne Likud ko vaarta ke liye bulaya",
-      "detail": "Israel me sarkar banane ka zimma mile Gadi Eisenkot ne Netanyahu ki Likud party ko gathbandhan vaarta ke liye bulaya — ravivaar ko dono dalon ki pehli baithak hui; 27 October ke chunav me kisi ko bahumat nahi mila tha, Eisenkot ke paas 6 December tak ka samay hai.",
+      "id": "world-20261122-1222-02",
+      "published_ist": "2026-11-21T12:00:00+05:30",
+      "headline": "Eisenkot ne Netanyahu se gathbandhan vaarta shuru ki",
+      "detail": "Israel me sarkar banane ki zimmedari wale Gadi Eisenkot ne Netanyahu ki Likud party ko gathbandhan vaarta ke liye bulaya; Updated: ravivaar ko dono dalon ki pehli baithak hui, Eisenkot ke paas 6 December tak ka samay hai — 27 October ke chunav me kisi ko bahumat nahi mila tha.",
       "category": "World",
-      "exam_angle": "Israel sarkar gathan, Knesset, gathbandhan — UPSC IR",
-      "source": "The Hindu",
-      "source_url": "https://www.thehindu.com/news/international/eisenkot-invites-netanyahus-party-for-israeli-coalition-talks/article71729470.ece",
+      "exam_angle": "Israel sarkar-gathan, Netanyahu — UPSC IR",
+      "source": "NDTV",
+      "source_url": "https://www.ndtv.com/world-news/israel-government-formation-news-gadi-eisenkot-invites-benjamin-netanyahu-for-talks-to-form-new-israeli-government-12360569",
       "genuineness": "verified",
       "outlets": [
-        "AFP",
+        "NDTV",
+        "The Straits Times",
+        "New Indian Express",
+        "The Daily Star",
         "Haaretz",
-        "The Times of India"
+        "The Hindu"
       ],
       "image": "../images/world/world-20261122-2222-01.jpg",
       "image_credit": "Yahav Trudler, Wikimedia Commons (CC BY-SA 3.0)"
