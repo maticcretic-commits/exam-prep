@@ -1,5 +1,5 @@
 {
- "updated_ist": "2026-11-22T08:24:43+05:30",
+ "updated_ist": "2026-11-22T09:25:21+05:30",
  "items": [
   {
    "id": "world-20261122-0630-01",
@@ -210,6 +210,63 @@
    ],
    "image": null,
    "image_credit": null
+  },
+  {
+   "id": "world-20261122-0925-01",
+   "published_ist": "2026-11-21T00:19:27+05:30",
+   "headline": "Anthropic ka $93.5 billion record IPO",
+   "detail": "AI company Anthropic ka IPO itihas ka sabse bada ban gaya — $93.5 billion jama, SpaceX ka $86 billion ka record toota; share pehle din 17% chadha, agle din 9.5% gira.",
+   "category": "World",
+   "exam_angle": "Sabse bada IPO, AI economy — UPSC Economy",
+   "source": "NDTV",
+   "source_url": "https://www.ndtv.com/world-news/anthropic-falls-over-9-day-after-record-ipo-12356452/amp/1",
+   "genuineness": "verified",
+   "outlets": [
+    "The Information",
+    "CNBC",
+    "BBC",
+    "NDTV"
+   ],
+   "image": null,
+   "image_credit": null
+  },
+  {
+   "id": "world-20261122-0925-02",
+   "published_ist": "2026-11-22T08:05:00+05:30",
+   "headline": "Zelensky: Crimean Bridge hamla 'fair response'",
+   "detail": "Zelensky ne kaha Crimean Bridge par hamla Russia ke 109 pul-hamlon ka 'fair response' tha — pul ka beech wala hissa samundar me gira, gaadiyon ke liye band; UK ke raksha mantri ne Kyiv me samarthan jataya.",
+   "category": "World",
+   "exam_angle": "Ukraine yuddh, Crimean Bridge — UPSC IR",
+   "source": "TBS News",
+   "source_url": "https://www.tbsnews.net/worldbiz/europe/zelensky-calls-attacks-crimean-bridge-fair-response-russian-strikes-1610036",
+   "genuineness": "verified",
+   "outlets": [
+    "BBC",
+    "Kyiv Post",
+    "Kyiv Independent",
+    "NDTV"
+   ],
+   "image": "../images/world/world-20261122-0925-02.jpg",
+   "image_credit": "Alexxx1979, Wikimedia Commons (CC BY-SA 4.0)"
+  },
+  {
+   "id": "world-20261122-0925-03",
+   "published_ist": "2026-11-20T04:51:00+05:30",
+   "headline": "Trump ne Iran faisla agle saal tak taala",
+   "detail": "Trump ne kaha Iran par naye hamlo ka faisla 'saal ki shuruaat ke baad' hoga — Reuters se 'We've got time', Fox ko '1 January ke baad dekhenge'; Senate ne yuddh rokne wala prastav phir kharij kiya.",
+   "category": "World",
+   "exam_angle": "US-Iran tanaav, West Asia — UPSC IR",
+   "source": "Haaretz",
+   "source_url": "https://www.haaretz.com/us-news/2026-11-20/ty-article/trump-pushes-iran-strike-decision-to-next-year-weve-got-time/000001a1-f623-d175-abf5-fe3795240000",
+   "genuineness": "verified",
+   "outlets": [
+    "Reuters",
+    "Gulf News",
+    "Haaretz",
+    "SCMP"
+   ],
+   "image": "../images/world/world-20261122-0925-03.jpg",
+   "image_credit": "The White House, Wikimedia Commons (Public domain)"
   }
  ]
 }
