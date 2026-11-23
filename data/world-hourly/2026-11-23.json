@@ -1,6 +1,77 @@
 {
   "items": [
     {
+      "id": "world-20261123-1222-01",
+      "published_ist": "2026-11-22T23:21:00+05:30",
+      "headline": "Houthi ka daava: Saudi refinery par hamla",
+      "detail": "Houthi ne daava kiya ki unhone Saudi Arabia ki Rabigh oil refinery par hamla karke seedha nishana lagaya hai; Saudi ne abhi tak hamle ki pushti nahi ki hai, aur nuksaan ka bhi pata nahi chala hai.",
+      "category": "World",
+      "exam_angle": "West Asia sangharsh, energy suraksha — UPSC IR",
+      "source": "Reuters",
+      "source_url": "https://www.reuters.com/world/middle-east/yemens-houthis-say-they-attacked-saudi-rabigh-oil-refinery-2026-11-22/",
+      "genuineness": "corroborated",
+      "outlets": [
+        "Reuters",
+        "The Jerusalem Post"
+      ],
+      "image": null,
+      "image_credit": null
+    },
+    {
+      "id": "world-20261123-1222-02",
+      "published_ist": "2026-11-21T12:00:00+05:30",
+      "headline": "BepiColombo Mercury ki kaksha me pahuncha",
+      "detail": "Aath saal ki yatra ke baad ESA-JAXA ka BepiColombo yaan Mercury ki kaksha me pahunch gaya hai; thruster me software gadbad ke bawjood yaan surakshit hai, aur vigyaan ka kaam April 2027 se shuru hoga.",
+      "category": "World",
+      "exam_angle": "Antariksh mission, ESA-JAXA — UPSC S&T",
+      "source": "Reuters",
+      "source_url": "https://www.reuters.com/science/spacecraft-begins-orbit-mercury-with-glitch-reported-2026-11-22/",
+      "genuineness": "verified",
+      "outlets": [
+        "Reuters",
+        "Nature",
+        "ESA"
+      ],
+      "image": null,
+      "image_credit": null
+    },
+    {
+      "id": "world-20261123-1222-03",
+      "published_ist": "2026-11-22T12:00:00+05:30",
+      "headline": "Iowa me zehreela visfotak udayegi US Army",
+      "detail": "US Army Iowa me 68 barrel asthir lead azide ko Budhvaar ko niyantrit visfot se udaane ja rahi hai — adalat ki rok ke bawjood aapaatkaaleen shaktiyon ka hawala diya gaya hai; thand se bina niyantran ke visfot ka khatra bataya gaya hai.",
+      "category": "World",
+      "exam_angle": null,
+      "source": "Reuters",
+      "source_url": "https://www.reuters.com/legal/government/iowa-detonation-lead-will-proceed-under-emergency-powers-army-says-bypassing-2026-11-22/",
+      "genuineness": "verified",
+      "outlets": [
+        "Reuters",
+        "CNN",
+        "Al Jazeera"
+      ],
+      "image": null,
+      "image_credit": null
+    },
+    {
+      "id": "world-20261123-1222-04",
+      "published_ist": "2026-11-22T12:00:00+05:30",
+      "headline": "Poland missile par NATO ki aapaat baithak",
+      "detail": "NATO ki North Atlantic Council aaj Brussels me baithak kar rahi hai — 20 November ko teen Russian hawai vastu Poland me giri thi; Poland ne purvi seema par hawai suraksha badhane ki maang ki hai.",
+      "category": "World",
+      "exam_angle": "NATO, Russia-Ukraine yuddh — UPSC IR",
+      "source": "The New Voice of Ukraine",
+      "source_url": "https://english.nv.ua/nation/russian-missiles-in-poland-nato-to-meet-in-brussels-to-discuss-incident-50661424.html",
+      "genuineness": "verified",
+      "outlets": [
+        "The New Voice of Ukraine",
+        "Asia Today",
+        "EU Today"
+      ],
+      "image": null,
+      "image_credit": null
+    },
+    {
       "id": "world-20261123-0827-01",
       "published_ist": "2026-11-22T21:51:00+05:30",
       "headline": "Bahrain par Iran hamla, 2 ghayal",
