@@ -1,6 +1,50 @@
 {
   "items": [
     {
+      "id": "world-20261123-0722-01",
+      "published_ist": "2026-11-22T12:00:00+05:30",
+      "headline": "Sparta II ko Finland se kheenchna shuru",
+      "detail": "Drone hamle ke baad Finland ke paani me khade Russian cargo jahaaz Sparta II ko Ravivaar ko kheenchna shuru kar diya gaya — 16 chaalak-dal ke log surakshit nikaale gaye, ek halka ghayal; jahaaz ab sthir hai.",
+      "category": "World",
+      "exam_angle": "Baltic, Russia-Ukraine yuddh, samudri suraksha — UPSC IR",
+      "source": "Channel News Asia",
+      "source_url": "https://www.channelnewsasia.com/world/russia-starts-towing-ship-hit-drones-in-baltic-finland-says-6573286",
+      "genuineness": "verified",
+      "outlets": [
+        "Channel News Asia",
+        "Al Jazeera",
+        "CNN",
+        "Arab News"
+      ],
+      "image": "../images/world/world-20261123-0722-01.jpg",
+      "image_credit": "Al Jazeera"
+    },
+    {
+      "id": "world-20261122-1222-02",
+      "published_ist": "2026-11-22T12:00:00+05:30",
+      "headline": "Netanyahu-Eisenkot vaarta bina samjhote khatm",
+      "detail": "Ravivaar ko Herzliya me chaar ghante ki vaarta ke baad Likud aur Yashar me koi samjhota nahi hua — Ben-Gvir ko lekar matbhed barkarar hai, aur Eisenkot ke paas sarkar banane ke liye 6 December tak ka samay hai.",
+      "category": "World",
+      "exam_angle": "Israel sarkar-gathan, Netanyahu — UPSC IR",
+      "source": "Al Jazeera",
+      "source_url": "https://www.aljazeera.com/news/2026/11/22/netanyahus-likud-eisenkots-yashar-end-coalition-talks-without-deal?traffic_source=rss",
+      "genuineness": "verified",
+      "outlets": [
+        "NDTV",
+        "The Straits Times",
+        "New Indian Express",
+        "The Daily Star",
+        "Haaretz",
+        "The Hindu",
+        "Al Jazeera",
+        "Ynet",
+        "Arab News",
+        "Channel News Asia"
+      ],
+      "image": "../images/world/world-20261122-2222-01.jpg",
+      "image_credit": "Yahav Trudler, Wikimedia Commons (CC BY-SA 3.0)"
+    },
+    {
       "id": "world-20261123-0622-01",
       "published_ist": "2026-11-22T12:00:00+05:30",
       "headline": "Democrats ko House me 258 seatein",
