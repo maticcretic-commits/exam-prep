@@ -212,6 +212,76 @@
     ],
     "answer_index": 1
    }
+  },
+  {
+   "episode": 156,
+   "video_hi": "oBbU0qGbIl0",
+   "video_hinglish": "oBbU0qGbIl0",
+   "capsules": [
+    {
+     "id": "ca-ep156-s1",
+     "headline_hi": "Asia Power Index: Bharat teesre number par",
+     "headline_hinglish": "Asia Power Index: Bharat teesre number par",
+     "detail_hi": "Lowy Institute ki 2026 ranking mein Bharat ka score 40.5; America 78.9 aur China 73.6 ke saath pehle do par.",
+     "detail_hinglish": "Lowy Institute ki 2026 ranking mein Bharat ka score 40.5; America 78.9 aur China 73.6 ke saath pehle do par.",
+     "category_hi": "Global",
+     "category_en": "National"
+    },
+    {
+     "id": "ca-ep156-s2",
+     "headline_hi": "West Bengal ka naam badlega, Paschim Banga hoga",
+     "headline_hinglish": "West Bengal ka naam badlega, Paschim Banga hoga",
+     "detail_hi": "Prastav nau December ko Vidhan Sabha mein pesh hoga; antim faisla Sansad karegi.",
+     "detail_hinglish": "Prastav nau December ko Vidhan Sabha mein pesh hoga; antim faisla Sansad karegi.",
+     "category_hi": "Polity",
+     "category_en": "Polity"
+    },
+    {
+     "id": "ca-ep156-s3",
+     "headline_hi": "WhatsApp Web se account hack ka khatra",
+     "headline_hinglish": "WhatsApp Web se account hack ka khatra",
+     "detail_hi": "Grih Mantralaya ke I4C ne chetavni di; koi aur aapke WhatsApp Web session se aapke naam par message bhej sakta hai.",
+     "detail_hinglish": "Grih Mantralaya ke I4C ne chetavni di; koi aur aapke WhatsApp Web session se aapke naam par message bhej sakta hai.",
+     "category_hi": "Security",
+     "category_en": "National"
+    },
+    {
+     "id": "ca-ep156-s4",
+     "headline_hi": "SVAMITVA poora hoga March 2027 tak",
+     "headline_hinglish": "SVAMITVA poora hoga March 2027 tak",
+     "detail_hi": "Drone survey se 3.33 lakh gaon ki sampatti ka record; property card par 16,614 loan, ₹1,769 crore mile.",
+     "detail_hinglish": "Drone survey se 3.33 lakh gaon ki sampatti ka record; property card par 16,614 loan, ₹1,769 crore mile.",
+     "category_hi": "Governance",
+     "category_en": "National"
+    },
+    {
+     "id": "ca-ep156-s5",
+     "headline_hi": "Maharashtra: 1.7 lakh kisanon ka karz maaf",
+     "headline_hinglish": "Maharashtra: 1.7 lakh kisanon ka karz maaf",
+     "detail_hi": "Pehli list mein 1,69,820 kisan; do lakh rupaye tak ka fasal karz maaf, kul 56 lakh kisanon ko fayda hoga.",
+     "detail_hinglish": "Pehli list mein 1,69,820 kisan; do lakh rupaye tak ka fasal karz maaf, kul 56 lakh kisanon ko fayda hoga.",
+     "category_hi": "Agriculture",
+     "category_en": "Agriculture"
+    }
+   ],
+   "mcq": {
+    "id": "ca-ep156-mcq",
+    "q_hi": "Asia Power Index 2026 mein Bharat ka overall score kitna hai?",
+    "q_hinglish": "Asia Power Index 2026 mein Bharat ka overall score kitna hai?",
+    "options_hi": [
+     "Chhabbees point chaar",
+     "Adtalis point paanch",
+     "Chalees point paanch",
+     "Chhappan point do"
+    ],
+    "options_hinglish": [
+     "Chhabbees point chaar",
+     "Adtalis point paanch",
+     "Chalees point paanch",
+     "Chhappan point do"
+    ],
+    "answer_index": 2
+   }
   }
  ]
 }
