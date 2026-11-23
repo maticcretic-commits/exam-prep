@@ -543,6 +543,44 @@
       ],
       "image": "../images/world/world-20261123-1622-02.jpg",
       "image_credit": "Metro News, Wikimedia Commons (CC BY 3.0)"
+    },
+    {
+      "id": "world-20261123-1722-01",
+      "published_ist": "2026-11-23T11:30:00+05:30",
+      "headline": "Belgium me hadtaal, saare airport band",
+      "detail": "Belgium me somvaar ko deshvyaapi hadtaal aur austerity-virodhi pradarshan ke kaaran subah 7 se raat 9 baje tak saari udanein radd rahi; hazaaron yatri prabhavit hue, unions €10 arab ki katauti ka virodh kar rahi hain.",
+      "category": "World",
+      "exam_angle": "Belgium hadtaal, €10 arab katauti, EU rajneeti — UPSC IR",
+      "source": "Al Jazeera",
+      "source_url": "https://www.aljazeera.com/news/2026/11/23/belgiums-airports-set-to-shut-down-due-to-anti-austerity-strike",
+      "genuineness": "verified",
+      "outlets": [
+        "Al Jazeera",
+        "News18",
+        "Aviation Today",
+        "The Aviation Hub"
+      ],
+      "image": null,
+      "image_credit": null
+    },
+    {
+      "id": "world-20261123-1722-02",
+      "published_ist": "2026-11-23T03:30:00+05:30",
+      "headline": "Manchester concert me gas, 12,000 nikale gaye",
+      "detail": "Ravivaar raat Manchester ke Co-op Live arena me Don Toliver ke concert ke dauraan agyaat padarth — shuru me aansu gas mana gaya — chhoda gaya; 12,000 se zyada darshak nikale gaye, 50 se zyada ka ilaaj hua aur ek vyakti aspatal me bharti hai.",
+      "category": "World",
+      "exam_angle": null,
+      "source": "Reuters",
+      "source_url": "https://www.reuters.com/world/uk/don-toliver-concert-manchester-evacuated-after-unknown-substance-released-police-2026-11-23/",
+      "genuineness": "verified",
+      "outlets": [
+        "Reuters",
+        "CNN",
+        "The Times",
+        "NME"
+      ],
+      "image": null,
+      "image_credit": null
     }
   ]
 }
