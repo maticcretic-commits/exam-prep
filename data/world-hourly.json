@@ -1,6 +1,61 @@
 {
-  "updated_ist": "2026-11-23T07:31:36+05:30",
+  "updated_ist": "2026-11-23T08:27:55+05:30",
   "items": [
+    {
+      "id": "world-20261123-0827-01",
+      "published_ist": "2026-11-22T21:51:00+05:30",
+      "headline": "Bahrain par Iran hamla, 2 ghayal",
+      "detail": "Shanivaar ko Bahrain ke Sitra Island par nagrik audyogik sthal par Iranian hamle me 2 log ghayal hue — IRGC ne kaha usne America ki Patriot vayu-raksha ko nishana banaya; Houthi ne paschimi Saudi ki taraf ballistic missile daagi, jo rok li gayi.",
+      "category": "World",
+      "exam_angle": "Iran-America yuddh, Bahrain, Houthi-Saudi — UPSC IR",
+      "source": "L'Orient Today",
+      "source_url": "https://today.lorientlejour.com/article/1555291/iran-strike-wounds-two-in-bahrain-riyadh-denounces-criminal-attacks.html",
+      "genuineness": "corroborated",
+      "outlets": [
+        "AFP",
+        "CNBC"
+      ],
+      "image": null,
+      "image_credit": null
+    },
+    {
+      "id": "world-20261123-0827-02",
+      "published_ist": "2026-11-22T12:00:00+05:30",
+      "headline": "Poland me teen Russian Kh-101 missile giri",
+      "detail": "Poland ke abhiyojakon ne Ravivaar ko pushti ki Shukravar ko hawai seema me ghuse teeno vastuein Russian Kh-101 cruise missile thi — malba teen jagah mila, koi hatahat nahi hua; NATO ki baithak Somvaar ko hogi.",
+      "category": "World",
+      "exam_angle": "Poland, NATO, Russia-Ukraine yuddh — UPSC IR",
+      "source": "Reuters",
+      "source_url": "https://www.reuters.com/world/three-russian-missiles-flew-into-poland-friday-prosecutors-say-2026-11-22/",
+      "genuineness": "verified",
+      "outlets": [
+        "Reuters",
+        "Kyiv Independent",
+        "Ukrinform",
+        "Polish Press Agency"
+      ],
+      "image": null,
+      "image_credit": null
+    },
+    {
+      "id": "world-20261123-0827-03",
+      "published_ist": "2026-11-19T12:00:00+05:30",
+      "headline": "ICJ: Myanmar ne Rohingya narsanhar kiya",
+      "detail": "ICJ ne 19 November ko faisla diya ki Myanmar ne 2017 me Rohingya ke khilaf narsanhar kiya — lagbhag 10,000 log mare gaye aur 7 lakh se zyada Bangladesh bhaage; adalat ne muawza aur sharnarthiyon ki wapsi ka aadesh diya.",
+      "category": "World",
+      "exam_angle": "ICJ, Rohingya, Genocide Convention — UPSC IR",
+      "source": "Al Jazeera",
+      "source_url": "https://www.aljazeera.com/amp/news/2026/11/20/what-does-the-icjs-rohingya-genocide-ruling-mean-for-gaza",
+      "genuineness": "verified",
+      "outlets": [
+        "Al Jazeera",
+        "The Indian Express",
+        "Gulf Times",
+        "BBC"
+      ],
+      "image": null,
+      "image_credit": null
+    },
     {
       "id": "world-20261123-0722-01",
       "published_ist": "2026-11-22T12:00:00+05:30",
@@ -396,63 +451,6 @@
         "Gulf News",
         "The Jerusalem Post",
         "Euronews Persian"
-      ],
-      "image": null,
-      "image_credit": null
-    },
-    {
-      "id": "world-20261122-1222-04",
-      "published_ist": "2026-11-22T12:00:00+05:30",
-      "headline": "Dakshin Korea ke shiksha mantri ne istifa diya",
-      "detail": "Shiksha mantri Choi Kyo-jin ne AI se cheating rokne ki taiyari me hui gadbad ki zimmedari lete hue istifa diya; Rashtrapati Lee ne turant manzoor kiya, pariksha me electronic device se 111 gadbad ke mamle mile.",
-      "category": "World",
-      "exam_angle": "Pariksha me AI cheating, Suneung — UPSC Ethics/Tech",
-      "source": "Channel News Asia",
-      "source_url": "https://www.channelnewsasia.com/east-asia/south-korea-education-chief-resigns-ai-cheating-scandal-suneung-6572626",
-      "genuineness": "verified",
-      "outlets": [
-        "Channel News Asia",
-        "Korea Times",
-        "Yonhap",
-        "The Hindu"
-      ],
-      "image": null,
-      "image_credit": null
-    },
-    {
-      "id": "world-20261122-1222-05",
-      "published_ist": "2026-11-22T12:00:00+05:30",
-      "headline": "Indonesia factory aag: 7 shav, 50 lapata",
-      "detail": "Ravivaar tak Indonesia ke Cikande candy factory ki aag me saat body bag mile aur lagbhag 50 mazdoor abhi bhi lapata hain — aag ki teevrata se pehchan mushkil, DNA jaanch me do-teen hafte lag sakte hain; shift me lagbhag 300 log maujood the.",
-      "category": "World",
-      "exam_angle": null,
-      "source": "Dawn",
-      "source_url": "https://www.dawn.com/news/2046306/three-dead-36-missing-after-indonesia-factory-fire",
-      "genuineness": "verified",
-      "outlets": [
-        "Dawn",
-        "The Straits Times",
-        "Ynet",
-        "Times of India",
-        "AsiaOne"
-      ],
-      "image": null,
-      "image_credit": null
-    },
-    {
-      "id": "world-20261122-1122-01",
-      "published_ist": "2026-11-22T12:00:00+05:30",
-      "headline": "Gaza: khane wali gaadi par hamla, teen mare",
-      "detail": "Gaza City ke Tel al-Hawa me khana pahuncha rahi gaadi par Israeli hamle me teen log mare gaye; Israel ne kaha woh Islamic Jihad ke ladake the, Hamas ne madhyasthon ki turant baithak mangi.",
-      "category": "World",
-      "exam_angle": "Gaza yuddhaviram, Israel-Hamas — UPSC IR",
-      "source": "Dawn",
-      "source_url": "https://www.dawn.com/news/print/2046198",
-      "genuineness": "verified",
-      "outlets": [
-        "Dawn",
-        "The Times of India",
-        "Anadolu Agency"
       ],
       "image": null,
       "image_credit": null
