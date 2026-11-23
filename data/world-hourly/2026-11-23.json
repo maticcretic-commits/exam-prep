@@ -1,0 +1,65 @@
+{
+  "items": [
+    {
+      "id": "world-20261123-0622-01",
+      "published_ist": "2026-11-22T12:00:00+05:30",
+      "headline": "Democrats ko House me 258 seatein",
+      "detail": "North Carolina me Chuck Hubbard ki jeet ke baad Democrats ke paas House me kam se kam 258 seatein ho gayin — 1992 ke baad sabse bada bahumat; chaar seatein abhi bhi tay nahi hui hain.",
+      "category": "World",
+      "exam_angle": "America midterm chunav 2026, House bahumat — UPSC IR",
+      "source": "Reuters",
+      "source_url": "https://www.reuters.com/world/us/north-carolina-win-gives-democrats-biggest-us-house-majority-since-early-1990s-2026-11-22/",
+      "genuineness": "verified",
+      "outlets": [
+        "Reuters",
+        "Al Jazeera",
+        "Associated Press",
+        "SCMP"
+      ],
+      "image": "../images/world/world-20261123-0622-01.jpg",
+      "image_credit": "Martin Falbisoner, Wikimedia Commons (CC BY-SA 3.0)"
+    },
+    {
+      "id": "world-20261123-0622-02",
+      "published_ist": "2026-11-22T12:00:00+05:30",
+      "headline": "Benghazi me Russian yuddhpot par drone hamla",
+      "detail": "Ravivaar ko Libya ke Benghazi bandargah par khade Russian yuddhpot Merkury par sandigdh drone hamle se dhamaka hua — jahaaz aadha doob gaya aur 10 log halke ghayal hue; Malta ke jhande wala ek vyaparik jahaaz bhi nishana bana.",
+      "category": "World",
+      "exam_angle": "Libya, Russia-Ukraine yuddh, samudri suraksha — UPSC IR",
+      "source": "Reuters",
+      "source_url": "https://www.reuters.com/world/middle-east/libyas-eastern-government-suspects-drone-attack-caused-explosion-russian-ship-2026-11-22/",
+      "genuineness": "verified",
+      "outlets": [
+        "Reuters",
+        "CNN",
+        "Al Jazeera",
+        "Arab News",
+        "The Wall Street Journal",
+        "SCMP",
+        "Gulf News"
+      ],
+      "image": null,
+      "image_credit": null
+    },
+    {
+      "id": "world-20261123-0622-03",
+      "published_ist": "2026-11-22T12:00:00+05:30",
+      "headline": "West Bank me aagjani, Eisenkot ne ninda ki",
+      "detail": "Ravivaar raat Ramallah ke paas ke gaonvon me basne walon ne kam se kam 12 gaadiyan jala di — sarkar banane ki koshish kar rahe Gadi Eisenkot ne ise 'Yahudi aatankwad' kaha; koi ghayal nahi hua.",
+      "category": "World",
+      "exam_angle": "Israel-Palestine, West Bank hinsa — UPSC IR",
+      "source": "Reuters",
+      "source_url": "https://www.reuters.com/world/middle-east/israels-eisenkot-condemns-arson-attacks-by-jewish-settlers-west-bank-2026-11-22/",
+      "genuineness": "verified",
+      "outlets": [
+        "Reuters",
+        "The Times of Israel",
+        "The Jerusalem Post",
+        "CNN",
+        "Ynet"
+      ],
+      "image": null,
+      "image_credit": null
+    }
+  ]
+}
