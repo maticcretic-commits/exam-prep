@@ -830,6 +830,46 @@
       ],
       "image": null,
       "image_credit": null
+    },
+    {
+      "id": "world-20261123-2122-01",
+      "published_ist": "2026-11-23T12:00:00+05:30",
+      "headline": "Nvidia ne Jensen Huang ko CEO wapas banaya",
+      "detail": "Nvidia ke board ne Somvaar ko Jensen Huang ko turant prabhaav se CEO aur adhyaksh ke roop me wapas bahaal kiya — 12 November ko unke istife ke 11 din baad; board ne kaha America sarkar se input ke baad unki wapasi se rashtriya suraksha ko koi khatra nahi, aur Trump ne faisle ko sahi bataya, jabki Nvidia ke share 31% se zyada chadhe.",
+      "category": "World",
+      "exam_angle": "AI chip, Nvidia, America-China tech tanav — UPSC economy/S&T",
+      "source": "Reuters",
+      "source_url": "https://www.reuters.com/technology/nvidia-reinstates-jensen-huang-ceo-2026-11-23/",
+      "genuineness": "verified",
+      "outlets": [
+        "Reuters",
+        "The Wall Street Journal",
+        "CNN",
+        "Al Jazeera",
+        "TechCrunch"
+      ],
+      "image": null,
+      "image_credit": null
+    },
+    {
+      "id": "world-20261123-2122-02",
+      "published_ist": "2026-11-23T20:36:00+05:30",
+      "headline": "Grameen Bank ki lagbhag 100 shakhaon par hamla",
+      "detail": "Bangladesh me November me Grameen Bank ki lagbhag 100 shakhaon par petrol bomb se hamle hue — bank ke memo me 10 se 23 November ke beech 97 ghatnayein darj hain; poorv antarim pramukh Muhammad Yunus ne Somvaar ko hamle rokne aur doshiyon ko saza dene ki maang ki, aur kaha unka apna ghar bhi nishana bana.",
+      "category": "World",
+      "exam_angle": "Bangladesh raajneeti, Grameen Bank, microfinance — UPSC IR",
+      "source": "The Financial Express",
+      "source_url": "https://thefinancialexpress.com.bd/national/nearly-100-grameen-bank-branches-attacked-in-nov-accompanied-by-joy-bangla-yunus",
+      "genuineness": "verified",
+      "outlets": [
+        "The Financial Express",
+        "Dhaka Tribune",
+        "The Business Standard",
+        "Prothom Alo",
+        "Al Jazeera"
+      ],
+      "image": null,
+      "image_credit": null
     }
   ]
 }
