@@ -1,6 +1,44 @@
 {
-  "updated_ist": "2026-11-23T15:24:25+05:30",
+  "updated_ist": "2026-11-23T16:24:53+05:30",
   "items": [
+    {
+      "id": "world-20261123-1622-01",
+      "published_ist": "2026-11-23T15:20:00+05:30",
+      "headline": "Iran: US naakabandi ka har tareeke se saamna",
+      "detail": "Iran ke videsh mantralaya ke pravakta Esmaeil Baghaei ne somvaar ko kaha Iran America ki nausena naakabandi ka saamna 'uplabdh sabhi saadhano' se karega; unhone kaha agar America shartein maane to Hormuz jalmaarg me suraksha jaldi bahaal ho sakti hai.",
+      "category": "World",
+      "exam_angle": "Hormuz jalmaarg, nausena naakabandi, UN Charter Article 51 — UPSC IR",
+      "source": "Reuters",
+      "source_url": "https://www.reuters.com/world/middle-east/iran-says-it-will-use-all-available-tools-confront-us-naval-blockade-2026-11-23/",
+      "genuineness": "verified",
+      "outlets": [
+        "Reuters",
+        "Al Jazeera",
+        "Arab News",
+        "The Straits Times"
+      ],
+      "image": null,
+      "image_credit": null
+    },
+    {
+      "id": "world-20261123-1622-02",
+      "published_ist": "2026-11-23T13:44:00+05:30",
+      "headline": "Modi-Shah mile, Nepal ko ₹24,000 crore package",
+      "detail": "Delhi me Nepal PM Balendra Shah se baatchit ke baad PM Modi ne baadh-prabhavit Nepal ke punarnirman ke liye 24,000 crore Nepali rupaye (lagbhag $1.62 billion) ka vikaas package ghoshit kiya; 8 samjhauta gyapan par hastakshar hue aur Ayodhya-Janakpur train shuru hui.",
+      "category": "World",
+      "exam_angle": "Bharat-Nepal sambandh, Neighbourhood First, baadh punarnirman — UPSC IR",
+      "source": "Reuters",
+      "source_url": "https://www.reuters.com/world/india/india-give-162-billion-economic-package-flood-hit-nepal-2026-11-23/",
+      "genuineness": "verified",
+      "outlets": [
+        "Reuters",
+        "NDTV",
+        "The Hindu",
+        "The Times of India"
+      ],
+      "image": "../images/world/world-20261123-1622-02.jpg",
+      "image_credit": "Metro News, Wikimedia Commons (CC BY 3.0)"
+    },
     {
       "id": "world-20261123-1522-01",
       "published_ist": "2026-11-23T12:00:00+05:30",
@@ -402,45 +440,6 @@
       ],
       "image": "../images/world/world-20261123-0722-01.jpg",
       "image_credit": "Al Jazeera"
-    },
-    {
-      "id": "world-20261123-0622-03",
-      "published_ist": "2026-11-22T12:00:00+05:30",
-      "headline": "West Bank me aagjani, Eisenkot ne ninda ki",
-      "detail": "Ravivaar raat Ramallah ke paas ke gaonvon me basne walon ne kam se kam 12 gaadiyan jala di — sarkar banane ki koshish kar rahe Gadi Eisenkot ne ise 'Yahudi aatankwad' kaha; koi ghayal nahi hua.",
-      "category": "World",
-      "exam_angle": "Israel-Palestine, West Bank hinsa — UPSC IR",
-      "source": "Reuters",
-      "source_url": "https://www.reuters.com/world/middle-east/israels-eisenkot-condemns-arson-attacks-by-jewish-settlers-west-bank-2026-11-22/",
-      "genuineness": "verified",
-      "outlets": [
-        "Reuters",
-        "The Times of Israel",
-        "The Jerusalem Post",
-        "CNN",
-        "Ynet"
-      ],
-      "image": null,
-      "image_credit": null
-    },
-    {
-      "id": "world-20261123-0622-01",
-      "published_ist": "2026-11-22T12:00:00+05:30",
-      "headline": "Democrats ko House me 258 seatein",
-      "detail": "North Carolina me Chuck Hubbard ki jeet ke baad Democrats ke paas House me kam se kam 258 seatein ho gayin — 1992 ke baad sabse bada bahumat; chaar seatein abhi bhi tay nahi hui hain.",
-      "category": "World",
-      "exam_angle": "America midterm chunav 2026, House bahumat — UPSC IR",
-      "source": "Reuters",
-      "source_url": "https://www.reuters.com/world/us/north-carolina-win-gives-democrats-biggest-us-house-majority-since-early-1990s-2026-11-22/",
-      "genuineness": "verified",
-      "outlets": [
-        "Reuters",
-        "Al Jazeera",
-        "Associated Press",
-        "SCMP"
-      ],
-      "image": "../images/world/world-20261123-0622-01.jpg",
-      "image_credit": "Martin Falbisoner, Wikimedia Commons (CC BY-SA 3.0)"
     }
   ]
 }
