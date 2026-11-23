@@ -467,6 +467,44 @@
       ],
       "image": null,
       "image_credit": null
+    },
+    {
+      "id": "world-20261123-1522-01",
+      "published_ist": "2026-11-23T12:00:00+05:30",
+      "headline": "Indonesia ne missile-chemical wala jahaaz pakda",
+      "detail": "China se Bangladesh ja raha MV Star Line jahaaz Indonesia ne 7 November ko pakda — 405 tonne sodium perchlorate aur lakhon bina-register SIM card mile; Indonesian Navy ke mutabik itna chemical 100 missile banane ke liye kaafi ho sakta hai.",
+      "category": "World",
+      "exam_angle": "Samudri suraksha, dual-use chemical, Indonesia-Bangladesh — UPSC IR",
+      "source": "NDTV",
+      "source_url": "https://www.ndtv.com/world-news/china-smuggled-chemical-for-100-missiles-to-bangladesh-secret-cargo-seized-12364946",
+      "genuineness": "verified",
+      "outlets": [
+        "NDTV",
+        "The Business Standard",
+        "Firstpost",
+        "Moneycontrol"
+      ],
+      "image": "../images/world/world-20261123-1522-01.jpg",
+      "image_credit": "Gordon Leggett, Wikimedia Commons (CC BY-SA 4.0)"
+    },
+    {
+      "id": "world-20261123-1522-02",
+      "published_ist": "2026-11-22T12:00:00+05:30",
+      "headline": "Netanyahu-Eisenkot baatchit bina samjhote khatm",
+      "detail": "Ravivaar ko Herzliya me chaar ghante ki baatchit ke baad Netanyahu ki Likud aur Eisenkot ki Yashar ekta sarkar par sahmat nahi ho sake — PM pad aur Ben-Gvir ko lekar matbhed; Eisenkot ke paas 6 December tak sarkar banane ka samay hai.",
+      "category": "World",
+      "exam_angle": "Israel sarkar gathan, gathbandhan raajneeti — UPSC IR",
+      "source": "Channel News Asia",
+      "source_url": "https://www.channelnewsasia.com/world/netanyahu-eisenkot-party-israel-government-talks-deal-6573061",
+      "genuineness": "verified",
+      "outlets": [
+        "Channel News Asia",
+        "Al Jazeera",
+        "TRT World",
+        "The Hindu"
+      ],
+      "image": "../images/world/world-20261123-1522-02.jpg",
+      "image_credit": "UK Government, Wikimedia Commons (CC BY 2.0)"
     }
   ]
 }
