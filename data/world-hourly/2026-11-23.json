@@ -334,6 +334,61 @@
       ],
       "image": null,
       "image_credit": null
+    },
+    {
+      "id": "world-20261123-1322-01",
+      "published_ist": "2026-11-23T12:00:00+05:30",
+      "headline": "Dymer hamle me 11 mare, ladka zinda mila",
+      "detail": "Kyiv ke paas Dymer me ek awasiya imarat par raat ke hamle me kam se kam 11 log mare, jabki 7 saal ka ladka 14 ghante baad malbe se zinda nikala gaya.",
+      "category": "World",
+      "exam_angle": null,
+      "source": "The Hindu",
+      "source_url": "https://www.thehindu.com/news/international/ukraine-says-russian-strikes-kill-several-in-kyiv-region/article71733677.ece",
+      "genuineness": "verified",
+      "outlets": [
+        "AFP",
+        "BBC",
+        "Al Jazeera"
+      ],
+      "image": null,
+      "image_credit": null
+    },
+    {
+      "id": "world-20261123-1322-02",
+      "published_ist": "2026-11-23T07:11:00+05:30",
+      "headline": "Hormuz me do tanker par hamla, aag lagi",
+      "detail": "IRGC ke daave ke mutabik do tanker nausainik surang se takrakar aag ki lapet me aaye, jabki UKMTO ne bhi Hormuz me do tankeron par hamle ki pushti ki.",
+      "category": "World",
+      "exam_angle": "Hormuz — Bharat ki tel suraksha ke liye aham marg",
+      "source": "Gulf News",
+      "source_url": "https://gulfnews.com/world/mena/middle-east-conflict-bahrain-intercepts-iranian-attacks-as-tehran-prepares-14-oil-tankers-to-breach-us-naval-blockade-1.500756662",
+      "genuineness": "verified",
+      "outlets": [
+        "AP",
+        "Xinhua",
+        "Gulf News"
+      ],
+      "image": null,
+      "image_credit": null
+    },
+    {
+      "id": "world-20261123-1322-03",
+      "published_ist": "2026-11-22T12:00:00+05:30",
+      "headline": "COP31 bina samjhote khatm, jeevashm par takraav",
+      "detail": "Antalya me do hafte ki vaarta ke baad COP31 bina kisi samjhote ke khatm hui, kyunki masaude me jeevashm indhan ka zikr hi nahi tha aur EU samet 130 se zyada deshon ne use kharij kar diya.",
+      "category": "World",
+      "exam_angle": "COP31, jalvayu vaarta aur UNFCCC — UPSC ke liye mahatvapurna",
+      "source": "Al Jazeera",
+      "source_url": "https://www.aljazeera.com/amp/news/2026/11/22/fossil-fuel-impasse-pushes-cop31-climate-talks-into-second-day-of-overtime",
+      "genuineness": "verified",
+      "outlets": [
+        "CNN",
+        "Al Jazeera",
+        "Indian Express",
+        "Financial Express"
+      ],
+      "image": null,
+      "image_credit": null
     }
   ]
 }
