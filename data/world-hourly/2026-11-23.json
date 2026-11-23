@@ -389,6 +389,84 @@
       ],
       "image": null,
       "image_credit": null
+    },
+    {
+      "id": "world-20261123-1422-01",
+      "published_ist": "2026-11-23T05:50:00+05:30",
+      "headline": "Korea shiksha mantri ka AI cheating par istifa",
+      "detail": "Dakshin Korea ke shiksha mantri Choi Kyo-jin ne CSAT pariksha se pehle AI-nakl rokne ke niyam baar-baar badalne se hui avyavastha ki zimmedari lete hue istifa diya; Rashtrapati Lee Jae Myung ne ek ghante me use sweekar kar liya.",
+      "category": "World",
+      "exam_angle": "CSAT pariksha, AI-nakl aur pariksha prabandhan — UPSC ke liye prasangik",
+      "source": "Reuters",
+      "source_url": "https://www.reuters.com/world/asia-pacific/south-koreas-education-minister-quits-over-exam-cheating-chaos-2026-11-23/",
+      "genuineness": "verified",
+      "outlets": [
+        "Reuters",
+        "Yonhap",
+        "Korea Herald",
+        "Korea Times"
+      ],
+      "image": null,
+      "image_credit": null
+    },
+    {
+      "id": "world-20261123-1422-02",
+      "published_ist": "2026-11-23T00:46:00+05:30",
+      "headline": "Atlanta me Delta ki 1,000 se zyada udane late",
+      "detail": "Delta Air Lines ke vajan-santulan wale automated system me kharabi se Atlanta hub par Ravivaar ko 1,000 se zyada udane late hui; FAA ne kuch samay ke liye ground stop lagaya, baad me system theek ho gaya.",
+      "category": "World",
+      "exam_angle": null,
+      "source": "Reuters",
+      "source_url": "https://www.reuters.com/business/aerospace-defense/delta-flights-faced-brief-delays-at-atlanta-airport-over-automated-system-issue-2026-11-22/",
+      "genuineness": "verified",
+      "outlets": [
+        "Reuters",
+        "USA Today",
+        "Associated Press",
+        "Fox News"
+      ],
+      "image": null,
+      "image_credit": null
+    },
+    {
+      "id": "world-20261123-1322-01",
+      "published_ist": "2026-11-23T12:00:00+05:30",
+      "headline": "Kyiv hamlo me 15 mare, ladka zinda mila",
+      "detail": "Kyiv kshetra me raat ke hamlo me kam se kam 15 log mare — Dymer me 11, Vyshneve me 3 aur Bila Tserkva me 1; Dymer me 7 saal ka ladka 14 ghante baad malbe se zinda nikala gaya.",
+      "category": "World",
+      "exam_angle": null,
+      "source": "The Hindu",
+      "source_url": "https://www.thehindu.com/news/international/ukraine-says-russian-strikes-kill-several-in-kyiv-region/article71733677.ece",
+      "genuineness": "verified",
+      "outlets": [
+        "AFP",
+        "BBC",
+        "Al Jazeera"
+      ],
+      "image": null,
+      "image_credit": null
+    },
+    {
+      "id": "world-20261123-0622-02",
+      "published_ist": "2026-11-22T12:00:00+05:30",
+      "headline": "Ukraine ne Libya me Russian jahaaz dooboya",
+      "detail": "Rashtrapati Zelensky ne kaha Ukraine ne saat samudri drone se Libya ke Benghazi me khade Russian yuddhpot Merkury ko dooba diya; ek Ka-27 helicopter bhi nasht hua aur hathiyaron wala cargo jahaaz MV Angara bhi nishana bana.",
+      "category": "World",
+      "exam_angle": "Libya, Russia-Ukraine yuddh, samudri suraksha — UPSC IR",
+      "source": "Reuters",
+      "source_url": "https://www.reuters.com/world/europe/zelenskiy-says-ukraine-sank-russian-corvette-near-libyas-coast-hit-cargo-ship-2026-11-23/",
+      "genuineness": "verified",
+      "outlets": [
+        "Reuters",
+        "CNN",
+        "Al Jazeera",
+        "Arab News",
+        "The Wall Street Journal",
+        "SCMP",
+        "Gulf News"
+      ],
+      "image": null,
+      "image_credit": null
     }
   ]
 }
