@@ -658,6 +658,100 @@
       ],
       "image": null,
       "image_credit": null
+    },
+    {
+      "id": "world-20261123-1922-01",
+      "published_ist": "2026-11-23T12:00:00+05:30",
+      "headline": "Medvedev: parmanu hathiyaar ka adhikaar",
+      "detail": "Russia ke Suraksha Parishad ke upadhyaksh Medvedev ne lekh me kaha kuchh halaton me desh ki suraksha ke liye parmanu hathiyaar istemal karna adhikaar hi nahi, zimmedari bhi hai; lekin Ukraine yuddh me abhi tak aisi seedhi zaroorat nahi bani.",
+      "category": "World",
+      "exam_angle": "Russia parmanu siddhant, ICJ 1996 salah — UPSC IR",
+      "source": "Yeni Safak",
+      "source_url": "https://en.yenisafak.com/world/medvedev-says-russia-has-right-in-some-cases-obligation-to-use-nuclear-weapons-3725901",
+      "genuineness": "verified",
+      "outlets": [
+        "Yeni Safak",
+        "TASS",
+        "Haberler",
+        "Lao Dong"
+      ],
+      "image": null,
+      "image_credit": null
+    },
+    {
+      "id": "world-20261123-1922-02",
+      "published_ist": "2026-11-23T12:00:00+05:30",
+      "headline": "Bangladesh: Hasina lauti to giraftari hogi",
+      "detail": "Bangladesh ke videsh rajya mantri Shama Obaed Islam ne Reuters ko bataya poorv PM Sheikh Hasina December me Bharat se lauti to turant giraftar karke jail bhej di jayengi; Dhaka unke pratyarpan ki maang kar raha hai.",
+      "category": "World",
+      "exam_angle": "Bangladesh-Hasina, pratyarpan sandhi, Bharat-Bangladesh sambandh — UPSC IR",
+      "source": "Reuters",
+      "source_url": "https://www.reuters.com/world/asia-pacific/bangladesh-vows-arrest-hasina-if-she-returns-india-2026-11-23/",
+      "genuineness": "corroborated",
+      "outlets": [
+        "Reuters",
+        "The Economic Times"
+      ],
+      "image": null,
+      "image_credit": null
+    },
+    {
+      "id": "world-20261123-1922-03",
+      "published_ist": "2026-11-23T14:35:00+05:30",
+      "headline": "Korea: pehli mahila jasus pramukh ka naam",
+      "detail": "Rashtrapati Lee Jae Myung ne cabinet ferbadal me poorv nyay mantri Kang Kum-sil ko National Intelligence Service ka pramukh namit kiya — pushti hui to ve 1961 se agency ki pehli mahila pramukh hongi; videsh aur ekikaran mantri bhi badle.",
+      "category": "World",
+      "exam_angle": "Dakshin Korea, NIS, America gathbandhan — UPSC IR",
+      "source": "Reuters",
+      "source_url": "https://www.reuters.com/world/asia-pacific/south-korea-nominates-new-foreign-unification-ministers-spy-chief-2026-11-23/",
+      "genuineness": "verified",
+      "outlets": [
+        "Reuters",
+        "Korea Herald",
+        "Korea Times",
+        "Yonhap",
+        "Korea JoongAng Daily"
+      ],
+      "image": null,
+      "image_credit": null
+    },
+    {
+      "id": "world-20261123-1922-04",
+      "published_ist": "2026-11-22T19:55:00+05:30",
+      "headline": "Oman khaadi me tanker-sainya ghatna",
+      "detail": "UK Maritime Trade Operations ne bataya Ravivaar shaam Oman ki khaadi me Chabahar ke paas ek tanker sainya balon ke saath ghatna me shamil hua; na jahaaz ka naam bataya gaya, na sainya bal ka, aur jaanch jaari hai.",
+      "category": "World",
+      "exam_angle": "Hormuz-Oman khaadi, samudri suraksha, US naakabandi — UPSC IR",
+      "source": "Yeni Safak",
+      "source_url": "https://en.yenisafak.com/world/ukmto-reports-tanker-incident-with-military-forces-in-gulf-of-oman-3725881",
+      "genuineness": "verified",
+      "outlets": [
+        "Bernama",
+        "Anadolu",
+        "Yeni Safak",
+        "Gulf News"
+      ],
+      "image": null,
+      "image_credit": null
+    },
+    {
+      "id": "world-20261123-1922-05",
+      "published_ist": "2026-11-23T12:00:00+05:30",
+      "headline": "Eisenkot: achanak sarkar ghoshna ki taiyaari",
+      "detail": "Yashar neta Gadi Eisenkot aane wale hafton me kabhi bhi gathbandhan sarkar ki achanak ghoshna karke 24 se 48 ghante me Knesset me matdan karane ki yojana bana rahe hain, taaki dal-badal aur saazish ka mauka na mile; Netanyahu se ekta vaarta abhi bhi atki hui hai.",
+      "category": "World",
+      "exam_angle": "Israel sarkar gathan, Knesset, gathbandhan raajneeti — UPSC IR",
+      "source": "The Times of India",
+      "source_url": "https://timesofindia.indiatimes.com/world/middle-east/political-ambush-eisenkot-plans-surprise-govt-announcement-in-israel-swift-knesset-vote-to-thwart-defections/articleshow/136092214.cms",
+      "genuineness": "verified",
+      "outlets": [
+        "The Times of India",
+        "The Economic Times",
+        "Asianet News",
+        "The Times of Israel"
+      ],
+      "image": null,
+      "image_credit": null
     }
   ]
 }
