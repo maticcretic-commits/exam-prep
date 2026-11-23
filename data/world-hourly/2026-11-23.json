@@ -192,6 +192,77 @@
       ],
       "image": "../images/world/world-20261123-1022-03.jpg",
       "image_credit": "Gulf News"
+    },
+    {
+      "id": "world-20261123-1122-01",
+      "published_ist": "2026-11-23T09:00:00+05:30",
+      "headline": "Indonesia factory aag me 24 mare",
+      "detail": "Shanivaar shaam ko Jakarta ke paas Cikande me PT Fonusa Agung Mulia candy factory me aag lagi — 24 log mare, lagbhag 30 laapata hain; AC short circuit se aag lagne ka shaq hai, bachav kaam jaari hai.",
+      "category": "World",
+      "exam_angle": "Indonesia, audyogik suraksha — UPSC",
+      "source": "Reuters",
+      "source_url": "https://www.reuters.com/world/asia-pacific/indonesia-says-24-killed-factory-blaze-rescuers-search-dozens-missing-2026-11-23/",
+      "genuineness": "corroborated",
+      "outlets": [
+        "Reuters",
+        "Channel News Asia"
+      ],
+      "image": null,
+      "image_credit": null
+    },
+    {
+      "id": "world-20261123-1122-02",
+      "published_ist": "2026-11-22T23:28:00+05:30",
+      "headline": "Trump: baatchit fail hui to naye hamle",
+      "detail": "Trump ne Fox News se kaha agar Iran se parmanu samjhauta nahi hua to naye saal ke baad bade hamle phir shuru ho sakte hain; unhone 'permanent' samjhote ki maang dohrayi aur naakaabandi todne ki koshish par jahaz doobane ki chetavni di.",
+      "category": "World",
+      "exam_angle": "America-Iran parmanu vaarta — UPSC IR",
+      "source": "NDTV",
+      "source_url": "https://www.ndtv.com/world-news/us-iran-war-us-president-donald-trump-sets-new-year-deadline-for-iran-warns-of-military-strikes-12363920",
+      "genuineness": "verified",
+      "outlets": [
+        "Fox News",
+        "NDTV",
+        "The Jerusalem Post"
+      ],
+      "image": null,
+      "image_credit": null
+    },
+    {
+      "id": "world-20261123-1122-03",
+      "published_ist": "2026-11-22T12:00:00+05:30",
+      "headline": "Nigeria me naav doobi, 24 mare",
+      "detail": "Shukravar ko Nigeria ke Bayelsa rajya me antim sanskar me ja rahe logon ki naav palat gayi — 24 mare, 24 ko bachaya gaya; NEMA ke mutabik naav me mechanical kharabi thi.",
+      "category": "World",
+      "exam_angle": "Nigeria, jalmarg suraksha — UPSC bhoogol",
+      "source": "Al Jazeera",
+      "source_url": "https://www.aljazeera.com/video/newsfeed/2026/11/22/dozens-drown-as-boat-capsizes-in-nigeria-en-route-to-funeral?traffic_source=rss",
+      "genuineness": "verified",
+      "outlets": [
+        "Al Jazeera",
+        "The Straits Times",
+        "Gulf Today"
+      ],
+      "image": null,
+      "image_credit": null
+    },
+    {
+      "id": "world-20261123-1122-04",
+      "published_ist": "2026-11-22T11:31:00+05:30",
+      "headline": "Mexico me 'El Chapo Isidro' giraftaar",
+      "detail": "Mexico ki sena ne Sinaloa me chhape me FBI ke 10 most-wanted me se ek Fausto Isidro Meza Flores ko pakda; karwai me 4 sainik aur 7 hamlaavar mare, giraftaari ke baad Sinaloa me hinsa bhadki.",
+      "category": "World",
+      "exam_angle": "Mexico drug cartel, FBI most wanted — UPSC IR",
+      "source": "Rediff",
+      "source_url": "https://m.rediff.com/amp/news/commentary/2026/nov/22/fbis-mostwanted-drug-lord-el-chapo-isidro-arrested-in-mexico/e94c39babb7183844cc9697c121d0aa3",
+      "genuineness": "verified",
+      "outlets": [
+        "Channel News Asia",
+        "The New York Times",
+        "The Guardian"
+      ],
+      "image": null,
+      "image_credit": null
     }
   ]
 }
