@@ -1,11 +1,49 @@
 {
-  "updated_ist": "2026-11-23T13:30:27+05:30",
+  "updated_ist": "2026-11-23T14:25:08+05:30",
   "items": [
+    {
+      "id": "world-20261123-1422-01",
+      "published_ist": "2026-11-23T05:50:00+05:30",
+      "headline": "Korea shiksha mantri ka AI cheating par istifa",
+      "detail": "Dakshin Korea ke shiksha mantri Choi Kyo-jin ne CSAT pariksha se pehle AI-nakl rokne ke niyam baar-baar badalne se hui avyavastha ki zimmedari lete hue istifa diya; Rashtrapati Lee Jae Myung ne ek ghante me use sweekar kar liya.",
+      "category": "World",
+      "exam_angle": "CSAT pariksha, AI-nakl aur pariksha prabandhan — UPSC ke liye prasangik",
+      "source": "Reuters",
+      "source_url": "https://www.reuters.com/world/asia-pacific/south-koreas-education-minister-quits-over-exam-cheating-chaos-2026-11-23/",
+      "genuineness": "verified",
+      "outlets": [
+        "Reuters",
+        "Yonhap",
+        "Korea Herald",
+        "Korea Times"
+      ],
+      "image": null,
+      "image_credit": null
+    },
+    {
+      "id": "world-20261123-1422-02",
+      "published_ist": "2026-11-23T00:46:00+05:30",
+      "headline": "Atlanta me Delta ki 1,000 se zyada udane late",
+      "detail": "Delta Air Lines ke vajan-santulan wale automated system me kharabi se Atlanta hub par Ravivaar ko 1,000 se zyada udane late hui; FAA ne kuch samay ke liye ground stop lagaya, baad me system theek ho gaya.",
+      "category": "World",
+      "exam_angle": null,
+      "source": "Reuters",
+      "source_url": "https://www.reuters.com/business/aerospace-defense/delta-flights-faced-brief-delays-at-atlanta-airport-over-automated-system-issue-2026-11-22/",
+      "genuineness": "verified",
+      "outlets": [
+        "Reuters",
+        "USA Today",
+        "Associated Press",
+        "Fox News"
+      ],
+      "image": null,
+      "image_credit": null
+    },
     {
       "id": "world-20261123-1322-01",
       "published_ist": "2026-11-23T12:00:00+05:30",
-      "headline": "Dymer hamle me 11 mare, ladka zinda mila",
-      "detail": "Kyiv ke paas Dymer me ek awasiya imarat par raat ke hamle me kam se kam 11 log mare, jabki 7 saal ka ladka 14 ghante baad malbe se zinda nikala gaya.",
+      "headline": "Kyiv hamlo me 15 mare, ladka zinda mila",
+      "detail": "Kyiv kshetra me raat ke hamlo me kam se kam 15 log mare — Dymer me 11, Vyshneve me 3 aur Bila Tserkva me 1; Dymer me 7 saal ka ladka 14 ghante baad malbe se zinda nikala gaya.",
       "category": "World",
       "exam_angle": null,
       "source": "The Hindu",
@@ -15,6 +53,28 @@
         "AFP",
         "BBC",
         "Al Jazeera"
+      ],
+      "image": null,
+      "image_credit": null
+    },
+    {
+      "id": "world-20261123-0622-02",
+      "published_ist": "2026-11-22T12:00:00+05:30",
+      "headline": "Ukraine ne Libya me Russian jahaaz dooboya",
+      "detail": "Rashtrapati Zelensky ne kaha Ukraine ne saat samudri drone se Libya ke Benghazi me khade Russian yuddhpot Merkury ko dooba diya; ek Ka-27 helicopter bhi nasht hua aur hathiyaron wala cargo jahaaz MV Angara bhi nishana bana.",
+      "category": "World",
+      "exam_angle": "Libya, Russia-Ukraine yuddh, samudri suraksha — UPSC IR",
+      "source": "Reuters",
+      "source_url": "https://www.reuters.com/world/europe/zelenskiy-says-ukraine-sank-russian-corvette-near-libyas-coast-hit-cargo-ship-2026-11-23/",
+      "genuineness": "verified",
+      "outlets": [
+        "Reuters",
+        "CNN",
+        "Al Jazeera",
+        "Arab News",
+        "The Wall Street Journal",
+        "SCMP",
+        "Gulf News"
       ],
       "image": null,
       "image_credit": null
@@ -326,28 +386,6 @@
       "image_credit": null
     },
     {
-      "id": "world-20261123-0622-02",
-      "published_ist": "2026-11-22T12:00:00+05:30",
-      "headline": "Benghazi me Russian yuddhpot par drone hamla",
-      "detail": "Ravivaar ko Libya ke Benghazi bandargah par khade Russian yuddhpot Merkury par sandigdh drone hamle se dhamaka hua — jahaaz aadha doob gaya aur 10 log halke ghayal hue; Malta ke jhande wala ek vyaparik jahaaz bhi nishana bana.",
-      "category": "World",
-      "exam_angle": "Libya, Russia-Ukraine yuddh, samudri suraksha — UPSC IR",
-      "source": "Reuters",
-      "source_url": "https://www.reuters.com/world/middle-east/libyas-eastern-government-suspects-drone-attack-caused-explosion-russian-ship-2026-11-22/",
-      "genuineness": "verified",
-      "outlets": [
-        "Reuters",
-        "CNN",
-        "Al Jazeera",
-        "Arab News",
-        "The Wall Street Journal",
-        "SCMP",
-        "Gulf News"
-      ],
-      "image": null,
-      "image_credit": null
-    },
-    {
       "id": "world-20261123-0622-01",
       "published_ist": "2026-11-22T12:00:00+05:30",
       "headline": "Democrats ko House me 258 seatein",
@@ -404,49 +442,6 @@
       ],
       "image": null,
       "image_credit": null
-    },
-    {
-      "id": "world-20261122-1322-02",
-      "published_ist": "2026-11-22T12:00:00+05:30",
-      "headline": "Bangladesh me hinsa: Narail me ghar jalaye",
-      "detail": "Bangladesh me rajnaitik hinsa jaari hai: Narail me BNP netaon ki hatya ke baad darjanon ghar aur dukanein jalayi gayin, Pabna me bhi jhadap hui; pichhle hafte chaar log mare gaye.",
-      "category": "World",
-      "exam_angle": "Bangladesh rajnaitik sankat, Bharat sambandh — UPSC IR",
-      "source": "The Indian Express",
-      "source_url": "https://indianexpress.com/article/world/bangladesh-unrest-awami-league-homes-torched-narail-bnp-leaders-killed-sheikh-hasina-extradition-10972971/",
-      "genuineness": "verified",
-      "outlets": [
-        "The Indian Express",
-        "Dhaka Tribune",
-        "The Shillong Times"
-      ],
-      "image": null,
-      "image_credit": null
-    },
-    {
-      "id": "world-20261122-1222-02",
-      "published_ist": "2026-11-22T12:00:00+05:30",
-      "headline": "Netanyahu-Eisenkot vaarta bina samjhote khatm",
-      "detail": "Ravivaar ko Herzliya me chaar ghante ki vaarta ke baad Likud aur Yashar me koi samjhota nahi hua — Ben-Gvir ko lekar matbhed barkarar hai, aur Eisenkot ke paas sarkar banane ke liye 6 December tak ka samay hai.",
-      "category": "World",
-      "exam_angle": "Israel sarkar-gathan, Netanyahu — UPSC IR",
-      "source": "Al Jazeera",
-      "source_url": "https://www.aljazeera.com/news/2026/11/22/netanyahus-likud-eisenkots-yashar-end-coalition-talks-without-deal?traffic_source=rss",
-      "genuineness": "verified",
-      "outlets": [
-        "NDTV",
-        "The Straits Times",
-        "New Indian Express",
-        "The Daily Star",
-        "Haaretz",
-        "The Hindu",
-        "Al Jazeera",
-        "Ynet",
-        "Arab News",
-        "Channel News Asia"
-      ],
-      "image": "../images/world/world-20261122-2222-01.jpg",
-      "image_credit": "Yahav Trudler, Wikimedia Commons (CC BY-SA 3.0)"
     }
   ]
 }
