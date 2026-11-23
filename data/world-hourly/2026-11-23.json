@@ -752,6 +752,84 @@
       ],
       "image": null,
       "image_credit": null
+    },
+    {
+      "id": "world-20261123-2022-01",
+      "published_ist": "2026-11-23T16:30:00+05:30",
+      "headline": "CrowdStrike khareedega Zscaler, $43.9 arab",
+      "detail": "Cybersecurity company CrowdStrike ne Somvaar ko Zscaler ko lagbhag $43.9 arab ke all-stock saude me khareedne ki ghoshna ki; Zscaler ke har share par 1.135 CrowdStrike share milenge, aur sauda CrowdStrike ke vitt varsh 2028 ki doosri chhamaahi me band hone ki ummeed hai.",
+      "category": "World",
+      "exam_angle": "Cyber suraksha vilay, AI khatre — UPSC economy",
+      "source": "Reuters",
+      "source_url": "https://www.reuters.com/legal/transactional/crowdstrike-buy-zscaler-439-billion-2026-11-23/",
+      "genuineness": "verified",
+      "outlets": [
+        "Reuters",
+        "The Wall Street Journal",
+        "Barron's",
+        "Business Wire",
+        "Morningstar"
+      ],
+      "image": null,
+      "image_credit": null
+    },
+    {
+      "id": "world-20261123-2022-02",
+      "published_ist": "2026-11-23T12:00:00+05:30",
+      "headline": "Kim: suraksha chahiye, varchasva nahi",
+      "detail": "Uttar Korea ke neta Kim Jong Un ne Ravivaar ko naye rajdooton ke saamne kaha Pyongyang apni suraksha ke liye shakti badhayega, lekin kshetriya varchasva ya vistaar nahi chahta; unhone hathiyaar badhotri ko aatmaraksha ka adhikaar bataya.",
+      "category": "World",
+      "exam_angle": "Uttar Korea parmanu karyakram, purvi Asia suraksha — UPSC IR",
+      "source": "Yonhap",
+      "source_url": "https://en.yna.co.kr/view/AEN20261123001000315",
+      "genuineness": "verified",
+      "outlets": [
+        "Yonhap",
+        "The Korea Times",
+        "Korea JoongAng Daily",
+        "South China Morning Post",
+        "Philippine Daily Inquirer"
+      ],
+      "image": null,
+      "image_credit": null
+    },
+    {
+      "id": "world-20261123-2022-03",
+      "published_ist": "2026-11-22T11:14:00+05:30",
+      "headline": "Kryvyi Rih hamle me bachcha, paramedic mare",
+      "detail": "Zelenskyy ke grih nagar Kryvyi Rih me Shukravaar raat Russia ke ballistic missile aur drone hamle me 7 saal ka ladka aur 20 saal ki paramedic mare, lagbhag 60 log ghayal hue; bachav dal par bhi dobara hamla hua.",
+      "category": "World",
+      "exam_angle": null,
+      "source": "News18",
+      "source_url": "https://www.news18.com/world/russia-triple-tap-strike-kills-boy-paramedic-ukraine-kryvyi-russia-ukraine-war-ws-l-10435937.html",
+      "genuineness": "verified",
+      "outlets": [
+        "News18",
+        "The Tribune",
+        "The Times of India",
+        "The Sunday Guardian"
+      ],
+      "image": null,
+      "image_credit": null
+    },
+    {
+      "id": "world-20261123-2022-04",
+      "published_ist": "2026-11-21T12:00:00+05:30",
+      "headline": "Gaza me vaahan par hamla, 3 mare",
+      "detail": "Gaza City me Shanivaar ko khaadya vaahan par Israeli hamle me 3 log mare; Gaza ne unhe sahayata-karmi bataya, jabki IDF ne kaha ve Islamic Jihad ke sadasya the; World Central Kitchen ne kaha vaahan uska nahi tha.",
+      "category": "World",
+      "exam_angle": "Gaza yuddhviram, WCK, Israel-Hamas — UPSC IR",
+      "source": "The Times of Israel",
+      "source_url": "https://www.timesofisrael.com/israeli-strike-in-gaza-city-kills-3-idf-says-it-hit-terrorists-masquerading-as-aid-workers/",
+      "genuineness": "verified",
+      "outlets": [
+        "The Times of Israel",
+        "Haaretz",
+        "Daily Sabah",
+        "TBS News"
+      ],
+      "image": null,
+      "image_credit": null
     }
   ]
 }
