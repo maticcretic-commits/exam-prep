@@ -1,6 +1,61 @@
 {
-  "updated_ist": "2026-11-23T12:24:47+05:30",
+  "updated_ist": "2026-11-23T13:30:27+05:30",
   "items": [
+    {
+      "id": "world-20261123-1322-01",
+      "published_ist": "2026-11-23T12:00:00+05:30",
+      "headline": "Dymer hamle me 11 mare, ladka zinda mila",
+      "detail": "Kyiv ke paas Dymer me ek awasiya imarat par raat ke hamle me kam se kam 11 log mare, jabki 7 saal ka ladka 14 ghante baad malbe se zinda nikala gaya.",
+      "category": "World",
+      "exam_angle": null,
+      "source": "The Hindu",
+      "source_url": "https://www.thehindu.com/news/international/ukraine-says-russian-strikes-kill-several-in-kyiv-region/article71733677.ece",
+      "genuineness": "verified",
+      "outlets": [
+        "AFP",
+        "BBC",
+        "Al Jazeera"
+      ],
+      "image": null,
+      "image_credit": null
+    },
+    {
+      "id": "world-20261123-1322-02",
+      "published_ist": "2026-11-23T07:11:00+05:30",
+      "headline": "Hormuz me do tanker par hamla, aag lagi",
+      "detail": "IRGC ke daave ke mutabik do tanker nausainik surang se takrakar aag ki lapet me aaye, jabki UKMTO ne bhi Hormuz me do tankeron par hamle ki pushti ki.",
+      "category": "World",
+      "exam_angle": "Hormuz — Bharat ki tel suraksha ke liye aham marg",
+      "source": "Gulf News",
+      "source_url": "https://gulfnews.com/world/mena/middle-east-conflict-bahrain-intercepts-iranian-attacks-as-tehran-prepares-14-oil-tankers-to-breach-us-naval-blockade-1.500756662",
+      "genuineness": "verified",
+      "outlets": [
+        "AP",
+        "Xinhua",
+        "Gulf News"
+      ],
+      "image": null,
+      "image_credit": null
+    },
+    {
+      "id": "world-20261123-1322-03",
+      "published_ist": "2026-11-22T12:00:00+05:30",
+      "headline": "COP31 bina samjhote khatm, jeevashm par takraav",
+      "detail": "Antalya me do hafte ki vaarta ke baad COP31 bina kisi samjhote ke khatm hui, kyunki masaude me jeevashm indhan ka zikr hi nahi tha aur EU samet 130 se zyada deshon ne use kharij kar diya.",
+      "category": "World",
+      "exam_angle": "COP31, jalvayu vaarta aur UNFCCC — UPSC ke liye mahatvapurna",
+      "source": "Al Jazeera",
+      "source_url": "https://www.aljazeera.com/amp/news/2026/11/22/fossil-fuel-impasse-pushes-cop31-climate-talks-into-second-day-of-overtime",
+      "genuineness": "verified",
+      "outlets": [
+        "CNN",
+        "Al Jazeera",
+        "Indian Express",
+        "Financial Express"
+      ],
+      "image": null,
+      "image_credit": null
+    },
     {
       "id": "world-20261123-1222-01",
       "published_ist": "2026-11-22T23:21:00+05:30",
@@ -392,24 +447,6 @@
       ],
       "image": "../images/world/world-20261122-2222-01.jpg",
       "image_credit": "Yahav Trudler, Wikimedia Commons (CC BY-SA 3.0)"
-    },
-    {
-      "id": "world-20261122-1222-01",
-      "published_ist": "2026-11-22T12:00:00+05:30",
-      "headline": "Iran ke 14 tanker naakaabandi todne ko taiyar",
-      "detail": "Kharg Island par 14 se zyada tel tanker taiyar hain, dal aur Iran ka jhanda chadha hai; up-mantri ne naakaabandi ko 'yuddh ka kaam' batakar todne ki chetavni di, abhi kafila rawana hone ki swatantra pushti nahi hui.",
-      "category": "World",
-      "exam_angle": "Iran-America yuddh, Hormuz, tel naakaabandi — UPSC IR",
-      "source": "Gulf News",
-      "source_url": "https://gulfnews.com/amp/story/world%2Fmena%2Firan-readies-14-tankers-to-break-us-blockade-what-happens-if-they-try-1.500756460",
-      "genuineness": "verified",
-      "outlets": [
-        "Gulf News",
-        "The Jerusalem Post",
-        "Euronews Persian"
-      ],
-      "image": null,
-      "image_credit": null
     }
   ]
 }
