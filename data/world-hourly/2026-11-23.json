@@ -140,6 +140,58 @@
       ],
       "image": null,
       "image_credit": null
+    },
+    {
+      "id": "world-20261123-1022-01",
+      "published_ist": "2026-11-23T09:18:00+05:30",
+      "headline": "Spain chunav: aakhri sarvekshan me PP aage",
+      "detail": "Spain me 29 November ko aam chunav hai — aakhri sarvekshan me Feijoo ki PP 31.8% ke saath aage hai, Sanchez ki PSOE 30.9% par; PP aur Vox ko milkar 188 seatein milne ka anumaan hai.",
+      "category": "World",
+      "exam_angle": "Spain chunav, EU raajneeti — UPSC IR",
+      "source": "Free Malaysia Today",
+      "source_url": "https://www.freemalaysiatoday.com/category/world/2026/11/23/sanchez-seeks-against-the-odds-comeback-in-spanish-vote",
+      "genuineness": "verified",
+      "outlets": [
+        "AFP",
+        "El País / 40dB",
+        "ABC / GAD3"
+      ],
+      "image": null,
+      "image_credit": null
+    },
+    {
+      "id": "world-20261123-1022-02",
+      "published_ist": "2026-11-22T12:00:00+05:30",
+      "headline": "South Sudan hamle me 24 nagrik mare",
+      "detail": "Shanivaar raat ko South Sudan ke Warrap rajya ke Bol Bol gaon par SPLA-IO ladakon ne hamla kiya — 24 nagrik mare, jinme 7 bachche bhi hain; hamla padosi Unity rajya se aaya, Rajya sarkar ne 21 mare aur 18 ghayal bataye.",
+      "category": "World",
+      "exam_angle": "South Sudan, SPLA-IO, grih yuddh — UPSC IR",
+      "source": "Arab News",
+      "source_url": "https://www.arabnews.com/world/spla-io-forces-attack-leaves-24-civilians-dead-in-south-sudan-3013613",
+      "genuineness": "corroborated",
+      "outlets": [
+        "AFP",
+        "QNC News"
+      ],
+      "image": null,
+      "image_credit": null
+    },
+    {
+      "id": "world-20261123-1022-03",
+      "published_ist": "2026-11-22T12:00:00+05:30",
+      "headline": "Brazil toofan me 5 mare, 250 ghayal",
+      "detail": "Shukravar subah Brazil ke Tupancireta kasbe me supercell toofan ne tabahi machayi — 5 log mare, 250 se zyada ghayal aur lagbhag 8,000 ghar kshatigrast hue; hawa ki raftaar 114 km/h darj hui.",
+      "category": "World",
+      "exam_angle": "Supercell toofan, Brazil — UPSC bhoogol",
+      "source": "Gulf News",
+      "source_url": "https://gulfnews.com/world/americas/the-town-is-gone-brazil-storm-death-toll-rises-to-5-1.500757175",
+      "genuineness": "corroborated",
+      "outlets": [
+        "AFP",
+        "JFeed"
+      ],
+      "image": "../images/world/world-20261123-1022-03.jpg",
+      "image_credit": "Gulf News"
     }
   ]
 }
