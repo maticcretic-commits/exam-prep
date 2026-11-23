@@ -1,6 +1,67 @@
 {
-  "updated_ist": "2026-11-22T22:28:48+05:30",
+  "updated_ist": "2026-11-23T06:26:43+05:30",
   "items": [
+    {
+      "id": "world-20261123-0622-01",
+      "published_ist": "2026-11-22T12:00:00+05:30",
+      "headline": "Democrats ko House me 258 seatein",
+      "detail": "North Carolina me Chuck Hubbard ki jeet ke baad Democrats ke paas House me kam se kam 258 seatein ho gayin — 1992 ke baad sabse bada bahumat; chaar seatein abhi bhi tay nahi hui hain.",
+      "category": "World",
+      "exam_angle": "America midterm chunav 2026, House bahumat — UPSC IR",
+      "source": "Reuters",
+      "source_url": "https://www.reuters.com/world/us/north-carolina-win-gives-democrats-biggest-us-house-majority-since-early-1990s-2026-11-22/",
+      "genuineness": "verified",
+      "outlets": [
+        "Reuters",
+        "Al Jazeera",
+        "Associated Press",
+        "SCMP"
+      ],
+      "image": "../images/world/world-20261123-0622-01.jpg",
+      "image_credit": "Martin Falbisoner, Wikimedia Commons (CC BY-SA 3.0)"
+    },
+    {
+      "id": "world-20261123-0622-02",
+      "published_ist": "2026-11-22T12:00:00+05:30",
+      "headline": "Benghazi me Russian yuddhpot par drone hamla",
+      "detail": "Ravivaar ko Libya ke Benghazi bandargah par khade Russian yuddhpot Merkury par sandigdh drone hamle se dhamaka hua — jahaaz aadha doob gaya aur 10 log halke ghayal hue; Malta ke jhande wala ek vyaparik jahaaz bhi nishana bana.",
+      "category": "World",
+      "exam_angle": "Libya, Russia-Ukraine yuddh, samudri suraksha — UPSC IR",
+      "source": "Reuters",
+      "source_url": "https://www.reuters.com/world/middle-east/libyas-eastern-government-suspects-drone-attack-caused-explosion-russian-ship-2026-11-22/",
+      "genuineness": "verified",
+      "outlets": [
+        "Reuters",
+        "CNN",
+        "Al Jazeera",
+        "Arab News",
+        "The Wall Street Journal",
+        "SCMP",
+        "Gulf News"
+      ],
+      "image": null,
+      "image_credit": null
+    },
+    {
+      "id": "world-20261123-0622-03",
+      "published_ist": "2026-11-22T12:00:00+05:30",
+      "headline": "West Bank me aagjani, Eisenkot ne ninda ki",
+      "detail": "Ravivaar raat Ramallah ke paas ke gaonvon me basne walon ne kam se kam 12 gaadiyan jala di — sarkar banane ki koshish kar rahe Gadi Eisenkot ne ise 'Yahudi aatankwad' kaha; koi ghayal nahi hua.",
+      "category": "World",
+      "exam_angle": "Israel-Palestine, West Bank hinsa — UPSC IR",
+      "source": "Reuters",
+      "source_url": "https://www.reuters.com/world/middle-east/israels-eisenkot-condemns-arson-attacks-by-jewish-settlers-west-bank-2026-11-22/",
+      "genuineness": "verified",
+      "outlets": [
+        "Reuters",
+        "The Times of Israel",
+        "The Jerusalem Post",
+        "CNN",
+        "Ynet"
+      ],
+      "image": null,
+      "image_credit": null
+    },
     {
       "id": "world-20261122-1222-02",
       "published_ist": "2026-11-21T12:00:00+05:30",
@@ -386,63 +447,6 @@
       "outlets": [
         "Agence France-Presse",
         "VNN"
-      ],
-      "image": null,
-      "image_credit": null
-    },
-    {
-      "id": "world-20261122-0630-01",
-      "published_ist": "2026-11-22T12:00:00+05:30",
-      "headline": "Iran ka Bahrain me US thikanon par hamla",
-      "detail": "IRGC ne dava kiya usne Bahrain ki al-Riffa aur Awali bases par do US Patriot radar nishana banaye; Bahrain ne kaha uski vayu raksha ne hamle roke, ek audyogik jagah par aag lagi. Corrected: Bahrain ke grih mantralaya ne baad me bataya hamle me do log ghayal hue, jinme ek Pakistani nagrik ki haalat gambhir hai.",
-      "category": "World",
-      "exam_angle": "Iran-America yuddh, Bahrain, US Fifth Fleet — UPSC IR",
-      "source": "Al Jazeera",
-      "source_url": "https://www.aljazeera.com/news/2026/11/21/bahrain-says-iranian-attack-causes-fire-at-industrial-facility",
-      "genuineness": "verified",
-      "outlets": [
-        "Al Jazeera",
-        "Gulf News",
-        "The Tribune",
-        "Iran International",
-        "Republic World"
-      ],
-      "image": null,
-      "image_credit": null
-    },
-    {
-      "id": "world-20261122-0925-02",
-      "published_ist": "2026-11-22T08:05:00+05:30",
-      "headline": "Zelensky: Crimean Bridge hamla 'fair response'",
-      "detail": "Zelensky ne kaha Crimean Bridge par hamla Russia ke 109 pul-hamlon ka 'fair response' tha — pul ka beech wala hissa samundar me gira, gaadiyon ke liye band; UK ke raksha mantri ne Kyiv me samarthan jataya.",
-      "category": "World",
-      "exam_angle": "Ukraine yuddh, Crimean Bridge — UPSC IR",
-      "source": "TBS News",
-      "source_url": "https://www.tbsnews.net/worldbiz/europe/zelensky-calls-attacks-crimean-bridge-fair-response-russian-strikes-1610036",
-      "genuineness": "verified",
-      "outlets": [
-        "BBC",
-        "Kyiv Post",
-        "Kyiv Independent",
-        "NDTV"
-      ],
-      "image": "../images/world/world-20261122-0925-02.jpg",
-      "image_credit": "Alexxx1979, Wikimedia Commons (CC BY-SA 4.0)"
-    },
-    {
-      "id": "world-20261122-1027-04",
-      "published_ist": "2026-11-22T07:27:00+05:30",
-      "headline": "China ne US telecom pratibandh ka virodh kiya",
-      "detail": "China ke vanijya mantralaya ne FCC ke faisle ka virodh kiya — China Mobile, China Telecom aur China Unicom ko US phone number se roka gaya; jawabi kadam ki chetavni di.",
-      "category": "World",
-      "exam_angle": "US-China, telecom, rashtriya suraksha — UPSC IR/Economy",
-      "source": "Reuters",
-      "source_url": "https://www.reuters.com/world/china-opposes-us-fcc-ban-chinese-telecoms-direct-access-us-phone-numbers-2026-11-22/",
-      "genuineness": "verified",
-      "outlets": [
-        "Reuters",
-        "South China Morning Post",
-        "The Edge Singapore"
       ],
       "image": null,
       "image_credit": null
