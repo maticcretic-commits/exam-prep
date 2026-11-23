@@ -142,6 +142,76 @@
     ],
     "answer_index": 2
    }
+  },
+  {
+   "episode": 155,
+   "video_hi": "_iuY5Z89mg8",
+   "video_hinglish": "_iuY5Z89mg8",
+   "capsules": [
+    {
+     "id": "ca-ep155-s1",
+     "headline_hi": "Chinese gaming apps se ₹2,700 crore nikle",
+     "headline_hinglish": "Chinese gaming apps se ₹2,700 crore nikle",
+     "detail_hi": "Income Tax ne 1stPe network pakda; 650,000 dollar ki crypto jabt, DGGI ek lakh crore ki alag jaanch kar rahi hai.",
+     "detail_hinglish": "Income Tax ne 1stPe network pakda; 650,000 dollar ki crypto jabt, DGGI ek lakh crore ki alag jaanch kar rahi hai.",
+     "category_hi": "Economy",
+     "category_en": "Economy"
+    },
+    {
+     "id": "ca-ep155-s2",
+     "headline_hi": "Japan pehli baar Bharat mein missile firing karega",
+     "headline_hinglish": "Japan pehli baar Bharat mein missile firing karega",
+     "detail_hi": "Tokyo mein 2+2 vaarta ke baad LoI par dastakhat; Type-25 missile ki firing Chandipur range par hogi.",
+     "detail_hinglish": "Tokyo mein 2+2 vaarta ke baad LoI par dastakhat; Type-25 missile ki firing Chandipur range par hogi.",
+     "category_hi": "Defence",
+     "category_en": "Defence"
+    },
+    {
+     "id": "ca-ep155-s3",
+     "headline_hi": "HPV vaccine: ek crore dose, 87% coverage",
+     "headline_hinglish": "HPV vaccine: ek crore dose, 87% coverage",
+     "detail_hi": "Nau mahine mein 14 saal ki ladkiyon ko ek crore se zyada dose; chhe rajyon mein 100% coverage.",
+     "detail_hinglish": "Nau mahine mein 14 saal ki ladkiyon ko ek crore se zyada dose; chhe rajyon mein 100% coverage.",
+     "category_hi": "Health",
+     "category_en": "Health"
+    },
+    {
+     "id": "ca-ep155-s4",
+     "headline_hi": "WorldSkills Asia 2027: Greater Noida mein hoga",
+     "headline_hinglish": "WorldSkills Asia 2027: Greater Noida mein hoga",
+     "detail_hi": "PM Modi ne Lucknow mein elan kiya; Asia bhar ke yuva hunar dikhayenge, Bharat skill capital ban raha hai.",
+     "detail_hinglish": "PM Modi ne Lucknow mein elan kiya; Asia bhar ke yuva hunar dikhayenge, Bharat skill capital ban raha hai.",
+     "category_hi": "Education",
+     "category_en": "Education"
+    },
+    {
+     "id": "ca-ep155-s5",
+     "headline_hi": "ADB ke naye Chief Economist bane Muralidharan",
+     "headline_hinglish": "ADB ke naye Chief Economist bane Muralidharan",
+     "detail_hi": "Karthik Muralidharan ek July 2027 se pad sambhalenge; UC San Diego ke professor, Albert Park ki jagah lenge.",
+     "detail_hinglish": "Karthik Muralidharan ek July 2027 se pad sambhalenge; UC San Diego ke professor, Albert Park ki jagah lenge.",
+     "category_hi": "Economy",
+     "category_en": "Economy"
+    }
+   ],
+   "mcq": {
+    "id": "ca-ep155-mcq",
+    "q_hi": "Chinese gaming payment network se Income Tax ne kitne crore rupaye ka network pakda?",
+    "q_hinglish": "Chinese gaming payment network se Income Tax ne kitne crore rupaye ka network pakda?",
+    "options_hi": [
+     "Ek hazaar do sau crore",
+     "Do hazaar saat sau crore",
+     "Teen hazaar paanch sau crore",
+     "Ek lakh crore"
+    ],
+    "options_hinglish": [
+     "Ek hazaar do sau crore",
+     "Do hazaar saat sau crore",
+     "Teen hazaar paanch sau crore",
+     "Ek lakh crore"
+    ],
+    "answer_index": 1
+   }
   }
  ]
 }
