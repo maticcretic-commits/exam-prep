@@ -1,0 +1,77 @@
+{
+ "date": "2026-11-24",
+ "date_hi": "24 November 2026",
+ "date_en": "24 November 2026",
+ "episodes": [
+  {
+   "episode": 157,
+   "video_hi": "eNc7rA4Ypjo",
+   "video_hinglish": "eNc7rA4Ypjo",
+   "capsules": [
+    {
+     "id": "ca-ep157-s1",
+     "headline_hi": "Nepal ko pandrah hazaar crore ka package",
+     "headline_hinglish": "Nepal ko pandrah hazaar crore ka package",
+     "detail_hi": "Modi aur Nepal PM Balendra Shah ne aath samjhaute kiye; Saryu-Kamala Express bhi shuru hui.",
+     "detail_hinglish": "Modi aur Nepal PM Balendra Shah ne aath samjhaute kiye; Saryu-Kamala Express bhi shuru hui.",
+     "category_hi": "International",
+     "category_en": "National"
+    },
+    {
+     "id": "ca-ep157-s2",
+     "headline_hi": "Bisleri par FSSAI ki badi karyavahi",
+     "headline_hinglish": "Bisleri par FSSAI ki badi karyavahi",
+     "detail_hi": "Packaged paani 'asurakshit' paya gaya; FSSAI ne prosecution ka aadesh diya.",
+     "detail_hinglish": "Packaged paani 'asurakshit' paya gaya; FSSAI ne prosecution ka aadesh diya.",
+     "category_hi": "Governance",
+     "category_en": "National"
+    },
+    {
+     "id": "ca-ep157-s3",
+     "headline_hi": "Startup Bharat: 2.23 lakh startups, 52% growth",
+     "headline_hinglish": "Startup Bharat: 2.23 lakh startups, 52% growth",
+     "detail_hi": "Ek saal mein 52% badhotri; Maharashtra 33,872 startups ke saath pehle number par.",
+     "detail_hinglish": "Ek saal mein 52% badhotri; Maharashtra 33,872 startups ke saath pehle number par.",
+     "category_hi": "Economy",
+     "category_en": "Economy"
+    },
+    {
+     "id": "ca-ep157-s4",
+     "headline_hi": "Bengal mein 22 lakh SIR appeal pending",
+     "headline_hinglish": "Bengal mein 22 lakh SIR appeal pending",
+     "detail_hi": "Supreme Court ne Chunav Aayog ko appeal tribunals badhane ka nirdesh diya.",
+     "detail_hinglish": "Supreme Court ne Chunav Aayog ko appeal tribunals badhane ka nirdesh diya.",
+     "category_hi": "Polity",
+     "category_en": "Polity"
+    },
+    {
+     "id": "ca-ep157-s5",
+     "headline_hi": "Rishabh Pant ka shandaar 128, Test draw",
+     "headline_hinglish": "Rishabh Pant ka shandaar 128, Test draw",
+     "detail_hi": "Wellington Test mein Pant ne 128 run banaye; New Zealand 239/5 par match draw hua.",
+     "detail_hinglish": "Wellington Test mein Pant ne 128 run banaye; New Zealand 239/5 par match draw hua.",
+     "category_hi": "Sports",
+     "category_en": "Sports"
+    }
+   ],
+   "mcq": {
+    "id": "ca-ep157-mcq",
+    "q_hi": "Bharat ne Nepal ke liye kitne crore ka sahayata package ghoshit kiya?",
+    "q_hinglish": "Bharat ne Nepal ke liye kitne crore ka sahayata package ghoshit kiya?",
+    "options_hi": [
+     "Das hazaar crore",
+     "Pandrah hazaar crore",
+     "Bees hazaar crore",
+     "Paanch hazaar crore"
+    ],
+    "options_hinglish": [
+     "Das hazaar crore",
+     "Pandrah hazaar crore",
+     "Bees hazaar crore",
+     "Paanch hazaar crore"
+    ],
+    "answer_index": 1
+   }
+  }
+ ]
+}
