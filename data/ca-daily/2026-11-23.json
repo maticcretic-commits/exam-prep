@@ -72,6 +72,76 @@
     ],
     "answer_index": 1
    }
+  },
+  {
+   "episode": 154,
+   "video_hi": "aWtp2E4Qi14",
+   "video_hinglish": "aWtp2E4Qi14",
+   "capsules": [
+    {
+     "id": "ca-ep154-s1",
+     "headline_hi": "Arunachal mein Bharat-China 10 din ki vaarta",
+     "headline_hinglish": "Arunachal mein Bharat-China 10 din ki vaarta",
+     "detail_hi": "Corps Commander star ki dusri vaarta mein takraav rokne ke niyam bane; sardiyon se pehle tanaav kam karne par sahmati.",
+     "detail_hinglish": "Corps Commander star ki dusri vaarta mein takraav rokne ke niyam bane; sardiyon se pehle tanaav kam karne par sahmati.",
+     "category_hi": "Defence",
+     "category_en": "Defence"
+    },
+    {
+     "id": "ca-ep154-s2",
+     "headline_hi": "Bisleri ka paani unsafe, FSSAI karegi mukadma",
+     "headline_hinglish": "Bisleri ka paani unsafe, FSSAI karegi mukadma",
+     "detail_hi": "Do lab ki jaanch mein bromate aur PAH mile; FSSAI ne Food Safety Act ke tahat Bisleri par mukadma chalane ki anumati di.",
+     "detail_hinglish": "Do lab ki jaanch mein bromate aur PAH mile; FSSAI ne Food Safety Act ke tahat Bisleri par mukadma chalane ki anumati di.",
+     "category_hi": "Health",
+     "category_en": "Health"
+    },
+    {
+     "id": "ca-ep154-s3",
+     "headline_hi": "Bullet train: pehli service 2027 ke aakhir mein",
+     "headline_hinglish": "Bullet train: pehli service 2027 ke aakhir mein",
+     "detail_hi": "Surat-Vapi section pehle khulega; swadeshi B28 train 280 kmph chalegi, safar sirf 2 ghante ka hoga.",
+     "detail_hinglish": "Surat-Vapi section pehle khulega; swadeshi B28 train 280 kmph chalegi, safar sirf 2 ghante ka hoga.",
+     "category_hi": "Infrastructure",
+     "category_en": "National"
+    },
+    {
+     "id": "ca-ep154-s4",
+     "headline_hi": "UP voter list se 2.89 crore naam hate",
+     "headline_hinglish": "UP voter list se 2.89 crore naam hate",
+     "detail_hi": "CEO Navdeep Rinwa ne kaha ye hera-pheri nahi, voter list ki safai hai; draft list mein 12.55 crore matdata bache.",
+     "detail_hinglish": "CEO Navdeep Rinwa ne kaha ye hera-pheri nahi, voter list ki safai hai; draft list mein 12.55 crore matdata bache.",
+     "category_hi": "Polity",
+     "category_en": "Polity"
+    },
+    {
+     "id": "ca-ep154-s5",
+     "headline_hi": "Nyoma mein IAF ka world record landing",
+     "headline_hinglish": "Nyoma mein IAF ka world record landing",
+     "detail_hi": "IL-76MD Gajraj 13,629 feet par utra; LAC se 25 km door ye landing IAF ki strategic airlift taakat dikhati hai.",
+     "detail_hinglish": "IL-76MD Gajraj 13,629 feet par utra; LAC se 25 km door ye landing IAF ki strategic airlift taakat dikhati hai.",
+     "category_hi": "Defence",
+     "category_en": "Defence"
+    }
+   ],
+   "mcq": {
+    "id": "ca-ep154-mcq",
+    "q_hi": "Bharat aur China ke beech seema vaarta ka dusra daur kitne din chala?",
+    "q_hinglish": "Bharat aur China ke beech seema vaarta ka dusra daur kitne din chala?",
+    "options_hi": [
+     "Teen din",
+     "Paanch din",
+     "Lagbhag das din",
+     "Bees din"
+    ],
+    "options_hinglish": [
+     "Teen din",
+     "Paanch din",
+     "Lagbhag das din",
+     "Bees din"
+    ],
+    "answer_index": 2
+   }
   }
  ]
 }
