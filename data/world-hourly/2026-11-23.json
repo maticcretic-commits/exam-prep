@@ -1,6 +1,61 @@
 {
   "items": [
     {
+      "id": "world-20261123-0827-01",
+      "published_ist": "2026-11-22T21:51:00+05:30",
+      "headline": "Bahrain par Iran hamla, 2 ghayal",
+      "detail": "Shanivaar ko Bahrain ke Sitra Island par nagrik audyogik sthal par Iranian hamle me 2 log ghayal hue — IRGC ne kaha usne America ki Patriot vayu-raksha ko nishana banaya; Houthi ne paschimi Saudi ki taraf ballistic missile daagi, jo rok li gayi.",
+      "category": "World",
+      "exam_angle": "Iran-America yuddh, Bahrain, Houthi-Saudi — UPSC IR",
+      "source": "L'Orient Today",
+      "source_url": "https://today.lorientlejour.com/article/1555291/iran-strike-wounds-two-in-bahrain-riyadh-denounces-criminal-attacks.html",
+      "genuineness": "corroborated",
+      "outlets": [
+        "AFP",
+        "CNBC"
+      ],
+      "image": null,
+      "image_credit": null
+    },
+    {
+      "id": "world-20261123-0827-02",
+      "published_ist": "2026-11-22T12:00:00+05:30",
+      "headline": "Poland me teen Russian Kh-101 missile giri",
+      "detail": "Poland ke abhiyojakon ne Ravivaar ko pushti ki Shukravar ko hawai seema me ghuse teeno vastuein Russian Kh-101 cruise missile thi — malba teen jagah mila, koi hatahat nahi hua; NATO ki baithak Somvaar ko hogi.",
+      "category": "World",
+      "exam_angle": "Poland, NATO, Russia-Ukraine yuddh — UPSC IR",
+      "source": "Reuters",
+      "source_url": "https://www.reuters.com/world/three-russian-missiles-flew-into-poland-friday-prosecutors-say-2026-11-22/",
+      "genuineness": "verified",
+      "outlets": [
+        "Reuters",
+        "Kyiv Independent",
+        "Ukrinform",
+        "Polish Press Agency"
+      ],
+      "image": null,
+      "image_credit": null
+    },
+    {
+      "id": "world-20261123-0827-03",
+      "published_ist": "2026-11-19T12:00:00+05:30",
+      "headline": "ICJ: Myanmar ne Rohingya narsanhar kiya",
+      "detail": "ICJ ne 19 November ko faisla diya ki Myanmar ne 2017 me Rohingya ke khilaf narsanhar kiya — lagbhag 10,000 log mare gaye aur 7 lakh se zyada Bangladesh bhaage; adalat ne muawza aur sharnarthiyon ki wapsi ka aadesh diya.",
+      "category": "World",
+      "exam_angle": "ICJ, Rohingya, Genocide Convention — UPSC IR",
+      "source": "Al Jazeera",
+      "source_url": "https://www.aljazeera.com/amp/news/2026/11/20/what-does-the-icjs-rohingya-genocide-ruling-mean-for-gaza",
+      "genuineness": "verified",
+      "outlets": [
+        "Al Jazeera",
+        "The Indian Express",
+        "Gulf Times",
+        "BBC"
+      ],
+      "image": null,
+      "image_credit": null
+    },
+    {
       "id": "world-20261123-0722-01",
       "published_ist": "2026-11-22T12:00:00+05:30",
       "headline": "Sparta II ko Finland se kheenchna shuru",
