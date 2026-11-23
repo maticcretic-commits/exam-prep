@@ -1,6 +1,44 @@
 {
-  "updated_ist": "2026-11-23T16:24:53+05:30",
+  "updated_ist": "2026-11-23T17:24:03+05:30",
   "items": [
+    {
+      "id": "world-20261123-1722-01",
+      "published_ist": "2026-11-23T11:30:00+05:30",
+      "headline": "Belgium me hadtaal, saare airport band",
+      "detail": "Belgium me somvaar ko deshvyaapi hadtaal aur austerity-virodhi pradarshan ke kaaran subah 7 se raat 9 baje tak saari udanein radd rahi; hazaaron yatri prabhavit hue, unions €10 arab ki katauti ka virodh kar rahi hain.",
+      "category": "World",
+      "exam_angle": "Belgium hadtaal, €10 arab katauti, EU rajneeti — UPSC IR",
+      "source": "Al Jazeera",
+      "source_url": "https://www.aljazeera.com/news/2026/11/23/belgiums-airports-set-to-shut-down-due-to-anti-austerity-strike",
+      "genuineness": "verified",
+      "outlets": [
+        "Al Jazeera",
+        "News18",
+        "Aviation Today",
+        "The Aviation Hub"
+      ],
+      "image": null,
+      "image_credit": null
+    },
+    {
+      "id": "world-20261123-1722-02",
+      "published_ist": "2026-11-23T03:30:00+05:30",
+      "headline": "Manchester concert me gas, 12,000 nikale gaye",
+      "detail": "Ravivaar raat Manchester ke Co-op Live arena me Don Toliver ke concert ke dauraan agyaat padarth — shuru me aansu gas mana gaya — chhoda gaya; 12,000 se zyada darshak nikale gaye, 50 se zyada ka ilaaj hua aur ek vyakti aspatal me bharti hai.",
+      "category": "World",
+      "exam_angle": null,
+      "source": "Reuters",
+      "source_url": "https://www.reuters.com/world/uk/don-toliver-concert-manchester-evacuated-after-unknown-substance-released-police-2026-11-23/",
+      "genuineness": "verified",
+      "outlets": [
+        "Reuters",
+        "CNN",
+        "The Times",
+        "NME"
+      ],
+      "image": null,
+      "image_credit": null
+    },
     {
       "id": "world-20261123-1622-01",
       "published_ist": "2026-11-23T15:20:00+05:30",
@@ -402,44 +440,6 @@
       ],
       "image": null,
       "image_credit": null
-    },
-    {
-      "id": "world-20261123-0827-02",
-      "published_ist": "2026-11-22T12:00:00+05:30",
-      "headline": "Poland me teen Russian Kh-101 missile giri",
-      "detail": "Poland ke abhiyojakon ne Ravivaar ko pushti ki Shukravar ko hawai seema me ghuse teeno vastuein Russian Kh-101 cruise missile thi — malba teen jagah mila, koi hatahat nahi hua; NATO ki baithak Somvaar ko hogi.",
-      "category": "World",
-      "exam_angle": "Poland, NATO, Russia-Ukraine yuddh — UPSC IR",
-      "source": "Reuters",
-      "source_url": "https://www.reuters.com/world/three-russian-missiles-flew-into-poland-friday-prosecutors-say-2026-11-22/",
-      "genuineness": "verified",
-      "outlets": [
-        "Reuters",
-        "Kyiv Independent",
-        "Ukrinform",
-        "Polish Press Agency"
-      ],
-      "image": null,
-      "image_credit": null
-    },
-    {
-      "id": "world-20261123-0722-01",
-      "published_ist": "2026-11-22T12:00:00+05:30",
-      "headline": "Sparta II ko Finland se kheenchna shuru",
-      "detail": "Drone hamle ke baad Finland ke paani me khade Russian cargo jahaaz Sparta II ko Ravivaar ko kheenchna shuru kar diya gaya — 16 chaalak-dal ke log surakshit nikaale gaye, ek halka ghayal; jahaaz ab sthir hai.",
-      "category": "World",
-      "exam_angle": "Baltic, Russia-Ukraine yuddh, samudri suraksha — UPSC IR",
-      "source": "Channel News Asia",
-      "source_url": "https://www.channelnewsasia.com/world/russia-starts-towing-ship-hit-drones-in-baltic-finland-says-6573286",
-      "genuineness": "verified",
-      "outlets": [
-        "Channel News Asia",
-        "Al Jazeera",
-        "CNN",
-        "Arab News"
-      ],
-      "image": "../images/world/world-20261123-0722-01.jpg",
-      "image_credit": "Al Jazeera"
     }
   ]
 }
