@@ -581,6 +581,83 @@
       ],
       "image": null,
       "image_credit": null
+    },
+    {
+      "id": "world-20261123-1822-01",
+      "published_ist": "2026-11-23T17:21:00+05:30",
+      "headline": "Zelenskyy: chaar-paksh vaarta jald ho",
+      "detail": "Berlin me NATO Parliamentary Assembly ko video sandesh me Ukraine ke rashtrapati Zelenskyy ne Ukraine, Europe, America aur Russia ke beech chaar-paksh baatchit jald karane aur NATO sadasyata ki maang dohrai; unhone kaha ballistic missile rokne wale missile godamon me dhool nahi khane chahiye.",
+      "category": "World",
+      "exam_angle": "Ukraine yuddh, NATO sadasyata, chaar-paksh vaarta — UPSC IR",
+      "source": "Free Malaysia Today",
+      "source_url": "https://www.freemalaysiatoday.com/category/world/2026/11/23/zelensky-calls-for-four-way-talks-with-russia-as-soon-as-possible",
+      "genuineness": "verified",
+      "outlets": [
+        "WION",
+        "Free Malaysia Today",
+        "The Straits Times"
+      ],
+      "image": null,
+      "image_credit": null
+    },
+    {
+      "id": "world-20261123-1822-02",
+      "published_ist": "2026-11-23T16:31:00+05:30",
+      "headline": "Germany ke 450 school ko bomb ki dhamki",
+      "detail": "Somvaar subah Germany bhar ke 450 se zyada schoolon ko email se bomb ki dhamki mili — Baden-Württemberg me sabse zyada; police ne kaha koi 'concrete danger' nahi hai aur dhamkiyan farzi mani ja rahi hain, Denmark ke schoolon ko bhi aisi hi dhamkiyan mili.",
+      "category": "World",
+      "exam_angle": null,
+      "source": "Reuters",
+      "source_url": "https://www.reuters.com/world/hundreds-german-schools-received-bomb-threats-bild-reports-2026-11-23/",
+      "genuineness": "verified",
+      "outlets": [
+        "Reuters",
+        "Gulf News",
+        "Khaleej Times",
+        "The Straits Times",
+        "The Jerusalem Post"
+      ],
+      "image": null,
+      "image_credit": null
+    },
+    {
+      "id": "world-20261123-1822-03",
+      "published_ist": "2026-11-23T15:41:00+05:30",
+      "headline": "PKK ne Iraq me 14 aur thikaane khaali kiye",
+      "detail": "Turkey ke suraksha sutron ne bataya PKK ne uttari Iraq ke Hakurk kshetra me 18 November tak 14 aur shelter khaali kar diye hain; October me Metina ke 4 thikaanon ke saath kul 18 ho gaye, aur khaali gufaon ko Turkey ki sena anupayogi bana degi.",
+      "category": "World",
+      "exam_angle": "Turkey-PKK shanti prakriya, Kurd mudda — UPSC IR",
+      "source": "Hürriyet Daily News",
+      "source_url": "https://www.hurriyetdailynews.com/pkk-evacuates-additional-positions-in-northern-iraq-security-officials-229750",
+      "genuineness": "verified",
+      "outlets": [
+        "Hürriyet Daily News",
+        "LBC Group",
+        "Kurdistan24",
+        "Haberler"
+      ],
+      "image": null,
+      "image_credit": null
+    },
+    {
+      "id": "world-20261123-1822-04",
+      "published_ist": "2026-11-23T17:41:00+05:30",
+      "headline": "Trump: naakabandi todi to jahaaz doobenge",
+      "detail": "America ke rashtrapati Trump ne chetavni di hai ki Iran ke jahaaz agar US naakabandi todne ki koshish karenge to unhe dooboya ja sakta hai, aur naye saal tak samjhota na hua to naye hamle ho sakte hain; Iran ne kaha US shartein maane to Hormuz 'sabse kam samay' me khul sakta hai.",
+      "category": "World",
+      "exam_angle": "US-Iran tanav, Hormuz jalmarg, urja suraksha — UPSC IR",
+      "source": "Gulf News",
+      "source_url": "https://gulfnews.com/world/mena/trump-threatens-to-sink-iranian-vessels-as-us-strikes-oil-tanker-ghalibaf-calls-for-lasting-security-1.500757421",
+      "genuineness": "verified",
+      "outlets": [
+        "Gulf News",
+        "ABP Live",
+        "IRNA",
+        "Arab News",
+        "Daily Sabah"
+      ],
+      "image": null,
+      "image_credit": null
     }
   ]
 }
