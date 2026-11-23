@@ -1,6 +1,72 @@
 {
-  "updated_ist": "2026-11-23T21:25:19+05:30",
+  "updated_ist": "2026-11-23T22:25:22+05:30",
   "items": [
+    {
+      "id": "world-20261123-2225-01",
+      "published_ist": "2026-11-23T12:00:00+05:30",
+      "headline": "Trump: Naye saal ke baad Iran par hamle",
+      "detail": "Rashtrapati Trump ne Fox News ko kaha saal ke ant tak samjhota na hua to naye saal ke baad Iran par dobara bade hamle karne ke paksh me hain; unhone Iran par baatchit me taang adaane ka aarop lagaya aur naakabandi todne wale jahaazon ko doobane ki chetavani bhi di.",
+      "category": "World",
+      "exam_angle": "America-Iran tanav, naakabandi, West Asia — UPSC IR",
+      "source": "NDTV",
+      "source_url": "https://www.ndtv.com/world-news/us-iran-war-us-president-donald-trump-sets-new-year-deadline-for-iran-warns-of-military-strikes-12363920?pfrom=home-ndtv_topstories_lastestImg",
+      "genuineness": "verified",
+      "outlets": [
+        "Fox News",
+        "Al Jazeera",
+        "The Jerusalem Post",
+        "Gulf News",
+        "Dawn",
+        "The Times of India",
+        "NDTV",
+        "Rudaw"
+      ],
+      "image": null,
+      "image_credit": null
+    },
+    {
+      "id": "world-20261123-2225-02",
+      "published_ist": "2026-11-23T17:03:00+05:30",
+      "headline": "Israeli sena me aatmahatya 16 saal me sabse zyada",
+      "detail": "Haaretz ki report ke mutabik 2026 me ab tak 23 sakriya Israeli sainik aur adhikari aatmahatya kar chuke hain — 16 saal me sabse zyada; yuddh ke baad seva chhodne wale 17 aur sainikon ne bhi is saal aatmahatya ki, jabki yuddh se pehle ke dashak me ausat 12 thi.",
+      "category": "World",
+      "exam_angle": "Israel-Gaza yuddh ka manaviya asar — UPSC IR",
+      "source": "Haaretz",
+      "source_url": "https://www.haaretz.com/israel-news/israel-security/2026-11-23/ty-article-magazine/.premium/23-israeli-soldiers-died-by-suicide-in-2026-the-highest-toll-in-16-years/000001a2-07ae-d17b-a1b3-5fbf04450000",
+      "genuineness": "verified",
+      "outlets": [
+        "Haaretz",
+        "TRT World",
+        "Yeni Safak",
+        "Al Mayadeen",
+        "Anadolu",
+        "Turkiye Today",
+        "The Express Tribune"
+      ],
+      "image": null,
+      "image_credit": null
+    },
+    {
+      "id": "world-20261123-2225-03",
+      "published_ist": "2026-11-23T13:52:00+05:30",
+      "headline": "AI bikwali se Kospi 3.3% gira, chip share toote",
+      "detail": "AI share bikwali se Dakshin Korea ka Kospi Somvaar ko 3.3% girkar band hua — din me 5.8% tak gira tha; Samsung 3.1% aur SK Hynix 2.5% toote, aur America me Nvidia 14% girne ke baad Asia bhar ke bazaar laal rahe.",
+      "category": "World",
+      "exam_angle": "AI bubble chinta, global share bazaar — UPSC economy",
+      "source": "Al Jazeera",
+      "source_url": "https://www.aljazeera.com/amp/news/2026/11/23/south-koreas-stock-market-tumbles-as-ai-bubble-fears-mount",
+      "genuineness": "verified",
+      "outlets": [
+        "Al Jazeera",
+        "Korea JoongAng Daily",
+        "Chosun Biz",
+        "The Herald Business",
+        "The Financial Express",
+        "The New Indian Express"
+      ],
+      "image": null,
+      "image_credit": null
+    },
     {
       "id": "world-20261123-2122-01",
       "published_ist": "2026-11-23T12:00:00+05:30",
@@ -400,61 +466,6 @@
         "Yonhap",
         "Korea Herald",
         "Korea Times"
-      ],
-      "image": null,
-      "image_credit": null
-    },
-    {
-      "id": "world-20261123-1422-02",
-      "published_ist": "2026-11-23T00:46:00+05:30",
-      "headline": "Atlanta me Delta ki 1,000 se zyada udane late",
-      "detail": "Delta Air Lines ke vajan-santulan wale automated system me kharabi se Atlanta hub par Ravivaar ko 1,000 se zyada udane late hui; FAA ne kuch samay ke liye ground stop lagaya, baad me system theek ho gaya.",
-      "category": "World",
-      "exam_angle": null,
-      "source": "Reuters",
-      "source_url": "https://www.reuters.com/business/aerospace-defense/delta-flights-faced-brief-delays-at-atlanta-airport-over-automated-system-issue-2026-11-22/",
-      "genuineness": "verified",
-      "outlets": [
-        "Reuters",
-        "USA Today",
-        "Associated Press",
-        "Fox News"
-      ],
-      "image": null,
-      "image_credit": null
-    },
-    {
-      "id": "world-20261123-1322-01",
-      "published_ist": "2026-11-23T12:00:00+05:30",
-      "headline": "Kyiv hamlo me 15 mare, ladka zinda mila",
-      "detail": "Kyiv kshetra me raat ke hamlo me kam se kam 15 log mare — Dymer me 11, Vyshneve me 3 aur Bila Tserkva me 1; Dymer me 7 saal ka ladka 14 ghante baad malbe se zinda nikala gaya.",
-      "category": "World",
-      "exam_angle": null,
-      "source": "The Hindu",
-      "source_url": "https://www.thehindu.com/news/international/ukraine-says-russian-strikes-kill-several-in-kyiv-region/article71733677.ece",
-      "genuineness": "verified",
-      "outlets": [
-        "AFP",
-        "BBC",
-        "Al Jazeera"
-      ],
-      "image": null,
-      "image_credit": null
-    },
-    {
-      "id": "world-20261123-1322-02",
-      "published_ist": "2026-11-23T07:11:00+05:30",
-      "headline": "Hormuz me do tanker par hamla, aag lagi",
-      "detail": "IRGC ke daave ke mutabik do tanker nausainik surang se takrakar aag ki lapet me aaye, jabki UKMTO ne bhi Hormuz me do tankeron par hamle ki pushti ki.",
-      "category": "World",
-      "exam_angle": "Hormuz — Bharat ki tel suraksha ke liye aham marg",
-      "source": "Gulf News",
-      "source_url": "https://gulfnews.com/world/mena/middle-east-conflict-bahrain-intercepts-iranian-attacks-as-tehran-prepares-14-oil-tankers-to-breach-us-naval-blockade-1.500756662",
-      "genuineness": "verified",
-      "outlets": [
-        "AP",
-        "Xinhua",
-        "Gulf News"
       ],
       "image": null,
       "image_credit": null
