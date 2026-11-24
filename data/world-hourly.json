@@ -1,6 +1,95 @@
 {
- "updated_ist": "2026-11-24T12:26:32+05:30",
+ "updated_ist": "2026-11-24T13:25:01+05:30",
  "items": [
+  {
+   "id": "world-20261124-1322-01",
+   "published_ist": "2026-11-24T12:00:00+05:30",
+   "headline": "UAE me bus-truck takkar, 11 mare",
+   "detail": "Ras Al Khaimah me Al Watan Road par bus aur truck ki takkar me 11 log mare; jaanch jaari hai.",
+   "category": "World",
+   "exam_angle": null,
+   "source": "Reuters",
+   "source_url": "https://www.reuters.com/world/bus-truck-collision-kills-11-uaes-ras-al-khaimah-2026-11-24/",
+   "genuineness": "verified",
+   "outlets": [
+    "Reuters",
+    "Gulf News",
+    "Khaleej Times",
+    "Dawn"
+   ],
+   "image": null,
+   "image_credit": null
+  },
+  {
+   "id": "world-20261124-1322-02",
+   "published_ist": "2026-11-24T12:00:00+05:30",
+   "headline": "Indonesia: poorv police chief par deshdroh ka aarop",
+   "detail": "Indonesia police ne poorv police chief Listyo Sigit Prabowo samet 6 adhikariyon par rashtrapati ki jasusi aur deshdroh ka aarop lagaya; doshi paye jaane par maut ki saza tak ho sakti hai.",
+   "category": "World",
+   "exam_angle": "Deshdroh kanoon aur uski saza — Bharat ke BNS se tulna",
+   "source": "Reuters",
+   "source_url": "https://www.reuters.com/world/asia-pacific/indonesia-charges-ex-police-chief-with-treason-aimed-undermining-president-2026-11-24/",
+   "genuineness": "verified",
+   "outlets": [
+    "Reuters",
+    "The Straits Times",
+    "AP"
+   ],
+   "image": null,
+   "image_credit": null
+  },
+  {
+   "id": "world-20261124-1322-03",
+   "published_ist": "2026-11-24T12:00:00+05:30",
+   "headline": "Trump kal NATO chief Rutte se milenge",
+   "detail": "White House ne kaha Trump budhwar ko Florida me NATO mahasachiv Mark Rutte se milenge; Putin aur Xi se mulakaat ke baad Ukraine par charcha hogi.",
+   "category": "World",
+   "exam_angle": "NATO aur Ukraine vaarta — antarrashtriya sambandh",
+   "source": "Reuters",
+   "source_url": "https://www.reuters.com/world/china/trump-meet-nato-chief-mark-rutte-wednesday-white-house-says-2026-11-24/",
+   "genuineness": "corroborated",
+   "outlets": [
+    "Reuters",
+    "White House"
+   ],
+   "image": null,
+   "image_credit": null
+  },
+  {
+   "id": "world-20261124-1322-04",
+   "published_ist": "2026-11-23T12:00:00+05:30",
+   "headline": "Tajikistan ne ICC chhodne ki prakriya shuru ki",
+   "detail": "Tajikistan ICC se hatne wala chauntha desh bana; America ke dabav ke baad Chad, Venezuela aur Naoero bhi peeche hate.",
+   "category": "World",
+   "exam_angle": "ICC aur Rome Statute — antarrashtriya kanoon",
+   "source": "Reuters",
+   "source_url": "https://www.reuters.com/world/asia-pacific/tajikistan-becomes-fourth-country-withdraw-icc-since-us-diplomatic-push-2026-11-23/",
+   "genuineness": "verified",
+   "outlets": [
+    "Reuters",
+    "Al Jazeera",
+    "ICC"
+   ],
+   "image": null,
+   "image_credit": null
+  },
+  {
+   "id": "world-20261124-1322-05",
+   "published_ist": "2026-11-24T12:00:00+05:30",
+   "headline": "Amnesty: Tigray golabari yuddh apraadh ho sakti hai",
+   "detail": "Amnesty ne kaha Ethiopia ki sena ne Tigray ke Alamata me nagrik bastiyon par golabari ki; 14 nagrikon ki maut ki pushti hui, jaanch yuddh apraadh ke roop me honi chahiye.",
+   "category": "World",
+   "exam_angle": "Yuddh apraadh aur antarrashtriya manavtavadi kanoon",
+   "source": "Reuters",
+   "source_url": "https://www.reuters.com/world/ethiopian-shelling-of-tigray-town-should-be-investigated-possible-war-crimes-2026-11-24/",
+   "genuineness": "verified",
+   "outlets": [
+    "Amnesty International",
+    "Reuters"
+   ],
+   "image": null,
+   "image_credit": null
+  },
   {
    "id": "world-20261124-1222-01",
    "published_ist": "2026-11-23T12:00:00+05:30",
@@ -353,98 +442,6 @@
    ],
    "image": null,
    "image_credit": null
-  },
-  {
-   "id": "world-20261124-0726-02",
-   "published_ist": "2026-11-19T12:00:00+05:30",
-   "headline": "ICJ: Myanmar ne Rohingya par narsanhar kiya",
-   "detail": "9-6 faisle me court ne 2017 ke sainya abhiyan ko narsanhar mana; pehli baar kisi desh ko doshi thahraya gaya aur vapsi aur muavze ka aadesh diya.",
-   "category": "World",
-   "exam_angle": "UPSC: ICJ, Genocide Convention, Gambia v. Myanmar — pehla state-responsibility faisla",
-   "source": "AP",
-   "source_url": "https://religionnews.com/2026/11/23/for-the-first-time-uns-highest-court-finds-a-country-responsible-for-genocide-myanmar/",
-   "genuineness": "verified",
-   "outlets": [
-    "AP",
-    "Indian Express",
-    "Just Security",
-    "The Daily Star"
-   ],
-   "image": "../images/world/world-20261124-0726-02.jpg",
-   "image_credit": "International Court of Justice; originally uploaded by Yeu Ninje at en.wikipedia — Public domain (Wikimedia Commons)"
-  },
-  {
-   "id": "world-20261124-0726-03",
-   "published_ist": "2026-11-23T12:00:00+05:30",
-   "headline": "Ukraine ne Libya me Russian yuddhapot duboya",
-   "detail": "Ravivar ko samudri drone se Libiya bandargah me Russian korvet duboya gaya; Zelenskyy ne pushti ki, yuddh ka daira Europe se bahar badha.",
-   "category": "World",
-   "exam_angle": "UPSC: Ukraine yuddh ka daira — Libya, samudri drone yuddh",
-   "source": "Reuters",
-   "source_url": "https://www.devdiscourse.com/article/international/4011043-reuters-world-news-summary",
-   "genuineness": "verified",
-   "outlets": [
-    "Reuters",
-    "The Japan Times",
-    "WH News"
-   ],
-   "image": null,
-   "image_credit": null
-  },
-  {
-   "id": "world-20261124-0726-04",
-   "published_ist": "2026-11-22T12:00:00+05:30",
-   "headline": "COP31 bina samjhaute ke khatm",
-   "detail": "Antalya me jeevashm indhan ka ullekh na karne wale draft ko EU aur 130 deshon ne kharij kar diya; vaarta bina antim ghoshna ke samapt hui.",
-   "category": "World",
-   "exam_angle": "UPSC: COP31, jeevashm indhan phase-out, jalvayu vitt — Bharat ke liye sabak",
-   "source": "Al Jazeera",
-   "source_url": "https://www.aljazeera.com/amp/news/2026/11/23/cop31-what-next-after-un-climate-talks-collapse",
-   "genuineness": "verified",
-   "outlets": [
-    "Reuters",
-    "Al Jazeera",
-    "Frontline (The Hindu)",
-    "swissinfo"
-   ],
-   "image": null,
-   "image_credit": null
-  },
-  {
-   "id": "world-20261124-0622-01",
-   "published_ist": "2026-11-24T04:22:00+05:30",
-   "headline": "Korea me Russi vimaan par alert, phir wapas",
-   "detail": "Ulleung dweep par subah 7:52 baje evacuation alert jaari hua aur 3 minute me wapas liya gaya; sena ne saaf kiya Russi vimaan KADIZ me aaye the, hawai kshetra ka ullanghan nahi hua aur ladaku vimaan bheje gaye.",
-   "category": "World",
-   "exam_angle": "KADIZ aur hawai kshetra ka antar — UPSC IR",
-   "source": "Yonhap",
-   "source_url": "https://en.yna.co.kr/view/AEN20261124001251315",
-   "genuineness": "verified",
-   "outlets": [
-    "Reuters",
-    "Yonhap",
-    "Korea Times",
-    "Associated Press"
-   ],
-   "image": null,
-   "image_credit": null
-  },
-  {
-   "id": "world-20261124-0622-02",
-   "published_ist": "2026-11-23T12:00:00+05:30",
-   "headline": "NATO bhejega Poland ko AWACS vimaan",
-   "detail": "Shukravar ko teen Russi missile Poland me girne ke baad NATO ne early-warning AWACS vimaan bhejne ka faisla kiya; Poland ke up-raksha mantri ne Brussels me elan kiya aur SACEUR ne tainati ko manzoori di.",
-   "category": "World",
-   "exam_angle": "NATO AWACS, Poland-Russia tanav — UPSC IR",
-   "source": "Reuters",
-   "source_url": "https://www.reuters.com/business/aerospace-defense/nato-send-early-warning-system-aircraft-poland-after-missiles-incident-2026-11-23/",
-   "genuineness": "corroborated",
-   "outlets": [
-    "Reuters",
-    "The Straits Times"
-   ],
-   "image": "../images/world/world-20261124-0622-02.jpg",
-   "image_credit": "Timothy A. Gonsalves, Wikimedia Commons, CC BY-SA 4.0"
   }
  ]
 }
