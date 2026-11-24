@@ -1011,6 +1011,77 @@
       ],
       "image": null,
       "image_credit": null
+    },
+    {
+      "id": "world-20261124-2122-01",
+      "published_ist": "2026-11-24T21:40:00+05:30",
+      "headline": "Philippines ko America se $2.4 arab raksha sauda",
+      "detail": "Philippines ke raksha mantri ne pushti ki America $2 arab ke vitt aur $40 crore ke anudan se samvedansheel raksha hathiyaar bechega; Dakshin Cheen Sagar me raksha kshamata badhegi.",
+      "category": "World",
+      "exam_angle": "America-Philippines raksha sauda, Dakshin Cheen Sagar — UPSC IR",
+      "source": "The Manila Times",
+      "source_url": "https://beta.manilatimes.net/2026/11/24/news/us-to-sell-defense-weapons-to-ph-under-2b-trump-deal/2476945",
+      "genuineness": "corroborated",
+      "outlets": [
+        "The Manila Times",
+        "South China Morning Post"
+      ],
+      "image": null,
+      "image_credit": null
+    },
+    {
+      "id": "world-20261124-2122-02",
+      "published_ist": "2026-11-24T13:30:00+05:30",
+      "headline": "Landmine se hatahat 5 saal me sabse zyada",
+      "detail": "Landmine Monitor 2026 ke mutabik 2025 me 6,929 log mare ya ghayal hue — 5 saal me sabse zyada; 84% nagrik, aadhe bachche; Myanmar (1,891) aur Syria (1,602) sabse aage.",
+      "category": "World",
+      "exam_angle": "Landmine Monitor 2026, Mine Ban Treaty — UPSC IR",
+      "source": "The National",
+      "source_url": "https://www.thenationalnews.com/news/mena/2026/11/24/landmine-casualties-hit-five-year-high-as-refugees-return-to-syria/?title=Landmine+casualties+hit+five-year+high+as+refugees+return+to+Syria&mini=true&utm_source=linkedin&utm_medium=socialsharebtn",
+      "genuineness": "corroborated",
+      "outlets": [
+        "The National",
+        "Associated Press"
+      ],
+      "image": null,
+      "image_credit": null
+    },
+    {
+      "id": "world-20261124-2122-03",
+      "published_ist": "2026-11-24T12:00:00+05:30",
+      "headline": "Uttar Korea: Swiss karyalaya band karne ki dhamki",
+      "detail": "Kim Yo-jong ne Songdowon bachchon ke shivir par Swiss pratibandh ko 'khula shatrutapurna kaam' bataya aur Pyongyang me Switzerland ka rajnaitik karyalaya band karne ki dhamki di.",
+      "category": "World",
+      "exam_angle": "Uttar Korea-Switzerland, bachchon ka sthanantaran — UPSC IR",
+      "source": "Yonhap",
+      "source_url": "https://en.yna.co.kr/view/AEN20261124001151315",
+      "genuineness": "verified",
+      "outlets": [
+        "Yonhap",
+        "Associated Press",
+        "The Straits Times"
+      ],
+      "image": null,
+      "image_credit": null
+    },
+    {
+      "id": "world-20261124-2122-04",
+      "published_ist": "2026-11-24T12:00:00+05:30",
+      "headline": "Prince William ke ghar me ghuspaith, 2 giraftaar",
+      "detail": "Somvaar raat Sandringham estate ke Anmer Hall me ghuspaith par 2 log burglary aur trespass ke sandeh me giraftaar hue; ghar khaali tha, William-Kate maujood nahi the.",
+      "category": "World",
+      "exam_angle": null,
+      "source": "CNN",
+      "source_url": "https://www.cnn.com/2026/11/24/uk/uk-royals-william-kate-country-home-intl?cid=external-feeds_iluminar_meta",
+      "genuineness": "verified",
+      "outlets": [
+        "CNN",
+        "The Times",
+        "Arab News",
+        "Agence France-Presse"
+      ],
+      "image": null,
+      "image_credit": null
     }
   ]
 }
