@@ -1,6 +1,78 @@
 {
-  "updated_ist": "2026-11-24T16:24:14+05:30",
+  "updated_ist": "2026-11-24T17:23:23+05:30",
   "items": [
+    {
+      "id": "world-20261124-1723-01",
+      "published_ist": "2026-11-24T14:47:00+05:30",
+      "headline": "Hormuz me 2 aur tanker mine se takraye",
+      "detail": "Iran ki sena ne dawa kiya ki Mangalvaar subah Hormuz ke poorvi hisse me 2 tel tanker mine se takrakar aag ki lapet me aa gaye; is dawe ki swatantra pushti abhi baaki hai.",
+      "category": "World",
+      "exam_angle": "Hormuz — duniya ki tel supply ka raasta",
+      "source": "Mehr News",
+      "source_url": "https://en.mehrnews.com/news/249667/2-violating-oil-tankers-catch-fire-in-east-of-Hormuz-Strait",
+      "genuineness": "corroborated",
+      "outlets": [
+        "Al Jazeera",
+        "Mehr News",
+        "Gulf News"
+      ],
+      "image": null,
+      "image_credit": null
+    },
+    {
+      "id": "world-20261124-1723-02",
+      "published_ist": "2026-11-24T12:00:00+05:30",
+      "headline": "Yemen me August se 3.6 lakh visthapit",
+      "detail": "UN ke mutabik August se Yemen me ladai ke kaaran 3.6 lakh se zyada log visthapit hue; 323 nagrik hatahat hue, jinme 76 ki maut hui.",
+      "category": "World",
+      "exam_angle": "Yemen manaviya sankat, UNHCR — UPSC IR",
+      "source": "Yeni Safak",
+      "source_url": "https://en.yenisafak.com/world/more-than-360000-displaced-in-yemen-since-august-un-says-3725937",
+      "genuineness": "verified",
+      "outlets": [
+        "UN",
+        "Anadolu Agency",
+        "Channel NewsAsia"
+      ],
+      "image": null,
+      "image_credit": null
+    },
+    {
+      "id": "world-20261124-1723-03",
+      "published_ist": "2026-11-23T12:00:00+05:30",
+      "headline": "Virginia, Oregon ne Grok par mukadma kiya",
+      "detail": "Virginia aur Oregon ne SpaceX par mukadma kiya, aarop hai Grok ki 'spicy mode' se bina sahmati ke yaun tasveerein bani; pehli baar rajyon ne AI company par mukadma kiya.",
+      "category": "World",
+      "exam_angle": "AI suraksha, upbhokta kanoon — UPSC S&T",
+      "source": "Reuters",
+      "source_url": "https://www.reuters.com/legal/government/virginia-oregon-sue-musks-spacex-over-grok-ais-creation-child-sexual-abuse-2026-11-23/",
+      "genuineness": "verified",
+      "outlets": [
+        "Reuters",
+        "Al Jazeera",
+        "Associated Press"
+      ],
+      "image": null,
+      "image_credit": null
+    },
+    {
+      "id": "world-20261124-1723-04",
+      "published_ist": "2026-11-23T12:00:00+05:30",
+      "headline": "UK ne Myanmar ke 5 generalon par pratibandh",
+      "detail": "ICJ ke narsanhar faisle ke baad UK ne Myanmar ke 5 varishth sainya adhikariyon par pratibandh lagaye; vimanan indhan niryaat par rok ki yojana bhi ghoshit ki.",
+      "category": "World",
+      "exam_angle": "ICJ narsanhar faisla, UK pratibandh — UPSC IR",
+      "source": "SCMP",
+      "source_url": "https://www.scmp.com/news/world/europe/article/3375529/uk-sanctions-myanmar-president-military-figures-after-genocide-ruling",
+      "genuineness": "verified",
+      "outlets": [
+        "SCMP",
+        "The Independent",
+        "DVB"
+      ],
+      "image": null,
+      "image_credit": null
+    },
     {
       "id": "world-20261124-1624-01",
       "published_ist": "2026-11-24T12:00:00+05:30",
@@ -361,79 +433,6 @@
         "Reuters",
         "The Hindu",
         "The Times of India"
-      ],
-      "image": null,
-      "image_credit": null
-    },
-    {
-      "id": "world-20261124-1124-02",
-      "published_ist": "2026-11-24T07:02:00+05:30",
-      "headline": "Nepal me 5.3 ka bhukamp, Bharat tak jhatke",
-      "detail": "Mangalvaar subah 7:02 baje Nepal ke Koshi pradesh me 5.3 teevrata ka bhukamp aaya; uttar Bengal, Sikkim, Bhutan aur Bangladesh tak jhatke mehsoos hue aur log ghar se bahar nikle.",
-      "category": "World",
-      "exam_angle": "Himalaya me bhukamp — aapda prabandhan",
-      "source": "Reuters",
-      "source_url": "https://www.reuters.com/business/environment/magnitude-53-earthquake-strikes-nepals-koshi-province-emsc-says-2026-11-24/",
-      "genuineness": "verified",
-      "outlets": [
-        "Reuters",
-        "The Hindu",
-        "NDTV"
-      ],
-      "image": null,
-      "image_credit": null
-    },
-    {
-      "id": "world-20261124-1124-03",
-      "published_ist": "2026-11-24T12:00:00+05:30",
-      "headline": "Shenzhou-24: pehla videshi yantri Tiangong jayega",
-      "detail": "China ka Shenzhou-24 yaan Budhvaar subah 8:18 baje Beijing samay par Tiangong station ke liye udega; Pakistani payload specialist Muhammad Zeeshan Ali station par jaane wale pehle videshi yantri banege aur lagbhag ek hafta wahaan rahenge.",
-      "category": "World",
-      "exam_angle": "China ka antariksh station, pehla videshi yantri",
-      "source": "Reuters",
-      "source_url": "https://www.reuters.com/science/china-launch-shenzhou-24-spaceship-with-first-foreign-astronaut-2026-11-24/",
-      "genuineness": "verified",
-      "outlets": [
-        "Reuters",
-        "Dawn",
-        "The Straits Times"
-      ],
-      "image": null,
-      "image_credit": null
-    },
-    {
-      "id": "world-20261124-1124-04",
-      "published_ist": "2026-11-24T12:00:00+05:30",
-      "headline": "IRGC ka dawa: Hormuz me 3 tanker mine se takraye",
-      "detail": "Iran ki Revolutionary Guard ne dawa kiya ki Hormuz jaldamroomadhya me teen tel tanker samudri mine se takrakar aag ki lapet me aa gaye; is dawe ki swatantra pushti abhi baaki hai aur US Central Command ne koi pratikriya nahi di hai.",
-      "category": "World",
-      "exam_angle": "Hormuz — duniya ki tel supply ka raasta",
-      "source": "Al Jazeera",
-      "source_url": "https://www.aljazeera.com/amp/news/liveblog/2026/11/24/iran-war-live-iran-says-three-ships-catch-fire-after-hitting-hormuz-mines",
-      "genuineness": "corroborated",
-      "outlets": [
-        "Al Jazeera",
-        "Rudaw",
-        "The National"
-      ],
-      "image": null,
-      "image_credit": null
-    },
-    {
-      "id": "world-20261124-1022-01",
-      "published_ist": "2026-11-23T12:00:00+05:30",
-      "headline": "Indonesia factory aag me 24 mare",
-      "detail": "Banten ki candy factory me Shanivaar shaam lagi aag me 24 log mare, lagbhag 30 laapata hain; AC short circuit se aag lagne ki aashanka hai.",
-      "category": "World",
-      "exam_angle": "Factory aag me 24 mare, 30 laapata — aapda prabandhan",
-      "source": "Al Jazeera",
-      "source_url": "https://www.aljazeera.com/news/2026/11/23/indonesian-police-remove-24-body-bags-from-factory-fire-site",
-      "genuineness": "verified",
-      "outlets": [
-        "Al Jazeera",
-        "Channel News Asia",
-        "The Hindu",
-        "TRT World"
       ],
       "image": null,
       "image_credit": null
