@@ -1,6 +1,63 @@
 {
-  "updated_ist": "2026-11-24T14:26:50+05:30",
+  "updated_ist": "2026-11-24T15:24:55+05:30",
   "items": [
+    {
+      "id": "world-20261124-1524-01",
+      "published_ist": "2026-11-24T12:06:00+05:30",
+      "headline": "Sanofi kharedega Insmed, $41 billion ka sauda",
+      "detail": "France ki Sanofi ne America ki Insmed ko $41 billion me khareedne ka samjhauta kiya, saans ki bimariyon ki dawaon ke liye; sauda 2027 ki pehli chhamahi me band hone ki ummeed hai.",
+      "category": "World",
+      "exam_angle": "Teen saal ki sabse badi pharma deal — economy",
+      "source": "Reuters",
+      "source_url": "https://www.reuters.com/legal/litigation/sanofi-acquire-insmed-41-billion-deal-2026-11-24/",
+      "genuineness": "verified",
+      "outlets": [
+        "Reuters",
+        "Wall Street Journal",
+        "Bloomberg",
+        "MarketWatch"
+      ],
+      "image": null,
+      "image_credit": null
+    },
+    {
+      "id": "world-20261124-1524-02",
+      "published_ist": "2026-11-24T12:00:00+05:30",
+      "headline": "Colombia me car bomb, governor karyalaya tabah",
+      "detail": "Villavicencio me Meta governor karyalaya ke paas car bomb phata, darjanon log ghayal hue, koi maut nahi; rashtrapati ne drug taskaron ko zimmedaar thahraya.",
+      "category": "World",
+      "exam_angle": null,
+      "source": "Al Jazeera",
+      "source_url": "https://www.aljazeera.com/amp/video/newsfeed/2026/11/24/car-bomb-strikes-governors-office-in-meta-colombia",
+      "genuineness": "verified",
+      "outlets": [
+        "Al Jazeera",
+        "Anadolu Agency",
+        "Xinhua",
+        "AFP"
+      ],
+      "image": null,
+      "image_credit": null
+    },
+    {
+      "id": "world-20261124-1524-03",
+      "published_ist": "2026-11-24T06:30:00+05:30",
+      "headline": "Hanoi me gas visfot, 6 mare, 10 ghayal",
+      "detail": "Hanoi me ek khane ki dukaan par subah gas visfot hua, imarat ka hissa gira aur 6 log mare gaye, 10 ghayal hue; bachav kaam jaari hai.",
+      "category": "World",
+      "exam_angle": null,
+      "source": "Reuters",
+      "source_url": "https://www.reuters.com/world/asia-pacific/explosion-kills-6-injures-10-vietnam-capital-hanoi-2026-11-24/",
+      "genuineness": "verified",
+      "outlets": [
+        "Reuters",
+        "VnExpress",
+        "Xinhua",
+        "Straits Times"
+      ],
+      "image": null,
+      "image_credit": null
+    },
     {
       "id": "world-20261124-1422-01",
       "published_ist": "2026-11-23T12:00:00+05:30",
@@ -380,63 +437,6 @@
         "Reuters",
         "The Wall Street Journal",
         "Des Moines Register"
-      ],
-      "image": null,
-      "image_credit": null
-    },
-    {
-      "id": "world-20261124-0922-03",
-      "published_ist": "2026-11-23T12:00:00+05:30",
-      "headline": "Mahila World Cup 2031 America me",
-      "detail": "FIFA ne 2031 Mahila World Cup America, Mexico, Costa Rica aur Jamaica ko diya; 2035 ka UK me hoga aur pehli baar 48 team khelegi.",
-      "category": "World",
-      "exam_angle": "Mahila World Cup 48 team, pehli baar chaar mezban — UPSC sports",
-      "source": "FIFA",
-      "source_url": "https://inside.fifa.com/organisation/congress/media-releases/extraordinary-congress-appoints-hosts-2031-2035-womens-world-cup",
-      "genuineness": "verified",
-      "outlets": [
-        "FIFA",
-        "CNN",
-        "Channel NewsAsia",
-        "Flashscore"
-      ],
-      "image": null,
-      "image_credit": null
-    },
-    {
-      "id": "world-20261124-0922-04",
-      "published_ist": "2026-11-23T12:00:00+05:30",
-      "headline": "Zanzibar me aag, 6 hotel jale",
-      "detail": "Nungwi Beach par Makofi Hotel se shuru hui aag 6 hotel tak phaili; lagbhag 180 paryatak surakshit nikale gaye, kuchh hotel karmchari ghayal hue, jaanch jaari hai.",
-      "category": "World",
-      "exam_angle": null,
-      "source": "AP",
-      "source_url": "https://www.bastillepost.com/global/article/6390760-tourists-evacuated-after-fire-destroys-6-hotels-in-zanzibars-popular-nungwi-beach-area",
-      "genuineness": "verified",
-      "outlets": [
-        "AP",
-        "The Times of India",
-        "The Sun",
-        "The Shillong Times"
-      ],
-      "image": null,
-      "image_credit": null
-    },
-    {
-      "id": "world-20261124-0822-01",
-      "published_ist": "2026-11-23T17:10:00+05:30",
-      "headline": "Manchester concert me gas, 12,000 nikale",
-      "detail": "Don Toliver ke show ke dauran Co-op Live arena me 'agyat padarth' chhoda gaya; 12,000 se zyada log nikale gaye, 50 se zyada logon ka ilaaj hua aur ek ko aspatal le jaya gaya, jaanch jaari hai.",
-      "category": "World",
-      "exam_angle": null,
-      "source": "CNN",
-      "source_url": "https://www.cnn.com/2026/11/23/europe/manchester-coop-live-tear-gas-don-toliver-hnk-intl?cid=external-feeds_iluminar_meta",
-      "genuineness": "verified",
-      "outlets": [
-        "CNN",
-        "The Times",
-        "RTHK",
-        "Channel NewsAsia"
       ],
       "image": null,
       "image_credit": null
