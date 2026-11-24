@@ -1,6 +1,82 @@
 {
- "updated_ist": "2026-11-24T08:22:00+05:30",
+ "updated_ist": "2026-11-24T09:22:00+05:30",
  "items": [
+  {
+   "id": "world-20261124-0922-01",
+   "published_ist": "2026-11-24T06:00:00+05:30",
+   "headline": "Gukesh-Sindarov: sabse yuva chess final",
+   "detail": "Vishwa Chess Championship ka pehla game aaj Geneva me khela jayega; dono khiladi 20 saal ke hain, itihaas ka sabse yuva final hai.",
+   "category": "World",
+   "exam_angle": "Vishwa Chess Championship, sabse yuva final — UPSC sports",
+   "source": "FIDE",
+   "source_url": "https://worldchampionship.fide.com/news/salesforce-fide-world-championship-match-2026-schedule-format-and-prize-fund-con-MCPGSIDPSQ5ZDMZEWAWQLEONRHXU",
+   "genuineness": "verified",
+   "outlets": [
+    "FIDE",
+    "Al Jazeera",
+    "The Indian Express",
+    "The Hindu"
+   ],
+   "image": "../images/world/world-20261124-0922-01.jpg",
+   "image_credit": "Frans Peeters / CC BY-SA 2.0, Wikimedia Commons"
+  },
+  {
+   "id": "world-20261124-0922-02",
+   "published_ist": "2026-11-23T12:00:00+05:30",
+   "headline": "Iowa visfot ko court ki hari jhandi",
+   "detail": "Court ne paryavaran samoohon ki yachika kharij kar di; sena Budhvaar ko Iowa plant me 68 barrel lead azide ka niyantrit visfot karegi.",
+   "category": "World",
+   "exam_angle": null,
+   "source": "CNN",
+   "source_url": "https://www.cnn.com/2026/11/23/us/iowa-army-detonation-lead-azide?cid=external-feeds_iluminar_meta",
+   "genuineness": "verified",
+   "outlets": [
+    "CNN",
+    "Reuters",
+    "Des Moines Register",
+    "AP"
+   ],
+   "image": null,
+   "image_credit": null
+  },
+  {
+   "id": "world-20261124-0922-03",
+   "published_ist": "2026-11-23T12:00:00+05:30",
+   "headline": "Mahila World Cup 2031 America me",
+   "detail": "FIFA ne 2031 Mahila World Cup America, Mexico, Costa Rica aur Jamaica ko diya; 2035 ka UK me hoga aur pehli baar 48 team khelegi.",
+   "category": "World",
+   "exam_angle": "Mahila World Cup 48 team, pehli baar chaar mezban — UPSC sports",
+   "source": "FIFA",
+   "source_url": "https://inside.fifa.com/organisation/congress/media-releases/extraordinary-congress-appoints-hosts-2031-2035-womens-world-cup",
+   "genuineness": "verified",
+   "outlets": [
+    "FIFA",
+    "CNN",
+    "Channel NewsAsia",
+    "Flashscore"
+   ],
+   "image": null,
+   "image_credit": null
+  },
+  {
+   "id": "world-20261124-0922-04",
+   "published_ist": "2026-11-23T12:00:00+05:30",
+   "headline": "Zanzibar me aag, 6 hotel jale",
+   "detail": "Nungwi Beach par Makofi Hotel se shuru hui aag 6 hotel tak phaili; lagbhag 180 paryatak surakshit nikale gaye, kuchh hotel karmchari ghayal hue, jaanch jaari hai.",
+   "category": "World",
+   "exam_angle": null,
+   "source": "AP",
+   "source_url": "https://www.bastillepost.com/global/article/6390760-tourists-evacuated-after-fire-destroys-6-hotels-in-zanzibars-popular-nungwi-beach-area",
+   "genuineness": "verified",
+   "outlets": [
+    "AP",
+    "The Times of India",
+    "The Sun",
+    "The Shillong Times"
+   ],
+   "image": null,
+   "image_credit": null
+  },
   {
    "id": "world-20261124-0822-01",
    "published_ist": "2026-11-23T17:10:00+05:30",
@@ -387,81 +463,6 @@
     "Haaretz",
     "Daily Sabah",
     "TBS News"
-   ],
-   "image": null,
-   "image_credit": null
-  },
-  {
-   "id": "world-20261123-1922-01",
-   "published_ist": "2026-11-23T12:00:00+05:30",
-   "headline": "Medvedev: parmanu hathiyaar ka adhikaar",
-   "detail": "Russia ke Suraksha Parishad ke upadhyaksh Medvedev ne lekh me kaha kuchh halaton me desh ki suraksha ke liye parmanu hathiyaar istemal karna adhikaar hi nahi, zimmedari bhi hai; lekin Ukraine yuddh me abhi tak aisi seedhi zaroorat nahi bani.",
-   "category": "World",
-   "exam_angle": "Russia parmanu siddhant, ICJ 1996 salah — UPSC IR",
-   "source": "Yeni Safak",
-   "source_url": "https://en.yenisafak.com/world/medvedev-says-russia-has-right-in-some-cases-obligation-to-use-nuclear-weapons-3725901",
-   "genuineness": "verified",
-   "outlets": [
-    "Yeni Safak",
-    "TASS",
-    "Haberler",
-    "Lao Dong"
-   ],
-   "image": null,
-   "image_credit": null
-  },
-  {
-   "id": "world-20261123-1922-02",
-   "published_ist": "2026-11-23T12:00:00+05:30",
-   "headline": "Bangladesh: Hasina lauti to giraftari hogi",
-   "detail": "Bangladesh ke videsh rajya mantri Shama Obaed Islam ne Reuters ko bataya poorv PM Sheikh Hasina December me Bharat se lauti to turant giraftar karke jail bhej di jayengi; Dhaka unke pratyarpan ki maang kar raha hai.",
-   "category": "World",
-   "exam_angle": "Bangladesh-Hasina, pratyarpan sandhi, Bharat-Bangladesh sambandh — UPSC IR",
-   "source": "Reuters",
-   "source_url": "https://www.reuters.com/world/asia-pacific/bangladesh-vows-arrest-hasina-if-she-returns-india-2026-11-23/",
-   "genuineness": "corroborated",
-   "outlets": [
-    "Reuters",
-    "The Economic Times"
-   ],
-   "image": null,
-   "image_credit": null
-  },
-  {
-   "id": "world-20261123-1922-03",
-   "published_ist": "2026-11-23T14:35:00+05:30",
-   "headline": "Korea: pehli mahila jasus pramukh ka naam",
-   "detail": "Rashtrapati Lee Jae Myung ne cabinet ferbadal me poorv nyay mantri Kang Kum-sil ko National Intelligence Service ka pramukh namit kiya — pushti hui to ve 1961 se agency ki pehli mahila pramukh hongi; videsh aur ekikaran mantri bhi badle.",
-   "category": "World",
-   "exam_angle": "Dakshin Korea, NIS, America gathbandhan — UPSC IR",
-   "source": "Reuters",
-   "source_url": "https://www.reuters.com/world/asia-pacific/south-korea-nominates-new-foreign-unification-ministers-spy-chief-2026-11-23/",
-   "genuineness": "verified",
-   "outlets": [
-    "Reuters",
-    "Korea Herald",
-    "Korea Times",
-    "Yonhap",
-    "Korea JoongAng Daily"
-   ],
-   "image": null,
-   "image_credit": null
-  },
-  {
-   "id": "world-20261123-1922-04",
-   "published_ist": "2026-11-22T19:55:00+05:30",
-   "headline": "Oman khaadi me tanker-sainya ghatna",
-   "detail": "UK Maritime Trade Operations ne bataya Ravivaar shaam Oman ki khaadi me Chabahar ke paas ek tanker sainya balon ke saath ghatna me shamil hua; na jahaaz ka naam bataya gaya, na sainya bal ka, aur jaanch jaari hai.",
-   "category": "World",
-   "exam_angle": "Hormuz-Oman khaadi, samudri suraksha, US naakabandi — UPSC IR",
-   "source": "Yeni Safak",
-   "source_url": "https://en.yenisafak.com/world/ukmto-reports-tanker-incident-with-military-forces-in-gulf-of-oman-3725881",
-   "genuineness": "verified",
-   "outlets": [
-    "Bernama",
-    "Anadolu",
-    "Yeni Safak",
-    "Gulf News"
    ],
    "image": null,
    "image_credit": null
