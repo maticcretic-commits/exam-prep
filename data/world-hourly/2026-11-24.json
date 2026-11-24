@@ -484,6 +484,95 @@
    ],
    "image": null,
    "image_credit": null
+  },
+  {
+   "id": "world-20261124-1322-01",
+   "published_ist": "2026-11-24T12:00:00+05:30",
+   "headline": "UAE me bus-truck takkar, 11 mare",
+   "detail": "Ras Al Khaimah me Al Watan Road par bus aur truck ki takkar me 11 log mare; jaanch jaari hai.",
+   "category": "World",
+   "exam_angle": null,
+   "source": "Reuters",
+   "source_url": "https://www.reuters.com/world/bus-truck-collision-kills-11-uaes-ras-al-khaimah-2026-11-24/",
+   "genuineness": "verified",
+   "outlets": [
+    "Reuters",
+    "Gulf News",
+    "Khaleej Times",
+    "Dawn"
+   ],
+   "image": null,
+   "image_credit": null
+  },
+  {
+   "id": "world-20261124-1322-02",
+   "published_ist": "2026-11-24T12:00:00+05:30",
+   "headline": "Indonesia: poorv police chief par deshdroh ka aarop",
+   "detail": "Indonesia police ne poorv police chief Listyo Sigit Prabowo samet 6 adhikariyon par rashtrapati ki jasusi aur deshdroh ka aarop lagaya; doshi paye jaane par maut ki saza tak ho sakti hai.",
+   "category": "World",
+   "exam_angle": "Deshdroh kanoon aur uski saza — Bharat ke BNS se tulna",
+   "source": "Reuters",
+   "source_url": "https://www.reuters.com/world/asia-pacific/indonesia-charges-ex-police-chief-with-treason-aimed-undermining-president-2026-11-24/",
+   "genuineness": "verified",
+   "outlets": [
+    "Reuters",
+    "The Straits Times",
+    "AP"
+   ],
+   "image": null,
+   "image_credit": null
+  },
+  {
+   "id": "world-20261124-1322-03",
+   "published_ist": "2026-11-24T12:00:00+05:30",
+   "headline": "Trump kal NATO chief Rutte se milenge",
+   "detail": "White House ne kaha Trump budhwar ko Florida me NATO mahasachiv Mark Rutte se milenge; Putin aur Xi se mulakaat ke baad Ukraine par charcha hogi.",
+   "category": "World",
+   "exam_angle": "NATO aur Ukraine vaarta — antarrashtriya sambandh",
+   "source": "Reuters",
+   "source_url": "https://www.reuters.com/world/china/trump-meet-nato-chief-mark-rutte-wednesday-white-house-says-2026-11-24/",
+   "genuineness": "corroborated",
+   "outlets": [
+    "Reuters",
+    "White House"
+   ],
+   "image": null,
+   "image_credit": null
+  },
+  {
+   "id": "world-20261124-1322-04",
+   "published_ist": "2026-11-23T12:00:00+05:30",
+   "headline": "Tajikistan ne ICC chhodne ki prakriya shuru ki",
+   "detail": "Tajikistan ICC se hatne wala chauntha desh bana; America ke dabav ke baad Chad, Venezuela aur Naoero bhi peeche hate.",
+   "category": "World",
+   "exam_angle": "ICC aur Rome Statute — antarrashtriya kanoon",
+   "source": "Reuters",
+   "source_url": "https://www.reuters.com/world/asia-pacific/tajikistan-becomes-fourth-country-withdraw-icc-since-us-diplomatic-push-2026-11-23/",
+   "genuineness": "verified",
+   "outlets": [
+    "Reuters",
+    "Al Jazeera",
+    "ICC"
+   ],
+   "image": null,
+   "image_credit": null
+  },
+  {
+   "id": "world-20261124-1322-05",
+   "published_ist": "2026-11-24T12:00:00+05:30",
+   "headline": "Amnesty: Tigray golabari yuddh apraadh ho sakti hai",
+   "detail": "Amnesty ne kaha Ethiopia ki sena ne Tigray ke Alamata me nagrik bastiyon par golabari ki; 14 nagrikon ki maut ki pushti hui, jaanch yuddh apraadh ke roop me honi chahiye.",
+   "category": "World",
+   "exam_angle": "Yuddh apraadh aur antarrashtriya manavtavadi kanoon",
+   "source": "Reuters",
+   "source_url": "https://www.reuters.com/world/ethiopian-shelling-of-tigray-town-should-be-investigated-possible-war-crimes-2026-11-24/",
+   "genuineness": "verified",
+   "outlets": [
+    "Amnesty International",
+    "Reuters"
+   ],
+   "image": null,
+   "image_credit": null
   }
  ]
 }
