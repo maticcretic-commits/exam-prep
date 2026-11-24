@@ -72,6 +72,76 @@
     ],
     "answer_index": 1
    }
+  },
+  {
+   "episode": 158,
+   "video_hi": "unhk1BtWOiA",
+   "video_hinglish": "unhk1BtWOiA",
+   "capsules": [
+    {
+     "id": "ca-ep158-s1",
+     "headline_hi": "Desh ke 15 crore workers ka naya hisaab",
+     "headline_hinglish": "Desh ke 15 crore workers ka naya hisaab",
+     "detail_hi": "QBUSE survey: 9.47 crore chhote vyavsaay, 15.03 crore workers.",
+     "detail_hinglish": "QBUSE survey: 9.47 crore chhote vyavsaay, 15.03 crore workers.",
+     "category_hi": "Economy",
+     "category_en": "Economy"
+    },
+    {
+     "id": "ca-ep158-s2",
+     "headline_hi": "Gukesh vs Sindarov: World Chess shuru",
+     "headline_hinglish": "Gukesh vs Sindarov: World Chess shuru",
+     "detail_hi": "World Chess Championship aaj Cologny mein shuru; Gukesh khitaab bachane utre.",
+     "detail_hinglish": "World Chess Championship aaj Cologny mein shuru; Gukesh khitaab bachane utre.",
+     "category_hi": "Sports",
+     "category_en": "Sports"
+    },
+    {
+     "id": "ca-ep158-s3",
+     "headline_hi": "INS Ashank Navy ko mila, Visakhapatnam mein",
+     "headline_hinglish": "INS Ashank Navy ko mila, Visakhapatnam mein",
+     "detail_hi": "GRSE ne Yard 3036, INS Ashank, Indian Navy ko saupa.",
+     "detail_hinglish": "GRSE ne Yard 3036, INS Ashank, Indian Navy ko saupa.",
+     "category_hi": "Defence",
+     "category_en": "Defence"
+    },
+    {
+     "id": "ca-ep158-s4",
+     "headline_hi": "GDP ka naya base year: 2022-23",
+     "headline_hinglish": "GDP ka naya base year: 2022-23",
+     "detail_hi": "MoSPI ne GDP aur IIP ka base year 2022-23, CPI ka 2024=100 kiya.",
+     "detail_hinglish": "MoSPI ne GDP aur IIP ka base year 2022-23, CPI ka 2024=100 kiya.",
+     "category_hi": "Economy",
+     "category_en": "Economy"
+    },
+    {
+     "id": "ca-ep158-s5",
+     "headline_hi": "SAMPADA survey: 2 lakh logon ka poshan hisaab",
+     "headline_hinglish": "SAMPADA survey: 2 lakh logon ka poshan hisaab",
+     "detail_hi": "ICMR survey mein 81,000 parivaar, 183 jile, 35 rajya shamil.",
+     "detail_hinglish": "ICMR survey mein 81,000 parivaar, 183 jile, 35 rajya shamil.",
+     "category_hi": "Health",
+     "category_en": "Health"
+    }
+   ],
+   "mcq": {
+    "id": "ca-ep158-mcq",
+    "q_hi": "Unincorporated sector mein kul kitne workers ka anumaan hai?",
+    "q_hinglish": "Unincorporated sector mein kul kitne workers ka anumaan hai?",
+    "options_hi": [
+     "Nau crore saintalis lakh",
+     "Baaraah crore",
+     "Pandrah crore teen lakh",
+     "Bees crore"
+    ],
+    "options_hinglish": [
+     "Nau crore saintalis lakh",
+     "Baaraah crore",
+     "Pandrah crore teen lakh",
+     "Bees crore"
+    ],
+    "answer_index": 2
+   }
   }
  ]
 }
