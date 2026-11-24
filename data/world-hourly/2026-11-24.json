@@ -1,0 +1,61 @@
+{
+ "date": "2026-11-24",
+ "items": [
+  {
+   "id": "world-20261124-0622-01",
+   "published_ist": "2026-11-24T04:22:00+05:30",
+   "headline": "Korea me Russi vimaan par alert, phir wapas",
+   "detail": "Ulleung dweep par subah 7:52 baje evacuation alert jaari hua aur 3 minute me wapas liya gaya; sena ne saaf kiya Russi vimaan KADIZ me aaye the, hawai kshetra ka ullanghan nahi hua aur ladaku vimaan bheje gaye.",
+   "category": "World",
+   "exam_angle": "KADIZ aur hawai kshetra ka antar — UPSC IR",
+   "source": "Yonhap",
+   "source_url": "https://en.yna.co.kr/view/AEN20261124001251315",
+   "genuineness": "verified",
+   "outlets": [
+    "Reuters",
+    "Yonhap",
+    "Korea Times",
+    "Associated Press"
+   ],
+   "image": null,
+   "image_credit": null
+  },
+  {
+   "id": "world-20261124-0622-02",
+   "published_ist": "2026-11-23T12:00:00+05:30",
+   "headline": "NATO bhejega Poland ko AWACS vimaan",
+   "detail": "Shukravar ko teen Russi missile Poland me girne ke baad NATO ne early-warning AWACS vimaan bhejne ka faisla kiya; Poland ke up-raksha mantri ne Brussels me elan kiya aur SACEUR ne tainati ko manzoori di.",
+   "category": "World",
+   "exam_angle": "NATO AWACS, Poland-Russia tanav — UPSC IR",
+   "source": "Reuters",
+   "source_url": "https://www.reuters.com/business/aerospace-defense/nato-send-early-warning-system-aircraft-poland-after-missiles-incident-2026-11-23/",
+   "genuineness": "corroborated",
+   "outlets": [
+    "Reuters",
+    "The Straits Times"
+   ],
+   "image": "../images/world/world-20261124-0622-02.jpg",
+   "image_credit": "Timothy A. Gonsalves, Wikimedia Commons, CC BY-SA 4.0"
+  },
+  {
+   "id": "world-20261124-0622-03",
+   "published_ist": "2026-11-23T12:00:00+05:30",
+   "headline": "America ne Iran ki shadow banking par pratibandh",
+   "detail": "America ke Vitt Mantralaya ne Somvar ko Iran ke shadow banking network se jude do dozen se zyada exchange house, front company aur vyaktiyon par pratibandh lagaye; FinCEN ke mutabik January 2025 se August 2026 tak lagbhag $14.7 arab ki gatividhi is network se judi mili.",
+   "category": "World",
+   "exam_angle": "Pratibandh, shadow banking — UPSC IR/Economy",
+   "source": "Al Jazeera",
+   "source_url": "https://www.aljazeera.com/news/2026/11/23/us-escalates-sanctions-on-iran-targets-shadow-banking-networks",
+   "genuineness": "verified",
+   "outlets": [
+    "Reuters",
+    "Al Jazeera",
+    "The Jerusalem Post",
+    "The Times of Israel",
+    "US Treasury"
+   ],
+   "image": null,
+   "image_credit": null
+  }
+ ]
+}
