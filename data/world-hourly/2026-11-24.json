@@ -721,6 +721,78 @@
       ],
       "image": null,
       "image_credit": null
+    },
+    {
+      "id": "world-20261124-1624-01",
+      "published_ist": "2026-11-24T12:00:00+05:30",
+      "headline": "Gaza hamle me 6 mare, 5 ghayal",
+      "detail": "Mangalvaar ko Khan Younis police chauki par hamle me 3 aur Netzarim ke paas 3 log mare gaye; 5 ghayal hue.",
+      "category": "World",
+      "exam_angle": "Gaza yuddhviram ke baad bhi hamle — manaviya sthiti",
+      "source": "Reuters",
+      "source_url": "https://www.reuters.com/world/middle-east/israeli-airstrike-kills-least-three-palestinians-southern-gaza-medics-say-2026-11-24/",
+      "genuineness": "verified",
+      "outlets": [
+        "Reuters",
+        "Haaretz",
+        "Times of Israel",
+        "Al Arabiya"
+      ],
+      "image": null,
+      "image_credit": null
+    },
+    {
+      "id": "world-20261124-1624-02",
+      "published_ist": "2026-11-24T12:00:00+05:30",
+      "headline": "Norway-Ukraine: naya DESNA raksha system",
+      "detail": "Norway aur Ukraine ne drone-rodhi DESNA vayu-raksha system par sahyog badhaya; Ukrainian missile aur Kongsberg control se bana system pehle se istemal me hai.",
+      "category": "World",
+      "exam_angle": "Drone-rodhi vayu raksha, NATO sahyog — UPSC defence",
+      "source": "Reuters",
+      "source_url": "https://www.reuters.com/world/europe/norway-ukraine-expand-cooperation-anti-drone-system-2026-11-24/",
+      "genuineness": "corroborated",
+      "outlets": [
+        "Reuters",
+        "Kongsberg"
+      ],
+      "image": null,
+      "image_credit": null
+    },
+    {
+      "id": "world-20261124-1624-03",
+      "published_ist": "2026-11-24T12:00:00+05:30",
+      "headline": "Huckabee: Israel ko madad saal-ant tak jaari?",
+      "detail": "America ke Israel rajdoot Huckabee ne kaha saal ke ant tak $3.8 arab ki sainya madad band hone par unhe sandeh hai; samjhauta 2028 tak chalta hai aur Congress ki manzoori zaroori hai.",
+      "category": "World",
+      "exam_angle": "America-Israel sainya madad, MoU 2028 — UPSC IR",
+      "source": "Reuters",
+      "source_url": "https://www.reuters.com/world/us/us-envoy-not-certain-military-aid-israel-will-end-this-year-trump-promised-2026-11-24/",
+      "genuineness": "verified",
+      "outlets": [
+        "Reuters",
+        "Times of Israel",
+        "Jerusalem Post"
+      ],
+      "image": null,
+      "image_credit": null
+    },
+    {
+      "id": "world-20261124-1624-04",
+      "published_ist": "2026-11-24T12:00:00+05:30",
+      "headline": "Merz: Europe Russia se baat ko taiyaar",
+      "detail": "German Chancellor Merz ne kaha Europe Russia se Ukraine par vaarta ko taiyaar hai; salahakar-stariya baatcheet jaldi Abu Dhabi me phir ho sakti hai.",
+      "category": "World",
+      "exam_angle": "Ukraine shanti vaarta, Abu Dhabi — UPSC IR",
+      "source": "Yeni Safak",
+      "source_url": "https://en.yenisafak.com/world/merz-says-europe-is-ready-to-negotiate-with-russia-3725936",
+      "genuineness": "verified",
+      "outlets": [
+        "Anadolu Agency",
+        "Xinhua",
+        "Ukrinform"
+      ],
+      "image": null,
+      "image_credit": null
     }
   ]
 }
