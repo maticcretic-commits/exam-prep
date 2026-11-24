@@ -56,6 +56,81 @@
    ],
    "image": null,
    "image_credit": null
+  },
+  {
+   "id": "world-20261124-0726-01",
+   "published_ist": "2026-11-23T12:00:00+05:30",
+   "headline": "EU ka Russia par 22va pratibandh package",
+   "detail": "European Commission ne 60 Russian banks ko SWIFT se hatane, crypto aur shadow fleet par sakht pratibandh ka prastav rakha; sabhi 27 deshon ki sahamati zaroori.",
+   "category": "World",
+   "exam_angle": "UPSC: EU pratibandh, SWIFT, shadow fleet — Bharat-Russia vyapar par asar",
+   "source": "Reuters",
+   "source_url": "https://www.reuters.com/business/finance/eu-commission-proposes-22nd-sanctions-package-russia-2026-11-23/",
+   "genuineness": "verified",
+   "outlets": [
+    "Reuters",
+    "Al Jazeera",
+    "Kyiv Independent",
+    "European Commission"
+   ],
+   "image": null,
+   "image_credit": null
+  },
+  {
+   "id": "world-20261124-0726-02",
+   "published_ist": "2026-11-19T12:00:00+05:30",
+   "headline": "ICJ: Myanmar ne Rohingya par narsanhar kiya",
+   "detail": "9-6 faisle me court ne 2017 ke sainya abhiyan ko narsanhar mana; pehli baar kisi desh ko doshi thahraya gaya aur vapsi aur muavze ka aadesh diya.",
+   "category": "World",
+   "exam_angle": "UPSC: ICJ, Genocide Convention, Gambia v. Myanmar — pehla state-responsibility faisla",
+   "source": "AP",
+   "source_url": "https://religionnews.com/2026/11/23/for-the-first-time-uns-highest-court-finds-a-country-responsible-for-genocide-myanmar/",
+   "genuineness": "verified",
+   "outlets": [
+    "AP",
+    "Indian Express",
+    "Just Security",
+    "The Daily Star"
+   ],
+   "image": "../images/world/world-20261124-0726-02.jpg",
+   "image_credit": "International Court of Justice; originally uploaded by Yeu Ninje at en.wikipedia — Public domain (Wikimedia Commons)"
+  },
+  {
+   "id": "world-20261124-0726-03",
+   "published_ist": "2026-11-23T12:00:00+05:30",
+   "headline": "Ukraine ne Libya me Russian yuddhapot duboya",
+   "detail": "Ravivar ko samudri drone se Libiya bandargah me Russian korvet duboya gaya; Zelenskyy ne pushti ki, yuddh ka daira Europe se bahar badha.",
+   "category": "World",
+   "exam_angle": "UPSC: Ukraine yuddh ka daira — Libya, samudri drone yuddh",
+   "source": "Reuters",
+   "source_url": "https://www.devdiscourse.com/article/international/4011043-reuters-world-news-summary",
+   "genuineness": "verified",
+   "outlets": [
+    "Reuters",
+    "The Japan Times",
+    "WH News"
+   ],
+   "image": null,
+   "image_credit": null
+  },
+  {
+   "id": "world-20261124-0726-04",
+   "published_ist": "2026-11-22T12:00:00+05:30",
+   "headline": "COP31 bina samjhaute ke khatm",
+   "detail": "Antalya me jeevashm indhan ka ullekh na karne wale draft ko EU aur 130 deshon ne kharij kar diya; vaarta bina antim ghoshna ke samapt hui.",
+   "category": "World",
+   "exam_angle": "UPSC: COP31, jeevashm indhan phase-out, jalvayu vitt — Bharat ke liye sabak",
+   "source": "Al Jazeera",
+   "source_url": "https://www.aljazeera.com/amp/news/2026/11/23/cop31-what-next-after-un-climate-talks-collapse",
+   "genuineness": "verified",
+   "outlets": [
+    "Reuters",
+    "Al Jazeera",
+    "Frontline (The Hindu)",
+    "swissinfo"
+   ],
+   "image": null,
+   "image_credit": null
   }
  ]
 }
