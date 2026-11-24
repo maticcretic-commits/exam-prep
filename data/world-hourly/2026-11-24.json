@@ -428,6 +428,62 @@
    ],
    "image": null,
    "image_credit": null
+  },
+  {
+   "id": "world-20261124-1222-01",
+   "published_ist": "2026-11-23T12:00:00+05:30",
+   "headline": "Russia ki Estonia ko khule yuddh ki chetavni",
+   "detail": "Russia ke videsh mantralaya ne Estonia par 'khule yuddh' ke kagaar par hone ka aarop lagaya; Estonia 1 December se Russia se seema band kar raha hai aur aaropon ko kharij karta hai.",
+   "category": "World",
+   "exam_angle": "NATO–Russia tanaav: Baltic suraksha",
+   "source": "Reuters",
+   "source_url": "https://www.reuters.com/world/moscow-accuses-estonia-hostile-actions-verge-triggering-open-war-2026-11-23/",
+   "genuineness": "verified",
+   "outlets": [
+    "Reuters",
+    "Al Jazeera",
+    "Vijesti"
+   ],
+   "image": null,
+   "image_credit": null
+  },
+  {
+   "id": "world-20261124-1222-02",
+   "published_ist": "2026-11-23T12:00:00+05:30",
+   "headline": "Germany ke 450 schools ko bomb ki dhamki",
+   "detail": "Somvaar subah Germany ke 450 se zyada schools ko 'Death awaits you' vishay wale email se bomb ki dhamki mili; police ko koi vaastavik khatra nahi mila aur Denmark ke schools ko bhi aisi dhamki mili.",
+   "category": "World",
+   "exam_angle": "Europe me hybrid warfare aur afwah",
+   "source": "Reuters",
+   "source_url": "https://www.reuters.com/world/hundreds-german-schools-received-bomb-threats-bild-reports-2026-11-23/",
+   "genuineness": "verified",
+   "outlets": [
+    "Reuters",
+    "Dawn",
+    "Qatar Tribune",
+    "Ynet"
+   ],
+   "image": null,
+   "image_credit": null
+  },
+  {
+   "id": "world-20261124-1222-03",
+   "published_ist": "2026-11-23T12:00:00+05:30",
+   "headline": "Gaza ke ghayal bachche UK ilaaj ko pahunche",
+   "detail": "Gaza se gambhir roop se ghayal bachchon ka doosra samooh UK pahuncha, jahan NHS aspatalon me unka vishesh ilaaj hoga; pichhle saal bhi 50 bachche ilaaj ke liye laaye gaye the.",
+   "category": "World",
+   "exam_angle": "Gaza manaviya sankat: chikitsa nikasi",
+   "source": "The National",
+   "source_url": "https://www.thenationalnews.com/news/uk/2026/11/24/gazan-children-arrive-for-treatment-in-the-uk/",
+   "genuineness": "verified",
+   "outlets": [
+    "The National",
+    "Arab News",
+    "Qatar Tribune",
+    "GOV.UK"
+   ],
+   "image": null,
+   "image_credit": null
   }
  ]
 }
