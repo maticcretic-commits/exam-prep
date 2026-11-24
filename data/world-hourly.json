@@ -1,6 +1,78 @@
 {
- "updated_ist": "2026-11-24T10:27:27+05:30",
+ "updated_ist": "2026-11-24T11:24:49+05:30",
  "items": [
+  {
+   "id": "world-20261124-1124-01",
+   "published_ist": "2026-11-24T12:00:00+05:30",
+   "headline": "Hasina 16 December ko Bangladesh lautengi",
+   "detail": "Do saal se zyada ke nirvaasan ke baad poorv PM Sheikh Hasina ne 16 December ko Dhaka lautne ki yojana ghoshit ki; unhone sarkar se Biman Bangladesh Airlines se Delhi se Dhaka ki udaan ki maang ki hai, jabki Dhaka ne kaha hai ki lautne par unhe giraftaar kiya jayega.",
+   "category": "World",
+   "exam_angle": "Bangladesh: Hasina ki wapsi aur Victory Day",
+   "source": "Reuters",
+   "source_url": "https://www.reuters.com/world/asia-pacific/sheikh-hasina-seeks-return-bangladesh-december-16-state-carrier-2026-11-24/",
+   "genuineness": "verified",
+   "outlets": [
+    "Reuters",
+    "The Hindu",
+    "The Times of India"
+   ],
+   "image": null,
+   "image_credit": null
+  },
+  {
+   "id": "world-20261124-1124-02",
+   "published_ist": "2026-11-24T07:02:00+05:30",
+   "headline": "Nepal me 5.3 ka bhukamp, Bharat tak jhatke",
+   "detail": "Mangalvaar subah 7:02 baje Nepal ke Koshi pradesh me 5.3 teevrata ka bhukamp aaya; uttar Bengal, Sikkim, Bhutan aur Bangladesh tak jhatke mehsoos hue aur log ghar se bahar nikle.",
+   "category": "World",
+   "exam_angle": "Himalaya me bhukamp — aapda prabandhan",
+   "source": "Reuters",
+   "source_url": "https://www.reuters.com/business/environment/magnitude-53-earthquake-strikes-nepals-koshi-province-emsc-says-2026-11-24/",
+   "genuineness": "verified",
+   "outlets": [
+    "Reuters",
+    "The Hindu",
+    "NDTV"
+   ],
+   "image": null,
+   "image_credit": null
+  },
+  {
+   "id": "world-20261124-1124-03",
+   "published_ist": "2026-11-24T12:00:00+05:30",
+   "headline": "Shenzhou-24: pehla videshi yantri Tiangong jayega",
+   "detail": "China ka Shenzhou-24 yaan Budhvaar subah 8:18 baje Beijing samay par Tiangong station ke liye udega; Pakistani payload specialist Muhammad Zeeshan Ali station par jaane wale pehle videshi yantri banege aur lagbhag ek hafta wahaan rahenge.",
+   "category": "World",
+   "exam_angle": "China ka antariksh station, pehla videshi yantri",
+   "source": "Reuters",
+   "source_url": "https://www.reuters.com/science/china-launch-shenzhou-24-spaceship-with-first-foreign-astronaut-2026-11-24/",
+   "genuineness": "verified",
+   "outlets": [
+    "Reuters",
+    "Dawn",
+    "The Straits Times"
+   ],
+   "image": null,
+   "image_credit": null
+  },
+  {
+   "id": "world-20261124-1124-04",
+   "published_ist": "2026-11-24T12:00:00+05:30",
+   "headline": "IRGC ka dawa: Hormuz me 3 tanker mine se takraye",
+   "detail": "Iran ki Revolutionary Guard ne dawa kiya ki Hormuz jaldamroomadhya me teen tel tanker samudri mine se takrakar aag ki lapet me aa gaye; is dawe ki swatantra pushti abhi baaki hai aur US Central Command ne koi pratikriya nahi di hai.",
+   "category": "World",
+   "exam_angle": "Hormuz — duniya ki tel supply ka raasta",
+   "source": "Al Jazeera",
+   "source_url": "https://www.aljazeera.com/amp/news/liveblog/2026/11/24/iran-war-live-iran-says-three-ships-catch-fire-after-hitting-hormuz-mines",
+   "genuineness": "corroborated",
+   "outlets": [
+    "Al Jazeera",
+    "Rudaw",
+    "The National"
+   ],
+   "image": null,
+   "image_credit": null
+  },
   {
    "id": "world-20261124-1022-01",
    "published_ist": "2026-11-23T12:00:00+05:30",
@@ -379,87 +451,6 @@
     "Anadolu",
     "Turkiye Today",
     "The Express Tribune"
-   ],
-   "image": null,
-   "image_credit": null
-  },
-  {
-   "id": "world-20261123-2225-03",
-   "published_ist": "2026-11-23T13:52:00+05:30",
-   "headline": "AI bikwali se Kospi 3.3% gira, chip share toote",
-   "detail": "AI share bikwali se Dakshin Korea ka Kospi Somvaar ko 3.3% girkar band hua — din me 5.8% tak gira tha; Samsung 3.1% aur SK Hynix 2.5% toote, aur America me Nvidia 14% girne ke baad Asia bhar ke bazaar laal rahe.",
-   "category": "World",
-   "exam_angle": "AI bubble chinta, global share bazaar — UPSC economy",
-   "source": "Al Jazeera",
-   "source_url": "https://www.aljazeera.com/amp/news/2026/11/23/south-koreas-stock-market-tumbles-as-ai-bubble-fears-mount",
-   "genuineness": "verified",
-   "outlets": [
-    "Al Jazeera",
-    "Korea JoongAng Daily",
-    "Chosun Biz",
-    "The Herald Business",
-    "The Financial Express",
-    "The New Indian Express"
-   ],
-   "image": null,
-   "image_credit": null
-  },
-  {
-   "id": "world-20261123-2122-01",
-   "published_ist": "2026-11-23T12:00:00+05:30",
-   "headline": "Nvidia ne Jensen Huang ko CEO wapas banaya",
-   "detail": "Nvidia ke board ne Somvaar ko Jensen Huang ko turant prabhaav se CEO aur adhyaksh ke roop me wapas bahaal kiya — 12 November ko unke istife ke 11 din baad; board ne kaha America sarkar se input ke baad unki wapasi se rashtriya suraksha ko koi khatra nahi, aur Trump ne faisle ko sahi bataya, jabki Nvidia ke share 31% se zyada chadhe.",
-   "category": "World",
-   "exam_angle": "AI chip, Nvidia, America-China tech tanav — UPSC economy/S&T",
-   "source": "Reuters",
-   "source_url": "https://www.reuters.com/technology/nvidia-reinstates-jensen-huang-ceo-2026-11-23/",
-   "genuineness": "verified",
-   "outlets": [
-    "Reuters",
-    "The Wall Street Journal",
-    "CNN",
-    "Al Jazeera",
-    "TechCrunch"
-   ],
-   "image": null,
-   "image_credit": null
-  },
-  {
-   "id": "world-20261123-2122-02",
-   "published_ist": "2026-11-23T20:36:00+05:30",
-   "headline": "Grameen Bank ki lagbhag 100 shakhaon par hamla",
-   "detail": "Bangladesh me November me Grameen Bank ki lagbhag 100 shakhaon par petrol bomb se hamle hue — bank ke memo me 10 se 23 November ke beech 97 ghatnayein darj hain; poorv antarim pramukh Muhammad Yunus ne Somvaar ko hamle rokne aur doshiyon ko saza dene ki maang ki, aur kaha unka apna ghar bhi nishana bana.",
-   "category": "World",
-   "exam_angle": "Bangladesh raajneeti, Grameen Bank, microfinance — UPSC IR",
-   "source": "The Financial Express",
-   "source_url": "https://thefinancialexpress.com.bd/national/nearly-100-grameen-bank-branches-attacked-in-nov-accompanied-by-joy-bangla-yunus",
-   "genuineness": "verified",
-   "outlets": [
-    "The Financial Express",
-    "Dhaka Tribune",
-    "The Business Standard",
-    "Prothom Alo",
-    "Al Jazeera"
-   ],
-   "image": null,
-   "image_credit": null
-  },
-  {
-   "id": "world-20261123-2022-01",
-   "published_ist": "2026-11-23T16:30:00+05:30",
-   "headline": "CrowdStrike khareedega Zscaler, $43.9 arab",
-   "detail": "Cybersecurity company CrowdStrike ne Somvaar ko Zscaler ko lagbhag $43.9 arab ke all-stock saude me khareedne ki ghoshna ki; Zscaler ke har share par 1.135 CrowdStrike share milenge, aur sauda CrowdStrike ke vitt varsh 2028 ki doosri chhamaahi me band hone ki ummeed hai.",
-   "category": "World",
-   "exam_angle": "Cyber suraksha vilay, AI khatre — UPSC economy",
-   "source": "Reuters",
-   "source_url": "https://www.reuters.com/legal/transactional/crowdstrike-buy-zscaler-439-billion-2026-11-23/",
-   "genuineness": "verified",
-   "outlets": [
-    "Reuters",
-    "The Wall Street Journal",
-    "Barron's",
-    "Business Wire",
-    "Morningstar"
    ],
    "image": null,
    "image_credit": null
