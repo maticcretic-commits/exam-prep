@@ -1,6 +1,44 @@
 {
-  "updated_ist": "2026-11-24T19:26:27+05:30",
+  "updated_ist": "2026-11-24T20:26:21+05:30",
   "items": [
+    {
+      "id": "world-20261124-2022-01",
+      "published_ist": "2026-11-24T16:56:00+05:30",
+      "headline": "Gaza me Hamas suraksha pramukh mara gaya",
+      "detail": "Mangalvaar ko Gaza City me Israeli drone hamle me Hamas ke internal security pramukh Naeem Abu Nahel samet 7 log mare gaye; IDF aur Shin Bet ne hamle ki pushti ki.",
+      "category": "World",
+      "exam_angle": "Gaza yuddhaviram ke bawjood hamle — West Asia tanaav",
+      "source": "Reuters",
+      "source_url": "https://www.reuters.com/world/middle-east/israeli-airstrike-kills-senior-hamas-security-official-gaza-hamas-sources-say-2026-11-24/",
+      "genuineness": "verified",
+      "outlets": [
+        "Reuters",
+        "Al Jazeera",
+        "The Jerusalem Post",
+        "Al Arabiya",
+        "Channel News Asia"
+      ],
+      "image": null,
+      "image_credit": null
+    },
+    {
+      "id": "world-20261124-2022-02",
+      "published_ist": "2026-11-23T12:00:00+05:30",
+      "headline": "Pentagon ne Canada ko raksha par fatkara",
+      "detail": "Pentagon ne kaha Canada raksha kharch aur F-35 khareed ki sameeksha par NATO vaade poore nahi kar raha; 2025-26 me vayu sena ke sirf 41.9% vimaan taiyaar the.",
+      "category": "World",
+      "exam_angle": "NATO ka 5% raksha-kharch lakshya (2035)",
+      "source": "Associated Press",
+      "source_url": "https://bostonglobe-prod.cdn.arcpublishing.com/2026/11/23/world/pentagon-rebukes-canada-defense-spending/",
+      "genuineness": "verified",
+      "outlets": [
+        "Associated Press",
+        "TBS News",
+        "Saudi Gazette"
+      ],
+      "image": null,
+      "image_credit": null
+    },
     {
       "id": "world-20261124-1922-01",
       "published_ist": "2026-11-24T12:00:00+05:30",
@@ -397,41 +435,6 @@
         "Gulf News",
         "Khaleej Times",
         "Dawn"
-      ],
-      "image": null,
-      "image_credit": null
-    },
-    {
-      "id": "world-20261124-1322-02",
-      "published_ist": "2026-11-24T12:00:00+05:30",
-      "headline": "Indonesia: poorv police chief par deshdroh ka aarop",
-      "detail": "Indonesia police ne poorv police chief Listyo Sigit Prabowo samet 6 adhikariyon par rashtrapati ki jasusi aur deshdroh ka aarop lagaya; doshi paye jaane par maut ki saza tak ho sakti hai.",
-      "category": "World",
-      "exam_angle": "Deshdroh kanoon aur uski saza — Bharat ke BNS se tulna",
-      "source": "Reuters",
-      "source_url": "https://www.reuters.com/world/asia-pacific/indonesia-charges-ex-police-chief-with-treason-aimed-undermining-president-2026-11-24/",
-      "genuineness": "verified",
-      "outlets": [
-        "Reuters",
-        "The Straits Times",
-        "AP"
-      ],
-      "image": null,
-      "image_credit": null
-    },
-    {
-      "id": "world-20261124-1322-03",
-      "published_ist": "2026-11-24T12:00:00+05:30",
-      "headline": "Trump kal NATO chief Rutte se milenge",
-      "detail": "White House ne kaha Trump budhwar ko Florida me NATO mahasachiv Mark Rutte se milenge; Putin aur Xi se mulakaat ke baad Ukraine par charcha hogi.",
-      "category": "World",
-      "exam_angle": "NATO aur Ukraine vaarta — antarrashtriya sambandh",
-      "source": "Reuters",
-      "source_url": "https://www.reuters.com/world/china/trump-meet-nato-chief-mark-rutte-wednesday-white-house-says-2026-11-24/",
-      "genuineness": "corroborated",
-      "outlets": [
-        "Reuters",
-        "White House"
       ],
       "image": null,
       "image_credit": null
