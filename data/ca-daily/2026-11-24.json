@@ -212,6 +212,76 @@
     ],
     "answer_index": 1
    }
+  },
+  {
+   "episode": 160,
+   "video_hi": "w8MzAqRGMQs",
+   "video_hinglish": "w8MzAqRGMQs",
+   "capsules": [
+    {
+     "id": "ca-ep160-s1",
+     "headline_hi": "Nepal mein 5.6 teevrata ka bhukamp",
+     "headline_hinglish": "Nepal mein 5.6 teevrata ka bhukamp",
+     "detail_hi": "Koshi province mein subah 5.6 teevrata ka bhukamp aaya, Assam mein bhi 2.5 ka jhatka mehsoos hua.",
+     "detail_hinglish": "Koshi province mein subah 5.6 teevrata ka bhukamp aaya, Assam mein bhi 2.5 ka jhatka mehsoos hua.",
+     "category_hi": "Disaster",
+     "category_en": "National"
+    },
+    {
+     "id": "ca-ep160-s2",
+     "headline_hi": "Sansad ka Winter Session abhi tak latka",
+     "headline_hinglish": "Sansad ka Winter Session abhi tak latka",
+     "detail_hi": "Monsoon Session 13 August ko khatm hua tha, 103 din beet gaye — Winter Session ki tareekh abhi tak ghoshit nahi hui.",
+     "detail_hinglish": "Monsoon Session 13 August ko khatm hua tha, 103 din beet gaye — Winter Session ki tareekh abhi tak ghoshit nahi hui.",
+     "category_hi": "Polity",
+     "category_en": "Polity"
+    },
+    {
+     "id": "ca-ep160-s3",
+     "headline_hi": "Bali Jatra mein Rashtrapati Murmu, Cuttack",
+     "headline_hinglish": "Bali Jatra mein Rashtrapati Murmu, Cuttack",
+     "detail_hi": "Rashtrapati Droupadi Murmu do din ki Odisha yatra par, Kartik Purnima par Cuttack mein Bali Jatra ki shuruaat ki.",
+     "detail_hinglish": "Rashtrapati Droupadi Murmu do din ki Odisha yatra par, Kartik Purnima par Cuttack mein Bali Jatra ki shuruaat ki.",
+     "category_hi": "Culture",
+     "category_en": "National"
+    },
+    {
+     "id": "ca-ep160-s4",
+     "headline_hi": "NHAI dashcam ne pakde 92 hazaar defects",
+     "headline_hinglish": "NHAI dashcam ne pakde 92 hazaar defects",
+     "detail_hi": "Dashcam surveillance se do mahine mein 92 hazaar sadak defects mile, 50 hazaar kilometre highways ab nigraani mein.",
+     "detail_hinglish": "Dashcam surveillance se do mahine mein 92 hazaar sadak defects mile, 50 hazaar kilometre highways ab nigraani mein.",
+     "category_hi": "Infrastructure",
+     "category_en": "National"
+    },
+    {
+     "id": "ca-ep160-s5",
+     "headline_hi": "Vaibhav ka 52 gend mein double century",
+     "headline_hinglish": "Vaibhav ka 52 gend mein double century",
+     "detail_hi": "Pandrah saal ke Vaibhav Sooryavanshi ne 53 gendon mein 204 run banaye, 28 chhakke — List A ka sabse tez double century.",
+     "detail_hinglish": "Pandrah saal ke Vaibhav Sooryavanshi ne 53 gendon mein 204 run banaye, 28 chhakke — List A ka sabse tez double century.",
+     "category_hi": "Sports",
+     "category_en": "Sports"
+    }
+   ],
+   "mcq": {
+    "id": "ca-ep160-mcq",
+    "q_hi": "Nepal ke Koshi province mein aaye bhukamp ki teevrata kitni thi?",
+    "q_hinglish": "Nepal ke Koshi province mein aaye bhukamp ki teevrata kitni thi?",
+    "options_hi": [
+     "Chaar point chhe",
+     "Paanch point do",
+     "Saat point ek",
+     "Paanch point chhe"
+    ],
+    "options_hinglish": [
+     "Chaar point chhe",
+     "Paanch point do",
+     "Saat point ek",
+     "Paanch point chhe"
+    ],
+    "answer_index": 3
+   }
   }
  ]
 }
