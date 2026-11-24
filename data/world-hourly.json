@@ -1,474 +1,473 @@
 {
-  "updated_ist": "2026-11-23T22:25:22+05:30",
-  "items": [
-    {
-      "id": "world-20261123-2225-01",
-      "published_ist": "2026-11-23T12:00:00+05:30",
-      "headline": "Trump: Naye saal ke baad Iran par hamle",
-      "detail": "Rashtrapati Trump ne Fox News ko kaha saal ke ant tak samjhota na hua to naye saal ke baad Iran par dobara bade hamle karne ke paksh me hain; unhone Iran par baatchit me taang adaane ka aarop lagaya aur naakabandi todne wale jahaazon ko doobane ki chetavani bhi di.",
-      "category": "World",
-      "exam_angle": "America-Iran tanav, naakabandi, West Asia — UPSC IR",
-      "source": "NDTV",
-      "source_url": "https://www.ndtv.com/world-news/us-iran-war-us-president-donald-trump-sets-new-year-deadline-for-iran-warns-of-military-strikes-12363920?pfrom=home-ndtv_topstories_lastestImg",
-      "genuineness": "verified",
-      "outlets": [
-        "Fox News",
-        "Al Jazeera",
-        "The Jerusalem Post",
-        "Gulf News",
-        "Dawn",
-        "The Times of India",
-        "NDTV",
-        "Rudaw"
-      ],
-      "image": null,
-      "image_credit": null
-    },
-    {
-      "id": "world-20261123-2225-02",
-      "published_ist": "2026-11-23T17:03:00+05:30",
-      "headline": "Israeli sena me aatmahatya 16 saal me sabse zyada",
-      "detail": "Haaretz ki report ke mutabik 2026 me ab tak 23 sakriya Israeli sainik aur adhikari aatmahatya kar chuke hain — 16 saal me sabse zyada; yuddh ke baad seva chhodne wale 17 aur sainikon ne bhi is saal aatmahatya ki, jabki yuddh se pehle ke dashak me ausat 12 thi.",
-      "category": "World",
-      "exam_angle": "Israel-Gaza yuddh ka manaviya asar — UPSC IR",
-      "source": "Haaretz",
-      "source_url": "https://www.haaretz.com/israel-news/israel-security/2026-11-23/ty-article-magazine/.premium/23-israeli-soldiers-died-by-suicide-in-2026-the-highest-toll-in-16-years/000001a2-07ae-d17b-a1b3-5fbf04450000",
-      "genuineness": "verified",
-      "outlets": [
-        "Haaretz",
-        "TRT World",
-        "Yeni Safak",
-        "Al Mayadeen",
-        "Anadolu",
-        "Turkiye Today",
-        "The Express Tribune"
-      ],
-      "image": null,
-      "image_credit": null
-    },
-    {
-      "id": "world-20261123-2225-03",
-      "published_ist": "2026-11-23T13:52:00+05:30",
-      "headline": "AI bikwali se Kospi 3.3% gira, chip share toote",
-      "detail": "AI share bikwali se Dakshin Korea ka Kospi Somvaar ko 3.3% girkar band hua — din me 5.8% tak gira tha; Samsung 3.1% aur SK Hynix 2.5% toote, aur America me Nvidia 14% girne ke baad Asia bhar ke bazaar laal rahe.",
-      "category": "World",
-      "exam_angle": "AI bubble chinta, global share bazaar — UPSC economy",
-      "source": "Al Jazeera",
-      "source_url": "https://www.aljazeera.com/amp/news/2026/11/23/south-koreas-stock-market-tumbles-as-ai-bubble-fears-mount",
-      "genuineness": "verified",
-      "outlets": [
-        "Al Jazeera",
-        "Korea JoongAng Daily",
-        "Chosun Biz",
-        "The Herald Business",
-        "The Financial Express",
-        "The New Indian Express"
-      ],
-      "image": null,
-      "image_credit": null
-    },
-    {
-      "id": "world-20261123-2122-01",
-      "published_ist": "2026-11-23T12:00:00+05:30",
-      "headline": "Nvidia ne Jensen Huang ko CEO wapas banaya",
-      "detail": "Nvidia ke board ne Somvaar ko Jensen Huang ko turant prabhaav se CEO aur adhyaksh ke roop me wapas bahaal kiya — 12 November ko unke istife ke 11 din baad; board ne kaha America sarkar se input ke baad unki wapasi se rashtriya suraksha ko koi khatra nahi, aur Trump ne faisle ko sahi bataya, jabki Nvidia ke share 31% se zyada chadhe.",
-      "category": "World",
-      "exam_angle": "AI chip, Nvidia, America-China tech tanav — UPSC economy/S&T",
-      "source": "Reuters",
-      "source_url": "https://www.reuters.com/technology/nvidia-reinstates-jensen-huang-ceo-2026-11-23/",
-      "genuineness": "verified",
-      "outlets": [
-        "Reuters",
-        "The Wall Street Journal",
-        "CNN",
-        "Al Jazeera",
-        "TechCrunch"
-      ],
-      "image": null,
-      "image_credit": null
-    },
-    {
-      "id": "world-20261123-2122-02",
-      "published_ist": "2026-11-23T20:36:00+05:30",
-      "headline": "Grameen Bank ki lagbhag 100 shakhaon par hamla",
-      "detail": "Bangladesh me November me Grameen Bank ki lagbhag 100 shakhaon par petrol bomb se hamle hue — bank ke memo me 10 se 23 November ke beech 97 ghatnayein darj hain; poorv antarim pramukh Muhammad Yunus ne Somvaar ko hamle rokne aur doshiyon ko saza dene ki maang ki, aur kaha unka apna ghar bhi nishana bana.",
-      "category": "World",
-      "exam_angle": "Bangladesh raajneeti, Grameen Bank, microfinance — UPSC IR",
-      "source": "The Financial Express",
-      "source_url": "https://thefinancialexpress.com.bd/national/nearly-100-grameen-bank-branches-attacked-in-nov-accompanied-by-joy-bangla-yunus",
-      "genuineness": "verified",
-      "outlets": [
-        "The Financial Express",
-        "Dhaka Tribune",
-        "The Business Standard",
-        "Prothom Alo",
-        "Al Jazeera"
-      ],
-      "image": null,
-      "image_credit": null
-    },
-    {
-      "id": "world-20261123-2022-01",
-      "published_ist": "2026-11-23T16:30:00+05:30",
-      "headline": "CrowdStrike khareedega Zscaler, $43.9 arab",
-      "detail": "Cybersecurity company CrowdStrike ne Somvaar ko Zscaler ko lagbhag $43.9 arab ke all-stock saude me khareedne ki ghoshna ki; Zscaler ke har share par 1.135 CrowdStrike share milenge, aur sauda CrowdStrike ke vitt varsh 2028 ki doosri chhamaahi me band hone ki ummeed hai.",
-      "category": "World",
-      "exam_angle": "Cyber suraksha vilay, AI khatre — UPSC economy",
-      "source": "Reuters",
-      "source_url": "https://www.reuters.com/legal/transactional/crowdstrike-buy-zscaler-439-billion-2026-11-23/",
-      "genuineness": "verified",
-      "outlets": [
-        "Reuters",
-        "The Wall Street Journal",
-        "Barron's",
-        "Business Wire",
-        "Morningstar"
-      ],
-      "image": null,
-      "image_credit": null
-    },
-    {
-      "id": "world-20261123-2022-02",
-      "published_ist": "2026-11-23T12:00:00+05:30",
-      "headline": "Kim: suraksha chahiye, varchasva nahi",
-      "detail": "Uttar Korea ke neta Kim Jong Un ne Ravivaar ko naye rajdooton ke saamne kaha Pyongyang apni suraksha ke liye shakti badhayega, lekin kshetriya varchasva ya vistaar nahi chahta; unhone hathiyaar badhotri ko aatmaraksha ka adhikaar bataya.",
-      "category": "World",
-      "exam_angle": "Uttar Korea parmanu karyakram, purvi Asia suraksha — UPSC IR",
-      "source": "Yonhap",
-      "source_url": "https://en.yna.co.kr/view/AEN20261123001000315",
-      "genuineness": "verified",
-      "outlets": [
-        "Yonhap",
-        "The Korea Times",
-        "Korea JoongAng Daily",
-        "South China Morning Post",
-        "Philippine Daily Inquirer"
-      ],
-      "image": null,
-      "image_credit": null
-    },
-    {
-      "id": "world-20261123-2022-03",
-      "published_ist": "2026-11-22T11:14:00+05:30",
-      "headline": "Kryvyi Rih hamle me bachcha, paramedic mare",
-      "detail": "Zelenskyy ke grih nagar Kryvyi Rih me Shukravaar raat Russia ke ballistic missile aur drone hamle me 7 saal ka ladka aur 20 saal ki paramedic mare, lagbhag 60 log ghayal hue; bachav dal par bhi dobara hamla hua.",
-      "category": "World",
-      "exam_angle": null,
-      "source": "News18",
-      "source_url": "https://www.news18.com/world/russia-triple-tap-strike-kills-boy-paramedic-ukraine-kryvyi-russia-ukraine-war-ws-l-10435937.html",
-      "genuineness": "verified",
-      "outlets": [
-        "News18",
-        "The Tribune",
-        "The Times of India",
-        "The Sunday Guardian"
-      ],
-      "image": null,
-      "image_credit": null
-    },
-    {
-      "id": "world-20261123-2022-04",
-      "published_ist": "2026-11-21T12:00:00+05:30",
-      "headline": "Gaza me vaahan par hamla, 3 mare",
-      "detail": "Gaza City me Shanivaar ko khaadya vaahan par Israeli hamle me 3 log mare; Gaza ne unhe sahayata-karmi bataya, jabki IDF ne kaha ve Islamic Jihad ke sadasya the; World Central Kitchen ne kaha vaahan uska nahi tha.",
-      "category": "World",
-      "exam_angle": "Gaza yuddhviram, WCK, Israel-Hamas — UPSC IR",
-      "source": "The Times of Israel",
-      "source_url": "https://www.timesofisrael.com/israeli-strike-in-gaza-city-kills-3-idf-says-it-hit-terrorists-masquerading-as-aid-workers/",
-      "genuineness": "verified",
-      "outlets": [
-        "The Times of Israel",
-        "Haaretz",
-        "Daily Sabah",
-        "TBS News"
-      ],
-      "image": null,
-      "image_credit": null
-    },
-    {
-      "id": "world-20261123-1922-01",
-      "published_ist": "2026-11-23T12:00:00+05:30",
-      "headline": "Medvedev: parmanu hathiyaar ka adhikaar",
-      "detail": "Russia ke Suraksha Parishad ke upadhyaksh Medvedev ne lekh me kaha kuchh halaton me desh ki suraksha ke liye parmanu hathiyaar istemal karna adhikaar hi nahi, zimmedari bhi hai; lekin Ukraine yuddh me abhi tak aisi seedhi zaroorat nahi bani.",
-      "category": "World",
-      "exam_angle": "Russia parmanu siddhant, ICJ 1996 salah — UPSC IR",
-      "source": "Yeni Safak",
-      "source_url": "https://en.yenisafak.com/world/medvedev-says-russia-has-right-in-some-cases-obligation-to-use-nuclear-weapons-3725901",
-      "genuineness": "verified",
-      "outlets": [
-        "Yeni Safak",
-        "TASS",
-        "Haberler",
-        "Lao Dong"
-      ],
-      "image": null,
-      "image_credit": null
-    },
-    {
-      "id": "world-20261123-1922-02",
-      "published_ist": "2026-11-23T12:00:00+05:30",
-      "headline": "Bangladesh: Hasina lauti to giraftari hogi",
-      "detail": "Bangladesh ke videsh rajya mantri Shama Obaed Islam ne Reuters ko bataya poorv PM Sheikh Hasina December me Bharat se lauti to turant giraftar karke jail bhej di jayengi; Dhaka unke pratyarpan ki maang kar raha hai.",
-      "category": "World",
-      "exam_angle": "Bangladesh-Hasina, pratyarpan sandhi, Bharat-Bangladesh sambandh — UPSC IR",
-      "source": "Reuters",
-      "source_url": "https://www.reuters.com/world/asia-pacific/bangladesh-vows-arrest-hasina-if-she-returns-india-2026-11-23/",
-      "genuineness": "corroborated",
-      "outlets": [
-        "Reuters",
-        "The Economic Times"
-      ],
-      "image": null,
-      "image_credit": null
-    },
-    {
-      "id": "world-20261123-1922-03",
-      "published_ist": "2026-11-23T14:35:00+05:30",
-      "headline": "Korea: pehli mahila jasus pramukh ka naam",
-      "detail": "Rashtrapati Lee Jae Myung ne cabinet ferbadal me poorv nyay mantri Kang Kum-sil ko National Intelligence Service ka pramukh namit kiya — pushti hui to ve 1961 se agency ki pehli mahila pramukh hongi; videsh aur ekikaran mantri bhi badle.",
-      "category": "World",
-      "exam_angle": "Dakshin Korea, NIS, America gathbandhan — UPSC IR",
-      "source": "Reuters",
-      "source_url": "https://www.reuters.com/world/asia-pacific/south-korea-nominates-new-foreign-unification-ministers-spy-chief-2026-11-23/",
-      "genuineness": "verified",
-      "outlets": [
-        "Reuters",
-        "Korea Herald",
-        "Korea Times",
-        "Yonhap",
-        "Korea JoongAng Daily"
-      ],
-      "image": null,
-      "image_credit": null
-    },
-    {
-      "id": "world-20261123-1922-04",
-      "published_ist": "2026-11-22T19:55:00+05:30",
-      "headline": "Oman khaadi me tanker-sainya ghatna",
-      "detail": "UK Maritime Trade Operations ne bataya Ravivaar shaam Oman ki khaadi me Chabahar ke paas ek tanker sainya balon ke saath ghatna me shamil hua; na jahaaz ka naam bataya gaya, na sainya bal ka, aur jaanch jaari hai.",
-      "category": "World",
-      "exam_angle": "Hormuz-Oman khaadi, samudri suraksha, US naakabandi — UPSC IR",
-      "source": "Yeni Safak",
-      "source_url": "https://en.yenisafak.com/world/ukmto-reports-tanker-incident-with-military-forces-in-gulf-of-oman-3725881",
-      "genuineness": "verified",
-      "outlets": [
-        "Bernama",
-        "Anadolu",
-        "Yeni Safak",
-        "Gulf News"
-      ],
-      "image": null,
-      "image_credit": null
-    },
-    {
-      "id": "world-20261123-1922-05",
-      "published_ist": "2026-11-23T12:00:00+05:30",
-      "headline": "Eisenkot: achanak sarkar ghoshna ki taiyaari",
-      "detail": "Yashar neta Gadi Eisenkot aane wale hafton me kabhi bhi gathbandhan sarkar ki achanak ghoshna karke 24 se 48 ghante me Knesset me matdan karane ki yojana bana rahe hain, taaki dal-badal aur saazish ka mauka na mile; Netanyahu se ekta vaarta abhi bhi atki hui hai.",
-      "category": "World",
-      "exam_angle": "Israel sarkar gathan, Knesset, gathbandhan raajneeti — UPSC IR",
-      "source": "The Times of India",
-      "source_url": "https://timesofindia.indiatimes.com/world/middle-east/political-ambush-eisenkot-plans-surprise-govt-announcement-in-israel-swift-knesset-vote-to-thwart-defections/articleshow/136092214.cms",
-      "genuineness": "verified",
-      "outlets": [
-        "The Times of India",
-        "The Economic Times",
-        "Asianet News",
-        "The Times of Israel"
-      ],
-      "image": null,
-      "image_credit": null
-    },
-    {
-      "id": "world-20261123-1822-01",
-      "published_ist": "2026-11-23T17:21:00+05:30",
-      "headline": "Zelenskyy: chaar-paksh vaarta jald ho",
-      "detail": "Berlin me NATO Parliamentary Assembly ko video sandesh me Ukraine ke rashtrapati Zelenskyy ne Ukraine, Europe, America aur Russia ke beech chaar-paksh baatchit jald karane aur NATO sadasyata ki maang dohrai; unhone kaha ballistic missile rokne wale missile godamon me dhool nahi khane chahiye.",
-      "category": "World",
-      "exam_angle": "Ukraine yuddh, NATO sadasyata, chaar-paksh vaarta — UPSC IR",
-      "source": "Free Malaysia Today",
-      "source_url": "https://www.freemalaysiatoday.com/category/world/2026/11/23/zelensky-calls-for-four-way-talks-with-russia-as-soon-as-possible",
-      "genuineness": "verified",
-      "outlets": [
-        "WION",
-        "Free Malaysia Today",
-        "The Straits Times"
-      ],
-      "image": null,
-      "image_credit": null
-    },
-    {
-      "id": "world-20261123-1822-02",
-      "published_ist": "2026-11-23T16:31:00+05:30",
-      "headline": "Germany ke 450 school ko bomb ki dhamki",
-      "detail": "Somvaar subah Germany bhar ke 450 se zyada schoolon ko email se bomb ki dhamki mili — Baden-Württemberg me sabse zyada; police ne kaha koi 'concrete danger' nahi hai aur dhamkiyan farzi mani ja rahi hain, Denmark ke schoolon ko bhi aisi hi dhamkiyan mili.",
-      "category": "World",
-      "exam_angle": null,
-      "source": "Reuters",
-      "source_url": "https://www.reuters.com/world/hundreds-german-schools-received-bomb-threats-bild-reports-2026-11-23/",
-      "genuineness": "verified",
-      "outlets": [
-        "Reuters",
-        "Gulf News",
-        "Khaleej Times",
-        "The Straits Times",
-        "The Jerusalem Post"
-      ],
-      "image": null,
-      "image_credit": null
-    },
-    {
-      "id": "world-20261123-1822-03",
-      "published_ist": "2026-11-23T15:41:00+05:30",
-      "headline": "PKK ne Iraq me 14 aur thikaane khaali kiye",
-      "detail": "Turkey ke suraksha sutron ne bataya PKK ne uttari Iraq ke Hakurk kshetra me 18 November tak 14 aur shelter khaali kar diye hain; October me Metina ke 4 thikaanon ke saath kul 18 ho gaye, aur khaali gufaon ko Turkey ki sena anupayogi bana degi.",
-      "category": "World",
-      "exam_angle": "Turkey-PKK shanti prakriya, Kurd mudda — UPSC IR",
-      "source": "Hürriyet Daily News",
-      "source_url": "https://www.hurriyetdailynews.com/pkk-evacuates-additional-positions-in-northern-iraq-security-officials-229750",
-      "genuineness": "verified",
-      "outlets": [
-        "Hürriyet Daily News",
-        "LBC Group",
-        "Kurdistan24",
-        "Haberler"
-      ],
-      "image": null,
-      "image_credit": null
-    },
-    {
-      "id": "world-20261123-1822-04",
-      "published_ist": "2026-11-23T17:41:00+05:30",
-      "headline": "Trump: naakabandi todi to jahaaz doobenge",
-      "detail": "America ke rashtrapati Trump ne chetavni di hai ki Iran ke jahaaz agar US naakabandi todne ki koshish karenge to unhe dooboya ja sakta hai, aur naye saal tak samjhota na hua to naye hamle ho sakte hain; Iran ne kaha US shartein maane to Hormuz 'sabse kam samay' me khul sakta hai.",
-      "category": "World",
-      "exam_angle": "US-Iran tanav, Hormuz jalmarg, urja suraksha — UPSC IR",
-      "source": "Gulf News",
-      "source_url": "https://gulfnews.com/world/mena/trump-threatens-to-sink-iranian-vessels-as-us-strikes-oil-tanker-ghalibaf-calls-for-lasting-security-1.500757421",
-      "genuineness": "verified",
-      "outlets": [
-        "Gulf News",
-        "ABP Live",
-        "IRNA",
-        "Arab News",
-        "Daily Sabah"
-      ],
-      "image": null,
-      "image_credit": null
-    },
-    {
-      "id": "world-20261123-1722-01",
-      "published_ist": "2026-11-23T11:30:00+05:30",
-      "headline": "Belgium me hadtaal, saare airport band",
-      "detail": "Belgium me somvaar ko deshvyaapi hadtaal aur austerity-virodhi pradarshan ke kaaran subah 7 se raat 9 baje tak saari udanein radd rahi; hazaaron yatri prabhavit hue, unions €10 arab ki katauti ka virodh kar rahi hain.",
-      "category": "World",
-      "exam_angle": "Belgium hadtaal, €10 arab katauti, EU rajneeti — UPSC IR",
-      "source": "Al Jazeera",
-      "source_url": "https://www.aljazeera.com/news/2026/11/23/belgiums-airports-set-to-shut-down-due-to-anti-austerity-strike",
-      "genuineness": "verified",
-      "outlets": [
-        "Al Jazeera",
-        "News18",
-        "Aviation Today",
-        "The Aviation Hub"
-      ],
-      "image": null,
-      "image_credit": null
-    },
-    {
-      "id": "world-20261123-1722-02",
-      "published_ist": "2026-11-23T03:30:00+05:30",
-      "headline": "Manchester concert me gas, 12,000 nikale gaye",
-      "detail": "Ravivaar raat Manchester ke Co-op Live arena me Don Toliver ke concert ke dauraan agyaat padarth — shuru me aansu gas mana gaya — chhoda gaya; 12,000 se zyada darshak nikale gaye, 50 se zyada ka ilaaj hua aur ek vyakti aspatal me bharti hai.",
-      "category": "World",
-      "exam_angle": null,
-      "source": "Reuters",
-      "source_url": "https://www.reuters.com/world/uk/don-toliver-concert-manchester-evacuated-after-unknown-substance-released-police-2026-11-23/",
-      "genuineness": "verified",
-      "outlets": [
-        "Reuters",
-        "CNN",
-        "The Times",
-        "NME"
-      ],
-      "image": null,
-      "image_credit": null
-    },
-    {
-      "id": "world-20261123-1622-01",
-      "published_ist": "2026-11-23T15:20:00+05:30",
-      "headline": "Iran: US naakabandi ka har tareeke se saamna",
-      "detail": "Iran ke videsh mantralaya ke pravakta Esmaeil Baghaei ne somvaar ko kaha Iran America ki nausena naakabandi ka saamna 'uplabdh sabhi saadhano' se karega; unhone kaha agar America shartein maane to Hormuz jalmaarg me suraksha jaldi bahaal ho sakti hai.",
-      "category": "World",
-      "exam_angle": "Hormuz jalmaarg, nausena naakabandi, UN Charter Article 51 — UPSC IR",
-      "source": "Reuters",
-      "source_url": "https://www.reuters.com/world/middle-east/iran-says-it-will-use-all-available-tools-confront-us-naval-blockade-2026-11-23/",
-      "genuineness": "verified",
-      "outlets": [
-        "Reuters",
-        "Al Jazeera",
-        "Arab News",
-        "The Straits Times"
-      ],
-      "image": null,
-      "image_credit": null
-    },
-    {
-      "id": "world-20261123-1622-02",
-      "published_ist": "2026-11-23T13:44:00+05:30",
-      "headline": "Modi-Shah mile, Nepal ko ₹24,000 crore package",
-      "detail": "Delhi me Nepal PM Balendra Shah se baatchit ke baad PM Modi ne baadh-prabhavit Nepal ke punarnirman ke liye 24,000 crore Nepali rupaye (lagbhag $1.62 billion) ka vikaas package ghoshit kiya; 8 samjhauta gyapan par hastakshar hue aur Ayodhya-Janakpur train shuru hui.",
-      "category": "World",
-      "exam_angle": "Bharat-Nepal sambandh, Neighbourhood First, baadh punarnirman — UPSC IR",
-      "source": "Reuters",
-      "source_url": "https://www.reuters.com/world/india/india-give-162-billion-economic-package-flood-hit-nepal-2026-11-23/",
-      "genuineness": "verified",
-      "outlets": [
-        "Reuters",
-        "NDTV",
-        "The Hindu",
-        "The Times of India"
-      ],
-      "image": "../images/world/world-20261123-1622-02.jpg",
-      "image_credit": "Metro News, Wikimedia Commons (CC BY 3.0)"
-    },
-    {
-      "id": "world-20261123-1522-01",
-      "published_ist": "2026-11-23T12:00:00+05:30",
-      "headline": "Indonesia ne missile-chemical wala jahaaz pakda",
-      "detail": "China se Bangladesh ja raha MV Star Line jahaaz Indonesia ne 7 November ko pakda — 405 tonne sodium perchlorate aur lakhon bina-register SIM card mile; Indonesian Navy ke mutabik itna chemical 100 missile banane ke liye kaafi ho sakta hai.",
-      "category": "World",
-      "exam_angle": "Samudri suraksha, dual-use chemical, Indonesia-Bangladesh — UPSC IR",
-      "source": "NDTV",
-      "source_url": "https://www.ndtv.com/world-news/china-smuggled-chemical-for-100-missiles-to-bangladesh-secret-cargo-seized-12364946",
-      "genuineness": "verified",
-      "outlets": [
-        "NDTV",
-        "The Business Standard",
-        "Firstpost",
-        "Moneycontrol"
-      ],
-      "image": "../images/world/world-20261123-1522-01.jpg",
-      "image_credit": "Gordon Leggett, Wikimedia Commons (CC BY-SA 4.0)"
-    },
-    {
-      "id": "world-20261123-1422-01",
-      "published_ist": "2026-11-23T05:50:00+05:30",
-      "headline": "Korea shiksha mantri ka AI cheating par istifa",
-      "detail": "Dakshin Korea ke shiksha mantri Choi Kyo-jin ne CSAT pariksha se pehle AI-nakl rokne ke niyam baar-baar badalne se hui avyavastha ki zimmedari lete hue istifa diya; Rashtrapati Lee Jae Myung ne ek ghante me use sweekar kar liya.",
-      "category": "World",
-      "exam_angle": "CSAT pariksha, AI-nakl aur pariksha prabandhan — UPSC ke liye prasangik",
-      "source": "Reuters",
-      "source_url": "https://www.reuters.com/world/asia-pacific/south-koreas-education-minister-quits-over-exam-cheating-chaos-2026-11-23/",
-      "genuineness": "verified",
-      "outlets": [
-        "Reuters",
-        "Yonhap",
-        "Korea Herald",
-        "Korea Times"
-      ],
-      "image": null,
-      "image_credit": null
-    }
-  ]
+ "updated_ist": "2026-11-24T06:30:47+05:30",
+ "items": [
+  {
+   "id": "world-20261124-0622-01",
+   "published_ist": "2026-11-24T04:22:00+05:30",
+   "headline": "Korea me Russi vimaan par alert, phir wapas",
+   "detail": "Ulleung dweep par subah 7:52 baje evacuation alert jaari hua aur 3 minute me wapas liya gaya; sena ne saaf kiya Russi vimaan KADIZ me aaye the, hawai kshetra ka ullanghan nahi hua aur ladaku vimaan bheje gaye.",
+   "category": "World",
+   "exam_angle": "KADIZ aur hawai kshetra ka antar — UPSC IR",
+   "source": "Yonhap",
+   "source_url": "https://en.yna.co.kr/view/AEN20261124001251315",
+   "genuineness": "verified",
+   "outlets": [
+    "Reuters",
+    "Yonhap",
+    "Korea Times",
+    "Associated Press"
+   ],
+   "image": null,
+   "image_credit": null
+  },
+  {
+   "id": "world-20261124-0622-02",
+   "published_ist": "2026-11-23T12:00:00+05:30",
+   "headline": "NATO bhejega Poland ko AWACS vimaan",
+   "detail": "Shukravar ko teen Russi missile Poland me girne ke baad NATO ne early-warning AWACS vimaan bhejne ka faisla kiya; Poland ke up-raksha mantri ne Brussels me elan kiya aur SACEUR ne tainati ko manzoori di.",
+   "category": "World",
+   "exam_angle": "NATO AWACS, Poland-Russia tanav — UPSC IR",
+   "source": "Reuters",
+   "source_url": "https://www.reuters.com/business/aerospace-defense/nato-send-early-warning-system-aircraft-poland-after-missiles-incident-2026-11-23/",
+   "genuineness": "corroborated",
+   "outlets": [
+    "Reuters",
+    "The Straits Times"
+   ],
+   "image": "../images/world/world-20261124-0622-02.jpg",
+   "image_credit": "Timothy A. Gonsalves, Wikimedia Commons, CC BY-SA 4.0"
+  },
+  {
+   "id": "world-20261124-0622-03",
+   "published_ist": "2026-11-23T12:00:00+05:30",
+   "headline": "America ne Iran ki shadow banking par pratibandh",
+   "detail": "America ke Vitt Mantralaya ne Somvar ko Iran ke shadow banking network se jude do dozen se zyada exchange house, front company aur vyaktiyon par pratibandh lagaye; FinCEN ke mutabik January 2025 se August 2026 tak lagbhag $14.7 arab ki gatividhi is network se judi mili.",
+   "category": "World",
+   "exam_angle": "Pratibandh, shadow banking — UPSC IR/Economy",
+   "source": "Al Jazeera",
+   "source_url": "https://www.aljazeera.com/news/2026/11/23/us-escalates-sanctions-on-iran-targets-shadow-banking-networks",
+   "genuineness": "verified",
+   "outlets": [
+    "Reuters",
+    "Al Jazeera",
+    "The Jerusalem Post",
+    "The Times of Israel",
+    "US Treasury"
+   ],
+   "image": null,
+   "image_credit": null
+  },
+  {
+   "id": "world-20261123-2225-01",
+   "published_ist": "2026-11-23T12:00:00+05:30",
+   "headline": "Trump: Naye saal ke baad Iran par hamle",
+   "detail": "Rashtrapati Trump ne Fox News ko kaha saal ke ant tak samjhota na hua to naye saal ke baad Iran par dobara bade hamle karne ke paksh me hain; unhone Iran par baatchit me taang adaane ka aarop lagaya aur naakabandi todne wale jahaazon ko doobane ki chetavani bhi di.",
+   "category": "World",
+   "exam_angle": "America-Iran tanav, naakabandi, West Asia — UPSC IR",
+   "source": "NDTV",
+   "source_url": "https://www.ndtv.com/world-news/us-iran-war-us-president-donald-trump-sets-new-year-deadline-for-iran-warns-of-military-strikes-12363920?pfrom=home-ndtv_topstories_lastestImg",
+   "genuineness": "verified",
+   "outlets": [
+    "Fox News",
+    "Al Jazeera",
+    "The Jerusalem Post",
+    "Gulf News",
+    "Dawn",
+    "The Times of India",
+    "NDTV",
+    "Rudaw"
+   ],
+   "image": null,
+   "image_credit": null
+  },
+  {
+   "id": "world-20261123-2225-02",
+   "published_ist": "2026-11-23T17:03:00+05:30",
+   "headline": "Israeli sena me aatmahatya 16 saal me sabse zyada",
+   "detail": "Haaretz ki report ke mutabik 2026 me ab tak 23 sakriya Israeli sainik aur adhikari aatmahatya kar chuke hain — 16 saal me sabse zyada; yuddh ke baad seva chhodne wale 17 aur sainikon ne bhi is saal aatmahatya ki, jabki yuddh se pehle ke dashak me ausat 12 thi.",
+   "category": "World",
+   "exam_angle": "Israel-Gaza yuddh ka manaviya asar — UPSC IR",
+   "source": "Haaretz",
+   "source_url": "https://www.haaretz.com/israel-news/israel-security/2026-11-23/ty-article-magazine/.premium/23-israeli-soldiers-died-by-suicide-in-2026-the-highest-toll-in-16-years/000001a2-07ae-d17b-a1b3-5fbf04450000",
+   "genuineness": "verified",
+   "outlets": [
+    "Haaretz",
+    "TRT World",
+    "Yeni Safak",
+    "Al Mayadeen",
+    "Anadolu",
+    "Turkiye Today",
+    "The Express Tribune"
+   ],
+   "image": null,
+   "image_credit": null
+  },
+  {
+   "id": "world-20261123-2225-03",
+   "published_ist": "2026-11-23T13:52:00+05:30",
+   "headline": "AI bikwali se Kospi 3.3% gira, chip share toote",
+   "detail": "AI share bikwali se Dakshin Korea ka Kospi Somvaar ko 3.3% girkar band hua — din me 5.8% tak gira tha; Samsung 3.1% aur SK Hynix 2.5% toote, aur America me Nvidia 14% girne ke baad Asia bhar ke bazaar laal rahe.",
+   "category": "World",
+   "exam_angle": "AI bubble chinta, global share bazaar — UPSC economy",
+   "source": "Al Jazeera",
+   "source_url": "https://www.aljazeera.com/amp/news/2026/11/23/south-koreas-stock-market-tumbles-as-ai-bubble-fears-mount",
+   "genuineness": "verified",
+   "outlets": [
+    "Al Jazeera",
+    "Korea JoongAng Daily",
+    "Chosun Biz",
+    "The Herald Business",
+    "The Financial Express",
+    "The New Indian Express"
+   ],
+   "image": null,
+   "image_credit": null
+  },
+  {
+   "id": "world-20261123-2122-01",
+   "published_ist": "2026-11-23T12:00:00+05:30",
+   "headline": "Nvidia ne Jensen Huang ko CEO wapas banaya",
+   "detail": "Nvidia ke board ne Somvaar ko Jensen Huang ko turant prabhaav se CEO aur adhyaksh ke roop me wapas bahaal kiya — 12 November ko unke istife ke 11 din baad; board ne kaha America sarkar se input ke baad unki wapasi se rashtriya suraksha ko koi khatra nahi, aur Trump ne faisle ko sahi bataya, jabki Nvidia ke share 31% se zyada chadhe.",
+   "category": "World",
+   "exam_angle": "AI chip, Nvidia, America-China tech tanav — UPSC economy/S&T",
+   "source": "Reuters",
+   "source_url": "https://www.reuters.com/technology/nvidia-reinstates-jensen-huang-ceo-2026-11-23/",
+   "genuineness": "verified",
+   "outlets": [
+    "Reuters",
+    "The Wall Street Journal",
+    "CNN",
+    "Al Jazeera",
+    "TechCrunch"
+   ],
+   "image": null,
+   "image_credit": null
+  },
+  {
+   "id": "world-20261123-2122-02",
+   "published_ist": "2026-11-23T20:36:00+05:30",
+   "headline": "Grameen Bank ki lagbhag 100 shakhaon par hamla",
+   "detail": "Bangladesh me November me Grameen Bank ki lagbhag 100 shakhaon par petrol bomb se hamle hue — bank ke memo me 10 se 23 November ke beech 97 ghatnayein darj hain; poorv antarim pramukh Muhammad Yunus ne Somvaar ko hamle rokne aur doshiyon ko saza dene ki maang ki, aur kaha unka apna ghar bhi nishana bana.",
+   "category": "World",
+   "exam_angle": "Bangladesh raajneeti, Grameen Bank, microfinance — UPSC IR",
+   "source": "The Financial Express",
+   "source_url": "https://thefinancialexpress.com.bd/national/nearly-100-grameen-bank-branches-attacked-in-nov-accompanied-by-joy-bangla-yunus",
+   "genuineness": "verified",
+   "outlets": [
+    "The Financial Express",
+    "Dhaka Tribune",
+    "The Business Standard",
+    "Prothom Alo",
+    "Al Jazeera"
+   ],
+   "image": null,
+   "image_credit": null
+  },
+  {
+   "id": "world-20261123-2022-01",
+   "published_ist": "2026-11-23T16:30:00+05:30",
+   "headline": "CrowdStrike khareedega Zscaler, $43.9 arab",
+   "detail": "Cybersecurity company CrowdStrike ne Somvaar ko Zscaler ko lagbhag $43.9 arab ke all-stock saude me khareedne ki ghoshna ki; Zscaler ke har share par 1.135 CrowdStrike share milenge, aur sauda CrowdStrike ke vitt varsh 2028 ki doosri chhamaahi me band hone ki ummeed hai.",
+   "category": "World",
+   "exam_angle": "Cyber suraksha vilay, AI khatre — UPSC economy",
+   "source": "Reuters",
+   "source_url": "https://www.reuters.com/legal/transactional/crowdstrike-buy-zscaler-439-billion-2026-11-23/",
+   "genuineness": "verified",
+   "outlets": [
+    "Reuters",
+    "The Wall Street Journal",
+    "Barron's",
+    "Business Wire",
+    "Morningstar"
+   ],
+   "image": null,
+   "image_credit": null
+  },
+  {
+   "id": "world-20261123-2022-02",
+   "published_ist": "2026-11-23T12:00:00+05:30",
+   "headline": "Kim: suraksha chahiye, varchasva nahi",
+   "detail": "Uttar Korea ke neta Kim Jong Un ne Ravivaar ko naye rajdooton ke saamne kaha Pyongyang apni suraksha ke liye shakti badhayega, lekin kshetriya varchasva ya vistaar nahi chahta; unhone hathiyaar badhotri ko aatmaraksha ka adhikaar bataya.",
+   "category": "World",
+   "exam_angle": "Uttar Korea parmanu karyakram, purvi Asia suraksha — UPSC IR",
+   "source": "Yonhap",
+   "source_url": "https://en.yna.co.kr/view/AEN20261123001000315",
+   "genuineness": "verified",
+   "outlets": [
+    "Yonhap",
+    "The Korea Times",
+    "Korea JoongAng Daily",
+    "South China Morning Post",
+    "Philippine Daily Inquirer"
+   ],
+   "image": null,
+   "image_credit": null
+  },
+  {
+   "id": "world-20261123-2022-03",
+   "published_ist": "2026-11-22T11:14:00+05:30",
+   "headline": "Kryvyi Rih hamle me bachcha, paramedic mare",
+   "detail": "Zelenskyy ke grih nagar Kryvyi Rih me Shukravaar raat Russia ke ballistic missile aur drone hamle me 7 saal ka ladka aur 20 saal ki paramedic mare, lagbhag 60 log ghayal hue; bachav dal par bhi dobara hamla hua.",
+   "category": "World",
+   "exam_angle": null,
+   "source": "News18",
+   "source_url": "https://www.news18.com/world/russia-triple-tap-strike-kills-boy-paramedic-ukraine-kryvyi-russia-ukraine-war-ws-l-10435937.html",
+   "genuineness": "verified",
+   "outlets": [
+    "News18",
+    "The Tribune",
+    "The Times of India",
+    "The Sunday Guardian"
+   ],
+   "image": null,
+   "image_credit": null
+  },
+  {
+   "id": "world-20261123-2022-04",
+   "published_ist": "2026-11-21T12:00:00+05:30",
+   "headline": "Gaza me vaahan par hamla, 3 mare",
+   "detail": "Gaza City me Shanivaar ko khaadya vaahan par Israeli hamle me 3 log mare; Gaza ne unhe sahayata-karmi bataya, jabki IDF ne kaha ve Islamic Jihad ke sadasya the; World Central Kitchen ne kaha vaahan uska nahi tha.",
+   "category": "World",
+   "exam_angle": "Gaza yuddhviram, WCK, Israel-Hamas — UPSC IR",
+   "source": "The Times of Israel",
+   "source_url": "https://www.timesofisrael.com/israeli-strike-in-gaza-city-kills-3-idf-says-it-hit-terrorists-masquerading-as-aid-workers/",
+   "genuineness": "verified",
+   "outlets": [
+    "The Times of Israel",
+    "Haaretz",
+    "Daily Sabah",
+    "TBS News"
+   ],
+   "image": null,
+   "image_credit": null
+  },
+  {
+   "id": "world-20261123-1922-01",
+   "published_ist": "2026-11-23T12:00:00+05:30",
+   "headline": "Medvedev: parmanu hathiyaar ka adhikaar",
+   "detail": "Russia ke Suraksha Parishad ke upadhyaksh Medvedev ne lekh me kaha kuchh halaton me desh ki suraksha ke liye parmanu hathiyaar istemal karna adhikaar hi nahi, zimmedari bhi hai; lekin Ukraine yuddh me abhi tak aisi seedhi zaroorat nahi bani.",
+   "category": "World",
+   "exam_angle": "Russia parmanu siddhant, ICJ 1996 salah — UPSC IR",
+   "source": "Yeni Safak",
+   "source_url": "https://en.yenisafak.com/world/medvedev-says-russia-has-right-in-some-cases-obligation-to-use-nuclear-weapons-3725901",
+   "genuineness": "verified",
+   "outlets": [
+    "Yeni Safak",
+    "TASS",
+    "Haberler",
+    "Lao Dong"
+   ],
+   "image": null,
+   "image_credit": null
+  },
+  {
+   "id": "world-20261123-1922-02",
+   "published_ist": "2026-11-23T12:00:00+05:30",
+   "headline": "Bangladesh: Hasina lauti to giraftari hogi",
+   "detail": "Bangladesh ke videsh rajya mantri Shama Obaed Islam ne Reuters ko bataya poorv PM Sheikh Hasina December me Bharat se lauti to turant giraftar karke jail bhej di jayengi; Dhaka unke pratyarpan ki maang kar raha hai.",
+   "category": "World",
+   "exam_angle": "Bangladesh-Hasina, pratyarpan sandhi, Bharat-Bangladesh sambandh — UPSC IR",
+   "source": "Reuters",
+   "source_url": "https://www.reuters.com/world/asia-pacific/bangladesh-vows-arrest-hasina-if-she-returns-india-2026-11-23/",
+   "genuineness": "corroborated",
+   "outlets": [
+    "Reuters",
+    "The Economic Times"
+   ],
+   "image": null,
+   "image_credit": null
+  },
+  {
+   "id": "world-20261123-1922-03",
+   "published_ist": "2026-11-23T14:35:00+05:30",
+   "headline": "Korea: pehli mahila jasus pramukh ka naam",
+   "detail": "Rashtrapati Lee Jae Myung ne cabinet ferbadal me poorv nyay mantri Kang Kum-sil ko National Intelligence Service ka pramukh namit kiya — pushti hui to ve 1961 se agency ki pehli mahila pramukh hongi; videsh aur ekikaran mantri bhi badle.",
+   "category": "World",
+   "exam_angle": "Dakshin Korea, NIS, America gathbandhan — UPSC IR",
+   "source": "Reuters",
+   "source_url": "https://www.reuters.com/world/asia-pacific/south-korea-nominates-new-foreign-unification-ministers-spy-chief-2026-11-23/",
+   "genuineness": "verified",
+   "outlets": [
+    "Reuters",
+    "Korea Herald",
+    "Korea Times",
+    "Yonhap",
+    "Korea JoongAng Daily"
+   ],
+   "image": null,
+   "image_credit": null
+  },
+  {
+   "id": "world-20261123-1922-04",
+   "published_ist": "2026-11-22T19:55:00+05:30",
+   "headline": "Oman khaadi me tanker-sainya ghatna",
+   "detail": "UK Maritime Trade Operations ne bataya Ravivaar shaam Oman ki khaadi me Chabahar ke paas ek tanker sainya balon ke saath ghatna me shamil hua; na jahaaz ka naam bataya gaya, na sainya bal ka, aur jaanch jaari hai.",
+   "category": "World",
+   "exam_angle": "Hormuz-Oman khaadi, samudri suraksha, US naakabandi — UPSC IR",
+   "source": "Yeni Safak",
+   "source_url": "https://en.yenisafak.com/world/ukmto-reports-tanker-incident-with-military-forces-in-gulf-of-oman-3725881",
+   "genuineness": "verified",
+   "outlets": [
+    "Bernama",
+    "Anadolu",
+    "Yeni Safak",
+    "Gulf News"
+   ],
+   "image": null,
+   "image_credit": null
+  },
+  {
+   "id": "world-20261123-1922-05",
+   "published_ist": "2026-11-23T12:00:00+05:30",
+   "headline": "Eisenkot: achanak sarkar ghoshna ki taiyaari",
+   "detail": "Yashar neta Gadi Eisenkot aane wale hafton me kabhi bhi gathbandhan sarkar ki achanak ghoshna karke 24 se 48 ghante me Knesset me matdan karane ki yojana bana rahe hain, taaki dal-badal aur saazish ka mauka na mile; Netanyahu se ekta vaarta abhi bhi atki hui hai.",
+   "category": "World",
+   "exam_angle": "Israel sarkar gathan, Knesset, gathbandhan raajneeti — UPSC IR",
+   "source": "The Times of India",
+   "source_url": "https://timesofindia.indiatimes.com/world/middle-east/political-ambush-eisenkot-plans-surprise-govt-announcement-in-israel-swift-knesset-vote-to-thwart-defections/articleshow/136092214.cms",
+   "genuineness": "verified",
+   "outlets": [
+    "The Times of India",
+    "The Economic Times",
+    "Asianet News",
+    "The Times of Israel"
+   ],
+   "image": null,
+   "image_credit": null
+  },
+  {
+   "id": "world-20261123-1822-01",
+   "published_ist": "2026-11-23T17:21:00+05:30",
+   "headline": "Zelenskyy: chaar-paksh vaarta jald ho",
+   "detail": "Berlin me NATO Parliamentary Assembly ko video sandesh me Ukraine ke rashtrapati Zelenskyy ne Ukraine, Europe, America aur Russia ke beech chaar-paksh baatchit jald karane aur NATO sadasyata ki maang dohrai; unhone kaha ballistic missile rokne wale missile godamon me dhool nahi khane chahiye.",
+   "category": "World",
+   "exam_angle": "Ukraine yuddh, NATO sadasyata, chaar-paksh vaarta — UPSC IR",
+   "source": "Free Malaysia Today",
+   "source_url": "https://www.freemalaysiatoday.com/category/world/2026/11/23/zelensky-calls-for-four-way-talks-with-russia-as-soon-as-possible",
+   "genuineness": "verified",
+   "outlets": [
+    "WION",
+    "Free Malaysia Today",
+    "The Straits Times"
+   ],
+   "image": null,
+   "image_credit": null
+  },
+  {
+   "id": "world-20261123-1822-02",
+   "published_ist": "2026-11-23T16:31:00+05:30",
+   "headline": "Germany ke 450 school ko bomb ki dhamki",
+   "detail": "Somvaar subah Germany bhar ke 450 se zyada schoolon ko email se bomb ki dhamki mili — Baden-Württemberg me sabse zyada; police ne kaha koi 'concrete danger' nahi hai aur dhamkiyan farzi mani ja rahi hain, Denmark ke schoolon ko bhi aisi hi dhamkiyan mili.",
+   "category": "World",
+   "exam_angle": null,
+   "source": "Reuters",
+   "source_url": "https://www.reuters.com/world/hundreds-german-schools-received-bomb-threats-bild-reports-2026-11-23/",
+   "genuineness": "verified",
+   "outlets": [
+    "Reuters",
+    "Gulf News",
+    "Khaleej Times",
+    "The Straits Times",
+    "The Jerusalem Post"
+   ],
+   "image": null,
+   "image_credit": null
+  },
+  {
+   "id": "world-20261123-1822-03",
+   "published_ist": "2026-11-23T15:41:00+05:30",
+   "headline": "PKK ne Iraq me 14 aur thikaane khaali kiye",
+   "detail": "Turkey ke suraksha sutron ne bataya PKK ne uttari Iraq ke Hakurk kshetra me 18 November tak 14 aur shelter khaali kar diye hain; October me Metina ke 4 thikaanon ke saath kul 18 ho gaye, aur khaali gufaon ko Turkey ki sena anupayogi bana degi.",
+   "category": "World",
+   "exam_angle": "Turkey-PKK shanti prakriya, Kurd mudda — UPSC IR",
+   "source": "Hürriyet Daily News",
+   "source_url": "https://www.hurriyetdailynews.com/pkk-evacuates-additional-positions-in-northern-iraq-security-officials-229750",
+   "genuineness": "verified",
+   "outlets": [
+    "Hürriyet Daily News",
+    "LBC Group",
+    "Kurdistan24",
+    "Haberler"
+   ],
+   "image": null,
+   "image_credit": null
+  },
+  {
+   "id": "world-20261123-1822-04",
+   "published_ist": "2026-11-23T17:41:00+05:30",
+   "headline": "Trump: naakabandi todi to jahaaz doobenge",
+   "detail": "America ke rashtrapati Trump ne chetavni di hai ki Iran ke jahaaz agar US naakabandi todne ki koshish karenge to unhe dooboya ja sakta hai, aur naye saal tak samjhota na hua to naye hamle ho sakte hain; Iran ne kaha US shartein maane to Hormuz 'sabse kam samay' me khul sakta hai.",
+   "category": "World",
+   "exam_angle": "US-Iran tanav, Hormuz jalmarg, urja suraksha — UPSC IR",
+   "source": "Gulf News",
+   "source_url": "https://gulfnews.com/world/mena/trump-threatens-to-sink-iranian-vessels-as-us-strikes-oil-tanker-ghalibaf-calls-for-lasting-security-1.500757421",
+   "genuineness": "verified",
+   "outlets": [
+    "Gulf News",
+    "ABP Live",
+    "IRNA",
+    "Arab News",
+    "Daily Sabah"
+   ],
+   "image": null,
+   "image_credit": null
+  },
+  {
+   "id": "world-20261123-1722-01",
+   "published_ist": "2026-11-23T11:30:00+05:30",
+   "headline": "Belgium me hadtaal, saare airport band",
+   "detail": "Belgium me somvaar ko deshvyaapi hadtaal aur austerity-virodhi pradarshan ke kaaran subah 7 se raat 9 baje tak saari udanein radd rahi; hazaaron yatri prabhavit hue, unions €10 arab ki katauti ka virodh kar rahi hain.",
+   "category": "World",
+   "exam_angle": "Belgium hadtaal, €10 arab katauti, EU rajneeti — UPSC IR",
+   "source": "Al Jazeera",
+   "source_url": "https://www.aljazeera.com/news/2026/11/23/belgiums-airports-set-to-shut-down-due-to-anti-austerity-strike",
+   "genuineness": "verified",
+   "outlets": [
+    "Al Jazeera",
+    "News18",
+    "Aviation Today",
+    "The Aviation Hub"
+   ],
+   "image": null,
+   "image_credit": null
+  },
+  {
+   "id": "world-20261123-1722-02",
+   "published_ist": "2026-11-23T03:30:00+05:30",
+   "headline": "Manchester concert me gas, 12,000 nikale gaye",
+   "detail": "Ravivaar raat Manchester ke Co-op Live arena me Don Toliver ke concert ke dauraan agyaat padarth — shuru me aansu gas mana gaya — chhoda gaya; 12,000 se zyada darshak nikale gaye, 50 se zyada ka ilaaj hua aur ek vyakti aspatal me bharti hai.",
+   "category": "World",
+   "exam_angle": null,
+   "source": "Reuters",
+   "source_url": "https://www.reuters.com/world/uk/don-toliver-concert-manchester-evacuated-after-unknown-substance-released-police-2026-11-23/",
+   "genuineness": "verified",
+   "outlets": [
+    "Reuters",
+    "CNN",
+    "The Times",
+    "NME"
+   ],
+   "image": null,
+   "image_credit": null
+  },
+  {
+   "id": "world-20261123-1622-01",
+   "published_ist": "2026-11-23T15:20:00+05:30",
+   "headline": "Iran: US naakabandi ka har tareeke se saamna",
+   "detail": "Iran ke videsh mantralaya ke pravakta Esmaeil Baghaei ne somvaar ko kaha Iran America ki nausena naakabandi ka saamna 'uplabdh sabhi saadhano' se karega; unhone kaha agar America shartein maane to Hormuz jalmaarg me suraksha jaldi bahaal ho sakti hai.",
+   "category": "World",
+   "exam_angle": "Hormuz jalmaarg, nausena naakabandi, UN Charter Article 51 — UPSC IR",
+   "source": "Reuters",
+   "source_url": "https://www.reuters.com/world/middle-east/iran-says-it-will-use-all-available-tools-confront-us-naval-blockade-2026-11-23/",
+   "genuineness": "verified",
+   "outlets": [
+    "Reuters",
+    "Al Jazeera",
+    "Arab News",
+    "The Straits Times"
+   ],
+   "image": null,
+   "image_credit": null
+  }
+ ]
 }
