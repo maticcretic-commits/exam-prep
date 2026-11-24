@@ -1,6 +1,61 @@
 {
-  "updated_ist": "2026-11-24T17:23:23+05:30",
+  "updated_ist": "2026-11-24T18:25:38+05:30",
   "items": [
+    {
+      "id": "world-20261124-1822-01",
+      "published_ist": "2026-11-24T12:30:00+05:30",
+      "headline": "Serbia school me golibari, 2 ghayal",
+      "detail": "Kragujevac ke First Technical School me 17 saal ke chhatra ne rifle se goli chalayi; ek karmchari ko goli lagi, dusra kanch se ghayal hua, koi chhatra ghayal nahi hua aur hamlaawar giraftaar hai.",
+      "category": "World",
+      "exam_angle": null,
+      "source": "Associated Press",
+      "source_url": "https://www.ottumwacourier.com/news/national_news/serbian-police-arrest-a-17-year-old-after-shots-fired-at-a-high-school/article_7c592f46-3d20-5178-ab77-37145e0afe16.html",
+      "genuineness": "verified",
+      "outlets": [
+        "Associated Press",
+        "Xinhua",
+        "WION"
+      ],
+      "image": null,
+      "image_credit": null
+    },
+    {
+      "id": "world-20261124-1822-02",
+      "published_ist": "2026-11-24T12:00:00+05:30",
+      "headline": "Iraq ne Kurdistan ke tel-kshetra par kabza liya",
+      "detail": "PM Ali al-Zaidi ne tel taskari jaanch ke baad Kurdistan ke saare border crossing aur 4 pranton ke tel-kshetra sanghiya niyantran me lene ka aadesh diya; Kurdistan ke PM ne is faisle ko kharij kar diya.",
+      "category": "World",
+      "exam_angle": "Iraq-Kurdistan tel vivad - West Asia IR",
+      "source": "Al Jazeera",
+      "source_url": "https://www.aljazeera.com/news/2026/11/24/iraq-orders-takeover-of-oilfields-in-areas-under-kurdish-control",
+      "genuineness": "verified",
+      "outlets": [
+        "Al Jazeera",
+        "Reuters",
+        "Arab News",
+        "Rudaw"
+      ],
+      "image": null,
+      "image_credit": null
+    },
+    {
+      "id": "world-20261124-1822-03",
+      "published_ist": "2026-11-21T08:31:00+05:30",
+      "headline": "Honda ne 8.1 lakh gaadiyaan wapas bulayi",
+      "detail": "America me Honda ne 8,10,592 purani gaadiyon ko Takata airbag inflator ke fatne ke khatre par wapas bulaya; Toyota ne bhi duniya bhar me 7.9 lakh gaadiyaan wapas bulayi, koi haadsa nahi hua.",
+      "category": "World",
+      "exam_angle": null,
+      "source": "Nikkei Asia",
+      "source_url": "https://asia.nikkei.com/business/automobiles/honda-toyota-recall-1.6m-vehicles-over-takata-airbag-rupture-risk",
+      "genuineness": "verified",
+      "outlets": [
+        "Reuters",
+        "USA Today",
+        "Business Standard"
+      ],
+      "image": null,
+      "image_credit": null
+    },
     {
       "id": "world-20261124-1723-01",
       "published_ist": "2026-11-24T14:47:00+05:30",
@@ -377,62 +432,6 @@
         "Reuters",
         "Al Jazeera",
         "Vijesti"
-      ],
-      "image": null,
-      "image_credit": null
-    },
-    {
-      "id": "world-20261124-1222-02",
-      "published_ist": "2026-11-23T12:00:00+05:30",
-      "headline": "Germany ke 450 schools ko bomb ki dhamki",
-      "detail": "Somvaar subah Germany ke 450 se zyada schools ko 'Death awaits you' vishay wale email se bomb ki dhamki mili; police ko koi vaastavik khatra nahi mila aur Denmark ke schools ko bhi aisi dhamki mili.",
-      "category": "World",
-      "exam_angle": "Europe me hybrid warfare aur afwah",
-      "source": "Reuters",
-      "source_url": "https://www.reuters.com/world/hundreds-german-schools-received-bomb-threats-bild-reports-2026-11-23/",
-      "genuineness": "verified",
-      "outlets": [
-        "Reuters",
-        "Dawn",
-        "Qatar Tribune",
-        "Ynet"
-      ],
-      "image": null,
-      "image_credit": null
-    },
-    {
-      "id": "world-20261124-1222-03",
-      "published_ist": "2026-11-23T12:00:00+05:30",
-      "headline": "Gaza ke ghayal bachche UK ilaaj ko pahunche",
-      "detail": "Gaza se gambhir roop se ghayal bachchon ka doosra samooh UK pahuncha, jahan NHS aspatalon me unka vishesh ilaaj hoga; pichhle saal bhi 50 bachche ilaaj ke liye laaye gaye the.",
-      "category": "World",
-      "exam_angle": "Gaza manaviya sankat: chikitsa nikasi",
-      "source": "The National",
-      "source_url": "https://www.thenationalnews.com/news/uk/2026/11/24/gazan-children-arrive-for-treatment-in-the-uk/",
-      "genuineness": "verified",
-      "outlets": [
-        "The National",
-        "Arab News",
-        "Qatar Tribune",
-        "GOV.UK"
-      ],
-      "image": null,
-      "image_credit": null
-    },
-    {
-      "id": "world-20261124-1124-01",
-      "published_ist": "2026-11-24T12:00:00+05:30",
-      "headline": "Hasina 16 December ko Bangladesh lautengi",
-      "detail": "Do saal se zyada ke nirvaasan ke baad poorv PM Sheikh Hasina ne 16 December ko Dhaka lautne ki yojana ghoshit ki; unhone sarkar se Biman Bangladesh Airlines se Delhi se Dhaka ki udaan ki maang ki hai, jabki Dhaka ne kaha hai ki lautne par unhe giraftaar kiya jayega.",
-      "category": "World",
-      "exam_angle": "Bangladesh: Hasina ki wapsi aur Victory Day",
-      "source": "Reuters",
-      "source_url": "https://www.reuters.com/world/asia-pacific/sheikh-hasina-seeks-return-bangladesh-december-16-state-carrier-2026-11-24/",
-      "genuineness": "verified",
-      "outlets": [
-        "Reuters",
-        "The Hindu",
-        "The Times of India"
       ],
       "image": null,
       "image_credit": null
