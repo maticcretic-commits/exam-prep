@@ -131,6 +131,81 @@
    ],
    "image": null,
    "image_credit": null
+  },
+  {
+   "id": "world-20261124-0822-01",
+   "published_ist": "2026-11-23T17:10:00+05:30",
+   "headline": "Manchester concert me gas, 12,000 nikale",
+   "detail": "Don Toliver ke show ke dauran Co-op Live arena me 'agyat padarth' chhoda gaya; 12,000 se zyada log nikale gaye, 50 se zyada logon ka ilaaj hua aur ek ko aspatal le jaya gaya, jaanch jaari hai.",
+   "category": "World",
+   "exam_angle": null,
+   "source": "CNN",
+   "source_url": "https://www.cnn.com/2026/11/23/europe/manchester-coop-live-tear-gas-don-toliver-hnk-intl?cid=external-feeds_iluminar_meta",
+   "genuineness": "verified",
+   "outlets": [
+    "CNN",
+    "The Times",
+    "RTHK",
+    "Channel NewsAsia"
+   ],
+   "image": null,
+   "image_credit": null
+  },
+  {
+   "id": "world-20261124-0822-02",
+   "published_ist": "2026-11-23T12:01:00+05:30",
+   "headline": "Kyiv kshetra me hamle, 15 mare",
+   "detail": "Dymer me paanch-manzila imarat par hamle me 11, Vyshneve supermarket me 3 aur Bila Tserkva me 1 vyakti mara; Zelenskyy ne America se Patriot missile ki maang dohrai.",
+   "category": "World",
+   "exam_angle": "Russia-Ukraine yuddh, nagrik nuksan, Patriot — UPSC IR",
+   "source": "Al Jazeera",
+   "source_url": "https://www.aljazeera.com/news/2026/11/23/death-toll-rises-after-deadly-russian-attacks-on-ukraine",
+   "genuineness": "verified",
+   "outlets": [
+    "Al Jazeera",
+    "Dawn",
+    "The Hindu",
+    "South China Morning Post"
+   ],
+   "image": null,
+   "image_credit": null
+  },
+  {
+   "id": "world-20261124-0822-03",
+   "published_ist": "2026-11-23T12:00:00+05:30",
+   "headline": "Russia ke parmanu upgrah par NATO satark",
+   "detail": "German media ki report ke mutabik Russia 'Sputnik-S' parmanu hathiyaar wala upgrah kuchh hafton me launch kar sakta hai; NATO pramukh Rutte ne antariksh me raksha ka bharosa diya, Kremlin ne aarop kharij kiye.",
+   "category": "World",
+   "exam_angle": "Antariksh hathiyaar, Outer Space Treaty 1967 — UPSC IR/S&T",
+   "source": "Reuters",
+   "source_url": "https://www.reuters.com/business/aerospace-defense/nato-believes-russia-is-ready-launch-nuclear-armed-satellite-german-media-say-2026-11-23/",
+   "genuineness": "verified",
+   "outlets": [
+    "Reuters",
+    "The Straits Times",
+    "Fox News",
+    "The Japan Times"
+   ],
+   "image": null,
+   "image_credit": null
+  },
+  {
+   "id": "world-20261124-0822-04",
+   "published_ist": "2026-11-22T12:00:00+05:30",
+   "headline": "Democrats ko 1992 ke baad sabse badi jeet",
+   "detail": "North Carolina ki seat jeetne ke baad Democrats ke paas House me kam se kam 258 seatein hain — 1992 ke baad sabse zyada; Senate me bhi 56 seatein, 3 January ko shapath.",
+   "category": "World",
+   "exam_angle": "America madhyaavdhi chunav, Congress, vibhajit sarkar — UPSC IR",
+   "source": "Al Jazeera",
+   "source_url": "https://www.aljazeera.com/amp/news/2026/11/22/democrats-win-largest-house-majority-since-1992-with-north-carolina-seat",
+   "genuineness": "verified",
+   "outlets": [
+    "Al Jazeera",
+    "The New Indian Express",
+    "South China Morning Post"
+   ],
+   "image": null,
+   "image_credit": null
   }
  ]
 }
