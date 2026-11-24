@@ -1,6 +1,81 @@
 {
- "updated_ist": "2026-11-24T06:30:47+05:30",
+ "updated_ist": "2026-11-24T07:26:00+05:30",
  "items": [
+  {
+   "id": "world-20261124-0726-01",
+   "published_ist": "2026-11-23T12:00:00+05:30",
+   "headline": "EU ka Russia par 22va pratibandh package",
+   "detail": "European Commission ne 60 Russian banks ko SWIFT se hatane, crypto aur shadow fleet par sakht pratibandh ka prastav rakha; sabhi 27 deshon ki sahamati zaroori.",
+   "category": "World",
+   "exam_angle": "UPSC: EU pratibandh, SWIFT, shadow fleet — Bharat-Russia vyapar par asar",
+   "source": "Reuters",
+   "source_url": "https://www.reuters.com/business/finance/eu-commission-proposes-22nd-sanctions-package-russia-2026-11-23/",
+   "genuineness": "verified",
+   "outlets": [
+    "Reuters",
+    "Al Jazeera",
+    "Kyiv Independent",
+    "European Commission"
+   ],
+   "image": null,
+   "image_credit": null
+  },
+  {
+   "id": "world-20261124-0726-02",
+   "published_ist": "2026-11-19T12:00:00+05:30",
+   "headline": "ICJ: Myanmar ne Rohingya par narsanhar kiya",
+   "detail": "9-6 faisle me court ne 2017 ke sainya abhiyan ko narsanhar mana; pehli baar kisi desh ko doshi thahraya gaya aur vapsi aur muavze ka aadesh diya.",
+   "category": "World",
+   "exam_angle": "UPSC: ICJ, Genocide Convention, Gambia v. Myanmar — pehla state-responsibility faisla",
+   "source": "AP",
+   "source_url": "https://religionnews.com/2026/11/23/for-the-first-time-uns-highest-court-finds-a-country-responsible-for-genocide-myanmar/",
+   "genuineness": "verified",
+   "outlets": [
+    "AP",
+    "Indian Express",
+    "Just Security",
+    "The Daily Star"
+   ],
+   "image": "../images/world/world-20261124-0726-02.jpg",
+   "image_credit": "International Court of Justice; originally uploaded by Yeu Ninje at en.wikipedia — Public domain (Wikimedia Commons)"
+  },
+  {
+   "id": "world-20261124-0726-03",
+   "published_ist": "2026-11-23T12:00:00+05:30",
+   "headline": "Ukraine ne Libya me Russian yuddhapot duboya",
+   "detail": "Ravivar ko samudri drone se Libiya bandargah me Russian korvet duboya gaya; Zelenskyy ne pushti ki, yuddh ka daira Europe se bahar badha.",
+   "category": "World",
+   "exam_angle": "UPSC: Ukraine yuddh ka daira — Libya, samudri drone yuddh",
+   "source": "Reuters",
+   "source_url": "https://www.devdiscourse.com/article/international/4011043-reuters-world-news-summary",
+   "genuineness": "verified",
+   "outlets": [
+    "Reuters",
+    "The Japan Times",
+    "WH News"
+   ],
+   "image": null,
+   "image_credit": null
+  },
+  {
+   "id": "world-20261124-0726-04",
+   "published_ist": "2026-11-22T12:00:00+05:30",
+   "headline": "COP31 bina samjhaute ke khatm",
+   "detail": "Antalya me jeevashm indhan ka ullekh na karne wale draft ko EU aur 130 deshon ne kharij kar diya; vaarta bina antim ghoshna ke samapt hui.",
+   "category": "World",
+   "exam_angle": "UPSC: COP31, jeevashm indhan phase-out, jalvayu vitt — Bharat ke liye sabak",
+   "source": "Al Jazeera",
+   "source_url": "https://www.aljazeera.com/amp/news/2026/11/23/cop31-what-next-after-un-climate-talks-collapse",
+   "genuineness": "verified",
+   "outlets": [
+    "Reuters",
+    "Al Jazeera",
+    "Frontline (The Hindu)",
+    "swissinfo"
+   ],
+   "image": null,
+   "image_credit": null
+  },
   {
    "id": "world-20261124-0622-01",
    "published_ist": "2026-11-24T04:22:00+05:30",
@@ -388,83 +463,6 @@
     "LBC Group",
     "Kurdistan24",
     "Haberler"
-   ],
-   "image": null,
-   "image_credit": null
-  },
-  {
-   "id": "world-20261123-1822-04",
-   "published_ist": "2026-11-23T17:41:00+05:30",
-   "headline": "Trump: naakabandi todi to jahaaz doobenge",
-   "detail": "America ke rashtrapati Trump ne chetavni di hai ki Iran ke jahaaz agar US naakabandi todne ki koshish karenge to unhe dooboya ja sakta hai, aur naye saal tak samjhota na hua to naye hamle ho sakte hain; Iran ne kaha US shartein maane to Hormuz 'sabse kam samay' me khul sakta hai.",
-   "category": "World",
-   "exam_angle": "US-Iran tanav, Hormuz jalmarg, urja suraksha — UPSC IR",
-   "source": "Gulf News",
-   "source_url": "https://gulfnews.com/world/mena/trump-threatens-to-sink-iranian-vessels-as-us-strikes-oil-tanker-ghalibaf-calls-for-lasting-security-1.500757421",
-   "genuineness": "verified",
-   "outlets": [
-    "Gulf News",
-    "ABP Live",
-    "IRNA",
-    "Arab News",
-    "Daily Sabah"
-   ],
-   "image": null,
-   "image_credit": null
-  },
-  {
-   "id": "world-20261123-1722-01",
-   "published_ist": "2026-11-23T11:30:00+05:30",
-   "headline": "Belgium me hadtaal, saare airport band",
-   "detail": "Belgium me somvaar ko deshvyaapi hadtaal aur austerity-virodhi pradarshan ke kaaran subah 7 se raat 9 baje tak saari udanein radd rahi; hazaaron yatri prabhavit hue, unions €10 arab ki katauti ka virodh kar rahi hain.",
-   "category": "World",
-   "exam_angle": "Belgium hadtaal, €10 arab katauti, EU rajneeti — UPSC IR",
-   "source": "Al Jazeera",
-   "source_url": "https://www.aljazeera.com/news/2026/11/23/belgiums-airports-set-to-shut-down-due-to-anti-austerity-strike",
-   "genuineness": "verified",
-   "outlets": [
-    "Al Jazeera",
-    "News18",
-    "Aviation Today",
-    "The Aviation Hub"
-   ],
-   "image": null,
-   "image_credit": null
-  },
-  {
-   "id": "world-20261123-1722-02",
-   "published_ist": "2026-11-23T03:30:00+05:30",
-   "headline": "Manchester concert me gas, 12,000 nikale gaye",
-   "detail": "Ravivaar raat Manchester ke Co-op Live arena me Don Toliver ke concert ke dauraan agyaat padarth — shuru me aansu gas mana gaya — chhoda gaya; 12,000 se zyada darshak nikale gaye, 50 se zyada ka ilaaj hua aur ek vyakti aspatal me bharti hai.",
-   "category": "World",
-   "exam_angle": null,
-   "source": "Reuters",
-   "source_url": "https://www.reuters.com/world/uk/don-toliver-concert-manchester-evacuated-after-unknown-substance-released-police-2026-11-23/",
-   "genuineness": "verified",
-   "outlets": [
-    "Reuters",
-    "CNN",
-    "The Times",
-    "NME"
-   ],
-   "image": null,
-   "image_credit": null
-  },
-  {
-   "id": "world-20261123-1622-01",
-   "published_ist": "2026-11-23T15:20:00+05:30",
-   "headline": "Iran: US naakabandi ka har tareeke se saamna",
-   "detail": "Iran ke videsh mantralaya ke pravakta Esmaeil Baghaei ne somvaar ko kaha Iran America ki nausena naakabandi ka saamna 'uplabdh sabhi saadhano' se karega; unhone kaha agar America shartein maane to Hormuz jalmaarg me suraksha jaldi bahaal ho sakti hai.",
-   "category": "World",
-   "exam_angle": "Hormuz jalmaarg, nausena naakabandi, UN Charter Article 51 — UPSC IR",
-   "source": "Reuters",
-   "source_url": "https://www.reuters.com/world/middle-east/iran-says-it-will-use-all-available-tools-confront-us-naval-blockade-2026-11-23/",
-   "genuineness": "verified",
-   "outlets": [
-    "Reuters",
-    "Al Jazeera",
-    "Arab News",
-    "The Straits Times"
    ],
    "image": null,
    "image_credit": null
