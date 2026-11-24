@@ -1,447 +1,445 @@
 {
- "updated_ist": "2026-11-24T13:25:01+05:30",
- "items": [
-  {
-   "id": "world-20261124-1322-01",
-   "published_ist": "2026-11-24T12:00:00+05:30",
-   "headline": "UAE me bus-truck takkar, 11 mare",
-   "detail": "Ras Al Khaimah me Al Watan Road par bus aur truck ki takkar me 11 log mare; jaanch jaari hai.",
-   "category": "World",
-   "exam_angle": null,
-   "source": "Reuters",
-   "source_url": "https://www.reuters.com/world/bus-truck-collision-kills-11-uaes-ras-al-khaimah-2026-11-24/",
-   "genuineness": "verified",
-   "outlets": [
-    "Reuters",
-    "Gulf News",
-    "Khaleej Times",
-    "Dawn"
-   ],
-   "image": null,
-   "image_credit": null
-  },
-  {
-   "id": "world-20261124-1322-02",
-   "published_ist": "2026-11-24T12:00:00+05:30",
-   "headline": "Indonesia: poorv police chief par deshdroh ka aarop",
-   "detail": "Indonesia police ne poorv police chief Listyo Sigit Prabowo samet 6 adhikariyon par rashtrapati ki jasusi aur deshdroh ka aarop lagaya; doshi paye jaane par maut ki saza tak ho sakti hai.",
-   "category": "World",
-   "exam_angle": "Deshdroh kanoon aur uski saza — Bharat ke BNS se tulna",
-   "source": "Reuters",
-   "source_url": "https://www.reuters.com/world/asia-pacific/indonesia-charges-ex-police-chief-with-treason-aimed-undermining-president-2026-11-24/",
-   "genuineness": "verified",
-   "outlets": [
-    "Reuters",
-    "The Straits Times",
-    "AP"
-   ],
-   "image": null,
-   "image_credit": null
-  },
-  {
-   "id": "world-20261124-1322-03",
-   "published_ist": "2026-11-24T12:00:00+05:30",
-   "headline": "Trump kal NATO chief Rutte se milenge",
-   "detail": "White House ne kaha Trump budhwar ko Florida me NATO mahasachiv Mark Rutte se milenge; Putin aur Xi se mulakaat ke baad Ukraine par charcha hogi.",
-   "category": "World",
-   "exam_angle": "NATO aur Ukraine vaarta — antarrashtriya sambandh",
-   "source": "Reuters",
-   "source_url": "https://www.reuters.com/world/china/trump-meet-nato-chief-mark-rutte-wednesday-white-house-says-2026-11-24/",
-   "genuineness": "corroborated",
-   "outlets": [
-    "Reuters",
-    "White House"
-   ],
-   "image": null,
-   "image_credit": null
-  },
-  {
-   "id": "world-20261124-1322-04",
-   "published_ist": "2026-11-23T12:00:00+05:30",
-   "headline": "Tajikistan ne ICC chhodne ki prakriya shuru ki",
-   "detail": "Tajikistan ICC se hatne wala chauntha desh bana; America ke dabav ke baad Chad, Venezuela aur Naoero bhi peeche hate.",
-   "category": "World",
-   "exam_angle": "ICC aur Rome Statute — antarrashtriya kanoon",
-   "source": "Reuters",
-   "source_url": "https://www.reuters.com/world/asia-pacific/tajikistan-becomes-fourth-country-withdraw-icc-since-us-diplomatic-push-2026-11-23/",
-   "genuineness": "verified",
-   "outlets": [
-    "Reuters",
-    "Al Jazeera",
-    "ICC"
-   ],
-   "image": null,
-   "image_credit": null
-  },
-  {
-   "id": "world-20261124-1322-05",
-   "published_ist": "2026-11-24T12:00:00+05:30",
-   "headline": "Amnesty: Tigray golabari yuddh apraadh ho sakti hai",
-   "detail": "Amnesty ne kaha Ethiopia ki sena ne Tigray ke Alamata me nagrik bastiyon par golabari ki; 14 nagrikon ki maut ki pushti hui, jaanch yuddh apraadh ke roop me honi chahiye.",
-   "category": "World",
-   "exam_angle": "Yuddh apraadh aur antarrashtriya manavtavadi kanoon",
-   "source": "Reuters",
-   "source_url": "https://www.reuters.com/world/ethiopian-shelling-of-tigray-town-should-be-investigated-possible-war-crimes-2026-11-24/",
-   "genuineness": "verified",
-   "outlets": [
-    "Amnesty International",
-    "Reuters"
-   ],
-   "image": null,
-   "image_credit": null
-  },
-  {
-   "id": "world-20261124-1222-01",
-   "published_ist": "2026-11-23T12:00:00+05:30",
-   "headline": "Russia ki Estonia ko khule yuddh ki chetavni",
-   "detail": "Russia ke videsh mantralaya ne Estonia par 'khule yuddh' ke kagaar par hone ka aarop lagaya; Estonia 1 December se Russia se seema band kar raha hai aur aaropon ko kharij karta hai.",
-   "category": "World",
-   "exam_angle": "NATO–Russia tanaav: Baltic suraksha",
-   "source": "Reuters",
-   "source_url": "https://www.reuters.com/world/moscow-accuses-estonia-hostile-actions-verge-triggering-open-war-2026-11-23/",
-   "genuineness": "verified",
-   "outlets": [
-    "Reuters",
-    "Al Jazeera",
-    "Vijesti"
-   ],
-   "image": null,
-   "image_credit": null
-  },
-  {
-   "id": "world-20261124-1222-02",
-   "published_ist": "2026-11-23T12:00:00+05:30",
-   "headline": "Germany ke 450 schools ko bomb ki dhamki",
-   "detail": "Somvaar subah Germany ke 450 se zyada schools ko 'Death awaits you' vishay wale email se bomb ki dhamki mili; police ko koi vaastavik khatra nahi mila aur Denmark ke schools ko bhi aisi dhamki mili.",
-   "category": "World",
-   "exam_angle": "Europe me hybrid warfare aur afwah",
-   "source": "Reuters",
-   "source_url": "https://www.reuters.com/world/hundreds-german-schools-received-bomb-threats-bild-reports-2026-11-23/",
-   "genuineness": "verified",
-   "outlets": [
-    "Reuters",
-    "Dawn",
-    "Qatar Tribune",
-    "Ynet"
-   ],
-   "image": null,
-   "image_credit": null
-  },
-  {
-   "id": "world-20261124-1222-03",
-   "published_ist": "2026-11-23T12:00:00+05:30",
-   "headline": "Gaza ke ghayal bachche UK ilaaj ko pahunche",
-   "detail": "Gaza se gambhir roop se ghayal bachchon ka doosra samooh UK pahuncha, jahan NHS aspatalon me unka vishesh ilaaj hoga; pichhle saal bhi 50 bachche ilaaj ke liye laaye gaye the.",
-   "category": "World",
-   "exam_angle": "Gaza manaviya sankat: chikitsa nikasi",
-   "source": "The National",
-   "source_url": "https://www.thenationalnews.com/news/uk/2026/11/24/gazan-children-arrive-for-treatment-in-the-uk/",
-   "genuineness": "verified",
-   "outlets": [
-    "The National",
-    "Arab News",
-    "Qatar Tribune",
-    "GOV.UK"
-   ],
-   "image": null,
-   "image_credit": null
-  },
-  {
-   "id": "world-20261124-1124-01",
-   "published_ist": "2026-11-24T12:00:00+05:30",
-   "headline": "Hasina 16 December ko Bangladesh lautengi",
-   "detail": "Do saal se zyada ke nirvaasan ke baad poorv PM Sheikh Hasina ne 16 December ko Dhaka lautne ki yojana ghoshit ki; unhone sarkar se Biman Bangladesh Airlines se Delhi se Dhaka ki udaan ki maang ki hai, jabki Dhaka ne kaha hai ki lautne par unhe giraftaar kiya jayega.",
-   "category": "World",
-   "exam_angle": "Bangladesh: Hasina ki wapsi aur Victory Day",
-   "source": "Reuters",
-   "source_url": "https://www.reuters.com/world/asia-pacific/sheikh-hasina-seeks-return-bangladesh-december-16-state-carrier-2026-11-24/",
-   "genuineness": "verified",
-   "outlets": [
-    "Reuters",
-    "The Hindu",
-    "The Times of India"
-   ],
-   "image": null,
-   "image_credit": null
-  },
-  {
-   "id": "world-20261124-1124-02",
-   "published_ist": "2026-11-24T07:02:00+05:30",
-   "headline": "Nepal me 5.3 ka bhukamp, Bharat tak jhatke",
-   "detail": "Mangalvaar subah 7:02 baje Nepal ke Koshi pradesh me 5.3 teevrata ka bhukamp aaya; uttar Bengal, Sikkim, Bhutan aur Bangladesh tak jhatke mehsoos hue aur log ghar se bahar nikle.",
-   "category": "World",
-   "exam_angle": "Himalaya me bhukamp — aapda prabandhan",
-   "source": "Reuters",
-   "source_url": "https://www.reuters.com/business/environment/magnitude-53-earthquake-strikes-nepals-koshi-province-emsc-says-2026-11-24/",
-   "genuineness": "verified",
-   "outlets": [
-    "Reuters",
-    "The Hindu",
-    "NDTV"
-   ],
-   "image": null,
-   "image_credit": null
-  },
-  {
-   "id": "world-20261124-1124-03",
-   "published_ist": "2026-11-24T12:00:00+05:30",
-   "headline": "Shenzhou-24: pehla videshi yantri Tiangong jayega",
-   "detail": "China ka Shenzhou-24 yaan Budhvaar subah 8:18 baje Beijing samay par Tiangong station ke liye udega; Pakistani payload specialist Muhammad Zeeshan Ali station par jaane wale pehle videshi yantri banege aur lagbhag ek hafta wahaan rahenge.",
-   "category": "World",
-   "exam_angle": "China ka antariksh station, pehla videshi yantri",
-   "source": "Reuters",
-   "source_url": "https://www.reuters.com/science/china-launch-shenzhou-24-spaceship-with-first-foreign-astronaut-2026-11-24/",
-   "genuineness": "verified",
-   "outlets": [
-    "Reuters",
-    "Dawn",
-    "The Straits Times"
-   ],
-   "image": null,
-   "image_credit": null
-  },
-  {
-   "id": "world-20261124-1124-04",
-   "published_ist": "2026-11-24T12:00:00+05:30",
-   "headline": "IRGC ka dawa: Hormuz me 3 tanker mine se takraye",
-   "detail": "Iran ki Revolutionary Guard ne dawa kiya ki Hormuz jaldamroomadhya me teen tel tanker samudri mine se takrakar aag ki lapet me aa gaye; is dawe ki swatantra pushti abhi baaki hai aur US Central Command ne koi pratikriya nahi di hai.",
-   "category": "World",
-   "exam_angle": "Hormuz — duniya ki tel supply ka raasta",
-   "source": "Al Jazeera",
-   "source_url": "https://www.aljazeera.com/amp/news/liveblog/2026/11/24/iran-war-live-iran-says-three-ships-catch-fire-after-hitting-hormuz-mines",
-   "genuineness": "corroborated",
-   "outlets": [
-    "Al Jazeera",
-    "Rudaw",
-    "The National"
-   ],
-   "image": null,
-   "image_credit": null
-  },
-  {
-   "id": "world-20261124-1022-01",
-   "published_ist": "2026-11-23T12:00:00+05:30",
-   "headline": "Indonesia factory aag me 24 mare",
-   "detail": "Banten ki candy factory me Shanivaar shaam lagi aag me 24 log mare, lagbhag 30 laapata hain; AC short circuit se aag lagne ki aashanka hai.",
-   "category": "World",
-   "exam_angle": "Factory aag me 24 mare, 30 laapata — aapda prabandhan",
-   "source": "Al Jazeera",
-   "source_url": "https://www.aljazeera.com/news/2026/11/23/indonesian-police-remove-24-body-bags-from-factory-fire-site",
-   "genuineness": "verified",
-   "outlets": [
-    "Al Jazeera",
-    "Channel News Asia",
-    "The Hindu",
-    "TRT World"
-   ],
-   "image": null,
-   "image_credit": null
-  },
-  {
-   "id": "world-20261124-1022-02",
-   "published_ist": "2026-11-24T06:00:00+05:30",
-   "headline": "Zaporizhzhia hamle me 2 mare, 22 ghayal",
-   "detail": "Raat bhar ke hamle me Zaporizhzhia ki paanch-manzila imarat ko nuksan pahuncha; 2 log mare, 22 ghayal hue jinme 6 aur 16 saal ke do bachche bhi hain, adhikariyon ne bataya.",
-   "category": "World",
-   "exam_angle": null,
-   "source": "Reuters",
-   "source_url": "https://www.reuters.com/world/russian-attack-kills-2-people-wounds-22-ukraines-zaporizhzhia-official-says-2026-11-24/",
-   "genuineness": "verified",
-   "outlets": [
-    "Reuters",
-    "Kyiv Independent",
-    "Ukrinform"
-   ],
-   "image": "../images/world/world-20261124-1022-02.jpg",
-   "image_credit": "Kyiv Independent"
-  },
-  {
-   "id": "world-20261124-1022-03",
-   "published_ist": "2026-11-23T12:00:00+05:30",
-   "headline": "Iran me gaayika ko 74 kode",
-   "detail": "Gaayika Parastoo Ahmadi aur unki team ke chaar sadasyon ko bina hijab online concert karne par Qom me 74-74 kode mare gaye; kalatmak gatividhiyon aur yatra par do saal ki rok bhi lagi.",
-   "category": "World",
-   "exam_angle": "Iran, hijab kanoon aur mahila adhikar — UPSC",
-   "source": "Al Jazeera",
-   "source_url": "https://www.aljazeera.com/news/2026/11/23/iran-flogs-singer-parastoo-ahmadi-for-performing-without-headscarf",
-   "genuineness": "verified",
-   "outlets": [
-    "Al Jazeera",
-    "Reuters",
-    "CNN"
-   ],
-   "image": null,
-   "image_credit": null
-  },
-  {
-   "id": "world-20261124-0922-01",
-   "published_ist": "2026-11-24T06:00:00+05:30",
-   "headline": "Gukesh-Sindarov: sabse yuva chess final",
-   "detail": "Vishwa Chess Championship ka pehla game aaj Geneva me khela jayega; dono khiladi 20 saal ke hain, itihaas ka sabse yuva final hai.",
-   "category": "World",
-   "exam_angle": "Vishwa Chess Championship, sabse yuva final — UPSC sports",
-   "source": "FIDE",
-   "source_url": "https://worldchampionship.fide.com/news/salesforce-fide-world-championship-match-2026-schedule-format-and-prize-fund-con-MCPGSIDPSQ5ZDMZEWAWQLEONRHXU",
-   "genuineness": "verified",
-   "outlets": [
-    "FIDE",
-    "Al Jazeera",
-    "The Indian Express",
-    "The Hindu"
-   ],
-   "image": "../images/world/world-20261124-0922-01.jpg",
-   "image_credit": "Frans Peeters / CC BY-SA 2.0, Wikimedia Commons"
-  },
-  {
-   "id": "world-20261124-0922-02",
-   "published_ist": "2026-11-23T12:00:00+05:30",
-   "headline": "Iowa visfot ko court ki hari jhandi",
-   "detail": "Trump ne pehle visfot rokne ka order diya, phir court ne stay hataya; sena ne Budhvaar subah Iowa plant me 68 barrel lead azide ke niyantrit visfot ki pushti ki. (Update)",
-   "category": "World",
-   "exam_angle": null,
-   "source": "CNN",
-   "source_url": "https://www.cnn.com/2026/11/23/us/iowa-army-detonation-lead-azide?cid=external-feeds_iluminar_meta",
-   "genuineness": "verified",
-   "outlets": [
-    "CNN",
-    "Reuters",
-    "The Wall Street Journal",
-    "Des Moines Register"
-   ],
-   "image": null,
-   "image_credit": null
-  },
-  {
-   "id": "world-20261124-0922-03",
-   "published_ist": "2026-11-23T12:00:00+05:30",
-   "headline": "Mahila World Cup 2031 America me",
-   "detail": "FIFA ne 2031 Mahila World Cup America, Mexico, Costa Rica aur Jamaica ko diya; 2035 ka UK me hoga aur pehli baar 48 team khelegi.",
-   "category": "World",
-   "exam_angle": "Mahila World Cup 48 team, pehli baar chaar mezban — UPSC sports",
-   "source": "FIFA",
-   "source_url": "https://inside.fifa.com/organisation/congress/media-releases/extraordinary-congress-appoints-hosts-2031-2035-womens-world-cup",
-   "genuineness": "verified",
-   "outlets": [
-    "FIFA",
-    "CNN",
-    "Channel NewsAsia",
-    "Flashscore"
-   ],
-   "image": null,
-   "image_credit": null
-  },
-  {
-   "id": "world-20261124-0922-04",
-   "published_ist": "2026-11-23T12:00:00+05:30",
-   "headline": "Zanzibar me aag, 6 hotel jale",
-   "detail": "Nungwi Beach par Makofi Hotel se shuru hui aag 6 hotel tak phaili; lagbhag 180 paryatak surakshit nikale gaye, kuchh hotel karmchari ghayal hue, jaanch jaari hai.",
-   "category": "World",
-   "exam_angle": null,
-   "source": "AP",
-   "source_url": "https://www.bastillepost.com/global/article/6390760-tourists-evacuated-after-fire-destroys-6-hotels-in-zanzibars-popular-nungwi-beach-area",
-   "genuineness": "verified",
-   "outlets": [
-    "AP",
-    "The Times of India",
-    "The Sun",
-    "The Shillong Times"
-   ],
-   "image": null,
-   "image_credit": null
-  },
-  {
-   "id": "world-20261124-0822-01",
-   "published_ist": "2026-11-23T17:10:00+05:30",
-   "headline": "Manchester concert me gas, 12,000 nikale",
-   "detail": "Don Toliver ke show ke dauran Co-op Live arena me 'agyat padarth' chhoda gaya; 12,000 se zyada log nikale gaye, 50 se zyada logon ka ilaaj hua aur ek ko aspatal le jaya gaya, jaanch jaari hai.",
-   "category": "World",
-   "exam_angle": null,
-   "source": "CNN",
-   "source_url": "https://www.cnn.com/2026/11/23/europe/manchester-coop-live-tear-gas-don-toliver-hnk-intl?cid=external-feeds_iluminar_meta",
-   "genuineness": "verified",
-   "outlets": [
-    "CNN",
-    "The Times",
-    "RTHK",
-    "Channel NewsAsia"
-   ],
-   "image": null,
-   "image_credit": null
-  },
-  {
-   "id": "world-20261124-0822-02",
-   "published_ist": "2026-11-23T12:01:00+05:30",
-   "headline": "Kyiv kshetra me hamle, 15 mare",
-   "detail": "Dymer me paanch-manzila imarat par hamle me 11, Vyshneve supermarket me 3 aur Bila Tserkva me 1 vyakti mara; Zelenskyy ne America se Patriot missile ki maang dohrai.",
-   "category": "World",
-   "exam_angle": "Russia-Ukraine yuddh, nagrik nuksan, Patriot — UPSC IR",
-   "source": "Al Jazeera",
-   "source_url": "https://www.aljazeera.com/news/2026/11/23/death-toll-rises-after-deadly-russian-attacks-on-ukraine",
-   "genuineness": "verified",
-   "outlets": [
-    "Al Jazeera",
-    "Dawn",
-    "The Hindu",
-    "South China Morning Post"
-   ],
-   "image": null,
-   "image_credit": null
-  },
-  {
-   "id": "world-20261124-0822-03",
-   "published_ist": "2026-11-23T12:00:00+05:30",
-   "headline": "Russia ke parmanu upgrah par NATO satark",
-   "detail": "German media ki report ke mutabik Russia 'Sputnik-S' parmanu hathiyaar wala upgrah kuchh hafton me launch kar sakta hai; NATO pramukh Rutte ne antariksh me raksha ka bharosa diya, Kremlin ne aarop kharij kiye.",
-   "category": "World",
-   "exam_angle": "Antariksh hathiyaar, Outer Space Treaty 1967 — UPSC IR/S&T",
-   "source": "Reuters",
-   "source_url": "https://www.reuters.com/business/aerospace-defense/nato-believes-russia-is-ready-launch-nuclear-armed-satellite-german-media-say-2026-11-23/",
-   "genuineness": "verified",
-   "outlets": [
-    "Reuters",
-    "The Straits Times",
-    "Fox News",
-    "The Japan Times"
-   ],
-   "image": null,
-   "image_credit": null
-  },
-  {
-   "id": "world-20261124-0822-04",
-   "published_ist": "2026-11-22T12:00:00+05:30",
-   "headline": "Democrats ko 1992 ke baad sabse badi jeet",
-   "detail": "North Carolina ki seat jeetne ke baad Democrats ke paas House me kam se kam 258 seatein hain — 1992 ke baad sabse zyada; Senate me bhi 56 seatein, 3 January ko shapath.",
-   "category": "World",
-   "exam_angle": "America madhyaavdhi chunav, Congress, vibhajit sarkar — UPSC IR",
-   "source": "Al Jazeera",
-   "source_url": "https://www.aljazeera.com/amp/news/2026/11/22/democrats-win-largest-house-majority-since-1992-with-north-carolina-seat",
-   "genuineness": "verified",
-   "outlets": [
-    "Al Jazeera",
-    "The New Indian Express",
-    "South China Morning Post"
-   ],
-   "image": null,
-   "image_credit": null
-  },
-  {
-   "id": "world-20261124-0726-01",
-   "published_ist": "2026-11-23T12:00:00+05:30",
-   "headline": "EU ka Russia par 22va pratibandh package",
-   "detail": "European Commission ne 60 Russian banks ko SWIFT se hatane, crypto aur shadow fleet par sakht pratibandh ka prastav rakha; sabhi 27 deshon ki sahamati zaroori.",
-   "category": "World",
-   "exam_angle": "UPSC: EU pratibandh, SWIFT, shadow fleet — Bharat-Russia vyapar par asar",
-   "source": "Reuters",
-   "source_url": "https://www.reuters.com/business/finance/eu-commission-proposes-22nd-sanctions-package-russia-2026-11-23/",
-   "genuineness": "verified",
-   "outlets": [
-    "Reuters",
-    "Al Jazeera",
-    "Kyiv Independent",
-    "European Commission"
-   ],
-   "image": null,
-   "image_credit": null
-  }
- ]
+  "updated_ist": "2026-11-24T14:26:50+05:30",
+  "items": [
+    {
+      "id": "world-20261124-1422-01",
+      "published_ist": "2026-11-23T12:00:00+05:30",
+      "headline": "Gaza hamle me UNRWA karmchari samet 3 mare",
+      "detail": "Somvaar ko Gaza ke Jabalia camp me Israeli hamle me UNRWA karmchari Adel Al-Helo samet kam se kam 3 log mare gaye, 3 ghayal hue.",
+      "category": "World",
+      "exam_angle": null,
+      "source": "Reuters",
+      "source_url": "https://www.reuters.com/world/middle-east/israeli-strike-kills-worker-with-un-palestinian-agency-gaza-agency-says-2026-11-23/",
+      "genuineness": "verified",
+      "outlets": [
+        "Reuters",
+        "Dawn",
+        "Channel News Asia",
+        "Al Jazeera"
+      ],
+      "image": null,
+      "image_credit": null
+    },
+    {
+      "id": "world-20261124-1422-02",
+      "published_ist": "2026-11-23T12:00:00+05:30",
+      "headline": "Iran: US nakabandi ka har tarike se jawab",
+      "detail": "Iran ke videsh mantri ke pravakta Baghaei ne kaha, Tehran America ki nausena nakabandi ko sainya hamla manta hai aur har upaay se iska jawab dega.",
+      "category": "World",
+      "exam_angle": "Hormuz jaladmaru — duniya ki urja suraksha se juda",
+      "source": "Dawn",
+      "source_url": "https://www.dawn.com/news/2046677",
+      "genuineness": "verified",
+      "outlets": [
+        "Reuters",
+        "Dawn",
+        "The National",
+        "Qatar Tribune"
+      ],
+      "image": null,
+      "image_credit": null
+    },
+    {
+      "id": "world-20261124-1422-03",
+      "published_ist": "2026-11-24T08:41:00+05:30",
+      "headline": "Trump ne Iowa visfot par rok lagayi",
+      "detail": "Rashtrapati Trump ne Iowa plant me zehrele lead azide ke visfot ko adalat ke faisle tak rokne ka aadesh diya.",
+      "category": "World",
+      "exam_angle": null,
+      "source": "The Times of India",
+      "source_url": "https://timesofindia.indiatimes.com/india/latest-india-world-news-live-updates-today-breaking-news-november-24-2026/liveblog/136113590.cms",
+      "genuineness": "corroborated",
+      "outlets": [
+        "Reuters",
+        "The Times of India"
+      ],
+      "image": null,
+      "image_credit": null
+    },
+    {
+      "id": "world-20261124-1422-04",
+      "published_ist": "2026-11-23T12:00:00+05:30",
+      "headline": "Germany Ukraine ke Delta system ka istemal karega",
+      "detail": "Germany aur Ukraine ne sahmati-patra par hastakshar kiye, jisse German sena Kyiv ke Delta yuddh-prabandhan system ka upyog kar sakegi.",
+      "category": "World",
+      "exam_angle": null,
+      "source": "Reuters",
+      "source_url": "https://www.devdiscourse.com/article/international/4011043-reuters-world-news-summary",
+      "genuineness": "corroborated",
+      "outlets": [
+        "Reuters",
+        "Ukrinform"
+      ],
+      "image": null,
+      "image_credit": null
+    },
+    {
+      "id": "world-20261124-1322-01",
+      "published_ist": "2026-11-24T12:00:00+05:30",
+      "headline": "UAE me bus-truck takkar, 11 mare",
+      "detail": "Ras Al Khaimah me Al Watan Road par bus aur truck ki takkar me 11 log mare; jaanch jaari hai.",
+      "category": "World",
+      "exam_angle": null,
+      "source": "Reuters",
+      "source_url": "https://www.reuters.com/world/bus-truck-collision-kills-11-uaes-ras-al-khaimah-2026-11-24/",
+      "genuineness": "verified",
+      "outlets": [
+        "Reuters",
+        "Gulf News",
+        "Khaleej Times",
+        "Dawn"
+      ],
+      "image": null,
+      "image_credit": null
+    },
+    {
+      "id": "world-20261124-1322-02",
+      "published_ist": "2026-11-24T12:00:00+05:30",
+      "headline": "Indonesia: poorv police chief par deshdroh ka aarop",
+      "detail": "Indonesia police ne poorv police chief Listyo Sigit Prabowo samet 6 adhikariyon par rashtrapati ki jasusi aur deshdroh ka aarop lagaya; doshi paye jaane par maut ki saza tak ho sakti hai.",
+      "category": "World",
+      "exam_angle": "Deshdroh kanoon aur uski saza — Bharat ke BNS se tulna",
+      "source": "Reuters",
+      "source_url": "https://www.reuters.com/world/asia-pacific/indonesia-charges-ex-police-chief-with-treason-aimed-undermining-president-2026-11-24/",
+      "genuineness": "verified",
+      "outlets": [
+        "Reuters",
+        "The Straits Times",
+        "AP"
+      ],
+      "image": null,
+      "image_credit": null
+    },
+    {
+      "id": "world-20261124-1322-03",
+      "published_ist": "2026-11-24T12:00:00+05:30",
+      "headline": "Trump kal NATO chief Rutte se milenge",
+      "detail": "White House ne kaha Trump budhwar ko Florida me NATO mahasachiv Mark Rutte se milenge; Putin aur Xi se mulakaat ke baad Ukraine par charcha hogi.",
+      "category": "World",
+      "exam_angle": "NATO aur Ukraine vaarta — antarrashtriya sambandh",
+      "source": "Reuters",
+      "source_url": "https://www.reuters.com/world/china/trump-meet-nato-chief-mark-rutte-wednesday-white-house-says-2026-11-24/",
+      "genuineness": "corroborated",
+      "outlets": [
+        "Reuters",
+        "White House"
+      ],
+      "image": null,
+      "image_credit": null
+    },
+    {
+      "id": "world-20261124-1322-04",
+      "published_ist": "2026-11-23T12:00:00+05:30",
+      "headline": "Tajikistan ne ICC chhodne ki prakriya shuru ki",
+      "detail": "Tajikistan ICC se hatne wala chauntha desh bana; America ke dabav ke baad Chad, Venezuela aur Naoero bhi peeche hate.",
+      "category": "World",
+      "exam_angle": "ICC aur Rome Statute — antarrashtriya kanoon",
+      "source": "Reuters",
+      "source_url": "https://www.reuters.com/world/asia-pacific/tajikistan-becomes-fourth-country-withdraw-icc-since-us-diplomatic-push-2026-11-23/",
+      "genuineness": "verified",
+      "outlets": [
+        "Reuters",
+        "Al Jazeera",
+        "ICC"
+      ],
+      "image": null,
+      "image_credit": null
+    },
+    {
+      "id": "world-20261124-1322-05",
+      "published_ist": "2026-11-24T12:00:00+05:30",
+      "headline": "Amnesty: Tigray golabari yuddh apraadh ho sakti hai",
+      "detail": "Amnesty ne kaha Ethiopia ki sena ne Tigray ke Alamata me nagrik bastiyon par golabari ki; 14 nagrikon ki maut ki pushti hui, jaanch yuddh apraadh ke roop me honi chahiye.",
+      "category": "World",
+      "exam_angle": "Yuddh apraadh aur antarrashtriya manavtavadi kanoon",
+      "source": "Reuters",
+      "source_url": "https://www.reuters.com/world/ethiopian-shelling-of-tigray-town-should-be-investigated-possible-war-crimes-2026-11-24/",
+      "genuineness": "verified",
+      "outlets": [
+        "Amnesty International",
+        "Reuters"
+      ],
+      "image": null,
+      "image_credit": null
+    },
+    {
+      "id": "world-20261124-1222-01",
+      "published_ist": "2026-11-23T12:00:00+05:30",
+      "headline": "Russia ki Estonia ko khule yuddh ki chetavni",
+      "detail": "Russia ke videsh mantralaya ne Estonia par 'khule yuddh' ke kagaar par hone ka aarop lagaya; Estonia 1 December se Russia se seema band kar raha hai aur aaropon ko kharij karta hai.",
+      "category": "World",
+      "exam_angle": "NATO–Russia tanaav: Baltic suraksha",
+      "source": "Reuters",
+      "source_url": "https://www.reuters.com/world/moscow-accuses-estonia-hostile-actions-verge-triggering-open-war-2026-11-23/",
+      "genuineness": "verified",
+      "outlets": [
+        "Reuters",
+        "Al Jazeera",
+        "Vijesti"
+      ],
+      "image": null,
+      "image_credit": null
+    },
+    {
+      "id": "world-20261124-1222-02",
+      "published_ist": "2026-11-23T12:00:00+05:30",
+      "headline": "Germany ke 450 schools ko bomb ki dhamki",
+      "detail": "Somvaar subah Germany ke 450 se zyada schools ko 'Death awaits you' vishay wale email se bomb ki dhamki mili; police ko koi vaastavik khatra nahi mila aur Denmark ke schools ko bhi aisi dhamki mili.",
+      "category": "World",
+      "exam_angle": "Europe me hybrid warfare aur afwah",
+      "source": "Reuters",
+      "source_url": "https://www.reuters.com/world/hundreds-german-schools-received-bomb-threats-bild-reports-2026-11-23/",
+      "genuineness": "verified",
+      "outlets": [
+        "Reuters",
+        "Dawn",
+        "Qatar Tribune",
+        "Ynet"
+      ],
+      "image": null,
+      "image_credit": null
+    },
+    {
+      "id": "world-20261124-1222-03",
+      "published_ist": "2026-11-23T12:00:00+05:30",
+      "headline": "Gaza ke ghayal bachche UK ilaaj ko pahunche",
+      "detail": "Gaza se gambhir roop se ghayal bachchon ka doosra samooh UK pahuncha, jahan NHS aspatalon me unka vishesh ilaaj hoga; pichhle saal bhi 50 bachche ilaaj ke liye laaye gaye the.",
+      "category": "World",
+      "exam_angle": "Gaza manaviya sankat: chikitsa nikasi",
+      "source": "The National",
+      "source_url": "https://www.thenationalnews.com/news/uk/2026/11/24/gazan-children-arrive-for-treatment-in-the-uk/",
+      "genuineness": "verified",
+      "outlets": [
+        "The National",
+        "Arab News",
+        "Qatar Tribune",
+        "GOV.UK"
+      ],
+      "image": null,
+      "image_credit": null
+    },
+    {
+      "id": "world-20261124-1124-01",
+      "published_ist": "2026-11-24T12:00:00+05:30",
+      "headline": "Hasina 16 December ko Bangladesh lautengi",
+      "detail": "Do saal se zyada ke nirvaasan ke baad poorv PM Sheikh Hasina ne 16 December ko Dhaka lautne ki yojana ghoshit ki; unhone sarkar se Biman Bangladesh Airlines se Delhi se Dhaka ki udaan ki maang ki hai, jabki Dhaka ne kaha hai ki lautne par unhe giraftaar kiya jayega.",
+      "category": "World",
+      "exam_angle": "Bangladesh: Hasina ki wapsi aur Victory Day",
+      "source": "Reuters",
+      "source_url": "https://www.reuters.com/world/asia-pacific/sheikh-hasina-seeks-return-bangladesh-december-16-state-carrier-2026-11-24/",
+      "genuineness": "verified",
+      "outlets": [
+        "Reuters",
+        "The Hindu",
+        "The Times of India"
+      ],
+      "image": null,
+      "image_credit": null
+    },
+    {
+      "id": "world-20261124-1124-02",
+      "published_ist": "2026-11-24T07:02:00+05:30",
+      "headline": "Nepal me 5.3 ka bhukamp, Bharat tak jhatke",
+      "detail": "Mangalvaar subah 7:02 baje Nepal ke Koshi pradesh me 5.3 teevrata ka bhukamp aaya; uttar Bengal, Sikkim, Bhutan aur Bangladesh tak jhatke mehsoos hue aur log ghar se bahar nikle.",
+      "category": "World",
+      "exam_angle": "Himalaya me bhukamp — aapda prabandhan",
+      "source": "Reuters",
+      "source_url": "https://www.reuters.com/business/environment/magnitude-53-earthquake-strikes-nepals-koshi-province-emsc-says-2026-11-24/",
+      "genuineness": "verified",
+      "outlets": [
+        "Reuters",
+        "The Hindu",
+        "NDTV"
+      ],
+      "image": null,
+      "image_credit": null
+    },
+    {
+      "id": "world-20261124-1124-03",
+      "published_ist": "2026-11-24T12:00:00+05:30",
+      "headline": "Shenzhou-24: pehla videshi yantri Tiangong jayega",
+      "detail": "China ka Shenzhou-24 yaan Budhvaar subah 8:18 baje Beijing samay par Tiangong station ke liye udega; Pakistani payload specialist Muhammad Zeeshan Ali station par jaane wale pehle videshi yantri banege aur lagbhag ek hafta wahaan rahenge.",
+      "category": "World",
+      "exam_angle": "China ka antariksh station, pehla videshi yantri",
+      "source": "Reuters",
+      "source_url": "https://www.reuters.com/science/china-launch-shenzhou-24-spaceship-with-first-foreign-astronaut-2026-11-24/",
+      "genuineness": "verified",
+      "outlets": [
+        "Reuters",
+        "Dawn",
+        "The Straits Times"
+      ],
+      "image": null,
+      "image_credit": null
+    },
+    {
+      "id": "world-20261124-1124-04",
+      "published_ist": "2026-11-24T12:00:00+05:30",
+      "headline": "IRGC ka dawa: Hormuz me 3 tanker mine se takraye",
+      "detail": "Iran ki Revolutionary Guard ne dawa kiya ki Hormuz jaldamroomadhya me teen tel tanker samudri mine se takrakar aag ki lapet me aa gaye; is dawe ki swatantra pushti abhi baaki hai aur US Central Command ne koi pratikriya nahi di hai.",
+      "category": "World",
+      "exam_angle": "Hormuz — duniya ki tel supply ka raasta",
+      "source": "Al Jazeera",
+      "source_url": "https://www.aljazeera.com/amp/news/liveblog/2026/11/24/iran-war-live-iran-says-three-ships-catch-fire-after-hitting-hormuz-mines",
+      "genuineness": "corroborated",
+      "outlets": [
+        "Al Jazeera",
+        "Rudaw",
+        "The National"
+      ],
+      "image": null,
+      "image_credit": null
+    },
+    {
+      "id": "world-20261124-1022-01",
+      "published_ist": "2026-11-23T12:00:00+05:30",
+      "headline": "Indonesia factory aag me 24 mare",
+      "detail": "Banten ki candy factory me Shanivaar shaam lagi aag me 24 log mare, lagbhag 30 laapata hain; AC short circuit se aag lagne ki aashanka hai.",
+      "category": "World",
+      "exam_angle": "Factory aag me 24 mare, 30 laapata — aapda prabandhan",
+      "source": "Al Jazeera",
+      "source_url": "https://www.aljazeera.com/news/2026/11/23/indonesian-police-remove-24-body-bags-from-factory-fire-site",
+      "genuineness": "verified",
+      "outlets": [
+        "Al Jazeera",
+        "Channel News Asia",
+        "The Hindu",
+        "TRT World"
+      ],
+      "image": null,
+      "image_credit": null
+    },
+    {
+      "id": "world-20261124-1022-02",
+      "published_ist": "2026-11-24T06:00:00+05:30",
+      "headline": "Zaporizhzhia hamle me 2 mare, 40 ghayal",
+      "detail": "Raat bhar ke hamle me Zaporizhzhia ki paanch-manzila imarat ko nuksan pahuncha; 2 log mare, ghayalon ki sankhya badhkar 40 hui jinme 4 bachche bhi hain. Corrected: pehle 22 ghayal bataye gaye the.",
+      "category": "World",
+      "exam_angle": null,
+      "source": "Ukrainska Pravda",
+      "source_url": "https://www.pravda.com.ua/eng/news/2026/11/24/8064321/",
+      "genuineness": "verified",
+      "outlets": [
+        "Reuters",
+        "Ukrinform",
+        "Ukrainska Pravda",
+        "Interfax-Ukraine"
+      ],
+      "image": "../images/world/world-20261124-1022-02.jpg",
+      "image_credit": "Kyiv Independent"
+    },
+    {
+      "id": "world-20261124-1022-03",
+      "published_ist": "2026-11-23T12:00:00+05:30",
+      "headline": "Iran me gaayika ko 74 kode",
+      "detail": "Gaayika Parastoo Ahmadi aur unki team ke chaar sadasyon ko bina hijab online concert karne par Qom me 74-74 kode mare gaye; kalatmak gatividhiyon aur yatra par do saal ki rok bhi lagi.",
+      "category": "World",
+      "exam_angle": "Iran, hijab kanoon aur mahila adhikar — UPSC",
+      "source": "Al Jazeera",
+      "source_url": "https://www.aljazeera.com/news/2026/11/23/iran-flogs-singer-parastoo-ahmadi-for-performing-without-headscarf",
+      "genuineness": "verified",
+      "outlets": [
+        "Al Jazeera",
+        "Reuters",
+        "CNN"
+      ],
+      "image": null,
+      "image_credit": null
+    },
+    {
+      "id": "world-20261124-0922-01",
+      "published_ist": "2026-11-24T06:00:00+05:30",
+      "headline": "Gukesh-Sindarov: sabse yuva chess final",
+      "detail": "Vishwa Chess Championship ka pehla game aaj Geneva me khela jayega; dono khiladi 20 saal ke hain, itihaas ka sabse yuva final hai.",
+      "category": "World",
+      "exam_angle": "Vishwa Chess Championship, sabse yuva final — UPSC sports",
+      "source": "FIDE",
+      "source_url": "https://worldchampionship.fide.com/news/salesforce-fide-world-championship-match-2026-schedule-format-and-prize-fund-con-MCPGSIDPSQ5ZDMZEWAWQLEONRHXU",
+      "genuineness": "verified",
+      "outlets": [
+        "FIDE",
+        "Al Jazeera",
+        "The Indian Express",
+        "The Hindu"
+      ],
+      "image": "../images/world/world-20261124-0922-01.jpg",
+      "image_credit": "Frans Peeters / CC BY-SA 2.0, Wikimedia Commons"
+    },
+    {
+      "id": "world-20261124-0922-02",
+      "published_ist": "2026-11-23T12:00:00+05:30",
+      "headline": "Iowa visfot ko court ki hari jhandi",
+      "detail": "Trump ne pehle visfot rokne ka order diya, phir court ne stay hataya; sena ne Budhvaar subah Iowa plant me 68 barrel lead azide ke niyantrit visfot ki pushti ki. (Update)",
+      "category": "World",
+      "exam_angle": null,
+      "source": "CNN",
+      "source_url": "https://www.cnn.com/2026/11/23/us/iowa-army-detonation-lead-azide?cid=external-feeds_iluminar_meta",
+      "genuineness": "verified",
+      "outlets": [
+        "CNN",
+        "Reuters",
+        "The Wall Street Journal",
+        "Des Moines Register"
+      ],
+      "image": null,
+      "image_credit": null
+    },
+    {
+      "id": "world-20261124-0922-03",
+      "published_ist": "2026-11-23T12:00:00+05:30",
+      "headline": "Mahila World Cup 2031 America me",
+      "detail": "FIFA ne 2031 Mahila World Cup America, Mexico, Costa Rica aur Jamaica ko diya; 2035 ka UK me hoga aur pehli baar 48 team khelegi.",
+      "category": "World",
+      "exam_angle": "Mahila World Cup 48 team, pehli baar chaar mezban — UPSC sports",
+      "source": "FIFA",
+      "source_url": "https://inside.fifa.com/organisation/congress/media-releases/extraordinary-congress-appoints-hosts-2031-2035-womens-world-cup",
+      "genuineness": "verified",
+      "outlets": [
+        "FIFA",
+        "CNN",
+        "Channel NewsAsia",
+        "Flashscore"
+      ],
+      "image": null,
+      "image_credit": null
+    },
+    {
+      "id": "world-20261124-0922-04",
+      "published_ist": "2026-11-23T12:00:00+05:30",
+      "headline": "Zanzibar me aag, 6 hotel jale",
+      "detail": "Nungwi Beach par Makofi Hotel se shuru hui aag 6 hotel tak phaili; lagbhag 180 paryatak surakshit nikale gaye, kuchh hotel karmchari ghayal hue, jaanch jaari hai.",
+      "category": "World",
+      "exam_angle": null,
+      "source": "AP",
+      "source_url": "https://www.bastillepost.com/global/article/6390760-tourists-evacuated-after-fire-destroys-6-hotels-in-zanzibars-popular-nungwi-beach-area",
+      "genuineness": "verified",
+      "outlets": [
+        "AP",
+        "The Times of India",
+        "The Sun",
+        "The Shillong Times"
+      ],
+      "image": null,
+      "image_credit": null
+    },
+    {
+      "id": "world-20261124-0822-01",
+      "published_ist": "2026-11-23T17:10:00+05:30",
+      "headline": "Manchester concert me gas, 12,000 nikale",
+      "detail": "Don Toliver ke show ke dauran Co-op Live arena me 'agyat padarth' chhoda gaya; 12,000 se zyada log nikale gaye, 50 se zyada logon ka ilaaj hua aur ek ko aspatal le jaya gaya, jaanch jaari hai.",
+      "category": "World",
+      "exam_angle": null,
+      "source": "CNN",
+      "source_url": "https://www.cnn.com/2026/11/23/europe/manchester-coop-live-tear-gas-don-toliver-hnk-intl?cid=external-feeds_iluminar_meta",
+      "genuineness": "verified",
+      "outlets": [
+        "CNN",
+        "The Times",
+        "RTHK",
+        "Channel NewsAsia"
+      ],
+      "image": null,
+      "image_credit": null
+    }
+  ]
 }
