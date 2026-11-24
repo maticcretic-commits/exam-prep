@@ -1082,6 +1082,63 @@
       ],
       "image": null,
       "image_credit": null
+    },
+    {
+      "id": "world-20261124-2222-01",
+      "published_ist": "2026-11-24T19:57:00+05:30",
+      "headline": "Riyadh ke vittiya jile ki tower par hamla",
+      "detail": "Saudi netritva wale gathbandhan ne kaha Riyadh ke King Abdullah Financial District ki tower par 'aatankwadi hamla' hua; 11 log ghayal hue jinme 2 Bharatiya bhi hain, Civil Defence ne bataya.",
+      "category": "World",
+      "exam_angle": "Houthi-Saudi tanaav, West Asia — UPSC IR",
+      "source": "Al Jazeera",
+      "source_url": "https://www.aljazeera.com/news/2026/11/24/saudi-led-coalition-condemns-terrorist-attack-on-tower-in-riyadh",
+      "genuineness": "verified",
+      "outlets": [
+        "Al Jazeera",
+        "Reuters",
+        "Arab News",
+        "The Straits Times"
+      ],
+      "image": "../images/world/world-20261124-2222-01.jpg",
+      "image_credit": "Faisal Arif, CC BY-SA 4.0, Wikimedia Commons"
+    },
+    {
+      "id": "world-20261124-2222-02",
+      "published_ist": "2026-11-24T20:56:00+05:30",
+      "headline": "Shanghai ke party pramukh Chen Jining jaanch me",
+      "detail": "China ki sarkari Xinhua ne kaha Shanghai ke party pramukh aur Politburo sadasya Chen Jining 'gambhir anushasan ullanghan' ke sandeh me jaanch ke dayre me hain; 2025 se chauthe Politburo sadasya par jaanch.",
+      "category": "World",
+      "exam_angle": "China ki rajneeti, Xi ka bhrashtachar-virodhi abhiyan — UPSC IR",
+      "source": "Reuters",
+      "source_url": "https://www.reuters.com/world/china-investigates-politburo-member-chen-jining-xinhua-says-2026-11-24/",
+      "genuineness": "verified",
+      "outlets": [
+        "Reuters",
+        "CNN",
+        "Al Jazeera",
+        "The Wall Street Journal"
+      ],
+      "image": null,
+      "image_credit": null
+    },
+    {
+      "id": "world-20261124-1723-01",
+      "published_ist": "2026-11-24T18:33:00+05:30",
+      "headline": "Hormuz me chautha tanker bhi mine se takraya",
+      "detail": "Update: Mangalvaar ko Hormuz ke poorvi hisse me chautha tanker bhi mine se takrakar aag ki lapet me aa gaya; IRGC ke mutabik pichhle 24 ghante me 5 jahaz mine se takraye, jabki UK samudri agency ne 3 jahazon par hamle ki pushti ki.",
+      "category": "World",
+      "exam_angle": "Hormuz — duniya ki tel supply ka raasta",
+      "source": "Al Jazeera",
+      "source_url": "https://www.aljazeera.com/amp/news/liveblog/2026/11/24/iran-war-live-iran-says-three-ships-catch-fire-after-hitting-hormuz-mines",
+      "genuineness": "verified",
+      "outlets": [
+        "Al Jazeera",
+        "Saudi Gazette",
+        "Mehr News",
+        "APA"
+      ],
+      "image": null,
+      "image_credit": null
     }
   ]
 }
