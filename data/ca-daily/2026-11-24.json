@@ -142,6 +142,76 @@
     ],
     "answer_index": 2
    }
+  },
+  {
+   "episode": 159,
+   "video_hi": "00FWXqCigzQ",
+   "video_hinglish": "00FWXqCigzQ",
+   "capsules": [
+    {
+     "id": "ca-ep159-s1",
+     "headline_hi": "Nepal ko pandrah hazaar crore ki madad",
+     "headline_hinglish": "Nepal ko pandrah hazaar crore ki madad",
+     "detail_hi": "Viksit Bharat–Samunnat Nepal vision: 669 MW Lower Arun, Raxaul–Kathmandu rail survey.",
+     "detail_hinglish": "Viksit Bharat–Samunnat Nepal vision: 669 MW Lower Arun, Raxaul–Kathmandu rail survey.",
+     "category_hi": "International",
+     "category_en": "National"
+    },
+    {
+     "id": "ca-ep159-s2",
+     "headline_hi": "Chhe saal baad BJP–Akali phir saath",
+     "headline_hinglish": "Chhe saal baad BJP–Akali phir saath",
+     "detail_hi": "2027 Punjab chunav se pehle NDA poora, Amit Shah–Sukhbir Badal ne alliance ka elaan kiya.",
+     "detail_hinglish": "2027 Punjab chunav se pehle NDA poora, Amit Shah–Sukhbir Badal ne alliance ka elaan kiya.",
+     "category_hi": "Polity",
+     "category_en": "Polity"
+    },
+    {
+     "id": "ca-ep159-s3",
+     "headline_hi": "Bengal mein berozgaar graduates ko do hazaar",
+     "headline_hinglish": "Bengal mein berozgaar graduates ko do hazaar",
+     "detail_hi": "January se 21–45 saal ke graduates ko do hazaar rupaye mahina, non-graduates ko pandrah sau.",
+     "detail_hinglish": "January se 21–45 saal ke graduates ko do hazaar rupaye mahina, non-graduates ko pandrah sau.",
+     "category_hi": "Schemes",
+     "category_en": "Schemes"
+    },
+    {
+     "id": "ca-ep159-s4",
+     "headline_hi": "Desh ka landslide naksha: 91 hazaar records",
+     "headline_hinglish": "Desh ka landslide naksha: 91 hazaar records",
+     "detail_hi": "Chaar lakh tees hazaar sq km ka mapping poora, Faridabad mein World Landslide Forum chal raha hai.",
+     "detail_hinglish": "Chaar lakh tees hazaar sq km ka mapping poora, Faridabad mein World Landslide Forum chal raha hai.",
+     "category_hi": "Environment",
+     "category_en": "Environment"
+    },
+    {
+     "id": "ca-ep159-s5",
+     "headline_hi": "Pokhran mein JWALA: drone-killer missile test",
+     "headline_hinglish": "Pokhran mein JWALA: drone-killer missile test",
+     "detail_hi": "Bharat ki pehli autonomous counter-drone micro-missile system ka safal parikshan.",
+     "detail_hinglish": "Bharat ki pehli autonomous counter-drone micro-missile system ka safal parikshan.",
+     "category_hi": "Defence",
+     "category_en": "Defence"
+    }
+   ],
+   "mcq": {
+    "id": "ca-ep159-mcq",
+    "q_hi": "Nepal ko Bharat ne kul kitni vikas sahayata ki ghoshna ki?",
+    "q_hinglish": "Nepal ko Bharat ne kul kitni vikas sahayata ki ghoshna ki?",
+    "options_hi": [
+     "Gyaarah hazaar paanch sau crore",
+     "Pandrah hazaar crore",
+     "Teen hazaar paanch sau crore",
+     "Das hazaar crore"
+    ],
+    "options_hinglish": [
+     "Gyaarah hazaar paanch sau crore",
+     "Pandrah hazaar crore",
+     "Teen hazaar paanch sau crore",
+     "Das hazaar crore"
+    ],
+    "answer_index": 1
+   }
   }
  ]
 }
