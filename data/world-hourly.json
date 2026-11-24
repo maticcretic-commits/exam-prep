@@ -1,6 +1,61 @@
 {
- "updated_ist": "2026-11-24T09:22:00+05:30",
+ "updated_ist": "2026-11-24T10:27:27+05:30",
  "items": [
+  {
+   "id": "world-20261124-1022-01",
+   "published_ist": "2026-11-23T12:00:00+05:30",
+   "headline": "Indonesia factory aag me 24 mare",
+   "detail": "Banten ki candy factory me Shanivaar shaam lagi aag me 24 log mare, lagbhag 30 laapata hain; AC short circuit se aag lagne ki aashanka hai.",
+   "category": "World",
+   "exam_angle": "Factory aag me 24 mare, 30 laapata — aapda prabandhan",
+   "source": "Al Jazeera",
+   "source_url": "https://www.aljazeera.com/news/2026/11/23/indonesian-police-remove-24-body-bags-from-factory-fire-site",
+   "genuineness": "verified",
+   "outlets": [
+    "Al Jazeera",
+    "Channel News Asia",
+    "The Hindu",
+    "TRT World"
+   ],
+   "image": null,
+   "image_credit": null
+  },
+  {
+   "id": "world-20261124-1022-02",
+   "published_ist": "2026-11-24T06:00:00+05:30",
+   "headline": "Zaporizhzhia hamle me 2 mare, 22 ghayal",
+   "detail": "Raat bhar ke hamle me Zaporizhzhia ki paanch-manzila imarat ko nuksan pahuncha; 2 log mare, 22 ghayal hue jinme 6 aur 16 saal ke do bachche bhi hain, adhikariyon ne bataya.",
+   "category": "World",
+   "exam_angle": null,
+   "source": "Reuters",
+   "source_url": "https://www.reuters.com/world/russian-attack-kills-2-people-wounds-22-ukraines-zaporizhzhia-official-says-2026-11-24/",
+   "genuineness": "verified",
+   "outlets": [
+    "Reuters",
+    "Kyiv Independent",
+    "Ukrinform"
+   ],
+   "image": "../images/world/world-20261124-1022-02.jpg",
+   "image_credit": "Kyiv Independent"
+  },
+  {
+   "id": "world-20261124-1022-03",
+   "published_ist": "2026-11-23T12:00:00+05:30",
+   "headline": "Iran me gaayika ko 74 kode",
+   "detail": "Gaayika Parastoo Ahmadi aur unki team ke chaar sadasyon ko bina hijab online concert karne par Qom me 74-74 kode mare gaye; kalatmak gatividhiyon aur yatra par do saal ki rok bhi lagi.",
+   "category": "World",
+   "exam_angle": "Iran, hijab kanoon aur mahila adhikar — UPSC",
+   "source": "Al Jazeera",
+   "source_url": "https://www.aljazeera.com/news/2026/11/23/iran-flogs-singer-parastoo-ahmadi-for-performing-without-headscarf",
+   "genuineness": "verified",
+   "outlets": [
+    "Al Jazeera",
+    "Reuters",
+    "CNN"
+   ],
+   "image": null,
+   "image_credit": null
+  },
   {
    "id": "world-20261124-0922-01",
    "published_ist": "2026-11-24T06:00:00+05:30",
@@ -24,7 +79,7 @@
    "id": "world-20261124-0922-02",
    "published_ist": "2026-11-23T12:00:00+05:30",
    "headline": "Iowa visfot ko court ki hari jhandi",
-   "detail": "Court ne paryavaran samoohon ki yachika kharij kar di; sena Budhvaar ko Iowa plant me 68 barrel lead azide ka niyantrit visfot karegi.",
+   "detail": "Trump ne pehle visfot rokne ka order diya, phir court ne stay hataya; sena ne Budhvaar subah Iowa plant me 68 barrel lead azide ke niyantrit visfot ki pushti ki. (Update)",
    "category": "World",
    "exam_angle": null,
    "source": "CNN",
@@ -33,8 +88,8 @@
    "outlets": [
     "CNN",
     "Reuters",
-    "Des Moines Register",
-    "AP"
+    "The Wall Street Journal",
+    "Des Moines Register"
    ],
    "image": null,
    "image_credit": null
@@ -405,64 +460,6 @@
     "Barron's",
     "Business Wire",
     "Morningstar"
-   ],
-   "image": null,
-   "image_credit": null
-  },
-  {
-   "id": "world-20261123-2022-02",
-   "published_ist": "2026-11-23T12:00:00+05:30",
-   "headline": "Kim: suraksha chahiye, varchasva nahi",
-   "detail": "Uttar Korea ke neta Kim Jong Un ne Ravivaar ko naye rajdooton ke saamne kaha Pyongyang apni suraksha ke liye shakti badhayega, lekin kshetriya varchasva ya vistaar nahi chahta; unhone hathiyaar badhotri ko aatmaraksha ka adhikaar bataya.",
-   "category": "World",
-   "exam_angle": "Uttar Korea parmanu karyakram, purvi Asia suraksha — UPSC IR",
-   "source": "Yonhap",
-   "source_url": "https://en.yna.co.kr/view/AEN20261123001000315",
-   "genuineness": "verified",
-   "outlets": [
-    "Yonhap",
-    "The Korea Times",
-    "Korea JoongAng Daily",
-    "South China Morning Post",
-    "Philippine Daily Inquirer"
-   ],
-   "image": null,
-   "image_credit": null
-  },
-  {
-   "id": "world-20261123-2022-03",
-   "published_ist": "2026-11-22T11:14:00+05:30",
-   "headline": "Kryvyi Rih hamle me bachcha, paramedic mare",
-   "detail": "Zelenskyy ke grih nagar Kryvyi Rih me Shukravaar raat Russia ke ballistic missile aur drone hamle me 7 saal ka ladka aur 20 saal ki paramedic mare, lagbhag 60 log ghayal hue; bachav dal par bhi dobara hamla hua.",
-   "category": "World",
-   "exam_angle": null,
-   "source": "News18",
-   "source_url": "https://www.news18.com/world/russia-triple-tap-strike-kills-boy-paramedic-ukraine-kryvyi-russia-ukraine-war-ws-l-10435937.html",
-   "genuineness": "verified",
-   "outlets": [
-    "News18",
-    "The Tribune",
-    "The Times of India",
-    "The Sunday Guardian"
-   ],
-   "image": null,
-   "image_credit": null
-  },
-  {
-   "id": "world-20261123-2022-04",
-   "published_ist": "2026-11-21T12:00:00+05:30",
-   "headline": "Gaza me vaahan par hamla, 3 mare",
-   "detail": "Gaza City me Shanivaar ko khaadya vaahan par Israeli hamle me 3 log mare; Gaza ne unhe sahayata-karmi bataya, jabki IDF ne kaha ve Islamic Jihad ke sadasya the; World Central Kitchen ne kaha vaahan uska nahi tha.",
-   "category": "World",
-   "exam_angle": "Gaza yuddhviram, WCK, Israel-Hamas — UPSC IR",
-   "source": "The Times of Israel",
-   "source_url": "https://www.timesofisrael.com/israeli-strike-in-gaza-city-kills-3-idf-says-it-hit-terrorists-masquerading-as-aid-workers/",
-   "genuineness": "verified",
-   "outlets": [
-    "The Times of Israel",
-    "Haaretz",
-    "Daily Sabah",
-    "TBS News"
    ],
    "image": null,
    "image_credit": null
