@@ -1,0 +1,77 @@
+{
+ "date": "2026-11-25",
+ "date_hi": "25 November 2026",
+ "date_en": "25 November 2026",
+ "episodes": [
+  {
+   "episode": 161,
+   "video_hi": "spkShqRvOV0",
+   "video_hinglish": "spkShqRvOV0",
+   "capsules": [
+    {
+     "id": "ca-ep161-s1",
+     "headline_hi": "Bharat-EU mega trade deal, 16 December ko sign",
+     "headline_hinglish": "Bharat-EU mega trade deal, 16 December ko sign",
+     "detail_hi": "Brussels mein PM Modi ki yatra ke dauraan samjhote par hastakshar honge, 93 pratishat Bharatiya niryaat shulk-mukt hoga.",
+     "detail_hinglish": "Brussels mein PM Modi ki yatra ke dauraan samjhote par hastakshar honge, 93 pratishat Bharatiya niryaat shulk-mukt hoga.",
+     "category_hi": "Economy",
+     "category_en": "Economy"
+    },
+    {
+     "id": "ca-ep161-s2",
+     "headline_hi": "Manufacturing PMI 56.0, nau mahine ka record",
+     "headline_hinglish": "Manufacturing PMI 56.0, nau mahine ka record",
+     "detail_hi": "HSBC Flash PMI ke mutabik manufacturing 54.7 se badhkar 56.0 par, nau mahine ka sabse uncha star.",
+     "detail_hinglish": "HSBC Flash PMI ke mutabik manufacturing 54.7 se badhkar 56.0 par, nau mahine ka sabse uncha star.",
+     "category_hi": "Economy",
+     "category_en": "Economy"
+    },
+    {
+     "id": "ca-ep161-s3",
+     "headline_hi": "Deepika ki hat-trick, Bharat ne China ko 6-2 haraya",
+     "headline_hinglish": "Deepika ki hat-trick, Bharat ne China ko 6-2 haraya",
+     "detail_hi": "Bhopal mein Deepika ki pehle quarter mein hat-trick, Bharat FIH ranking mein paanchve number par.",
+     "detail_hinglish": "Bhopal mein Deepika ki pehle quarter mein hat-trick, Bharat FIH ranking mein paanchve number par.",
+     "category_hi": "Sports",
+     "category_en": "Sports"
+    },
+    {
+     "id": "ca-ep161-s4",
+     "headline_hi": "Hasina 16 December ko Dhaka lautne ki taiyaari",
+     "headline_hinglish": "Hasina 16 December ko Dhaka lautne ki taiyaari",
+     "detail_hi": "Do saal se zyada ke nirvaasan ke baad Hasina ne Vijay Diwas par Dhaka lautne ki ghoshna ki.",
+     "detail_hinglish": "Do saal se zyada ke nirvaasan ke baad Hasina ne Vijay Diwas par Dhaka lautne ki ghoshna ki.",
+     "category_hi": "International",
+     "category_en": "National"
+    },
+    {
+     "id": "ca-ep161-s5",
+     "headline_hi": "Tamil Nadu mein 70 deals, pachas hazaar crore nivesh",
+     "headline_hinglish": "Tamil Nadu mein 70 deals, pachas hazaar crore nivesh",
+     "detail_hi": "Chennai investor meet mein 70 samjhote honge, manufacturing, clean energy aur electronics mein nivesh.",
+     "detail_hinglish": "Chennai investor meet mein 70 samjhote honge, manufacturing, clean energy aur electronics mein nivesh.",
+     "category_hi": "Economy",
+     "category_en": "Economy"
+    }
+   ],
+   "mcq": {
+    "id": "ca-ep161-mcq",
+    "q_hi": "Bharat-EU vyapaar samjhote ke tahat Bharat ke kul niryaat ka kitna hissa shulk-mukt hoga?",
+    "q_hinglish": "Bharat-EU vyapaar samjhote ke tahat Bharat ke kul niryaat ka kitna hissa shulk-mukt hoga?",
+    "options_hi": [
+     "Tiranave pratishat",
+     "Pachhattar pratishat",
+     "Pachasi pratishat",
+     "Assi pratishat"
+    ],
+    "options_hinglish": [
+     "Tiranave pratishat",
+     "Pachhattar pratishat",
+     "Pachasi pratishat",
+     "Assi pratishat"
+    ],
+    "answer_index": 0
+   }
+  }
+ ]
+}
