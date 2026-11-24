@@ -664,6 +664,63 @@
       ],
       "image": "../images/world/world-20261124-1022-02.jpg",
       "image_credit": "Kyiv Independent"
+    },
+    {
+      "id": "world-20261124-1524-01",
+      "published_ist": "2026-11-24T12:06:00+05:30",
+      "headline": "Sanofi kharedega Insmed, $41 billion ka sauda",
+      "detail": "France ki Sanofi ne America ki Insmed ko $41 billion me khareedne ka samjhauta kiya, saans ki bimariyon ki dawaon ke liye; sauda 2027 ki pehli chhamahi me band hone ki ummeed hai.",
+      "category": "World",
+      "exam_angle": "Teen saal ki sabse badi pharma deal — economy",
+      "source": "Reuters",
+      "source_url": "https://www.reuters.com/legal/litigation/sanofi-acquire-insmed-41-billion-deal-2026-11-24/",
+      "genuineness": "verified",
+      "outlets": [
+        "Reuters",
+        "Wall Street Journal",
+        "Bloomberg",
+        "MarketWatch"
+      ],
+      "image": null,
+      "image_credit": null
+    },
+    {
+      "id": "world-20261124-1524-02",
+      "published_ist": "2026-11-24T12:00:00+05:30",
+      "headline": "Colombia me car bomb, governor karyalaya tabah",
+      "detail": "Villavicencio me Meta governor karyalaya ke paas car bomb phata, darjanon log ghayal hue, koi maut nahi; rashtrapati ne drug taskaron ko zimmedaar thahraya.",
+      "category": "World",
+      "exam_angle": null,
+      "source": "Al Jazeera",
+      "source_url": "https://www.aljazeera.com/amp/video/newsfeed/2026/11/24/car-bomb-strikes-governors-office-in-meta-colombia",
+      "genuineness": "verified",
+      "outlets": [
+        "Al Jazeera",
+        "Anadolu Agency",
+        "Xinhua",
+        "AFP"
+      ],
+      "image": null,
+      "image_credit": null
+    },
+    {
+      "id": "world-20261124-1524-03",
+      "published_ist": "2026-11-24T06:30:00+05:30",
+      "headline": "Hanoi me gas visfot, 6 mare, 10 ghayal",
+      "detail": "Hanoi me ek khane ki dukaan par subah gas visfot hua, imarat ka hissa gira aur 6 log mare gaye, 10 ghayal hue; bachav kaam jaari hai.",
+      "category": "World",
+      "exam_angle": null,
+      "source": "Reuters",
+      "source_url": "https://www.reuters.com/world/asia-pacific/explosion-kills-6-injures-10-vietnam-capital-hanoi-2026-11-24/",
+      "genuineness": "verified",
+      "outlets": [
+        "Reuters",
+        "VnExpress",
+        "Xinhua",
+        "Straits Times"
+      ],
+      "image": null,
+      "image_credit": null
     }
   ]
 }
