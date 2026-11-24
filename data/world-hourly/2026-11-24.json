@@ -973,6 +973,44 @@
       ],
       "image": null,
       "image_credit": null
+    },
+    {
+      "id": "world-20261124-2022-01",
+      "published_ist": "2026-11-24T16:56:00+05:30",
+      "headline": "Gaza me Hamas suraksha pramukh mara gaya",
+      "detail": "Mangalvaar ko Gaza City me Israeli drone hamle me Hamas ke internal security pramukh Naeem Abu Nahel samet 7 log mare gaye; IDF aur Shin Bet ne hamle ki pushti ki.",
+      "category": "World",
+      "exam_angle": "Gaza yuddhaviram ke bawjood hamle — West Asia tanaav",
+      "source": "Reuters",
+      "source_url": "https://www.reuters.com/world/middle-east/israeli-airstrike-kills-senior-hamas-security-official-gaza-hamas-sources-say-2026-11-24/",
+      "genuineness": "verified",
+      "outlets": [
+        "Reuters",
+        "Al Jazeera",
+        "The Jerusalem Post",
+        "Al Arabiya",
+        "Channel News Asia"
+      ],
+      "image": null,
+      "image_credit": null
+    },
+    {
+      "id": "world-20261124-2022-02",
+      "published_ist": "2026-11-23T12:00:00+05:30",
+      "headline": "Pentagon ne Canada ko raksha par fatkara",
+      "detail": "Pentagon ne kaha Canada raksha kharch aur F-35 khareed ki sameeksha par NATO vaade poore nahi kar raha; 2025-26 me vayu sena ke sirf 41.9% vimaan taiyaar the.",
+      "category": "World",
+      "exam_angle": "NATO ka 5% raksha-kharch lakshya (2035)",
+      "source": "Associated Press",
+      "source_url": "https://bostonglobe-prod.cdn.arcpublishing.com/2026/11/23/world/pentagon-rebukes-canada-defense-spending/",
+      "genuineness": "verified",
+      "outlets": [
+        "Associated Press",
+        "TBS News",
+        "Saudi Gazette"
+      ],
+      "image": null,
+      "image_credit": null
     }
   ]
 }
