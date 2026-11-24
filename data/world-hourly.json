@@ -1,6 +1,62 @@
 {
- "updated_ist": "2026-11-24T11:24:49+05:30",
+ "updated_ist": "2026-11-24T12:26:32+05:30",
  "items": [
+  {
+   "id": "world-20261124-1222-01",
+   "published_ist": "2026-11-23T12:00:00+05:30",
+   "headline": "Russia ki Estonia ko khule yuddh ki chetavni",
+   "detail": "Russia ke videsh mantralaya ne Estonia par 'khule yuddh' ke kagaar par hone ka aarop lagaya; Estonia 1 December se Russia se seema band kar raha hai aur aaropon ko kharij karta hai.",
+   "category": "World",
+   "exam_angle": "NATO–Russia tanaav: Baltic suraksha",
+   "source": "Reuters",
+   "source_url": "https://www.reuters.com/world/moscow-accuses-estonia-hostile-actions-verge-triggering-open-war-2026-11-23/",
+   "genuineness": "verified",
+   "outlets": [
+    "Reuters",
+    "Al Jazeera",
+    "Vijesti"
+   ],
+   "image": null,
+   "image_credit": null
+  },
+  {
+   "id": "world-20261124-1222-02",
+   "published_ist": "2026-11-23T12:00:00+05:30",
+   "headline": "Germany ke 450 schools ko bomb ki dhamki",
+   "detail": "Somvaar subah Germany ke 450 se zyada schools ko 'Death awaits you' vishay wale email se bomb ki dhamki mili; police ko koi vaastavik khatra nahi mila aur Denmark ke schools ko bhi aisi dhamki mili.",
+   "category": "World",
+   "exam_angle": "Europe me hybrid warfare aur afwah",
+   "source": "Reuters",
+   "source_url": "https://www.reuters.com/world/hundreds-german-schools-received-bomb-threats-bild-reports-2026-11-23/",
+   "genuineness": "verified",
+   "outlets": [
+    "Reuters",
+    "Dawn",
+    "Qatar Tribune",
+    "Ynet"
+   ],
+   "image": null,
+   "image_credit": null
+  },
+  {
+   "id": "world-20261124-1222-03",
+   "published_ist": "2026-11-23T12:00:00+05:30",
+   "headline": "Gaza ke ghayal bachche UK ilaaj ko pahunche",
+   "detail": "Gaza se gambhir roop se ghayal bachchon ka doosra samooh UK pahuncha, jahan NHS aspatalon me unka vishesh ilaaj hoga; pichhle saal bhi 50 bachche ilaaj ke liye laaye gaye the.",
+   "category": "World",
+   "exam_angle": "Gaza manaviya sankat: chikitsa nikasi",
+   "source": "The National",
+   "source_url": "https://www.thenationalnews.com/news/uk/2026/11/24/gazan-children-arrive-for-treatment-in-the-uk/",
+   "genuineness": "verified",
+   "outlets": [
+    "The National",
+    "Arab News",
+    "Qatar Tribune",
+    "GOV.UK"
+   ],
+   "image": null,
+   "image_credit": null
+  },
   {
    "id": "world-20261124-1124-01",
    "published_ist": "2026-11-24T12:00:00+05:30",
@@ -389,71 +445,6 @@
    ],
    "image": "../images/world/world-20261124-0622-02.jpg",
    "image_credit": "Timothy A. Gonsalves, Wikimedia Commons, CC BY-SA 4.0"
-  },
-  {
-   "id": "world-20261124-0622-03",
-   "published_ist": "2026-11-23T12:00:00+05:30",
-   "headline": "America ne Iran ki shadow banking par pratibandh",
-   "detail": "America ke Vitt Mantralaya ne Somvar ko Iran ke shadow banking network se jude do dozen se zyada exchange house, front company aur vyaktiyon par pratibandh lagaye; FinCEN ke mutabik January 2025 se August 2026 tak lagbhag $14.7 arab ki gatividhi is network se judi mili.",
-   "category": "World",
-   "exam_angle": "Pratibandh, shadow banking — UPSC IR/Economy",
-   "source": "Al Jazeera",
-   "source_url": "https://www.aljazeera.com/news/2026/11/23/us-escalates-sanctions-on-iran-targets-shadow-banking-networks",
-   "genuineness": "verified",
-   "outlets": [
-    "Reuters",
-    "Al Jazeera",
-    "The Jerusalem Post",
-    "The Times of Israel",
-    "US Treasury"
-   ],
-   "image": null,
-   "image_credit": null
-  },
-  {
-   "id": "world-20261123-2225-01",
-   "published_ist": "2026-11-23T12:00:00+05:30",
-   "headline": "Trump: Naye saal ke baad Iran par hamle",
-   "detail": "Rashtrapati Trump ne Fox News ko kaha saal ke ant tak samjhota na hua to naye saal ke baad Iran par dobara bade hamle karne ke paksh me hain; unhone Iran par baatchit me taang adaane ka aarop lagaya aur naakabandi todne wale jahaazon ko doobane ki chetavani bhi di.",
-   "category": "World",
-   "exam_angle": "America-Iran tanav, naakabandi, West Asia — UPSC IR",
-   "source": "NDTV",
-   "source_url": "https://www.ndtv.com/world-news/us-iran-war-us-president-donald-trump-sets-new-year-deadline-for-iran-warns-of-military-strikes-12363920?pfrom=home-ndtv_topstories_lastestImg",
-   "genuineness": "verified",
-   "outlets": [
-    "Fox News",
-    "Al Jazeera",
-    "The Jerusalem Post",
-    "Gulf News",
-    "Dawn",
-    "The Times of India",
-    "NDTV",
-    "Rudaw"
-   ],
-   "image": null,
-   "image_credit": null
-  },
-  {
-   "id": "world-20261123-2225-02",
-   "published_ist": "2026-11-23T17:03:00+05:30",
-   "headline": "Israeli sena me aatmahatya 16 saal me sabse zyada",
-   "detail": "Haaretz ki report ke mutabik 2026 me ab tak 23 sakriya Israeli sainik aur adhikari aatmahatya kar chuke hain — 16 saal me sabse zyada; yuddh ke baad seva chhodne wale 17 aur sainikon ne bhi is saal aatmahatya ki, jabki yuddh se pehle ke dashak me ausat 12 thi.",
-   "category": "World",
-   "exam_angle": "Israel-Gaza yuddh ka manaviya asar — UPSC IR",
-   "source": "Haaretz",
-   "source_url": "https://www.haaretz.com/israel-news/israel-security/2026-11-23/ty-article-magazine/.premium/23-israeli-soldiers-died-by-suicide-in-2026-the-highest-toll-in-16-years/000001a2-07ae-d17b-a1b3-5fbf04450000",
-   "genuineness": "verified",
-   "outlets": [
-    "Haaretz",
-    "TRT World",
-    "Yeni Safak",
-    "Al Mayadeen",
-    "Anadolu",
-    "Turkiye Today",
-    "The Express Tribune"
-   ],
-   "image": null,
-   "image_credit": null
   }
  ]
 }
