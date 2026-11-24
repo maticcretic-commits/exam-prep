@@ -1,6 +1,23 @@
 {
-  "updated_ist": "2026-11-24T20:26:21+05:30",
+  "updated_ist": "2026-11-24T21:26:44+05:30",
   "items": [
+    {
+      "id": "world-20261124-2122-01",
+      "published_ist": "2026-11-24T21:40:00+05:30",
+      "headline": "Philippines ko America se $2.4 arab raksha sauda",
+      "detail": "Philippines ke raksha mantri ne pushti ki America $2 arab ke vitt aur $40 crore ke anudan se samvedansheel raksha hathiyaar bechega; Dakshin Cheen Sagar me raksha kshamata badhegi.",
+      "category": "World",
+      "exam_angle": "America-Philippines raksha sauda, Dakshin Cheen Sagar — UPSC IR",
+      "source": "The Manila Times",
+      "source_url": "https://beta.manilatimes.net/2026/11/24/news/us-to-sell-defense-weapons-to-ph-under-2b-trump-deal/2476945",
+      "genuineness": "corroborated",
+      "outlets": [
+        "The Manila Times",
+        "South China Morning Post"
+      ],
+      "image": null,
+      "image_credit": null
+    },
     {
       "id": "world-20261124-2022-01",
       "published_ist": "2026-11-24T16:56:00+05:30",
@@ -22,72 +39,36 @@
       "image_credit": null
     },
     {
-      "id": "world-20261124-2022-02",
-      "published_ist": "2026-11-23T12:00:00+05:30",
-      "headline": "Pentagon ne Canada ko raksha par fatkara",
-      "detail": "Pentagon ne kaha Canada raksha kharch aur F-35 khareed ki sameeksha par NATO vaade poore nahi kar raha; 2025-26 me vayu sena ke sirf 41.9% vimaan taiyaar the.",
+      "id": "world-20261124-1723-01",
+      "published_ist": "2026-11-24T14:47:00+05:30",
+      "headline": "Hormuz me 2 aur tanker mine se takraye",
+      "detail": "Iran ki sena ne dawa kiya ki Mangalvaar subah Hormuz ke poorvi hisse me 2 tel tanker mine se takrakar aag ki lapet me aa gaye; is dawe ki swatantra pushti abhi baaki hai.",
       "category": "World",
-      "exam_angle": "NATO ka 5% raksha-kharch lakshya (2035)",
-      "source": "Associated Press",
-      "source_url": "https://bostonglobe-prod.cdn.arcpublishing.com/2026/11/23/world/pentagon-rebukes-canada-defense-spending/",
-      "genuineness": "verified",
-      "outlets": [
-        "Associated Press",
-        "TBS News",
-        "Saudi Gazette"
-      ],
-      "image": null,
-      "image_credit": null
-    },
-    {
-      "id": "world-20261124-1922-01",
-      "published_ist": "2026-11-24T12:00:00+05:30",
-      "headline": "Lebanon par Israel ke hamle, koi hatahat nahi",
-      "detail": "Mangalvaar ko Israel ne America ki madhyasthata wale samjhaute ke bawjood dakshin Lebanon ke Nabatieh, Marjayoun, Bint Jbeil aur Tyre jilon me hawai hamle aur golabari ki; Lebanon ki sarkari news agency NNA ke mutabik koi hatahat nahi hua.",
-      "category": "World",
-      "exam_angle": "Israel-Lebanon yuddhaviram — UPSC IR",
-      "source": "Yeni Safak",
-      "source_url": "https://en.yenisafak.com/world/israeli-strikes-hit-southern-lebanon-despite-us-mediated-deal-3725945",
+      "exam_angle": "Hormuz — duniya ki tel supply ka raasta",
+      "source": "Mehr News",
+      "source_url": "https://en.mehrnews.com/news/249667/2-violating-oil-tankers-catch-fire-in-east-of-Hormuz-Strait",
       "genuineness": "corroborated",
       "outlets": [
-        "Anadolu Agency",
-        "National News Agency (Lebanon)"
-      ],
-      "image": null,
-      "image_credit": null
-    },
-    {
-      "id": "world-20261124-1922-02",
-      "published_ist": "2026-11-23T12:00:00+05:30",
-      "headline": "Trump ke dabav se Huang phir Nvidia CEO",
-      "detail": "Nvidia board ne Jensen Huang ko CEO ke roop me wapas bahaal kiya — isteefe ke 11 din baad; Trump ne board se seedhi baat kar unki wapsi ka dabav banaya tha, aur ghoshna ke baad Nvidia ke share tezi se badhe.",
-      "category": "World",
-      "exam_angle": "Trump-Nvidia: corporate governance",
-      "source": "CNN",
-      "source_url": "https://www.cnn.com/2026/11/23/politics/trump-administration-jensen-huang-reinstated?cid=external-feeds_iluminar_meta",
-      "genuineness": "verified",
-      "outlets": [
-        "CNN",
-        "The Wall Street Journal",
-        "Le Monde"
-      ],
-      "image": null,
-      "image_credit": null
-    },
-    {
-      "id": "world-20261124-1922-03",
-      "published_ist": "2026-11-23T12:00:00+05:30",
-      "headline": "Colombia me drone hamla, 3 ghayal",
-      "detail": "Somvaar subah visfotak se lade drone ne Colombia ke Cúcuta shahar me police base par hamla kiya; 18 mahine ke bachche samet 3 nagrik ghayal hue aur 60 ghar kshatigrast hue; hamle ki zimmedari kisi ne nahi li.",
-      "category": "World",
-      "exam_angle": "Colombia: drone hamle — UPSC IR",
-      "source": "Al Jazeera",
-      "source_url": "https://www.aljazeera.com/news/2026/11/23/drone-attack-on-colombia-police-base-injures-civilians-including-infant?traffic_source=rss",
-      "genuineness": "verified",
-      "outlets": [
         "Al Jazeera",
-        "Associated Press",
-        "EFE"
+        "Mehr News",
+        "Gulf News"
+      ],
+      "image": null,
+      "image_credit": null
+    },
+    {
+      "id": "world-20261124-2122-02",
+      "published_ist": "2026-11-24T13:30:00+05:30",
+      "headline": "Landmine se hatahat 5 saal me sabse zyada",
+      "detail": "Landmine Monitor 2026 ke mutabik 2025 me 6,929 log mare ya ghayal hue — 5 saal me sabse zyada; 84% nagrik, aadhe bachche; Myanmar (1,891) aur Syria (1,602) sabse aage.",
+      "category": "World",
+      "exam_angle": "Landmine Monitor 2026, Mine Ban Treaty — UPSC IR",
+      "source": "The National",
+      "source_url": "https://www.thenationalnews.com/news/mena/2026/11/24/landmine-casualties-hit-five-year-high-as-refugees-return-to-syria/?title=Landmine+casualties+hit+five-year+high+as+refugees+return+to+Syria&mini=true&utm_source=linkedin&utm_medium=socialsharebtn",
+      "genuineness": "corroborated",
+      "outlets": [
+        "The National",
+        "Associated Press"
       ],
       "image": null,
       "image_credit": null
@@ -106,6 +87,79 @@
         "Associated Press",
         "Xinhua",
         "WION"
+      ],
+      "image": null,
+      "image_credit": null
+    },
+    {
+      "id": "world-20261124-1524-01",
+      "published_ist": "2026-11-24T12:06:00+05:30",
+      "headline": "Sanofi kharedega Insmed, $41 billion ka sauda",
+      "detail": "France ki Sanofi ne America ki Insmed ko $41 billion me khareedne ka samjhauta kiya, saans ki bimariyon ki dawaon ke liye; sauda 2027 ki pehli chhamahi me band hone ki ummeed hai.",
+      "category": "World",
+      "exam_angle": "Teen saal ki sabse badi pharma deal — economy",
+      "source": "Reuters",
+      "source_url": "https://www.reuters.com/legal/litigation/sanofi-acquire-insmed-41-billion-deal-2026-11-24/",
+      "genuineness": "verified",
+      "outlets": [
+        "Reuters",
+        "Wall Street Journal",
+        "Bloomberg",
+        "MarketWatch"
+      ],
+      "image": null,
+      "image_credit": null
+    },
+    {
+      "id": "world-20261124-2122-03",
+      "published_ist": "2026-11-24T12:00:00+05:30",
+      "headline": "Uttar Korea: Swiss karyalaya band karne ki dhamki",
+      "detail": "Kim Yo-jong ne Songdowon bachchon ke shivir par Swiss pratibandh ko 'khula shatrutapurna kaam' bataya aur Pyongyang me Switzerland ka rajnaitik karyalaya band karne ki dhamki di.",
+      "category": "World",
+      "exam_angle": "Uttar Korea-Switzerland, bachchon ka sthanantaran — UPSC IR",
+      "source": "Yonhap",
+      "source_url": "https://en.yna.co.kr/view/AEN20261124001151315",
+      "genuineness": "verified",
+      "outlets": [
+        "Yonhap",
+        "Associated Press",
+        "The Straits Times"
+      ],
+      "image": null,
+      "image_credit": null
+    },
+    {
+      "id": "world-20261124-2122-04",
+      "published_ist": "2026-11-24T12:00:00+05:30",
+      "headline": "Prince William ke ghar me ghuspaith, 2 giraftaar",
+      "detail": "Somvaar raat Sandringham estate ke Anmer Hall me ghuspaith par 2 log burglary aur trespass ke sandeh me giraftaar hue; ghar khaali tha, William-Kate maujood nahi the.",
+      "category": "World",
+      "exam_angle": null,
+      "source": "CNN",
+      "source_url": "https://www.cnn.com/2026/11/24/uk/uk-royals-william-kate-country-home-intl?cid=external-feeds_iluminar_meta",
+      "genuineness": "verified",
+      "outlets": [
+        "CNN",
+        "The Times",
+        "Arab News",
+        "Agence France-Presse"
+      ],
+      "image": null,
+      "image_credit": null
+    },
+    {
+      "id": "world-20261124-1922-01",
+      "published_ist": "2026-11-24T12:00:00+05:30",
+      "headline": "Lebanon par Israel ke hamle, koi hatahat nahi",
+      "detail": "Mangalvaar ko Israel ne America ki madhyasthata wale samjhaute ke bawjood dakshin Lebanon ke Nabatieh, Marjayoun, Bint Jbeil aur Tyre jilon me hawai hamle aur golabari ki; Lebanon ki sarkari news agency NNA ke mutabik koi hatahat nahi hua.",
+      "category": "World",
+      "exam_angle": "Israel-Lebanon yuddhaviram — UPSC IR",
+      "source": "Yeni Safak",
+      "source_url": "https://en.yenisafak.com/world/israeli-strikes-hit-southern-lebanon-despite-us-mediated-deal-3725945",
+      "genuineness": "corroborated",
+      "outlets": [
+        "Anadolu Agency",
+        "National News Agency (Lebanon)"
       ],
       "image": null,
       "image_credit": null
@@ -130,42 +184,6 @@
       "image_credit": null
     },
     {
-      "id": "world-20261124-1822-03",
-      "published_ist": "2026-11-21T08:31:00+05:30",
-      "headline": "Honda ne 8.1 lakh gaadiyaan wapas bulayi",
-      "detail": "America me Honda ne 8,10,592 purani gaadiyon ko Takata airbag inflator ke fatne ke khatre par wapas bulaya; Toyota ne bhi duniya bhar me 7.9 lakh gaadiyaan wapas bulayi, koi haadsa nahi hua.",
-      "category": "World",
-      "exam_angle": null,
-      "source": "Nikkei Asia",
-      "source_url": "https://asia.nikkei.com/business/automobiles/honda-toyota-recall-1.6m-vehicles-over-takata-airbag-rupture-risk",
-      "genuineness": "verified",
-      "outlets": [
-        "Reuters",
-        "USA Today",
-        "Business Standard"
-      ],
-      "image": null,
-      "image_credit": null
-    },
-    {
-      "id": "world-20261124-1723-01",
-      "published_ist": "2026-11-24T14:47:00+05:30",
-      "headline": "Hormuz me 2 aur tanker mine se takraye",
-      "detail": "Iran ki sena ne dawa kiya ki Mangalvaar subah Hormuz ke poorvi hisse me 2 tel tanker mine se takrakar aag ki lapet me aa gaye; is dawe ki swatantra pushti abhi baaki hai.",
-      "category": "World",
-      "exam_angle": "Hormuz — duniya ki tel supply ka raasta",
-      "source": "Mehr News",
-      "source_url": "https://en.mehrnews.com/news/249667/2-violating-oil-tankers-catch-fire-in-east-of-Hormuz-Strait",
-      "genuineness": "corroborated",
-      "outlets": [
-        "Al Jazeera",
-        "Mehr News",
-        "Gulf News"
-      ],
-      "image": null,
-      "image_credit": null
-    },
-    {
       "id": "world-20261124-1723-02",
       "published_ist": "2026-11-24T12:00:00+05:30",
       "headline": "Yemen me August se 3.6 lakh visthapit",
@@ -179,42 +197,6 @@
         "UN",
         "Anadolu Agency",
         "Channel NewsAsia"
-      ],
-      "image": null,
-      "image_credit": null
-    },
-    {
-      "id": "world-20261124-1723-03",
-      "published_ist": "2026-11-23T12:00:00+05:30",
-      "headline": "Virginia, Oregon ne Grok par mukadma kiya",
-      "detail": "Virginia aur Oregon ne SpaceX par mukadma kiya, aarop hai Grok ki 'spicy mode' se bina sahmati ke yaun tasveerein bani; pehli baar rajyon ne AI company par mukadma kiya.",
-      "category": "World",
-      "exam_angle": "AI suraksha, upbhokta kanoon — UPSC S&T",
-      "source": "Reuters",
-      "source_url": "https://www.reuters.com/legal/government/virginia-oregon-sue-musks-spacex-over-grok-ais-creation-child-sexual-abuse-2026-11-23/",
-      "genuineness": "verified",
-      "outlets": [
-        "Reuters",
-        "Al Jazeera",
-        "Associated Press"
-      ],
-      "image": null,
-      "image_credit": null
-    },
-    {
-      "id": "world-20261124-1723-04",
-      "published_ist": "2026-11-23T12:00:00+05:30",
-      "headline": "UK ne Myanmar ke 5 generalon par pratibandh",
-      "detail": "ICJ ke narsanhar faisle ke baad UK ne Myanmar ke 5 varishth sainya adhikariyon par pratibandh lagaye; vimanan indhan niryaat par rok ki yojana bhi ghoshit ki.",
-      "category": "World",
-      "exam_angle": "ICJ narsanhar faisla, UK pratibandh — UPSC IR",
-      "source": "SCMP",
-      "source_url": "https://www.scmp.com/news/world/europe/article/3375529/uk-sanctions-myanmar-president-military-figures-after-genocide-ruling",
-      "genuineness": "verified",
-      "outlets": [
-        "SCMP",
-        "The Independent",
-        "DVB"
       ],
       "image": null,
       "image_credit": null
@@ -292,25 +274,6 @@
       "image_credit": null
     },
     {
-      "id": "world-20261124-1524-01",
-      "published_ist": "2026-11-24T12:06:00+05:30",
-      "headline": "Sanofi kharedega Insmed, $41 billion ka sauda",
-      "detail": "France ki Sanofi ne America ki Insmed ko $41 billion me khareedne ka samjhauta kiya, saans ki bimariyon ki dawaon ke liye; sauda 2027 ki pehli chhamahi me band hone ki ummeed hai.",
-      "category": "World",
-      "exam_angle": "Teen saal ki sabse badi pharma deal — economy",
-      "source": "Reuters",
-      "source_url": "https://www.reuters.com/legal/litigation/sanofi-acquire-insmed-41-billion-deal-2026-11-24/",
-      "genuineness": "verified",
-      "outlets": [
-        "Reuters",
-        "Wall Street Journal",
-        "Bloomberg",
-        "MarketWatch"
-      ],
-      "image": null,
-      "image_credit": null
-    },
-    {
       "id": "world-20261124-1524-02",
       "published_ist": "2026-11-24T12:00:00+05:30",
       "headline": "Colombia me car bomb, governor karyalaya tabah",
@@ -325,6 +288,42 @@
         "Anadolu Agency",
         "Xinhua",
         "AFP"
+      ],
+      "image": null,
+      "image_credit": null
+    },
+    {
+      "id": "world-20261124-1322-01",
+      "published_ist": "2026-11-24T12:00:00+05:30",
+      "headline": "UAE me bus-truck takkar, 11 mare",
+      "detail": "Ras Al Khaimah me Al Watan Road par bus aur truck ki takkar me 11 log mare; jaanch jaari hai.",
+      "category": "World",
+      "exam_angle": null,
+      "source": "Reuters",
+      "source_url": "https://www.reuters.com/world/bus-truck-collision-kills-11-uaes-ras-al-khaimah-2026-11-24/",
+      "genuineness": "verified",
+      "outlets": [
+        "Reuters",
+        "Gulf News",
+        "Khaleej Times",
+        "Dawn"
+      ],
+      "image": null,
+      "image_credit": null
+    },
+    {
+      "id": "world-20261124-1422-03",
+      "published_ist": "2026-11-24T08:41:00+05:30",
+      "headline": "Trump ne Iowa visfot par rok lagayi",
+      "detail": "Rashtrapati Trump ne Iowa plant me zehrele lead azide ke visfot ko adalat ke faisle tak rokne ka aadesh diya.",
+      "category": "World",
+      "exam_angle": null,
+      "source": "The Times of India",
+      "source_url": "https://timesofindia.indiatimes.com/india/latest-india-world-news-live-updates-today-breaking-news-november-24-2026/liveblog/136113590.cms",
+      "genuineness": "corroborated",
+      "outlets": [
+        "Reuters",
+        "The Times of India"
       ],
       "image": null,
       "image_credit": null
@@ -349,92 +348,91 @@
       "image_credit": null
     },
     {
-      "id": "world-20261124-1422-01",
+      "id": "world-20261124-2022-02",
       "published_ist": "2026-11-23T12:00:00+05:30",
-      "headline": "Gaza hamle me UNRWA karmchari samet 3 mare",
-      "detail": "Somvaar ko Gaza ke Jabalia camp me Israeli hamle me UNRWA karmchari Adel Al-Helo samet kam se kam 3 log mare gaye, 3 ghayal hue.",
+      "headline": "Pentagon ne Canada ko raksha par fatkara",
+      "detail": "Pentagon ne kaha Canada raksha kharch aur F-35 khareed ki sameeksha par NATO vaade poore nahi kar raha; 2025-26 me vayu sena ke sirf 41.9% vimaan taiyaar the.",
       "category": "World",
-      "exam_angle": null,
+      "exam_angle": "NATO ka 5% raksha-kharch lakshya (2035)",
+      "source": "Associated Press",
+      "source_url": "https://bostonglobe-prod.cdn.arcpublishing.com/2026/11/23/world/pentagon-rebukes-canada-defense-spending/",
+      "genuineness": "verified",
+      "outlets": [
+        "Associated Press",
+        "TBS News",
+        "Saudi Gazette"
+      ],
+      "image": null,
+      "image_credit": null
+    },
+    {
+      "id": "world-20261124-1922-02",
+      "published_ist": "2026-11-23T12:00:00+05:30",
+      "headline": "Trump ke dabav se Huang phir Nvidia CEO",
+      "detail": "Nvidia board ne Jensen Huang ko CEO ke roop me wapas bahaal kiya — isteefe ke 11 din baad; Trump ne board se seedhi baat kar unki wapsi ka dabav banaya tha, aur ghoshna ke baad Nvidia ke share tezi se badhe.",
+      "category": "World",
+      "exam_angle": "Trump-Nvidia: corporate governance",
+      "source": "CNN",
+      "source_url": "https://www.cnn.com/2026/11/23/politics/trump-administration-jensen-huang-reinstated?cid=external-feeds_iluminar_meta",
+      "genuineness": "verified",
+      "outlets": [
+        "CNN",
+        "The Wall Street Journal",
+        "Le Monde"
+      ],
+      "image": null,
+      "image_credit": null
+    },
+    {
+      "id": "world-20261124-1922-03",
+      "published_ist": "2026-11-23T12:00:00+05:30",
+      "headline": "Colombia me drone hamla, 3 ghayal",
+      "detail": "Somvaar subah visfotak se lade drone ne Colombia ke Cúcuta shahar me police base par hamla kiya; 18 mahine ke bachche samet 3 nagrik ghayal hue aur 60 ghar kshatigrast hue; hamle ki zimmedari kisi ne nahi li.",
+      "category": "World",
+      "exam_angle": "Colombia: drone hamle — UPSC IR",
+      "source": "Al Jazeera",
+      "source_url": "https://www.aljazeera.com/news/2026/11/23/drone-attack-on-colombia-police-base-injures-civilians-including-infant?traffic_source=rss",
+      "genuineness": "verified",
+      "outlets": [
+        "Al Jazeera",
+        "Associated Press",
+        "EFE"
+      ],
+      "image": null,
+      "image_credit": null
+    },
+    {
+      "id": "world-20261124-1723-03",
+      "published_ist": "2026-11-23T12:00:00+05:30",
+      "headline": "Virginia, Oregon ne Grok par mukadma kiya",
+      "detail": "Virginia aur Oregon ne SpaceX par mukadma kiya, aarop hai Grok ki 'spicy mode' se bina sahmati ke yaun tasveerein bani; pehli baar rajyon ne AI company par mukadma kiya.",
+      "category": "World",
+      "exam_angle": "AI suraksha, upbhokta kanoon — UPSC S&T",
       "source": "Reuters",
-      "source_url": "https://www.reuters.com/world/middle-east/israeli-strike-kills-worker-with-un-palestinian-agency-gaza-agency-says-2026-11-23/",
+      "source_url": "https://www.reuters.com/legal/government/virginia-oregon-sue-musks-spacex-over-grok-ais-creation-child-sexual-abuse-2026-11-23/",
       "genuineness": "verified",
       "outlets": [
         "Reuters",
-        "Dawn",
-        "Channel News Asia",
-        "Al Jazeera"
+        "Al Jazeera",
+        "Associated Press"
       ],
       "image": null,
       "image_credit": null
     },
     {
-      "id": "world-20261124-1422-02",
+      "id": "world-20261124-1723-04",
       "published_ist": "2026-11-23T12:00:00+05:30",
-      "headline": "Iran: US nakabandi ka har tarike se jawab",
-      "detail": "Iran ke videsh mantri ke pravakta Baghaei ne kaha, Tehran America ki nausena nakabandi ko sainya hamla manta hai aur har upaay se iska jawab dega.",
+      "headline": "UK ne Myanmar ke 5 generalon par pratibandh",
+      "detail": "ICJ ke narsanhar faisle ke baad UK ne Myanmar ke 5 varishth sainya adhikariyon par pratibandh lagaye; vimanan indhan niryaat par rok ki yojana bhi ghoshit ki.",
       "category": "World",
-      "exam_angle": "Hormuz jaladmaru — duniya ki urja suraksha se juda",
-      "source": "Dawn",
-      "source_url": "https://www.dawn.com/news/2046677",
+      "exam_angle": "ICJ narsanhar faisla, UK pratibandh — UPSC IR",
+      "source": "SCMP",
+      "source_url": "https://www.scmp.com/news/world/europe/article/3375529/uk-sanctions-myanmar-president-military-figures-after-genocide-ruling",
       "genuineness": "verified",
       "outlets": [
-        "Reuters",
-        "Dawn",
-        "The National",
-        "Qatar Tribune"
-      ],
-      "image": null,
-      "image_credit": null
-    },
-    {
-      "id": "world-20261124-1422-03",
-      "published_ist": "2026-11-24T08:41:00+05:30",
-      "headline": "Trump ne Iowa visfot par rok lagayi",
-      "detail": "Rashtrapati Trump ne Iowa plant me zehrele lead azide ke visfot ko adalat ke faisle tak rokne ka aadesh diya.",
-      "category": "World",
-      "exam_angle": null,
-      "source": "The Times of India",
-      "source_url": "https://timesofindia.indiatimes.com/india/latest-india-world-news-live-updates-today-breaking-news-november-24-2026/liveblog/136113590.cms",
-      "genuineness": "corroborated",
-      "outlets": [
-        "Reuters",
-        "The Times of India"
-      ],
-      "image": null,
-      "image_credit": null
-    },
-    {
-      "id": "world-20261124-1422-04",
-      "published_ist": "2026-11-23T12:00:00+05:30",
-      "headline": "Germany Ukraine ke Delta system ka istemal karega",
-      "detail": "Germany aur Ukraine ne sahmati-patra par hastakshar kiye, jisse German sena Kyiv ke Delta yuddh-prabandhan system ka upyog kar sakegi.",
-      "category": "World",
-      "exam_angle": null,
-      "source": "Reuters",
-      "source_url": "https://www.devdiscourse.com/article/international/4011043-reuters-world-news-summary",
-      "genuineness": "corroborated",
-      "outlets": [
-        "Reuters",
-        "Ukrinform"
-      ],
-      "image": null,
-      "image_credit": null
-    },
-    {
-      "id": "world-20261124-1322-01",
-      "published_ist": "2026-11-24T12:00:00+05:30",
-      "headline": "UAE me bus-truck takkar, 11 mare",
-      "detail": "Ras Al Khaimah me Al Watan Road par bus aur truck ki takkar me 11 log mare; jaanch jaari hai.",
-      "category": "World",
-      "exam_angle": null,
-      "source": "Reuters",
-      "source_url": "https://www.reuters.com/world/bus-truck-collision-kills-11-uaes-ras-al-khaimah-2026-11-24/",
-      "genuineness": "verified",
-      "outlets": [
-        "Reuters",
-        "Gulf News",
-        "Khaleej Times",
-        "Dawn"
+        "SCMP",
+        "The Independent",
+        "DVB"
       ],
       "image": null,
       "image_credit": null
