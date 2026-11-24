@@ -865,6 +865,61 @@
       ],
       "image": null,
       "image_credit": null
+    },
+    {
+      "id": "world-20261124-1822-01",
+      "published_ist": "2026-11-24T12:30:00+05:30",
+      "headline": "Serbia school me golibari, 2 ghayal",
+      "detail": "Kragujevac ke First Technical School me 17 saal ke chhatra ne rifle se goli chalayi; ek karmchari ko goli lagi, dusra kanch se ghayal hua, koi chhatra ghayal nahi hua aur hamlaawar giraftaar hai.",
+      "category": "World",
+      "exam_angle": null,
+      "source": "Associated Press",
+      "source_url": "https://www.ottumwacourier.com/news/national_news/serbian-police-arrest-a-17-year-old-after-shots-fired-at-a-high-school/article_7c592f46-3d20-5178-ab77-37145e0afe16.html",
+      "genuineness": "verified",
+      "outlets": [
+        "Associated Press",
+        "Xinhua",
+        "WION"
+      ],
+      "image": null,
+      "image_credit": null
+    },
+    {
+      "id": "world-20261124-1822-02",
+      "published_ist": "2026-11-24T12:00:00+05:30",
+      "headline": "Iraq ne Kurdistan ke tel-kshetra par kabza liya",
+      "detail": "PM Ali al-Zaidi ne tel taskari jaanch ke baad Kurdistan ke saare border crossing aur 4 pranton ke tel-kshetra sanghiya niyantran me lene ka aadesh diya; Kurdistan ke PM ne is faisle ko kharij kar diya.",
+      "category": "World",
+      "exam_angle": "Iraq-Kurdistan tel vivad - West Asia IR",
+      "source": "Al Jazeera",
+      "source_url": "https://www.aljazeera.com/news/2026/11/24/iraq-orders-takeover-of-oilfields-in-areas-under-kurdish-control",
+      "genuineness": "verified",
+      "outlets": [
+        "Al Jazeera",
+        "Reuters",
+        "Arab News",
+        "Rudaw"
+      ],
+      "image": null,
+      "image_credit": null
+    },
+    {
+      "id": "world-20261124-1822-03",
+      "published_ist": "2026-11-21T08:31:00+05:30",
+      "headline": "Honda ne 8.1 lakh gaadiyaan wapas bulayi",
+      "detail": "America me Honda ne 8,10,592 purani gaadiyon ko Takata airbag inflator ke fatne ke khatre par wapas bulaya; Toyota ne bhi duniya bhar me 7.9 lakh gaadiyaan wapas bulayi, koi haadsa nahi hua.",
+      "category": "World",
+      "exam_angle": null,
+      "source": "Nikkei Asia",
+      "source_url": "https://asia.nikkei.com/business/automobiles/honda-toyota-recall-1.6m-vehicles-over-takata-airbag-rupture-risk",
+      "genuineness": "verified",
+      "outlets": [
+        "Reuters",
+        "USA Today",
+        "Business Standard"
+      ],
+      "image": null,
+      "image_credit": null
     }
   ]
 }
