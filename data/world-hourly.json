@@ -1,5 +1,5 @@
 {
-  "updated_ist": "2026-11-24T21:26:44+05:30",
+  "updated_ist": "2026-11-24T22:27:22+05:30",
   "items": [
     {
       "id": "world-20261124-2122-01",
@@ -14,6 +14,63 @@
       "outlets": [
         "The Manila Times",
         "South China Morning Post"
+      ],
+      "image": null,
+      "image_credit": null
+    },
+    {
+      "id": "world-20261124-2222-02",
+      "published_ist": "2026-11-24T20:56:00+05:30",
+      "headline": "Shanghai ke party pramukh Chen Jining jaanch me",
+      "detail": "China ki sarkari Xinhua ne kaha Shanghai ke party pramukh aur Politburo sadasya Chen Jining 'gambhir anushasan ullanghan' ke sandeh me jaanch ke dayre me hain; 2025 se chauthe Politburo sadasya par jaanch.",
+      "category": "World",
+      "exam_angle": "China ki rajneeti, Xi ka bhrashtachar-virodhi abhiyan — UPSC IR",
+      "source": "Reuters",
+      "source_url": "https://www.reuters.com/world/china-investigates-politburo-member-chen-jining-xinhua-says-2026-11-24/",
+      "genuineness": "verified",
+      "outlets": [
+        "Reuters",
+        "CNN",
+        "Al Jazeera",
+        "The Wall Street Journal"
+      ],
+      "image": null,
+      "image_credit": null
+    },
+    {
+      "id": "world-20261124-2222-01",
+      "published_ist": "2026-11-24T19:57:00+05:30",
+      "headline": "Riyadh ke vittiya jile ki tower par hamla",
+      "detail": "Saudi netritva wale gathbandhan ne kaha Riyadh ke King Abdullah Financial District ki tower par 'aatankwadi hamla' hua; 11 log ghayal hue jinme 2 Bharatiya bhi hain, Civil Defence ne bataya.",
+      "category": "World",
+      "exam_angle": "Houthi-Saudi tanaav, West Asia — UPSC IR",
+      "source": "Al Jazeera",
+      "source_url": "https://www.aljazeera.com/news/2026/11/24/saudi-led-coalition-condemns-terrorist-attack-on-tower-in-riyadh",
+      "genuineness": "verified",
+      "outlets": [
+        "Al Jazeera",
+        "Reuters",
+        "Arab News",
+        "The Straits Times"
+      ],
+      "image": "../images/world/world-20261124-2222-01.jpg",
+      "image_credit": "Faisal Arif, CC BY-SA 4.0, Wikimedia Commons"
+    },
+    {
+      "id": "world-20261124-1723-01",
+      "published_ist": "2026-11-24T18:33:00+05:30",
+      "headline": "Hormuz me chautha tanker bhi mine se takraya",
+      "detail": "Update: Mangalvaar ko Hormuz ke poorvi hisse me chautha tanker bhi mine se takrakar aag ki lapet me aa gaya; IRGC ke mutabik pichhle 24 ghante me 5 jahaz mine se takraye, jabki UK samudri agency ne 3 jahazon par hamle ki pushti ki.",
+      "category": "World",
+      "exam_angle": "Hormuz — duniya ki tel supply ka raasta",
+      "source": "Al Jazeera",
+      "source_url": "https://www.aljazeera.com/amp/news/liveblog/2026/11/24/iran-war-live-iran-says-three-ships-catch-fire-after-hitting-hormuz-mines",
+      "genuineness": "verified",
+      "outlets": [
+        "Al Jazeera",
+        "Saudi Gazette",
+        "Mehr News",
+        "APA"
       ],
       "image": null,
       "image_credit": null
@@ -34,24 +91,6 @@
         "The Jerusalem Post",
         "Al Arabiya",
         "Channel News Asia"
-      ],
-      "image": null,
-      "image_credit": null
-    },
-    {
-      "id": "world-20261124-1723-01",
-      "published_ist": "2026-11-24T14:47:00+05:30",
-      "headline": "Hormuz me 2 aur tanker mine se takraye",
-      "detail": "Iran ki sena ne dawa kiya ki Mangalvaar subah Hormuz ke poorvi hisse me 2 tel tanker mine se takrakar aag ki lapet me aa gaye; is dawe ki swatantra pushti abhi baaki hai.",
-      "category": "World",
-      "exam_angle": "Hormuz — duniya ki tel supply ka raasta",
-      "source": "Mehr News",
-      "source_url": "https://en.mehrnews.com/news/249667/2-violating-oil-tankers-catch-fire-in-east-of-Hormuz-Strait",
-      "genuineness": "corroborated",
-      "outlets": [
-        "Al Jazeera",
-        "Mehr News",
-        "Gulf News"
       ],
       "image": null,
       "image_credit": null
@@ -397,42 +436,6 @@
         "Al Jazeera",
         "Associated Press",
         "EFE"
-      ],
-      "image": null,
-      "image_credit": null
-    },
-    {
-      "id": "world-20261124-1723-03",
-      "published_ist": "2026-11-23T12:00:00+05:30",
-      "headline": "Virginia, Oregon ne Grok par mukadma kiya",
-      "detail": "Virginia aur Oregon ne SpaceX par mukadma kiya, aarop hai Grok ki 'spicy mode' se bina sahmati ke yaun tasveerein bani; pehli baar rajyon ne AI company par mukadma kiya.",
-      "category": "World",
-      "exam_angle": "AI suraksha, upbhokta kanoon — UPSC S&T",
-      "source": "Reuters",
-      "source_url": "https://www.reuters.com/legal/government/virginia-oregon-sue-musks-spacex-over-grok-ais-creation-child-sexual-abuse-2026-11-23/",
-      "genuineness": "verified",
-      "outlets": [
-        "Reuters",
-        "Al Jazeera",
-        "Associated Press"
-      ],
-      "image": null,
-      "image_credit": null
-    },
-    {
-      "id": "world-20261124-1723-04",
-      "published_ist": "2026-11-23T12:00:00+05:30",
-      "headline": "UK ne Myanmar ke 5 generalon par pratibandh",
-      "detail": "ICJ ke narsanhar faisle ke baad UK ne Myanmar ke 5 varishth sainya adhikariyon par pratibandh lagaye; vimanan indhan niryaat par rok ki yojana bhi ghoshit ki.",
-      "category": "World",
-      "exam_angle": "ICJ narsanhar faisla, UK pratibandh — UPSC IR",
-      "source": "SCMP",
-      "source_url": "https://www.scmp.com/news/world/europe/article/3375529/uk-sanctions-myanmar-president-military-figures-after-genocide-ruling",
-      "genuineness": "verified",
-      "outlets": [
-        "SCMP",
-        "The Independent",
-        "DVB"
       ],
       "image": null,
       "image_credit": null
