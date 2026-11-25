@@ -142,6 +142,76 @@
     ],
     "answer_index": 2
    }
+  },
+  {
+   "episode": 163,
+   "video_hi": "3ZlHDTDUyk0",
+   "video_hinglish": "3ZlHDTDUyk0",
+   "capsules": [
+    {
+     "id": "ca-ep163-s1",
+     "headline_hi": "SC ne Delhi riots mein bail se inkaar kiya",
+     "headline_hinglish": "SC ne Delhi riots mein bail se inkaar kiya",
+     "detail_hi": "Supreme Court ne Delhi riots case mein Umar Khalid aur Sharjeel Imam ko interim bail dene se inkaar kar diya.",
+     "detail_hinglish": "Supreme Court ne Delhi riots case mein Umar Khalid aur Sharjeel Imam ko interim bail dene se inkaar kar diya.",
+     "category_hi": "Polity",
+     "category_en": "Polity"
+    },
+    {
+     "id": "ca-ep163-s2",
+     "headline_hi": "Riyadh hamle par Bharat ki ninda, 2 ghayal",
+     "headline_hinglish": "Riyadh hamle par Bharat ki ninda, 2 ghayal",
+     "detail_hi": "Riyadh ke financial district par hamle mein do Bharatiya ghayal hue, Bharat ne turant hamle rokne ki maang ki.",
+     "detail_hinglish": "Riyadh ke financial district par hamle mein do Bharatiya ghayal hue, Bharat ne turant hamle rokne ki maang ki.",
+     "category_hi": "International",
+     "category_en": "National"
+    },
+    {
+     "id": "ca-ep163-s3",
+     "headline_hi": "NTPC ne bharti pariksha ka result radd kiya",
+     "headline_hinglish": "NTPC ne bharti pariksha ka result radd kiya",
+     "detail_hi": "NTPC ne bharti pariksha ke natije radd kar diye, ummidwaron ne pardarshita aur mantri se hastakshep ki maang ki.",
+     "detail_hinglish": "NTPC ne bharti pariksha ke natije radd kar diye, ummidwaron ne pardarshita aur mantri se hastakshep ki maang ki.",
+     "category_hi": "Education",
+     "category_en": "Education"
+    },
+    {
+     "id": "ca-ep163-s4",
+     "headline_hi": "Delhi ki hawa phir 'Very Poor', AQI 327",
+     "headline_hinglish": "Delhi ki hawa phir 'Very Poor', AQI 327",
+     "detail_hi": "Anand Vihar mein AQI 327 darj hua, Delhi ki hawa phir se 'Very Poor' shreni mein pahunch gayi.",
+     "detail_hinglish": "Anand Vihar mein AQI 327 darj hua, Delhi ki hawa phir se 'Very Poor' shreni mein pahunch gayi.",
+     "category_hi": "Environment",
+     "category_en": "Environment"
+    },
+    {
+     "id": "ca-ep163-s5",
+     "headline_hi": "HPV vaccination mein 1 crore ka aankda paar",
+     "headline_hinglish": "HPV vaccination mein 1 crore ka aankda paar",
+     "detail_hi": "Bharat ne HPV vaccination drive mein ek crore ka aankda paar kar liya, PM Modi ne is uplabdhi ki sarahna ki.",
+     "detail_hinglish": "Bharat ne HPV vaccination drive mein ek crore ka aankda paar kar liya, PM Modi ne is uplabdhi ki sarahna ki.",
+     "category_hi": "Health",
+     "category_en": "Health"
+    }
+   ],
+   "mcq": {
+    "id": "ca-ep163-mcq",
+    "q_hi": "Bharat ne HPV vaccination drive mein kitna aankda paar kiya?",
+    "q_hinglish": "Bharat ne HPV vaccination drive mein kitna aankda paar kiya?",
+    "options_hi": [
+     "Pachaas lakh",
+     "Ek crore",
+     "Do crore",
+     "Paanch crore"
+    ],
+    "options_hinglish": [
+     "Pachaas lakh",
+     "Ek crore",
+     "Do crore",
+     "Paanch crore"
+    ],
+    "answer_index": 1
+   }
   }
  ]
 }
