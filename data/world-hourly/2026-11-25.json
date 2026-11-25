@@ -552,6 +552,83 @@
       ],
       "image": null,
       "image_credit": null
+    },
+    {
+      "id": "world-20261125-1525-01",
+      "published_ist": "2026-11-24T12:00:00+05:30",
+      "headline": "Riyadh tower par dobara hamla, 11 ghayal",
+      "detail": "Mangalvaar ko Houthi drone ne Riyadh ke King Abdullah Financial District ki PIF Tower par dobara hamla kiya; 11 log ghayal hue, jinme 2 Bharatiya bhi hain.",
+      "category": "World",
+      "exam_angle": "Houthi hamle, Saudi-Yemen sangharsh — UPSC IR",
+      "source": "Al Jazeera",
+      "source_url": "https://www.aljazeera.com/news/2026/11/24/saudi-led-coalition-condemns-terrorist-attack-on-tower-in-riyadh",
+      "genuineness": "verified",
+      "outlets": [
+        "Al Jazeera",
+        "The Wall Street Journal",
+        "Arab News",
+        "Dawn",
+        "South China Morning Post"
+      ],
+      "image": "../images/world/world-20261125-1525-01.jpg",
+      "image_credit": "Al Jazeera"
+    },
+    {
+      "id": "world-20261125-1525-02",
+      "published_ist": "2026-11-24T12:00:00+05:30",
+      "headline": "America ki sabse badi scam karvai",
+      "detail": "America ke Nyay Vibhag ne duniya bhar me 400 se zyada mamlo me 800 se zyada aaropiyon par karvai ki; FBI ke Operation Blackout me 4 mahadweepon par 29 scam compound dhwast kiye gaye.",
+      "category": "World",
+      "exam_angle": "Cyber dhokhadhadi, Operation Blackout — UPSC S&T",
+      "source": "U.S. Department of Justice",
+      "source_url": "https://www.justice.gov/opa/pr/justice-department-announces-largest-ever-crackdown-scammers-targeting-over-800-defendants",
+      "genuineness": "verified",
+      "outlets": [
+        "U.S. Department of Justice",
+        "Fox News",
+        "New York Post",
+        "The Tribune"
+      ],
+      "image": null,
+      "image_credit": null
+    },
+    {
+      "id": "world-20261125-1525-03",
+      "published_ist": "2026-11-25T09:14:00+05:30",
+      "headline": "Gaza me doosra Hamas adhikari mara gaya",
+      "detail": "Budhvaar subah Gaza City me Israeli hamle me Hamas ke suraksha adhikari Mohammad Abuelouf, unki patni aur 2 bachche mare gaye; 24 ghante me doosre bade Hamas adhikari ki maut hai.",
+      "category": "World",
+      "exam_angle": "Gaza sangharsh, yuddh-viram — UPSC IR",
+      "source": "Reuters",
+      "source_url": "https://www.reuters.com/world/middle-east/israeli-strike-kills-hamas-official-his-wife-children-2026-11-25/",
+      "genuineness": "verified",
+      "outlets": [
+        "Reuters",
+        "Haaretz",
+        "The Jerusalem Post",
+        "Dawn",
+        "Arab News"
+      ],
+      "image": null,
+      "image_credit": null
+    },
+    {
+      "id": "world-20261125-1525-04",
+      "published_ist": "2026-11-24T04:18:00+05:30",
+      "headline": "Russia ka drone Poland ki seema me ghusa",
+      "detail": "23 November ki raat Russia ka nigrani drone Poland ke hawai-kshetra me ghus gaya; Poland ne ise jaanboojh kar uksav kaha, lekin nagrikon ko khatra dekh kar use giraya nahi.",
+      "category": "World",
+      "exam_angle": "NATO-Russia tanaav, Poland — UPSC IR",
+      "source": "Kyiv Independent",
+      "source_url": "https://kyivindependent.com/russian-unmanned-aerial-vehicle-violates-polish-airspace-days-after-missile-incursion/",
+      "genuineness": "verified",
+      "outlets": [
+        "Kyiv Independent",
+        "The New Voice of Ukraine",
+        "Dawn"
+      ],
+      "image": null,
+      "image_credit": null
     }
   ]
 }
