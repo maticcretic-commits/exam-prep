@@ -54,6 +54,62 @@
       ],
       "image": null,
       "image_credit": null
+    },
+    {
+      "id": "world-20261125-0722-01",
+      "published_ist": "2026-11-24T15:21:00+05:30",
+      "headline": "Libya me Ukraine ne Russia ka yuddh-pot duboya",
+      "detail": "Ravivaar ko Benghazi bandargah par Ukraine ke 7 samudri drone ne Russia ki corvette Merkuriy ko duboya aur Angara jahaz ko nuksan pahunchaya; Zelensky ne isey 'exemplary operation' kaha.",
+      "category": "World",
+      "exam_angle": "Ukraine ki long-range strike kshamata, Libya sangharsh — UPSC IR",
+      "source": "Al Jazeera",
+      "source_url": "https://www.aljazeera.com/amp/news/2026/11/24/russian-attack-kills-two-people-in-ukraines-zaporizhzhia",
+      "genuineness": "verified",
+      "outlets": [
+        "The Times",
+        "Al Jazeera",
+        "Reuters"
+      ],
+      "image": "../images/world/world-20261125-0722-01.jpg",
+      "image_credit": "Ministry of Defense of Russia, CC BY 4.0, Wikimedia Commons"
+    },
+    {
+      "id": "world-20261125-0722-02",
+      "published_ist": "2026-11-24T18:50:00+05:30",
+      "headline": "Finland khadi me Russia ke jahaz par hamla",
+      "detail": "Zelensky ne pushti ki Ukraine ne Shanivaar ko Finland ki khadi me Russia ke cargo jahaz Sparta II par drone hamla kiya; Norway ne savdhani baratne ko kaha.",
+      "category": "World",
+      "exam_angle": "Baltic Sagar, NATO-Russia tanaav — UPSC IR",
+      "source": "Reuters",
+      "source_url": "https://www.devdiscourse.com/article/international/4011704-reuters-world-news-summary",
+      "genuineness": "verified",
+      "outlets": [
+        "Reuters",
+        "Ukrinform",
+        "The Times"
+      ],
+      "image": null,
+      "image_credit": null
+    },
+    {
+      "id": "world-20261125-0722-03",
+      "published_ist": "2026-11-25T02:47:00+05:30",
+      "headline": "Huawei doshi: 12 me se 10 aarop sabit",
+      "detail": "Brooklyn ki jury ne Huawei ko Iran pratibandh ullanghan, bank dhokhadhadi aur trade secret chori ke 12 me se 10 aaropon me doshi thahraya; racketeering aarop se bari, saza September 2027 me.",
+      "category": "World",
+      "exam_angle": "America-Cheen tech yuddh, pratibandh — UPSC IR",
+      "source": "Reuters",
+      "source_url": "https://www.reuters.com/legal/litigation/chinas-huawei-convicted-us-criminal-trial-stemming-iran-business-2026-11-24/",
+      "genuineness": "verified",
+      "outlets": [
+        "Reuters",
+        "CNN",
+        "The Wall Street Journal",
+        "Al Jazeera",
+        "U.S. Department of Justice"
+      ],
+      "image": null,
+      "image_credit": null
     }
   ]
 }
