@@ -1,6 +1,58 @@
 {
-  "updated_ist": "2026-11-25T21:28:13+05:30",
+  "updated_ist": "2026-11-25T22:25:31+05:30",
   "items": [
+    {
+      "id": "world-20261125-2222-01",
+      "published_ist": "2026-11-25T12:00:00+05:30",
+      "headline": "Canary Islands me ek din me 2,100 pravasi",
+      "detail": "Spain ke Canary Islands me 24 ghante me 2,100 se zyada pravasi pahunche — ek din ka record; zyadatar naavein El Hierro dweep par aayi, saal bhar me kul 28,103.",
+      "category": "World",
+      "exam_angle": "Spain-EU pravasi sankat, Canary route — UPSC IR",
+      "source": "Reuters",
+      "source_url": "https://www.reuters.com/world/migrant-arrivals-spains-canary-islands-break-single-day-record-2026-11-25/",
+      "genuineness": "corroborated",
+      "outlets": [
+        "Reuters",
+        "The Times"
+      ],
+      "image": null,
+      "image_credit": null
+    },
+    {
+      "id": "world-20261125-2222-02",
+      "published_ist": "2026-11-25T12:00:00+05:30",
+      "headline": "Solomon Islands ne Australia ko suraksha saathi chuna",
+      "detail": "Solomon Islands aur Australia ne Canberra me sandhi par hastakshar kiye — Australia 'primary security partner' bana, desh me koi videshi sainya adda nahi hoga, aur Australia 10 saal me A$740 million dega.",
+      "category": "World",
+      "exam_angle": "Pacific me China-Australia pratispardha — UPSC IR",
+      "source": "Al Jazeera",
+      "source_url": "https://www.aljazeera.com/news/2026/11/25/solomon-islands-signs-security-deal-with-australia?traffic_source=rss",
+      "genuineness": "verified",
+      "outlets": [
+        "Nikkei Asia",
+        "CNN",
+        "Al Jazeera"
+      ],
+      "image": null,
+      "image_credit": null
+    },
+    {
+      "id": "world-20261125-2222-03",
+      "published_ist": "2026-11-25T12:00:00+05:30",
+      "headline": "Sudan me RSF drone hamle, 19 nagrik mare",
+      "detail": "Sudan ke Blue Nile rajya me RSF ke drone hamlo me 19 nagrik mare aur 20 ghayal hue; Damazin ke teen aawasiya ilakon par hamla hua, Roseires me bandh aur bijli suvidha par bhi hamla hua.",
+      "category": "World",
+      "exam_angle": "Sudan griha yuddh, drone yuddh — UPSC IR",
+      "source": "Reuters",
+      "source_url": "https://www.reuters.com/world/africa/drone-strikes-kill-19-civilians-southeastern-sudan-says-rights-group-2026-11-25/",
+      "genuineness": "corroborated",
+      "outlets": [
+        "Reuters",
+        "Al Jazeera"
+      ],
+      "image": null,
+      "image_credit": null
+    },
     {
       "id": "world-20261125-2122-01",
       "published_ist": "2026-11-25T12:00:00+05:30",
@@ -392,63 +444,6 @@
       ],
       "image": null,
       "image_credit": null
-    },
-    {
-      "id": "world-20261125-1226-01",
-      "published_ist": "2026-11-24T23:11:00+05:30",
-      "headline": "Putin ne badle ki dhamki di",
-      "detail": "Putin ne kaha Ukraine ne Trump ki appeal ke bawjood refineries par hamle jaari rakhe; badla tay hai, aur hamlo se refinery processing 45% ghata hai.",
-      "category": "World",
-      "exam_angle": "Russia-Ukraine yuddh, urja yuddh — UPSC IR",
-      "source": "Al Jazeera",
-      "source_url": "https://www.aljazeera.com/amp/news/2026/11/24/putin-says-kyiv-hit-russian-oil-plants-despite-trump-plea-vows-retaliation",
-      "genuineness": "verified",
-      "outlets": [
-        "Reuters",
-        "Al Jazeera",
-        "TRT World",
-        "Ukrainska Pravda"
-      ],
-      "image": "../images/world/world-20261125-1226-01.jpg",
-      "image_credit": "Al Jazeera"
-    },
-    {
-      "id": "world-20261125-2028-03",
-      "published_ist": "2026-11-24T12:00:00+05:30",
-      "headline": "Microsoft ne 'Code Red' ghoshit kiya",
-      "detail": "12-13 November ko 24 ghante ke outage ke baad Microsoft ne 'Code Red' abhiyan shuru kiya; Exchange Online, Outlook, Teams aur Copilot thap hue the, ab bhavishya me ek ghante me global recovery ka lakshya hai.",
-      "category": "World",
-      "exam_angle": "Digital buniyadi dhancha, Microsoft 365 outage — UPSC vigyan-tech",
-      "source": "Reuters",
-      "source_url": "https://www.reuters.com/business/microsoft-declares-code-red-after-historic-outage-internal-memos-show-2026-11-24/",
-      "genuineness": "verified",
-      "outlets": [
-        "Reuters",
-        "Business Standard",
-        "Moneycontrol",
-        "Mathrubhumi"
-      ],
-      "image": null,
-      "image_credit": null
-    },
-    {
-      "id": "world-20261125-1926-02",
-      "published_ist": "2026-11-24T12:00:00+05:30",
-      "headline": "Huawei 12 me se 10 aaropon me doshi",
-      "detail": "America ki jury ne Huawei ko bank fraud aur trade secret chori ki sajish samet 12 me se 10 aaropon me doshi paya; racketeering ke aarop se bari kiya gaya.",
-      "category": "World",
-      "exam_angle": "America-China, Iran pratibandh, trade secret",
-      "source": "Reuters",
-      "source_url": "https://www.reuters.com/legal/litigation/chinas-huawei-convicted-us-criminal-trial-stemming-iran-business-2026-11-24/",
-      "genuineness": "verified",
-      "outlets": [
-        "Reuters",
-        "CNN",
-        "Al Jazeera",
-        "South China Morning Post"
-      ],
-      "image": "../images/world/world-20261125-1926-02.jpg",
-      "image_credit": "Windmemories, CC BY-SA 4.0 (Wikimedia Commons)"
     }
   ]
 }
