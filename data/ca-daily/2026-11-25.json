@@ -72,6 +72,76 @@
     ],
     "answer_index": 0
    }
+  },
+  {
+   "episode": 162,
+   "video_hi": "20bGMp_EHOk",
+   "video_hinglish": "20bGMp_EHOk",
+   "capsules": [
+    {
+     "id": "ca-ep162-s1",
+     "headline_hi": "Vaibhav ki 28 gendon mein century, world record",
+     "headline_hinglish": "Vaibhav ki 28 gendon mein century, world record",
+     "detail_hi": "Pandra saal ke Vaibhav ne Doha mein UAE ke khilaf athais gendon mein century banayi, baais chhakke lagaye.",
+     "detail_hinglish": "Pandra saal ke Vaibhav ne Doha mein UAE ke khilaf athais gendon mein century banayi, baais chhakke lagaye.",
+     "category_hi": "Sports",
+     "category_en": "Sports"
+    },
+    {
+     "id": "ca-ep162-s2",
+     "headline_hi": "Nepal ko 15,000 crore, Ayodhya-Janakpur train shuru",
+     "headline_hinglish": "Nepal ko 15,000 crore, Ayodhya-Janakpur train shuru",
+     "detail_hi": "Baatchit ke baad Nepal ko pandrah hazaar crore ka package aur Sarayu Kamala Express mili.",
+     "detail_hinglish": "Baatchit ke baad Nepal ko pandrah hazaar crore ka package aur Sarayu Kamala Express mili.",
+     "category_hi": "International",
+     "category_en": "National"
+    },
+    {
+     "id": "ca-ep162-s3",
+     "headline_hi": "Akali Dal 6 saal baad NDA mein wapas",
+     "headline_hinglish": "Akali Dal 6 saal baad NDA mein wapas",
+     "detail_hi": "BJP aur Shiromani Akali Dal ne 2027 Punjab chunav ke liye gathbandhan ka elaan kiya, chhe saal baad NDA mein wapasi.",
+     "detail_hinglish": "BJP aur Shiromani Akali Dal ne 2027 Punjab chunav ke liye gathbandhan ka elaan kiya, chhe saal baad NDA mein wapasi.",
+     "category_hi": "Polity",
+     "category_en": "Polity"
+    },
+    {
+     "id": "ca-ep162-s4",
+     "headline_hi": "IIT mein 6,000 nayi seats, robotics aur space",
+     "headline_hinglish": "IIT mein 6,000 nayi seats, robotics aur space",
+     "detail_hi": "IIT 2027 se robotics, physical AI aur space technology mein chhe hazaar nayi seats jodenge.",
+     "detail_hinglish": "IIT 2027 se robotics, physical AI aur space technology mein chhe hazaar nayi seats jodenge.",
+     "category_hi": "Education",
+     "category_en": "Education"
+    },
+    {
+     "id": "ca-ep162-s5",
+     "headline_hi": "Bharat-Canada trade deal lagbhag tay",
+     "headline_hinglish": "Bharat-Canada trade deal lagbhag tay",
+     "detail_hi": "Dono deshon ke beech vyapaar samjhote par baatchit aakhri charan mein hai, jald elaan ki ummeed hai.",
+     "detail_hinglish": "Dono deshon ke beech vyapaar samjhote par baatchit aakhri charan mein hai, jald elaan ki ummeed hai.",
+     "category_hi": "Economy",
+     "category_en": "Economy"
+    }
+   ],
+   "mcq": {
+    "id": "ca-ep162-mcq",
+    "q_hi": "Vaibhav Sooryavanshi ne Asia Cup Rising Stars mein century kitni gendon mein banayi?",
+    "q_hinglish": "Vaibhav Sooryavanshi ne Asia Cup Rising Stars mein century kitni gendon mein banayi?",
+    "options_hi": [
+     "Battis gendein",
+     "Chalis gendein",
+     "Athais gendein",
+     "Paintees gendein"
+    ],
+    "options_hinglish": [
+     "Battis gendein",
+     "Chalis gendein",
+     "Athais gendein",
+     "Paintees gendein"
+    ],
+    "answer_index": 2
+   }
   }
  ]
 }
