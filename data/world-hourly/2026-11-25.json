@@ -257,6 +257,80 @@
       ],
       "image": null,
       "image_credit": null
+    },
+    {
+      "id": "world-20261125-1022-01",
+      "published_ist": "2026-11-24T20:56:00+05:30",
+      "headline": "UAE bus-takkar me 13 mare, Bharatiya bhi",
+      "detail": "Ras Al Khaimah me 41 yatriyon wali bus khadi truck se takra gayi; 13 log mare, 14 ghayal; Dubai sthit Bharatiya vanijya dutavas ne pushti ki Bharatiya nagrik bhi mare gaye.",
+      "category": "World",
+      "exam_angle": null,
+      "source": "The Indian Express",
+      "source_url": "https://indianexpress.com/article/india/indians-killed-uae-ras-al-khaimah-bus-truck-collision-10976934/",
+      "genuineness": "verified",
+      "outlets": [
+        "Gulf News",
+        "Khaleej Times",
+        "The Indian Express"
+      ],
+      "image": null,
+      "image_credit": null
+    },
+    {
+      "id": "world-20261125-1022-02",
+      "published_ist": "2026-11-24T12:00:00+05:30",
+      "headline": "Shein ko $100 million jurmana",
+      "detail": "America ki FTC ne kaha Shein $100 million dega — der se delivery, nakaratmak review dabane aur kapas ki utpatti par galat daavon ke aarop; Shein ne zimmedaari nahi mani.",
+      "category": "World",
+      "exam_angle": "America upbhokta suraksha, FTC — UPSC economy",
+      "source": "FTC",
+      "source_url": "https://www.ftc.gov/news-events/news/press-releases/2026/11/shein-pay-100-million-over-allegations-deceptive-unfair-practices",
+      "genuineness": "verified",
+      "outlets": [
+        "FTC",
+        "Reuters",
+        "Channel NewsAsia"
+      ],
+      "image": null,
+      "image_credit": null
+    },
+    {
+      "id": "world-20261125-1022-03",
+      "published_ist": "2026-11-24T12:00:00+05:30",
+      "headline": "Bangladesh me garment mazdooron ka pradarshan",
+      "detail": "Gazipur me vetan badhane ki mang par hazaron garment mazdooron ne highway roka; police ne aansu gas aur sound grenade chhode, 70 se zyada factory band hui; mazdoor nyuntam vetan 12,500 se badhakar 30,000 taka chahte hain.",
+      "category": "World",
+      "exam_angle": "Bangladesh garment udyog, shramik vetan — UPSC IR",
+      "source": "Reuters",
+      "source_url": "https://www.reuters.com/business/world-at-work/bangladesh-garment-workers-clash-with-police-pay-protests-shut-factories-2026-11-24/",
+      "genuineness": "verified",
+      "outlets": [
+        "Reuters",
+        "Prothom Alo",
+        "The Business Standard",
+        "Dhaka Tribune"
+      ],
+      "image": null,
+      "image_credit": null
+    },
+    {
+      "id": "world-20261125-1022-04",
+      "published_ist": "2026-11-24T07:02:00+05:30",
+      "headline": "Nepal me 5.4 ka bhookamp, Bharat me jhatke",
+      "detail": "USGS ke mutabik Nepal ke Koshi prant me subah 7:02 baje 5.4 teevrata ka bhookamp aaya; Bharat, Bhutan, Bangladesh aur Cheen me jhatke mehsoos hue; ab tak koi hatahat ya nuksan ki khabar nahi.",
+      "category": "World",
+      "exam_angle": "Himalaya bhookamp kshetra — UPSC geography",
+      "source": "The Times of India",
+      "source_url": "https://timesofindia.indiatimes.com/world/south-asia/magnitude-5-3-earthquake-strikes-nepals-koshi-province/articleshow/136117310.cms",
+      "genuineness": "verified",
+      "outlets": [
+        "USGS",
+        "The Times of India",
+        "ABP Live",
+        "The Tribune"
+      ],
+      "image": null,
+      "image_credit": null
     }
   ]
 }
