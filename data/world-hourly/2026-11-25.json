@@ -1096,6 +1096,58 @@
       ],
       "image": "../images/world/world-20261125-1126-01.jpg",
       "image_credit": "Al Jazeera"
+    },
+    {
+      "id": "world-20261125-2222-01",
+      "published_ist": "2026-11-25T12:00:00+05:30",
+      "headline": "Canary Islands me ek din me 2,100 pravasi",
+      "detail": "Spain ke Canary Islands me 24 ghante me 2,100 se zyada pravasi pahunche — ek din ka record; zyadatar naavein El Hierro dweep par aayi, saal bhar me kul 28,103.",
+      "category": "World",
+      "exam_angle": "Spain-EU pravasi sankat, Canary route — UPSC IR",
+      "source": "Reuters",
+      "source_url": "https://www.reuters.com/world/migrant-arrivals-spains-canary-islands-break-single-day-record-2026-11-25/",
+      "genuineness": "corroborated",
+      "outlets": [
+        "Reuters",
+        "The Times"
+      ],
+      "image": null,
+      "image_credit": null
+    },
+    {
+      "id": "world-20261125-2222-02",
+      "published_ist": "2026-11-25T12:00:00+05:30",
+      "headline": "Solomon Islands ne Australia ko suraksha saathi chuna",
+      "detail": "Solomon Islands aur Australia ne Canberra me sandhi par hastakshar kiye — Australia 'primary security partner' bana, desh me koi videshi sainya adda nahi hoga, aur Australia 10 saal me A$740 million dega.",
+      "category": "World",
+      "exam_angle": "Pacific me China-Australia pratispardha — UPSC IR",
+      "source": "Al Jazeera",
+      "source_url": "https://www.aljazeera.com/news/2026/11/25/solomon-islands-signs-security-deal-with-australia?traffic_source=rss",
+      "genuineness": "verified",
+      "outlets": [
+        "Nikkei Asia",
+        "CNN",
+        "Al Jazeera"
+      ],
+      "image": null,
+      "image_credit": null
+    },
+    {
+      "id": "world-20261125-2222-03",
+      "published_ist": "2026-11-25T12:00:00+05:30",
+      "headline": "Sudan me RSF drone hamle, 19 nagrik mare",
+      "detail": "Sudan ke Blue Nile rajya me RSF ke drone hamlo me 19 nagrik mare aur 20 ghayal hue; Damazin ke teen aawasiya ilakon par hamla hua, Roseires me bandh aur bijli suvidha par bhi hamla hua.",
+      "category": "World",
+      "exam_angle": "Sudan griha yuddh, drone yuddh — UPSC IR",
+      "source": "Reuters",
+      "source_url": "https://www.reuters.com/world/africa/drone-strikes-kill-19-civilians-southeastern-sudan-says-rights-group-2026-11-25/",
+      "genuineness": "corroborated",
+      "outlets": [
+        "Reuters",
+        "Al Jazeera"
+      ],
+      "image": null,
+      "image_credit": null
     }
   ]
 }
