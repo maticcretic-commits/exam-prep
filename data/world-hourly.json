@@ -1,6 +1,78 @@
 {
-  "updated_ist": "2026-11-25T07:25:20+05:30",
+  "updated_ist": "2026-11-25T08:27:43+05:30",
   "items": [
+    {
+      "id": "world-20261125-0827-01",
+      "published_ist": "2026-11-25T06:30:00+05:30",
+      "headline": "Estonia rail border band karne par vichaar",
+      "detail": "Pradhan Mantri Kristen Michal ne kaha Estonia Narva rail crossing band karne par vichaar kar raha hai; 1 December se sadak seema band ho rahi hai, GRU tod-fod koshish ke baad.",
+      "category": "World",
+      "exam_angle": "NATO-Russia tanaav, Baltic suraksha — UPSC IR",
+      "source": "Kyiv Post",
+      "source_url": "https://www.kyivpost.com/post/91102",
+      "genuineness": "verified",
+      "outlets": [
+        "ERR",
+        "Kyiv Post",
+        "LB.ua"
+      ],
+      "image": "../images/world/world-20261125-0827-01.jpg",
+      "image_credit": "Nenea hartia, CC BY-SA 4.0, Wikimedia Commons"
+    },
+    {
+      "id": "world-20261125-0827-02",
+      "published_ist": "2026-11-25T01:22:00+05:30",
+      "headline": "CIA-ODNI ke khule network me sendh",
+      "detail": "America ki CIA aur ODNI ke khule-source khufiya network me sendh lagi, kuchh avargeekrit jankari ujagar hui; New York Times ne report kiya, gopniya jankari surakshit rahi.",
+      "category": "World",
+      "exam_angle": "Cyber suraksha, OSINT — UPSC IR/S&T",
+      "source": "Reuters",
+      "source_url": "https://www.reuters.com/world/us-cia-odni-suffer-cybersecurity-breach-some-unclassified-information-nyt-2026-11-24/",
+      "genuineness": "verified",
+      "outlets": [
+        "The New York Times",
+        "Reuters",
+        "CNN",
+        "Associated Press"
+      ],
+      "image": null,
+      "image_credit": null
+    },
+    {
+      "id": "world-20261125-0827-03",
+      "published_ist": "2026-11-25T00:31:00+05:30",
+      "headline": "Sarkozy-Brunni par naya mukadma chalega",
+      "detail": "France ke poorv Rashtrapati Nicolas Sarkozy aur unki patni Carla Bruni par gawah se bayan badalwane ke aarop me mukadma chalega; pehli sunvai 1 April 2027 ko.",
+      "category": "World",
+      "exam_angle": "France rajneeti, bhrashtachar — UPSC IR",
+      "source": "Reuters",
+      "source_url": "https://www.reuters.com/world/french-officials-order-former-president-sarkozys-corruption-case-trial-2026-11-24/",
+      "genuineness": "corroborated",
+      "outlets": [
+        "Reuters",
+        "Agence France-Presse"
+      ],
+      "image": "../images/world/world-20261125-0827-03.jpg",
+      "image_credit": "Georges-Francis Seingry, CC BY-SA 3.0, Wikimedia Commons"
+    },
+    {
+      "id": "world-20261125-0827-04",
+      "published_ist": "2026-11-24T19:55:00+05:30",
+      "headline": "Zelensky ab Congress se madad mangenge",
+      "detail": "Zelensky ne kaha agar Trump saal-ant tak Putin se shanti samjhota na kara paye to Ukraine nayi Democrat-niyantrit Congress se sainya madad aur sakht pratibandh mangega.",
+      "category": "World",
+      "exam_angle": "Ukraine yuddh, America rajneeti — UPSC IR",
+      "source": "Kyiv Post",
+      "source_url": "https://www.kyivpost.com/post/91101",
+      "genuineness": "verified",
+      "outlets": [
+        "Bloomberg",
+        "Kyiv Post",
+        "Hromadske"
+      ],
+      "image": null,
+      "image_credit": null
+    },
     {
       "id": "world-20261125-0722-01",
       "published_ist": "2026-11-24T15:21:00+05:30",
@@ -364,80 +436,6 @@
       "outlets": [
         "Reuters",
         "Kongsberg"
-      ],
-      "image": null,
-      "image_credit": null
-    },
-    {
-      "id": "world-20261124-1624-03",
-      "published_ist": "2026-11-24T12:00:00+05:30",
-      "headline": "Huckabee: Israel ko madad saal-ant tak jaari?",
-      "detail": "America ke Israel rajdoot Huckabee ne kaha saal ke ant tak $3.8 arab ki sainya madad band hone par unhe sandeh hai; samjhauta 2028 tak chalta hai aur Congress ki manzoori zaroori hai.",
-      "category": "World",
-      "exam_angle": "America-Israel sainya madad, MoU 2028 — UPSC IR",
-      "source": "Reuters",
-      "source_url": "https://www.reuters.com/world/us/us-envoy-not-certain-military-aid-israel-will-end-this-year-trump-promised-2026-11-24/",
-      "genuineness": "verified",
-      "outlets": [
-        "Reuters",
-        "Times of Israel",
-        "Jerusalem Post"
-      ],
-      "image": null,
-      "image_credit": null
-    },
-    {
-      "id": "world-20261124-1624-04",
-      "published_ist": "2026-11-24T12:00:00+05:30",
-      "headline": "Merz: Europe Russia se baat ko taiyaar",
-      "detail": "German Chancellor Merz ne kaha Europe Russia se Ukraine par vaarta ko taiyaar hai; salahakar-stariya baatcheet jaldi Abu Dhabi me phir ho sakti hai.",
-      "category": "World",
-      "exam_angle": "Ukraine shanti vaarta, Abu Dhabi — UPSC IR",
-      "source": "Yeni Safak",
-      "source_url": "https://en.yenisafak.com/world/merz-says-europe-is-ready-to-negotiate-with-russia-3725936",
-      "genuineness": "verified",
-      "outlets": [
-        "Anadolu Agency",
-        "Xinhua",
-        "Ukrinform"
-      ],
-      "image": null,
-      "image_credit": null
-    },
-    {
-      "id": "world-20261124-1524-02",
-      "published_ist": "2026-11-24T12:00:00+05:30",
-      "headline": "Colombia me car bomb, governor karyalaya tabah",
-      "detail": "Villavicencio me Meta governor karyalaya ke paas car bomb phata, darjanon log ghayal hue, koi maut nahi; rashtrapati ne drug taskaron ko zimmedaar thahraya.",
-      "category": "World",
-      "exam_angle": null,
-      "source": "Al Jazeera",
-      "source_url": "https://www.aljazeera.com/amp/video/newsfeed/2026/11/24/car-bomb-strikes-governors-office-in-meta-colombia",
-      "genuineness": "verified",
-      "outlets": [
-        "Al Jazeera",
-        "Anadolu Agency",
-        "Xinhua",
-        "AFP"
-      ],
-      "image": null,
-      "image_credit": null
-    },
-    {
-      "id": "world-20261124-1322-01",
-      "published_ist": "2026-11-24T12:00:00+05:30",
-      "headline": "UAE me bus-truck takkar, 11 mare",
-      "detail": "Ras Al Khaimah me Al Watan Road par bus aur truck ki takkar me 11 log mare; jaanch jaari hai.",
-      "category": "World",
-      "exam_angle": null,
-      "source": "Reuters",
-      "source_url": "https://www.reuters.com/world/bus-truck-collision-kills-11-uaes-ras-al-khaimah-2026-11-24/",
-      "genuineness": "verified",
-      "outlets": [
-        "Reuters",
-        "Gulf News",
-        "Khaleej Times",
-        "Dawn"
       ],
       "image": null,
       "image_credit": null
