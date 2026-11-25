@@ -709,6 +709,79 @@
       ],
       "image": null,
       "image_credit": null
+    },
+    {
+      "id": "world-20261125-1722-01",
+      "published_ist": "2026-11-25T17:00:00+05:30",
+      "headline": "Ukraine ne Savasleyka hawai-adda par hamla kiya",
+      "detail": "Ukraine ne Russia ke Savasleyka hawai-adde par hamla kiya, jahan Kinzhal missile le jaane wale MiG-31K viman tainat hain.",
+      "category": "World",
+      "exam_angle": "Russia-Ukraine yuddh, Kinzhal missile",
+      "source": "Ukrinform",
+      "source_url": "https://www.ukrinform.net/rubric-ato/4188463-ukrainian-defense-forces-strike-savasleyka-airfield-in-russia.html",
+      "genuineness": "corroborated",
+      "outlets": [
+        "Ukrinform",
+        "Reuters"
+      ],
+      "image": null,
+      "image_credit": null
+    },
+    {
+      "id": "world-20261125-1722-02",
+      "published_ist": "2026-11-25T16:24:00+05:30",
+      "headline": "Merz: Europe Russia ko uski seema dikhayega",
+      "detail": "Bundestag me Merz ne kaha Russia Baltic se Black Sea tak badh raha hai, isliye 2027 ka defence budget €139.4 billion rakha gaya hai.",
+      "category": "World",
+      "exam_angle": "Germany defence budget, NATO kharch",
+      "source": "Reuters",
+      "source_url": "https://www.reuters.com/world/europe/germanys-merz-defends-aid-ukraine-says-russia-poses-growing-threat-europe-2026-11-25/",
+      "genuineness": "verified",
+      "outlets": [
+        "Reuters",
+        "Yeni Safak",
+        "ANews"
+      ],
+      "image": null,
+      "image_credit": null
+    },
+    {
+      "id": "world-20261125-1722-03",
+      "published_ist": "2026-11-25T11:26:00+05:30",
+      "headline": "Gaza me Hamas adhikari, parivar ke 4 mare",
+      "detail": "Al-Shati camp me Israeli hamle me Hamas ke uttar Gaza suraksha pramukh Mohammed Abu al-Ouf, unki patni aur do betiyan mare gaye, 12 ghayal.",
+      "category": "World",
+      "exam_angle": "Israel-Palestine sangharsh, Gaza yuddh-viram",
+      "source": "Al Jazeera",
+      "source_url": "https://www.aljazeera.com/amp/news/2026/11/25/israeli-strike-kills-hamas-official-his-wife-and-children",
+      "genuineness": "verified",
+      "outlets": [
+        "Al Jazeera",
+        "AFP",
+        "TRT World",
+        "Daily Sabah"
+      ],
+      "image": "../images/world/world-20261125-1722-03.jpg",
+      "image_credit": "Al Jazeera"
+    },
+    {
+      "id": "world-20261125-1722-04",
+      "published_ist": "2026-11-25T08:15:00+05:30",
+      "headline": "Saudi ne Ras Tanura par 7 drone giraye",
+      "detail": "Houthi hamle ke jawab me Saudi air defence ne Ras Tanura par 4 aur Eastern Province me 3 drone mare, koi ghayal nahi.",
+      "category": "World",
+      "exam_angle": "Yemen sangharsh, Ras Tanura tel refinery",
+      "source": "Al Jazeera",
+      "source_url": "https://www.aljazeera.com/news/2026/11/25/saudi-led-coalition-intercepts-houthi-attacks-after-hodeidah-strike",
+      "genuineness": "verified",
+      "outlets": [
+        "Al Jazeera",
+        "Reuters",
+        "Saudi Gazette",
+        "Gulf News"
+      ],
+      "image": null,
+      "image_credit": null
     }
   ]
 }
