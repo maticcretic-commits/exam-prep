@@ -1,5 +1,5 @@
 {
-  "updated_ist": "2026-11-25T17:24:53+05:30",
+  "updated_ist": "2026-11-25T18:26:58+05:30",
   "items": [
     {
       "id": "world-20261125-1722-01",
@@ -37,6 +37,43 @@
       "image_credit": null
     },
     {
+      "id": "world-20261125-1422-01",
+      "published_ist": "2026-11-25T13:08:00+05:30",
+      "headline": "Samara ki 2 refinery par drone hamla",
+      "detail": "Raat ke drone hamle me Rosneft ki Syzran aur Kuibyshev refinery me aag lag gayi; governor ne 145 drone giraye jaane aur 1 vyakti ki maut ki pushti ki.",
+      "category": "World",
+      "exam_angle": "Russia-Ukraine yuddh, urja par hamle — UPSC IR",
+      "source": "Kyiv Post",
+      "source_url": "https://www.kyivpost.com/post/91110",
+      "genuineness": "verified",
+      "outlets": [
+        "Kyiv Post",
+        "Kyiv Independent",
+        "Ukrinform",
+        "Militarnyi"
+      ],
+      "image": null,
+      "image_credit": null
+    },
+    {
+      "id": "world-20261125-1822-01",
+      "published_ist": "2026-11-25T12:00:00+05:30",
+      "headline": "Raat ke hamlo se Ukraine me bijli gayi",
+      "detail": "Russia ke raat bhar ke hamlo ke baad Ukraine ke paanch kshetron me bijli chali gayi aur Zaporizhzhia parmanu sanyantra ki bahari bijli 2026 me 17vi baar band hui; Kyiv aur Kharkiv me log mare aur ghayal hue.",
+      "category": "World",
+      "exam_angle": "Russia-Ukraine yuddh, urja par hamle — UPSC IR",
+      "source": "Al Jazeera",
+      "source_url": "https://www.aljazeera.com/news/2026/11/25/russian-strikes-on-ukraine-cause-power-outages-in-five-regions",
+      "genuineness": "verified",
+      "outlets": [
+        "Al Jazeera",
+        "Yeni Safak",
+        "Babel"
+      ],
+      "image": null,
+      "image_credit": null
+    },
+    {
       "id": "world-20261125-1722-03",
       "published_ist": "2026-11-25T11:26:00+05:30",
       "headline": "Gaza me Hamas adhikari, parivar ke 4 mare",
@@ -54,25 +91,6 @@
       ],
       "image": "../images/world/world-20261125-1722-03.jpg",
       "image_credit": "Al Jazeera"
-    },
-    {
-      "id": "world-20261125-1722-04",
-      "published_ist": "2026-11-25T08:15:00+05:30",
-      "headline": "Saudi ne Ras Tanura par 7 drone giraye",
-      "detail": "Houthi hamle ke jawab me Saudi air defence ne Ras Tanura par 4 aur Eastern Province me 3 drone mare, koi ghayal nahi.",
-      "category": "World",
-      "exam_angle": "Yemen sangharsh, Ras Tanura tel refinery",
-      "source": "Al Jazeera",
-      "source_url": "https://www.aljazeera.com/news/2026/11/25/saudi-led-coalition-intercepts-houthi-attacks-after-hodeidah-strike",
-      "genuineness": "verified",
-      "outlets": [
-        "Al Jazeera",
-        "Reuters",
-        "Saudi Gazette",
-        "Gulf News"
-      ],
-      "image": null,
-      "image_credit": null
     },
     {
       "id": "world-20261125-1622-01",
@@ -96,6 +114,209 @@
       "image_credit": null
     },
     {
+      "id": "world-20261125-1328-01",
+      "published_ist": "2026-11-25T10:37:00+05:30",
+      "headline": "Odesa hamle me 2 mare, ladka bhi",
+      "detail": "Russia ke hamle me Odesa me ek 17 saal ke ladke samet 2 log mare gaye, 3 ghayal; Kyiv me drone ke malbe se building me aag lagi, 2 ghayal.",
+      "category": "World",
+      "exam_angle": "Russia-Ukraine yuddh — UPSC IR",
+      "source": "Reuters",
+      "source_url": "https://bdnews24.com/world/europe/95qng1e396",
+      "genuineness": "corroborated",
+      "outlets": [
+        "Reuters",
+        "Ukrinform"
+      ],
+      "image": null,
+      "image_credit": null
+    },
+    {
+      "id": "world-20261125-1525-03",
+      "published_ist": "2026-11-25T09:14:00+05:30",
+      "headline": "Gaza me doosra Hamas adhikari mara gaya",
+      "detail": "Budhvaar subah Gaza City me Israeli hamle me Hamas ke suraksha adhikari Mohammad Abuelouf, unki patni aur 2 bachche mare gaye; 24 ghante me doosre bade Hamas adhikari ki maut hai.",
+      "category": "World",
+      "exam_angle": "Gaza sangharsh, yuddh-viram — UPSC IR",
+      "source": "Reuters",
+      "source_url": "https://www.reuters.com/world/middle-east/israeli-strike-kills-hamas-official-his-wife-children-2026-11-25/",
+      "genuineness": "verified",
+      "outlets": [
+        "Reuters",
+        "Haaretz",
+        "The Jerusalem Post",
+        "Dawn",
+        "Arab News"
+      ],
+      "image": null,
+      "image_credit": null
+    },
+    {
+      "id": "world-20261125-1126-01",
+      "published_ist": "2026-11-25T09:01:00+05:30",
+      "headline": "Cartagena supermarket me bandhak sankat",
+      "detail": "Colombia ke Cartagena me sashastr hamlaavaron ne Exito supermarket me lagbhag 30 logon ko bandhak banaya; 10 ko riha kar diya gaya, police aur sena ne dukaan ko gher rakha hai.",
+      "category": "World",
+      "exam_angle": null,
+      "source": "Al Jazeera",
+      "source_url": "https://www.aljazeera.com/news/2026/11/24/hostage-situation-reported-in-colombia-as-armed-men-flee-into-supermarket?traffic_source=rss",
+      "genuineness": "verified",
+      "outlets": [
+        "Al Jazeera",
+        "AFP",
+        "South China Morning Post"
+      ],
+      "image": "../images/world/world-20261125-1126-01.jpg",
+      "image_credit": "Al Jazeera"
+    },
+    {
+      "id": "world-20261125-1722-04",
+      "published_ist": "2026-11-25T08:15:00+05:30",
+      "headline": "Saudi ne Ras Tanura par 7 drone giraye",
+      "detail": "Houthi hamle ke jawab me Saudi air defence ne Ras Tanura par 4 aur Eastern Province me 3 drone mare, koi ghayal nahi.",
+      "category": "World",
+      "exam_angle": "Yemen sangharsh, Ras Tanura tel refinery",
+      "source": "Al Jazeera",
+      "source_url": "https://www.aljazeera.com/news/2026/11/25/saudi-led-coalition-intercepts-houthi-attacks-after-hodeidah-strike",
+      "genuineness": "verified",
+      "outlets": [
+        "Al Jazeera",
+        "Reuters",
+        "Saudi Gazette",
+        "Gulf News"
+      ],
+      "image": null,
+      "image_credit": null
+    },
+    {
+      "id": "world-20261125-1328-02",
+      "published_ist": "2026-11-25T01:30:00+05:30",
+      "headline": "Bangladesh me garment vetan 36% badha",
+      "detail": "Vetan board ne nyuntam vetan 12,500 se badhakar 17,000 taka kiya; mazdoor 30,000 taka mang rahe the, 1 December se lagu hoga.",
+      "category": "World",
+      "exam_angle": "Bangladesh garment udyog, shramik vetan — UPSC IR",
+      "source": "Reuters",
+      "source_url": "https://www.reuters.com/business/world-at-work/bangladesh-raises-garment-workers-minimum-wage-36-after-protests-2026-11-25/",
+      "genuineness": "verified",
+      "outlets": [
+        "Reuters",
+        "Al Jazeera",
+        "Prothom Alo",
+        "The Business Standard"
+      ],
+      "image": "../images/world/world-20261125-1328-02.jpg",
+      "image_credit": "Kroisenbrunner, CC BY-SA 4.0, Wikimedia Commons"
+    },
+    {
+      "id": "world-20261125-1126-02",
+      "published_ist": "2026-11-25T00:44:00+05:30",
+      "headline": "Houthi Aden ke 60 km paas pahunche",
+      "detail": "Houthi ladake Yemen ki asthayi rajdhani Aden se lagbhag 60 km door pahunch gaye; sarkari sena ne raksha rekha banayi aur kaha Aden surakshit rahega.",
+      "category": "World",
+      "exam_angle": "Yemen grih-yuddh, Bab el-Mandeb — UPSC IR",
+      "source": "Reuters",
+      "source_url": "https://www.reuters.com/world/middle-east/houthis-wont-seize-aden-yemeni-government-forces-say-2026-11-24/",
+      "genuineness": "verified",
+      "outlets": [
+        "Reuters",
+        "Arab News",
+        "Channel NewsAsia",
+        "Business Standard"
+      ],
+      "image": null,
+      "image_credit": null
+    },
+    {
+      "id": "world-20261125-1226-01",
+      "published_ist": "2026-11-24T23:11:00+05:30",
+      "headline": "Putin ne badle ki dhamki di",
+      "detail": "Putin ne kaha Ukraine ne Trump ki appeal ke bawjood refineries par hamle jaari rakhe; badla tay hai, aur hamlo se refinery processing 45% ghata hai.",
+      "category": "World",
+      "exam_angle": "Russia-Ukraine yuddh, urja yuddh — UPSC IR",
+      "source": "Al Jazeera",
+      "source_url": "https://www.aljazeera.com/amp/news/2026/11/24/putin-says-kyiv-hit-russian-oil-plants-despite-trump-plea-vows-retaliation",
+      "genuineness": "verified",
+      "outlets": [
+        "Reuters",
+        "Al Jazeera",
+        "TRT World",
+        "Ukrainska Pravda"
+      ],
+      "image": "../images/world/world-20261125-1226-01.jpg",
+      "image_credit": "Al Jazeera"
+    },
+    {
+      "id": "world-20261125-1822-02",
+      "published_ist": "2026-11-24T12:00:00+05:30",
+      "headline": "Trump Iran netaon ko nishana banane ki bahas",
+      "detail": "NBC ki report ke mutabik Trump prashasan nau mahine se chal rahe Iran yuddh ko khatm karne ke liye varishth Iranian netaon ko nishana banane par bahas kar raha hai, lekin Trump ne abhi koi antim faisla nahi liya hai.",
+      "category": "World",
+      "exam_angle": "America-Iran yuddh — UPSC IR",
+      "source": "NBC News",
+      "source_url": "https://indianexpress.com/article/world/donald-trump-us-weighs-targeting-killing-iran-war-top-leaders-10977038/",
+      "genuineness": "verified",
+      "outlets": [
+        "NBC News",
+        "The Times of Israel",
+        "Fox News"
+      ],
+      "image": null,
+      "image_credit": null
+    },
+    {
+      "id": "world-20261125-1822-03",
+      "published_ist": "2026-11-24T12:00:00+05:30",
+      "headline": "Landmine se 2025 me 6,929 log mare-ghayal",
+      "detail": "Landmine Monitor 2026 ke mutabik 2025 me duniya bhar me 6,929 log landmine aur yuddh ke avasheshon se mare ya ghayal hue — 2020 ke baad sabse zyada; 84% nagrik the aur sabse zyada 1,891 Myanmar me.",
+      "category": "World",
+      "exam_angle": "Landmine Ban Treaty, Myanmar-Syria — UPSC IR",
+      "source": "Al Jazeera",
+      "source_url": "https://www.aljazeera.com/amp/news/2026/11/24/global-landmine-casualties-hit-a-five-year-high-driven-by-myanmar-syria",
+      "genuineness": "verified",
+      "outlets": [
+        "Al Jazeera",
+        "SCMP",
+        "Arab News",
+        "The National"
+      ],
+      "image": null,
+      "image_credit": null
+    },
+    {
+      "id": "world-20261125-1822-04",
+      "published_ist": "2026-11-24T12:00:00+05:30",
+      "headline": "Gaza toofan se 17.6 lakh tent-wasi khatre me",
+      "detail": "Gaza ke sarkari media karyalaya ne chetavni di hai ki aane wale dinon me aane wala toofan tenton me reh rahe 17.6 lakh visthapit Falasteeniyon ki jaan khatre me daal sakta hai; 6 November ke toofan me 70,000 tent doob gaye the.",
+      "category": "World",
+      "exam_angle": "Gaza manaviya sankat — UPSC IR",
+      "source": "Yeni Safak",
+      "source_url": "https://en.yenisafak.com/world/gaza-media-office-warns-storm-threatens-176-million-palestinians-in-tents-3725974",
+      "genuineness": "corroborated",
+      "outlets": [
+        "Anadolu Agency",
+        "Gaza Herald"
+      ],
+      "image": null,
+      "image_credit": null
+    },
+    {
+      "id": "world-20261125-1822-05",
+      "published_ist": "2026-11-24T12:00:00+05:30",
+      "headline": "Trump 16 deshon par naye tariff ki taiyaari",
+      "detail": "Reuters ke mutabik Trump prashasan Section 301 jaanch ke baad Bharat samet 16 bade vyaparik saajhedaaron par 15% se 25% tak naye shulk lagane ki taiyaari me hai; Supreme Court ne pehle wale shulk February me radd kar diye the.",
+      "category": "World",
+      "exam_angle": "America vyapar neeti, Section 301 — UPSC economy",
+      "source": "Reuters",
+      "source_url": "https://www.thehindu.com/news/international/trump-administration-set-to-unveil-new-tariffs-after-probeon-excess-factory-capacity-sources/article71740905.ece",
+      "genuineness": "verified",
+      "outlets": [
+        "Reuters",
+        "The Wall Street Journal",
+        "The Hindu"
+      ],
+      "image": null,
+      "image_credit": null
+    },
+    {
       "id": "world-20261125-1622-02",
       "published_ist": "2026-11-24T12:00:00+05:30",
       "headline": "Shanghai chief Chen Jining jaanch ke ghere me",
@@ -111,45 +332,6 @@
         "Channel NewsAsia",
         "Al Jazeera",
         "CNN"
-      ],
-      "image": null,
-      "image_credit": null
-    },
-    {
-      "id": "world-20261125-1622-03",
-      "published_ist": "2026-11-23T12:00:00+05:30",
-      "headline": "EU ka Russia par 22nd sanctions package",
-      "detail": "European Commission ne Russia par 22nd sanctions package prastav kiya — 60 bank SWIFT se bahar, 70 se zyada shadow fleet jahaz, aur EU me Russia ke jhande tale khel par pratibandh.",
-      "category": "World",
-      "exam_angle": "EU-Russia pratibandh, SWIFT, shadow fleet — UPSC IR",
-      "source": "Al Jazeera",
-      "source_url": "https://www.aljazeera.com/news/2026/11/23/eu-plans-sports-ban-in-sweeping-new-russia-sanctions-proposal",
-      "genuineness": "verified",
-      "outlets": [
-        "European Commission",
-        "Al Jazeera",
-        "Kyiv Independent",
-        "The Korea Times",
-        "Anadolu Agency"
-      ],
-      "image": null,
-      "image_credit": null
-    },
-    {
-      "id": "world-20261125-1622-04",
-      "published_ist": "2026-11-24T06:30:00+05:30",
-      "headline": "Hanoi restaurant dhamaka, 6 mare",
-      "detail": "Hanoi ke Dong Da jile me hotpot restaurant me gas dhamake se 6 log mare aur 10 ghayal hue; aas-paas ki lagbhag 10 imaraton ko nuksan pahuncha.",
-      "category": "World",
-      "exam_angle": null,
-      "source": "The Straits Times",
-      "source_url": "https://www.straitstimes.com/asia/explosion-kills-6-injures-10-in-vietnam-capital-hanoi?ref=latest",
-      "genuineness": "verified",
-      "outlets": [
-        "Reuters",
-        "Associated Press",
-        "The Straits Times",
-        "Vietnam News"
       ],
       "image": null,
       "image_credit": null
@@ -194,63 +376,6 @@
       "image_credit": null
     },
     {
-      "id": "world-20261125-1525-03",
-      "published_ist": "2026-11-25T09:14:00+05:30",
-      "headline": "Gaza me doosra Hamas adhikari mara gaya",
-      "detail": "Budhvaar subah Gaza City me Israeli hamle me Hamas ke suraksha adhikari Mohammad Abuelouf, unki patni aur 2 bachche mare gaye; 24 ghante me doosre bade Hamas adhikari ki maut hai.",
-      "category": "World",
-      "exam_angle": "Gaza sangharsh, yuddh-viram — UPSC IR",
-      "source": "Reuters",
-      "source_url": "https://www.reuters.com/world/middle-east/israeli-strike-kills-hamas-official-his-wife-children-2026-11-25/",
-      "genuineness": "verified",
-      "outlets": [
-        "Reuters",
-        "Haaretz",
-        "The Jerusalem Post",
-        "Dawn",
-        "Arab News"
-      ],
-      "image": null,
-      "image_credit": null
-    },
-    {
-      "id": "world-20261125-1525-04",
-      "published_ist": "2026-11-24T04:18:00+05:30",
-      "headline": "Russia ka drone Poland ki seema me ghusa",
-      "detail": "23 November ki raat Russia ka nigrani drone Poland ke hawai-kshetra me ghus gaya; Poland ne ise jaanboojh kar uksav kaha, lekin nagrikon ko khatra dekh kar use giraya nahi.",
-      "category": "World",
-      "exam_angle": "NATO-Russia tanaav, Poland — UPSC IR",
-      "source": "Kyiv Independent",
-      "source_url": "https://kyivindependent.com/russian-unmanned-aerial-vehicle-violates-polish-airspace-days-after-missile-incursion/",
-      "genuineness": "verified",
-      "outlets": [
-        "Kyiv Independent",
-        "The New Voice of Ukraine",
-        "Dawn"
-      ],
-      "image": null,
-      "image_credit": null
-    },
-    {
-      "id": "world-20261125-1422-01",
-      "published_ist": "2026-11-25T13:08:00+05:30",
-      "headline": "Samara ki 2 refinery par drone hamla",
-      "detail": "Raat ke drone hamle me Rosneft ki Syzran aur Kuibyshev refinery me aag lag gayi; governor ne 145 drone giraye jaane aur 1 vyakti ki maut ki pushti ki.",
-      "category": "World",
-      "exam_angle": "Russia-Ukraine yuddh, urja par hamle — UPSC IR",
-      "source": "Kyiv Post",
-      "source_url": "https://www.kyivpost.com/post/91110",
-      "genuineness": "verified",
-      "outlets": [
-        "Kyiv Post",
-        "Kyiv Independent",
-        "Ukrinform",
-        "Militarnyi"
-      ],
-      "image": null,
-      "image_credit": null
-    },
-    {
       "id": "world-20261125-1422-02",
       "published_ist": "2026-11-24T12:00:00+05:30",
       "headline": "Fort Hood hamlaawar ki execution rokne ki arzi",
@@ -267,42 +392,6 @@
       ],
       "image": null,
       "image_credit": null
-    },
-    {
-      "id": "world-20261125-1328-01",
-      "published_ist": "2026-11-25T10:37:00+05:30",
-      "headline": "Odesa hamle me 2 mare, ladka bhi",
-      "detail": "Russia ke hamle me Odesa me ek 17 saal ke ladke samet 2 log mare gaye, 3 ghayal; Kyiv me drone ke malbe se building me aag lagi, 2 ghayal.",
-      "category": "World",
-      "exam_angle": "Russia-Ukraine yuddh — UPSC IR",
-      "source": "Reuters",
-      "source_url": "https://bdnews24.com/world/europe/95qng1e396",
-      "genuineness": "corroborated",
-      "outlets": [
-        "Reuters",
-        "Ukrinform"
-      ],
-      "image": null,
-      "image_credit": null
-    },
-    {
-      "id": "world-20261125-1328-02",
-      "published_ist": "2026-11-25T01:30:00+05:30",
-      "headline": "Bangladesh me garment vetan 36% badha",
-      "detail": "Vetan board ne nyuntam vetan 12,500 se badhakar 17,000 taka kiya; mazdoor 30,000 taka mang rahe the, 1 December se lagu hoga.",
-      "category": "World",
-      "exam_angle": "Bangladesh garment udyog, shramik vetan — UPSC IR",
-      "source": "Reuters",
-      "source_url": "https://www.reuters.com/business/world-at-work/bangladesh-raises-garment-workers-minimum-wage-36-after-protests-2026-11-25/",
-      "genuineness": "verified",
-      "outlets": [
-        "Reuters",
-        "Al Jazeera",
-        "Prothom Alo",
-        "The Business Standard"
-      ],
-      "image": "../images/world/world-20261125-1328-02.jpg",
-      "image_credit": "Kroisenbrunner, CC BY-SA 4.0, Wikimedia Commons"
     },
     {
       "id": "world-20261125-1328-03",
@@ -341,62 +430,6 @@
       "image_credit": null
     },
     {
-      "id": "world-20261125-1328-05",
-      "published_ist": "2026-11-23T12:00:00+05:30",
-      "headline": "America sainik ne Cheen ko raaz beche",
-      "detail": "America ke sena sargent Jian Zhao ne Cheen se jude kharidaron ko HIMARS aur sainya jankari bechne ka aarop mana; 10 saal tak ki saza ho sakti hai.",
-      "category": "World",
-      "exam_angle": "America-Cheen jasusi, HIMARS — UPSC IR/S&T",
-      "source": "U.S. Department of Justice",
-      "source_url": "https://www.justice.gov/usao-or/pr/active-duty-us-army-sergeant-pleads-guilty-conspiracy-gather-and-transfer-national",
-      "genuineness": "verified",
-      "outlets": [
-        "U.S. Department of Justice",
-        "New York Post",
-        "Arab News"
-      ],
-      "image": null,
-      "image_credit": null
-    },
-    {
-      "id": "world-20261125-1226-01",
-      "published_ist": "2026-11-24T23:11:00+05:30",
-      "headline": "Putin ne badle ki dhamki di",
-      "detail": "Putin ne kaha Ukraine ne Trump ki appeal ke bawjood refineries par hamle jaari rakhe; badla tay hai, aur hamlo se refinery processing 45% ghata hai.",
-      "category": "World",
-      "exam_angle": "Russia-Ukraine yuddh, urja yuddh — UPSC IR",
-      "source": "Al Jazeera",
-      "source_url": "https://www.aljazeera.com/amp/news/2026/11/24/putin-says-kyiv-hit-russian-oil-plants-despite-trump-plea-vows-retaliation",
-      "genuineness": "verified",
-      "outlets": [
-        "Reuters",
-        "Al Jazeera",
-        "TRT World",
-        "Ukrainska Pravda"
-      ],
-      "image": "../images/world/world-20261125-1226-01.jpg",
-      "image_credit": "Al Jazeera"
-    },
-    {
-      "id": "world-20261125-1226-02",
-      "published_ist": "2026-11-24T05:18:00+05:30",
-      "headline": "Uttar Korea ki Swiss karyalaya band karne ki dhamki",
-      "detail": "Kim Yo Jong ne kaha Songdowon shivir par Swiss pratibandh ke baad Pyongyang me Swiss karyalaya band karne par vichaar hoga.",
-      "category": "World",
-      "exam_angle": "Uttar Korea-Russia sambandh — UPSC IR",
-      "source": "Yonhap",
-      "source_url": "https://en.yna.co.kr/view/AEN20261124001151315?section=nk/nk",
-      "genuineness": "verified",
-      "outlets": [
-        "Reuters",
-        "Yonhap",
-        "Korea Times",
-        "Korea Herald"
-      ],
-      "image": null,
-      "image_credit": null
-    },
-    {
       "id": "world-20261125-1226-03",
       "published_ist": "2026-11-24T07:30:00+05:30",
       "headline": "Zaporizhzhia hamle me 2 mare, 40 ghayal",
@@ -414,43 +447,6 @@
       ],
       "image": "../images/world/world-20261125-1226-03.jpg",
       "image_credit": "Al Jazeera"
-    },
-    {
-      "id": "world-20261125-1126-01",
-      "published_ist": "2026-11-25T09:01:00+05:30",
-      "headline": "Cartagena supermarket me bandhak sankat",
-      "detail": "Colombia ke Cartagena me sashastr hamlaavaron ne Exito supermarket me lagbhag 30 logon ko bandhak banaya; 10 ko riha kar diya gaya, police aur sena ne dukaan ko gher rakha hai.",
-      "category": "World",
-      "exam_angle": null,
-      "source": "Al Jazeera",
-      "source_url": "https://www.aljazeera.com/news/2026/11/24/hostage-situation-reported-in-colombia-as-armed-men-flee-into-supermarket?traffic_source=rss",
-      "genuineness": "verified",
-      "outlets": [
-        "Al Jazeera",
-        "AFP",
-        "South China Morning Post"
-      ],
-      "image": "../images/world/world-20261125-1126-01.jpg",
-      "image_credit": "Al Jazeera"
-    },
-    {
-      "id": "world-20261125-1126-02",
-      "published_ist": "2026-11-25T00:44:00+05:30",
-      "headline": "Houthi Aden ke 60 km paas pahunche",
-      "detail": "Houthi ladake Yemen ki asthayi rajdhani Aden se lagbhag 60 km door pahunch gaye; sarkari sena ne raksha rekha banayi aur kaha Aden surakshit rahega.",
-      "category": "World",
-      "exam_angle": "Yemen grih-yuddh, Bab el-Mandeb — UPSC IR",
-      "source": "Reuters",
-      "source_url": "https://www.reuters.com/world/middle-east/houthis-wont-seize-aden-yemeni-government-forces-say-2026-11-24/",
-      "genuineness": "verified",
-      "outlets": [
-        "Reuters",
-        "Arab News",
-        "Channel NewsAsia",
-        "Business Standard"
-      ],
-      "image": null,
-      "image_credit": null
     }
   ]
 }
