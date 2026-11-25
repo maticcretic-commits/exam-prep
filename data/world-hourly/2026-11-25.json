@@ -425,6 +425,96 @@
       ],
       "image": "../images/world/world-20261125-1226-03.jpg",
       "image_credit": "Al Jazeera"
+    },
+    {
+      "id": "world-20261125-1328-01",
+      "published_ist": "2026-11-25T10:37:00+05:30",
+      "headline": "Odesa hamle me 2 mare, ladka bhi",
+      "detail": "Russia ke hamle me Odesa me ek 17 saal ke ladke samet 2 log mare gaye, 3 ghayal; Kyiv me drone ke malbe se building me aag lagi, 2 ghayal.",
+      "category": "World",
+      "exam_angle": "Russia-Ukraine yuddh — UPSC IR",
+      "source": "Reuters",
+      "source_url": "https://bdnews24.com/world/europe/95qng1e396",
+      "genuineness": "corroborated",
+      "outlets": [
+        "Reuters",
+        "Ukrinform"
+      ],
+      "image": null,
+      "image_credit": null
+    },
+    {
+      "id": "world-20261125-1328-02",
+      "published_ist": "2026-11-25T01:30:00+05:30",
+      "headline": "Bangladesh me garment vetan 36% badha",
+      "detail": "Vetan board ne nyuntam vetan 12,500 se badhakar 17,000 taka kiya; mazdoor 30,000 taka mang rahe the, 1 December se lagu hoga.",
+      "category": "World",
+      "exam_angle": "Bangladesh garment udyog, shramik vetan — UPSC IR",
+      "source": "Reuters",
+      "source_url": "https://www.reuters.com/business/world-at-work/bangladesh-raises-garment-workers-minimum-wage-36-after-protests-2026-11-25/",
+      "genuineness": "verified",
+      "outlets": [
+        "Reuters",
+        "Al Jazeera",
+        "Prothom Alo",
+        "The Business Standard"
+      ],
+      "image": "../images/world/world-20261125-1328-02.jpg",
+      "image_credit": "Kroisenbrunner, CC BY-SA 4.0, Wikimedia Commons"
+    },
+    {
+      "id": "world-20261125-1328-03",
+      "published_ist": "2026-11-24T12:00:00+05:30",
+      "headline": "Colombia me car bomb, 23 ghayal",
+      "detail": "Villavicencio me sarkari karyalaya ke bahar car bomb phata, 23 log ghayal; rashtrapati ne FARC-EMC vidrohi gut ko zimmedaar thahraya.",
+      "category": "World",
+      "exam_angle": "Colombia hinsa, FARC shanti samjhota — UPSC IR",
+      "source": "Associated Press",
+      "source_url": "https://www.koreaherald.com/article/10948947",
+      "genuineness": "verified",
+      "outlets": [
+        "Associated Press",
+        "Xinhua",
+        "The Straits Times"
+      ],
+      "image": null,
+      "image_credit": null
+    },
+    {
+      "id": "world-20261125-1328-04",
+      "published_ist": "2026-11-24T12:00:00+05:30",
+      "headline": "Eisenkot ko pehla gathbandhan saathi mila",
+      "detail": "Israel me Eisenkot ki Yashar party ne Lieberman ki party se pehla gathbandhan samjhota kiya; 6 December tak sarkar banane ki samay-seema hai.",
+      "category": "World",
+      "exam_angle": "Israel rajneeti, Netanyahu — UPSC IR",
+      "source": "Reuters",
+      "source_url": "https://www.reuters.com/world/middle-east/israels-eisenkot-clinches-first-coalition-agreement-bid-form-government-2026-11-24/",
+      "genuineness": "verified",
+      "outlets": [
+        "Reuters",
+        "Al Jazeera",
+        "The Times of India"
+      ],
+      "image": null,
+      "image_credit": null
+    },
+    {
+      "id": "world-20261125-1328-05",
+      "published_ist": "2026-11-23T12:00:00+05:30",
+      "headline": "America sainik ne Cheen ko raaz beche",
+      "detail": "America ke sena sargent Jian Zhao ne Cheen se jude kharidaron ko HIMARS aur sainya jankari bechne ka aarop mana; 10 saal tak ki saza ho sakti hai.",
+      "category": "World",
+      "exam_angle": "America-Cheen jasusi, HIMARS — UPSC IR/S&T",
+      "source": "U.S. Department of Justice",
+      "source_url": "https://www.justice.gov/usao-or/pr/active-duty-us-army-sergeant-pleads-guilty-conspiracy-gather-and-transfer-national",
+      "genuineness": "verified",
+      "outlets": [
+        "U.S. Department of Justice",
+        "New York Post",
+        "Arab News"
+      ],
+      "image": null,
+      "image_credit": null
     }
   ]
 }
