@@ -1,6 +1,24 @@
 {
-  "updated_ist": "2026-11-24T22:27:22+05:30",
+  "updated_ist": "2026-11-25T06:34:28+05:30",
   "items": [
+    {
+      "id": "world-20261125-0622-01",
+      "published_ist": "2026-11-24T22:37:00+05:30",
+      "headline": "Yemen me bus-truck par hamla, 26 mare",
+      "detail": "Somvaar ko Yemen ke Lahj prant me bus aur truck par hawai hamle me 26 log mare gaye — 12 Houthi ladake aur 14 nagrik; hamle ke liye Houthi Saudi ko aur sarkar Houthi ko zimmedaar thahra rahi hai.",
+      "category": "World",
+      "exam_angle": "Yemen griha yuddh, Saudi-Houthi — UPSC IR",
+      "source": "The Hindu",
+      "source_url": "https://www.thehindu.com/news/international/yemen-officials-say-strike-on-buses-trucks-kills-26/article71739839.ece",
+      "genuineness": "verified",
+      "outlets": [
+        "Agence France-Presse",
+        "Saba",
+        "DD India"
+      ],
+      "image": null,
+      "image_credit": null
+    },
     {
       "id": "world-20261124-2122-01",
       "published_ist": "2026-11-24T21:40:00+05:30",
@@ -71,6 +89,24 @@
         "Saudi Gazette",
         "Mehr News",
         "APA"
+      ],
+      "image": null,
+      "image_credit": null
+    },
+    {
+      "id": "world-20261125-0622-02",
+      "published_ist": "2026-11-24T17:58:00+05:30",
+      "headline": "Ukraine ne Russia ki refinery par hamla kiya",
+      "detail": "Ukraine ke General Staff ne pushti ki 23 November ko drone hamle me Perm ki Lukoil refinery, Rostov ki Novoshakhtinsk refinery aur Tatarstan ke Kaleykino pumping station ko nuksan pahuncha; Perm refinery seema se lagbhag 1,500 km door hai.",
+      "category": "World",
+      "exam_angle": "Ukraine-Russia yuddh, tel par hamle — UPSC IR",
+      "source": "Euromaidan Press",
+      "source_url": "https://euromaidanpress.com/2026/11/24/from-rostov-to-perm-ukraines-drones-attacked-15-russian-refineries-in-november/",
+      "genuineness": "verified",
+      "outlets": [
+        "Euromaidan Press",
+        "Ukrinform",
+        "Defence-UA"
       ],
       "image": null,
       "image_credit": null
@@ -387,55 +423,19 @@
       "image_credit": null
     },
     {
-      "id": "world-20261124-2022-02",
-      "published_ist": "2026-11-23T12:00:00+05:30",
-      "headline": "Pentagon ne Canada ko raksha par fatkara",
-      "detail": "Pentagon ne kaha Canada raksha kharch aur F-35 khareed ki sameeksha par NATO vaade poore nahi kar raha; 2025-26 me vayu sena ke sirf 41.9% vimaan taiyaar the.",
+      "id": "world-20261125-0622-03",
+      "published_ist": "2026-11-23T15:50:00+05:30",
+      "headline": "Finland border par Russia ka sainya adda",
+      "detail": "Finland ke sarkari prasarak Yle ki satellite tasveeron se pata chala Russia Finland se 60 km door Kamenka sainya adde ko dobara bana raha hai; 69th Motor Rifle Division ke liye 11,000 sainikon ki tainaati ki yojana hai.",
       "category": "World",
-      "exam_angle": "NATO ka 5% raksha-kharch lakshya (2035)",
-      "source": "Associated Press",
-      "source_url": "https://bostonglobe-prod.cdn.arcpublishing.com/2026/11/23/world/pentagon-rebukes-canada-defense-spending/",
+      "exam_angle": "Russia-Finland, NATO vistar — UPSC IR",
+      "source": "Ukrainska Pravda",
+      "source_url": "https://www.pravda.com.ua/eng/news/2026/11/23/8064168/",
       "genuineness": "verified",
       "outlets": [
-        "Associated Press",
-        "TBS News",
-        "Saudi Gazette"
-      ],
-      "image": null,
-      "image_credit": null
-    },
-    {
-      "id": "world-20261124-1922-02",
-      "published_ist": "2026-11-23T12:00:00+05:30",
-      "headline": "Trump ke dabav se Huang phir Nvidia CEO",
-      "detail": "Nvidia board ne Jensen Huang ko CEO ke roop me wapas bahaal kiya — isteefe ke 11 din baad; Trump ne board se seedhi baat kar unki wapsi ka dabav banaya tha, aur ghoshna ke baad Nvidia ke share tezi se badhe.",
-      "category": "World",
-      "exam_angle": "Trump-Nvidia: corporate governance",
-      "source": "CNN",
-      "source_url": "https://www.cnn.com/2026/11/23/politics/trump-administration-jensen-huang-reinstated?cid=external-feeds_iluminar_meta",
-      "genuineness": "verified",
-      "outlets": [
-        "CNN",
-        "The Wall Street Journal",
-        "Le Monde"
-      ],
-      "image": null,
-      "image_credit": null
-    },
-    {
-      "id": "world-20261124-1922-03",
-      "published_ist": "2026-11-23T12:00:00+05:30",
-      "headline": "Colombia me drone hamla, 3 ghayal",
-      "detail": "Somvaar subah visfotak se lade drone ne Colombia ke Cúcuta shahar me police base par hamla kiya; 18 mahine ke bachche samet 3 nagrik ghayal hue aur 60 ghar kshatigrast hue; hamle ki zimmedari kisi ne nahi li.",
-      "category": "World",
-      "exam_angle": "Colombia: drone hamle — UPSC IR",
-      "source": "Al Jazeera",
-      "source_url": "https://www.aljazeera.com/news/2026/11/23/drone-attack-on-colombia-police-base-injures-civilians-including-infant?traffic_source=rss",
-      "genuineness": "verified",
-      "outlets": [
-        "Al Jazeera",
-        "Associated Press",
-        "EFE"
+        "Yle",
+        "Ukrainska Pravda",
+        "Washington Examiner"
       ],
       "image": null,
       "image_credit": null
