@@ -368,6 +368,63 @@
       ],
       "image": null,
       "image_credit": null
+    },
+    {
+      "id": "world-20261125-1226-01",
+      "published_ist": "2026-11-24T23:11:00+05:30",
+      "headline": "Putin ne badle ki dhamki di",
+      "detail": "Putin ne kaha Ukraine ne Trump ki appeal ke bawjood refineries par hamle jaari rakhe; badla tay hai, aur hamlo se refinery processing 45% ghata hai.",
+      "category": "World",
+      "exam_angle": "Russia-Ukraine yuddh, urja yuddh — UPSC IR",
+      "source": "Al Jazeera",
+      "source_url": "https://www.aljazeera.com/amp/news/2026/11/24/putin-says-kyiv-hit-russian-oil-plants-despite-trump-plea-vows-retaliation",
+      "genuineness": "verified",
+      "outlets": [
+        "Reuters",
+        "Al Jazeera",
+        "TRT World",
+        "Ukrainska Pravda"
+      ],
+      "image": "../images/world/world-20261125-1226-01.jpg",
+      "image_credit": "Al Jazeera"
+    },
+    {
+      "id": "world-20261125-1226-02",
+      "published_ist": "2026-11-24T05:18:00+05:30",
+      "headline": "Uttar Korea ki Swiss karyalaya band karne ki dhamki",
+      "detail": "Kim Yo Jong ne kaha Songdowon shivir par Swiss pratibandh ke baad Pyongyang me Swiss karyalaya band karne par vichaar hoga.",
+      "category": "World",
+      "exam_angle": "Uttar Korea-Russia sambandh — UPSC IR",
+      "source": "Yonhap",
+      "source_url": "https://en.yna.co.kr/view/AEN20261124001151315?section=nk/nk",
+      "genuineness": "verified",
+      "outlets": [
+        "Reuters",
+        "Yonhap",
+        "Korea Times",
+        "Korea Herald"
+      ],
+      "image": null,
+      "image_credit": null
+    },
+    {
+      "id": "world-20261125-1226-03",
+      "published_ist": "2026-11-24T07:30:00+05:30",
+      "headline": "Zaporizhzhia hamle me 2 mare, 40 ghayal",
+      "detail": "Russia ke subah ke hamle me ek ghar tabah hua aur paanch manzila building ko nuksan pahuncha; chaar bachche bhi ghayal hue.",
+      "category": "World",
+      "exam_angle": "Russia-Ukraine yuddh — UPSC IR",
+      "source": "Al Jazeera",
+      "source_url": "https://www.aljazeera.com/news/2026/11/24/russian-attack-kills-two-people-in-ukraines-zaporizhzhia?traffic_source=rss",
+      "genuineness": "verified",
+      "outlets": [
+        "Al Jazeera",
+        "Kyiv Post",
+        "Reuters",
+        "Ukrainska Pravda"
+      ],
+      "image": "../images/world/world-20261125-1226-03.jpg",
+      "image_credit": "Al Jazeera"
     }
   ]
 }
