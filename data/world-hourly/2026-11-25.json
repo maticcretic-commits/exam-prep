@@ -782,6 +782,96 @@
       ],
       "image": null,
       "image_credit": null
+    },
+    {
+      "id": "world-20261125-1822-01",
+      "published_ist": "2026-11-25T12:00:00+05:30",
+      "headline": "Raat ke hamlo se Ukraine me bijli gayi",
+      "detail": "Russia ke raat bhar ke hamlo ke baad Ukraine ke paanch kshetron me bijli chali gayi aur Zaporizhzhia parmanu sanyantra ki bahari bijli 2026 me 17vi baar band hui; Kyiv aur Kharkiv me log mare aur ghayal hue.",
+      "category": "World",
+      "exam_angle": "Russia-Ukraine yuddh, urja par hamle — UPSC IR",
+      "source": "Al Jazeera",
+      "source_url": "https://www.aljazeera.com/news/2026/11/25/russian-strikes-on-ukraine-cause-power-outages-in-five-regions",
+      "genuineness": "verified",
+      "outlets": [
+        "Al Jazeera",
+        "Yeni Safak",
+        "Babel"
+      ],
+      "image": null,
+      "image_credit": null
+    },
+    {
+      "id": "world-20261125-1822-02",
+      "published_ist": "2026-11-24T12:00:00+05:30",
+      "headline": "Trump Iran netaon ko nishana banane ki bahas",
+      "detail": "NBC ki report ke mutabik Trump prashasan nau mahine se chal rahe Iran yuddh ko khatm karne ke liye varishth Iranian netaon ko nishana banane par bahas kar raha hai, lekin Trump ne abhi koi antim faisla nahi liya hai.",
+      "category": "World",
+      "exam_angle": "America-Iran yuddh — UPSC IR",
+      "source": "NBC News",
+      "source_url": "https://indianexpress.com/article/world/donald-trump-us-weighs-targeting-killing-iran-war-top-leaders-10977038/",
+      "genuineness": "verified",
+      "outlets": [
+        "NBC News",
+        "The Times of Israel",
+        "Fox News"
+      ],
+      "image": null,
+      "image_credit": null
+    },
+    {
+      "id": "world-20261125-1822-03",
+      "published_ist": "2026-11-24T12:00:00+05:30",
+      "headline": "Landmine se 2025 me 6,929 log mare-ghayal",
+      "detail": "Landmine Monitor 2026 ke mutabik 2025 me duniya bhar me 6,929 log landmine aur yuddh ke avasheshon se mare ya ghayal hue — 2020 ke baad sabse zyada; 84% nagrik the aur sabse zyada 1,891 Myanmar me.",
+      "category": "World",
+      "exam_angle": "Landmine Ban Treaty, Myanmar-Syria — UPSC IR",
+      "source": "Al Jazeera",
+      "source_url": "https://www.aljazeera.com/amp/news/2026/11/24/global-landmine-casualties-hit-a-five-year-high-driven-by-myanmar-syria",
+      "genuineness": "verified",
+      "outlets": [
+        "Al Jazeera",
+        "SCMP",
+        "Arab News",
+        "The National"
+      ],
+      "image": null,
+      "image_credit": null
+    },
+    {
+      "id": "world-20261125-1822-04",
+      "published_ist": "2026-11-24T12:00:00+05:30",
+      "headline": "Gaza toofan se 17.6 lakh tent-wasi khatre me",
+      "detail": "Gaza ke sarkari media karyalaya ne chetavni di hai ki aane wale dinon me aane wala toofan tenton me reh rahe 17.6 lakh visthapit Falasteeniyon ki jaan khatre me daal sakta hai; 6 November ke toofan me 70,000 tent doob gaye the.",
+      "category": "World",
+      "exam_angle": "Gaza manaviya sankat — UPSC IR",
+      "source": "Yeni Safak",
+      "source_url": "https://en.yenisafak.com/world/gaza-media-office-warns-storm-threatens-176-million-palestinians-in-tents-3725974",
+      "genuineness": "corroborated",
+      "outlets": [
+        "Anadolu Agency",
+        "Gaza Herald"
+      ],
+      "image": null,
+      "image_credit": null
+    },
+    {
+      "id": "world-20261125-1822-05",
+      "published_ist": "2026-11-24T12:00:00+05:30",
+      "headline": "Trump 16 deshon par naye tariff ki taiyaari",
+      "detail": "Reuters ke mutabik Trump prashasan Section 301 jaanch ke baad Bharat samet 16 bade vyaparik saajhedaaron par 15% se 25% tak naye shulk lagane ki taiyaari me hai; Supreme Court ne pehle wale shulk February me radd kar diye the.",
+      "category": "World",
+      "exam_angle": "America vyapar neeti, Section 301 — UPSC economy",
+      "source": "Reuters",
+      "source_url": "https://www.thehindu.com/news/international/trump-administration-set-to-unveil-new-tariffs-after-probeon-excess-factory-capacity-sources/article71740905.ece",
+      "genuineness": "verified",
+      "outlets": [
+        "Reuters",
+        "The Wall Street Journal",
+        "The Hindu"
+      ],
+      "image": null,
+      "image_credit": null
     }
   ]
 }
