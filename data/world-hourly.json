@@ -1,6 +1,62 @@
 {
-  "updated_ist": "2026-11-25T06:34:28+05:30",
+  "updated_ist": "2026-11-25T07:25:20+05:30",
   "items": [
+    {
+      "id": "world-20261125-0722-01",
+      "published_ist": "2026-11-24T15:21:00+05:30",
+      "headline": "Libya me Ukraine ne Russia ka yuddh-pot duboya",
+      "detail": "Ravivaar ko Benghazi bandargah par Ukraine ke 7 samudri drone ne Russia ki corvette Merkuriy ko duboya aur Angara jahaz ko nuksan pahunchaya; Zelensky ne isey 'exemplary operation' kaha.",
+      "category": "World",
+      "exam_angle": "Ukraine ki long-range strike kshamata, Libya sangharsh — UPSC IR",
+      "source": "Al Jazeera",
+      "source_url": "https://www.aljazeera.com/amp/news/2026/11/24/russian-attack-kills-two-people-in-ukraines-zaporizhzhia",
+      "genuineness": "verified",
+      "outlets": [
+        "The Times",
+        "Al Jazeera",
+        "Reuters"
+      ],
+      "image": "../images/world/world-20261125-0722-01.jpg",
+      "image_credit": "Ministry of Defense of Russia, CC BY 4.0, Wikimedia Commons"
+    },
+    {
+      "id": "world-20261125-0722-02",
+      "published_ist": "2026-11-24T18:50:00+05:30",
+      "headline": "Finland khadi me Russia ke jahaz par hamla",
+      "detail": "Zelensky ne pushti ki Ukraine ne Shanivaar ko Finland ki khadi me Russia ke cargo jahaz Sparta II par drone hamla kiya; Norway ne savdhani baratne ko kaha.",
+      "category": "World",
+      "exam_angle": "Baltic Sagar, NATO-Russia tanaav — UPSC IR",
+      "source": "Reuters",
+      "source_url": "https://www.devdiscourse.com/article/international/4011704-reuters-world-news-summary",
+      "genuineness": "verified",
+      "outlets": [
+        "Reuters",
+        "Ukrinform",
+        "The Times"
+      ],
+      "image": null,
+      "image_credit": null
+    },
+    {
+      "id": "world-20261125-0722-03",
+      "published_ist": "2026-11-25T02:47:00+05:30",
+      "headline": "Huawei doshi: 12 me se 10 aarop sabit",
+      "detail": "Brooklyn ki jury ne Huawei ko Iran pratibandh ullanghan, bank dhokhadhadi aur trade secret chori ke 12 me se 10 aaropon me doshi thahraya; racketeering aarop se bari, saza September 2027 me.",
+      "category": "World",
+      "exam_angle": "America-Cheen tech yuddh, pratibandh — UPSC IR",
+      "source": "Reuters",
+      "source_url": "https://www.reuters.com/legal/litigation/chinas-huawei-convicted-us-criminal-trial-stemming-iran-business-2026-11-24/",
+      "genuineness": "verified",
+      "outlets": [
+        "Reuters",
+        "CNN",
+        "The Wall Street Journal",
+        "Al Jazeera",
+        "U.S. Department of Justice"
+      ],
+      "image": null,
+      "image_credit": null
+    },
     {
       "id": "world-20261125-0622-01",
       "published_ist": "2026-11-24T22:37:00+05:30",
@@ -382,60 +438,6 @@
         "Gulf News",
         "Khaleej Times",
         "Dawn"
-      ],
-      "image": null,
-      "image_credit": null
-    },
-    {
-      "id": "world-20261124-1422-03",
-      "published_ist": "2026-11-24T08:41:00+05:30",
-      "headline": "Trump ne Iowa visfot par rok lagayi",
-      "detail": "Rashtrapati Trump ne Iowa plant me zehrele lead azide ke visfot ko adalat ke faisle tak rokne ka aadesh diya.",
-      "category": "World",
-      "exam_angle": null,
-      "source": "The Times of India",
-      "source_url": "https://timesofindia.indiatimes.com/india/latest-india-world-news-live-updates-today-breaking-news-november-24-2026/liveblog/136113590.cms",
-      "genuineness": "corroborated",
-      "outlets": [
-        "Reuters",
-        "The Times of India"
-      ],
-      "image": null,
-      "image_credit": null
-    },
-    {
-      "id": "world-20261124-1524-03",
-      "published_ist": "2026-11-24T06:30:00+05:30",
-      "headline": "Hanoi me gas visfot, 6 mare, 10 ghayal",
-      "detail": "Hanoi me ek khane ki dukaan par subah gas visfot hua, imarat ka hissa gira aur 6 log mare gaye, 10 ghayal hue; bachav kaam jaari hai.",
-      "category": "World",
-      "exam_angle": null,
-      "source": "Reuters",
-      "source_url": "https://www.reuters.com/world/asia-pacific/explosion-kills-6-injures-10-vietnam-capital-hanoi-2026-11-24/",
-      "genuineness": "verified",
-      "outlets": [
-        "Reuters",
-        "VnExpress",
-        "Xinhua",
-        "Straits Times"
-      ],
-      "image": null,
-      "image_credit": null
-    },
-    {
-      "id": "world-20261125-0622-03",
-      "published_ist": "2026-11-23T15:50:00+05:30",
-      "headline": "Finland border par Russia ka sainya adda",
-      "detail": "Finland ke sarkari prasarak Yle ki satellite tasveeron se pata chala Russia Finland se 60 km door Kamenka sainya adde ko dobara bana raha hai; 69th Motor Rifle Division ke liye 11,000 sainikon ki tainaati ki yojana hai.",
-      "category": "World",
-      "exam_angle": "Russia-Finland, NATO vistar — UPSC IR",
-      "source": "Ukrainska Pravda",
-      "source_url": "https://www.pravda.com.ua/eng/news/2026/11/23/8064168/",
-      "genuineness": "verified",
-      "outlets": [
-        "Yle",
-        "Ukrainska Pravda",
-        "Washington Examiner"
       ],
       "image": null,
       "image_credit": null
