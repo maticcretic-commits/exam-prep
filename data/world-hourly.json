@@ -1,6 +1,43 @@
 {
-  "updated_ist": "2026-11-25T10:26:00+05:30",
+  "updated_ist": "2026-11-25T11:26:58+05:30",
   "items": [
+    {
+      "id": "world-20261125-1126-01",
+      "published_ist": "2026-11-25T09:01:00+05:30",
+      "headline": "Cartagena supermarket me bandhak sankat",
+      "detail": "Colombia ke Cartagena me sashastr hamlaavaron ne Exito supermarket me lagbhag 30 logon ko bandhak banaya; 10 ko riha kar diya gaya, police aur sena ne dukaan ko gher rakha hai.",
+      "category": "World",
+      "exam_angle": null,
+      "source": "Al Jazeera",
+      "source_url": "https://www.aljazeera.com/news/2026/11/24/hostage-situation-reported-in-colombia-as-armed-men-flee-into-supermarket?traffic_source=rss",
+      "genuineness": "verified",
+      "outlets": [
+        "Al Jazeera",
+        "AFP",
+        "South China Morning Post"
+      ],
+      "image": "../images/world/world-20261125-1126-01.jpg",
+      "image_credit": "Al Jazeera"
+    },
+    {
+      "id": "world-20261125-1126-02",
+      "published_ist": "2026-11-25T00:44:00+05:30",
+      "headline": "Houthi Aden ke 60 km paas pahunche",
+      "detail": "Houthi ladake Yemen ki asthayi rajdhani Aden se lagbhag 60 km door pahunch gaye; sarkari sena ne raksha rekha banayi aur kaha Aden surakshit rahega.",
+      "category": "World",
+      "exam_angle": "Yemen grih-yuddh, Bab el-Mandeb — UPSC IR",
+      "source": "Reuters",
+      "source_url": "https://www.reuters.com/world/middle-east/houthis-wont-seize-aden-yemeni-government-forces-say-2026-11-24/",
+      "genuineness": "verified",
+      "outlets": [
+        "Reuters",
+        "Arab News",
+        "Channel NewsAsia",
+        "Business Standard"
+      ],
+      "image": null,
+      "image_credit": null
+    },
     {
       "id": "world-20261125-0827-01",
       "published_ist": "2026-11-25T06:30:00+05:30",
@@ -388,24 +425,6 @@
       "image_credit": null
     },
     {
-      "id": "world-20261125-1022-02",
-      "published_ist": "2026-11-24T12:00:00+05:30",
-      "headline": "Shein ko $100 million jurmana",
-      "detail": "America ki FTC ne kaha Shein $100 million dega — der se delivery, nakaratmak review dabane aur kapas ki utpatti par galat daavon ke aarop; Shein ne zimmedaari nahi mani.",
-      "category": "World",
-      "exam_angle": "America upbhokta suraksha, FTC — UPSC economy",
-      "source": "FTC",
-      "source_url": "https://www.ftc.gov/news-events/news/press-releases/2026/11/shein-pay-100-million-over-allegations-deceptive-unfair-practices",
-      "genuineness": "verified",
-      "outlets": [
-        "FTC",
-        "Reuters",
-        "Channel NewsAsia"
-      ],
-      "image": null,
-      "image_credit": null
-    },
-    {
       "id": "world-20261125-1022-03",
       "published_ist": "2026-11-24T12:00:00+05:30",
       "headline": "Bangladesh me garment mazdooron ka pradarshan",
@@ -420,25 +439,6 @@
         "Prothom Alo",
         "The Business Standard",
         "Dhaka Tribune"
-      ],
-      "image": null,
-      "image_credit": null
-    },
-    {
-      "id": "world-20261125-1022-04",
-      "published_ist": "2026-11-24T07:02:00+05:30",
-      "headline": "Nepal me 5.4 ka bhookamp, Bharat me jhatke",
-      "detail": "USGS ke mutabik Nepal ke Koshi prant me subah 7:02 baje 5.4 teevrata ka bhookamp aaya; Bharat, Bhutan, Bangladesh aur Cheen me jhatke mehsoos hue; ab tak koi hatahat ya nuksan ki khabar nahi.",
-      "category": "World",
-      "exam_angle": "Himalaya bhookamp kshetra — UPSC geography",
-      "source": "The Times of India",
-      "source_url": "https://timesofindia.indiatimes.com/world/south-asia/magnitude-5-3-earthquake-strikes-nepals-koshi-province/articleshow/136117310.cms",
-      "genuineness": "verified",
-      "outlets": [
-        "USGS",
-        "The Times of India",
-        "ABP Live",
-        "The Tribune"
       ],
       "image": null,
       "image_credit": null
