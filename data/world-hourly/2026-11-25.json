@@ -182,6 +182,81 @@
       ],
       "image": null,
       "image_credit": null
+    },
+    {
+      "id": "world-20261125-0922-01",
+      "published_ist": "2026-11-25T06:27:30+05:30",
+      "headline": "America ki Houthi hamle se chetavni",
+      "detail": "America ke Videsh Vibhag ne Madhya Poorv me apne nagrikon ko Houthi hamlo aur Iran ke khatre ko dekhte hue satark rehne ko kaha; udaan radd aur hawai-kshetra band hone ki chetavni di.",
+      "category": "World",
+      "exam_angle": "America-Iran tanaav, Houthi hamle — West Asia",
+      "source": "Deccan Chronicle",
+      "source_url": "https://www.deccanchronicle.com/world/americas/us-warns-citizens-in-middle-east-of-rising-threats-from-iran-houthis-2007701",
+      "genuineness": "verified",
+      "outlets": [
+        "News18",
+        "Al Jazeera",
+        "Deccan Chronicle",
+        "The Times of India"
+      ],
+      "image": null,
+      "image_credit": null
+    },
+    {
+      "id": "world-20261125-0922-02",
+      "published_ist": "2026-11-25T05:48:00+05:30",
+      "headline": "Shenzhou-24 uda, pehla videshi antariksh-yatri",
+      "detail": "Cheen ke Shenzhou-24 ne Jiuquan se udaan bhari; Pakistan ke Zeeshan Ali Tiangong station par jaane wale pehle videshi antariksh-yatri bane, ek hafte ke mission par.",
+      "category": "World",
+      "exam_angle": "Tiangong station, pehla videshi antariksh-yatri — UPSC S&T",
+      "source": "Reuters",
+      "source_url": "https://www.reuters.com/science/chinas-shenzhou-24-space-flight-takes-off-with-pakistani-national-first-foreign-2026-11-25/",
+      "genuineness": "verified",
+      "outlets": [
+        "Reuters",
+        "Channel NewsAsia",
+        "Dawn",
+        "The Hindu"
+      ],
+      "image": null,
+      "image_credit": null
+    },
+    {
+      "id": "world-20261125-0922-03",
+      "published_ist": "2026-11-25T03:15:00+05:30",
+      "headline": "Mississippi ke paas viman gira, 6 lapata",
+      "detail": "New Orleans se Fort Myers ja raha Cessna viman Horn Island ke paas samudra me gira; 4 vayask aur 2 bachche sawaar the, Coast Guard talaash me juta hai.",
+      "category": "World",
+      "exam_angle": null,
+      "source": "CNN",
+      "source_url": "https://www.cnn.com/2026/11/24/us/plane-crash-mississippi-horn-island?cid=external-feeds_iluminar_meta",
+      "genuineness": "verified",
+      "outlets": [
+        "CNN",
+        "USA Today",
+        "Fox News"
+      ],
+      "image": null,
+      "image_credit": null
+    },
+    {
+      "id": "world-20261125-0922-04",
+      "published_ist": "2026-11-24T12:00:00+05:30",
+      "headline": "Senegal ko Africa Cup khitaab wapas mila",
+      "detail": "CAS ne CAF ka faisla palat diya; Senegal ki 1-0 se jeeti final wali jeet bahal hui aur Morocco ko diya gaya khitaab wapas liya gaya.",
+      "category": "World",
+      "exam_angle": "CAS, field-of-play siddhant — khel kanoon",
+      "source": "Reuters",
+      "source_url": "https://www.reuters.com/sports/soccer/soccer-senegal-reinstated-2025-africa-cup-nations-winners-2026-11-24/",
+      "genuineness": "verified",
+      "outlets": [
+        "Reuters",
+        "The Daily Star",
+        "Le Temps",
+        "Sportsnet"
+      ],
+      "image": null,
+      "image_credit": null
     }
   ]
 }
