@@ -1,6 +1,63 @@
 {
-  "updated_ist": "2026-11-25T18:26:58+05:30",
+  "updated_ist": "2026-11-25T19:26:53+05:30",
   "items": [
+    {
+      "id": "world-20261125-1926-01",
+      "published_ist": "2026-11-25T18:33:00+05:30",
+      "headline": "CIA-ODNI par cyber hamla, khufiya data leak",
+      "detail": "CIA, ODNI aur NGA ke open-source intelligence system me ghuspaith hui; kuchh unclassified jaankari leak hui, classified data surakshit raha.",
+      "category": "World",
+      "exam_angle": "US intelligence, cyber suraksha, OSINT",
+      "source": "The Times of India",
+      "source_url": "https://timesofindia.indiatimes.com/technology/tech-news/hackers-may-have-used-ai-tool-to-attack-cia-and-other-us-spy-agencies/articleshow/136162689.cms",
+      "genuineness": "verified",
+      "outlets": [
+        "The New York Times",
+        "Reuters",
+        "CNN",
+        "The Times of India"
+      ],
+      "image": "../images/world/world-20261125-1926-01.jpg",
+      "image_credit": "Carol M. Highsmith, Public domain (Wikimedia Commons)"
+    },
+    {
+      "id": "world-20261125-1926-02",
+      "published_ist": "2026-11-24T12:00:00+05:30",
+      "headline": "Huawei 12 me se 10 aaropon me doshi",
+      "detail": "America ki jury ne Huawei ko bank fraud aur trade secret chori ki sajish samet 12 me se 10 aaropon me doshi paya; racketeering ke aarop se bari kiya gaya.",
+      "category": "World",
+      "exam_angle": "America-China, Iran pratibandh, trade secret",
+      "source": "Reuters",
+      "source_url": "https://www.reuters.com/legal/litigation/chinas-huawei-convicted-us-criminal-trial-stemming-iran-business-2026-11-24/",
+      "genuineness": "verified",
+      "outlets": [
+        "Reuters",
+        "CNN",
+        "Al Jazeera",
+        "South China Morning Post"
+      ],
+      "image": "../images/world/world-20261125-1926-02.jpg",
+      "image_credit": "Windmemories, CC BY-SA 4.0 (Wikimedia Commons)"
+    },
+    {
+      "id": "world-20261125-1926-03",
+      "published_ist": "2026-11-25T12:00:00+05:30",
+      "headline": "Australia: Big Tech par sakht online kanoon",
+      "detail": "Australia ne Digital Duty of Care kanoon pass kiya; harmful content na hatane par company par global revenue ka 5% tak jurmana lag sakta hai.",
+      "category": "World",
+      "exam_angle": "Digital governance, Big Tech niyaman",
+      "source": "Reuters",
+      "source_url": "https://www.reuters.com/legal/litigation/australia-passes-law-forcing-internet-platforms-take-down-harmful-content-2026-11-25/",
+      "genuineness": "verified",
+      "outlets": [
+        "Reuters",
+        "Associated Press",
+        "Channel News Asia",
+        "The Times of India"
+      ],
+      "image": "../images/world/world-20261125-1926-03.jpg",
+      "image_credit": "JJ Harrison, CC BY-SA 3.0 (Wikimedia Commons)"
+    },
     {
       "id": "world-20261125-1722-01",
       "published_ist": "2026-11-25T17:00:00+05:30",
@@ -300,18 +357,19 @@
     },
     {
       "id": "world-20261125-1822-05",
-      "published_ist": "2026-11-24T12:00:00+05:30",
-      "headline": "Trump 16 deshon par naye tariff ki taiyaari",
-      "detail": "Reuters ke mutabik Trump prashasan Section 301 jaanch ke baad Bharat samet 16 bade vyaparik saajhedaaron par 15% se 25% tak naye shulk lagane ki taiyaari me hai; Supreme Court ne pehle wale shulk February me radd kar diye the.",
+      "published_ist": "2026-11-25T18:52:00+05:30",
+      "headline": "Trump ka 14 deshon par tariff prastav",
+      "detail": "USTR ne Bharat samet 14 vyaparik saajhedaaron par 25% tak shulk ka prastav diya; China par 20% pehle ke shulk ke upar lagega, lagu January se pehle nahi hoga.",
       "category": "World",
       "exam_angle": "America vyapar neeti, Section 301 — UPSC economy",
       "source": "Reuters",
-      "source_url": "https://www.thehindu.com/news/international/trump-administration-set-to-unveil-new-tariffs-after-probeon-excess-factory-capacity-sources/article71740905.ece",
+      "source_url": "https://www.reuters.com/world/china/us-proposes-new-tariffs-14-trading-partners-fight-excess-factory-capacity-2026-11-25/",
       "genuineness": "verified",
       "outlets": [
         "Reuters",
-        "The Wall Street Journal",
-        "The Hindu"
+        "Financial Express",
+        "The Hindu",
+        "The Times of India"
       ],
       "image": null,
       "image_credit": null
@@ -392,61 +450,6 @@
       ],
       "image": null,
       "image_credit": null
-    },
-    {
-      "id": "world-20261125-1328-03",
-      "published_ist": "2026-11-24T12:00:00+05:30",
-      "headline": "Colombia me car bomb, 23 ghayal",
-      "detail": "Villavicencio me sarkari karyalaya ke bahar car bomb phata, 23 log ghayal; rashtrapati ne FARC-EMC vidrohi gut ko zimmedaar thahraya.",
-      "category": "World",
-      "exam_angle": "Colombia hinsa, FARC shanti samjhota — UPSC IR",
-      "source": "Associated Press",
-      "source_url": "https://www.koreaherald.com/article/10948947",
-      "genuineness": "verified",
-      "outlets": [
-        "Associated Press",
-        "Xinhua",
-        "The Straits Times"
-      ],
-      "image": null,
-      "image_credit": null
-    },
-    {
-      "id": "world-20261125-1328-04",
-      "published_ist": "2026-11-24T12:00:00+05:30",
-      "headline": "Eisenkot ko pehla gathbandhan saathi mila",
-      "detail": "Israel me Eisenkot ki Yashar party ne Lieberman ki party se pehla gathbandhan samjhota kiya; 6 December tak sarkar banane ki samay-seema hai.",
-      "category": "World",
-      "exam_angle": "Israel rajneeti, Netanyahu — UPSC IR",
-      "source": "Reuters",
-      "source_url": "https://www.reuters.com/world/middle-east/israels-eisenkot-clinches-first-coalition-agreement-bid-form-government-2026-11-24/",
-      "genuineness": "verified",
-      "outlets": [
-        "Reuters",
-        "Al Jazeera",
-        "The Times of India"
-      ],
-      "image": null,
-      "image_credit": null
-    },
-    {
-      "id": "world-20261125-1226-03",
-      "published_ist": "2026-11-24T07:30:00+05:30",
-      "headline": "Zaporizhzhia hamle me 2 mare, 40 ghayal",
-      "detail": "Russia ke subah ke hamle me ek ghar tabah hua aur paanch manzila building ko nuksan pahuncha; chaar bachche bhi ghayal hue.",
-      "category": "World",
-      "exam_angle": "Russia-Ukraine yuddh — UPSC IR",
-      "source": "Al Jazeera",
-      "source_url": "https://www.aljazeera.com/news/2026/11/24/russian-attack-kills-two-people-in-ukraines-zaporizhzhia?traffic_source=rss",
-      "genuineness": "verified",
-      "outlets": [
-        "Al Jazeera",
-        "Kyiv Post",
-        "Reuters",
-        "Ukrainska Pravda"
-      ],
-      "image": "../images/world/world-20261125-1226-03.jpg",
-      "image_credit": "Al Jazeera"
     }
   ]
 }
