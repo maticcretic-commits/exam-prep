@@ -110,6 +110,78 @@
       ],
       "image": null,
       "image_credit": null
+    },
+    {
+      "id": "world-20261125-0827-01",
+      "published_ist": "2026-11-25T06:30:00+05:30",
+      "headline": "Estonia rail border band karne par vichaar",
+      "detail": "Pradhan Mantri Kristen Michal ne kaha Estonia Narva rail crossing band karne par vichaar kar raha hai; 1 December se sadak seema band ho rahi hai, GRU tod-fod koshish ke baad.",
+      "category": "World",
+      "exam_angle": "NATO-Russia tanaav, Baltic suraksha — UPSC IR",
+      "source": "Kyiv Post",
+      "source_url": "https://www.kyivpost.com/post/91102",
+      "genuineness": "verified",
+      "outlets": [
+        "ERR",
+        "Kyiv Post",
+        "LB.ua"
+      ],
+      "image": "../images/world/world-20261125-0827-01.jpg",
+      "image_credit": "Nenea hartia, CC BY-SA 4.0, Wikimedia Commons"
+    },
+    {
+      "id": "world-20261125-0827-02",
+      "published_ist": "2026-11-25T01:22:00+05:30",
+      "headline": "CIA-ODNI ke khule network me sendh",
+      "detail": "America ki CIA aur ODNI ke khule-source khufiya network me sendh lagi, kuchh avargeekrit jankari ujagar hui; New York Times ne report kiya, gopniya jankari surakshit rahi.",
+      "category": "World",
+      "exam_angle": "Cyber suraksha, OSINT — UPSC IR/S&T",
+      "source": "Reuters",
+      "source_url": "https://www.reuters.com/world/us-cia-odni-suffer-cybersecurity-breach-some-unclassified-information-nyt-2026-11-24/",
+      "genuineness": "verified",
+      "outlets": [
+        "The New York Times",
+        "Reuters",
+        "CNN",
+        "Associated Press"
+      ],
+      "image": null,
+      "image_credit": null
+    },
+    {
+      "id": "world-20261125-0827-03",
+      "published_ist": "2026-11-25T00:31:00+05:30",
+      "headline": "Sarkozy-Brunni par naya mukadma chalega",
+      "detail": "France ke poorv Rashtrapati Nicolas Sarkozy aur unki patni Carla Bruni par gawah se bayan badalwane ke aarop me mukadma chalega; pehli sunvai 1 April 2027 ko.",
+      "category": "World",
+      "exam_angle": "France rajneeti, bhrashtachar — UPSC IR",
+      "source": "Reuters",
+      "source_url": "https://www.reuters.com/world/french-officials-order-former-president-sarkozys-corruption-case-trial-2026-11-24/",
+      "genuineness": "corroborated",
+      "outlets": [
+        "Reuters",
+        "Agence France-Presse"
+      ],
+      "image": "../images/world/world-20261125-0827-03.jpg",
+      "image_credit": "Georges-Francis Seingry, CC BY-SA 3.0, Wikimedia Commons"
+    },
+    {
+      "id": "world-20261125-0827-04",
+      "published_ist": "2026-11-24T19:55:00+05:30",
+      "headline": "Zelensky ab Congress se madad mangenge",
+      "detail": "Zelensky ne kaha agar Trump saal-ant tak Putin se shanti samjhota na kara paye to Ukraine nayi Democrat-niyantrit Congress se sainya madad aur sakht pratibandh mangega.",
+      "category": "World",
+      "exam_angle": "Ukraine yuddh, America rajneeti — UPSC IR",
+      "source": "Kyiv Post",
+      "source_url": "https://www.kyivpost.com/post/91101",
+      "genuineness": "verified",
+      "outlets": [
+        "Bloomberg",
+        "Kyiv Post",
+        "Hromadske"
+      ],
+      "image": null,
+      "image_credit": null
     }
   ]
 }
