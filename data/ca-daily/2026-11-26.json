@@ -1,0 +1,77 @@
+{
+ "date": "2026-11-26",
+ "date_hi": "26 November 2026",
+ "date_en": "26 November 2026",
+ "episodes": [
+  {
+   "episode": 165,
+   "video_hi": "JjC4CrR9Cao",
+   "video_hinglish": "JjC4CrR9Cao",
+   "capsules": [
+    {
+     "id": "ca-ep165-s1",
+     "headline_hi": "Banks ne 1.44 lakh crore ka karz maaf kiya",
+     "headline_hinglish": "Banks ne 1.44 lakh crore ka karz maaf kiya",
+     "detail_hi": "RBI data ke mutabik banks ne FY26 mein 1.44 lakh crore ke bad loans write off kiye, das saal mein kul 18 lakh crore.",
+     "detail_hinglish": "RBI data ke mutabik banks ne FY26 mein 1.44 lakh crore ke bad loans write off kiye, das saal mein kul 18 lakh crore.",
+     "category_hi": "Economy",
+     "category_en": "Economy"
+    },
+    {
+     "id": "ca-ep165-s2",
+     "headline_hi": "India Post ko 2,632 crore se naya roop",
+     "headline_hinglish": "India Post ko 2,632 crore se naya roop",
+     "detail_hi": "Cabinet ne India Post ke modernisation ke liye 2,632 crore approve kiye, 5,050 post offices upgrade honge.",
+     "detail_hinglish": "Cabinet ne India Post ke modernisation ke liye 2,632 crore approve kiye, 5,050 post offices upgrade honge.",
+     "category_hi": "Infrastructure",
+     "category_en": "National"
+    },
+    {
+     "id": "ca-ep165-s3",
+     "headline_hi": "Samvidhan Divas: 77 saal ka safar",
+     "headline_hinglish": "Samvidhan Divas: 77 saal ka safar",
+     "detail_hi": "Aaj 26 November ko Samvidhan Divas hai, 1949 mein aaj hi ke din Samvidhan apnaya gaya tha.",
+     "detail_hinglish": "Aaj 26 November ko Samvidhan Divas hai, 1949 mein aaj hi ke din Samvidhan apnaya gaya tha.",
+     "category_hi": "Polity",
+     "category_en": "Polity"
+    },
+    {
+     "id": "ca-ep165-s4",
+     "headline_hi": "Flipkart CEO Kalyan Krishnamurthy pad chhodenge",
+     "headline_hinglish": "Flipkart CEO Kalyan Krishnamurthy pad chhodenge",
+     "detail_hi": "Flipkart Group ke CEO Kalyan Krishnamurthy agle mahine December mein apne pad se hat jayenge.",
+     "detail_hinglish": "Flipkart Group ke CEO Kalyan Krishnamurthy agle mahine December mein apne pad se hat jayenge.",
+     "category_hi": "Business",
+     "category_en": "National"
+    },
+    {
+     "id": "ca-ep165-s5",
+     "headline_hi": "IPL 2027 nilami ke liye 1,220 khiladi",
+     "headline_hinglish": "IPL 2027 nilami ke liye 1,220 khiladi",
+     "detail_hi": "IPL 2027 ki nilami ke liye kul 1,220 khiladiyon ne registration karaya, jinmein 53 Australian khiladi bhi hain.",
+     "detail_hinglish": "IPL 2027 ki nilami ke liye kul 1,220 khiladiyon ne registration karaya, jinmein 53 Australian khiladi bhi hain.",
+     "category_hi": "Sports",
+     "category_en": "Sports"
+    }
+   ],
+   "mcq": {
+    "id": "ca-ep165-mcq",
+    "q_hi": "Cabinet ne India Post ke modernisation ke liye kitne crore rupaye approve kiye hain?",
+    "q_hinglish": "Cabinet ne India Post ke modernisation ke liye kitne crore rupaye approve kiye hain?",
+    "options_hi": [
+     "Ek hazaar ek sau iktalees crore",
+     "Do hazaar chhe sau battis crore",
+     "Chaar hazaar crore",
+     "Paanch hazaar crore"
+    ],
+    "options_hinglish": [
+     "Ek hazaar ek sau iktalees crore",
+     "Do hazaar chhe sau battis crore",
+     "Chaar hazaar crore",
+     "Paanch hazaar crore"
+    ],
+    "answer_index": 1
+   }
+  }
+ ]
+}
