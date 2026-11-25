@@ -1,6 +1,86 @@
 {
-  "updated_ist": "2026-11-25T15:25:03+05:30",
+  "updated_ist": "2026-11-25T16:23:51+05:30",
   "items": [
+    {
+      "id": "world-20261125-1622-01",
+      "published_ist": "2026-11-25T11:18:00+05:30",
+      "headline": "Saudi ne Hodeida bandargah par hamla kiya",
+      "detail": "Saudi-led gathbandhan ne Houthi ke kabze wale Hodeida port par hamla kiya aur Saada-Amran me lakshya dhwast kiye; Houthi ne Saudi bandargahon par badle ki dhamki di.",
+      "category": "World",
+      "exam_angle": "Yemen yuddh, Saudi-Houthi, Bab el-Mandeb — UPSC IR",
+      "source": "Channel NewsAsia",
+      "source_url": "https://www.channelnewsasia.com/world/saudi-attack-yemen-houthi-hodeida-6580346",
+      "genuineness": "verified",
+      "outlets": [
+        "Channel NewsAsia",
+        "Al Jazeera",
+        "Gulf News",
+        "The Jerusalem Post",
+        "Kuwait Times",
+        "Dawn"
+      ],
+      "image": null,
+      "image_credit": null
+    },
+    {
+      "id": "world-20261125-1622-02",
+      "published_ist": "2026-11-24T12:00:00+05:30",
+      "headline": "Shanghai chief Chen Jining jaanch ke ghere me",
+      "detail": "Cheen ki bhrashtachar-rodhi agency ne Politburo sadasya aur Shanghai party chief Chen Jining par 'gambhir anushasan ullanghan' ki jaanch shuru ki; 2025 se chauthe Politburo sadasya par jaanch hai.",
+      "category": "World",
+      "exam_angle": "Cheen rajneeti, Xi ki bhrashtachar-rodhi muheem — UPSC IR",
+      "source": "Reuters",
+      "source_url": "https://www.reuters.com/world/china-investigates-politburo-member-chen-jining-xinhua-says-2026-11-24/",
+      "genuineness": "verified",
+      "outlets": [
+        "Reuters",
+        "The Wall Street Journal",
+        "Channel NewsAsia",
+        "Al Jazeera",
+        "CNN"
+      ],
+      "image": null,
+      "image_credit": null
+    },
+    {
+      "id": "world-20261125-1622-03",
+      "published_ist": "2026-11-23T12:00:00+05:30",
+      "headline": "EU ka Russia par 22nd sanctions package",
+      "detail": "European Commission ne Russia par 22nd sanctions package prastav kiya — 60 bank SWIFT se bahar, 70 se zyada shadow fleet jahaz, aur EU me Russia ke jhande tale khel par pratibandh.",
+      "category": "World",
+      "exam_angle": "EU-Russia pratibandh, SWIFT, shadow fleet — UPSC IR",
+      "source": "Al Jazeera",
+      "source_url": "https://www.aljazeera.com/news/2026/11/23/eu-plans-sports-ban-in-sweeping-new-russia-sanctions-proposal",
+      "genuineness": "verified",
+      "outlets": [
+        "European Commission",
+        "Al Jazeera",
+        "Kyiv Independent",
+        "The Korea Times",
+        "Anadolu Agency"
+      ],
+      "image": null,
+      "image_credit": null
+    },
+    {
+      "id": "world-20261125-1622-04",
+      "published_ist": "2026-11-24T06:30:00+05:30",
+      "headline": "Hanoi restaurant dhamaka, 6 mare",
+      "detail": "Hanoi ke Dong Da jile me hotpot restaurant me gas dhamake se 6 log mare aur 10 ghayal hue; aas-paas ki lagbhag 10 imaraton ko nuksan pahuncha.",
+      "category": "World",
+      "exam_angle": null,
+      "source": "The Straits Times",
+      "source_url": "https://www.straitstimes.com/asia/explosion-kills-6-injures-10-in-vietnam-capital-hanoi?ref=latest",
+      "genuineness": "verified",
+      "outlets": [
+        "Reuters",
+        "Associated Press",
+        "The Straits Times",
+        "Vietnam News"
+      ],
+      "image": null,
+      "image_credit": null
+    },
     {
       "id": "world-20261125-1525-01",
       "published_ist": "2026-11-24T12:00:00+05:30",
@@ -369,80 +449,6 @@
         "CNN",
         "USA Today",
         "Fox News"
-      ],
-      "image": null,
-      "image_credit": null
-    },
-    {
-      "id": "world-20261125-0722-03",
-      "published_ist": "2026-11-25T02:47:00+05:30",
-      "headline": "Huawei doshi: 12 me se 10 aarop sabit",
-      "detail": "Brooklyn ki jury ne Huawei ko Iran pratibandh ullanghan, bank dhokhadhadi aur trade secret chori ke 12 me se 10 aaropon me doshi thahraya; racketeering aarop se bari, saza September 2027 me.",
-      "category": "World",
-      "exam_angle": "America-Cheen tech yuddh, pratibandh — UPSC IR",
-      "source": "Reuters",
-      "source_url": "https://www.reuters.com/legal/litigation/chinas-huawei-convicted-us-criminal-trial-stemming-iran-business-2026-11-24/",
-      "genuineness": "verified",
-      "outlets": [
-        "Reuters",
-        "CNN",
-        "The Wall Street Journal",
-        "Al Jazeera",
-        "U.S. Department of Justice"
-      ],
-      "image": null,
-      "image_credit": null
-    },
-    {
-      "id": "world-20261125-0827-02",
-      "published_ist": "2026-11-25T01:22:00+05:30",
-      "headline": "CIA-ODNI ke khule network me sendh",
-      "detail": "America ki CIA aur ODNI ke khule-source khufiya network me sendh lagi, kuchh avargeekrit jankari ujagar hui; New York Times ne report kiya, gopniya jankari surakshit rahi.",
-      "category": "World",
-      "exam_angle": "Cyber suraksha, OSINT — UPSC IR/S&T",
-      "source": "Reuters",
-      "source_url": "https://www.reuters.com/world/us-cia-odni-suffer-cybersecurity-breach-some-unclassified-information-nyt-2026-11-24/",
-      "genuineness": "verified",
-      "outlets": [
-        "The New York Times",
-        "Reuters",
-        "CNN",
-        "Associated Press"
-      ],
-      "image": null,
-      "image_credit": null
-    },
-    {
-      "id": "world-20261125-0827-03",
-      "published_ist": "2026-11-25T00:31:00+05:30",
-      "headline": "Sarkozy-Brunni par naya mukadma chalega",
-      "detail": "France ke poorv Rashtrapati Nicolas Sarkozy aur unki patni Carla Bruni par gawah se bayan badalwane ke aarop me mukadma chalega; pehli sunvai 1 April 2027 ko.",
-      "category": "World",
-      "exam_angle": "France rajneeti, bhrashtachar — UPSC IR",
-      "source": "Reuters",
-      "source_url": "https://www.reuters.com/world/french-officials-order-former-president-sarkozys-corruption-case-trial-2026-11-24/",
-      "genuineness": "corroborated",
-      "outlets": [
-        "Reuters",
-        "Agence France-Presse"
-      ],
-      "image": "../images/world/world-20261125-0827-03.jpg",
-      "image_credit": "Georges-Francis Seingry, CC BY-SA 3.0, Wikimedia Commons"
-    },
-    {
-      "id": "world-20261125-0622-01",
-      "published_ist": "2026-11-24T22:37:00+05:30",
-      "headline": "Yemen me bus-truck par hamla, 26 mare",
-      "detail": "Somvaar ko Yemen ke Lahj prant me bus aur truck par hawai hamle me 26 log mare gaye — 12 Houthi ladake aur 14 nagrik; hamle ke liye Houthi Saudi ko aur sarkar Houthi ko zimmedaar thahra rahi hai.",
-      "category": "World",
-      "exam_angle": "Yemen griha yuddh, Saudi-Houthi — UPSC IR",
-      "source": "The Hindu",
-      "source_url": "https://www.thehindu.com/news/international/yemen-officials-say-strike-on-buses-trucks-kills-26/article71739839.ece",
-      "genuineness": "verified",
-      "outlets": [
-        "Agence France-Presse",
-        "Saba",
-        "DD India"
       ],
       "image": null,
       "image_credit": null
