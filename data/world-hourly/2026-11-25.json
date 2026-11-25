@@ -629,6 +629,86 @@
       ],
       "image": null,
       "image_credit": null
+    },
+    {
+      "id": "world-20261125-1622-01",
+      "published_ist": "2026-11-25T11:18:00+05:30",
+      "headline": "Saudi ne Hodeida bandargah par hamla kiya",
+      "detail": "Saudi-led gathbandhan ne Houthi ke kabze wale Hodeida port par hamla kiya aur Saada-Amran me lakshya dhwast kiye; Houthi ne Saudi bandargahon par badle ki dhamki di.",
+      "category": "World",
+      "exam_angle": "Yemen yuddh, Saudi-Houthi, Bab el-Mandeb — UPSC IR",
+      "source": "Channel NewsAsia",
+      "source_url": "https://www.channelnewsasia.com/world/saudi-attack-yemen-houthi-hodeida-6580346",
+      "genuineness": "verified",
+      "outlets": [
+        "Channel NewsAsia",
+        "Al Jazeera",
+        "Gulf News",
+        "The Jerusalem Post",
+        "Kuwait Times",
+        "Dawn"
+      ],
+      "image": null,
+      "image_credit": null
+    },
+    {
+      "id": "world-20261125-1622-02",
+      "published_ist": "2026-11-24T12:00:00+05:30",
+      "headline": "Shanghai chief Chen Jining jaanch ke ghere me",
+      "detail": "Cheen ki bhrashtachar-rodhi agency ne Politburo sadasya aur Shanghai party chief Chen Jining par 'gambhir anushasan ullanghan' ki jaanch shuru ki; 2025 se chauthe Politburo sadasya par jaanch hai.",
+      "category": "World",
+      "exam_angle": "Cheen rajneeti, Xi ki bhrashtachar-rodhi muheem — UPSC IR",
+      "source": "Reuters",
+      "source_url": "https://www.reuters.com/world/china-investigates-politburo-member-chen-jining-xinhua-says-2026-11-24/",
+      "genuineness": "verified",
+      "outlets": [
+        "Reuters",
+        "The Wall Street Journal",
+        "Channel NewsAsia",
+        "Al Jazeera",
+        "CNN"
+      ],
+      "image": null,
+      "image_credit": null
+    },
+    {
+      "id": "world-20261125-1622-03",
+      "published_ist": "2026-11-23T12:00:00+05:30",
+      "headline": "EU ka Russia par 22nd sanctions package",
+      "detail": "European Commission ne Russia par 22nd sanctions package prastav kiya — 60 bank SWIFT se bahar, 70 se zyada shadow fleet jahaz, aur EU me Russia ke jhande tale khel par pratibandh.",
+      "category": "World",
+      "exam_angle": "EU-Russia pratibandh, SWIFT, shadow fleet — UPSC IR",
+      "source": "Al Jazeera",
+      "source_url": "https://www.aljazeera.com/news/2026/11/23/eu-plans-sports-ban-in-sweeping-new-russia-sanctions-proposal",
+      "genuineness": "verified",
+      "outlets": [
+        "European Commission",
+        "Al Jazeera",
+        "Kyiv Independent",
+        "The Korea Times",
+        "Anadolu Agency"
+      ],
+      "image": null,
+      "image_credit": null
+    },
+    {
+      "id": "world-20261125-1622-04",
+      "published_ist": "2026-11-24T06:30:00+05:30",
+      "headline": "Hanoi restaurant dhamaka, 6 mare",
+      "detail": "Hanoi ke Dong Da jile me hotpot restaurant me gas dhamake se 6 log mare aur 10 ghayal hue; aas-paas ki lagbhag 10 imaraton ko nuksan pahuncha.",
+      "category": "World",
+      "exam_angle": null,
+      "source": "The Straits Times",
+      "source_url": "https://www.straitstimes.com/asia/explosion-kills-6-injures-10-in-vietnam-capital-hanoi?ref=latest",
+      "genuineness": "verified",
+      "outlets": [
+        "Reuters",
+        "Associated Press",
+        "The Straits Times",
+        "Vietnam News"
+      ],
+      "image": null,
+      "image_credit": null
     }
   ]
 }
