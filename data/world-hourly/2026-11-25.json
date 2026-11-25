@@ -1,0 +1,59 @@
+{
+  "date": "2026-11-25",
+  "items": [
+    {
+      "id": "world-20261125-0622-01",
+      "published_ist": "2026-11-24T22:37:00+05:30",
+      "headline": "Yemen me bus-truck par hamla, 26 mare",
+      "detail": "Somvaar ko Yemen ke Lahj prant me bus aur truck par hawai hamle me 26 log mare gaye — 12 Houthi ladake aur 14 nagrik; hamle ke liye Houthi Saudi ko aur sarkar Houthi ko zimmedaar thahra rahi hai.",
+      "category": "World",
+      "exam_angle": "Yemen griha yuddh, Saudi-Houthi — UPSC IR",
+      "source": "The Hindu",
+      "source_url": "https://www.thehindu.com/news/international/yemen-officials-say-strike-on-buses-trucks-kills-26/article71739839.ece",
+      "genuineness": "verified",
+      "outlets": [
+        "Agence France-Presse",
+        "Saba",
+        "DD India"
+      ],
+      "image": null,
+      "image_credit": null
+    },
+    {
+      "id": "world-20261125-0622-02",
+      "published_ist": "2026-11-24T17:58:00+05:30",
+      "headline": "Ukraine ne Russia ki refinery par hamla kiya",
+      "detail": "Ukraine ke General Staff ne pushti ki 23 November ko drone hamle me Perm ki Lukoil refinery, Rostov ki Novoshakhtinsk refinery aur Tatarstan ke Kaleykino pumping station ko nuksan pahuncha; Perm refinery seema se lagbhag 1,500 km door hai.",
+      "category": "World",
+      "exam_angle": "Ukraine-Russia yuddh, tel par hamle — UPSC IR",
+      "source": "Euromaidan Press",
+      "source_url": "https://euromaidanpress.com/2026/11/24/from-rostov-to-perm-ukraines-drones-attacked-15-russian-refineries-in-november/",
+      "genuineness": "verified",
+      "outlets": [
+        "Euromaidan Press",
+        "Ukrinform",
+        "Defence-UA"
+      ],
+      "image": null,
+      "image_credit": null
+    },
+    {
+      "id": "world-20261125-0622-03",
+      "published_ist": "2026-11-23T15:50:00+05:30",
+      "headline": "Finland border par Russia ka sainya adda",
+      "detail": "Finland ke sarkari prasarak Yle ki satellite tasveeron se pata chala Russia Finland se 60 km door Kamenka sainya adde ko dobara bana raha hai; 69th Motor Rifle Division ke liye 11,000 sainikon ki tainaati ki yojana hai.",
+      "category": "World",
+      "exam_angle": "Russia-Finland, NATO vistar — UPSC IR",
+      "source": "Ukrainska Pravda",
+      "source_url": "https://www.pravda.com.ua/eng/news/2026/11/23/8064168/",
+      "genuineness": "verified",
+      "outlets": [
+        "Yle",
+        "Ukrainska Pravda",
+        "Washington Examiner"
+      ],
+      "image": null,
+      "image_credit": null
+    }
+  ]
+}
