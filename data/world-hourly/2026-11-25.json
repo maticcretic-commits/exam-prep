@@ -872,6 +872,82 @@
       ],
       "image": null,
       "image_credit": null
+    },
+    {
+      "id": "world-20261125-1926-01",
+      "published_ist": "2026-11-25T18:33:00+05:30",
+      "headline": "CIA-ODNI par cyber hamla, khufiya data leak",
+      "detail": "CIA, ODNI aur NGA ke open-source intelligence system me ghuspaith hui; kuchh unclassified jaankari leak hui, classified data surakshit raha.",
+      "category": "World",
+      "exam_angle": "US intelligence, cyber suraksha, OSINT",
+      "source": "The Times of India",
+      "source_url": "https://timesofindia.indiatimes.com/technology/tech-news/hackers-may-have-used-ai-tool-to-attack-cia-and-other-us-spy-agencies/articleshow/136162689.cms",
+      "genuineness": "verified",
+      "outlets": [
+        "The New York Times",
+        "Reuters",
+        "CNN",
+        "The Times of India"
+      ],
+      "image": "../images/world/world-20261125-1926-01.jpg",
+      "image_credit": "Carol M. Highsmith, Public domain (Wikimedia Commons)"
+    },
+    {
+      "id": "world-20261125-1926-02",
+      "published_ist": "2026-11-24T12:00:00+05:30",
+      "headline": "Huawei 12 me se 10 aaropon me doshi",
+      "detail": "America ki jury ne Huawei ko bank fraud aur trade secret chori ki sajish samet 12 me se 10 aaropon me doshi paya; racketeering ke aarop se bari kiya gaya.",
+      "category": "World",
+      "exam_angle": "America-China, Iran pratibandh, trade secret",
+      "source": "Reuters",
+      "source_url": "https://www.reuters.com/legal/litigation/chinas-huawei-convicted-us-criminal-trial-stemming-iran-business-2026-11-24/",
+      "genuineness": "verified",
+      "outlets": [
+        "Reuters",
+        "CNN",
+        "Al Jazeera",
+        "South China Morning Post"
+      ],
+      "image": "../images/world/world-20261125-1926-02.jpg",
+      "image_credit": "Windmemories, CC BY-SA 4.0 (Wikimedia Commons)"
+    },
+    {
+      "id": "world-20261125-1926-03",
+      "published_ist": "2026-11-25T12:00:00+05:30",
+      "headline": "Australia: Big Tech par sakht online kanoon",
+      "detail": "Australia ne Digital Duty of Care kanoon pass kiya; harmful content na hatane par company par global revenue ka 5% tak jurmana lag sakta hai.",
+      "category": "World",
+      "exam_angle": "Digital governance, Big Tech niyaman",
+      "source": "Reuters",
+      "source_url": "https://www.reuters.com/legal/litigation/australia-passes-law-forcing-internet-platforms-take-down-harmful-content-2026-11-25/",
+      "genuineness": "verified",
+      "outlets": [
+        "Reuters",
+        "Associated Press",
+        "Channel News Asia",
+        "The Times of India"
+      ],
+      "image": "../images/world/world-20261125-1926-03.jpg",
+      "image_credit": "JJ Harrison, CC BY-SA 3.0 (Wikimedia Commons)"
+    },
+    {
+      "id": "world-20261125-1822-05",
+      "published_ist": "2026-11-25T18:52:00+05:30",
+      "headline": "Trump ka 14 deshon par tariff prastav",
+      "detail": "USTR ne Bharat samet 14 vyaparik saajhedaaron par 25% tak shulk ka prastav diya; China par 20% pehle ke shulk ke upar lagega, lagu January se pehle nahi hoga.",
+      "category": "World",
+      "exam_angle": "America vyapar neeti, Section 301 — UPSC economy",
+      "source": "Reuters",
+      "source_url": "https://www.reuters.com/world/china/us-proposes-new-tariffs-14-trading-partners-fight-excess-factory-capacity-2026-11-25/",
+      "genuineness": "verified",
+      "outlets": [
+        "Reuters",
+        "Financial Express",
+        "The Hindu",
+        "The Times of India"
+      ],
+      "image": null,
+      "image_credit": null
     }
   ]
 }
