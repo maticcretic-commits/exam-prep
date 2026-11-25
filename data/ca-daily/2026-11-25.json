@@ -212,6 +212,76 @@
     ],
     "answer_index": 1
    }
+  },
+  {
+   "episode": 164,
+   "video_hi": "NxJtET2k0uc",
+   "video_hinglish": "NxJtET2k0uc",
+   "capsules": [
+    {
+     "id": "ca-ep164-s1",
+     "headline_hi": "Bharat par 25% tariff, Trump ka naya prastav",
+     "headline_hinglish": "Bharat par 25% tariff, Trump ka naya prastav",
+     "detail_hi": "Trump prashasan ne Bharat samet 14 deshon par 25% tak naye tariff ka prastav rakha hai.",
+     "detail_hinglish": "Trump prashasan ne Bharat samet 14 deshon par 25% tak naye tariff ka prastav rakha hai.",
+     "category_hi": "Economy",
+     "category_en": "Economy"
+    },
+    {
+     "id": "ca-ep164-s2",
+     "headline_hi": "11,000 crore se construction equipment ko badhava",
+     "headline_hinglish": "11,000 crore se construction equipment ko badhava",
+     "detail_hi": "Cabinet ne construction aur infrastructure equipment ke nirmaan ke liye 11,000 crore rupaye ki scheme approve ki.",
+     "detail_hinglish": "Cabinet ne construction aur infrastructure equipment ke nirmaan ke liye 11,000 crore rupaye ki scheme approve ki.",
+     "category_hi": "Economy",
+     "category_en": "Economy"
+    },
+    {
+     "id": "ca-ep164-s3",
+     "headline_hi": "Silchar mein naya greenfield airport banega",
+     "headline_hinglish": "Silchar mein naya greenfield airport banega",
+     "detail_hi": "Cabinet ne Assam ke Silchar mein Doloo mein 2,014 crore rupaye ki lagat se naya greenfield airport banane ko manzoori di.",
+     "detail_hinglish": "Cabinet ne Assam ke Silchar mein Doloo mein 2,014 crore rupaye ki lagat se naya greenfield airport banane ko manzoori di.",
+     "category_hi": "Infrastructure",
+     "category_en": "National"
+    },
+    {
+     "id": "ca-ep164-s4",
+     "headline_hi": "BLOs ko voter details verify karne ka nirdesh",
+     "headline_hinglish": "BLOs ko voter details verify karne ka nirdesh",
+     "detail_hi": "Chunav Aayog ne BLOs ko chal rahe voter list revision mein voter details verify karne aur galtiyan sudharne ka nirdesh diya.",
+     "detail_hinglish": "Chunav Aayog ne BLOs ko chal rahe voter list revision mein voter details verify karne aur galtiyan sudharne ka nirdesh diya.",
+     "category_hi": "Polity",
+     "category_en": "Polity"
+    },
+    {
+     "id": "ca-ep164-s5",
+     "headline_hi": "Bharat ne Venice Biennale mein Best Pavilion jeeta",
+     "headline_hinglish": "Bharat ne Venice Biennale mein Best Pavilion jeeta",
+     "detail_hi": "Bharat ne Venice Art Biennale mein Best National Pavilion ka Visitors' Lion jeet kar kala jagat mein itihaas rach diya.",
+     "detail_hinglish": "Bharat ne Venice Art Biennale mein Best National Pavilion ka Visitors' Lion jeet kar kala jagat mein itihaas rach diya.",
+     "category_hi": "Culture",
+     "category_en": "National"
+    }
+   ],
+   "mcq": {
+    "id": "ca-ep164-mcq",
+    "q_hi": "Cabinet ne construction equipment manufacturing ke liye kitne crore ki scheme approve ki hai?",
+    "q_hinglish": "Cabinet ne construction equipment manufacturing ke liye kitne crore ki scheme approve ki hai?",
+    "options_hi": [
+     "Paanch hazaar crore",
+     "Chhe hazaar crore",
+     "Gyaarah hazaar crore",
+     "Pandrah hazaar crore"
+    ],
+    "options_hinglish": [
+     "Paanch hazaar crore",
+     "Chhe hazaar crore",
+     "Gyaarah hazaar crore",
+     "Pandrah hazaar crore"
+    ],
+    "answer_index": 2
+   }
   }
  ]
 }
