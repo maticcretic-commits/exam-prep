@@ -1,5 +1,5 @@
 {
-  "updated_ist": "2026-11-25T09:24:18+05:30",
+  "updated_ist": "2026-11-25T10:26:00+05:30",
   "items": [
     {
       "id": "world-20261125-0827-01",
@@ -162,6 +162,24 @@
       "outlets": [
         "The Manila Times",
         "South China Morning Post"
+      ],
+      "image": null,
+      "image_credit": null
+    },
+    {
+      "id": "world-20261125-1022-01",
+      "published_ist": "2026-11-24T20:56:00+05:30",
+      "headline": "UAE bus-takkar me 13 mare, Bharatiya bhi",
+      "detail": "Ras Al Khaimah me 41 yatriyon wali bus khadi truck se takra gayi; 13 log mare, 14 ghayal; Dubai sthit Bharatiya vanijya dutavas ne pushti ki Bharatiya nagrik bhi mare gaye.",
+      "category": "World",
+      "exam_angle": null,
+      "source": "The Indian Express",
+      "source_url": "https://indianexpress.com/article/india/indians-killed-uae-ras-al-khaimah-bus-truck-collision-10976934/",
+      "genuineness": "verified",
+      "outlets": [
+        "Gulf News",
+        "Khaleej Times",
+        "The Indian Express"
       ],
       "image": null,
       "image_credit": null
@@ -370,74 +388,57 @@
       "image_credit": null
     },
     {
-      "id": "world-20261125-0922-04",
+      "id": "world-20261125-1022-02",
       "published_ist": "2026-11-24T12:00:00+05:30",
-      "headline": "Senegal ko Africa Cup khitaab wapas mila",
-      "detail": "CAS ne CAF ka faisla palat diya; Senegal ki 1-0 se jeeti final wali jeet bahal hui aur Morocco ko diya gaya khitaab wapas liya gaya.",
+      "headline": "Shein ko $100 million jurmana",
+      "detail": "America ki FTC ne kaha Shein $100 million dega — der se delivery, nakaratmak review dabane aur kapas ki utpatti par galat daavon ke aarop; Shein ne zimmedaari nahi mani.",
       "category": "World",
-      "exam_angle": "CAS, field-of-play siddhant — khel kanoon",
+      "exam_angle": "America upbhokta suraksha, FTC — UPSC economy",
+      "source": "FTC",
+      "source_url": "https://www.ftc.gov/news-events/news/press-releases/2026/11/shein-pay-100-million-over-allegations-deceptive-unfair-practices",
+      "genuineness": "verified",
+      "outlets": [
+        "FTC",
+        "Reuters",
+        "Channel NewsAsia"
+      ],
+      "image": null,
+      "image_credit": null
+    },
+    {
+      "id": "world-20261125-1022-03",
+      "published_ist": "2026-11-24T12:00:00+05:30",
+      "headline": "Bangladesh me garment mazdooron ka pradarshan",
+      "detail": "Gazipur me vetan badhane ki mang par hazaron garment mazdooron ne highway roka; police ne aansu gas aur sound grenade chhode, 70 se zyada factory band hui; mazdoor nyuntam vetan 12,500 se badhakar 30,000 taka chahte hain.",
+      "category": "World",
+      "exam_angle": "Bangladesh garment udyog, shramik vetan — UPSC IR",
       "source": "Reuters",
-      "source_url": "https://www.reuters.com/sports/soccer/soccer-senegal-reinstated-2025-africa-cup-nations-winners-2026-11-24/",
+      "source_url": "https://www.reuters.com/business/world-at-work/bangladesh-garment-workers-clash-with-police-pay-protests-shut-factories-2026-11-24/",
       "genuineness": "verified",
       "outlets": [
         "Reuters",
-        "The Daily Star",
-        "Le Temps",
-        "Sportsnet"
+        "Prothom Alo",
+        "The Business Standard",
+        "Dhaka Tribune"
       ],
       "image": null,
       "image_credit": null
     },
     {
-      "id": "world-20261124-2122-03",
-      "published_ist": "2026-11-24T12:00:00+05:30",
-      "headline": "Uttar Korea: Swiss karyalaya band karne ki dhamki",
-      "detail": "Kim Yo-jong ne Songdowon bachchon ke shivir par Swiss pratibandh ko 'khula shatrutapurna kaam' bataya aur Pyongyang me Switzerland ka rajnaitik karyalaya band karne ki dhamki di.",
+      "id": "world-20261125-1022-04",
+      "published_ist": "2026-11-24T07:02:00+05:30",
+      "headline": "Nepal me 5.4 ka bhookamp, Bharat me jhatke",
+      "detail": "USGS ke mutabik Nepal ke Koshi prant me subah 7:02 baje 5.4 teevrata ka bhookamp aaya; Bharat, Bhutan, Bangladesh aur Cheen me jhatke mehsoos hue; ab tak koi hatahat ya nuksan ki khabar nahi.",
       "category": "World",
-      "exam_angle": "Uttar Korea-Switzerland, bachchon ka sthanantaran — UPSC IR",
-      "source": "Yonhap",
-      "source_url": "https://en.yna.co.kr/view/AEN20261124001151315",
+      "exam_angle": "Himalaya bhookamp kshetra — UPSC geography",
+      "source": "The Times of India",
+      "source_url": "https://timesofindia.indiatimes.com/world/south-asia/magnitude-5-3-earthquake-strikes-nepals-koshi-province/articleshow/136117310.cms",
       "genuineness": "verified",
       "outlets": [
-        "Yonhap",
-        "Associated Press",
-        "The Straits Times"
-      ],
-      "image": null,
-      "image_credit": null
-    },
-    {
-      "id": "world-20261124-2122-04",
-      "published_ist": "2026-11-24T12:00:00+05:30",
-      "headline": "Prince William ke ghar me ghuspaith, 2 giraftaar",
-      "detail": "Somvaar raat Sandringham estate ke Anmer Hall me ghuspaith par 2 log burglary aur trespass ke sandeh me giraftaar hue; ghar khaali tha, William-Kate maujood nahi the.",
-      "category": "World",
-      "exam_angle": null,
-      "source": "CNN",
-      "source_url": "https://www.cnn.com/2026/11/24/uk/uk-royals-william-kate-country-home-intl?cid=external-feeds_iluminar_meta",
-      "genuineness": "verified",
-      "outlets": [
-        "CNN",
-        "The Times",
-        "Arab News",
-        "Agence France-Presse"
-      ],
-      "image": null,
-      "image_credit": null
-    },
-    {
-      "id": "world-20261124-1922-01",
-      "published_ist": "2026-11-24T12:00:00+05:30",
-      "headline": "Lebanon par Israel ke hamle, koi hatahat nahi",
-      "detail": "Mangalvaar ko Israel ne America ki madhyasthata wale samjhaute ke bawjood dakshin Lebanon ke Nabatieh, Marjayoun, Bint Jbeil aur Tyre jilon me hawai hamle aur golabari ki; Lebanon ki sarkari news agency NNA ke mutabik koi hatahat nahi hua.",
-      "category": "World",
-      "exam_angle": "Israel-Lebanon yuddhaviram — UPSC IR",
-      "source": "Yeni Safak",
-      "source_url": "https://en.yenisafak.com/world/israeli-strikes-hit-southern-lebanon-despite-us-mediated-deal-3725945",
-      "genuineness": "corroborated",
-      "outlets": [
-        "Anadolu Agency",
-        "National News Agency (Lebanon)"
+        "USGS",
+        "The Times of India",
+        "ABP Live",
+        "The Tribune"
       ],
       "image": null,
       "image_credit": null
