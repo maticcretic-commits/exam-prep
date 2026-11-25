@@ -331,6 +331,43 @@
       ],
       "image": null,
       "image_credit": null
+    },
+    {
+      "id": "world-20261125-1126-01",
+      "published_ist": "2026-11-25T09:01:00+05:30",
+      "headline": "Cartagena supermarket me bandhak sankat",
+      "detail": "Colombia ke Cartagena me sashastr hamlaavaron ne Exito supermarket me lagbhag 30 logon ko bandhak banaya; 10 ko riha kar diya gaya, police aur sena ne dukaan ko gher rakha hai.",
+      "category": "World",
+      "exam_angle": null,
+      "source": "Al Jazeera",
+      "source_url": "https://www.aljazeera.com/news/2026/11/24/hostage-situation-reported-in-colombia-as-armed-men-flee-into-supermarket?traffic_source=rss",
+      "genuineness": "verified",
+      "outlets": [
+        "Al Jazeera",
+        "AFP",
+        "South China Morning Post"
+      ],
+      "image": "../images/world/world-20261125-1126-01.jpg",
+      "image_credit": "Al Jazeera"
+    },
+    {
+      "id": "world-20261125-1126-02",
+      "published_ist": "2026-11-25T00:44:00+05:30",
+      "headline": "Houthi Aden ke 60 km paas pahunche",
+      "detail": "Houthi ladake Yemen ki asthayi rajdhani Aden se lagbhag 60 km door pahunch gaye; sarkari sena ne raksha rekha banayi aur kaha Aden surakshit rahega.",
+      "category": "World",
+      "exam_angle": "Yemen grih-yuddh, Bab el-Mandeb — UPSC IR",
+      "source": "Reuters",
+      "source_url": "https://www.reuters.com/world/middle-east/houthis-wont-seize-aden-yemeni-government-forces-say-2026-11-24/",
+      "genuineness": "verified",
+      "outlets": [
+        "Reuters",
+        "Arab News",
+        "Channel NewsAsia",
+        "Business Standard"
+      ],
+      "image": null,
+      "image_credit": null
     }
   ]
 }
