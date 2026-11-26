@@ -1,6 +1,61 @@
 {
-  "updated_ist": "2026-11-26T06:25:24+05:30",
+  "updated_ist": "2026-11-26T07:31:04+05:30",
   "items": [
+    {
+      "id": "world-20261126-0729-01",
+      "published_ist": "2026-11-25T12:00:00+05:30",
+      "headline": "Murmansk governor bhrashtachar me hirasat me",
+      "detail": "Russia ke Murmansk kshetra ke governor Andrei Chibis ko bade bhrashtachar jaanch me Moscow court ne do mahine ki hirasat me bheja; woh Ukraine yuddh shuru hone ke baad giraftar hone wale pehle sewarat governor hain.",
+      "category": "World",
+      "exam_angle": "Russia Arctic, Northern Sea Route, Murmansk — UPSC IR",
+      "source": "Reuters",
+      "source_url": "https://www.reuters.com/world/head-russias-murmansk-region-is-placed-pre-trial-detention-major-corruption-2026-11-25/",
+      "genuineness": "verified",
+      "outlets": [
+        "Reuters",
+        "Arab News",
+        "Channel News Asia"
+      ],
+      "image": "../images/world/world-20261126-0729-01.jpg",
+      "image_credit": "Presidential Executive Office of Russia, CC BY 4.0 (Wikimedia Commons)"
+    },
+    {
+      "id": "world-20261126-0729-02",
+      "published_ist": "2026-11-25T12:00:00+05:30",
+      "headline": "Ramaphosa ko Farmgate jaanch se rahat",
+      "detail": "South Africa ki Western Cape High Court ne 2022 ki Section 89 panel report ko 'gair-kanuni' batakar radd kar diya; Phala Phala farm chori par Rashtrapati Cyril Ramaphosa ke khilaf mahabhiyog jaanch khatm ho gayi.",
+      "category": "World",
+      "exam_angle": "South Africa, Phala Phala, mahabhiyog — UPSC IR/Polity",
+      "source": "Al Jazeera",
+      "source_url": "https://www.aljazeera.com/news/2026/11/25/south-africa-court-repeals-farmgate-impeachment-threat-against-ramaphosa",
+      "genuineness": "verified",
+      "outlets": [
+        "Al Jazeera",
+        "Daily Maverick",
+        "Sowetan",
+        "Reuters"
+      ],
+      "image": "../images/world/world-20261126-0729-02.jpg",
+      "image_credit": "Ricardo Stuckert, CC BY-SA 2.0 (Wikimedia Commons)"
+    },
+    {
+      "id": "world-20261126-0729-03",
+      "published_ist": "2026-11-25T01:30:00+05:30",
+      "headline": "Bangladesh: garment mazdoori 36% badhi",
+      "detail": "Bangladesh ne garment mazdooron ki nyuntam mazdoori 36% badhakar 17,000 taka kar di; hafton ke virodh ke baad wage board ne 4-2 vote se faisla kiya, nayi dar 1 December se lagu hogi.",
+      "category": "World",
+      "exam_angle": "Bangladesh RMG, shram, niryaat — UPSC Economy/IR",
+      "source": "The Hindu",
+      "source_url": "https://www.thehindu.com/news/international/bangladesh-garment-workers-win-36-wage-rise/article71741049.ece",
+      "genuineness": "verified",
+      "outlets": [
+        "The Hindu",
+        "UNB",
+        "Reuters"
+      ],
+      "image": "../images/world/world-20261126-0729-03.jpg",
+      "image_credit": "Nahid Sultan, CC BY-SA 4.0 (Wikimedia Commons)"
+    },
     {
       "id": "world-20261126-0622-01",
       "published_ist": "2026-11-26T06:00:00+05:30",
@@ -387,62 +442,6 @@
       ],
       "image": null,
       "image_credit": null
-    },
-    {
-      "id": "world-20261125-1328-01",
-      "published_ist": "2026-11-25T10:37:00+05:30",
-      "headline": "Odesa hamle me 2 mare, ladka bhi",
-      "detail": "Russia ke hamle me Odesa me ek 17 saal ke ladke samet 2 log mare gaye, 3 ghayal; Kyiv me drone ke malbe se building me aag lagi, 2 ghayal.",
-      "category": "World",
-      "exam_angle": "Russia-Ukraine yuddh — UPSC IR",
-      "source": "Reuters",
-      "source_url": "https://bdnews24.com/world/europe/95qng1e396",
-      "genuineness": "corroborated",
-      "outlets": [
-        "Reuters",
-        "Ukrinform"
-      ],
-      "image": null,
-      "image_credit": null
-    },
-    {
-      "id": "world-20261125-1525-03",
-      "published_ist": "2026-11-25T09:14:00+05:30",
-      "headline": "Gaza me doosra Hamas adhikari mara gaya",
-      "detail": "Budhvaar subah Gaza City me Israeli hamle me Hamas ke suraksha adhikari Mohammad Abuelouf, unki patni aur 2 bachche mare gaye; 24 ghante me doosre bade Hamas adhikari ki maut hai.",
-      "category": "World",
-      "exam_angle": "Gaza sangharsh, yuddh-viram — UPSC IR",
-      "source": "Reuters",
-      "source_url": "https://www.reuters.com/world/middle-east/israeli-strike-kills-hamas-official-his-wife-children-2026-11-25/",
-      "genuineness": "verified",
-      "outlets": [
-        "Reuters",
-        "Haaretz",
-        "The Jerusalem Post",
-        "Dawn",
-        "Arab News"
-      ],
-      "image": null,
-      "image_credit": null
-    },
-    {
-      "id": "world-20261125-1126-01",
-      "published_ist": "2026-11-25T09:01:00+05:30",
-      "headline": "Cartagena supermarket me bandhak sankat",
-      "detail": "Colombia ki suraksha balon ne Cartagena ke Exito supermarket par hamla karke 17 ghante ki bandhak sthiti khatm ki; sabhi 20 bandhak surakshit bacha liye gaye, ek hamlaavar mara gaya.",
-      "category": "World",
-      "exam_angle": null,
-      "source": "Reuters",
-      "source_url": "https://www.reuters.com/world/americas/all-hostages-held-colombian-supermarket-freed-afp-reports-2026-11-25/",
-      "genuineness": "verified",
-      "outlets": [
-        "Reuters",
-        "Al Jazeera",
-        "Arab News",
-        "The Jerusalem Post"
-      ],
-      "image": "../images/world/world-20261125-1126-01.jpg",
-      "image_credit": "Al Jazeera"
     }
   ]
 }
