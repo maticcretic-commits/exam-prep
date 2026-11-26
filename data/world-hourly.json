@@ -1,6 +1,59 @@
 {
- "updated_ist": "2026-11-26T19:26:52+05:30",
+ "updated_ist": "2026-11-26T20:32:03+05:30",
  "items": [
+  {
+   "id": "world-20261126-2022-01",
+   "published_ist": "2026-11-26T12:00:00+05:30",
+   "headline": "Kremlin ka Ukraine par yuddh badhane ka aarop",
+   "detail": "Kremlin pravakta Dmitry Peskov ne kaha Ukraine yuddh ko Mediterranean aur Baltic sagar tak badha raha hai; ye bayan America aur NATO pramukh ki sanyukt chetavni ke baad aaya.",
+   "category": "World",
+   "exam_angle": "Russia-Ukraine yuddh, NATO — UPSC IR",
+   "source": "Reuters",
+   "source_url": "https://www.reuters.com/world/europe/kremlin-accuses-ukraine-trying-widen-conflict-zone-mediterranean-baltic-seas-2026-11-26/",
+   "genuineness": "corroborated",
+   "outlets": [
+    "Reuters",
+    "Daily Sabah"
+   ],
+   "image": null,
+   "image_credit": null
+  },
+  {
+   "id": "world-20261126-2022-02",
+   "published_ist": "2026-11-26T12:00:00+05:30",
+   "headline": "UK net migration 1997 ke baad sabse kam",
+   "detail": "ONS ke mutabik June 2026 tak ke saal me UK ki net migration 77,000 rahi, 1997 ke baad sabse kam; pichhle saal ye 204,000 thi.",
+   "category": "World",
+   "exam_angle": "UK pravasan, ONS aankde — UPSC IR",
+   "source": "Dawn",
+   "source_url": "https://www.dawn.com/news/2047225/uk-net-migration-falls-to-almost-three-decade-low-excluding-pandemic-slump",
+   "genuineness": "verified",
+   "outlets": [
+    "The Times",
+    "Dawn",
+    "Gulf News"
+   ],
+   "image": null,
+   "image_credit": null
+  },
+  {
+   "id": "world-20261126-2022-03",
+   "published_ist": "2026-11-26T15:32:00+05:30",
+   "headline": "Zaporizhzhia me drone hamla, 5 ki maut",
+   "detail": "Russia-niyukt Zaporizhzhia governor Yevgeny Balitsky ke mutabik Ukraine ke drone ne Vesioloye me parking par hamla kiya, 5 log mare aur 3 ghayal hue.",
+   "category": "World",
+   "exam_angle": "Russia-Ukraine yuddh — UPSC IR",
+   "source": "Al Jazeera",
+   "source_url": "https://www.aljazeera.com/news/2026/11/26/ukraine-drone-attack-kills-five-in-russian-occupied-zaporizhia?traffic_source=rss",
+   "genuineness": "verified",
+   "outlets": [
+    "Al Jazeera",
+    "APA",
+    "Free Malaysia Today"
+   ],
+   "image": null,
+   "image_credit": null
+  },
   {
    "id": "world-20261126-1922-01",
    "published_ist": "2026-11-26T14:01:00+05:30",
@@ -400,64 +453,6 @@
     "The Straits Times",
     "Channel News Asia",
     "Tribune"
-   ],
-   "image": null,
-   "image_credit": null
-  },
-  {
-   "id": "world-20261126-1322-03",
-   "published_ist": "2026-11-25T12:00:00+05:30",
-   "headline": "Solomon Islands ne Australia se suraksha sandhi ki",
-   "detail": "Solomon Islands aur Australia ne sandhi par hastakshar kiye; Australia ab uska mukhya suraksha saathi hoga aur wahan koi videshi sainya adda nahi banega.",
-   "category": "World",
-   "exam_angle": "Prashant me China ka prabhav, suraksha sandhi — UPSC IR",
-   "source": "The Straits Times",
-   "source_url": "https://www.straitstimes.com/asia/australianz/australia-and-solomon-islands-sign-security-pact",
-   "genuineness": "verified",
-   "outlets": [
-    "The Straits Times",
-    "CNN",
-    "Al Jazeera",
-    "Nikkei Asia",
-    "Korea Herald"
-   ],
-   "image": null,
-   "image_credit": null
-  },
-  {
-   "id": "world-20261126-1222-01",
-   "published_ist": "2026-11-26T05:15:00+05:30",
-   "headline": "Dubai ke paas tanker ke kareeb dhamaka",
-   "detail": "UKMTO ne bataya, Dubai se 50 nautical miles paschim me tanker ke paas ek agyaat projectile se dhamaka hua; tanker ko koi nuksan nahi, sabhi crew surakshit hain.",
-   "category": "World",
-   "exam_angle": "Gulf me samudri suraksha, UKMTO — UPSC IR",
-   "source": "Arab News",
-   "source_url": "https://www.arabnews.com/middle-east/ukmto-reports-explosion-near-tanker-west-of-dubai-3014072",
-   "genuineness": "verified",
-   "outlets": [
-    "UKMTO",
-    "Reuters",
-    "Al Jazeera",
-    "Arab News"
-   ],
-   "image": null,
-   "image_credit": null
-  },
-  {
-   "id": "world-20261126-1222-02",
-   "published_ist": "2026-11-26T09:25:00+05:30",
-   "headline": "Indonesia ki khadan me 13 ki maut",
-   "detail": "Paschim Java ke Bogor me baarish se bhari ek avaidh sone ki khadan me 13 mazdoor mare gaye, 13 ab bhi 100 meter neeche fanse hain; bachav kaam jaari hai.",
-   "category": "World",
-   "exam_angle": "Avaidh khanan aur aapda prabandhan — UPSC",
-   "source": "Reuters",
-   "source_url": "https://www.reuters.com/world/asia-pacific/indonesian-rescuers-resume-search-13-people-trapped-inside-illegal-mine-after-13-2026-11-26/",
-   "genuineness": "verified",
-   "outlets": [
-    "Reuters",
-    "Channel News Asia",
-    "Kyodo News",
-    "Korea Times"
    ],
    "image": null,
    "image_credit": null
