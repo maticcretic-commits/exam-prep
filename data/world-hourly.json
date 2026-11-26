@@ -1,6 +1,78 @@
 {
-  "updated_ist": "2026-11-26T07:31:04+05:30",
+  "updated_ist": "2026-11-26T08:25:27+05:30",
   "items": [
+    {
+      "id": "world-20261126-0822-01",
+      "published_ist": "2026-11-25T12:00:00+05:30",
+      "headline": "Russia se riot gas rokne ki maang",
+      "detail": "34 deshon aur EU ne Russia se Ukraine yuddh me riot-control gas ka istemal turant rokne ko kaha; OPCW ki lab ne khaai me mile namoonon me CS gas ki pushti ki, Ukraine ne 2022 se 14,000 se zyada aise mamle darj kiye hain.",
+      "category": "World",
+      "exam_angle": "OPCW, Chemical Weapons Convention, CS gas — UPSC IR",
+      "source": "Reuters",
+      "source_url": "https://www.reuters.com/world/dozens-countries-call-russia-halt-alleged-use-riot-agent-ukraine-war-2026-11-25/",
+      "genuineness": "corroborated",
+      "outlets": [
+        "Reuters",
+        "Kyiv Independent"
+      ],
+      "image": "../images/world/world-20261126-0822-01.jpg",
+      "image_credit": "CEphoto, Uwe Aranas, CC BY-SA 4.0 (Wikimedia Commons)"
+    },
+    {
+      "id": "world-20261126-0822-02",
+      "published_ist": "2026-11-25T12:00:00+05:30",
+      "headline": "Ukraine ko $622m ke F-16 upkaran",
+      "detail": "America ne Ukraine ke F-16 ladaku vimanon ke liye $622 million ke rakh-rakhav upkaranon ki bikri ko manzoori di; kharcha Belgium, Denmark, Netherlands aur Norway uthayenge, America ka koi paisa nahi lagega.",
+      "category": "World",
+      "exam_angle": "F-16, JUMPSTART, NATO sahyog — UPSC IR/Defence",
+      "source": "Al Arabiya",
+      "source_url": "https://english.alarabiya.net/News/world/2026/11/25/us-approves-potential-622-million-sale-of-f16-equipment-to-ukraine",
+      "genuineness": "verified",
+      "outlets": [
+        "Al Arabiya",
+        "Arab News",
+        "Washington Examiner"
+      ],
+      "image": "../images/world/world-20261126-0822-02.jpg",
+      "image_credit": "Staff Sgt. Cherie A. Thurlby, US Air Force, Public domain (Wikimedia Commons)"
+    },
+    {
+      "id": "world-20261126-0822-03",
+      "published_ist": "2026-11-26T03:00:00+05:30",
+      "headline": "Kyiv mall par ballistic missile hamla",
+      "detail": "Russia ne der raat Kyiv par ballistic missile hamla kiya; Desnianskyi jile me ek shopping mall aur do aur imaratein nishana bani, kam se kam 4 log ghayal hue, jinme se 2 ki haalat gambhir hai.",
+      "category": "World",
+      "exam_angle": "Ukraine yuddh, ballistic missile — UPSC IR",
+      "source": "Kyiv Independent",
+      "source_url": "https://kyivindependent.com/russia-slams-kyiv-in-ballistic-missile-attack-hits-shopping-center/",
+      "genuineness": "verified",
+      "outlets": [
+        "Kyiv Independent",
+        "Kyiv Post",
+        "Ukrinform",
+        "Reuters"
+      ],
+      "image": null,
+      "image_credit": null
+    },
+    {
+      "id": "world-20261126-0822-04",
+      "published_ist": "2026-11-25T12:00:00+05:30",
+      "headline": "Lebanon ka doosra airport December me",
+      "detail": "Lebanon ka doosra antarrashtriya airport — uttar me Qlayaat (Rene Mouawad) — 14 December se vyavsayik udanein shuru karega; Hezbollah ke kamzor prabhav ke baad khula ye airport pehle Turkey, Egypt aur Jordan ki udanein dega.",
+      "category": "World",
+      "exam_angle": "Lebanon, Hezbollah, West Asia — UPSC IR",
+      "source": "Reuters",
+      "source_url": "https://www.reuters.com/world/middle-east/lebanon-opening-second-airport-reflects-political-shifts-2026-11-25/",
+      "genuineness": "verified",
+      "outlets": [
+        "Reuters",
+        "The National",
+        "Al Jazeera"
+      ],
+      "image": null,
+      "image_credit": null
+    },
     {
       "id": "world-20261126-0729-01",
       "published_ist": "2026-11-25T12:00:00+05:30",
@@ -362,83 +434,6 @@
         "Ukrainska Pravda",
         "The Page",
         "New York Post"
-      ],
-      "image": null,
-      "image_credit": null
-    },
-    {
-      "id": "world-20261125-1926-03",
-      "published_ist": "2026-11-25T12:00:00+05:30",
-      "headline": "Australia: Big Tech par sakht online kanoon",
-      "detail": "Australia ne Digital Duty of Care kanoon pass kiya; harmful content na hatane par company par global revenue ka 5% tak jurmana lag sakta hai.",
-      "category": "World",
-      "exam_angle": "Digital governance, Big Tech niyaman",
-      "source": "Reuters",
-      "source_url": "https://www.reuters.com/legal/litigation/australia-passes-law-forcing-internet-platforms-take-down-harmful-content-2026-11-25/",
-      "genuineness": "verified",
-      "outlets": [
-        "Reuters",
-        "Associated Press",
-        "Channel News Asia",
-        "The Times of India"
-      ],
-      "image": "../images/world/world-20261125-1926-03.jpg",
-      "image_credit": "JJ Harrison, CC BY-SA 3.0 (Wikimedia Commons)"
-    },
-    {
-      "id": "world-20261125-1822-01",
-      "published_ist": "2026-11-25T12:00:00+05:30",
-      "headline": "Raat ke hamlo se Ukraine me bijli gayi",
-      "detail": "Russia ke raat bhar ke hamlo ke baad Ukraine ke paanch kshetron me bijli chali gayi aur Zaporizhzhia parmanu sanyantra ki bahari bijli 2026 me 17vi baar band hui; Kyiv aur Kharkiv me log mare aur ghayal hue.",
-      "category": "World",
-      "exam_angle": "Russia-Ukraine yuddh, urja par hamle — UPSC IR",
-      "source": "Al Jazeera",
-      "source_url": "https://www.aljazeera.com/news/2026/11/25/russian-strikes-on-ukraine-cause-power-outages-in-five-regions",
-      "genuineness": "verified",
-      "outlets": [
-        "Al Jazeera",
-        "Yeni Safak",
-        "Babel"
-      ],
-      "image": null,
-      "image_credit": null
-    },
-    {
-      "id": "world-20261125-1722-03",
-      "published_ist": "2026-11-25T11:26:00+05:30",
-      "headline": "Gaza me Hamas adhikari, parivar ke 4 mare",
-      "detail": "Al-Shati camp me Israeli hamle me Hamas ke uttar Gaza suraksha pramukh Mohammed Abu al-Ouf, unki patni aur do betiyan mare gaye, 12 ghayal.",
-      "category": "World",
-      "exam_angle": "Israel-Palestine sangharsh, Gaza yuddh-viram",
-      "source": "Al Jazeera",
-      "source_url": "https://www.aljazeera.com/amp/news/2026/11/25/israeli-strike-kills-hamas-official-his-wife-and-children",
-      "genuineness": "verified",
-      "outlets": [
-        "Al Jazeera",
-        "AFP",
-        "TRT World",
-        "Daily Sabah"
-      ],
-      "image": "../images/world/world-20261125-1722-03.jpg",
-      "image_credit": "Al Jazeera"
-    },
-    {
-      "id": "world-20261125-1622-01",
-      "published_ist": "2026-11-25T11:18:00+05:30",
-      "headline": "Saudi ne Hodeida bandargah par hamla kiya",
-      "detail": "Saudi-led gathbandhan ne Houthi ke kabze wale Hodeida port par hamla kiya aur Saada-Amran me lakshya dhwast kiye; Houthi ne Saudi bandargahon par badle ki dhamki di.",
-      "category": "World",
-      "exam_angle": "Yemen yuddh, Saudi-Houthi, Bab el-Mandeb — UPSC IR",
-      "source": "Channel NewsAsia",
-      "source_url": "https://www.channelnewsasia.com/world/saudi-attack-yemen-houthi-hodeida-6580346",
-      "genuineness": "verified",
-      "outlets": [
-        "Channel NewsAsia",
-        "Al Jazeera",
-        "Gulf News",
-        "The Jerusalem Post",
-        "Kuwait Times",
-        "Dawn"
       ],
       "image": null,
       "image_credit": null
