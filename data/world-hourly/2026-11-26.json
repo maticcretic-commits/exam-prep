@@ -825,6 +825,65 @@
    ],
    "image": null,
    "image_credit": null
+  },
+  {
+   "id": "world-20261126-1922-01",
+   "published_ist": "2026-11-26T14:01:00+05:30",
+   "headline": "Russia-Ukraine ka sabse bada kaidi adla-badli jald",
+   "detail": "America ke vishesh doot Jared Kushner ne kaha ki Russia aur Ukraine ke beech yuddh ka sabse bada kaidi adla-badli Christmas se pehle hoga; hazaron log apne parivaron ke paas lautenge.",
+   "category": "World",
+   "exam_angle": "Russia-Ukraine yuddh, kaidi adla-badli, Abu Dhabi vartalap — UPSC IR",
+   "source": "The New Voice of Ukraine",
+   "source_url": "https://english.nv.ua/nation/kushner-says-largest-russia-ukraine-prisoner-swap-yet-will-happen-before-christmas-50662685.html",
+   "genuineness": "verified",
+   "outlets": [
+    "The New Voice of Ukraine",
+    "Ukrainska Pravda",
+    "Kyiv Post",
+    "Yeni Safak",
+    "APA",
+    "UATV"
+   ],
+   "image": "../images/world/world-20261126-1922-01.jpg",
+   "image_credit": "US Mission to the European Union, Wikimedia Commons (Public domain)"
+  },
+  {
+   "id": "world-20261126-1922-02",
+   "published_ist": "2026-11-25T22:14:00+05:30",
+   "headline": "North Korea ne Swiss doot ko nikala",
+   "detail": "North Korea ne Pyongyang sthit Switzerland ke rajnaitik karyalaya ko band karne aur uske pramukh Sylvain Astier ko 48 ghante me desh chhodne ka aadesh diya; wajah Switzerland ka ek bachchon ke shivir par pratibandh hai.",
+   "category": "World",
+   "exam_angle": "North Korea, Switzerland, pratibandh, Ukraine ke bachche — UPSC IR",
+   "source": "The Korea Times",
+   "source_url": "https://www.koreatimes.co.kr/world/20261126/n-korea-expels-swiss-diplomat-over-sanctions-weeks-after-office-reopening",
+   "genuineness": "verified",
+   "outlets": [
+    "The Korea Times",
+    "Al Jazeera",
+    "Le Temps",
+    "KCNA"
+   ],
+   "image": null,
+   "image_credit": null
+  },
+  {
+   "id": "world-20261126-1922-03",
+   "published_ist": "2026-11-26T12:00:00+05:30",
+   "headline": "EU neta saat saal ke budget par bante",
+   "detail": "Brussels me EU ke 27 neta 2028–2034 ke lagbhag 1.6 lakh crore euro ke budget aur Ukraine ke liye 45 arab euro ke naye karz par bante hue hain; samjhota December me hone ki ummeed hai.",
+   "category": "World",
+   "exam_angle": "EU budget, MFF, Ukraine vitt — UPSC IR",
+   "source": "Reuters",
+   "source_url": "https://www.reuters.com/world/eu-leaders-wrestle-with-seven-year-budget-ukraine-financing-they-seek-december-2026-11-26/",
+   "genuineness": "verified",
+   "outlets": [
+    "Reuters",
+    "AP",
+    "The Korea Times",
+    "2EU Brussels"
+   ],
+   "image": null,
+   "image_credit": null
   }
  ]
 }
