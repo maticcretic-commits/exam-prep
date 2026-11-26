@@ -1,6 +1,81 @@
 {
-  "updated_ist": "2026-11-26T10:23:07+05:30",
+  "updated_ist": "2026-11-26T11:24:15+05:30",
   "items": [
+    {
+      "id": "world-20261126-1124-01",
+      "published_ist": "2026-11-26T07:09:00+05:30",
+      "headline": "Ukraine ne Russia ke airbase par hamla kiya",
+      "detail": "Ukraine ne Nizhny Novgorod ke Savasleyka airbase par hamla kar paanch vimaan ko nuksan pahunchaya — teen MiG-31 aur do Su-34; Ukraine ke General Staff ke mutabik hamla Budhvar ko hua.",
+      "category": "World",
+      "exam_angle": "Russia-Ukraine yuddh, deep strike — UPSC IR",
+      "source": "Al Jazeera",
+      "source_url": "https://www.aljazeera.com/news/2026/11/26/ukraine-attacks-russian-military-base-says-five-planes-struck",
+      "genuineness": "verified",
+      "outlets": [
+        "Al Jazeera",
+        "Saudi Gazette",
+        "Times Now"
+      ],
+      "image": null,
+      "image_credit": null
+    },
+    {
+      "id": "world-20261126-1124-02",
+      "published_ist": "2026-11-25T12:00:00+05:30",
+      "headline": "Netanyahu ke khilaf bhrashtachar case kamzor",
+      "detail": "Jerusalem District Court ke judge ne kaha Case 4000 me Netanyahu ko doshi thahrana mushkil hai aur abhiyojan ko case wapas lene par vichar karna chahiye; Case 2000 par bhi punarvichar ki sifarish ki — ye faisla nahi, sifarish hai.",
+      "category": "World",
+      "exam_angle": "Israel ki rajneeti, Netanyahu mukadma — UPSC IR",
+      "source": "Reuters",
+      "source_url": "https://www.reuters.com/legal/government/israeli-judges-recommend-prosecutors-drop-one-bribery-case-against-netanyahu-2026-11-25/",
+      "genuineness": "verified",
+      "outlets": [
+        "Reuters",
+        "CNN",
+        "The Jerusalem Post",
+        "Haaretz"
+      ],
+      "image": null,
+      "image_credit": null
+    },
+    {
+      "id": "world-20261126-1124-03",
+      "published_ist": "2026-11-25T12:00:00+05:30",
+      "headline": "Cartagena me sabhi 20 bandhak bachaye gaye",
+      "detail": "Colombia ke Cartagena me Exito supermarket me 17 ghante ki gherabandi ke baad suraksha balon ne sabhi 20 bandhakon ko bacha liya; ek hamlaawar mara gaya. Hamlaawaron ne bakhtarband gaadi lootne ki nakamyab koshish ke baad dukaan me sharan li thi.",
+      "category": "World",
+      "exam_angle": null,
+      "source": "Arab News",
+      "source_url": "https://www.arabnews.com/world/colombia-hostages-rescued-after-forces-storm-cartagena-supermarket-3013959",
+      "genuineness": "verified",
+      "outlets": [
+        "Arab News",
+        "Al Jazeera",
+        "AFP",
+        "Le Temps"
+      ],
+      "image": null,
+      "image_credit": null
+    },
+    {
+      "id": "world-20261126-1124-04",
+      "published_ist": "2026-11-25T12:00:00+05:30",
+      "headline": "Abrego Garcia America se Spain pahunche",
+      "detail": "Kilmar Abrego Garcia, jise Trump prashasan ne galti se El Salvador bhej diya tha, sweccha se America chhodkar Madrid pahunche; unhone kaha is baar ve aazadi ke saath ja rahe hain.",
+      "category": "World",
+      "exam_angle": "America ki immigration neeti — UPSC IR",
+      "source": "Al Jazeera",
+      "source_url": "https://www.aljazeera.com/news/2026/11/25/kilmar-abrego-garcia-wrongfully-deported-from-us-arrives-in-spain",
+      "genuineness": "verified",
+      "outlets": [
+        "Al Jazeera",
+        "CNN",
+        "USA Today",
+        "The Wall Street Journal"
+      ],
+      "image": null,
+      "image_credit": null
+    },
     {
       "id": "world-20261126-1023-01",
       "published_ist": "2026-11-25T12:00:00+05:30",
@@ -361,79 +436,6 @@
       ],
       "image": null,
       "image_credit": null
-    },
-    {
-      "id": "world-20261125-2122-02",
-      "published_ist": "2026-11-25T12:00:00+05:30",
-      "headline": "El Nino se Amazon me aag ka khatra",
-      "detail": "October me Amazon me aag ke hotspot 82.6% badhkar lagbhag 24,000 hue; El Nino ke mazboot hone se sookha 2027 tak badh sakta hai.",
-      "category": "World",
-      "exam_angle": "El Nino aur Amazon — paryavaran",
-      "source": "Yeni Safak",
-      "source_url": "https://en.yenisafak.com/world/severe-el-nino-stokes-amazon-fears-after-months-of-extreme-weather-3725993",
-      "genuineness": "verified",
-      "outlets": [
-        "Yeni Safak",
-        "The Watchers",
-        "PlanetShift News"
-      ],
-      "image": "../images/world/world-20261125-2122-02.jpg",
-      "image_credit": "GOES imagery: CSU/CIRA & NOAA, Public domain (Wikimedia Commons)"
-    },
-    {
-      "id": "world-20261125-2122-03",
-      "published_ist": "2026-11-25T12:00:00+05:30",
-      "headline": "Russia: videshi bandargah me hamla sambhav",
-      "detail": "Kremlin pravakta Peskov ne Libya me Russian yuddh-pot par Ukraine ke hamle ke baad videshi bandargahon me Ukraine ke jahazon par hamle se inkar nahi kiya.",
-      "category": "World",
-      "exam_angle": "Russia-Ukraine yuddh ka vistaar",
-      "source": "Yeni Safak",
-      "source_url": "https://en.yenisafak.com/world/russia-declines-to-rule-out-attacks-on-ukrainian-ships-in-foreign-ports-3725995",
-      "genuineness": "corroborated",
-      "outlets": [
-        "Yeni Safak",
-        "Dan Tri"
-      ],
-      "image": null,
-      "image_credit": null
-    },
-    {
-      "id": "world-20261125-1822-05",
-      "published_ist": "2026-11-25T18:52:00+05:30",
-      "headline": "Trump ka 14 deshon par tariff prastav",
-      "detail": "USTR ne Bharat samet 14 vyaparik saajhedaaron par 25% tak shulk ka prastav diya; China par 20% pehle ke shulk ke upar lagega, lagu January se pehle nahi hoga.",
-      "category": "World",
-      "exam_angle": "America vyapar neeti, Section 301 — UPSC economy",
-      "source": "Reuters",
-      "source_url": "https://www.reuters.com/world/china/us-proposes-new-tariffs-14-trading-partners-fight-excess-factory-capacity-2026-11-25/",
-      "genuineness": "verified",
-      "outlets": [
-        "Reuters",
-        "Financial Express",
-        "The Hindu",
-        "The Times of India"
-      ],
-      "image": null,
-      "image_credit": null
-    },
-    {
-      "id": "world-20261125-1926-01",
-      "published_ist": "2026-11-25T18:33:00+05:30",
-      "headline": "CIA-ODNI par cyber hamla, khufiya data leak",
-      "detail": "CIA, ODNI aur NGA ke open-source intelligence system me ghuspaith hui; kuchh unclassified jaankari leak hui, classified data surakshit raha.",
-      "category": "World",
-      "exam_angle": "US intelligence, cyber suraksha, OSINT",
-      "source": "The Times of India",
-      "source_url": "https://timesofindia.indiatimes.com/technology/tech-news/hackers-may-have-used-ai-tool-to-attack-cia-and-other-us-spy-agencies/articleshow/136162689.cms",
-      "genuineness": "verified",
-      "outlets": [
-        "The New York Times",
-        "Reuters",
-        "CNN",
-        "The Times of India"
-      ],
-      "image": "../images/world/world-20261125-1926-01.jpg",
-      "image_credit": "Carol M. Highsmith, Public domain (Wikimedia Commons)"
     }
   ]
 }
