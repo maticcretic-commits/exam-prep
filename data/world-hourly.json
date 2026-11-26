@@ -1,6 +1,46 @@
 {
-  "updated_ist": "2026-11-26T15:25:16+05:30",
+  "updated_ist": "2026-11-26T16:26:01+05:30",
   "items": [
+    {
+      "id": "world-20261126-1622-01",
+      "published_ist": "2026-11-26T12:00:00+05:30",
+      "headline": "Houthi ka Saudi bandargahon par hamla",
+      "detail": "Houthi ne Saudi Arabia ke Jizan bandargah par hamla kiya aur Jeddah ki taraf drone bheja; Saudi suraksha balon ne Riyadh ki taraf aati do ballistic missile aur Jeddah ke paas drone ko roka.",
+      "category": "World",
+      "exam_angle": "Lal Sagar, Houthi-Saudi sangharsh, samudri suraksha — UPSC IR",
+      "source": "The National",
+      "source_url": "https://www.thenationalnews.com/news/gulf/2026/11/26/saudi-arabia-intercepts-wave-of-retaliatory-houthi-attacks/",
+      "genuineness": "verified",
+      "outlets": [
+        "The National",
+        "Gulf News",
+        "Rigzone",
+        "Times of India",
+        "Vocemundi"
+      ],
+      "image": null,
+      "image_credit": null
+    },
+    {
+      "id": "world-20261126-1622-02",
+      "published_ist": "2026-11-25T12:00:00+05:30",
+      "headline": "Russia ke hamle se Ukraine me 5 ki maut",
+      "detail": "Russia ke raat bhar ke hamlo me Ukraine me kam se kam 5 log mare gaye aur paanch kshetron me bijli gul ho gayi; Odesa me 2 mare aur Kyiv me ek apartment building me aag lag gayi.",
+      "category": "World",
+      "exam_angle": "Russia-Ukraine yuddh, urja buniyadi dhancha — UPSC IR",
+      "source": "Reuters",
+      "source_url": "https://www.reuters.com/world/europe/russian-attack-damages-ukraines-energy-gas-sites-cuts-power-five-regions-2026-11-25/",
+      "genuineness": "verified",
+      "outlets": [
+        "Reuters",
+        "Al Jazeera",
+        "Qatar Tribune",
+        "The Times of India",
+        "The Straits Times"
+      ],
+      "image": null,
+      "image_credit": null
+    },
     {
       "id": "world-20261126-1522-01",
       "published_ist": "2026-11-26T12:00:00+05:30",
@@ -417,43 +457,6 @@
       ],
       "image": null,
       "image_credit": null
-    },
-    {
-      "id": "world-20261126-1023-03",
-      "published_ist": "2026-11-25T12:00:00+05:30",
-      "headline": "Turkey me mahila hinsa ke khilaf hazaaron utre",
-      "detail": "25 November ko Istanbul me lagbhag 3,000 aur Ankara me 1,000 logon ne mahilaon ke khilaf hinsa ke khilaf pradarshan kiya, Taksim par pratibandh ke bawjood.",
-      "category": "World",
-      "exam_angle": "25 November — Mahila Hinsa Unmoolan ke liye Antarrashtriya Diwas",
-      "source": "Inquirer",
-      "source_url": "https://globalnation.inquirer.net/349892/thousands-rally-across-turkey-against-violence-against-women/amp",
-      "genuineness": "verified",
-      "outlets": [
-        "AFP",
-        "Roya News",
-        "Hurriyet Daily News"
-      ],
-      "image": null,
-      "image_credit": null
-    },
-    {
-      "id": "world-20261126-0926-01",
-      "published_ist": "2026-11-25T12:00:00+05:30",
-      "headline": "Riyadh tower par Houthi drone hamla",
-      "detail": "Houthi drone ne Riyadh ke financial district ki ek tower par hamla kiya; 11 log ghayal hue, jinme 2 Bharatiya bhi hain; Bharat ne hamle ki kadi ninda ki.",
-      "category": "World",
-      "exam_angle": "Houthi, Saudi Arabia, West Asia — UPSC IR",
-      "source": "Moneycontrol",
-      "source_url": "https://www.moneycontrol.com/news/india/india-condemns-houthi-attack-on-riyadh-tower-that-injured-11-including-2-indians-14088529.html/amp",
-      "genuineness": "verified",
-      "outlets": [
-        "Moneycontrol",
-        "The Week",
-        "Gulf News",
-        "Outlook India"
-      ],
-      "image": "../images/world/world-20261126-0926-01.jpg",
-      "image_credit": "Faisal Arif, CC BY-SA 4.0 (Wikimedia Commons)"
     }
   ]
 }
