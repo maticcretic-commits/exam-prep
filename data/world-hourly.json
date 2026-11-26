@@ -1,6 +1,23 @@
 {
- "updated_ist": "2026-11-26T20:32:03+05:30",
+ "updated_ist": "2026-11-26T21:27:20+05:30",
  "items": [
+  {
+   "id": "world-20261126-2122-01",
+   "published_ist": "2026-11-25T12:00:00+05:30",
+   "headline": "Iran ka prastav: Hormuz 48 ghante me khulega",
+   "detail": "Tehran ne Qatar ke madhyam se America ko prastav bheja — nausainik nakabandi hate aur har morche par ladai ruke to Hormuz Strait 48 ghante ke andar phir se khul jayega.",
+   "category": "World",
+   "exam_angle": "Hormuz Strait, Iran-America tanav — UPSC IR",
+   "source": "The Hindu",
+   "source_url": "https://www.thehindu.com/news/international/iran-says-ships-hit-mines-in-hormuz-warns-vessels-to-coordinate-passage/article71743889.ece",
+   "genuineness": "corroborated",
+   "outlets": [
+    "Reuters",
+    "Arab News"
+   ],
+   "image": null,
+   "image_credit": null
+  },
   {
    "id": "world-20261126-2022-01",
    "published_ist": "2026-11-26T12:00:00+05:30",
@@ -434,25 +451,6 @@
     "Newspim",
     "QNC News",
     "Euronews"
-   ],
-   "image": null,
-   "image_credit": null
-  },
-  {
-   "id": "world-20261126-1322-02",
-   "published_ist": "2026-11-25T12:00:00+05:30",
-   "headline": "Houthi ka Saudi ki sabse badi refinery par hamla",
-   "detail": "Houthi ne Saudi Arabia ki sabse badi Ras Tanura refinery par hamle ka dava kiya; satellite tasveeron me dhuaan dikha aur tel ke daam 3.5% chadh gaye.",
-   "category": "World",
-   "exam_angle": "Khadi me tel suraksha, Houthi sangharsh — UPSC IR",
-   "source": "The Straits Times",
-   "source_url": "https://www.straitstimes.com/world/middle-east/yemens-houthis-say-they-attacked-saudi-oil-refinery-and-riyadh-financial-district?ref=latest",
-   "genuineness": "verified",
-   "outlets": [
-    "Reuters",
-    "The Straits Times",
-    "Channel News Asia",
-    "Tribune"
    ],
    "image": null,
    "image_credit": null
