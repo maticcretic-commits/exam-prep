@@ -1,6 +1,83 @@
 {
-  "updated_ist": "2026-11-26T11:24:15+05:30",
+  "updated_ist": "2026-11-26T12:25:58+05:30",
   "items": [
+    {
+      "id": "world-20261126-1222-01",
+      "published_ist": "2026-11-26T05:15:00+05:30",
+      "headline": "Dubai ke paas tanker ke kareeb dhamaka",
+      "detail": "UKMTO ne bataya, Dubai se 50 nautical miles paschim me tanker ke paas ek agyaat projectile se dhamaka hua; tanker ko koi nuksan nahi, sabhi crew surakshit hain.",
+      "category": "World",
+      "exam_angle": "Gulf me samudri suraksha, UKMTO — UPSC IR",
+      "source": "Arab News",
+      "source_url": "https://www.arabnews.com/middle-east/ukmto-reports-explosion-near-tanker-west-of-dubai-3014072",
+      "genuineness": "verified",
+      "outlets": [
+        "UKMTO",
+        "Reuters",
+        "Al Jazeera",
+        "Arab News"
+      ],
+      "image": null,
+      "image_credit": null
+    },
+    {
+      "id": "world-20261126-1222-02",
+      "published_ist": "2026-11-26T09:25:00+05:30",
+      "headline": "Indonesia ki khadan me 13 ki maut",
+      "detail": "Paschim Java ke Bogor me baarish se bhari ek avaidh sone ki khadan me 13 mazdoor mare gaye, 13 ab bhi 100 meter neeche fanse hain; bachav kaam jaari hai.",
+      "category": "World",
+      "exam_angle": "Avaidh khanan aur aapda prabandhan — UPSC",
+      "source": "Reuters",
+      "source_url": "https://www.reuters.com/world/asia-pacific/indonesian-rescuers-resume-search-13-people-trapped-inside-illegal-mine-after-13-2026-11-26/",
+      "genuineness": "verified",
+      "outlets": [
+        "Reuters",
+        "Channel News Asia",
+        "Kyodo News",
+        "Korea Times"
+      ],
+      "image": null,
+      "image_credit": null
+    },
+    {
+      "id": "world-20261126-1222-03",
+      "published_ist": "2026-11-25T12:00:00+05:30",
+      "headline": "SpaceX ko 10 lakh upgrah ki manzoori",
+      "detail": "America ke FCC ne SpaceX ke 'Starmind' project ko antariksh me AI data centre ke liye 10 lakh upgrah bhejne ki manzoori di; pehla upgrah 2033 tak bhejna hoga.",
+      "category": "World",
+      "exam_angle": "Antariksh me AI data centre, FCC — UPSC S&T",
+      "source": "Reuters",
+      "source_url": "https://www.reuters.com/business/media-telecom/us-authorizes-spacex-deploy-1-million-satellites-data-centers-space-2026-11-25/",
+      "genuineness": "verified",
+      "outlets": [
+        "Reuters",
+        "Wall Street Journal",
+        "Al Jazeera",
+        "TechCrunch",
+        "Channel News Asia"
+      ],
+      "image": null,
+      "image_credit": null
+    },
+    {
+      "id": "world-20261126-1222-04",
+      "published_ist": "2026-11-25T12:00:00+05:30",
+      "headline": "America: Bharat par 25% tariff ka prastav",
+      "detail": "USTR ne Bharat se aane wale saaman par 25% tariff ka prastav rakha; yadi Bharat-America vyapar samjhota ho jaye to ye dar 17% tak seemit rahegi.",
+      "category": "World",
+      "exam_angle": "Section 301, Bharat-America vyapar — UPSC IR/Economy",
+      "source": "Reuters",
+      "source_url": "https://www.reuters.com/world/india/us-cap-india-tariff-17-if-trade-deal-is-reached-ustr-says-2026-11-25/",
+      "genuineness": "verified",
+      "outlets": [
+        "Reuters",
+        "Business Today",
+        "Business Standard",
+        "Moneycontrol"
+      ],
+      "image": null,
+      "image_credit": null
+    },
     {
       "id": "world-20261126-1124-01",
       "published_ist": "2026-11-26T07:09:00+05:30",
@@ -365,77 +442,6 @@
       ],
       "image": "../images/world/world-20261126-0622-04.jpg",
       "image_credit": "China News Service, CC BY 4.0 (Wikimedia Commons)"
-    },
-    {
-      "id": "world-20261125-2222-01",
-      "published_ist": "2026-11-25T12:00:00+05:30",
-      "headline": "Canary Islands me ek din me 2,100 pravasi",
-      "detail": "Spain ke Canary Islands me 24 ghante me 2,100 se zyada pravasi pahunche — ek din ka record; zyadatar naavein El Hierro dweep par aayi, saal bhar me kul 28,103.",
-      "category": "World",
-      "exam_angle": "Spain-EU pravasi sankat, Canary route — UPSC IR",
-      "source": "Reuters",
-      "source_url": "https://www.reuters.com/world/migrant-arrivals-spains-canary-islands-break-single-day-record-2026-11-25/",
-      "genuineness": "corroborated",
-      "outlets": [
-        "Reuters",
-        "The Times"
-      ],
-      "image": null,
-      "image_credit": null
-    },
-    {
-      "id": "world-20261125-2222-02",
-      "published_ist": "2026-11-25T12:00:00+05:30",
-      "headline": "Solomon Islands ne Australia ko suraksha saathi chuna",
-      "detail": "Solomon Islands aur Australia ne Canberra me sandhi par hastakshar kiye — Australia 'primary security partner' bana, desh me koi videshi sainya adda nahi hoga, aur Australia 10 saal me A$740 million dega.",
-      "category": "World",
-      "exam_angle": "Pacific me China-Australia pratispardha — UPSC IR",
-      "source": "Al Jazeera",
-      "source_url": "https://www.aljazeera.com/news/2026/11/25/solomon-islands-signs-security-deal-with-australia?traffic_source=rss",
-      "genuineness": "verified",
-      "outlets": [
-        "Nikkei Asia",
-        "CNN",
-        "Al Jazeera"
-      ],
-      "image": null,
-      "image_credit": null
-    },
-    {
-      "id": "world-20261125-2222-03",
-      "published_ist": "2026-11-25T12:00:00+05:30",
-      "headline": "Sudan me RSF drone hamle, 19 nagrik mare",
-      "detail": "Sudan ke Blue Nile rajya me RSF ke drone hamlo me 19 nagrik mare aur 20 ghayal hue; Damazin ke teen aawasiya ilakon par hamla hua, Roseires me bandh aur bijli suvidha par bhi hamla hua.",
-      "category": "World",
-      "exam_angle": "Sudan griha yuddh, drone yuddh — UPSC IR",
-      "source": "Reuters",
-      "source_url": "https://www.reuters.com/world/africa/drone-strikes-kill-19-civilians-southeastern-sudan-says-rights-group-2026-11-25/",
-      "genuineness": "corroborated",
-      "outlets": [
-        "Reuters",
-        "Al Jazeera"
-      ],
-      "image": null,
-      "image_credit": null
-    },
-    {
-      "id": "world-20261125-2122-01",
-      "published_ist": "2026-11-25T12:00:00+05:30",
-      "headline": "AI shak se Asia ke share bazaar dhadaam",
-      "detail": "Kospi 6.2% aur Nikkei 2.8% gira; Nvidia ke CEO Jensen Huang ki wapsi ke baad bhi AI kharch par shak bana raha.",
-      "category": "World",
-      "exam_angle": "AI boom par shak — share bazaar aur arthvyavastha",
-      "source": "Al Jazeera",
-      "source_url": "https://www.aljazeera.com/news/2026/11/25/asias-stock-markets-dive-as-doubts-to-swirl-over-ai-boom?traffic_source=rss",
-      "genuineness": "verified",
-      "outlets": [
-        "Al Jazeera",
-        "The Wall Street Journal",
-        "TradingView",
-        "Seoul Economic Daily"
-      ],
-      "image": null,
-      "image_credit": null
     }
   ]
 }
