@@ -255,6 +255,60 @@
       ],
       "image": null,
       "image_credit": null
+    },
+    {
+      "id": "world-20261126-1023-01",
+      "published_ist": "2026-11-25T12:00:00+05:30",
+      "headline": "Macy's ki 100vi Thanksgiving parade tali",
+      "detail": "Toofan ke kaaran New York ki 100 saal purani parade pehli baar tal gayi; ab Shanivaar 28 November subah 8:30 baje hogi.",
+      "category": "World",
+      "exam_angle": null,
+      "source": "Reuters",
+      "source_url": "https://www.reuters.com/business/environment/macys-thanksgiving-day-parade-postponed-due-storm-projections-us-media-reports-2026-11-25/",
+      "genuineness": "verified",
+      "outlets": [
+        "Reuters",
+        "CNN",
+        "Al Jazeera"
+      ],
+      "image": null,
+      "image_credit": null
+    },
+    {
+      "id": "world-20261126-1023-02",
+      "published_ist": "2026-11-25T12:00:00+05:30",
+      "headline": "Bangladesh me 27-28 November ko deshvyapi band",
+      "detail": "Pratibandhit Awami League ne 8 maangon ke saath band ka elaan kiya; Hasina 16 December ko lautne ki baat kar rahi hain, Dhaka ne giraftari ki chetavni di hai.",
+      "category": "World",
+      "exam_angle": "Bangladesh ki rajneeti aur Bharat-Bangladesh sambandh — UPSC IR",
+      "source": "Outlook India",
+      "source_url": "https://www.outlookindia.com/amp/story/international/bangladesh-awami-league-shutdown-november-27-28-sheikh-hasina-return-eight-demands",
+      "genuineness": "verified",
+      "outlets": [
+        "Outlook India",
+        "Moneycontrol",
+        "Wion"
+      ],
+      "image": null,
+      "image_credit": null
+    },
+    {
+      "id": "world-20261126-1023-03",
+      "published_ist": "2026-11-25T12:00:00+05:30",
+      "headline": "Turkey me mahila hinsa ke khilaf hazaaron utre",
+      "detail": "25 November ko Istanbul me lagbhag 3,000 aur Ankara me 1,000 logon ne mahilaon ke khilaf hinsa ke khilaf pradarshan kiya, Taksim par pratibandh ke bawjood.",
+      "category": "World",
+      "exam_angle": "25 November — Mahila Hinsa Unmoolan ke liye Antarrashtriya Diwas",
+      "source": "Inquirer",
+      "source_url": "https://globalnation.inquirer.net/349892/thousands-rally-across-turkey-against-violence-against-women/amp",
+      "genuineness": "verified",
+      "outlets": [
+        "AFP",
+        "Roya News",
+        "Hurriyet Daily News"
+      ],
+      "image": null,
+      "image_credit": null
     }
   ]
 }
