@@ -142,6 +142,76 @@
     ],
     "answer_index": 3
    }
+  },
+  {
+   "episode": 167,
+   "video_hi": null,
+   "video_hinglish": null,
+   "capsules": [
+    {
+     "id": "ca-ep167-s1",
+     "headline_hi": "America ka Bharat par 25% tariff",
+     "headline_hinglish": "America ka Bharat par 25% tariff",
+     "detail_hi": "America ne Bharat se aane wale saaman par pachchis pratishat tariff lagane ki ghoshna ki hai.",
+     "detail_hinglish": "America ne Bharat se aane wale saaman par pachchis pratishat tariff lagane ki ghoshna ki hai.",
+     "category_hi": "Economy",
+     "category_en": "Economy"
+    },
+    {
+     "id": "ca-ep167-s2",
+     "headline_hi": "Aaj 77th Samvidhan Diwas",
+     "headline_hinglish": "Aaj 77th Samvidhan Diwas",
+     "detail_hi": "Bharat aaj 77th Samvidhan Diwas mana raha hai; Samvidhan 26 November 1949 ko apnaya gaya tha.",
+     "detail_hinglish": "Bharat aaj 77th Samvidhan Diwas mana raha hai; Samvidhan 26 November 1949 ko apnaya gaya tha.",
+     "category_hi": "Polity",
+     "category_en": "Polity"
+    },
+    {
+     "id": "ca-ep167-s3",
+     "headline_hi": "Kamarajar Port ko ₹4,288 crore terminal",
+     "headline_hinglish": "Kamarajar Port ko ₹4,288 crore terminal",
+     "detail_hi": "Cabinet ne Kamarajar Port par dusre container terminal ko manzoori di hai, lagat ₹4,288 crore hai.",
+     "detail_hinglish": "Cabinet ne Kamarajar Port par dusre container terminal ko manzoori di hai, lagat ₹4,288 crore hai.",
+     "category_hi": "Economy",
+     "category_en": "Economy"
+    },
+    {
+     "id": "ca-ep167-s4",
+     "headline_hi": "Bharat ka record khadyann utpadan",
+     "headline_hinglish": "Bharat ka record khadyann utpadan",
+     "detail_hi": "Bharat ne 2025-26 mein 378 million tonnes khadyann utpadan kiya hai, ye ab tak ka sabse zyada hai.",
+     "detail_hinglish": "Bharat ne 2025-26 mein 378 million tonnes khadyann utpadan kiya hai, ye ab tak ka sabse zyada hai.",
+     "category_hi": "Agriculture",
+     "category_en": "Agriculture"
+    },
+    {
+     "id": "ca-ep167-s5",
+     "headline_hi": "HPV teekakaran mein ek crore paar",
+     "headline_hinglish": "HPV teekakaran mein ek crore paar",
+     "detail_hi": "Bharat mein HPV teekakaran ek crore ka aankda paar kar gaya hai, ye ladkiyon ke swasthya ke liye badi uplabdhi hai.",
+     "detail_hinglish": "Bharat mein HPV teekakaran ek crore ka aankda paar kar gaya hai, ye ladkiyon ke swasthya ke liye badi uplabdhi hai.",
+     "category_hi": "Health",
+     "category_en": "Health"
+    }
+   ],
+   "mcq": {
+    "id": "ca-ep167-mcq",
+    "q_hi": "America ne Bharat se aane wale saaman par kitna tariff lagane ki ghoshna ki hai?",
+    "q_hinglish": "America ne Bharat se aane wale saaman par kitna tariff lagane ki ghoshna ki hai?",
+    "options_hi": [
+     "Das pratishat",
+     "Pachchis pratishat",
+     "Tees pratishat",
+     "Pachaas pratishat"
+    ],
+    "options_hinglish": [
+     "Das pratishat",
+     "Pachchis pratishat",
+     "Tees pratishat",
+     "Pachaas pratishat"
+    ],
+    "answer_index": 1
+   }
   }
  ]
 }
