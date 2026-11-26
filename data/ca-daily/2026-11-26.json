@@ -212,6 +212,76 @@
     ],
     "answer_index": 1
    }
+  },
+  {
+   "episode": 168,
+   "video_hi": "N5YzUp1TY8M",
+   "video_hinglish": "N5YzUp1TY8M",
+   "capsules": [
+    {
+     "id": "ca-ep168-s1",
+     "headline_hi": "Packaged food par alag warning labels",
+     "headline_hinglish": "Packaged food par alag warning labels",
+     "detail_hi": "Supreme Court ne FSSAI ko nirdesh diya hai ki zyada cheeni, namak aur charbi wale khane par alag warning labels lagaye jayein.",
+     "detail_hinglish": "Supreme Court ne FSSAI ko nirdesh diya hai ki zyada cheeni, namak aur charbi wale khane par alag warning labels lagaye jayein.",
+     "category_hi": "Health",
+     "category_en": "Health"
+    },
+    {
+     "id": "ca-ep168-s2",
+     "headline_hi": "Net zero ke liye $500 billion saalana",
+     "headline_hinglish": "Net zero ke liye $500 billion saalana",
+     "detail_hi": "BCG-IVCA report ke mutabik Bharat ko 2070 tak net zero ke liye har saal lagbhag paanch sau arab dollar nivesh ki zaroorat hai.",
+     "detail_hinglish": "BCG-IVCA report ke mutabik Bharat ko 2070 tak net zero ke liye har saal lagbhag paanch sau arab dollar nivesh ki zaroorat hai.",
+     "category_hi": "Environment",
+     "category_en": "Environment"
+    },
+    {
+     "id": "ca-ep168-s3",
+     "headline_hi": "Tamil Nadu mein 15 din paternity leave",
+     "headline_hinglish": "Tamil Nadu mein 15 din paternity leave",
+     "detail_hi": "Tamil Nadu ne pehli baar vivahit purush sarkari karmachariyon ke liye pandrah din ki paternity leave ki ghoshna ki hai.",
+     "detail_hinglish": "Tamil Nadu ne pehli baar vivahit purush sarkari karmachariyon ke liye pandrah din ki paternity leave ki ghoshna ki hai.",
+     "category_hi": "Governance",
+     "category_en": "National"
+    },
+    {
+     "id": "ca-ep168-s4",
+     "headline_hi": "RBI ne wapas bulaya 60 tonne sona",
+     "headline_hinglish": "RBI ne wapas bulaya 60 tonne sona",
+     "detail_hi": "RBI ne April se September ke beech saath tonne sona Bharat wapas bulaya hai; ab chauraasi pratishat bhandar desh mein hai.",
+     "detail_hinglish": "RBI ne April se September ke beech saath tonne sona Bharat wapas bulaya hai; ab chauraasi pratishat bhandar desh mein hai.",
+     "category_hi": "Economy",
+     "category_en": "Economy"
+    },
+    {
+     "id": "ca-ep168-s5",
+     "headline_hi": "Voter list ki galtiyan Form 8 se sudhrenge",
+     "headline_hinglish": "Voter list ki galtiyan Form 8 se sudhrenge",
+     "detail_hi": "Chunav Aayog ne rajyon ko nirdesh diya hai ki SIR ke dauran mili galat entries ko Form 8 se sudhara jaye.",
+     "detail_hinglish": "Chunav Aayog ne rajyon ko nirdesh diya hai ki SIR ke dauran mili galat entries ko Form 8 se sudhara jaye.",
+     "category_hi": "Polity",
+     "category_en": "Polity"
+    }
+   ],
+   "mcq": {
+    "id": "ca-ep168-mcq",
+    "q_hi": "Supreme Court ne packaged food par kaisa warning label lagane ka nirdesh diya hai?",
+    "q_hinglish": "Supreme Court ne packaged food par kaisa warning label lagane ka nirdesh diya hai?",
+    "options_hi": [
+     "Star rating system",
+     "Ek combined hexagon",
+     "Alag-alag hexagonal warnings",
+     "Koi warning nahi"
+    ],
+    "options_hinglish": [
+     "Star rating system",
+     "Ek combined hexagon",
+     "Alag-alag hexagonal warnings",
+     "Koi warning nahi"
+    ],
+    "answer_index": 2
+   }
   }
  ]
 }
