@@ -1,6 +1,60 @@
 {
-  "updated_ist": "2026-11-26T09:26:46+05:30",
+  "updated_ist": "2026-11-26T10:23:07+05:30",
   "items": [
+    {
+      "id": "world-20261126-1023-01",
+      "published_ist": "2026-11-25T12:00:00+05:30",
+      "headline": "Macy's ki 100vi Thanksgiving parade tali",
+      "detail": "Toofan ke kaaran New York ki 100 saal purani parade pehli baar tal gayi; ab Shanivaar 28 November subah 8:30 baje hogi.",
+      "category": "World",
+      "exam_angle": null,
+      "source": "Reuters",
+      "source_url": "https://www.reuters.com/business/environment/macys-thanksgiving-day-parade-postponed-due-storm-projections-us-media-reports-2026-11-25/",
+      "genuineness": "verified",
+      "outlets": [
+        "Reuters",
+        "CNN",
+        "Al Jazeera"
+      ],
+      "image": null,
+      "image_credit": null
+    },
+    {
+      "id": "world-20261126-1023-02",
+      "published_ist": "2026-11-25T12:00:00+05:30",
+      "headline": "Bangladesh me 27-28 November ko deshvyapi band",
+      "detail": "Pratibandhit Awami League ne 8 maangon ke saath band ka elaan kiya; Hasina 16 December ko lautne ki baat kar rahi hain, Dhaka ne giraftari ki chetavni di hai.",
+      "category": "World",
+      "exam_angle": "Bangladesh ki rajneeti aur Bharat-Bangladesh sambandh — UPSC IR",
+      "source": "Outlook India",
+      "source_url": "https://www.outlookindia.com/amp/story/international/bangladesh-awami-league-shutdown-november-27-28-sheikh-hasina-return-eight-demands",
+      "genuineness": "verified",
+      "outlets": [
+        "Outlook India",
+        "Moneycontrol",
+        "Wion"
+      ],
+      "image": null,
+      "image_credit": null
+    },
+    {
+      "id": "world-20261126-1023-03",
+      "published_ist": "2026-11-25T12:00:00+05:30",
+      "headline": "Turkey me mahila hinsa ke khilaf hazaaron utre",
+      "detail": "25 November ko Istanbul me lagbhag 3,000 aur Ankara me 1,000 logon ne mahilaon ke khilaf hinsa ke khilaf pradarshan kiya, Taksim par pratibandh ke bawjood.",
+      "category": "World",
+      "exam_angle": "25 November — Mahila Hinsa Unmoolan ke liye Antarrashtriya Diwas",
+      "source": "Inquirer",
+      "source_url": "https://globalnation.inquirer.net/349892/thousands-rally-across-turkey-against-violence-against-women/amp",
+      "genuineness": "verified",
+      "outlets": [
+        "AFP",
+        "Roya News",
+        "Hurriyet Daily News"
+      ],
+      "image": null,
+      "image_credit": null
+    },
     {
       "id": "world-20261126-0926-01",
       "published_ist": "2026-11-25T12:00:00+05:30",
@@ -380,63 +434,6 @@
       ],
       "image": "../images/world/world-20261125-1926-01.jpg",
       "image_credit": "Carol M. Highsmith, Public domain (Wikimedia Commons)"
-    },
-    {
-      "id": "world-20261125-1722-01",
-      "published_ist": "2026-11-25T17:00:00+05:30",
-      "headline": "Ukraine ne Savasleyka hawai-adda par hamla kiya",
-      "detail": "Ukraine ne Russia ke Savasleyka hawai-adde par hamla kiya, jahan Kinzhal missile le jaane wale MiG-31K viman tainat hain; hamle me 3 MiG-31 aur 2 Su-34 viman kshatigrast hue.",
-      "category": "World",
-      "exam_angle": "Russia-Ukraine yuddh, Kinzhal missile",
-      "source": "Ukrinform",
-      "source_url": "https://www.ukrinform.net/rubric-ato/4188463-ukrainian-defense-forces-strike-savasleyka-airfield-in-russia.html",
-      "genuineness": "verified",
-      "outlets": [
-        "Ukrinform",
-        "Reuters",
-        "Al Jazeera",
-        "NY Post"
-      ],
-      "image": null,
-      "image_credit": null
-    },
-    {
-      "id": "world-20261125-1722-02",
-      "published_ist": "2026-11-25T16:24:00+05:30",
-      "headline": "Merz: Europe Russia ko uski seema dikhayega",
-      "detail": "Bundestag me Merz ne kaha Russia Baltic se Black Sea tak badh raha hai, isliye 2027 ka defence budget €139.4 billion rakha gaya hai.",
-      "category": "World",
-      "exam_angle": "Germany defence budget, NATO kharch",
-      "source": "Reuters",
-      "source_url": "https://www.reuters.com/world/europe/germanys-merz-defends-aid-ukraine-says-russia-poses-growing-threat-europe-2026-11-25/",
-      "genuineness": "verified",
-      "outlets": [
-        "Reuters",
-        "Yeni Safak",
-        "ANews"
-      ],
-      "image": null,
-      "image_credit": null
-    },
-    {
-      "id": "world-20261125-2028-01",
-      "published_ist": "2026-11-25T15:40:00+05:30",
-      "headline": "Hormuz me 2 tanker mine se jale",
-      "detail": "Hormuz jaldamroomadhya me mine se do tel tanker phatkar jal gaye; Iran ne nigrani sakht kar di aur kaha jahaz samanvay karke guzrein, varna khatra hai.",
-      "category": "World",
-      "exam_angle": "Hormuz jaldamroomadhya, tel vyapar, Iran-America tanav — UPSC IR",
-      "source": "Reuters",
-      "source_url": "https://www.reuters.com/world/iran-says-ships-hit-mines-hormuz-warns-vessels-coordinate-passage-2026-11-25/",
-      "genuineness": "verified",
-      "outlets": [
-        "Reuters",
-        "The Jerusalem Post",
-        "Arab News",
-        "The Straits Times",
-        "IRNA"
-      ],
-      "image": null,
-      "image_credit": null
     }
   ]
 }
