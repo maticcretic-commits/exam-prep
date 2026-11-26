@@ -73,6 +73,61 @@
       ],
       "image": "../images/world/world-20261126-0622-04.jpg",
       "image_credit": "China News Service, CC BY 4.0 (Wikimedia Commons)"
+    },
+    {
+      "id": "world-20261126-0729-01",
+      "published_ist": "2026-11-25T12:00:00+05:30",
+      "headline": "Murmansk governor bhrashtachar me hirasat me",
+      "detail": "Russia ke Murmansk kshetra ke governor Andrei Chibis ko bade bhrashtachar jaanch me Moscow court ne do mahine ki hirasat me bheja; woh Ukraine yuddh shuru hone ke baad giraftar hone wale pehle sewarat governor hain.",
+      "category": "World",
+      "exam_angle": "Russia Arctic, Northern Sea Route, Murmansk — UPSC IR",
+      "source": "Reuters",
+      "source_url": "https://www.reuters.com/world/head-russias-murmansk-region-is-placed-pre-trial-detention-major-corruption-2026-11-25/",
+      "genuineness": "verified",
+      "outlets": [
+        "Reuters",
+        "Arab News",
+        "Channel News Asia"
+      ],
+      "image": "../images/world/world-20261126-0729-01.jpg",
+      "image_credit": "Presidential Executive Office of Russia, CC BY 4.0 (Wikimedia Commons)"
+    },
+    {
+      "id": "world-20261126-0729-02",
+      "published_ist": "2026-11-25T12:00:00+05:30",
+      "headline": "Ramaphosa ko Farmgate jaanch se rahat",
+      "detail": "South Africa ki Western Cape High Court ne 2022 ki Section 89 panel report ko 'gair-kanuni' batakar radd kar diya; Phala Phala farm chori par Rashtrapati Cyril Ramaphosa ke khilaf mahabhiyog jaanch khatm ho gayi.",
+      "category": "World",
+      "exam_angle": "South Africa, Phala Phala, mahabhiyog — UPSC IR/Polity",
+      "source": "Al Jazeera",
+      "source_url": "https://www.aljazeera.com/news/2026/11/25/south-africa-court-repeals-farmgate-impeachment-threat-against-ramaphosa",
+      "genuineness": "verified",
+      "outlets": [
+        "Al Jazeera",
+        "Daily Maverick",
+        "Sowetan",
+        "Reuters"
+      ],
+      "image": "../images/world/world-20261126-0729-02.jpg",
+      "image_credit": "Ricardo Stuckert, CC BY-SA 2.0 (Wikimedia Commons)"
+    },
+    {
+      "id": "world-20261126-0729-03",
+      "published_ist": "2026-11-25T01:30:00+05:30",
+      "headline": "Bangladesh: garment mazdoori 36% badhi",
+      "detail": "Bangladesh ne garment mazdooron ki nyuntam mazdoori 36% badhakar 17,000 taka kar di; hafton ke virodh ke baad wage board ne 4-2 vote se faisla kiya, nayi dar 1 December se lagu hogi.",
+      "category": "World",
+      "exam_angle": "Bangladesh RMG, shram, niryaat — UPSC Economy/IR",
+      "source": "The Hindu",
+      "source_url": "https://www.thehindu.com/news/international/bangladesh-garment-workers-win-36-wage-rise/article71741049.ece",
+      "genuineness": "verified",
+      "outlets": [
+        "The Hindu",
+        "UNB",
+        "Reuters"
+      ],
+      "image": "../images/world/world-20261126-0729-03.jpg",
+      "image_credit": "Nahid Sultan, CC BY-SA 4.0 (Wikimedia Commons)"
     }
   ]
 }
