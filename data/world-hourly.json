@@ -1,6 +1,64 @@
 {
-  "updated_ist": "2026-11-26T12:25:58+05:30",
+  "updated_ist": "2026-11-26T13:24:24+05:30",
   "items": [
+    {
+      "id": "world-20261126-1322-01",
+      "published_ist": "2026-11-25T20:11:00+05:30",
+      "headline": "America ne nagrikon ko Iran chhodne ko kaha",
+      "detail": "America ke Virtual Embassy ne nagrikon se turant Iran chhodne ko kaha, kyunki Iran aur Houthi ke hamlo ke baad ladai tezi se badhne ka khatra hai.",
+      "category": "World",
+      "exam_angle": "America-Iran tanav, travel advisory — UPSC IR",
+      "source": "Saudi Gazette",
+      "source_url": "https://saudigazette.com.sa/article/666529/world/us-tells-citizens-to-leave-iran-immediately-warns-hostilities-could-escalate-fast",
+      "genuineness": "verified",
+      "outlets": [
+        "Saudi Gazette",
+        "Newspim",
+        "QNC News",
+        "Euronews"
+      ],
+      "image": null,
+      "image_credit": null
+    },
+    {
+      "id": "world-20261126-1322-02",
+      "published_ist": "2026-11-25T12:00:00+05:30",
+      "headline": "Houthi ka Saudi ki sabse badi refinery par hamla",
+      "detail": "Houthi ne Saudi Arabia ki sabse badi Ras Tanura refinery par hamle ka dava kiya; satellite tasveeron me dhuaan dikha aur tel ke daam 3.5% chadh gaye.",
+      "category": "World",
+      "exam_angle": "Khadi me tel suraksha, Houthi sangharsh — UPSC IR",
+      "source": "The Straits Times",
+      "source_url": "https://www.straitstimes.com/world/middle-east/yemens-houthis-say-they-attacked-saudi-oil-refinery-and-riyadh-financial-district?ref=latest",
+      "genuineness": "verified",
+      "outlets": [
+        "Reuters",
+        "The Straits Times",
+        "Channel News Asia",
+        "Tribune"
+      ],
+      "image": null,
+      "image_credit": null
+    },
+    {
+      "id": "world-20261126-1322-03",
+      "published_ist": "2026-11-25T12:00:00+05:30",
+      "headline": "Solomon Islands ne Australia se suraksha sandhi ki",
+      "detail": "Solomon Islands aur Australia ne sandhi par hastakshar kiye; Australia ab uska mukhya suraksha saathi hoga aur wahan koi videshi sainya adda nahi banega.",
+      "category": "World",
+      "exam_angle": "Prashant me China ka prabhav, suraksha sandhi — UPSC IR",
+      "source": "The Straits Times",
+      "source_url": "https://www.straitstimes.com/asia/australianz/australia-and-solomon-islands-sign-security-pact",
+      "genuineness": "verified",
+      "outlets": [
+        "The Straits Times",
+        "CNN",
+        "Al Jazeera",
+        "Nikkei Asia",
+        "Korea Herald"
+      ],
+      "image": null,
+      "image_credit": null
+    },
     {
       "id": "world-20261126-1222-01",
       "published_ist": "2026-11-26T05:15:00+05:30",
@@ -387,61 +445,6 @@
       ],
       "image": null,
       "image_credit": null
-    },
-    {
-      "id": "world-20261126-0622-02",
-      "published_ist": "2026-11-25T12:00:00+05:30",
-      "headline": "Cairo me tanker aag, 31 log mare",
-      "detail": "Cairo ke paas Giza ki Ring Road par petroleum tanker palatne se lagi aag me kam se kam 31 log mare aur 21 ghayal hue; aag me 27 gaadiyan jal gayi, jaanch jaari hai.",
-      "category": "World",
-      "exam_angle": null,
-      "source": "CNN",
-      "source_url": "https://www.cnn.com/2026/11/25/middleeast/cairo-egypt-tanker-fire-latam-intl?cid=external-feeds_iluminar_meta",
-      "genuineness": "verified",
-      "outlets": [
-        "Reuters",
-        "CNN",
-        "Al Jazeera"
-      ],
-      "image": null,
-      "image_credit": null
-    },
-    {
-      "id": "world-20261126-0622-03",
-      "published_ist": "2026-11-25T12:00:00+05:30",
-      "headline": "North Korea ne Swiss daftar band karwaya",
-      "detail": "North Korea ne Pyongyang me Switzerland ka naya rajnaitik daftar band karne ko kaha aur uske pramukh ko 48 ghante me desh chhodne ka aadesh diya — Switzerland ne ek bachchon ke shivir par pratibandh lagaye the.",
-      "category": "World",
-      "exam_angle": "North Korea-Switzerland sambandh, pratibandh kootneeti — UPSC IR",
-      "source": "Al Jazeera",
-      "source_url": "https://www.aljazeera.com/news/2026/11/25/switzerland-regrets-closure-of-north-korea-office-over-sanctions-feud",
-      "genuineness": "verified",
-      "outlets": [
-        "Yonhap",
-        "Al Jazeera",
-        "The Korea Times"
-      ],
-      "image": null,
-      "image_credit": null
-    },
-    {
-      "id": "world-20261126-0622-04",
-      "published_ist": "2026-11-25T12:00:00+05:30",
-      "headline": "Pakistani astronaut pehli baar Tiangong station par",
-      "detail": "Pakistan ke Muhammad Zeeshan Ali Shenzhou-24 se China ke Tiangong station par pahunchne wale pehle videshi astronaut bane; Tang Hongbo aur Wu Yi ke saath woh lagbhag ek hafta prayog karenge.",
-      "category": "World",
-      "exam_angle": "China-Pakistan antariksh sahyog, Tiangong station — UPSC S&T/IR",
-      "source": "Dawn",
-      "source_url": "https://www.dawn.com/news/2046753/a-new-era-begins-pakistans-zeeshan-ali-enters-new-frontier-as-shenzhou-24-docks-with-space-station",
-      "genuineness": "verified",
-      "outlets": [
-        "Dawn",
-        "Arab News",
-        "Channel News Asia",
-        "Nature"
-      ],
-      "image": "../images/world/world-20261126-0622-04.jpg",
-      "image_credit": "China News Service, CC BY 4.0 (Wikimedia Commons)"
     }
   ]
 }
