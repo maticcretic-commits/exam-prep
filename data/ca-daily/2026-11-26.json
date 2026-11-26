@@ -72,6 +72,76 @@
     ],
     "answer_index": 1
    }
+  },
+  {
+   "episode": 166,
+   "video_hi": "SwFsF3XpxNc",
+   "video_hinglish": "SwFsF3XpxNc",
+   "capsules": [
+    {
+     "id": "ca-ep166-s1",
+     "headline_hi": "JEE Main 2027: Aaj aakhri din",
+     "headline_hinglish": "JEE Main 2027: Aaj aakhri din",
+     "detail_hi": "JEE Main 2027 Session 1 ke liye late fee ke saath registration aaj raat 11:50 baje band ho jayega.",
+     "detail_hinglish": "JEE Main 2027 Session 1 ke liye late fee ke saath registration aaj raat 11:50 baje band ho jayega.",
+     "category_hi": "Education",
+     "category_en": "Education"
+    },
+    {
+     "id": "ca-ep166-s2",
+     "headline_hi": "SC: Teen bhasha chunne wale jaari rakhein",
+     "headline_hinglish": "SC: Teen bhasha chunne wale jaari rakhein",
+     "detail_hi": "Supreme Court ne kaha teen bhasha chunne wale chhatra use jaari rakhein, koi zabardasti nahi.",
+     "detail_hinglish": "Supreme Court ne kaha teen bhasha chunne wale chhatra use jaari rakhein, koi zabardasti nahi.",
+     "category_hi": "Polity",
+     "category_en": "Polity"
+    },
+    {
+     "id": "ca-ep166-s3",
+     "headline_hi": "Super 30 ke Anand Kumar ko Japan samman",
+     "headline_hinglish": "Super 30 ke Anand Kumar ko Japan samman",
+     "detail_hi": "Super 30 ke founder Anand Kumar ko Japan mein Special Achievement Award mila, garib chhatron ko muft shiksha dene ke liye.",
+     "detail_hinglish": "Super 30 ke founder Anand Kumar ko Japan mein Special Achievement Award mila, garib chhatron ko muft shiksha dene ke liye.",
+     "category_hi": "Education",
+     "category_en": "Education"
+    },
+    {
+     "id": "ca-ep166-s4",
+     "headline_hi": "Bharat-Singapore milkar banayenge aircraft MRO",
+     "headline_hinglish": "Bharat-Singapore milkar banayenge aircraft MRO",
+     "detail_hi": "Cabinet ne Singapore ke saath aviation maintenance, repair aur overhaul mein sahyog ke MoU ko manzoori di hai.",
+     "detail_hinglish": "Cabinet ne Singapore ke saath aviation maintenance, repair aur overhaul mein sahyog ke MoU ko manzoori di hai.",
+     "category_hi": "Economy",
+     "category_en": "Economy"
+    },
+    {
+     "id": "ca-ep166-s5",
+     "headline_hi": "PT Usha IOA adhyaksh ki daud se bahar",
+     "headline_hinglish": "PT Usha IOA adhyaksh ki daud se bahar",
+     "detail_hi": "PT Usha ne IOA adhyaksh pad ke liye namankan nahi bhara, chaar saal ka karyakal 5 December ko khatm hoga.",
+     "detail_hinglish": "PT Usha ne IOA adhyaksh pad ke liye namankan nahi bhara, chaar saal ka karyakal 5 December ko khatm hoga.",
+     "category_hi": "Sports",
+     "category_en": "Sports"
+    }
+   ],
+   "mcq": {
+    "id": "ca-ep166-mcq",
+    "q_hi": "JEE Main 2027 Session 1 ke liye late fee window mein kitne rupaye extra dene hote hain?",
+    "q_hinglish": "JEE Main 2027 Session 1 ke liye late fee window mein kitne rupaye extra dene hote hain?",
+    "options_hi": [
+     "Teen sau rupaye",
+     "Ek hazaar rupaye",
+     "Do hazaar rupaye",
+     "Paanch sau rupaye"
+    ],
+    "options_hinglish": [
+     "Teen sau rupaye",
+     "Ek hazaar rupaye",
+     "Do hazaar rupaye",
+     "Paanch sau rupaye"
+    ],
+    "answer_index": 3
+   }
   }
  ]
 }
