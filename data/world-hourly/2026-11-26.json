@@ -200,6 +200,61 @@
       ],
       "image": null,
       "image_credit": null
+    },
+    {
+      "id": "world-20261126-0926-01",
+      "published_ist": "2026-11-25T12:00:00+05:30",
+      "headline": "Riyadh tower par Houthi drone hamla",
+      "detail": "Houthi drone ne Riyadh ke financial district ki ek tower par hamla kiya; 11 log ghayal hue, jinme 2 Bharatiya bhi hain; Bharat ne hamle ki kadi ninda ki.",
+      "category": "World",
+      "exam_angle": "Houthi, Saudi Arabia, West Asia — UPSC IR",
+      "source": "Moneycontrol",
+      "source_url": "https://www.moneycontrol.com/news/india/india-condemns-houthi-attack-on-riyadh-tower-that-injured-11-including-2-indians-14088529.html/amp",
+      "genuineness": "verified",
+      "outlets": [
+        "Moneycontrol",
+        "The Week",
+        "Gulf News",
+        "Outlook India"
+      ],
+      "image": "../images/world/world-20261126-0926-01.jpg",
+      "image_credit": "Faisal Arif, CC BY-SA 4.0 (Wikimedia Commons)"
+    },
+    {
+      "id": "world-20261126-0926-02",
+      "published_ist": "2026-11-25T12:00:00+05:30",
+      "headline": "Trump ka birthright citizenship order roka",
+      "detail": "America ke doosre judge ne bhi Trump ke birthright citizenship seemit karne wale aadesh par rok lagayi; ab prashasan ko dono faislon ko palatna hoga.",
+      "category": "World",
+      "exam_angle": "US 14th Amendment, birthright citizenship — UPSC Polity/IR",
+      "source": "Reuters",
+      "source_url": "https://www.reuters.com/legal/government/trumps-newest-order-curtailing-birthright-citizenship-is-blocked-by-second-judge-2026-11-25/",
+      "genuineness": "corroborated",
+      "outlets": [
+        "Reuters",
+        "TRT World"
+      ],
+      "image": "../images/world/world-20261126-0926-02.jpg",
+      "image_credit": "Joe Ravi, CC BY-SA 3.0 (Wikimedia Commons)"
+    },
+    {
+      "id": "world-20261125-1722-01",
+      "published_ist": "2026-11-25T17:00:00+05:30",
+      "headline": "Ukraine ne Savasleyka hawai-adda par hamla kiya",
+      "detail": "Ukraine ne Russia ke Savasleyka hawai-adde par hamla kiya, jahan Kinzhal missile le jaane wale MiG-31K viman tainat hain; hamle me 3 MiG-31 aur 2 Su-34 viman kshatigrast hue.",
+      "category": "World",
+      "exam_angle": "Russia-Ukraine yuddh, Kinzhal missile",
+      "source": "Ukrinform",
+      "source_url": "https://www.ukrinform.net/rubric-ato/4188463-ukrainian-defense-forces-strike-savasleyka-airfield-in-russia.html",
+      "genuineness": "verified",
+      "outlets": [
+        "Ukrinform",
+        "Reuters",
+        "Al Jazeera",
+        "NY Post"
+      ],
+      "image": null,
+      "image_credit": null
     }
   ]
 }
