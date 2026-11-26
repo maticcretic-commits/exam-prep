@@ -884,6 +884,59 @@
    ],
    "image": null,
    "image_credit": null
+  },
+  {
+   "id": "world-20261126-2022-01",
+   "published_ist": "2026-11-26T12:00:00+05:30",
+   "headline": "Kremlin ka Ukraine par yuddh badhane ka aarop",
+   "detail": "Kremlin pravakta Dmitry Peskov ne kaha Ukraine yuddh ko Mediterranean aur Baltic sagar tak badha raha hai; ye bayan America aur NATO pramukh ki sanyukt chetavni ke baad aaya.",
+   "category": "World",
+   "exam_angle": "Russia-Ukraine yuddh, NATO — UPSC IR",
+   "source": "Reuters",
+   "source_url": "https://www.reuters.com/world/europe/kremlin-accuses-ukraine-trying-widen-conflict-zone-mediterranean-baltic-seas-2026-11-26/",
+   "genuineness": "corroborated",
+   "outlets": [
+    "Reuters",
+    "Daily Sabah"
+   ],
+   "image": null,
+   "image_credit": null
+  },
+  {
+   "id": "world-20261126-2022-02",
+   "published_ist": "2026-11-26T12:00:00+05:30",
+   "headline": "UK net migration 1997 ke baad sabse kam",
+   "detail": "ONS ke mutabik June 2026 tak ke saal me UK ki net migration 77,000 rahi, 1997 ke baad sabse kam; pichhle saal ye 204,000 thi.",
+   "category": "World",
+   "exam_angle": "UK pravasan, ONS aankde — UPSC IR",
+   "source": "Dawn",
+   "source_url": "https://www.dawn.com/news/2047225/uk-net-migration-falls-to-almost-three-decade-low-excluding-pandemic-slump",
+   "genuineness": "verified",
+   "outlets": [
+    "The Times",
+    "Dawn",
+    "Gulf News"
+   ],
+   "image": null,
+   "image_credit": null
+  },
+  {
+   "id": "world-20261126-2022-03",
+   "published_ist": "2026-11-26T15:32:00+05:30",
+   "headline": "Zaporizhzhia me drone hamla, 5 ki maut",
+   "detail": "Russia-niyukt Zaporizhzhia governor Yevgeny Balitsky ke mutabik Ukraine ke drone ne Vesioloye me parking par hamla kiya, 5 log mare aur 3 ghayal hue.",
+   "category": "World",
+   "exam_angle": "Russia-Ukraine yuddh — UPSC IR",
+   "source": "Al Jazeera",
+   "source_url": "https://www.aljazeera.com/news/2026/11/26/ukraine-drone-attack-kills-five-in-russian-occupied-zaporizhia?traffic_source=rss",
+   "genuineness": "verified",
+   "outlets": [
+    "Al Jazeera",
+    "APA",
+    "Free Malaysia Today"
+   ],
+   "image": null,
+   "image_credit": null
   }
  ]
 }
