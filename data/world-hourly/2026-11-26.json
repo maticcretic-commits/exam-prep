@@ -128,6 +128,78 @@
       ],
       "image": "../images/world/world-20261126-0729-03.jpg",
       "image_credit": "Nahid Sultan, CC BY-SA 4.0 (Wikimedia Commons)"
+    },
+    {
+      "id": "world-20261126-0822-01",
+      "published_ist": "2026-11-25T12:00:00+05:30",
+      "headline": "Russia se riot gas rokne ki maang",
+      "detail": "34 deshon aur EU ne Russia se Ukraine yuddh me riot-control gas ka istemal turant rokne ko kaha; OPCW ki lab ne khaai me mile namoonon me CS gas ki pushti ki, Ukraine ne 2022 se 14,000 se zyada aise mamle darj kiye hain.",
+      "category": "World",
+      "exam_angle": "OPCW, Chemical Weapons Convention, CS gas — UPSC IR",
+      "source": "Reuters",
+      "source_url": "https://www.reuters.com/world/dozens-countries-call-russia-halt-alleged-use-riot-agent-ukraine-war-2026-11-25/",
+      "genuineness": "corroborated",
+      "outlets": [
+        "Reuters",
+        "Kyiv Independent"
+      ],
+      "image": "../images/world/world-20261126-0822-01.jpg",
+      "image_credit": "CEphoto, Uwe Aranas, CC BY-SA 4.0 (Wikimedia Commons)"
+    },
+    {
+      "id": "world-20261126-0822-02",
+      "published_ist": "2026-11-25T12:00:00+05:30",
+      "headline": "Ukraine ko $622m ke F-16 upkaran",
+      "detail": "America ne Ukraine ke F-16 ladaku vimanon ke liye $622 million ke rakh-rakhav upkaranon ki bikri ko manzoori di; kharcha Belgium, Denmark, Netherlands aur Norway uthayenge, America ka koi paisa nahi lagega.",
+      "category": "World",
+      "exam_angle": "F-16, JUMPSTART, NATO sahyog — UPSC IR/Defence",
+      "source": "Al Arabiya",
+      "source_url": "https://english.alarabiya.net/News/world/2026/11/25/us-approves-potential-622-million-sale-of-f16-equipment-to-ukraine",
+      "genuineness": "verified",
+      "outlets": [
+        "Al Arabiya",
+        "Arab News",
+        "Washington Examiner"
+      ],
+      "image": "../images/world/world-20261126-0822-02.jpg",
+      "image_credit": "Staff Sgt. Cherie A. Thurlby, US Air Force, Public domain (Wikimedia Commons)"
+    },
+    {
+      "id": "world-20261126-0822-03",
+      "published_ist": "2026-11-26T03:00:00+05:30",
+      "headline": "Kyiv mall par ballistic missile hamla",
+      "detail": "Russia ne der raat Kyiv par ballistic missile hamla kiya; Desnianskyi jile me ek shopping mall aur do aur imaratein nishana bani, kam se kam 4 log ghayal hue, jinme se 2 ki haalat gambhir hai.",
+      "category": "World",
+      "exam_angle": "Ukraine yuddh, ballistic missile — UPSC IR",
+      "source": "Kyiv Independent",
+      "source_url": "https://kyivindependent.com/russia-slams-kyiv-in-ballistic-missile-attack-hits-shopping-center/",
+      "genuineness": "verified",
+      "outlets": [
+        "Kyiv Independent",
+        "Kyiv Post",
+        "Ukrinform",
+        "Reuters"
+      ],
+      "image": null,
+      "image_credit": null
+    },
+    {
+      "id": "world-20261126-0822-04",
+      "published_ist": "2026-11-25T12:00:00+05:30",
+      "headline": "Lebanon ka doosra airport December me",
+      "detail": "Lebanon ka doosra antarrashtriya airport — uttar me Qlayaat (Rene Mouawad) — 14 December se vyavsayik udanein shuru karega; Hezbollah ke kamzor prabhav ke baad khula ye airport pehle Turkey, Egypt aur Jordan ki udanein dega.",
+      "category": "World",
+      "exam_angle": "Lebanon, Hezbollah, West Asia — UPSC IR",
+      "source": "Reuters",
+      "source_url": "https://www.reuters.com/world/middle-east/lebanon-opening-second-airport-reflects-political-shifts-2026-11-25/",
+      "genuineness": "verified",
+      "outlets": [
+        "Reuters",
+        "The National",
+        "Al Jazeera"
+      ],
+      "image": null,
+      "image_credit": null
     }
   ]
 }
