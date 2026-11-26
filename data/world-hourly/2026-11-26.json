@@ -384,6 +384,83 @@
       ],
       "image": null,
       "image_credit": null
+    },
+    {
+      "id": "world-20261126-1222-01",
+      "published_ist": "2026-11-26T05:15:00+05:30",
+      "headline": "Dubai ke paas tanker ke kareeb dhamaka",
+      "detail": "UKMTO ne bataya, Dubai se 50 nautical miles paschim me tanker ke paas ek agyaat projectile se dhamaka hua; tanker ko koi nuksan nahi, sabhi crew surakshit hain.",
+      "category": "World",
+      "exam_angle": "Gulf me samudri suraksha, UKMTO — UPSC IR",
+      "source": "Arab News",
+      "source_url": "https://www.arabnews.com/middle-east/ukmto-reports-explosion-near-tanker-west-of-dubai-3014072",
+      "genuineness": "verified",
+      "outlets": [
+        "UKMTO",
+        "Reuters",
+        "Al Jazeera",
+        "Arab News"
+      ],
+      "image": null,
+      "image_credit": null
+    },
+    {
+      "id": "world-20261126-1222-02",
+      "published_ist": "2026-11-26T09:25:00+05:30",
+      "headline": "Indonesia ki khadan me 13 ki maut",
+      "detail": "Paschim Java ke Bogor me baarish se bhari ek avaidh sone ki khadan me 13 mazdoor mare gaye, 13 ab bhi 100 meter neeche fanse hain; bachav kaam jaari hai.",
+      "category": "World",
+      "exam_angle": "Avaidh khanan aur aapda prabandhan — UPSC",
+      "source": "Reuters",
+      "source_url": "https://www.reuters.com/world/asia-pacific/indonesian-rescuers-resume-search-13-people-trapped-inside-illegal-mine-after-13-2026-11-26/",
+      "genuineness": "verified",
+      "outlets": [
+        "Reuters",
+        "Channel News Asia",
+        "Kyodo News",
+        "Korea Times"
+      ],
+      "image": null,
+      "image_credit": null
+    },
+    {
+      "id": "world-20261126-1222-03",
+      "published_ist": "2026-11-25T12:00:00+05:30",
+      "headline": "SpaceX ko 10 lakh upgrah ki manzoori",
+      "detail": "America ke FCC ne SpaceX ke 'Starmind' project ko antariksh me AI data centre ke liye 10 lakh upgrah bhejne ki manzoori di; pehla upgrah 2033 tak bhejna hoga.",
+      "category": "World",
+      "exam_angle": "Antariksh me AI data centre, FCC — UPSC S&T",
+      "source": "Reuters",
+      "source_url": "https://www.reuters.com/business/media-telecom/us-authorizes-spacex-deploy-1-million-satellites-data-centers-space-2026-11-25/",
+      "genuineness": "verified",
+      "outlets": [
+        "Reuters",
+        "Wall Street Journal",
+        "Al Jazeera",
+        "TechCrunch",
+        "Channel News Asia"
+      ],
+      "image": null,
+      "image_credit": null
+    },
+    {
+      "id": "world-20261126-1222-04",
+      "published_ist": "2026-11-25T12:00:00+05:30",
+      "headline": "America: Bharat par 25% tariff ka prastav",
+      "detail": "USTR ne Bharat se aane wale saaman par 25% tariff ka prastav rakha; yadi Bharat-America vyapar samjhota ho jaye to ye dar 17% tak seemit rahegi.",
+      "category": "World",
+      "exam_angle": "Section 301, Bharat-America vyapar — UPSC IR/Economy",
+      "source": "Reuters",
+      "source_url": "https://www.reuters.com/world/india/us-cap-india-tariff-17-if-trade-deal-is-reached-ustr-says-2026-11-25/",
+      "genuineness": "verified",
+      "outlets": [
+        "Reuters",
+        "Business Today",
+        "Business Standard",
+        "Moneycontrol"
+      ],
+      "image": null,
+      "image_credit": null
     }
   ]
 }
