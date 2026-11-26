@@ -309,6 +309,81 @@
       ],
       "image": null,
       "image_credit": null
+    },
+    {
+      "id": "world-20261126-1124-01",
+      "published_ist": "2026-11-26T07:09:00+05:30",
+      "headline": "Ukraine ne Russia ke airbase par hamla kiya",
+      "detail": "Ukraine ne Nizhny Novgorod ke Savasleyka airbase par hamla kar paanch vimaan ko nuksan pahunchaya — teen MiG-31 aur do Su-34; Ukraine ke General Staff ke mutabik hamla Budhvar ko hua.",
+      "category": "World",
+      "exam_angle": "Russia-Ukraine yuddh, deep strike — UPSC IR",
+      "source": "Al Jazeera",
+      "source_url": "https://www.aljazeera.com/news/2026/11/26/ukraine-attacks-russian-military-base-says-five-planes-struck",
+      "genuineness": "verified",
+      "outlets": [
+        "Al Jazeera",
+        "Saudi Gazette",
+        "Times Now"
+      ],
+      "image": null,
+      "image_credit": null
+    },
+    {
+      "id": "world-20261126-1124-02",
+      "published_ist": "2026-11-25T12:00:00+05:30",
+      "headline": "Netanyahu ke khilaf bhrashtachar case kamzor",
+      "detail": "Jerusalem District Court ke judge ne kaha Case 4000 me Netanyahu ko doshi thahrana mushkil hai aur abhiyojan ko case wapas lene par vichar karna chahiye; Case 2000 par bhi punarvichar ki sifarish ki — ye faisla nahi, sifarish hai.",
+      "category": "World",
+      "exam_angle": "Israel ki rajneeti, Netanyahu mukadma — UPSC IR",
+      "source": "Reuters",
+      "source_url": "https://www.reuters.com/legal/government/israeli-judges-recommend-prosecutors-drop-one-bribery-case-against-netanyahu-2026-11-25/",
+      "genuineness": "verified",
+      "outlets": [
+        "Reuters",
+        "CNN",
+        "The Jerusalem Post",
+        "Haaretz"
+      ],
+      "image": null,
+      "image_credit": null
+    },
+    {
+      "id": "world-20261126-1124-03",
+      "published_ist": "2026-11-25T12:00:00+05:30",
+      "headline": "Cartagena me sabhi 20 bandhak bachaye gaye",
+      "detail": "Colombia ke Cartagena me Exito supermarket me 17 ghante ki gherabandi ke baad suraksha balon ne sabhi 20 bandhakon ko bacha liya; ek hamlaawar mara gaya. Hamlaawaron ne bakhtarband gaadi lootne ki nakamyab koshish ke baad dukaan me sharan li thi.",
+      "category": "World",
+      "exam_angle": null,
+      "source": "Arab News",
+      "source_url": "https://www.arabnews.com/world/colombia-hostages-rescued-after-forces-storm-cartagena-supermarket-3013959",
+      "genuineness": "verified",
+      "outlets": [
+        "Arab News",
+        "Al Jazeera",
+        "AFP",
+        "Le Temps"
+      ],
+      "image": null,
+      "image_credit": null
+    },
+    {
+      "id": "world-20261126-1124-04",
+      "published_ist": "2026-11-25T12:00:00+05:30",
+      "headline": "Abrego Garcia America se Spain pahunche",
+      "detail": "Kilmar Abrego Garcia, jise Trump prashasan ne galti se El Salvador bhej diya tha, sweccha se America chhodkar Madrid pahunche; unhone kaha is baar ve aazadi ke saath ja rahe hain.",
+      "category": "World",
+      "exam_angle": "America ki immigration neeti — UPSC IR",
+      "source": "Al Jazeera",
+      "source_url": "https://www.aljazeera.com/news/2026/11/25/kilmar-abrego-garcia-wrongfully-deported-from-us-arrives-in-spain",
+      "genuineness": "verified",
+      "outlets": [
+        "Al Jazeera",
+        "CNN",
+        "USA Today",
+        "The Wall Street Journal"
+      ],
+      "image": null,
+      "image_credit": null
     }
   ]
 }
