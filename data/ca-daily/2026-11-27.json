@@ -1,0 +1,77 @@
+{
+ "date": "2026-11-27",
+ "date_hi": "27 November 2026",
+ "date_en": "27 November 2026",
+ "episodes": [
+  {
+   "episode": 169,
+   "video_hi": "ixx7CQQVHiQ",
+   "video_hinglish": "ixx7CQQVHiQ",
+   "capsules": [
+    {
+     "id": "ca-ep169-s1",
+     "headline_hi": "America ka 25% tariff, Bharat par asar",
+     "headline_hinglish": "America ka 25% tariff, Bharat par asar",
+     "detail_hi": "America ne Section 301 jaanch ke baad Bharatiya samaan par pachees pratishat tariff ka prastav rakha hai.",
+     "detail_hinglish": "America ne Section 301 jaanch ke baad Bharatiya samaan par pachees pratishat tariff ka prastav rakha hai.",
+     "category_hi": "Economy",
+     "category_en": "Economy"
+    },
+    {
+     "id": "ca-ep169-s2",
+     "headline_hi": "Drone-swarm killer Bhargavastra parikshan mein paas",
+     "headline_hinglish": "Drone-swarm killer Bhargavastra parikshan mein paas",
+     "detail_hi": "Swadeshi Bhargavastra ne Pokhran mein drone jhund ko rokne ke do-stariya parikshan mein safalta paayi hai.",
+     "detail_hinglish": "Swadeshi Bhargavastra ne Pokhran mein drone jhund ko rokne ke do-stariya parikshan mein safalta paayi hai.",
+     "category_hi": "Defence",
+     "category_en": "Defence"
+    },
+    {
+     "id": "ca-ep169-s3",
+     "headline_hi": "Census SOP par SC ne manga jawaab",
+     "headline_hinglish": "Census SOP par SC ne manga jawaab",
+     "detail_hi": "Supreme Court ne kendra se ek hafte mein census ki prakriya aur jaati ke aankdon ki suraksha par SOP manga hai.",
+     "detail_hinglish": "Supreme Court ne kendra se ek hafte mein census ki prakriya aur jaati ke aankdon ki suraksha par SOP manga hai.",
+     "category_hi": "Polity",
+     "category_en": "Polity"
+    },
+    {
+     "id": "ca-ep169-s4",
+     "headline_hi": "Kharif anaaj 167 million tonne hone ka anumaan",
+     "headline_hinglish": "Kharif anaaj 167 million tonne hone ka anumaan",
+     "detail_hi": "El Nino aur deri se monsoon ke bawjood kharif anaaj lagbhag ek sau sadsath million tonne hone ka anumaan hai.",
+     "detail_hinglish": "El Nino aur deri se monsoon ke bawjood kharif anaaj lagbhag ek sau sadsath million tonne hone ka anumaan hai.",
+     "category_hi": "Agriculture",
+     "category_en": "Agriculture"
+    },
+    {
+     "id": "ca-ep169-s5",
+     "headline_hi": "Saryu-Kamala Express Ayodhya se Janakpur",
+     "headline_hinglish": "Saryu-Kamala Express Ayodhya se Janakpur",
+     "detail_hi": "Indian Railways ne Ayodhya ko Nepal ke Janakpur se jodne wali Saryu-Kamala Express ki booking shuru kar di hai.",
+     "detail_hinglish": "Indian Railways ne Ayodhya ko Nepal ke Janakpur se jodne wali Saryu-Kamala Express ki booking shuru kar di hai.",
+     "category_hi": "Infrastructure",
+     "category_en": "National"
+    }
+   ],
+   "mcq": {
+    "id": "ca-ep169-mcq",
+    "q_hi": "America ne Bharatiya samaan par kitne pratishat tariff ka prastav rakha hai?",
+    "q_hinglish": "America ne Bharatiya samaan par kitne pratishat tariff ka prastav rakha hai?",
+    "options_hi": [
+     "Pachaas pratishat",
+     "Pachees pratishat",
+     "Das pratishat",
+     "Pandrah pratishat"
+    ],
+    "options_hinglish": [
+     "Pachaas pratishat",
+     "Pachees pratishat",
+     "Das pratishat",
+     "Pandrah pratishat"
+    ],
+    "answer_index": 1
+   }
+  }
+ ]
+}
