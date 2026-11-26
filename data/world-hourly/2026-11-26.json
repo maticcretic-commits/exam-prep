@@ -1,0 +1,78 @@
+{
+  "date": "2026-11-26",
+  "items": [
+    {
+      "id": "world-20261126-0622-01",
+      "published_ist": "2026-11-26T06:00:00+05:30",
+      "headline": "Kim ne tactical parmanu hathiyar badhane ko kaha",
+      "detail": "Kim Jong Un ne parmanu samagri aur hathiyar suvidhaon ke nirikshan ke dauran kaha — tactical parmanu hathiyaron ko kai kshetron me tainat kiya jaye aur parmanu samagri utpadan badhaya ja raha hai; KCNA ke mutabik unhone North Korea ki parmanu shakti ko 'bilkul atoot' bataya.",
+      "category": "World",
+      "exam_angle": "North Korea parmanu karyakram, Korea praaydweep suraksha — UPSC IR",
+      "source": "Reuters",
+      "source_url": "https://www.reuters.com/world/asia-pacific/north-koreas-kim-visits-nuclear-facilities-calls-wider-tactical-nuclear-weapons-2026-11-25/",
+      "genuineness": "verified",
+      "outlets": [
+        "Reuters",
+        "CNN",
+        "Yonhap"
+      ],
+      "image": null,
+      "image_credit": null
+    },
+    {
+      "id": "world-20261126-0622-02",
+      "published_ist": "2026-11-25T12:00:00+05:30",
+      "headline": "Cairo me tanker aag, 31 log mare",
+      "detail": "Cairo ke paas Giza ki Ring Road par petroleum tanker palatne se lagi aag me kam se kam 31 log mare aur 21 ghayal hue; aag me 27 gaadiyan jal gayi, jaanch jaari hai.",
+      "category": "World",
+      "exam_angle": null,
+      "source": "CNN",
+      "source_url": "https://www.cnn.com/2026/11/25/middleeast/cairo-egypt-tanker-fire-latam-intl?cid=external-feeds_iluminar_meta",
+      "genuineness": "verified",
+      "outlets": [
+        "Reuters",
+        "CNN",
+        "Al Jazeera"
+      ],
+      "image": null,
+      "image_credit": null
+    },
+    {
+      "id": "world-20261126-0622-03",
+      "published_ist": "2026-11-25T12:00:00+05:30",
+      "headline": "North Korea ne Swiss daftar band karwaya",
+      "detail": "North Korea ne Pyongyang me Switzerland ka naya rajnaitik daftar band karne ko kaha aur uske pramukh ko 48 ghante me desh chhodne ka aadesh diya — Switzerland ne ek bachchon ke shivir par pratibandh lagaye the.",
+      "category": "World",
+      "exam_angle": "North Korea-Switzerland sambandh, pratibandh kootneeti — UPSC IR",
+      "source": "Al Jazeera",
+      "source_url": "https://www.aljazeera.com/news/2026/11/25/switzerland-regrets-closure-of-north-korea-office-over-sanctions-feud",
+      "genuineness": "verified",
+      "outlets": [
+        "Yonhap",
+        "Al Jazeera",
+        "The Korea Times"
+      ],
+      "image": null,
+      "image_credit": null
+    },
+    {
+      "id": "world-20261126-0622-04",
+      "published_ist": "2026-11-25T12:00:00+05:30",
+      "headline": "Pakistani astronaut pehli baar Tiangong station par",
+      "detail": "Pakistan ke Muhammad Zeeshan Ali Shenzhou-24 se China ke Tiangong station par pahunchne wale pehle videshi astronaut bane; Tang Hongbo aur Wu Yi ke saath woh lagbhag ek hafta prayog karenge.",
+      "category": "World",
+      "exam_angle": "China-Pakistan antariksh sahyog, Tiangong station — UPSC S&T/IR",
+      "source": "Dawn",
+      "source_url": "https://www.dawn.com/news/2046753/a-new-era-begins-pakistans-zeeshan-ali-enters-new-frontier-as-shenzhou-24-docks-with-space-station",
+      "genuineness": "verified",
+      "outlets": [
+        "Dawn",
+        "Arab News",
+        "Channel News Asia",
+        "Nature"
+      ],
+      "image": "../images/world/world-20261126-0622-04.jpg",
+      "image_credit": "China News Service, CC BY 4.0 (Wikimedia Commons)"
+    }
+  ]
+}
