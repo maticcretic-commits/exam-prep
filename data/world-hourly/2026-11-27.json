@@ -783,6 +783,101 @@
       ],
       "image": null,
       "image_credit": null
+    },
+    {
+      "id": "world-20261127-1622-01",
+      "published_ist": "2026-11-27T12:00:00+05:30",
+      "headline": "America me toofan: 9 lakh bina bijli",
+      "detail": "Thanksgiving par aaye toofan se America ke purvi hisse me 9 lakh se zyada ghar bijli ke bina rahe; Macy's parade 100 saal me pehli baar tali aur 400 udanein radd hui.",
+      "category": "World",
+      "exam_angle": "America, nor'easter toofan — UPSC",
+      "source": "Al Jazeera",
+      "source_url": "https://www.aljazeera.com/news/2026/11/27/thanksgiving-storms-leave-nearly-a-million-without-power-across-the-us",
+      "genuineness": "verified",
+      "outlets": [
+        "Al Jazeera",
+        "The Wall Street Journal",
+        "The Times",
+        "Dawn"
+      ],
+      "image": null,
+      "image_credit": null
+    },
+    {
+      "id": "world-20261127-1622-02",
+      "published_ist": "2026-11-26T12:00:00+05:30",
+      "headline": "Cairo me tanker aag: 31 mare",
+      "detail": "Cairo ki Ring Road par tel tanker palatne se lagi aag me 31 log mare aur 21 ghayal hue; 27 gaadiyan jal gayin aur zimmedar driver giraftar hua.",
+      "category": "World",
+      "exam_angle": "Egypt, Cairo — UPSC",
+      "source": "CNN",
+      "source_url": "https://www.cnn.com/2026/11/25/middleeast/cairo-egypt-tanker-fire-latam-intl?cid=external-feeds_iluminar_meta",
+      "genuineness": "verified",
+      "outlets": [
+        "CNN",
+        "The Times",
+        "The Indian Express",
+        "Gulf News"
+      ],
+      "image": null,
+      "image_credit": null
+    },
+    {
+      "id": "world-20261127-1622-03",
+      "published_ist": "2026-11-26T12:00:00+05:30",
+      "headline": "SpaceX ko 10 lakh satellite ki manzoori",
+      "detail": "America ke FCC ne SpaceX ko antariksh me AI data centre ke liye 10 lakh satellite bhejne ki manzoori di; pehla satellite 2033 tak bhejna hoga.",
+      "category": "World",
+      "exam_angle": "SpaceX, FCC, AI — UPSC science-tech",
+      "source": "CNN",
+      "source_url": "https://www.cnn.com/2026/11/26/business/spacex-satellites-space-data-centers-intl?cid=external-feeds_iluminar_meta",
+      "genuineness": "verified",
+      "outlets": [
+        "CNN",
+        "The Wall Street Journal",
+        "Channel News Asia",
+        "USA Today"
+      ],
+      "image": null,
+      "image_credit": null
+    },
+    {
+      "id": "world-20261127-1622-04",
+      "published_ist": "2026-11-26T12:00:00+05:30",
+      "headline": "De Cos banenge ECB ke naye pramukh",
+      "detail": "Eurozone ke netaon ne Spain ke Pablo Hernandez de Cos ko ECB ka agla pramukh chuna; woh February me Christine Lagarde ki jagah lenge.",
+      "category": "World",
+      "exam_angle": "ECB, Eurozone — UPSC economy",
+      "source": "Reuters",
+      "source_url": "https://www.reuters.com/world/europe/euro-countries-pick-spains-de-cos-ecb-chief-costa-says-2026-11-26/",
+      "genuineness": "verified",
+      "outlets": [
+        "Reuters",
+        "The Wall Street Journal",
+        "CNN",
+        "Le Monde"
+      ],
+      "image": null,
+      "image_credit": null
+    },
+    {
+      "id": "world-20261127-1622-05",
+      "published_ist": "2026-11-26T12:00:00+05:30",
+      "headline": "Congo me Ebola: 12,000 case, 5,904 maut",
+      "detail": "Congo me Ebola ke mamle 12,021 ho gaye aur 5,904 mautein hui; purvi hisse me ladai ke karan madad pahunchana mushkil ho raha hai.",
+      "category": "World",
+      "exam_angle": "Congo, Ebola — UPSC health",
+      "source": "Al Jazeera",
+      "source_url": "https://www.aljazeera.com/news/2026/11/26/dr-congo-ebola-cases-surpass-12000-as-fighting-disrupts-response-in-east?traffic_source=rss",
+      "genuineness": "verified",
+      "outlets": [
+        "Al Jazeera",
+        "Reuters",
+        "Associated Press",
+        "UN News"
+      ],
+      "image": null,
+      "image_credit": null
     }
   ]
 }
