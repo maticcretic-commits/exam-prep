@@ -1,6 +1,92 @@
 {
-  "updated_ist": "2026-11-27T07:24:44+05:30",
+  "updated_ist": "2026-11-27T08:25:56+05:30",
   "items": [
+    {
+      "id": "world-20261127-0822-01",
+      "published_ist": "2026-11-26T12:00:00+05:30",
+      "headline": "North Korea ne Russia ko hathiyar dena roka",
+      "detail": "Ukraine ki khufia agency GUR ke mutabik Kim Jong Un ne Russia ko KN-23 missile aur golabarud dena roka, aur Russian sainya vimanon ke liye apna hawai kshetra band kar diya.",
+      "category": "World",
+      "exam_angle": "North Korea-Russia sainya sahyog, Ukraine yuddh",
+      "source": "Reuters",
+      "source_url": "https://www.reuters.com/business/aerospace-defense/ukraine-says-north-korea-temporarily-halted-missile-shipments-ally-russia-2026-11-26/",
+      "genuineness": "verified",
+      "outlets": [
+        "Reuters",
+        "The New Voice of Ukraine",
+        "Chosun Biz",
+        "Ukrainska Pravda",
+        "Interfax-Ukraine",
+        "Firstpost",
+        "Ukrinform"
+      ],
+      "image": null,
+      "image_credit": null
+    },
+    {
+      "id": "world-20261127-0822-02",
+      "published_ist": "2026-11-26T12:00:00+05:30",
+      "headline": "Nvidia ne 4 deshon ko server bhejna roka",
+      "detail": "America ke naye export control ke baad Nvidia ne Dell aur Supermicro se kaha Malaysia, Singapore, Thailand aur Indonesia ko AI server na bhejein, taaki China ko chip na mile.",
+      "category": "World",
+      "exam_angle": "America ke AI chip export control aur China ko chip se rokna",
+      "source": "Channel News Asia",
+      "source_url": "https://www.channelnewsasia.com/asia/nvidia-halts-chip-shipments-southeast-asia-6584351",
+      "genuineness": "verified",
+      "outlets": [
+        "Financial Times",
+        "Channel News Asia",
+        "The Straits Times",
+        "The Hindu",
+        "Barron's",
+        "The Times of India",
+        "Business Standard",
+        "Engadget"
+      ],
+      "image": null,
+      "image_credit": null
+    },
+    {
+      "id": "world-20261127-0822-03",
+      "published_ist": "2026-11-25T17:57:36+05:30",
+      "headline": "3.5 arab password aur record khule me mile",
+      "detail": "Do asurakshit database se 3.5 arab se zyada username, password aur vyaktigat record mile — ek me lagbhag 2 arab login credential, dusre me 84 crore se zyada Chinese ID number.",
+      "category": "World",
+      "exam_angle": "Cybersecurity: data leak, infostealer malware",
+      "source": "Malwarebytes",
+      "source_url": "https://www.malwarebytes.com/blog/data-breaches/2026/11/two-exposed-databases-held-over-3-5-billion-records",
+      "genuineness": "verified",
+      "outlets": [
+        "Malwarebytes",
+        "NDTV",
+        "Gadgets 360",
+        "IT Magazine",
+        "TechInformed",
+        "Engadget"
+      ],
+      "image": null,
+      "image_credit": null
+    },
+    {
+      "id": "world-20261127-0822-04",
+      "published_ist": "2026-11-25T12:00:00+05:30",
+      "headline": "Netanyahu Case 4000: judge ne hatane ko kaha",
+      "detail": "Israel ki adalat ne Netanyahu ke bhrashtachar mukadme ke sabse gambhir Case 4000 ko hatane ka sujhav diya, kaha dosh siddh hone ki sambhavna kam hai; Attorney General vichar karengi.",
+      "category": "World",
+      "exam_angle": null,
+      "source": "CNN",
+      "source_url": "https://www.cnn.com/2026/11/25/middleeast/netanyahu-corruption-charges-legal-boost-intl?cid=external-feeds_iluminar_meta",
+      "genuineness": "verified",
+      "outlets": [
+        "The Jerusalem Post",
+        "Globes",
+        "CNN",
+        "The Times of Israel",
+        "Al Jazeera"
+      ],
+      "image": null,
+      "image_credit": null
+    },
     {
       "id": "world-20261127-0722-01",
       "published_ist": "2026-11-26T12:00:00+05:30",
@@ -376,83 +462,6 @@
         "AP",
         "The Korea Times",
         "2EU Brussels"
-      ],
-      "image": null,
-      "image_credit": null
-    },
-    {
-      "id": "world-20261126-1822-01",
-      "published_ist": "2026-11-26T12:00:00+05:30",
-      "headline": "Kroger 3,000 corporate naukri khatm karega",
-      "detail": "America ki sabse badi traditional grocery chain Kroger ne corporate chhantni shuru kar di hai; teen saal me lagbhag 3,000 naukriyan khatm hongi, jabki Bengaluru me naya Capability Center khul raha hai.",
-      "category": "World",
-      "exam_angle": "US job market, offshoring, Bharat me GCC — UPSC economy",
-      "source": "NY Post",
-      "source_url": "https://nypost.com/2026/11/23/business/kroger-axes-3000-us-corporate-jobs-while-hiring-for-dozens-of-positions-in-india/",
-      "genuineness": "verified",
-      "outlets": [
-        "NY Post",
-        "Progressive Grocer",
-        "Inc.",
-        "The Economic Times",
-        "Mass Market Retailers"
-      ],
-      "image": "../images/world/world-20261126-1822-01.jpg",
-      "image_credit": "Smarty9108, Wikimedia Commons (CC BY-SA 4.0)"
-    },
-    {
-      "id": "world-20261126-1822-02",
-      "published_ist": "2026-11-26T10:59:00+05:30",
-      "headline": "Congo me Ebola ke 12,000 se zyada case",
-      "detail": "Congo me Ebola ke confirmed case 12,021 ho gaye hain aur 5,904 logon ki maut hui hai; ladai ke karan roktham ka kaam mushkil ho raha hai, sarkari data ne bataya.",
-      "category": "World",
-      "exam_angle": "Ebola, Bundibugyo strain, WHO — UPSC health",
-      "source": "Reuters",
-      "source_url": "https://www.reuters.com/business/healthcare-pharmaceuticals/congos-ebola-cases-exceed-12000-responders-struggle-contain-outbreak-2026-11-26/",
-      "genuineness": "verified",
-      "outlets": [
-        "Reuters",
-        "Al Jazeera",
-        "The New Indian Express",
-        "TRT World"
-      ],
-      "image": null,
-      "image_credit": null
-    },
-    {
-      "id": "world-20261126-1822-03",
-      "published_ist": "2026-11-26T12:00:00+05:30",
-      "headline": "UK ne 1 lakh purv sainikon ko patra likha",
-      "detail": "Britain ne Cold War ke baad pehli baar lagbhag 1 lakh purv sainikon ko patra likhkar unke sampark, naukri aur kaushal ki jankari mangi hai, taaki Strategic Reserve taiyar rahe.",
-      "category": "World",
-      "exam_angle": "UK Strategic Reserve, NATO, Europe suraksha — UPSC IR",
-      "source": "The Jerusalem Post",
-      "source_url": "https://www.jpost.com/international/article-916193",
-      "genuineness": "verified",
-      "outlets": [
-        "The Telegraph",
-        "The Jerusalem Post",
-        "Times Now",
-        "Hromadske"
-      ],
-      "image": null,
-      "image_credit": null
-    },
-    {
-      "id": "world-20261126-1822-04",
-      "published_ist": "2026-11-25T12:00:00+05:30",
-      "headline": "OPEC ne COP31 haar ka dosh EU par dala",
-      "detail": "OPEC pramukh Haitham Al Ghais ne kaha tel utpadak deshon ne COP31 me 'good faith' se hissa liya aur Antalya vartao ke bhang hone ke liye EU zimmedar hai.",
-      "category": "World",
-      "exam_angle": "COP31, jalvayu vartao, OPEC — UPSC environment",
-      "source": "Reuters",
-      "source_url": "https://www.reuters.com/sustainability/cop/opec-blames-eu-cop31-collapse-2026-11-25/",
-      "genuineness": "verified",
-      "outlets": [
-        "Reuters",
-        "The Japan Times",
-        "The Economic Times",
-        "The Climate Watch"
       ],
       "image": null,
       "image_credit": null
