@@ -1,6 +1,63 @@
 {
-  "updated_ist": "2026-11-27T16:22:00+05:30",
+  "updated_ist": "2026-11-27T17:22:00+05:30",
   "items": [
+    {
+      "id": "world-20261127-1722-01",
+      "published_ist": "2026-11-27T12:00:00+05:30",
+      "headline": "Vietnam-America vyapar samjhota, tariff 35% se kam",
+      "detail": "Vietnam ke PM Le Minh Hung ne kaha America se vyapar samjhota lagbhag tay ho gaya hai; America ka prastavit 35% tariff isse bahut kam hoga, aur dono desh hastakshar ki taiyari kar rahe hain.",
+      "category": "World",
+      "exam_angle": "Vietnam-America vyapar, Section 301 tariff — UPSC economy/IR",
+      "source": "The Straits Times",
+      "source_url": "https://www.straitstimes.com/asia/se-asia/vietnam-expects-to-sign-us-trade-deal-to-limit-tariff-hit?ref=latest",
+      "genuineness": "verified",
+      "outlets": [
+        "The Straits Times",
+        "VnExpress",
+        "TechNode",
+        "The Economic Times"
+      ],
+      "image": null,
+      "image_credit": null
+    },
+    {
+      "id": "world-20261127-1722-02",
+      "published_ist": "2026-11-26T12:00:00+05:30",
+      "headline": "Bangkok tel depot me dhamaka, 7 ghayal",
+      "detail": "Bangkok ke Bangchak tel depot me dhamake aur aag se 7 log ghayal hue, jinme 4 ki haalat gambhir hai; refinery ki sabhi unit band kar di gayin aur aag par kabu pa liya gaya.",
+      "category": "World",
+      "exam_angle": null,
+      "source": "Channel News Asia",
+      "source_url": "https://www.channelnewsasia.com/asia/bangkok-thailand-oil-refinery-fire-explosion-6584656?cid=cna_flip_070214",
+      "genuineness": "verified",
+      "outlets": [
+        "Channel News Asia",
+        "Reuters",
+        "Bangkok Post",
+        "The Hindu"
+      ],
+      "image": null,
+      "image_credit": null
+    },
+    {
+      "id": "world-20261127-1722-03",
+      "published_ist": "2026-11-24T12:00:00+05:30",
+      "headline": "China: Shanghai neta Chen Jining jaanch me",
+      "detail": "China ke bhrashtachar-rodhi vibhag ne Shanghai ke party pramukh aur Politburo sadasya Chen Jining ki jaanch shuru ki; woh 2022 ke baad jaanch me aaye chauthe Politburo sadasya hain.",
+      "category": "World",
+      "exam_angle": "China, CCP Politburo — UPSC IR",
+      "source": "CNN",
+      "source_url": "https://www.cnn.com/2026/11/24/china/china-chen-jining-investigated-purge-intl-hnk?cid=external-feeds_iluminar_meta",
+      "genuineness": "verified",
+      "outlets": [
+        "CNN",
+        "Al Jazeera",
+        "Channel News Asia",
+        "Reuters"
+      ],
+      "image": null,
+      "image_credit": null
+    },
     {
       "id": "world-20261127-1622-01",
       "published_ist": "2026-11-27T12:00:00+05:30",
@@ -385,62 +442,6 @@
         "The Jerusalem Post",
         "Hromadske",
         "The Straits Times"
-      ],
-      "image": null,
-      "image_credit": null
-    },
-    {
-      "id": "world-20261127-1122-02",
-      "published_ist": "2026-11-26T12:00:00+05:30",
-      "headline": "Eisenkot ko sarkar ke liye dusra samjhota",
-      "detail": "Israel me Gadi Eisenkot ki Yashar party ne vaam-panthi Democrats se gathbandhan samjhota kiya; do samjhauton ke baad bhi unke gut ke paas 120 me se sirf 36 seat hain, bahumat ke liye 61 chahiye.",
-      "category": "World",
-      "exam_angle": "Israel sarkar gathan, Knesset — UPSC IR",
-      "source": "The Times of India",
-      "source_url": "https://timesofindia.indiatimes.com/world/middle-east/israel-govt-formation-eisenkot-moves-to-replace-netanyahu-strikes-two-key-coalition-deals/articleshow/136207427.cms",
-      "genuineness": "verified",
-      "outlets": [
-        "The Times of India",
-        "Azat TV",
-        "Daily Sabah"
-      ],
-      "image": null,
-      "image_credit": null
-    },
-    {
-      "id": "world-20261127-1122-03",
-      "published_ist": "2026-11-26T12:00:00+05:30",
-      "headline": "Trump: Huang koi suraksha khatra nahi",
-      "detail": "America ke rashtrapati Trump ne kaha Nvidia ke CEO Jensen Huang koi suraksha khatra nahi hain; unhone khud Nvidia board se Huang ko CEO pad par wapas lane ko kaha tha.",
-      "category": "World",
-      "exam_angle": "America, AI chip, Nvidia — arthvyavastha",
-      "source": "Business Today",
-      "source_url": "https://www.businesstoday.in/technology/news/story/i-think-hes-absolutely-fine-trump-backs-jensen-huangs-nvidia-comeback-heres-why-569791-2026-11-27",
-      "genuineness": "verified",
-      "outlets": [
-        "Business Today",
-        "The Wall Street Journal",
-        "The Daily Star"
-      ],
-      "image": null,
-      "image_credit": null
-    },
-    {
-      "id": "world-20261127-1022-01",
-      "published_ist": "2026-11-25T23:17:00+05:30",
-      "headline": "Ukraine ke laser ne Russian drone giraya",
-      "detail": "Ukraine ka daava hai ki uske Blysk laser hathiyar ne pehli baar ladai me Russia ka jet-powered Geran drone giraya; ye pranali ek mahatvapurna sthal ki raksha kar rahi thi.",
-      "category": "World",
-      "exam_angle": "Laser raksha pranali aur drone yuddh",
-      "source": "Kyiv Independent",
-      "source_url": "https://kyivindependent.com/ukrainian-combat-lasers-intercept-russian-jet-powered-drone-for-first-time/",
-      "genuineness": "verified",
-      "outlets": [
-        "Kyiv Independent",
-        "Ukrinform",
-        "Ukrainska Pravda",
-        "Hromadske",
-        "New York Post"
       ],
       "image": null,
       "image_credit": null
