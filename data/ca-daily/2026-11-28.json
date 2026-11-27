@@ -1,0 +1,77 @@
+{
+ "date": "2026-11-28",
+ "date_hi": "28 November 2026",
+ "date_en": "28 November 2026",
+ "episodes": [
+  {
+   "episode": 173,
+   "video_hi": "m7W3IE1DIxc",
+   "video_hinglish": "m7W3IE1DIxc",
+   "capsules": [
+    {
+     "id": "ca-ep173-s1",
+     "headline_hi": "Gukesh-Sindarov teesri baazi bhi draw",
+     "headline_hinglish": "Gukesh-Sindarov teesri baazi bhi draw",
+     "detail_hi": "Geneva mein 60 chaal ki lambi baazi ke baad score 1.5-1.5 barabar raha.",
+     "detail_hinglish": "Geneva mein 60 chaal ki lambi baazi ke baad score 1.5-1.5 barabar raha.",
+     "category_hi": "Sports",
+     "category_en": "Sports"
+    },
+    {
+     "id": "ca-ep173-s2",
+     "headline_hi": "Assam mein nakli certificate, teen giraftar",
+     "headline_hinglish": "Assam mein nakli certificate, teen giraftar",
+     "detail_hi": "4,934 chhatron ne nakli CISCE certificate se Class 11 mein admission liya; CID ne teen ko pakda.",
+     "detail_hinglish": "4,934 chhatron ne nakli CISCE certificate se Class 11 mein admission liya; CID ne teen ko pakda.",
+     "category_hi": "Education",
+     "category_en": "Education"
+    },
+    {
+     "id": "ca-ep173-s3",
+     "headline_hi": "Sharab ghotala moneyman UAE se wapas",
+     "headline_hinglish": "Sharab ghotala moneyman UAE se wapas",
+     "detail_hi": "Vikas Agrawal 1,280 crore ke Chhattisgarh ghotala case mein Red Notice par Bharat laya gaya.",
+     "detail_hinglish": "Vikas Agrawal 1,280 crore ke Chhattisgarh ghotala case mein Red Notice par Bharat laya gaya.",
+     "category_hi": "Polity",
+     "category_en": "Polity"
+    },
+    {
+     "id": "ca-ep173-s4",
+     "headline_hi": "IBM H-1B sponsorship band, teen hafte ki deadline",
+     "headline_hinglish": "IBM H-1B sponsorship band, teen hafte ki deadline",
+     "detail_hi": "IBM Consulting ne visa sponsorship khatm kiya; karmchari 31 December tak desh badlein ya naukri chhodein.",
+     "detail_hinglish": "IBM Consulting ne visa sponsorship khatm kiya; karmchari 31 December tak desh badlein ya naukri chhodein.",
+     "category_hi": "Economy",
+     "category_en": "Economy"
+    },
+    {
+     "id": "ca-ep173-s5",
+     "headline_hi": "Patrakaron ki suraksha par SC sochega",
+     "headline_hinglish": "Patrakaron ki suraksha par SC sochega",
+     "detail_hi": "Saat Kerala patrakaron par pulis hamle ki shikayat jaanch panel ko; SC ne poocha patrakar kaun hai.",
+     "detail_hinglish": "Saat Kerala patrakaron par pulis hamle ki shikayat jaanch panel ko; SC ne poocha patrakar kaun hai.",
+     "category_hi": "Polity",
+     "category_en": "Polity"
+    }
+   ],
+   "mcq": {
+    "id": "ca-ep173-mcq",
+    "q_hi": "IBM ne H-1B wale karmchariyon ko faisla lene ke liye kitna samay diya hai?",
+    "q_hinglish": "IBM ne H-1B wale karmchariyon ko faisla lene ke liye kitna samay diya hai?",
+    "options_hi": [
+     "Ek hafta",
+     "Do hafte",
+     "Teen hafte",
+     "Ek mahina"
+    ],
+    "options_hinglish": [
+     "Ek hafta",
+     "Do hafte",
+     "Teen hafte",
+     "Ek mahina"
+    ],
+    "answer_index": 2
+   }
+  }
+ ]
+}
