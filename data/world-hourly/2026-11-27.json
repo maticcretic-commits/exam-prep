@@ -1080,6 +1080,61 @@
    ],
    "image": null,
    "image_credit": null
+  },
+  {
+   "id": "world-20261127-2022-01",
+   "published_ist": "2026-11-27T18:14:00+05:30",
+   "headline": "Hormuz me tanker mine se phata",
+   "detail": "Iran ke Revolutionary Guards ne kaha, shukravar subah Hormuz jaladmarumadhya me ek tel tanker mine se takrakar phat gaya, doosra tanker laut gaya.",
+   "category": "World",
+   "exam_angle": "Hormuz sankat, tel vyapar — UPSC IR",
+   "source": "IRNA",
+   "source_url": "https://en.irna.ir/news/86333992/Oil-tanker-hits-mine-in-south-of-Strait-of-Hormuz",
+   "genuineness": "verified",
+   "outlets": [
+    "IRNA",
+    "The Jerusalem Post",
+    "Anadolu",
+    "Times of Israel"
+   ],
+   "image": null,
+   "image_credit": null
+  },
+  {
+   "id": "world-20261127-2022-02",
+   "published_ist": "2026-11-26T13:26:00+05:30",
+   "headline": "Myanmar ICJ faisla nahi manega",
+   "detail": "Myanmar ke neta Min Aung Hlaing ne kaha, sarkar ICJ ke nar-sanhar faisle ke un hisson ko nahi manegi jinhe woh anuchit manti hai.",
+   "category": "World",
+   "exam_angle": "ICJ nar-sanhar faisla — UPSC IR",
+   "source": "Channel News Asia",
+   "source_url": "https://www.channelnewsasia.com/asia/myanmar-will-not-comply-icj-rohingya-genocide-ruling-6584511",
+   "genuineness": "corroborated",
+   "outlets": [
+    "Channel News Asia",
+    "The Daily Star",
+    "The Straits Times"
+   ],
+   "image": null,
+   "image_credit": null
+  },
+  {
+   "id": "world-20261127-2022-03",
+   "published_ist": "2026-11-27T12:00:00+05:30",
+   "headline": "China ke share bazaar me badi tezi",
+   "detail": "Beijing ke bazaar ko sahara dene ke sanket ke baad China ke share bazaar me do saal ki sabse badi ek-din ki tezi aayi, Shanghai aur CSI300 lagbhag 4% chadhe.",
+   "category": "World",
+   "exam_angle": "China bazaar hastakshep — UPSC Economy",
+   "source": "Channel News Asia",
+   "source_url": "https://www.channelnewsasia.com/business/china-stocks-rally-beijing-stronger-market-support-6586971",
+   "genuineness": "verified",
+   "outlets": [
+    "Channel News Asia",
+    "NDTV Profit",
+    "Reuters"
+   ],
+   "image": null,
+   "image_credit": null
   }
  ]
 }
