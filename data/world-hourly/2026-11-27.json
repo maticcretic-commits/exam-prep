@@ -1,0 +1,100 @@
+{
+  "date": "2026-11-27",
+  "items": [
+    {
+      "id": "world-20261127-0622-01",
+      "published_ist": "2026-11-26T12:00:00+05:30",
+      "headline": "Kuwait me drone hamla, 2 Italian mare",
+      "detail": "Kuwait ke hawai raksha kendra par drone hamle me do Italian technician mare gaye aur do log ghayal hue; Kuwait aur Italy ne Iran ko zimmedar bataya, Iran ne inkar kiya.",
+      "category": "World",
+      "exam_angle": "Iran-Kuwait tanav, Hormuz sankat — UPSC IR",
+      "source": "Al Jazeera",
+      "source_url": "https://www.aljazeera.com/news/2026/11/26/two-italians-killed-after-iranian-drones-strike-facility-says-kuwait",
+      "genuineness": "verified",
+      "outlets": [
+        "Al Jazeera",
+        "CNN",
+        "WSJ",
+        "Channel News Asia"
+      ],
+      "image": null,
+      "image_credit": null
+    },
+    {
+      "id": "world-20261127-0622-02",
+      "published_ist": "2026-11-26T12:00:00+05:30",
+      "headline": "Ibiza ke paas tanker palta, 1 ki maut",
+      "detail": "Spain ke Ibiza ke paas diesel bhara Malta-flag tanker Med Emre palat gaya; 17 crew me se 1 ki maut hui, 6 ghayal; abhi tel risaav nahi mila, Spain ne pradushan-roktham yojana shuru ki.",
+      "category": "World",
+      "exam_angle": null,
+      "source": "Reuters",
+      "source_url": "https://www.reuters.com/business/energy/crew-member-dies-after-diesel-tanker-sinks-off-ibiza-spain-launches-pollution-2026-11-26/",
+      "genuineness": "verified",
+      "outlets": [
+        "Reuters",
+        "Arab News",
+        "Al Jazeera",
+        "Channel News Asia"
+      ],
+      "image": null,
+      "image_credit": null
+    },
+    {
+      "id": "world-20261127-0622-03",
+      "published_ist": "2026-11-26T12:00:00+05:30",
+      "headline": "Colombia supermarket bandhak sankat khatm, sab surakshit",
+      "detail": "Cartagena ke supermarket me 16 ghante ke bandhak sankat ke baad suraksha balon ne sabhi bandhakon ko surakshit chhudaya; ek hamlaawar mara gaya aur baaki giraftar hue.",
+      "category": "World",
+      "exam_angle": null,
+      "source": "Qatar Tribune",
+      "source_url": "https://www.qatar-tribune.com/article/266432/world/all-hostages-freed-after-16-hour-supermarket-siege-in-colombia",
+      "genuineness": "verified",
+      "outlets": [
+        "Qatar Tribune",
+        "Arab News",
+        "The Daily Star",
+        "Manila Times"
+      ],
+      "image": null,
+      "image_credit": null
+    },
+    {
+      "id": "world-20261127-0622-04",
+      "published_ist": "2026-11-26T12:00:00+05:30",
+      "headline": "Zelensky ki chetavni: Russia bada hamla karega",
+      "detail": "Ukraine ke rashtrapati Zelensky ne kaha Russia aane wale dinon me bada hamla karne ki taiyari kar raha hai; unhone logo se missile chetavni par dhyan dene ko kaha.",
+      "category": "World",
+      "exam_angle": "Russia-Ukraine yuddh — UPSC IR",
+      "source": "Reuters",
+      "source_url": "https://www.reuters.com/world/zelenskiy-says-russia-preparing-new-mass-strike-coming-days-2026-11-26/",
+      "genuineness": "verified",
+      "outlets": [
+        "Reuters",
+        "TRT World",
+        "Ukrinform",
+        "NDTV"
+      ],
+      "image": null,
+      "image_credit": null
+    },
+    {
+      "id": "world-20261127-0622-05",
+      "published_ist": "2026-11-26T12:00:00+05:30",
+      "headline": "ECB ke naye pramukh bane De Cos",
+      "detail": "Eurozone deshon ne Spain ke Pablo Hernandez de Cos ko European Central Bank ka agla pramukh chuna; woh February me Christine Lagarde ki jagah lenge aur pehle Spanish ECB pramukh honge.",
+      "category": "World",
+      "exam_angle": "ECB, eurozone, kendriya bank — arthvyavastha",
+      "source": "Reuters",
+      "source_url": "https://www.reuters.com/world/europe/euro-countries-pick-spains-de-cos-ecb-chief-costa-says-2026-11-26/",
+      "genuineness": "verified",
+      "outlets": [
+        "Reuters",
+        "Al Jazeera",
+        "WSJ",
+        "CNN"
+      ],
+      "image": null,
+      "image_credit": null
+    }
+  ]
+}
