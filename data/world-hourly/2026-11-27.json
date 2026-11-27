@@ -1,440 +1,515 @@
 {
- "date": "2026-11-27",
- "items": [
-  {
-   "id": "world-20261127-0622-01",
-   "published_ist": "2026-11-26T12:00:00+05:30",
-   "headline": "Kuwait me drone hamla, 2 Italian mare",
-   "detail": "Kuwait ke hawai raksha kendra par drone hamle me do Italian technician mare gaye aur do log ghayal hue; Kuwait aur Italy ne Iran ko zimmedar bataya, Iran ne inkar kiya.",
-   "category": "World",
-   "exam_angle": "Iran-Kuwait tanav, Hormuz sankat — UPSC IR",
-   "source": "Al Jazeera",
-   "source_url": "https://www.aljazeera.com/news/2026/11/26/two-italians-killed-after-iranian-drones-strike-facility-says-kuwait",
-   "genuineness": "verified",
-   "outlets": [
-    "Al Jazeera",
-    "CNN",
-    "WSJ",
-    "Channel News Asia"
-   ],
-   "image": null,
-   "image_credit": null
-  },
-  {
-   "id": "world-20261127-0622-02",
-   "published_ist": "2026-11-26T12:00:00+05:30",
-   "headline": "Ibiza ke paas tanker palta, 1 ki maut",
-   "detail": "Spain ke Ibiza ke paas diesel bhara Malta-flag tanker Med Emre palat gaya; 17 crew me se 1 ki maut hui, 6 ghayal; abhi tel risaav nahi mila, Spain ne pradushan-roktham yojana shuru ki.",
-   "category": "World",
-   "exam_angle": null,
-   "source": "Reuters",
-   "source_url": "https://www.reuters.com/business/energy/crew-member-dies-after-diesel-tanker-sinks-off-ibiza-spain-launches-pollution-2026-11-26/",
-   "genuineness": "verified",
-   "outlets": [
-    "Reuters",
-    "Arab News",
-    "Al Jazeera",
-    "Channel News Asia"
-   ],
-   "image": null,
-   "image_credit": null
-  },
-  {
-   "id": "world-20261127-0622-03",
-   "published_ist": "2026-11-26T12:00:00+05:30",
-   "headline": "Colombia supermarket bandhak sankat khatm, sab surakshit",
-   "detail": "Cartagena ke supermarket me 16 ghante ke bandhak sankat ke baad suraksha balon ne sabhi bandhakon ko surakshit chhudaya; ek hamlaawar mara gaya aur baaki giraftar hue.",
-   "category": "World",
-   "exam_angle": null,
-   "source": "Qatar Tribune",
-   "source_url": "https://www.qatar-tribune.com/article/266432/world/all-hostages-freed-after-16-hour-supermarket-siege-in-colombia",
-   "genuineness": "verified",
-   "outlets": [
-    "Qatar Tribune",
-    "Arab News",
-    "The Daily Star",
-    "Manila Times"
-   ],
-   "image": null,
-   "image_credit": null
-  },
-  {
-   "id": "world-20261127-0622-04",
-   "published_ist": "2026-11-26T12:00:00+05:30",
-   "headline": "Zelensky ki chetavni: Russia bada hamla karega",
-   "detail": "Ukraine ke rashtrapati Zelensky ne kaha Russia aane wale dinon me bada hamla karne ki taiyari kar raha hai; unhone logo se missile chetavni par dhyan dene ko kaha.",
-   "category": "World",
-   "exam_angle": "Russia-Ukraine yuddh — UPSC IR",
-   "source": "Reuters",
-   "source_url": "https://www.reuters.com/world/zelenskiy-says-russia-preparing-new-mass-strike-coming-days-2026-11-26/",
-   "genuineness": "verified",
-   "outlets": [
-    "Reuters",
-    "TRT World",
-    "Ukrinform",
-    "NDTV"
-   ],
-   "image": null,
-   "image_credit": null
-  },
-  {
-   "id": "world-20261127-0622-05",
-   "published_ist": "2026-11-26T12:00:00+05:30",
-   "headline": "ECB ke naye pramukh bane De Cos",
-   "detail": "Eurozone deshon ne Spain ke Pablo Hernandez de Cos ko European Central Bank ka agla pramukh chuna; woh February me Christine Lagarde ki jagah lenge aur pehle Spanish ECB pramukh honge.",
-   "category": "World",
-   "exam_angle": "ECB, eurozone, kendriya bank — arthvyavastha",
-   "source": "Reuters",
-   "source_url": "https://www.reuters.com/world/europe/euro-countries-pick-spains-de-cos-ecb-chief-costa-says-2026-11-26/",
-   "genuineness": "verified",
-   "outlets": [
-    "Reuters",
-    "Al Jazeera",
-    "WSJ",
-    "CNN"
-   ],
-   "image": null,
-   "image_credit": null
-  },
-  {
-   "id": "world-20261127-0722-01",
-   "published_ist": "2026-11-26T12:00:00+05:30",
-   "headline": "Trump ne Putin se hamle rokne ko kaha",
-   "detail": "America ke rashtrapati Trump ne kaha unhone China me Putin se Europe bhar me sainya hamle rokne ko kaha, taaki Russia-Ukraine samjhota jald ho sake; unhone yuddh ko 'complete bloodbath' bataya.",
-   "category": "World",
-   "exam_angle": "Russia-Ukraine yuddh, Trump-Putin vartalap — UPSC IR",
-   "source": "Reuters",
-   "source_url": "https://www.reuters.com/world/europe/trump-says-hed-like-see-putin-pull-back-military-aggression-europe-2026-11-26/",
-   "genuineness": "verified",
-   "outlets": [
-    "Reuters",
-    "USA Today",
-    "NY Post",
-    "The Straits Times",
-    "Channel News Asia",
-    "The Japan Times"
-   ],
-   "image": null,
-   "image_credit": null
-  },
-  {
-   "id": "world-20261127-0722-02",
-   "published_ist": "2026-11-25T12:00:00+05:30",
-   "headline": "Ramaphosa ko court se badi rahat mili",
-   "detail": "South Africa ki Western Cape High Court ne 2022 ki Phala Phala panel report ko gair-kanuni batakar radd kar diya; isse Ramaphosa ke khilaf mahabhiyog jaanch khatm ho gayi.",
-   "category": "World",
-   "exam_angle": "South Africa, Phala Phala, mahabhiyog — UPSC IR",
-   "source": "Al Jazeera",
-   "source_url": "https://www.aljazeera.com/news/2026/11/25/south-africa-court-repeals-farmgate-impeachment-threat-against-ramaphosa",
-   "genuineness": "verified",
-   "outlets": [
-    "Al Jazeera",
-    "The Hindu",
-    "BusinessDay",
-    "Daily Maverick",
-    "CGTN Africa"
-   ],
-   "image": null,
-   "image_credit": null
-  },
-  {
-   "id": "world-20261127-0722-03",
-   "published_ist": "2026-11-26T12:00:00+05:30",
-   "headline": "Kim ne tactical parmanu hathiyar badhane ko kaha",
-   "detail": "North Korea ke neta Kim Jong Un ne parmanu samagri utpadan badhane aur tactical parmanu hathiyaron ko kai kshetron me tainat karne ko kaha; unhone desh ki parmanu sthiti ko aparivartaniya bataya.",
-   "category": "World",
-   "exam_angle": "North Korea, parmanu hathiyar, KCNA — UPSC IR",
-   "source": "Al Jazeera",
-   "source_url": "https://www.aljazeera.com/news/2026/11/26/kim-jong-un-says-north-korea-should-widen-deployment-of-tactical-nukes",
-   "genuineness": "verified",
-   "outlets": [
-    "Al Jazeera",
-    "The Korea Times",
-    "CNN",
-    "The Jerusalem Post"
-   ],
-   "image": null,
-   "image_credit": null
-  },
-  {
-   "id": "world-20261127-0722-04",
-   "published_ist": "2026-11-24T12:00:00+05:30",
-   "headline": "Har ghante 5 mahilayein apno se mari",
-   "detail": "UN ki 2026 Femicide Brief ke mutabik 2025 me duniya bhar me lagbhag 47,000 mahilayein aur ladkiyan saathi ya parivar ke haathon mari gayin — har ghante lagbhag paanch; kul 78,000 me se 60% maamle ghar ke andar hue.",
-   "category": "World",
-   "exam_angle": "UN Women, UNODC, femicide — UPSC samaj",
-   "source": "UN News",
-   "source_url": "https://news.un.org/en/story/2026/11/1168863",
-   "genuineness": "verified",
-   "outlets": [
-    "UN News",
-    "Al Jazeera",
-    "Arab News",
-    "Dawn"
-   ],
-   "image": null,
-   "image_credit": null
-  },
-  {
-   "id": "world-20261126-1822-05",
-   "published_ist": "2026-11-25T17:30:00+05:30",
-   "headline": "America me toofan, 7 lakh ghar andhere me",
-   "detail": "Thanksgiving par America ke purvi hisse me toofan se 7.24 lakh se zyada gharon ki bijli chali gayi aur lagbhag 400 udanein radd hui; New York ki Macy's parade 100 saal me pehli baar sthagit hui. (Updated: bijli aur udaan ke aankde badhe)",
-   "category": "World",
-   "exam_angle": null,
-   "source": "NDTV",
-   "source_url": "https://www.ndtv.com/world-news/us-storm-disrupts-thanksgiving-cancels-400-flights-leaves-724-000-without-power-12382669",
-   "genuineness": "verified",
-   "outlets": [
-    "NDTV",
-    "WSJ",
-    "The Korea Times",
-    "CNN"
-   ],
-   "image": null,
-   "image_credit": null
-  },
-  {
-   "id": "world-20261127-0822-01",
-   "published_ist": "2026-11-26T12:00:00+05:30",
-   "headline": "North Korea ne Russia ko hathiyar dena roka",
-   "detail": "Ukraine ki khufia agency GUR ke mutabik Kim Jong Un ne Russia ko KN-23 missile aur golabarud dena roka, aur Russian sainya vimanon ke liye apna hawai kshetra band kar diya.",
-   "category": "World",
-   "exam_angle": "North Korea-Russia sainya sahyog, Ukraine yuddh",
-   "source": "Reuters",
-   "source_url": "https://www.reuters.com/business/aerospace-defense/ukraine-says-north-korea-temporarily-halted-missile-shipments-ally-russia-2026-11-26/",
-   "genuineness": "verified",
-   "outlets": [
-    "Reuters",
-    "The New Voice of Ukraine",
-    "Chosun Biz",
-    "Ukrainska Pravda",
-    "Interfax-Ukraine",
-    "Firstpost",
-    "Ukrinform"
-   ],
-   "image": null,
-   "image_credit": null
-  },
-  {
-   "id": "world-20261127-0822-02",
-   "published_ist": "2026-11-26T12:00:00+05:30",
-   "headline": "Nvidia ne 4 deshon ko server bhejna roka",
-   "detail": "America ke naye export control ke baad Nvidia ne Dell aur Supermicro se kaha Malaysia, Singapore, Thailand aur Indonesia ko AI server na bhejein, taaki China ko chip na mile.",
-   "category": "World",
-   "exam_angle": "America ke AI chip export control aur China ko chip se rokna",
-   "source": "Channel News Asia",
-   "source_url": "https://www.channelnewsasia.com/asia/nvidia-halts-chip-shipments-southeast-asia-6584351",
-   "genuineness": "verified",
-   "outlets": [
-    "Financial Times",
-    "Channel News Asia",
-    "The Straits Times",
-    "The Hindu",
-    "Barron's",
-    "The Times of India",
-    "Business Standard",
-    "Engadget"
-   ],
-   "image": null,
-   "image_credit": null
-  },
-  {
-   "id": "world-20261127-0822-03",
-   "published_ist": "2026-11-25T17:57:36+05:30",
-   "headline": "3.5 arab password aur record khule me mile",
-   "detail": "Do asurakshit database se 3.5 arab se zyada username, password aur vyaktigat record mile — ek me lagbhag 2 arab login credential, dusre me 84 crore se zyada Chinese ID number.",
-   "category": "World",
-   "exam_angle": "Cybersecurity: data leak, infostealer malware",
-   "source": "Malwarebytes",
-   "source_url": "https://www.malwarebytes.com/blog/data-breaches/2026/11/two-exposed-databases-held-over-3-5-billion-records",
-   "genuineness": "verified",
-   "outlets": [
-    "Malwarebytes",
-    "NDTV",
-    "Gadgets 360",
-    "IT Magazine",
-    "TechInformed",
-    "Engadget"
-   ],
-   "image": null,
-   "image_credit": null
-  },
-  {
-   "id": "world-20261127-0822-04",
-   "published_ist": "2026-11-25T12:00:00+05:30",
-   "headline": "Netanyahu Case 4000: judge ne hatane ko kaha",
-   "detail": "Israel ki adalat ne Netanyahu ke bhrashtachar mukadme ke sabse gambhir Case 4000 ko hatane ka sujhav diya, kaha dosh siddh hone ki sambhavna kam hai; Attorney General vichar karengi.",
-   "category": "World",
-   "exam_angle": null,
-   "source": "CNN",
-   "source_url": "https://www.cnn.com/2026/11/25/middleeast/netanyahu-corruption-charges-legal-boost-intl?cid=external-feeds_iluminar_meta",
-   "genuineness": "verified",
-   "outlets": [
-    "The Jerusalem Post",
-    "Globes",
-    "CNN",
-    "The Times of Israel",
-    "Al Jazeera"
-   ],
-   "image": null,
-   "image_credit": null
-  },
-  {
-   "id": "world-20261127-0922-01",
-   "published_ist": "2026-11-27T06:30:00+05:30",
-   "headline": "New Zealand me sarkar ka bahumat khatm",
-   "detail": "Antim chunav parinamo me PM Christopher Luxon ki gathbandhan sarkar 130 seaton wali sansad me 65 seat par atak gayi, ab Opportunity Party ke samarthan ke bina sarkar nahi banegi.",
-   "category": "World",
-   "exam_angle": "New Zealand chunav parinam aur gathbandhan sarkar",
-   "source": "Reuters",
-   "source_url": "https://www.reuters.com/world/asia-pacific/new-zealands-ruling-coalition-falls-just-short-majority-final-election-count-2026-11-27/",
-   "genuineness": "verified",
-   "outlets": [
-    "Reuters",
-    "RNZ",
-    "Nikkei Asia",
-    "The Hindu",
-    "Channel News Asia"
-   ],
-   "image": null,
-   "image_credit": null
-  },
-  {
-   "id": "world-20261127-0922-02",
-   "published_ist": "2026-11-26T12:00:00+05:30",
-   "headline": "Gaza me hamle, Hamas neta samet 10 mare",
-   "detail": "Guruvaar ko Israel ke hamlo me Gaza me kam se kam 10 log mare, jinme Hamas ke varishth neta Khaled Abu Nada bhi shaamil the; Hamas ne jawab dene ki chetavni di hai.",
-   "category": "World",
-   "exam_angle": "Israel-Palestine sangharsh aur Gaza yuddh-viram",
-   "source": "Dawn",
-   "source_url": "https://www.dawn.com/news/2047355/hamas-weighs-response-after-israel-kills-10-people-in-gaza",
-   "genuineness": "verified",
-   "outlets": [
-    "CNN",
-    "Dawn",
-    "Firstpost",
-    "Haaretz",
-    "Associated Press"
-   ],
-   "image": null,
-   "image_credit": null
-  },
-  {
-   "id": "world-20261127-0922-03",
-   "published_ist": "2026-11-26T12:00:00+05:30",
-   "headline": "Argentina ne note chhapna band kiya",
-   "detail": "Argentina ki Congress ne 141-0 se kanoon pass kar kendriya bank ko sarkar ke kharch ke liye note chhapne se rok diya; bank ka kaam ab sirf peso ki keemat bachana hoga.",
-   "category": "World",
-   "exam_angle": "Argentina ki arthvyavastha aur kendriya bank ki swatantrata",
-   "source": "Al Jazeera",
-   "source_url": "https://www.aljazeera.com/news/2026/11/27/argentina-bars-central-bank-from-printing-money-to-fund-government-spending",
-   "genuineness": "verified",
-   "outlets": [
-    "Associated Press",
-    "Al Jazeera",
-    "The Economic Times"
-   ],
-   "image": null,
-   "image_credit": null
-  },
-  {
-   "id": "world-20261127-0922-04",
-   "published_ist": "2026-11-25T12:00:00+05:30",
-   "headline": "Trump ka janm-nagrikta aadesh phir ruka",
-   "detail": "America ke dusre judge ne bhi Trump ke janm ke aadhar par nagrikta simit karne wale aadesh par rok laga di; ab dono faislon ko palte bina ye aadesh lagu nahi ho sakta.",
-   "category": "World",
-   "exam_angle": "America me janm-nagrikta aur nyaypalika ki bhoomika",
-   "source": "Arab News",
-   "source_url": "https://www.arabnews.com/world/trumps-newest-order-curtailing-birthright-citizenship-is-blocked-by-second-judge-3014069",
-   "genuineness": "verified",
-   "outlets": [
-    "Associated Press",
-    "Arab News",
-    "TRT World",
-    "Korea Herald"
-   ],
-   "image": null,
-   "image_credit": null
-  },
-  {
-   "id": "world-20261127-1022-01",
-   "published_ist": "2026-11-25T23:17:00+05:30",
-   "headline": "Ukraine ke laser ne Russian drone giraya",
-   "detail": "Ukraine ka daava hai ki uske Blysk laser hathiyar ne pehli baar ladai me Russia ka jet-powered Geran drone giraya; ye pranali ek mahatvapurna sthal ki raksha kar rahi thi.",
-   "category": "World",
-   "exam_angle": "Laser raksha pranali aur drone yuddh",
-   "source": "Kyiv Independent",
-   "source_url": "https://kyivindependent.com/ukrainian-combat-lasers-intercept-russian-jet-powered-drone-for-first-time/",
-   "genuineness": "verified",
-   "outlets": [
-    "Kyiv Independent",
-    "Ukrinform",
-    "Ukrainska Pravda",
-    "Hromadske",
-    "New York Post"
-   ],
-   "image": null,
-   "image_credit": null
-  },
-  {
-   "id": "world-20261127-1022-02",
-   "published_ist": "2026-11-25T12:00:00+05:30",
-   "headline": "Abrego Garcia America se Spain pahunche",
-   "detail": "Galat tareeke se El Salvador bhej diye gaye Kilmar Abrego Garcia ne America se khud Spain jaane ka faisla kiya aur budhvaar subah Madrid pahunche; unhone kaha is baar ve aazadi ke saath ja rahe hain.",
-   "category": "World",
-   "exam_angle": "America ki immigration neeti aur nirvasan vivad",
-   "source": "Al Jazeera",
-   "source_url": "https://www.aljazeera.com/news/2026/11/25/kilmar-abrego-garcia-wrongfully-deported-from-us-arrives-in-spain",
-   "genuineness": "verified",
-   "outlets": [
-    "Al Jazeera",
-    "CNN",
-    "The Wall Street Journal",
-    "USA Today",
-    "US Department of Homeland Security"
-   ],
-   "image": null,
-   "image_credit": null
-  },
-  {
-   "id": "world-20261127-1022-03",
-   "published_ist": "2026-11-25T12:00:00+05:30",
-   "headline": "Prince William ke ghar me chori, 2 giraftar",
-   "detail": "Sandringham estate par Prince William aur Princess Catherine ke Anmer Hall me ghuskar ghadi aur cufflinks churane ke aarop me do logo par case darj hua; us samay ghar me koi shahi sadasya maujood nahi tha.",
-   "category": "World",
-   "exam_angle": null,
-   "source": "CNN",
-   "source_url": "https://www.cnn.com/2026/11/24/uk/uk-royals-william-kate-country-home-intl?cid=external-feeds_iluminar_meta",
-   "genuineness": "verified",
-   "outlets": [
-    "CNN",
-    "Associated Press",
-    "The Straits Times",
-    "People",
-    "The New Indian Express"
-   ],
-   "image": null,
-   "image_credit": null
-  },
-  {
-   "id": "world-20261127-1022-04",
-   "published_ist": "2026-11-27T06:00:00+05:30",
-   "headline": "Ukraine ko 45 arab euro karz ka samarthan",
-   "detail": "EU shikhar sammelan me 24 sadasya deshon ne 2027 ke liye Ukraine ko 45 arab euro tak ke karz ke prastav ka samarthan kiya; antim faisla December me hoga.",
-   "category": "World",
-   "exam_angle": "EU aur Ukraine vittiya sahayata",
-   "source": "Agence Europe",
-   "source_url": "https://agenceurope.eu/en/bulletin/article/13991/3/24-eu-member-states-support-proposal-of-a-eur45-billion-loan-to-ukraine",
-   "genuineness": "verified",
-   "outlets": [
-    "Agence Europe",
-    "Al Jazeera",
-    "Poland Insight",
-    "Devdiscourse"
-   ],
-   "image": null,
-   "image_credit": null
-  }
- ]
+  "date": "2026-11-27",
+  "items": [
+    {
+      "id": "world-20261127-0622-01",
+      "published_ist": "2026-11-26T12:00:00+05:30",
+      "headline": "Kuwait me drone hamla, 2 Italian mare",
+      "detail": "Kuwait ke hawai raksha kendra par drone hamle me do Italian technician mare gaye aur do log ghayal hue; Kuwait aur Italy ne Iran ko zimmedar bataya, Iran ne inkar kiya.",
+      "category": "World",
+      "exam_angle": "Iran-Kuwait tanav, Hormuz sankat — UPSC IR",
+      "source": "Al Jazeera",
+      "source_url": "https://www.aljazeera.com/news/2026/11/26/two-italians-killed-after-iranian-drones-strike-facility-says-kuwait",
+      "genuineness": "verified",
+      "outlets": [
+        "Al Jazeera",
+        "CNN",
+        "WSJ",
+        "Channel News Asia"
+      ],
+      "image": null,
+      "image_credit": null
+    },
+    {
+      "id": "world-20261127-0622-02",
+      "published_ist": "2026-11-26T12:00:00+05:30",
+      "headline": "Ibiza ke paas tanker palta, 1 ki maut",
+      "detail": "Spain ke Ibiza ke paas diesel bhara Malta-flag tanker Med Emre palat gaya; 17 crew me se 1 ki maut hui, 6 ghayal; abhi tel risaav nahi mila, Spain ne pradushan-roktham yojana shuru ki.",
+      "category": "World",
+      "exam_angle": null,
+      "source": "Reuters",
+      "source_url": "https://www.reuters.com/business/energy/crew-member-dies-after-diesel-tanker-sinks-off-ibiza-spain-launches-pollution-2026-11-26/",
+      "genuineness": "verified",
+      "outlets": [
+        "Reuters",
+        "Arab News",
+        "Al Jazeera",
+        "Channel News Asia"
+      ],
+      "image": null,
+      "image_credit": null
+    },
+    {
+      "id": "world-20261127-0622-03",
+      "published_ist": "2026-11-26T12:00:00+05:30",
+      "headline": "Colombia supermarket bandhak sankat khatm, sab surakshit",
+      "detail": "Cartagena ke supermarket me 16 ghante ke bandhak sankat ke baad suraksha balon ne sabhi bandhakon ko surakshit chhudaya; ek hamlaawar mara gaya aur baaki giraftar hue.",
+      "category": "World",
+      "exam_angle": null,
+      "source": "Qatar Tribune",
+      "source_url": "https://www.qatar-tribune.com/article/266432/world/all-hostages-freed-after-16-hour-supermarket-siege-in-colombia",
+      "genuineness": "verified",
+      "outlets": [
+        "Qatar Tribune",
+        "Arab News",
+        "The Daily Star",
+        "Manila Times"
+      ],
+      "image": null,
+      "image_credit": null
+    },
+    {
+      "id": "world-20261127-0622-04",
+      "published_ist": "2026-11-26T12:00:00+05:30",
+      "headline": "Zelensky ki chetavni: Russia bada hamla karega",
+      "detail": "Ukraine ke rashtrapati Zelensky ne kaha Russia aane wale dinon me bada hamla karne ki taiyari kar raha hai; unhone logo se missile chetavni par dhyan dene ko kaha.",
+      "category": "World",
+      "exam_angle": "Russia-Ukraine yuddh — UPSC IR",
+      "source": "Reuters",
+      "source_url": "https://www.reuters.com/world/zelenskiy-says-russia-preparing-new-mass-strike-coming-days-2026-11-26/",
+      "genuineness": "verified",
+      "outlets": [
+        "Reuters",
+        "TRT World",
+        "Ukrinform",
+        "NDTV"
+      ],
+      "image": null,
+      "image_credit": null
+    },
+    {
+      "id": "world-20261127-0622-05",
+      "published_ist": "2026-11-26T12:00:00+05:30",
+      "headline": "ECB ke naye pramukh bane De Cos",
+      "detail": "Eurozone deshon ne Spain ke Pablo Hernandez de Cos ko European Central Bank ka agla pramukh chuna; woh February me Christine Lagarde ki jagah lenge aur pehle Spanish ECB pramukh honge.",
+      "category": "World",
+      "exam_angle": "ECB, eurozone, kendriya bank — arthvyavastha",
+      "source": "Reuters",
+      "source_url": "https://www.reuters.com/world/europe/euro-countries-pick-spains-de-cos-ecb-chief-costa-says-2026-11-26/",
+      "genuineness": "verified",
+      "outlets": [
+        "Reuters",
+        "Al Jazeera",
+        "WSJ",
+        "CNN"
+      ],
+      "image": null,
+      "image_credit": null
+    },
+    {
+      "id": "world-20261127-0722-01",
+      "published_ist": "2026-11-26T12:00:00+05:30",
+      "headline": "Trump ne Putin se hamle rokne ko kaha",
+      "detail": "America ke rashtrapati Trump ne kaha unhone China me Putin se Europe bhar me sainya hamle rokne ko kaha, taaki Russia-Ukraine samjhota jald ho sake; unhone yuddh ko 'complete bloodbath' bataya.",
+      "category": "World",
+      "exam_angle": "Russia-Ukraine yuddh, Trump-Putin vartalap — UPSC IR",
+      "source": "Reuters",
+      "source_url": "https://www.reuters.com/world/europe/trump-says-hed-like-see-putin-pull-back-military-aggression-europe-2026-11-26/",
+      "genuineness": "verified",
+      "outlets": [
+        "Reuters",
+        "USA Today",
+        "NY Post",
+        "The Straits Times",
+        "Channel News Asia",
+        "The Japan Times"
+      ],
+      "image": null,
+      "image_credit": null
+    },
+    {
+      "id": "world-20261127-0722-02",
+      "published_ist": "2026-11-25T12:00:00+05:30",
+      "headline": "Ramaphosa ko court se badi rahat mili",
+      "detail": "South Africa ki Western Cape High Court ne 2022 ki Phala Phala panel report ko gair-kanuni batakar radd kar diya; isse Ramaphosa ke khilaf mahabhiyog jaanch khatm ho gayi.",
+      "category": "World",
+      "exam_angle": "South Africa, Phala Phala, mahabhiyog — UPSC IR",
+      "source": "Al Jazeera",
+      "source_url": "https://www.aljazeera.com/news/2026/11/25/south-africa-court-repeals-farmgate-impeachment-threat-against-ramaphosa",
+      "genuineness": "verified",
+      "outlets": [
+        "Al Jazeera",
+        "The Hindu",
+        "BusinessDay",
+        "Daily Maverick",
+        "CGTN Africa"
+      ],
+      "image": null,
+      "image_credit": null
+    },
+    {
+      "id": "world-20261127-0722-03",
+      "published_ist": "2026-11-26T12:00:00+05:30",
+      "headline": "Kim ne tactical parmanu hathiyar badhane ko kaha",
+      "detail": "North Korea ke neta Kim Jong Un ne parmanu samagri utpadan badhane aur tactical parmanu hathiyaron ko kai kshetron me tainat karne ko kaha; unhone desh ki parmanu sthiti ko aparivartaniya bataya.",
+      "category": "World",
+      "exam_angle": "North Korea, parmanu hathiyar, KCNA — UPSC IR",
+      "source": "Al Jazeera",
+      "source_url": "https://www.aljazeera.com/news/2026/11/26/kim-jong-un-says-north-korea-should-widen-deployment-of-tactical-nukes",
+      "genuineness": "verified",
+      "outlets": [
+        "Al Jazeera",
+        "The Korea Times",
+        "CNN",
+        "The Jerusalem Post"
+      ],
+      "image": null,
+      "image_credit": null
+    },
+    {
+      "id": "world-20261127-0722-04",
+      "published_ist": "2026-11-24T12:00:00+05:30",
+      "headline": "Har ghante 5 mahilayein apno se mari",
+      "detail": "UN ki 2026 Femicide Brief ke mutabik 2025 me duniya bhar me lagbhag 47,000 mahilayein aur ladkiyan saathi ya parivar ke haathon mari gayin — har ghante lagbhag paanch; kul 78,000 me se 60% maamle ghar ke andar hue.",
+      "category": "World",
+      "exam_angle": "UN Women, UNODC, femicide — UPSC samaj",
+      "source": "UN News",
+      "source_url": "https://news.un.org/en/story/2026/11/1168863",
+      "genuineness": "verified",
+      "outlets": [
+        "UN News",
+        "Al Jazeera",
+        "Arab News",
+        "Dawn"
+      ],
+      "image": null,
+      "image_credit": null
+    },
+    {
+      "id": "world-20261126-1822-05",
+      "published_ist": "2026-11-25T17:30:00+05:30",
+      "headline": "America me toofan, 7 lakh ghar andhere me",
+      "detail": "Thanksgiving par America ke purvi hisse me toofan se 7.24 lakh se zyada gharon ki bijli chali gayi aur lagbhag 400 udanein radd hui; New York ki Macy's parade 100 saal me pehli baar sthagit hui. (Updated: bijli aur udaan ke aankde badhe)",
+      "category": "World",
+      "exam_angle": null,
+      "source": "NDTV",
+      "source_url": "https://www.ndtv.com/world-news/us-storm-disrupts-thanksgiving-cancels-400-flights-leaves-724-000-without-power-12382669",
+      "genuineness": "verified",
+      "outlets": [
+        "NDTV",
+        "WSJ",
+        "The Korea Times",
+        "CNN"
+      ],
+      "image": null,
+      "image_credit": null
+    },
+    {
+      "id": "world-20261127-0822-01",
+      "published_ist": "2026-11-26T12:00:00+05:30",
+      "headline": "North Korea ne Russia ko hathiyar dena roka",
+      "detail": "Ukraine ki khufia agency GUR ke mutabik Kim Jong Un ne Russia ko KN-23 missile aur golabarud dena roka, aur Russian sainya vimanon ke liye apna hawai kshetra band kar diya.",
+      "category": "World",
+      "exam_angle": "North Korea-Russia sainya sahyog, Ukraine yuddh",
+      "source": "Reuters",
+      "source_url": "https://www.reuters.com/business/aerospace-defense/ukraine-says-north-korea-temporarily-halted-missile-shipments-ally-russia-2026-11-26/",
+      "genuineness": "verified",
+      "outlets": [
+        "Reuters",
+        "The New Voice of Ukraine",
+        "Chosun Biz",
+        "Ukrainska Pravda",
+        "Interfax-Ukraine",
+        "Firstpost",
+        "Ukrinform"
+      ],
+      "image": null,
+      "image_credit": null
+    },
+    {
+      "id": "world-20261127-0822-02",
+      "published_ist": "2026-11-26T12:00:00+05:30",
+      "headline": "Nvidia ne 4 deshon ko server bhejna roka",
+      "detail": "America ke naye export control ke baad Nvidia ne Dell aur Supermicro se kaha Malaysia, Singapore, Thailand aur Indonesia ko AI server na bhejein, taaki China ko chip na mile.",
+      "category": "World",
+      "exam_angle": "America ke AI chip export control aur China ko chip se rokna",
+      "source": "Channel News Asia",
+      "source_url": "https://www.channelnewsasia.com/asia/nvidia-halts-chip-shipments-southeast-asia-6584351",
+      "genuineness": "verified",
+      "outlets": [
+        "Financial Times",
+        "Channel News Asia",
+        "The Straits Times",
+        "The Hindu",
+        "Barron's",
+        "The Times of India",
+        "Business Standard",
+        "Engadget"
+      ],
+      "image": null,
+      "image_credit": null
+    },
+    {
+      "id": "world-20261127-0822-03",
+      "published_ist": "2026-11-25T17:57:36+05:30",
+      "headline": "3.5 arab password aur record khule me mile",
+      "detail": "Do asurakshit database se 3.5 arab se zyada username, password aur vyaktigat record mile — ek me lagbhag 2 arab login credential, dusre me 84 crore se zyada Chinese ID number.",
+      "category": "World",
+      "exam_angle": "Cybersecurity: data leak, infostealer malware",
+      "source": "Malwarebytes",
+      "source_url": "https://www.malwarebytes.com/blog/data-breaches/2026/11/two-exposed-databases-held-over-3-5-billion-records",
+      "genuineness": "verified",
+      "outlets": [
+        "Malwarebytes",
+        "NDTV",
+        "Gadgets 360",
+        "IT Magazine",
+        "TechInformed",
+        "Engadget"
+      ],
+      "image": null,
+      "image_credit": null
+    },
+    {
+      "id": "world-20261127-0822-04",
+      "published_ist": "2026-11-25T12:00:00+05:30",
+      "headline": "Netanyahu Case 4000: judge ne hatane ko kaha",
+      "detail": "Israel ki adalat ne Netanyahu ke bhrashtachar mukadme ke sabse gambhir Case 4000 ko hatane ka sujhav diya, kaha dosh siddh hone ki sambhavna kam hai; Attorney General vichar karengi.",
+      "category": "World",
+      "exam_angle": null,
+      "source": "CNN",
+      "source_url": "https://www.cnn.com/2026/11/25/middleeast/netanyahu-corruption-charges-legal-boost-intl?cid=external-feeds_iluminar_meta",
+      "genuineness": "verified",
+      "outlets": [
+        "The Jerusalem Post",
+        "Globes",
+        "CNN",
+        "The Times of Israel",
+        "Al Jazeera"
+      ],
+      "image": null,
+      "image_credit": null
+    },
+    {
+      "id": "world-20261127-0922-01",
+      "published_ist": "2026-11-27T06:30:00+05:30",
+      "headline": "New Zealand me sarkar ka bahumat khatm",
+      "detail": "Antim chunav parinamo me PM Christopher Luxon ki gathbandhan sarkar 130 seaton wali sansad me 65 seat par atak gayi, ab Opportunity Party ke samarthan ke bina sarkar nahi banegi.",
+      "category": "World",
+      "exam_angle": "New Zealand chunav parinam aur gathbandhan sarkar",
+      "source": "Reuters",
+      "source_url": "https://www.reuters.com/world/asia-pacific/new-zealands-ruling-coalition-falls-just-short-majority-final-election-count-2026-11-27/",
+      "genuineness": "verified",
+      "outlets": [
+        "Reuters",
+        "RNZ",
+        "Nikkei Asia",
+        "The Hindu",
+        "Channel News Asia"
+      ],
+      "image": null,
+      "image_credit": null
+    },
+    {
+      "id": "world-20261127-0922-02",
+      "published_ist": "2026-11-26T12:00:00+05:30",
+      "headline": "Gaza me hamle, Hamas neta samet 10 mare",
+      "detail": "Guruvaar ko Israel ke hamlo me Gaza me kam se kam 10 log mare, jinme Hamas ke varishth neta Khaled Abu Nada bhi shaamil the; Hamas ne jawab dene ki chetavni di hai.",
+      "category": "World",
+      "exam_angle": "Israel-Palestine sangharsh aur Gaza yuddh-viram",
+      "source": "Dawn",
+      "source_url": "https://www.dawn.com/news/2047355/hamas-weighs-response-after-israel-kills-10-people-in-gaza",
+      "genuineness": "verified",
+      "outlets": [
+        "CNN",
+        "Dawn",
+        "Firstpost",
+        "Haaretz",
+        "Associated Press"
+      ],
+      "image": null,
+      "image_credit": null
+    },
+    {
+      "id": "world-20261127-0922-03",
+      "published_ist": "2026-11-26T12:00:00+05:30",
+      "headline": "Argentina ne note chhapna band kiya",
+      "detail": "Argentina ki Congress ne 141-0 se kanoon pass kar kendriya bank ko sarkar ke kharch ke liye note chhapne se rok diya; bank ka kaam ab sirf peso ki keemat bachana hoga.",
+      "category": "World",
+      "exam_angle": "Argentina ki arthvyavastha aur kendriya bank ki swatantrata",
+      "source": "Al Jazeera",
+      "source_url": "https://www.aljazeera.com/news/2026/11/27/argentina-bars-central-bank-from-printing-money-to-fund-government-spending",
+      "genuineness": "verified",
+      "outlets": [
+        "Associated Press",
+        "Al Jazeera",
+        "The Economic Times"
+      ],
+      "image": null,
+      "image_credit": null
+    },
+    {
+      "id": "world-20261127-0922-04",
+      "published_ist": "2026-11-25T12:00:00+05:30",
+      "headline": "Trump ka janm-nagrikta aadesh phir ruka",
+      "detail": "America ke dusre judge ne bhi Trump ke janm ke aadhar par nagrikta simit karne wale aadesh par rok laga di; ab dono faislon ko palte bina ye aadesh lagu nahi ho sakta.",
+      "category": "World",
+      "exam_angle": "America me janm-nagrikta aur nyaypalika ki bhoomika",
+      "source": "Arab News",
+      "source_url": "https://www.arabnews.com/world/trumps-newest-order-curtailing-birthright-citizenship-is-blocked-by-second-judge-3014069",
+      "genuineness": "verified",
+      "outlets": [
+        "Associated Press",
+        "Arab News",
+        "TRT World",
+        "Korea Herald"
+      ],
+      "image": null,
+      "image_credit": null
+    },
+    {
+      "id": "world-20261127-1022-01",
+      "published_ist": "2026-11-25T23:17:00+05:30",
+      "headline": "Ukraine ke laser ne Russian drone giraya",
+      "detail": "Ukraine ka daava hai ki uske Blysk laser hathiyar ne pehli baar ladai me Russia ka jet-powered Geran drone giraya; ye pranali ek mahatvapurna sthal ki raksha kar rahi thi.",
+      "category": "World",
+      "exam_angle": "Laser raksha pranali aur drone yuddh",
+      "source": "Kyiv Independent",
+      "source_url": "https://kyivindependent.com/ukrainian-combat-lasers-intercept-russian-jet-powered-drone-for-first-time/",
+      "genuineness": "verified",
+      "outlets": [
+        "Kyiv Independent",
+        "Ukrinform",
+        "Ukrainska Pravda",
+        "Hromadske",
+        "New York Post"
+      ],
+      "image": null,
+      "image_credit": null
+    },
+    {
+      "id": "world-20261127-1022-02",
+      "published_ist": "2026-11-25T12:00:00+05:30",
+      "headline": "Abrego Garcia America se Spain pahunche",
+      "detail": "Galat tareeke se El Salvador bhej diye gaye Kilmar Abrego Garcia ne America se khud Spain jaane ka faisla kiya aur budhvaar subah Madrid pahunche; unhone kaha is baar ve aazadi ke saath ja rahe hain.",
+      "category": "World",
+      "exam_angle": "America ki immigration neeti aur nirvasan vivad",
+      "source": "Al Jazeera",
+      "source_url": "https://www.aljazeera.com/news/2026/11/25/kilmar-abrego-garcia-wrongfully-deported-from-us-arrives-in-spain",
+      "genuineness": "verified",
+      "outlets": [
+        "Al Jazeera",
+        "CNN",
+        "The Wall Street Journal",
+        "USA Today",
+        "US Department of Homeland Security"
+      ],
+      "image": null,
+      "image_credit": null
+    },
+    {
+      "id": "world-20261127-1022-03",
+      "published_ist": "2026-11-25T12:00:00+05:30",
+      "headline": "Prince William ke ghar me chori, 2 giraftar",
+      "detail": "Sandringham estate par Prince William aur Princess Catherine ke Anmer Hall me ghuskar ghadi aur cufflinks churane ke aarop me do logo par case darj hua; us samay ghar me koi shahi sadasya maujood nahi tha.",
+      "category": "World",
+      "exam_angle": null,
+      "source": "CNN",
+      "source_url": "https://www.cnn.com/2026/11/24/uk/uk-royals-william-kate-country-home-intl?cid=external-feeds_iluminar_meta",
+      "genuineness": "verified",
+      "outlets": [
+        "CNN",
+        "Associated Press",
+        "The Straits Times",
+        "People",
+        "The New Indian Express"
+      ],
+      "image": null,
+      "image_credit": null
+    },
+    {
+      "id": "world-20261127-1022-04",
+      "published_ist": "2026-11-27T06:00:00+05:30",
+      "headline": "Ukraine ko 45 arab euro karz ka samarthan",
+      "detail": "EU shikhar sammelan me 24 sadasya deshon ne 2027 ke liye Ukraine ko 45 arab euro tak ke karz ke prastav ka samarthan kiya; antim faisla December me hoga.",
+      "category": "World",
+      "exam_angle": "EU aur Ukraine vittiya sahayata",
+      "source": "Agence Europe",
+      "source_url": "https://agenceurope.eu/en/bulletin/article/13991/3/24-eu-member-states-support-proposal-of-a-eur45-billion-loan-to-ukraine",
+      "genuineness": "verified",
+      "outlets": [
+        "Agence Europe",
+        "Al Jazeera",
+        "Poland Insight",
+        "Devdiscourse"
+      ],
+      "image": null,
+      "image_credit": null
+    },
+    {
+      "id": "world-20261127-1122-01",
+      "published_ist": "2026-11-26T12:00:00+05:30",
+      "headline": "Britain ne 1 lakh reservist ko taiyar kiya",
+      "detail": "Britain ke raksha mantralaya ne Sheet Yuddh ke baad pehli baar lagbhag 1 lakh poorv sainikon ko patra likhkar yuddh ki sthiti me wapas bulaye jaane ki taiyari karne ko kaha; ye kadam Russia ke badhte khatre ke beech uthaya gaya hai.",
+      "category": "World",
+      "exam_angle": "Britain, NATO, Russia khatra — UPSC IR",
+      "source": "The Jerusalem Post",
+      "source_url": "https://www.jpost.com/international/article-916193",
+      "genuineness": "verified",
+      "outlets": [
+        "The Telegraph",
+        "The Times",
+        "The Jerusalem Post",
+        "Hromadske",
+        "The Straits Times"
+      ],
+      "image": null,
+      "image_credit": null
+    },
+    {
+      "id": "world-20261127-1122-02",
+      "published_ist": "2026-11-26T12:00:00+05:30",
+      "headline": "Eisenkot ko sarkar ke liye dusra samjhota",
+      "detail": "Israel me Gadi Eisenkot ki Yashar party ne vaam-panthi Democrats se gathbandhan samjhota kiya; do samjhauton ke baad bhi unke gut ke paas 120 me se sirf 36 seat hain, bahumat ke liye 61 chahiye.",
+      "category": "World",
+      "exam_angle": "Israel sarkar gathan, Knesset — UPSC IR",
+      "source": "The Times of India",
+      "source_url": "https://timesofindia.indiatimes.com/world/middle-east/israel-govt-formation-eisenkot-moves-to-replace-netanyahu-strikes-two-key-coalition-deals/articleshow/136207427.cms",
+      "genuineness": "verified",
+      "outlets": [
+        "The Times of India",
+        "Azat TV",
+        "Daily Sabah"
+      ],
+      "image": null,
+      "image_credit": null
+    },
+    {
+      "id": "world-20261127-1122-03",
+      "published_ist": "2026-11-26T12:00:00+05:30",
+      "headline": "Trump: Huang koi suraksha khatra nahi",
+      "detail": "America ke rashtrapati Trump ne kaha Nvidia ke CEO Jensen Huang koi suraksha khatra nahi hain; unhone khud Nvidia board se Huang ko CEO pad par wapas lane ko kaha tha.",
+      "category": "World",
+      "exam_angle": "America, AI chip, Nvidia — arthvyavastha",
+      "source": "Business Today",
+      "source_url": "https://www.businesstoday.in/technology/news/story/i-think-hes-absolutely-fine-trump-backs-jensen-huangs-nvidia-comeback-heres-why-569791-2026-11-27",
+      "genuineness": "verified",
+      "outlets": [
+        "Business Today",
+        "The Wall Street Journal",
+        "The Daily Star"
+      ],
+      "image": null,
+      "image_credit": null
+    },
+    {
+      "id": "world-20261126-1822-05",
+      "published_ist": "2026-11-25T17:30:00+05:30",
+      "headline": "America me toofan, 7 lakh ghar andhere me",
+      "detail": "Thanksgiving par America ke purvi hisse me toofan se 9 lakh se zyada gharon ki bijli chali gayi aur lagbhag 400 udanein radd hui; New York ki Macy's parade 100 saal me pehli baar sthagit hokar shanivaar tak tali. (Updated: bijli ka aankda 9 lakh se zyada hua)",
+      "category": "World",
+      "exam_angle": null,
+      "source": "NDTV",
+      "source_url": "https://www.ndtv.com/world-news/us-storm-disrupts-thanksgiving-cancels-400-flights-leaves-724-000-without-power-12382669",
+      "genuineness": "verified",
+      "outlets": [
+        "NDTV",
+        "WSJ",
+        "The Korea Times",
+        "CNN"
+      ],
+      "image": null,
+      "image_credit": null
+    }
+  ]
 }
