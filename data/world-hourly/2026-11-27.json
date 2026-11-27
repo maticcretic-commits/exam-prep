@@ -1235,6 +1235,45 @@
    ],
    "image": null,
    "image_credit": null
+  },
+  {
+   "id": "world-20261127-2222-01",
+   "published_ist": "2026-11-27T12:00:00+05:30",
+   "headline": "Shanghai data centre me Nvidia Blackwell chips",
+   "detail": "Bloomberg ki report ke mutabik Shanghai ke Yangtze River Delta data centre me Nvidia ke Blackwell chips mile, jinhe bina US licence ke China bhejna mana hai; America ne Megaspeed ko pehle hi blacklist kiya tha.",
+   "category": "World",
+   "exam_angle": "Nvidia Blackwell, US chip export controls, China — UPSC IR/Economy",
+   "source": "The Economic Times",
+   "source_url": "https://economictimes.indiatimes.com/news/international/business/nvidia-blackwell-chips-turn-up-at-china-site-tied-to-alice-huang/articleshow/136221540.cms",
+   "genuineness": "verified",
+   "outlets": [
+    "Bloomberg",
+    "The Economic Times",
+    "Gizmodo",
+    "TechSpot",
+    "Business Today",
+    "WION"
+   ],
+   "image": null,
+   "image_credit": null
+  },
+  {
+   "id": "world-20261127-2222-02",
+   "published_ist": "2026-11-27T12:00:00+05:30",
+   "headline": "Black Friday par Lloyds Bank app band",
+   "detail": "Black Friday ki subah Lloyds Bank aur Bank of Scotland ki app aur online banking band rahi; hazaaron customers login nahi kar paye, bank ne takniki kharabi ki baat mani.",
+   "category": "World",
+   "exam_angle": null,
+   "source": "Clacton and Frinton Gazette",
+   "source_url": "https://www.clactonandfrintongazette.co.uk/news/26768758.lloyds-customers-unable-access-app-due-technical-issue/?ref=rss",
+   "genuineness": "corroborated",
+   "outlets": [
+    "Daily Mail",
+    "Clacton and Frinton Gazette",
+    "Downdetector"
+   ],
+   "image": null,
+   "image_credit": null
   }
  ]
 }
