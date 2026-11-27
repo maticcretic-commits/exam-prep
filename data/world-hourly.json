@@ -1,6 +1,45 @@
 {
- "updated_ist": "2026-11-27T21:22:00+05:30",
+ "updated_ist": "2026-11-27T22:24:11+05:30",
  "items": [
+  {
+   "id": "world-20261127-2222-01",
+   "published_ist": "2026-11-27T12:00:00+05:30",
+   "headline": "Shanghai data centre me Nvidia Blackwell chips",
+   "detail": "Bloomberg ki report ke mutabik Shanghai ke Yangtze River Delta data centre me Nvidia ke Blackwell chips mile, jinhe bina US licence ke China bhejna mana hai; America ne Megaspeed ko pehle hi blacklist kiya tha.",
+   "category": "World",
+   "exam_angle": "Nvidia Blackwell, US chip export controls, China — UPSC IR/Economy",
+   "source": "The Economic Times",
+   "source_url": "https://economictimes.indiatimes.com/news/international/business/nvidia-blackwell-chips-turn-up-at-china-site-tied-to-alice-huang/articleshow/136221540.cms",
+   "genuineness": "verified",
+   "outlets": [
+    "Bloomberg",
+    "The Economic Times",
+    "Gizmodo",
+    "TechSpot",
+    "Business Today",
+    "WION"
+   ],
+   "image": null,
+   "image_credit": null
+  },
+  {
+   "id": "world-20261127-2222-02",
+   "published_ist": "2026-11-27T12:00:00+05:30",
+   "headline": "Black Friday par Lloyds Bank app band",
+   "detail": "Black Friday ki subah Lloyds Bank aur Bank of Scotland ki app aur online banking band rahi; hazaaron customers login nahi kar paye, bank ne takniki kharabi ki baat mani.",
+   "category": "World",
+   "exam_angle": null,
+   "source": "Clacton and Frinton Gazette",
+   "source_url": "https://www.clactonandfrintongazette.co.uk/news/26768758.lloyds-customers-unable-access-app-due-technical-issue/?ref=rss",
+   "genuineness": "corroborated",
+   "outlets": [
+    "Daily Mail",
+    "Clacton and Frinton Gazette",
+    "Downdetector"
+   ],
+   "image": null,
+   "image_credit": null
+  },
   {
    "id": "world-20261127-2122-01",
    "published_ist": "2026-11-26T12:00:00+05:30",
@@ -411,44 +450,6 @@
     "The Wall Street Journal",
     "Channel News Asia",
     "USA Today"
-   ],
-   "image": null,
-   "image_credit": null
-  },
-  {
-   "id": "world-20261127-1622-04",
-   "published_ist": "2026-11-26T12:00:00+05:30",
-   "headline": "De Cos banenge ECB ke naye pramukh",
-   "detail": "Eurozone ke netaon ne Spain ke Pablo Hernandez de Cos ko ECB ka agla pramukh chuna; woh February me Christine Lagarde ki jagah lenge.",
-   "category": "World",
-   "exam_angle": "ECB, Eurozone — UPSC economy",
-   "source": "Reuters",
-   "source_url": "https://www.reuters.com/world/europe/euro-countries-pick-spains-de-cos-ecb-chief-costa-says-2026-11-26/",
-   "genuineness": "verified",
-   "outlets": [
-    "Reuters",
-    "The Wall Street Journal",
-    "CNN",
-    "Le Monde"
-   ],
-   "image": null,
-   "image_credit": null
-  },
-  {
-   "id": "world-20261127-1622-05",
-   "published_ist": "2026-11-26T12:00:00+05:30",
-   "headline": "Congo me Ebola: 12,000 case, 5,904 maut",
-   "detail": "Congo me Ebola ke mamle 12,021 ho gaye aur 5,904 mautein hui; purvi hisse me ladai ke karan madad pahunchana mushkil ho raha hai.",
-   "category": "World",
-   "exam_angle": "Congo, Ebola — UPSC health",
-   "source": "Al Jazeera",
-   "source_url": "https://www.aljazeera.com/news/2026/11/26/dr-congo-ebola-cases-surpass-12000-as-fighting-disrupts-response-in-east?traffic_source=rss",
-   "genuineness": "verified",
-   "outlets": [
-    "Al Jazeera",
-    "Reuters",
-    "Associated Press",
-    "UN News"
    ],
    "image": null,
    "image_credit": null
