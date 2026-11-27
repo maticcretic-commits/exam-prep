@@ -1,940 +1,1032 @@
 {
-  "date": "2026-11-27",
-  "items": [
-    {
-      "id": "world-20261127-0622-01",
-      "published_ist": "2026-11-26T12:00:00+05:30",
-      "headline": "Kuwait me drone hamla, 2 Italian mare",
-      "detail": "Kuwait ke hawai raksha kendra par drone hamle me do Italian technician mare gaye aur do log ghayal hue; Kuwait aur Italy ne Iran ko zimmedar bataya, Iran ne inkar kiya.",
-      "category": "World",
-      "exam_angle": "Iran-Kuwait tanav, Hormuz sankat — UPSC IR",
-      "source": "Al Jazeera",
-      "source_url": "https://www.aljazeera.com/news/2026/11/26/two-italians-killed-after-iranian-drones-strike-facility-says-kuwait",
-      "genuineness": "verified",
-      "outlets": [
-        "Al Jazeera",
-        "CNN",
-        "WSJ",
-        "Channel News Asia"
-      ],
-      "image": null,
-      "image_credit": null
-    },
-    {
-      "id": "world-20261127-0622-02",
-      "published_ist": "2026-11-26T12:00:00+05:30",
-      "headline": "Ibiza ke paas tanker palta, 1 ki maut",
-      "detail": "Spain ke Ibiza ke paas diesel bhara Malta-flag tanker Med Emre palat gaya; 17 crew me se 1 ki maut hui, 6 ghayal; abhi tel risaav nahi mila, Spain ne pradushan-roktham yojana shuru ki.",
-      "category": "World",
-      "exam_angle": null,
-      "source": "Reuters",
-      "source_url": "https://www.reuters.com/business/energy/crew-member-dies-after-diesel-tanker-sinks-off-ibiza-spain-launches-pollution-2026-11-26/",
-      "genuineness": "verified",
-      "outlets": [
-        "Reuters",
-        "Arab News",
-        "Al Jazeera",
-        "Channel News Asia"
-      ],
-      "image": null,
-      "image_credit": null
-    },
-    {
-      "id": "world-20261127-0622-03",
-      "published_ist": "2026-11-26T12:00:00+05:30",
-      "headline": "Colombia supermarket bandhak sankat khatm, sab surakshit",
-      "detail": "Cartagena ke supermarket me 16 ghante ke bandhak sankat ke baad suraksha balon ne sabhi bandhakon ko surakshit chhudaya; ek hamlaawar mara gaya aur baaki giraftar hue.",
-      "category": "World",
-      "exam_angle": null,
-      "source": "Qatar Tribune",
-      "source_url": "https://www.qatar-tribune.com/article/266432/world/all-hostages-freed-after-16-hour-supermarket-siege-in-colombia",
-      "genuineness": "verified",
-      "outlets": [
-        "Qatar Tribune",
-        "Arab News",
-        "The Daily Star",
-        "Manila Times"
-      ],
-      "image": null,
-      "image_credit": null
-    },
-    {
-      "id": "world-20261127-0622-04",
-      "published_ist": "2026-11-26T12:00:00+05:30",
-      "headline": "Zelensky ki chetavni: Russia bada hamla karega",
-      "detail": "Ukraine ke rashtrapati Zelensky ne kaha Russia aane wale dinon me bada hamla karne ki taiyari kar raha hai; unhone logo se missile chetavni par dhyan dene ko kaha.",
-      "category": "World",
-      "exam_angle": "Russia-Ukraine yuddh — UPSC IR",
-      "source": "Reuters",
-      "source_url": "https://www.reuters.com/world/zelenskiy-says-russia-preparing-new-mass-strike-coming-days-2026-11-26/",
-      "genuineness": "verified",
-      "outlets": [
-        "Reuters",
-        "TRT World",
-        "Ukrinform",
-        "NDTV"
-      ],
-      "image": null,
-      "image_credit": null
-    },
-    {
-      "id": "world-20261127-0622-05",
-      "published_ist": "2026-11-26T12:00:00+05:30",
-      "headline": "ECB ke naye pramukh bane De Cos",
-      "detail": "Eurozone deshon ne Spain ke Pablo Hernandez de Cos ko European Central Bank ka agla pramukh chuna; woh February me Christine Lagarde ki jagah lenge aur pehle Spanish ECB pramukh honge.",
-      "category": "World",
-      "exam_angle": "ECB, eurozone, kendriya bank — arthvyavastha",
-      "source": "Reuters",
-      "source_url": "https://www.reuters.com/world/europe/euro-countries-pick-spains-de-cos-ecb-chief-costa-says-2026-11-26/",
-      "genuineness": "verified",
-      "outlets": [
-        "Reuters",
-        "Al Jazeera",
-        "WSJ",
-        "CNN"
-      ],
-      "image": null,
-      "image_credit": null
-    },
-    {
-      "id": "world-20261127-0722-01",
-      "published_ist": "2026-11-26T12:00:00+05:30",
-      "headline": "Trump ne Putin se hamle rokne ko kaha",
-      "detail": "America ke rashtrapati Trump ne kaha unhone China me Putin se Europe bhar me sainya hamle rokne ko kaha, taaki Russia-Ukraine samjhota jald ho sake; unhone yuddh ko 'complete bloodbath' bataya.",
-      "category": "World",
-      "exam_angle": "Russia-Ukraine yuddh, Trump-Putin vartalap — UPSC IR",
-      "source": "Reuters",
-      "source_url": "https://www.reuters.com/world/europe/trump-says-hed-like-see-putin-pull-back-military-aggression-europe-2026-11-26/",
-      "genuineness": "verified",
-      "outlets": [
-        "Reuters",
-        "USA Today",
-        "NY Post",
-        "The Straits Times",
-        "Channel News Asia",
-        "The Japan Times"
-      ],
-      "image": null,
-      "image_credit": null
-    },
-    {
-      "id": "world-20261127-0722-02",
-      "published_ist": "2026-11-25T12:00:00+05:30",
-      "headline": "Ramaphosa ko court se badi rahat mili",
-      "detail": "South Africa ki Western Cape High Court ne 2022 ki Phala Phala panel report ko gair-kanuni batakar radd kar diya; isse Ramaphosa ke khilaf mahabhiyog jaanch khatm ho gayi.",
-      "category": "World",
-      "exam_angle": "South Africa, Phala Phala, mahabhiyog — UPSC IR",
-      "source": "Al Jazeera",
-      "source_url": "https://www.aljazeera.com/news/2026/11/25/south-africa-court-repeals-farmgate-impeachment-threat-against-ramaphosa",
-      "genuineness": "verified",
-      "outlets": [
-        "Al Jazeera",
-        "The Hindu",
-        "BusinessDay",
-        "Daily Maverick",
-        "CGTN Africa"
-      ],
-      "image": null,
-      "image_credit": null
-    },
-    {
-      "id": "world-20261127-0722-03",
-      "published_ist": "2026-11-26T12:00:00+05:30",
-      "headline": "Kim ne tactical parmanu hathiyar badhane ko kaha",
-      "detail": "North Korea ke neta Kim Jong Un ne parmanu samagri utpadan badhane aur tactical parmanu hathiyaron ko kai kshetron me tainat karne ko kaha; unhone desh ki parmanu sthiti ko aparivartaniya bataya.",
-      "category": "World",
-      "exam_angle": "North Korea, parmanu hathiyar, KCNA — UPSC IR",
-      "source": "Al Jazeera",
-      "source_url": "https://www.aljazeera.com/news/2026/11/26/kim-jong-un-says-north-korea-should-widen-deployment-of-tactical-nukes",
-      "genuineness": "verified",
-      "outlets": [
-        "Al Jazeera",
-        "The Korea Times",
-        "CNN",
-        "The Jerusalem Post"
-      ],
-      "image": null,
-      "image_credit": null
-    },
-    {
-      "id": "world-20261127-0722-04",
-      "published_ist": "2026-11-24T12:00:00+05:30",
-      "headline": "Har ghante 5 mahilayein apno se mari",
-      "detail": "UN ki 2026 Femicide Brief ke mutabik 2025 me duniya bhar me lagbhag 47,000 mahilayein aur ladkiyan saathi ya parivar ke haathon mari gayin — har ghante lagbhag paanch; kul 78,000 me se 60% maamle ghar ke andar hue.",
-      "category": "World",
-      "exam_angle": "UN Women, UNODC, femicide — UPSC samaj",
-      "source": "UN News",
-      "source_url": "https://news.un.org/en/story/2026/11/1168863",
-      "genuineness": "verified",
-      "outlets": [
-        "UN News",
-        "Al Jazeera",
-        "Arab News",
-        "Dawn"
-      ],
-      "image": null,
-      "image_credit": null
-    },
-    {
-      "id": "world-20261126-1822-05",
-      "published_ist": "2026-11-25T17:30:00+05:30",
-      "headline": "America me toofan, 7 lakh ghar andhere me",
-      "detail": "Thanksgiving par America ke purvi hisse me toofan se 7.24 lakh se zyada gharon ki bijli chali gayi aur lagbhag 400 udanein radd hui; New York ki Macy's parade 100 saal me pehli baar sthagit hui. (Updated: bijli aur udaan ke aankde badhe)",
-      "category": "World",
-      "exam_angle": null,
-      "source": "NDTV",
-      "source_url": "https://www.ndtv.com/world-news/us-storm-disrupts-thanksgiving-cancels-400-flights-leaves-724-000-without-power-12382669",
-      "genuineness": "verified",
-      "outlets": [
-        "NDTV",
-        "WSJ",
-        "The Korea Times",
-        "CNN"
-      ],
-      "image": null,
-      "image_credit": null
-    },
-    {
-      "id": "world-20261127-0822-01",
-      "published_ist": "2026-11-26T12:00:00+05:30",
-      "headline": "North Korea ne Russia ko hathiyar dena roka",
-      "detail": "Ukraine ki khufia agency GUR ke mutabik Kim Jong Un ne Russia ko KN-23 missile aur golabarud dena roka, aur Russian sainya vimanon ke liye apna hawai kshetra band kar diya.",
-      "category": "World",
-      "exam_angle": "North Korea-Russia sainya sahyog, Ukraine yuddh",
-      "source": "Reuters",
-      "source_url": "https://www.reuters.com/business/aerospace-defense/ukraine-says-north-korea-temporarily-halted-missile-shipments-ally-russia-2026-11-26/",
-      "genuineness": "verified",
-      "outlets": [
-        "Reuters",
-        "The New Voice of Ukraine",
-        "Chosun Biz",
-        "Ukrainska Pravda",
-        "Interfax-Ukraine",
-        "Firstpost",
-        "Ukrinform"
-      ],
-      "image": null,
-      "image_credit": null
-    },
-    {
-      "id": "world-20261127-0822-02",
-      "published_ist": "2026-11-26T12:00:00+05:30",
-      "headline": "Nvidia ne 4 deshon ko server bhejna roka",
-      "detail": "America ke naye export control ke baad Nvidia ne Dell aur Supermicro se kaha Malaysia, Singapore, Thailand aur Indonesia ko AI server na bhejein, taaki China ko chip na mile.",
-      "category": "World",
-      "exam_angle": "America ke AI chip export control aur China ko chip se rokna",
-      "source": "Channel News Asia",
-      "source_url": "https://www.channelnewsasia.com/asia/nvidia-halts-chip-shipments-southeast-asia-6584351",
-      "genuineness": "verified",
-      "outlets": [
-        "Financial Times",
-        "Channel News Asia",
-        "The Straits Times",
-        "The Hindu",
-        "Barron's",
-        "The Times of India",
-        "Business Standard",
-        "Engadget"
-      ],
-      "image": null,
-      "image_credit": null
-    },
-    {
-      "id": "world-20261127-0822-03",
-      "published_ist": "2026-11-25T17:57:36+05:30",
-      "headline": "3.5 arab password aur record khule me mile",
-      "detail": "Do asurakshit database se 3.5 arab se zyada username, password aur vyaktigat record mile — ek me lagbhag 2 arab login credential, dusre me 84 crore se zyada Chinese ID number.",
-      "category": "World",
-      "exam_angle": "Cybersecurity: data leak, infostealer malware",
-      "source": "Malwarebytes",
-      "source_url": "https://www.malwarebytes.com/blog/data-breaches/2026/11/two-exposed-databases-held-over-3-5-billion-records",
-      "genuineness": "verified",
-      "outlets": [
-        "Malwarebytes",
-        "NDTV",
-        "Gadgets 360",
-        "IT Magazine",
-        "TechInformed",
-        "Engadget"
-      ],
-      "image": null,
-      "image_credit": null
-    },
-    {
-      "id": "world-20261127-0822-04",
-      "published_ist": "2026-11-25T12:00:00+05:30",
-      "headline": "Netanyahu Case 4000: judge ne hatane ko kaha",
-      "detail": "Israel ki adalat ne Netanyahu ke bhrashtachar mukadme ke sabse gambhir Case 4000 ko hatane ka sujhav diya, kaha dosh siddh hone ki sambhavna kam hai; Attorney General vichar karengi.",
-      "category": "World",
-      "exam_angle": null,
-      "source": "CNN",
-      "source_url": "https://www.cnn.com/2026/11/25/middleeast/netanyahu-corruption-charges-legal-boost-intl?cid=external-feeds_iluminar_meta",
-      "genuineness": "verified",
-      "outlets": [
-        "The Jerusalem Post",
-        "Globes",
-        "CNN",
-        "The Times of Israel",
-        "Al Jazeera"
-      ],
-      "image": null,
-      "image_credit": null
-    },
-    {
-      "id": "world-20261127-0922-01",
-      "published_ist": "2026-11-27T06:30:00+05:30",
-      "headline": "New Zealand me sarkar ka bahumat khatm",
-      "detail": "Antim chunav parinamo me PM Christopher Luxon ki gathbandhan sarkar 130 seaton wali sansad me 65 seat par atak gayi, ab Opportunity Party ke samarthan ke bina sarkar nahi banegi.",
-      "category": "World",
-      "exam_angle": "New Zealand chunav parinam aur gathbandhan sarkar",
-      "source": "Reuters",
-      "source_url": "https://www.reuters.com/world/asia-pacific/new-zealands-ruling-coalition-falls-just-short-majority-final-election-count-2026-11-27/",
-      "genuineness": "verified",
-      "outlets": [
-        "Reuters",
-        "RNZ",
-        "Nikkei Asia",
-        "The Hindu",
-        "Channel News Asia"
-      ],
-      "image": null,
-      "image_credit": null
-    },
-    {
-      "id": "world-20261127-0922-02",
-      "published_ist": "2026-11-26T12:00:00+05:30",
-      "headline": "Gaza me hamle, Hamas neta samet 10 mare",
-      "detail": "Guruvaar ko Israel ke hamlo me Gaza me kam se kam 10 log mare, jinme Hamas ke varishth neta Khaled Abu Nada bhi shaamil the; Hamas ne jawab dene ki chetavni di hai.",
-      "category": "World",
-      "exam_angle": "Israel-Palestine sangharsh aur Gaza yuddh-viram",
-      "source": "Dawn",
-      "source_url": "https://www.dawn.com/news/2047355/hamas-weighs-response-after-israel-kills-10-people-in-gaza",
-      "genuineness": "verified",
-      "outlets": [
-        "CNN",
-        "Dawn",
-        "Firstpost",
-        "Haaretz",
-        "Associated Press"
-      ],
-      "image": null,
-      "image_credit": null
-    },
-    {
-      "id": "world-20261127-0922-03",
-      "published_ist": "2026-11-26T12:00:00+05:30",
-      "headline": "Argentina ne note chhapna band kiya",
-      "detail": "Argentina ki Congress ne 141-0 se kanoon pass kar kendriya bank ko sarkar ke kharch ke liye note chhapne se rok diya; bank ka kaam ab sirf peso ki keemat bachana hoga.",
-      "category": "World",
-      "exam_angle": "Argentina ki arthvyavastha aur kendriya bank ki swatantrata",
-      "source": "Al Jazeera",
-      "source_url": "https://www.aljazeera.com/news/2026/11/27/argentina-bars-central-bank-from-printing-money-to-fund-government-spending",
-      "genuineness": "verified",
-      "outlets": [
-        "Associated Press",
-        "Al Jazeera",
-        "The Economic Times"
-      ],
-      "image": null,
-      "image_credit": null
-    },
-    {
-      "id": "world-20261127-0922-04",
-      "published_ist": "2026-11-25T12:00:00+05:30",
-      "headline": "Trump ka janm-nagrikta aadesh phir ruka",
-      "detail": "America ke dusre judge ne bhi Trump ke janm ke aadhar par nagrikta simit karne wale aadesh par rok laga di; ab dono faislon ko palte bina ye aadesh lagu nahi ho sakta.",
-      "category": "World",
-      "exam_angle": "America me janm-nagrikta aur nyaypalika ki bhoomika",
-      "source": "Arab News",
-      "source_url": "https://www.arabnews.com/world/trumps-newest-order-curtailing-birthright-citizenship-is-blocked-by-second-judge-3014069",
-      "genuineness": "verified",
-      "outlets": [
-        "Associated Press",
-        "Arab News",
-        "TRT World",
-        "Korea Herald"
-      ],
-      "image": null,
-      "image_credit": null
-    },
-    {
-      "id": "world-20261127-1022-01",
-      "published_ist": "2026-11-25T23:17:00+05:30",
-      "headline": "Ukraine ke laser ne Russian drone giraya",
-      "detail": "Ukraine ka daava hai ki uske Blysk laser hathiyar ne pehli baar ladai me Russia ka jet-powered Geran drone giraya; ye pranali ek mahatvapurna sthal ki raksha kar rahi thi.",
-      "category": "World",
-      "exam_angle": "Laser raksha pranali aur drone yuddh",
-      "source": "Kyiv Independent",
-      "source_url": "https://kyivindependent.com/ukrainian-combat-lasers-intercept-russian-jet-powered-drone-for-first-time/",
-      "genuineness": "verified",
-      "outlets": [
-        "Kyiv Independent",
-        "Ukrinform",
-        "Ukrainska Pravda",
-        "Hromadske",
-        "New York Post"
-      ],
-      "image": null,
-      "image_credit": null
-    },
-    {
-      "id": "world-20261127-1022-02",
-      "published_ist": "2026-11-25T12:00:00+05:30",
-      "headline": "Abrego Garcia America se Spain pahunche",
-      "detail": "Galat tareeke se El Salvador bhej diye gaye Kilmar Abrego Garcia ne America se khud Spain jaane ka faisla kiya aur budhvaar subah Madrid pahunche; unhone kaha is baar ve aazadi ke saath ja rahe hain.",
-      "category": "World",
-      "exam_angle": "America ki immigration neeti aur nirvasan vivad",
-      "source": "Al Jazeera",
-      "source_url": "https://www.aljazeera.com/news/2026/11/25/kilmar-abrego-garcia-wrongfully-deported-from-us-arrives-in-spain",
-      "genuineness": "verified",
-      "outlets": [
-        "Al Jazeera",
-        "CNN",
-        "The Wall Street Journal",
-        "USA Today",
-        "US Department of Homeland Security"
-      ],
-      "image": null,
-      "image_credit": null
-    },
-    {
-      "id": "world-20261127-1022-03",
-      "published_ist": "2026-11-25T12:00:00+05:30",
-      "headline": "Prince William ke ghar me chori, 2 giraftar",
-      "detail": "Sandringham estate par Prince William aur Princess Catherine ke Anmer Hall me ghuskar ghadi aur cufflinks churane ke aarop me do logo par case darj hua; us samay ghar me koi shahi sadasya maujood nahi tha.",
-      "category": "World",
-      "exam_angle": null,
-      "source": "CNN",
-      "source_url": "https://www.cnn.com/2026/11/24/uk/uk-royals-william-kate-country-home-intl?cid=external-feeds_iluminar_meta",
-      "genuineness": "verified",
-      "outlets": [
-        "CNN",
-        "Associated Press",
-        "The Straits Times",
-        "People",
-        "The New Indian Express"
-      ],
-      "image": null,
-      "image_credit": null
-    },
-    {
-      "id": "world-20261127-1022-04",
-      "published_ist": "2026-11-27T06:00:00+05:30",
-      "headline": "Ukraine ko 45 arab euro karz ka samarthan",
-      "detail": "EU shikhar sammelan me 24 sadasya deshon ne 2027 ke liye Ukraine ko 45 arab euro tak ke karz ke prastav ka samarthan kiya; antim faisla December me hoga.",
-      "category": "World",
-      "exam_angle": "EU aur Ukraine vittiya sahayata",
-      "source": "Agence Europe",
-      "source_url": "https://agenceurope.eu/en/bulletin/article/13991/3/24-eu-member-states-support-proposal-of-a-eur45-billion-loan-to-ukraine",
-      "genuineness": "verified",
-      "outlets": [
-        "Agence Europe",
-        "Al Jazeera",
-        "Poland Insight",
-        "Devdiscourse"
-      ],
-      "image": null,
-      "image_credit": null
-    },
-    {
-      "id": "world-20261127-1122-01",
-      "published_ist": "2026-11-26T12:00:00+05:30",
-      "headline": "Britain ne 1 lakh reservist ko taiyar kiya",
-      "detail": "Britain ke raksha mantralaya ne Sheet Yuddh ke baad pehli baar lagbhag 1 lakh poorv sainikon ko patra likhkar yuddh ki sthiti me wapas bulaye jaane ki taiyari karne ko kaha; ye kadam Russia ke badhte khatre ke beech uthaya gaya hai.",
-      "category": "World",
-      "exam_angle": "Britain, NATO, Russia khatra — UPSC IR",
-      "source": "The Jerusalem Post",
-      "source_url": "https://www.jpost.com/international/article-916193",
-      "genuineness": "verified",
-      "outlets": [
-        "The Telegraph",
-        "The Times",
-        "The Jerusalem Post",
-        "Hromadske",
-        "The Straits Times"
-      ],
-      "image": null,
-      "image_credit": null
-    },
-    {
-      "id": "world-20261127-1122-02",
-      "published_ist": "2026-11-26T12:00:00+05:30",
-      "headline": "Eisenkot ko sarkar ke liye dusra samjhota",
-      "detail": "Israel me Gadi Eisenkot ki Yashar party ne vaam-panthi Democrats se gathbandhan samjhota kiya; do samjhauton ke baad bhi unke gut ke paas 120 me se sirf 36 seat hain, bahumat ke liye 61 chahiye.",
-      "category": "World",
-      "exam_angle": "Israel sarkar gathan, Knesset — UPSC IR",
-      "source": "The Times of India",
-      "source_url": "https://timesofindia.indiatimes.com/world/middle-east/israel-govt-formation-eisenkot-moves-to-replace-netanyahu-strikes-two-key-coalition-deals/articleshow/136207427.cms",
-      "genuineness": "verified",
-      "outlets": [
-        "The Times of India",
-        "Azat TV",
-        "Daily Sabah"
-      ],
-      "image": null,
-      "image_credit": null
-    },
-    {
-      "id": "world-20261127-1122-03",
-      "published_ist": "2026-11-26T12:00:00+05:30",
-      "headline": "Trump: Huang koi suraksha khatra nahi",
-      "detail": "America ke rashtrapati Trump ne kaha Nvidia ke CEO Jensen Huang koi suraksha khatra nahi hain; unhone khud Nvidia board se Huang ko CEO pad par wapas lane ko kaha tha.",
-      "category": "World",
-      "exam_angle": "America, AI chip, Nvidia — arthvyavastha",
-      "source": "Business Today",
-      "source_url": "https://www.businesstoday.in/technology/news/story/i-think-hes-absolutely-fine-trump-backs-jensen-huangs-nvidia-comeback-heres-why-569791-2026-11-27",
-      "genuineness": "verified",
-      "outlets": [
-        "Business Today",
-        "The Wall Street Journal",
-        "The Daily Star"
-      ],
-      "image": null,
-      "image_credit": null
-    },
-    {
-      "id": "world-20261126-1822-05",
-      "published_ist": "2026-11-25T17:30:00+05:30",
-      "headline": "America me toofan, 7 lakh ghar andhere me",
-      "detail": "Thanksgiving par America ke purvi hisse me toofan se 9 lakh se zyada gharon ki bijli chali gayi aur lagbhag 400 udanein radd hui; New York ki Macy's parade 100 saal me pehli baar sthagit hokar shanivaar tak tali. (Updated: bijli ka aankda 9 lakh se zyada hua)",
-      "category": "World",
-      "exam_angle": null,
-      "source": "NDTV",
-      "source_url": "https://www.ndtv.com/world-news/us-storm-disrupts-thanksgiving-cancels-400-flights-leaves-724-000-without-power-12382669",
-      "genuineness": "verified",
-      "outlets": [
-        "NDTV",
-        "WSJ",
-        "The Korea Times",
-        "CNN"
-      ],
-      "image": null,
-      "image_credit": null
-    },
-    {
-      "id": "world-20261127-1222-01",
-      "published_ist": "2026-11-26T12:00:00+05:30",
-      "headline": "Britain me net migration 29 saal me kam",
-      "detail": "Britain ki net migration June 2026 tak ke saal me girkar 77,000 reh gayi, 1997 ke baad sabse kam; Bharatiya aane aur jaane dono me sabse bada samuh rahe.",
-      "category": "World",
-      "exam_angle": "Britain, migration, Bharatiya pravasi — UPSC IR",
-      "source": "The Hindu",
-      "source_url": "https://www.thehindu.com/news/international/uk-net-migration-falls-to-lowest-since-1997-indians-largest-foreign-group-entering-and-leaving-the-country/article71746576.ece",
-      "genuineness": "verified",
-      "outlets": [
-        "The Hindu",
-        "Times of India",
-        "Le Temps",
-        "UNI"
-      ],
-      "image": null,
-      "image_credit": null
-    },
-    {
-      "id": "world-20261127-1222-02",
-      "published_ist": "2026-11-26T12:00:00+05:30",
-      "headline": "Costa Rica ne UN rapporteur ko roka",
-      "detail": "Costa Rica ne UN rapporteur Francesca Albanese ko desh me pravesh se roka; sarkar ne aatankwadi gatividhiyon se sambandh wali antarrashtriya alert ka hawala diya, jabki ve maanad degree lene aayi thi.",
-      "category": "World",
-      "exam_angle": "UN, Costa Rica, manavadhikar — UPSC IR",
-      "source": "Arab News",
-      "source_url": "https://www.arabnews.com/world/costa-rica-bars-entry-to-un-rapporteur-over-links-to-terrorist-acts-3014214",
-      "genuineness": "verified",
-      "outlets": [
-        "AFP",
-        "Arab News",
-        "The Hindu",
-        "The Jerusalem Post"
-      ],
-      "image": null,
-      "image_credit": null
-    },
-    {
-      "id": "world-20261127-1222-03",
-      "published_ist": "2026-11-26T12:00:00+05:30",
-      "headline": "Altria, Japan Tobacco Imperial kharidne ki taiyari me",
-      "detail": "America ki Altria ne Britain ki Imperial Brands ke liye nagad khareed prastav par vichaar ki pushti ki; Japan Tobacco bhi sajhedari me hissa lene par vichaar kar raha hai, sauda lagbhag 34 arab dollar ka ho sakta hai.",
-      "category": "World",
-      "exam_angle": "Videshi nivesh, vilay — arthvyavastha",
-      "source": "Reuters",
-      "source_url": "https://www.reuters.com/markets/europe/japan-tobacco-up-2-imperial-brands-takeover-talk-2026-11-27/",
-      "genuineness": "verified",
-      "outlets": [
-        "Reuters",
-        "Nikkei Asia",
-        "Channel News Asia",
-        "Japan Times",
-        "The Times"
-      ],
-      "image": null,
-      "image_credit": null
-    },
-    {
-      "id": "world-20261127-1222-04",
-      "published_ist": "2026-11-27T12:00:00+05:30",
-      "headline": "Australia ne Iran se jude 2 par pratibandh",
-      "detail": "Australia ne Sydney aur Melbourne me 2024 ke yahudi-virodhi aagjani hamlo ke liye Iran ke IRGC ki or se kaam karne ke aarop me do vyaktiyon par aatankwadi vittaposhan pratibandh lagaye.",
-      "category": "World",
-      "exam_angle": "Australia, Iran, pratibandh — UPSC IR",
-      "source": "Arab News",
-      "source_url": "https://www.arabnews.com/world/australia-sanctions-two-alleged-iranian-agents-over-antisemitic-attacks-3014215",
-      "genuineness": "verified",
-      "outlets": [
-        "Arab News",
-        "i24news",
-        "The Straits Times",
-        "The Jerusalem Post"
-      ],
-      "image": null,
-      "image_credit": null
-    },
-    {
-      "id": "world-20261127-1322-01",
-      "published_ist": "2026-11-27T12:00:00+05:30",
-      "headline": "China ne Taiwan ke saamne landing abhyaas kiya",
-      "detail": "China ne Fujian ke Dacheng Bay me nagrik jahazon ko jodkar lagbhag 800 meter lamba tairta pul banakar Taiwan par utarne ka abhyaas kiya; Taiwan ke raksha mantralaya ne kaha woh is gatividhi par nazar rakhe hue hai.",
-      "category": "World",
-      "exam_angle": "China-Taiwan, amphibious abhyaas — UPSC IR",
-      "source": "Reuters",
-      "source_url": "https://www.reuters.com/world/china/chinese-military-tests-new-taiwan-landing-tactics-coastal-drills-2026-11-27/",
-      "genuineness": "corroborated",
-      "outlets": [
-        "Reuters",
-        "Taiwan Defence Ministry"
-      ],
-      "image": null,
-      "image_credit": null
-    },
-    {
-      "id": "world-20261127-1322-02",
-      "published_ist": "2026-11-27T12:00:00+05:30",
-      "headline": "Drone Latvia ki hawai seema me ghusa",
-      "detail": "Shukravaar subah ek ajnaat drone thodi der ke liye Latvia ki hawai seema me ghusa; NATO ke ladaku viman aur interceptor drone bheje gaye, koi nuksan nahi hua.",
-      "category": "World",
-      "exam_angle": "Latvia, NATO, drone ghuspaith — UPSC IR",
-      "source": "Reuters",
-      "source_url": "https://www.reuters.com/world/drone-briefly-violates-latvian-airspace-latvian-armed-forces-say-2026-11-27/",
-      "genuineness": "corroborated",
-      "outlets": [
-        "Reuters",
-        "Global Security Centre"
-      ],
-      "image": null,
-      "image_credit": null
-    },
-    {
-      "id": "world-20261127-1322-03",
-      "published_ist": "2026-11-27T12:00:00+05:30",
-      "headline": "Duterte ka ICC mukadma Somvaar se",
-      "detail": "Philippines ke poorv rashtrapati Rodrigo Duterte par ICC me manavta ke khilaf apraadh ka mukadma 30 November se shuru hoga; unpar 2011-2019 ke beech 85 hatyaon ke aarop hain.",
-      "category": "World",
-      "exam_angle": "ICC, Philippines, manavta ke khilaf apraadh — UPSC IR",
-      "source": "Reuters",
-      "source_url": "https://www.reuters.com/world/asia-pacific/families-slain-filipinos-seek-justice-dutertes-icc-trial-set-start-2026-11-27/",
-      "genuineness": "verified",
-      "outlets": [
-        "Reuters",
-        "Manila Times",
-        "Philstar"
-      ],
-      "image": null,
-      "image_credit": null
-    },
-    {
-      "id": "world-20261127-1322-04",
-      "published_ist": "2026-11-27T12:00:00+05:30",
-      "headline": "Erdogan ne Mecca raksha samjhota manzoor kiya",
-      "detail": "Turkey ke rashtrapati Erdogan ne Pakistan aur Saudi Arabia ke saath Mecca sanyukt raksha samjhote ko aupcharik manzoori di; sansad ne ise 5 November ko pass kiya tha.",
-      "category": "World",
-      "exam_angle": "Turkey, Pakistan, Saudi Arabia raksha samjhota — UPSC IR",
-      "source": "Reuters",
-      "source_url": "https://www.reuters.com/world/asia-pacific/erdogan-completes-turkeys-ratification-mecca-defence-pact-2026-11-27/",
-      "genuineness": "verified",
-      "outlets": [
-        "Reuters",
-        "Arab News",
-        "Türkiye Today"
-      ],
-      "image": null,
-      "image_credit": null
-    },
-    {
-      "id": "world-20261127-1422-01",
-      "published_ist": "2026-11-26T12:00:00+05:30",
-      "headline": "Trump: Putin G20 me aa sakte hain",
-      "detail": "Trump ne kaha, Putin chahein to 14-15 December ko Miami me hone wale G20 sammelan me aa sakte hain; nimantran pehle se hai, Kremlin ne abhi faisla nahi liya.",
-      "category": "World",
-      "exam_angle": "G20, America-Russia, Putin — UPSC IR",
-      "source": "Kyiv Post",
-      "source_url": "https://www.kyivpost.com/post/91344",
-      "genuineness": "verified",
-      "outlets": [
-        "Kyiv Post",
-        "Moneycontrol",
-        "Khaleej Times"
-      ],
-      "image": null,
-      "image_credit": null
-    },
-    {
-      "id": "world-20261127-1422-02",
-      "published_ist": "2026-11-26T12:00:00+05:30",
-      "headline": "Kuwait me drone hamle me 2 Italian mare",
-      "detail": "Kuwait ke ek hawai raksha kendra par drone hamle me Rheinmetall Italia ke 2 technician mare gaye; Italy aur Kuwait ne Iran par aarop lagaya, Iran ne inkar kiya.",
-      "category": "World",
-      "exam_angle": "Kuwait, Iran, drone hamla — UPSC IR",
-      "source": "Reuters",
-      "source_url": "https://www.reuters.com/world/asia-pacific/two-italians-killed-iranian-drone-attack-kuwait-italy-says-2026-11-26/",
-      "genuineness": "verified",
-      "outlets": [
-        "Reuters",
-        "CNN",
-        "Al Jazeera"
-      ],
-      "image": null,
-      "image_credit": null
-    },
-    {
-      "id": "world-20261127-1422-03",
-      "published_ist": "2026-11-26T12:00:00+05:30",
-      "headline": "Cuba ke paas jahaz dooba, 1 ki maut",
-      "detail": "Panama jhande wala cargo jahaz Halima Cuba ke Artemisa tat ke paas doob gaya; 16 me se 13 mile, jinme ek ki maut hui, 3 abhi laapata hain.",
-      "category": "World",
-      "exam_angle": null,
-      "source": "The Hindu",
-      "source_url": "https://www.thehindu.com/news/international/one-dead-three-missing-after-cargo-ship-sinks-off-cuba/article71749410.ece",
-      "genuineness": "verified",
-      "outlets": [
-        "The Hindu",
-        "Splash247",
-        "Deccan Chronicle"
-      ],
-      "image": null,
-      "image_credit": null
-    },
-    {
-      "id": "world-20261127-1527-01",
-      "published_ist": "2026-11-26T12:00:00+05:30",
-      "headline": "Houthi hamla: Saudi refinery me Nepali mara",
-      "detail": "Saudi Arabia ki Jazan refinery par Houthi hamle me ek Nepali mazdoor mara gaya aur kai ghayal hue; aag lagi aur kuchh hissa band hua.",
-      "category": "World",
-      "exam_angle": "Houthi, Saudi Arabia, Yemen yuddh — UPSC IR",
-      "source": "Al Jazeera",
-      "source_url": "https://www.aljazeera.com/news/2026/11/26/attack-on-saudi-aramcos-jazan-refinery-kills-worker-disrupts-operations",
-      "genuineness": "verified",
-      "outlets": [
-        "Al Jazeera",
-        "Arab News",
-        "CNN"
-      ],
-      "image": null,
-      "image_credit": null
-    },
-    {
-      "id": "world-20261127-1527-02",
-      "published_ist": "2026-11-26T12:00:00+05:30",
-      "headline": "Indonesia khadan baadh: 13 mare, 13 laapata",
-      "detail": "Indonesia ke Bogor me gair-kanuni sone ki khadan me baadh se 13 mazdoor mare gaye aur 13 abhi 100 meter gehri khadan me fanse hain.",
-      "category": "World",
-      "exam_angle": "Indonesia, khanan durghatna — UPSC",
-      "source": "Channel News Asia",
-      "source_url": "https://www.channelnewsasia.com/asia/indonesia-mine-flooding-death-toll-missing-6583801",
-      "genuineness": "verified",
-      "outlets": [
-        "Channel News Asia",
-        "The Daily Star",
-        "The Korea Times"
-      ],
-      "image": null,
-      "image_credit": null
-    },
-    {
-      "id": "world-20261127-1527-03",
-      "published_ist": "2026-11-27T12:00:00+05:30",
-      "headline": "Russia ne Kyiv par missile hamla kiya",
-      "detail": "Russia ne raat me Kyiv par ballistic missile se hamla kiya; ek shopping centre aur 2 imaratein nishana bani, 7 log ghayal hue.",
-      "category": "World",
-      "exam_angle": "Russia-Ukraine yuddh — UPSC IR",
-      "source": "Al Jazeera",
-      "source_url": "https://www.aljazeera.com/amp/news/2026/11/27/zelenskyy-warns-of-major-russian-attack-as-trump-urges-putin-to-pull-back",
-      "genuineness": "verified",
-      "outlets": [
-        "Al Jazeera",
-        "NY Post",
-        "Reuters"
-      ],
-      "image": null,
-      "image_credit": null
-    },
-    {
-      "id": "world-20261127-1527-04",
-      "published_ist": "2026-11-26T12:00:00+05:30",
-      "headline": "FIFA par cyber hamla, data chori hua",
-      "detail": "FIFA ne kaha woh ek cyber hamle ka shikar hui, jisme vyaktigat aur vyavsayik jankari churai gayi; hamlaawaron ne staff bankar ghuspaith ki.",
-      "category": "World",
-      "exam_angle": "FIFA, cyber hamla — UPSC",
-      "source": "Reuters",
-      "source_url": "https://www.reuters.com/sports/soccer/fifa-victim-cyber-attack-files-related-world-cup-stake-selloff-unaffected-2026-11-26/",
-      "genuineness": "verified",
-      "outlets": [
-        "Reuters",
-        "Al Jazeera",
-        "Associated Press"
-      ],
-      "image": null,
-      "image_credit": null
-    },
-    {
-      "id": "world-20261127-1622-01",
-      "published_ist": "2026-11-27T12:00:00+05:30",
-      "headline": "America me toofan: 9 lakh bina bijli",
-      "detail": "Thanksgiving par aaye toofan se America ke purvi hisse me 9 lakh se zyada ghar bijli ke bina rahe; Macy's parade 100 saal me pehli baar tali aur 400 udanein radd hui.",
-      "category": "World",
-      "exam_angle": "America, nor'easter toofan — UPSC",
-      "source": "Al Jazeera",
-      "source_url": "https://www.aljazeera.com/news/2026/11/27/thanksgiving-storms-leave-nearly-a-million-without-power-across-the-us",
-      "genuineness": "verified",
-      "outlets": [
-        "Al Jazeera",
-        "The Wall Street Journal",
-        "The Times",
-        "Dawn"
-      ],
-      "image": null,
-      "image_credit": null
-    },
-    {
-      "id": "world-20261127-1622-02",
-      "published_ist": "2026-11-26T12:00:00+05:30",
-      "headline": "Cairo me tanker aag: 31 mare",
-      "detail": "Cairo ki Ring Road par tel tanker palatne se lagi aag me 31 log mare aur 21 ghayal hue; 27 gaadiyan jal gayin aur zimmedar driver giraftar hua.",
-      "category": "World",
-      "exam_angle": "Egypt, Cairo — UPSC",
-      "source": "CNN",
-      "source_url": "https://www.cnn.com/2026/11/25/middleeast/cairo-egypt-tanker-fire-latam-intl?cid=external-feeds_iluminar_meta",
-      "genuineness": "verified",
-      "outlets": [
-        "CNN",
-        "The Times",
-        "The Indian Express",
-        "Gulf News"
-      ],
-      "image": null,
-      "image_credit": null
-    },
-    {
-      "id": "world-20261127-1622-03",
-      "published_ist": "2026-11-26T12:00:00+05:30",
-      "headline": "SpaceX ko 10 lakh satellite ki manzoori",
-      "detail": "America ke FCC ne SpaceX ko antariksh me AI data centre ke liye 10 lakh satellite bhejne ki manzoori di; pehla satellite 2033 tak bhejna hoga.",
-      "category": "World",
-      "exam_angle": "SpaceX, FCC, AI — UPSC science-tech",
-      "source": "CNN",
-      "source_url": "https://www.cnn.com/2026/11/26/business/spacex-satellites-space-data-centers-intl?cid=external-feeds_iluminar_meta",
-      "genuineness": "verified",
-      "outlets": [
-        "CNN",
-        "The Wall Street Journal",
-        "Channel News Asia",
-        "USA Today"
-      ],
-      "image": null,
-      "image_credit": null
-    },
-    {
-      "id": "world-20261127-1622-04",
-      "published_ist": "2026-11-26T12:00:00+05:30",
-      "headline": "De Cos banenge ECB ke naye pramukh",
-      "detail": "Eurozone ke netaon ne Spain ke Pablo Hernandez de Cos ko ECB ka agla pramukh chuna; woh February me Christine Lagarde ki jagah lenge.",
-      "category": "World",
-      "exam_angle": "ECB, Eurozone — UPSC economy",
-      "source": "Reuters",
-      "source_url": "https://www.reuters.com/world/europe/euro-countries-pick-spains-de-cos-ecb-chief-costa-says-2026-11-26/",
-      "genuineness": "verified",
-      "outlets": [
-        "Reuters",
-        "The Wall Street Journal",
-        "CNN",
-        "Le Monde"
-      ],
-      "image": null,
-      "image_credit": null
-    },
-    {
-      "id": "world-20261127-1622-05",
-      "published_ist": "2026-11-26T12:00:00+05:30",
-      "headline": "Congo me Ebola: 12,000 case, 5,904 maut",
-      "detail": "Congo me Ebola ke mamle 12,021 ho gaye aur 5,904 mautein hui; purvi hisse me ladai ke karan madad pahunchana mushkil ho raha hai.",
-      "category": "World",
-      "exam_angle": "Congo, Ebola — UPSC health",
-      "source": "Al Jazeera",
-      "source_url": "https://www.aljazeera.com/news/2026/11/26/dr-congo-ebola-cases-surpass-12000-as-fighting-disrupts-response-in-east?traffic_source=rss",
-      "genuineness": "verified",
-      "outlets": [
-        "Al Jazeera",
-        "Reuters",
-        "Associated Press",
-        "UN News"
-      ],
-      "image": null,
-      "image_credit": null
-    },
-    {
-      "id": "world-20261127-1722-01",
-      "published_ist": "2026-11-27T12:00:00+05:30",
-      "headline": "Vietnam-America vyapar samjhota, tariff 35% se kam",
-      "detail": "Vietnam ke PM Le Minh Hung ne kaha America se vyapar samjhota lagbhag tay ho gaya hai; America ka prastavit 35% tariff isse bahut kam hoga, aur dono desh hastakshar ki taiyari kar rahe hain.",
-      "category": "World",
-      "exam_angle": "Vietnam-America vyapar, Section 301 tariff — UPSC economy/IR",
-      "source": "The Straits Times",
-      "source_url": "https://www.straitstimes.com/asia/se-asia/vietnam-expects-to-sign-us-trade-deal-to-limit-tariff-hit?ref=latest",
-      "genuineness": "verified",
-      "outlets": [
-        "The Straits Times",
-        "VnExpress",
-        "TechNode",
-        "The Economic Times"
-      ],
-      "image": null,
-      "image_credit": null
-    },
-    {
-      "id": "world-20261127-1722-02",
-      "published_ist": "2026-11-26T12:00:00+05:30",
-      "headline": "Bangkok tel depot me dhamaka, 7 ghayal",
-      "detail": "Bangkok ke Bangchak tel depot me dhamake aur aag se 7 log ghayal hue, jinme 4 ki haalat gambhir hai; refinery ki sabhi unit band kar di gayin aur aag par kabu pa liya gaya.",
-      "category": "World",
-      "exam_angle": null,
-      "source": "Channel News Asia",
-      "source_url": "https://www.channelnewsasia.com/asia/bangkok-thailand-oil-refinery-fire-explosion-6584656?cid=cna_flip_070214",
-      "genuineness": "verified",
-      "outlets": [
-        "Channel News Asia",
-        "Reuters",
-        "Bangkok Post",
-        "The Hindu"
-      ],
-      "image": null,
-      "image_credit": null
-    },
-    {
-      "id": "world-20261127-1722-03",
-      "published_ist": "2026-11-24T12:00:00+05:30",
-      "headline": "China: Shanghai neta Chen Jining jaanch me",
-      "detail": "China ke bhrashtachar-rodhi vibhag ne Shanghai ke party pramukh aur Politburo sadasya Chen Jining ki jaanch shuru ki; woh 2022 ke baad jaanch me aaye chauthe Politburo sadasya hain.",
-      "category": "World",
-      "exam_angle": "China, CCP Politburo — UPSC IR",
-      "source": "CNN",
-      "source_url": "https://www.cnn.com/2026/11/24/china/china-chen-jining-investigated-purge-intl-hnk?cid=external-feeds_iluminar_meta",
-      "genuineness": "verified",
-      "outlets": [
-        "CNN",
-        "Al Jazeera",
-        "Channel News Asia",
-        "Reuters"
-      ],
-      "image": null,
-      "image_credit": null
-    }
-  ]
+ "date": "2026-11-27",
+ "items": [
+  {
+   "id": "world-20261127-0622-01",
+   "published_ist": "2026-11-26T12:00:00+05:30",
+   "headline": "Kuwait me drone hamla, 2 Italian mare",
+   "detail": "Kuwait ke hawai raksha kendra par drone hamle me do Italian technician mare gaye aur do log ghayal hue; Kuwait aur Italy ne Iran ko zimmedar bataya, Iran ne inkar kiya.",
+   "category": "World",
+   "exam_angle": "Iran-Kuwait tanav, Hormuz sankat — UPSC IR",
+   "source": "Al Jazeera",
+   "source_url": "https://www.aljazeera.com/news/2026/11/26/two-italians-killed-after-iranian-drones-strike-facility-says-kuwait",
+   "genuineness": "verified",
+   "outlets": [
+    "Al Jazeera",
+    "CNN",
+    "WSJ",
+    "Channel News Asia"
+   ],
+   "image": null,
+   "image_credit": null
+  },
+  {
+   "id": "world-20261127-0622-02",
+   "published_ist": "2026-11-26T12:00:00+05:30",
+   "headline": "Ibiza ke paas tanker palta, 1 ki maut",
+   "detail": "Spain ke Ibiza ke paas diesel bhara Malta-flag tanker Med Emre palat gaya; 17 crew me se 1 ki maut hui, 6 ghayal; abhi tel risaav nahi mila, Spain ne pradushan-roktham yojana shuru ki.",
+   "category": "World",
+   "exam_angle": null,
+   "source": "Reuters",
+   "source_url": "https://www.reuters.com/business/energy/crew-member-dies-after-diesel-tanker-sinks-off-ibiza-spain-launches-pollution-2026-11-26/",
+   "genuineness": "verified",
+   "outlets": [
+    "Reuters",
+    "Arab News",
+    "Al Jazeera",
+    "Channel News Asia"
+   ],
+   "image": null,
+   "image_credit": null
+  },
+  {
+   "id": "world-20261127-0622-03",
+   "published_ist": "2026-11-26T12:00:00+05:30",
+   "headline": "Colombia supermarket bandhak sankat khatm, sab surakshit",
+   "detail": "Cartagena ke supermarket me 16 ghante ke bandhak sankat ke baad suraksha balon ne sabhi bandhakon ko surakshit chhudaya; ek hamlaawar mara gaya aur baaki giraftar hue.",
+   "category": "World",
+   "exam_angle": null,
+   "source": "Qatar Tribune",
+   "source_url": "https://www.qatar-tribune.com/article/266432/world/all-hostages-freed-after-16-hour-supermarket-siege-in-colombia",
+   "genuineness": "verified",
+   "outlets": [
+    "Qatar Tribune",
+    "Arab News",
+    "The Daily Star",
+    "Manila Times"
+   ],
+   "image": null,
+   "image_credit": null
+  },
+  {
+   "id": "world-20261127-0622-04",
+   "published_ist": "2026-11-26T12:00:00+05:30",
+   "headline": "Zelensky ki chetavni: Russia bada hamla karega",
+   "detail": "Ukraine ke rashtrapati Zelensky ne kaha Russia aane wale dinon me bada hamla karne ki taiyari kar raha hai; unhone logo se missile chetavni par dhyan dene ko kaha.",
+   "category": "World",
+   "exam_angle": "Russia-Ukraine yuddh — UPSC IR",
+   "source": "Reuters",
+   "source_url": "https://www.reuters.com/world/zelenskiy-says-russia-preparing-new-mass-strike-coming-days-2026-11-26/",
+   "genuineness": "verified",
+   "outlets": [
+    "Reuters",
+    "TRT World",
+    "Ukrinform",
+    "NDTV"
+   ],
+   "image": null,
+   "image_credit": null
+  },
+  {
+   "id": "world-20261127-0622-05",
+   "published_ist": "2026-11-26T12:00:00+05:30",
+   "headline": "ECB ke naye pramukh bane De Cos",
+   "detail": "Eurozone deshon ne Spain ke Pablo Hernandez de Cos ko European Central Bank ka agla pramukh chuna; woh February me Christine Lagarde ki jagah lenge aur pehle Spanish ECB pramukh honge.",
+   "category": "World",
+   "exam_angle": "ECB, eurozone, kendriya bank — arthvyavastha",
+   "source": "Reuters",
+   "source_url": "https://www.reuters.com/world/europe/euro-countries-pick-spains-de-cos-ecb-chief-costa-says-2026-11-26/",
+   "genuineness": "verified",
+   "outlets": [
+    "Reuters",
+    "Al Jazeera",
+    "WSJ",
+    "CNN"
+   ],
+   "image": null,
+   "image_credit": null
+  },
+  {
+   "id": "world-20261127-0722-01",
+   "published_ist": "2026-11-26T12:00:00+05:30",
+   "headline": "Trump ne Putin se hamle rokne ko kaha",
+   "detail": "America ke rashtrapati Trump ne kaha unhone China me Putin se Europe bhar me sainya hamle rokne ko kaha, taaki Russia-Ukraine samjhota jald ho sake; unhone yuddh ko 'complete bloodbath' bataya.",
+   "category": "World",
+   "exam_angle": "Russia-Ukraine yuddh, Trump-Putin vartalap — UPSC IR",
+   "source": "Reuters",
+   "source_url": "https://www.reuters.com/world/europe/trump-says-hed-like-see-putin-pull-back-military-aggression-europe-2026-11-26/",
+   "genuineness": "verified",
+   "outlets": [
+    "Reuters",
+    "USA Today",
+    "NY Post",
+    "The Straits Times",
+    "Channel News Asia",
+    "The Japan Times"
+   ],
+   "image": null,
+   "image_credit": null
+  },
+  {
+   "id": "world-20261127-0722-02",
+   "published_ist": "2026-11-25T12:00:00+05:30",
+   "headline": "Ramaphosa ko court se badi rahat mili",
+   "detail": "South Africa ki Western Cape High Court ne 2022 ki Phala Phala panel report ko gair-kanuni batakar radd kar diya; isse Ramaphosa ke khilaf mahabhiyog jaanch khatm ho gayi.",
+   "category": "World",
+   "exam_angle": "South Africa, Phala Phala, mahabhiyog — UPSC IR",
+   "source": "Al Jazeera",
+   "source_url": "https://www.aljazeera.com/news/2026/11/25/south-africa-court-repeals-farmgate-impeachment-threat-against-ramaphosa",
+   "genuineness": "verified",
+   "outlets": [
+    "Al Jazeera",
+    "The Hindu",
+    "BusinessDay",
+    "Daily Maverick",
+    "CGTN Africa"
+   ],
+   "image": null,
+   "image_credit": null
+  },
+  {
+   "id": "world-20261127-0722-03",
+   "published_ist": "2026-11-26T12:00:00+05:30",
+   "headline": "Kim ne tactical parmanu hathiyar badhane ko kaha",
+   "detail": "North Korea ke neta Kim Jong Un ne parmanu samagri utpadan badhane aur tactical parmanu hathiyaron ko kai kshetron me tainat karne ko kaha; unhone desh ki parmanu sthiti ko aparivartaniya bataya.",
+   "category": "World",
+   "exam_angle": "North Korea, parmanu hathiyar, KCNA — UPSC IR",
+   "source": "Al Jazeera",
+   "source_url": "https://www.aljazeera.com/news/2026/11/26/kim-jong-un-says-north-korea-should-widen-deployment-of-tactical-nukes",
+   "genuineness": "verified",
+   "outlets": [
+    "Al Jazeera",
+    "The Korea Times",
+    "CNN",
+    "The Jerusalem Post"
+   ],
+   "image": null,
+   "image_credit": null
+  },
+  {
+   "id": "world-20261127-0722-04",
+   "published_ist": "2026-11-24T12:00:00+05:30",
+   "headline": "Har ghante 5 mahilayein apno se mari",
+   "detail": "UN ki 2026 Femicide Brief ke mutabik 2025 me duniya bhar me lagbhag 47,000 mahilayein aur ladkiyan saathi ya parivar ke haathon mari gayin — har ghante lagbhag paanch; kul 78,000 me se 60% maamle ghar ke andar hue.",
+   "category": "World",
+   "exam_angle": "UN Women, UNODC, femicide — UPSC samaj",
+   "source": "UN News",
+   "source_url": "https://news.un.org/en/story/2026/11/1168863",
+   "genuineness": "verified",
+   "outlets": [
+    "UN News",
+    "Al Jazeera",
+    "Arab News",
+    "Dawn"
+   ],
+   "image": null,
+   "image_credit": null
+  },
+  {
+   "id": "world-20261126-1822-05",
+   "published_ist": "2026-11-25T17:30:00+05:30",
+   "headline": "America me toofan, 7 lakh ghar andhere me",
+   "detail": "Thanksgiving par America ke purvi hisse me toofan se 7.24 lakh se zyada gharon ki bijli chali gayi aur lagbhag 400 udanein radd hui; New York ki Macy's parade 100 saal me pehli baar sthagit hui. (Updated: bijli aur udaan ke aankde badhe)",
+   "category": "World",
+   "exam_angle": null,
+   "source": "NDTV",
+   "source_url": "https://www.ndtv.com/world-news/us-storm-disrupts-thanksgiving-cancels-400-flights-leaves-724-000-without-power-12382669",
+   "genuineness": "verified",
+   "outlets": [
+    "NDTV",
+    "WSJ",
+    "The Korea Times",
+    "CNN"
+   ],
+   "image": null,
+   "image_credit": null
+  },
+  {
+   "id": "world-20261127-0822-01",
+   "published_ist": "2026-11-26T12:00:00+05:30",
+   "headline": "North Korea ne Russia ko hathiyar dena roka",
+   "detail": "Ukraine ki khufia agency GUR ke mutabik Kim Jong Un ne Russia ko KN-23 missile aur golabarud dena roka, aur Russian sainya vimanon ke liye apna hawai kshetra band kar diya.",
+   "category": "World",
+   "exam_angle": "North Korea-Russia sainya sahyog, Ukraine yuddh",
+   "source": "Reuters",
+   "source_url": "https://www.reuters.com/business/aerospace-defense/ukraine-says-north-korea-temporarily-halted-missile-shipments-ally-russia-2026-11-26/",
+   "genuineness": "verified",
+   "outlets": [
+    "Reuters",
+    "The New Voice of Ukraine",
+    "Chosun Biz",
+    "Ukrainska Pravda",
+    "Interfax-Ukraine",
+    "Firstpost",
+    "Ukrinform"
+   ],
+   "image": null,
+   "image_credit": null
+  },
+  {
+   "id": "world-20261127-0822-02",
+   "published_ist": "2026-11-26T12:00:00+05:30",
+   "headline": "Nvidia ne 4 deshon ko server bhejna roka",
+   "detail": "America ke naye export control ke baad Nvidia ne Dell aur Supermicro se kaha Malaysia, Singapore, Thailand aur Indonesia ko AI server na bhejein, taaki China ko chip na mile.",
+   "category": "World",
+   "exam_angle": "America ke AI chip export control aur China ko chip se rokna",
+   "source": "Channel News Asia",
+   "source_url": "https://www.channelnewsasia.com/asia/nvidia-halts-chip-shipments-southeast-asia-6584351",
+   "genuineness": "verified",
+   "outlets": [
+    "Financial Times",
+    "Channel News Asia",
+    "The Straits Times",
+    "The Hindu",
+    "Barron's",
+    "The Times of India",
+    "Business Standard",
+    "Engadget"
+   ],
+   "image": null,
+   "image_credit": null
+  },
+  {
+   "id": "world-20261127-0822-03",
+   "published_ist": "2026-11-25T17:57:36+05:30",
+   "headline": "3.5 arab password aur record khule me mile",
+   "detail": "Do asurakshit database se 3.5 arab se zyada username, password aur vyaktigat record mile — ek me lagbhag 2 arab login credential, dusre me 84 crore se zyada Chinese ID number.",
+   "category": "World",
+   "exam_angle": "Cybersecurity: data leak, infostealer malware",
+   "source": "Malwarebytes",
+   "source_url": "https://www.malwarebytes.com/blog/data-breaches/2026/11/two-exposed-databases-held-over-3-5-billion-records",
+   "genuineness": "verified",
+   "outlets": [
+    "Malwarebytes",
+    "NDTV",
+    "Gadgets 360",
+    "IT Magazine",
+    "TechInformed",
+    "Engadget"
+   ],
+   "image": null,
+   "image_credit": null
+  },
+  {
+   "id": "world-20261127-0822-04",
+   "published_ist": "2026-11-25T12:00:00+05:30",
+   "headline": "Netanyahu Case 4000: judge ne hatane ko kaha",
+   "detail": "Israel ki adalat ne Netanyahu ke bhrashtachar mukadme ke sabse gambhir Case 4000 ko hatane ka sujhav diya, kaha dosh siddh hone ki sambhavna kam hai; Attorney General vichar karengi.",
+   "category": "World",
+   "exam_angle": null,
+   "source": "CNN",
+   "source_url": "https://www.cnn.com/2026/11/25/middleeast/netanyahu-corruption-charges-legal-boost-intl?cid=external-feeds_iluminar_meta",
+   "genuineness": "verified",
+   "outlets": [
+    "The Jerusalem Post",
+    "Globes",
+    "CNN",
+    "The Times of Israel",
+    "Al Jazeera"
+   ],
+   "image": null,
+   "image_credit": null
+  },
+  {
+   "id": "world-20261127-0922-01",
+   "published_ist": "2026-11-27T06:30:00+05:30",
+   "headline": "New Zealand me sarkar ka bahumat khatm",
+   "detail": "Antim chunav parinamo me PM Christopher Luxon ki gathbandhan sarkar 130 seaton wali sansad me 65 seat par atak gayi, ab Opportunity Party ke samarthan ke bina sarkar nahi banegi.",
+   "category": "World",
+   "exam_angle": "New Zealand chunav parinam aur gathbandhan sarkar",
+   "source": "Reuters",
+   "source_url": "https://www.reuters.com/world/asia-pacific/new-zealands-ruling-coalition-falls-just-short-majority-final-election-count-2026-11-27/",
+   "genuineness": "verified",
+   "outlets": [
+    "Reuters",
+    "RNZ",
+    "Nikkei Asia",
+    "The Hindu",
+    "Channel News Asia"
+   ],
+   "image": null,
+   "image_credit": null
+  },
+  {
+   "id": "world-20261127-0922-02",
+   "published_ist": "2026-11-26T12:00:00+05:30",
+   "headline": "Gaza me hamle, Hamas neta samet 10 mare",
+   "detail": "Guruvaar ko Israel ke hamlo me Gaza me kam se kam 10 log mare, jinme Hamas ke varishth neta Khaled Abu Nada bhi shaamil the; Hamas ne jawab dene ki chetavni di hai.",
+   "category": "World",
+   "exam_angle": "Israel-Palestine sangharsh aur Gaza yuddh-viram",
+   "source": "Dawn",
+   "source_url": "https://www.dawn.com/news/2047355/hamas-weighs-response-after-israel-kills-10-people-in-gaza",
+   "genuineness": "verified",
+   "outlets": [
+    "CNN",
+    "Dawn",
+    "Firstpost",
+    "Haaretz",
+    "Associated Press"
+   ],
+   "image": null,
+   "image_credit": null
+  },
+  {
+   "id": "world-20261127-0922-03",
+   "published_ist": "2026-11-26T12:00:00+05:30",
+   "headline": "Argentina ne note chhapna band kiya",
+   "detail": "Argentina ki Congress ne 141-0 se kanoon pass kar kendriya bank ko sarkar ke kharch ke liye note chhapne se rok diya; bank ka kaam ab sirf peso ki keemat bachana hoga.",
+   "category": "World",
+   "exam_angle": "Argentina ki arthvyavastha aur kendriya bank ki swatantrata",
+   "source": "Al Jazeera",
+   "source_url": "https://www.aljazeera.com/news/2026/11/27/argentina-bars-central-bank-from-printing-money-to-fund-government-spending",
+   "genuineness": "verified",
+   "outlets": [
+    "Associated Press",
+    "Al Jazeera",
+    "The Economic Times"
+   ],
+   "image": null,
+   "image_credit": null
+  },
+  {
+   "id": "world-20261127-0922-04",
+   "published_ist": "2026-11-25T12:00:00+05:30",
+   "headline": "Trump ka janm-nagrikta aadesh phir ruka",
+   "detail": "America ke dusre judge ne bhi Trump ke janm ke aadhar par nagrikta simit karne wale aadesh par rok laga di; ab dono faislon ko palte bina ye aadesh lagu nahi ho sakta.",
+   "category": "World",
+   "exam_angle": "America me janm-nagrikta aur nyaypalika ki bhoomika",
+   "source": "Arab News",
+   "source_url": "https://www.arabnews.com/world/trumps-newest-order-curtailing-birthright-citizenship-is-blocked-by-second-judge-3014069",
+   "genuineness": "verified",
+   "outlets": [
+    "Associated Press",
+    "Arab News",
+    "TRT World",
+    "Korea Herald"
+   ],
+   "image": null,
+   "image_credit": null
+  },
+  {
+   "id": "world-20261127-1022-01",
+   "published_ist": "2026-11-25T23:17:00+05:30",
+   "headline": "Ukraine ke laser ne Russian drone giraya",
+   "detail": "Ukraine ka daava hai ki uske Blysk laser hathiyar ne pehli baar ladai me Russia ka jet-powered Geran drone giraya; ye pranali ek mahatvapurna sthal ki raksha kar rahi thi.",
+   "category": "World",
+   "exam_angle": "Laser raksha pranali aur drone yuddh",
+   "source": "Kyiv Independent",
+   "source_url": "https://kyivindependent.com/ukrainian-combat-lasers-intercept-russian-jet-powered-drone-for-first-time/",
+   "genuineness": "verified",
+   "outlets": [
+    "Kyiv Independent",
+    "Ukrinform",
+    "Ukrainska Pravda",
+    "Hromadske",
+    "New York Post"
+   ],
+   "image": null,
+   "image_credit": null
+  },
+  {
+   "id": "world-20261127-1022-02",
+   "published_ist": "2026-11-25T12:00:00+05:30",
+   "headline": "Abrego Garcia America se Spain pahunche",
+   "detail": "Galat tareeke se El Salvador bhej diye gaye Kilmar Abrego Garcia ne America se khud Spain jaane ka faisla kiya aur budhvaar subah Madrid pahunche; unhone kaha is baar ve aazadi ke saath ja rahe hain.",
+   "category": "World",
+   "exam_angle": "America ki immigration neeti aur nirvasan vivad",
+   "source": "Al Jazeera",
+   "source_url": "https://www.aljazeera.com/news/2026/11/25/kilmar-abrego-garcia-wrongfully-deported-from-us-arrives-in-spain",
+   "genuineness": "verified",
+   "outlets": [
+    "Al Jazeera",
+    "CNN",
+    "The Wall Street Journal",
+    "USA Today",
+    "US Department of Homeland Security"
+   ],
+   "image": null,
+   "image_credit": null
+  },
+  {
+   "id": "world-20261127-1022-03",
+   "published_ist": "2026-11-25T12:00:00+05:30",
+   "headline": "Prince William ke ghar me chori, 2 giraftar",
+   "detail": "Sandringham estate par Prince William aur Princess Catherine ke Anmer Hall me ghuskar ghadi aur cufflinks churane ke aarop me do logo par case darj hua; us samay ghar me koi shahi sadasya maujood nahi tha.",
+   "category": "World",
+   "exam_angle": null,
+   "source": "CNN",
+   "source_url": "https://www.cnn.com/2026/11/24/uk/uk-royals-william-kate-country-home-intl?cid=external-feeds_iluminar_meta",
+   "genuineness": "verified",
+   "outlets": [
+    "CNN",
+    "Associated Press",
+    "The Straits Times",
+    "People",
+    "The New Indian Express"
+   ],
+   "image": null,
+   "image_credit": null
+  },
+  {
+   "id": "world-20261127-1022-04",
+   "published_ist": "2026-11-27T06:00:00+05:30",
+   "headline": "Ukraine ko 45 arab euro karz ka samarthan",
+   "detail": "EU shikhar sammelan me 24 sadasya deshon ne 2027 ke liye Ukraine ko 45 arab euro tak ke karz ke prastav ka samarthan kiya; antim faisla December me hoga.",
+   "category": "World",
+   "exam_angle": "EU aur Ukraine vittiya sahayata",
+   "source": "Agence Europe",
+   "source_url": "https://agenceurope.eu/en/bulletin/article/13991/3/24-eu-member-states-support-proposal-of-a-eur45-billion-loan-to-ukraine",
+   "genuineness": "verified",
+   "outlets": [
+    "Agence Europe",
+    "Al Jazeera",
+    "Poland Insight",
+    "Devdiscourse"
+   ],
+   "image": null,
+   "image_credit": null
+  },
+  {
+   "id": "world-20261127-1122-01",
+   "published_ist": "2026-11-26T12:00:00+05:30",
+   "headline": "Britain ne 1 lakh reservist ko taiyar kiya",
+   "detail": "Britain ke raksha mantralaya ne Sheet Yuddh ke baad pehli baar lagbhag 1 lakh poorv sainikon ko patra likhkar yuddh ki sthiti me wapas bulaye jaane ki taiyari karne ko kaha; ye kadam Russia ke badhte khatre ke beech uthaya gaya hai.",
+   "category": "World",
+   "exam_angle": "Britain, NATO, Russia khatra — UPSC IR",
+   "source": "The Jerusalem Post",
+   "source_url": "https://www.jpost.com/international/article-916193",
+   "genuineness": "verified",
+   "outlets": [
+    "The Telegraph",
+    "The Times",
+    "The Jerusalem Post",
+    "Hromadske",
+    "The Straits Times"
+   ],
+   "image": null,
+   "image_credit": null
+  },
+  {
+   "id": "world-20261127-1122-02",
+   "published_ist": "2026-11-26T12:00:00+05:30",
+   "headline": "Eisenkot ko sarkar ke liye dusra samjhota",
+   "detail": "Israel me Gadi Eisenkot ki Yashar party ne vaam-panthi Democrats se gathbandhan samjhota kiya; do samjhauton ke baad bhi unke gut ke paas 120 me se sirf 36 seat hain, bahumat ke liye 61 chahiye.",
+   "category": "World",
+   "exam_angle": "Israel sarkar gathan, Knesset — UPSC IR",
+   "source": "The Times of India",
+   "source_url": "https://timesofindia.indiatimes.com/world/middle-east/israel-govt-formation-eisenkot-moves-to-replace-netanyahu-strikes-two-key-coalition-deals/articleshow/136207427.cms",
+   "genuineness": "verified",
+   "outlets": [
+    "The Times of India",
+    "Azat TV",
+    "Daily Sabah"
+   ],
+   "image": null,
+   "image_credit": null
+  },
+  {
+   "id": "world-20261127-1122-03",
+   "published_ist": "2026-11-26T12:00:00+05:30",
+   "headline": "Trump: Huang koi suraksha khatra nahi",
+   "detail": "America ke rashtrapati Trump ne kaha Nvidia ke CEO Jensen Huang koi suraksha khatra nahi hain; unhone khud Nvidia board se Huang ko CEO pad par wapas lane ko kaha tha.",
+   "category": "World",
+   "exam_angle": "America, AI chip, Nvidia — arthvyavastha",
+   "source": "Business Today",
+   "source_url": "https://www.businesstoday.in/technology/news/story/i-think-hes-absolutely-fine-trump-backs-jensen-huangs-nvidia-comeback-heres-why-569791-2026-11-27",
+   "genuineness": "verified",
+   "outlets": [
+    "Business Today",
+    "The Wall Street Journal",
+    "The Daily Star"
+   ],
+   "image": null,
+   "image_credit": null
+  },
+  {
+   "id": "world-20261126-1822-05",
+   "published_ist": "2026-11-25T17:30:00+05:30",
+   "headline": "America me toofan, 7 lakh ghar andhere me",
+   "detail": "Thanksgiving par America ke purvi hisse me toofan se 9 lakh se zyada gharon ki bijli chali gayi aur lagbhag 400 udanein radd hui; New York ki Macy's parade 100 saal me pehli baar sthagit hokar shanivaar tak tali. (Updated: bijli ka aankda 9 lakh se zyada hua)",
+   "category": "World",
+   "exam_angle": null,
+   "source": "NDTV",
+   "source_url": "https://www.ndtv.com/world-news/us-storm-disrupts-thanksgiving-cancels-400-flights-leaves-724-000-without-power-12382669",
+   "genuineness": "verified",
+   "outlets": [
+    "NDTV",
+    "WSJ",
+    "The Korea Times",
+    "CNN"
+   ],
+   "image": null,
+   "image_credit": null
+  },
+  {
+   "id": "world-20261127-1222-01",
+   "published_ist": "2026-11-26T12:00:00+05:30",
+   "headline": "Britain me net migration 29 saal me kam",
+   "detail": "Britain ki net migration June 2026 tak ke saal me girkar 77,000 reh gayi, 1997 ke baad sabse kam; Bharatiya aane aur jaane dono me sabse bada samuh rahe.",
+   "category": "World",
+   "exam_angle": "Britain, migration, Bharatiya pravasi — UPSC IR",
+   "source": "The Hindu",
+   "source_url": "https://www.thehindu.com/news/international/uk-net-migration-falls-to-lowest-since-1997-indians-largest-foreign-group-entering-and-leaving-the-country/article71746576.ece",
+   "genuineness": "verified",
+   "outlets": [
+    "The Hindu",
+    "Times of India",
+    "Le Temps",
+    "UNI"
+   ],
+   "image": null,
+   "image_credit": null
+  },
+  {
+   "id": "world-20261127-1222-02",
+   "published_ist": "2026-11-26T12:00:00+05:30",
+   "headline": "Costa Rica ne UN rapporteur ko roka",
+   "detail": "Costa Rica ne UN rapporteur Francesca Albanese ko desh me pravesh se roka; sarkar ne aatankwadi gatividhiyon se sambandh wali antarrashtriya alert ka hawala diya, jabki ve maanad degree lene aayi thi.",
+   "category": "World",
+   "exam_angle": "UN, Costa Rica, manavadhikar — UPSC IR",
+   "source": "Arab News",
+   "source_url": "https://www.arabnews.com/world/costa-rica-bars-entry-to-un-rapporteur-over-links-to-terrorist-acts-3014214",
+   "genuineness": "verified",
+   "outlets": [
+    "AFP",
+    "Arab News",
+    "The Hindu",
+    "The Jerusalem Post"
+   ],
+   "image": null,
+   "image_credit": null
+  },
+  {
+   "id": "world-20261127-1222-03",
+   "published_ist": "2026-11-26T12:00:00+05:30",
+   "headline": "Altria, Japan Tobacco Imperial kharidne ki taiyari me",
+   "detail": "America ki Altria ne Britain ki Imperial Brands ke liye nagad khareed prastav par vichaar ki pushti ki; Japan Tobacco bhi sajhedari me hissa lene par vichaar kar raha hai, sauda lagbhag 34 arab dollar ka ho sakta hai.",
+   "category": "World",
+   "exam_angle": "Videshi nivesh, vilay — arthvyavastha",
+   "source": "Reuters",
+   "source_url": "https://www.reuters.com/markets/europe/japan-tobacco-up-2-imperial-brands-takeover-talk-2026-11-27/",
+   "genuineness": "verified",
+   "outlets": [
+    "Reuters",
+    "Nikkei Asia",
+    "Channel News Asia",
+    "Japan Times",
+    "The Times"
+   ],
+   "image": null,
+   "image_credit": null
+  },
+  {
+   "id": "world-20261127-1222-04",
+   "published_ist": "2026-11-27T12:00:00+05:30",
+   "headline": "Australia ne Iran se jude 2 par pratibandh",
+   "detail": "Australia ne Sydney aur Melbourne me 2024 ke yahudi-virodhi aagjani hamlo ke liye Iran ke IRGC ki or se kaam karne ke aarop me do vyaktiyon par aatankwadi vittaposhan pratibandh lagaye.",
+   "category": "World",
+   "exam_angle": "Australia, Iran, pratibandh — UPSC IR",
+   "source": "Arab News",
+   "source_url": "https://www.arabnews.com/world/australia-sanctions-two-alleged-iranian-agents-over-antisemitic-attacks-3014215",
+   "genuineness": "verified",
+   "outlets": [
+    "Arab News",
+    "i24news",
+    "The Straits Times",
+    "The Jerusalem Post"
+   ],
+   "image": null,
+   "image_credit": null
+  },
+  {
+   "id": "world-20261127-1322-01",
+   "published_ist": "2026-11-27T12:00:00+05:30",
+   "headline": "China ne Taiwan ke saamne landing abhyaas kiya",
+   "detail": "China ne Fujian ke Dacheng Bay me nagrik jahazon ko jodkar lagbhag 800 meter lamba tairta pul banakar Taiwan par utarne ka abhyaas kiya; Taiwan ke raksha mantralaya ne kaha woh is gatividhi par nazar rakhe hue hai.",
+   "category": "World",
+   "exam_angle": "China-Taiwan, amphibious abhyaas — UPSC IR",
+   "source": "Reuters",
+   "source_url": "https://www.reuters.com/world/china/chinese-military-tests-new-taiwan-landing-tactics-coastal-drills-2026-11-27/",
+   "genuineness": "corroborated",
+   "outlets": [
+    "Reuters",
+    "Taiwan Defence Ministry"
+   ],
+   "image": null,
+   "image_credit": null
+  },
+  {
+   "id": "world-20261127-1322-02",
+   "published_ist": "2026-11-27T12:00:00+05:30",
+   "headline": "Drone Latvia ki hawai seema me ghusa",
+   "detail": "Shukravaar subah ek ajnaat drone thodi der ke liye Latvia ki hawai seema me ghusa; NATO ke ladaku viman aur interceptor drone bheje gaye, koi nuksan nahi hua.",
+   "category": "World",
+   "exam_angle": "Latvia, NATO, drone ghuspaith — UPSC IR",
+   "source": "Reuters",
+   "source_url": "https://www.reuters.com/world/drone-briefly-violates-latvian-airspace-latvian-armed-forces-say-2026-11-27/",
+   "genuineness": "corroborated",
+   "outlets": [
+    "Reuters",
+    "Global Security Centre"
+   ],
+   "image": null,
+   "image_credit": null
+  },
+  {
+   "id": "world-20261127-1322-03",
+   "published_ist": "2026-11-27T12:00:00+05:30",
+   "headline": "Duterte ka ICC mukadma Somvaar se",
+   "detail": "Philippines ke poorv rashtrapati Rodrigo Duterte par ICC me manavta ke khilaf apraadh ka mukadma 30 November se shuru hoga; unpar 2011-2019 ke beech 85 hatyaon ke aarop hain.",
+   "category": "World",
+   "exam_angle": "ICC, Philippines, manavta ke khilaf apraadh — UPSC IR",
+   "source": "Reuters",
+   "source_url": "https://www.reuters.com/world/asia-pacific/families-slain-filipinos-seek-justice-dutertes-icc-trial-set-start-2026-11-27/",
+   "genuineness": "verified",
+   "outlets": [
+    "Reuters",
+    "Manila Times",
+    "Philstar"
+   ],
+   "image": null,
+   "image_credit": null
+  },
+  {
+   "id": "world-20261127-1322-04",
+   "published_ist": "2026-11-27T12:00:00+05:30",
+   "headline": "Erdogan ne Mecca raksha samjhota manzoor kiya",
+   "detail": "Turkey ke rashtrapati Erdogan ne Pakistan aur Saudi Arabia ke saath Mecca sanyukt raksha samjhote ko aupcharik manzoori di; sansad ne ise 5 November ko pass kiya tha.",
+   "category": "World",
+   "exam_angle": "Turkey, Pakistan, Saudi Arabia raksha samjhota — UPSC IR",
+   "source": "Reuters",
+   "source_url": "https://www.reuters.com/world/asia-pacific/erdogan-completes-turkeys-ratification-mecca-defence-pact-2026-11-27/",
+   "genuineness": "verified",
+   "outlets": [
+    "Reuters",
+    "Arab News",
+    "Türkiye Today"
+   ],
+   "image": null,
+   "image_credit": null
+  },
+  {
+   "id": "world-20261127-1422-01",
+   "published_ist": "2026-11-26T12:00:00+05:30",
+   "headline": "Trump: Putin G20 me aa sakte hain",
+   "detail": "Trump ne kaha, Putin chahein to 14-15 December ko Miami me hone wale G20 sammelan me aa sakte hain; nimantran pehle se hai, Kremlin ne abhi faisla nahi liya.",
+   "category": "World",
+   "exam_angle": "G20, America-Russia, Putin — UPSC IR",
+   "source": "Kyiv Post",
+   "source_url": "https://www.kyivpost.com/post/91344",
+   "genuineness": "verified",
+   "outlets": [
+    "Kyiv Post",
+    "Moneycontrol",
+    "Khaleej Times"
+   ],
+   "image": null,
+   "image_credit": null
+  },
+  {
+   "id": "world-20261127-1422-02",
+   "published_ist": "2026-11-26T12:00:00+05:30",
+   "headline": "Kuwait me drone hamle me 2 Italian mare",
+   "detail": "Kuwait ke ek hawai raksha kendra par drone hamle me Rheinmetall Italia ke 2 technician mare gaye; Italy aur Kuwait ne Iran par aarop lagaya, Iran ne inkar kiya.",
+   "category": "World",
+   "exam_angle": "Kuwait, Iran, drone hamla — UPSC IR",
+   "source": "Reuters",
+   "source_url": "https://www.reuters.com/world/asia-pacific/two-italians-killed-iranian-drone-attack-kuwait-italy-says-2026-11-26/",
+   "genuineness": "verified",
+   "outlets": [
+    "Reuters",
+    "CNN",
+    "Al Jazeera"
+   ],
+   "image": null,
+   "image_credit": null
+  },
+  {
+   "id": "world-20261127-1422-03",
+   "published_ist": "2026-11-26T12:00:00+05:30",
+   "headline": "Cuba ke paas jahaz dooba, 1 ki maut",
+   "detail": "Panama jhande wala cargo jahaz Halima Cuba ke Artemisa tat ke paas doob gaya; 16 me se 13 mile, jinme ek ki maut hui, 3 abhi laapata hain.",
+   "category": "World",
+   "exam_angle": null,
+   "source": "The Hindu",
+   "source_url": "https://www.thehindu.com/news/international/one-dead-three-missing-after-cargo-ship-sinks-off-cuba/article71749410.ece",
+   "genuineness": "verified",
+   "outlets": [
+    "The Hindu",
+    "Splash247",
+    "Deccan Chronicle"
+   ],
+   "image": null,
+   "image_credit": null
+  },
+  {
+   "id": "world-20261127-1527-01",
+   "published_ist": "2026-11-26T12:00:00+05:30",
+   "headline": "Houthi hamla: Saudi refinery me Nepali mara",
+   "detail": "Saudi Arabia ki Jazan refinery par Houthi hamle me ek Nepali mazdoor mara gaya aur kai ghayal hue; aag lagi aur kuchh hissa band hua.",
+   "category": "World",
+   "exam_angle": "Houthi, Saudi Arabia, Yemen yuddh — UPSC IR",
+   "source": "Al Jazeera",
+   "source_url": "https://www.aljazeera.com/news/2026/11/26/attack-on-saudi-aramcos-jazan-refinery-kills-worker-disrupts-operations",
+   "genuineness": "verified",
+   "outlets": [
+    "Al Jazeera",
+    "Arab News",
+    "CNN"
+   ],
+   "image": null,
+   "image_credit": null
+  },
+  {
+   "id": "world-20261127-1527-02",
+   "published_ist": "2026-11-26T12:00:00+05:30",
+   "headline": "Indonesia khadan baadh: 13 mare, 13 laapata",
+   "detail": "Indonesia ke Bogor me gair-kanuni sone ki khadan me baadh se 13 mazdoor mare gaye aur 13 abhi 100 meter gehri khadan me fanse hain.",
+   "category": "World",
+   "exam_angle": "Indonesia, khanan durghatna — UPSC",
+   "source": "Channel News Asia",
+   "source_url": "https://www.channelnewsasia.com/asia/indonesia-mine-flooding-death-toll-missing-6583801",
+   "genuineness": "verified",
+   "outlets": [
+    "Channel News Asia",
+    "The Daily Star",
+    "The Korea Times"
+   ],
+   "image": null,
+   "image_credit": null
+  },
+  {
+   "id": "world-20261127-1527-03",
+   "published_ist": "2026-11-27T12:00:00+05:30",
+   "headline": "Russia ne Kyiv par missile hamla kiya",
+   "detail": "Russia ne raat me Kyiv par ballistic missile se hamla kiya; ek shopping centre aur 2 imaratein nishana bani, 7 log ghayal hue.",
+   "category": "World",
+   "exam_angle": "Russia-Ukraine yuddh — UPSC IR",
+   "source": "Al Jazeera",
+   "source_url": "https://www.aljazeera.com/amp/news/2026/11/27/zelenskyy-warns-of-major-russian-attack-as-trump-urges-putin-to-pull-back",
+   "genuineness": "verified",
+   "outlets": [
+    "Al Jazeera",
+    "NY Post",
+    "Reuters"
+   ],
+   "image": null,
+   "image_credit": null
+  },
+  {
+   "id": "world-20261127-1527-04",
+   "published_ist": "2026-11-26T12:00:00+05:30",
+   "headline": "FIFA par cyber hamla, data chori hua",
+   "detail": "FIFA ne kaha woh ek cyber hamle ka shikar hui, jisme vyaktigat aur vyavsayik jankari churai gayi; hamlaawaron ne staff bankar ghuspaith ki.",
+   "category": "World",
+   "exam_angle": "FIFA, cyber hamla — UPSC",
+   "source": "Reuters",
+   "source_url": "https://www.reuters.com/sports/soccer/fifa-victim-cyber-attack-files-related-world-cup-stake-selloff-unaffected-2026-11-26/",
+   "genuineness": "verified",
+   "outlets": [
+    "Reuters",
+    "Al Jazeera",
+    "Associated Press"
+   ],
+   "image": null,
+   "image_credit": null
+  },
+  {
+   "id": "world-20261127-1622-01",
+   "published_ist": "2026-11-27T12:00:00+05:30",
+   "headline": "America me toofan: 9 lakh bina bijli",
+   "detail": "Thanksgiving par aaye toofan se America ke purvi hisse me 9 lakh se zyada ghar bijli ke bina rahe; Macy's parade 100 saal me pehli baar tali aur 400 udanein radd hui.",
+   "category": "World",
+   "exam_angle": "America, nor'easter toofan — UPSC",
+   "source": "Al Jazeera",
+   "source_url": "https://www.aljazeera.com/news/2026/11/27/thanksgiving-storms-leave-nearly-a-million-without-power-across-the-us",
+   "genuineness": "verified",
+   "outlets": [
+    "Al Jazeera",
+    "The Wall Street Journal",
+    "The Times",
+    "Dawn"
+   ],
+   "image": null,
+   "image_credit": null
+  },
+  {
+   "id": "world-20261127-1622-02",
+   "published_ist": "2026-11-26T12:00:00+05:30",
+   "headline": "Cairo me tanker aag: 31 mare",
+   "detail": "Cairo ki Ring Road par tel tanker palatne se lagi aag me 31 log mare aur 21 ghayal hue; 27 gaadiyan jal gayin aur zimmedar driver giraftar hua.",
+   "category": "World",
+   "exam_angle": "Egypt, Cairo — UPSC",
+   "source": "CNN",
+   "source_url": "https://www.cnn.com/2026/11/25/middleeast/cairo-egypt-tanker-fire-latam-intl?cid=external-feeds_iluminar_meta",
+   "genuineness": "verified",
+   "outlets": [
+    "CNN",
+    "The Times",
+    "The Indian Express",
+    "Gulf News"
+   ],
+   "image": null,
+   "image_credit": null
+  },
+  {
+   "id": "world-20261127-1622-03",
+   "published_ist": "2026-11-26T12:00:00+05:30",
+   "headline": "SpaceX ko 10 lakh satellite ki manzoori",
+   "detail": "America ke FCC ne SpaceX ko antariksh me AI data centre ke liye 10 lakh satellite bhejne ki manzoori di; pehla satellite 2033 tak bhejna hoga.",
+   "category": "World",
+   "exam_angle": "SpaceX, FCC, AI — UPSC science-tech",
+   "source": "CNN",
+   "source_url": "https://www.cnn.com/2026/11/26/business/spacex-satellites-space-data-centers-intl?cid=external-feeds_iluminar_meta",
+   "genuineness": "verified",
+   "outlets": [
+    "CNN",
+    "The Wall Street Journal",
+    "Channel News Asia",
+    "USA Today"
+   ],
+   "image": null,
+   "image_credit": null
+  },
+  {
+   "id": "world-20261127-1622-04",
+   "published_ist": "2026-11-26T12:00:00+05:30",
+   "headline": "De Cos banenge ECB ke naye pramukh",
+   "detail": "Eurozone ke netaon ne Spain ke Pablo Hernandez de Cos ko ECB ka agla pramukh chuna; woh February me Christine Lagarde ki jagah lenge.",
+   "category": "World",
+   "exam_angle": "ECB, Eurozone — UPSC economy",
+   "source": "Reuters",
+   "source_url": "https://www.reuters.com/world/europe/euro-countries-pick-spains-de-cos-ecb-chief-costa-says-2026-11-26/",
+   "genuineness": "verified",
+   "outlets": [
+    "Reuters",
+    "The Wall Street Journal",
+    "CNN",
+    "Le Monde"
+   ],
+   "image": null,
+   "image_credit": null
+  },
+  {
+   "id": "world-20261127-1622-05",
+   "published_ist": "2026-11-26T12:00:00+05:30",
+   "headline": "Congo me Ebola: 12,000 case, 5,904 maut",
+   "detail": "Congo me Ebola ke mamle 12,021 ho gaye aur 5,904 mautein hui; purvi hisse me ladai ke karan madad pahunchana mushkil ho raha hai.",
+   "category": "World",
+   "exam_angle": "Congo, Ebola — UPSC health",
+   "source": "Al Jazeera",
+   "source_url": "https://www.aljazeera.com/news/2026/11/26/dr-congo-ebola-cases-surpass-12000-as-fighting-disrupts-response-in-east?traffic_source=rss",
+   "genuineness": "verified",
+   "outlets": [
+    "Al Jazeera",
+    "Reuters",
+    "Associated Press",
+    "UN News"
+   ],
+   "image": null,
+   "image_credit": null
+  },
+  {
+   "id": "world-20261127-1722-01",
+   "published_ist": "2026-11-27T12:00:00+05:30",
+   "headline": "Vietnam-America vyapar samjhota, tariff 35% se kam",
+   "detail": "Vietnam ke PM Le Minh Hung ne kaha America se vyapar samjhota lagbhag tay ho gaya hai; America ka prastavit 35% tariff isse bahut kam hoga, aur dono desh hastakshar ki taiyari kar rahe hain.",
+   "category": "World",
+   "exam_angle": "Vietnam-America vyapar, Section 301 tariff — UPSC economy/IR",
+   "source": "The Straits Times",
+   "source_url": "https://www.straitstimes.com/asia/se-asia/vietnam-expects-to-sign-us-trade-deal-to-limit-tariff-hit?ref=latest",
+   "genuineness": "verified",
+   "outlets": [
+    "The Straits Times",
+    "VnExpress",
+    "TechNode",
+    "The Economic Times"
+   ],
+   "image": null,
+   "image_credit": null
+  },
+  {
+   "id": "world-20261127-1722-02",
+   "published_ist": "2026-11-26T12:00:00+05:30",
+   "headline": "Bangkok tel depot me dhamaka, 7 ghayal",
+   "detail": "Bangkok ke Bangchak tel depot me dhamake aur aag se 7 log ghayal hue, jinme 4 ki haalat gambhir hai; refinery ki sabhi unit band kar di gayin aur aag par kabu pa liya gaya.",
+   "category": "World",
+   "exam_angle": null,
+   "source": "Channel News Asia",
+   "source_url": "https://www.channelnewsasia.com/asia/bangkok-thailand-oil-refinery-fire-explosion-6584656?cid=cna_flip_070214",
+   "genuineness": "verified",
+   "outlets": [
+    "Channel News Asia",
+    "Reuters",
+    "Bangkok Post",
+    "The Hindu"
+   ],
+   "image": null,
+   "image_credit": null
+  },
+  {
+   "id": "world-20261127-1722-03",
+   "published_ist": "2026-11-24T12:00:00+05:30",
+   "headline": "China: Shanghai neta Chen Jining jaanch me",
+   "detail": "China ke bhrashtachar-rodhi vibhag ne Shanghai ke party pramukh aur Politburo sadasya Chen Jining ki jaanch shuru ki; woh 2022 ke baad jaanch me aaye chauthe Politburo sadasya hain.",
+   "category": "World",
+   "exam_angle": "China, CCP Politburo — UPSC IR",
+   "source": "CNN",
+   "source_url": "https://www.cnn.com/2026/11/24/china/china-chen-jining-investigated-purge-intl-hnk?cid=external-feeds_iluminar_meta",
+   "genuineness": "verified",
+   "outlets": [
+    "CNN",
+    "Al Jazeera",
+    "Channel News Asia",
+    "Reuters"
+   ],
+   "image": null,
+   "image_credit": null
+  },
+  {
+   "id": "world-20261127-1822-01",
+   "published_ist": "2026-11-26T12:00:00+05:30",
+   "headline": "Guinea-Bissau me chunav 2028 tak tale",
+   "detail": "Sainya sarkar ne December me hone wale rashtrapati aur sansadiya chunav November 2028 tak taal diye; nagrik shasan ki vapasi me 2 saal ki deri hogi.",
+   "category": "World",
+   "exam_angle": "Guinea-Bissau, sainya takhtapalat, ECOWAS — UPSC IR",
+   "source": "Reuters",
+   "source_url": "https://www.reuters.com/world/africa/guinea-bissau-delays-elections-extending-military-led-transition-year-after-coup-2026-11-26/",
+   "genuineness": "verified",
+   "outlets": [
+    "Reuters",
+    "Al Jazeera",
+    "Associated Press"
+   ],
+   "image": null,
+   "image_credit": null
+  },
+  {
+   "id": "world-20261127-1822-02",
+   "published_ist": "2026-11-26T12:00:00+05:30",
+   "headline": "Venezuela vipaksh par pratibandh wala kanoon hataega",
+   "detail": "National Assembly 2024 ke Simon Bolivar kanoon ko radd karegi, jo pratibandhon ke samarthan par vipaksh ko saarvajanik pad se rokta tha.",
+   "category": "World",
+   "exam_angle": "Venezuela, antarim sarkar — UPSC IR",
+   "source": "News Central TV",
+   "source_url": "https://newscentraltv.com/venezuela-to-repeal-law-barring-opposition-figures-from-office/",
+   "genuineness": "verified",
+   "outlets": [
+    "BBC",
+    "News Central TV",
+    "Nuevo Día"
+   ],
+   "image": null,
+   "image_credit": null
+  },
+  {
+   "id": "world-20261127-1822-03",
+   "published_ist": "2026-11-26T12:00:00+05:30",
+   "headline": "Bharat-America sambandh ke sutradhar Talbott ka nidhan",
+   "detail": "America ke poorv up-videsh mantri Strobe Talbott, 80, ka nidhan ho gaya; Pokhran-II ke baad Bharat-America baatchit me unki badi bhoomika thi.",
+   "category": "World",
+   "exam_angle": "Strobe Talbott, Bharat-America sambandh, Pokhran-II — UPSC IR",
+   "source": "Deccan Herald",
+   "source_url": "https://www.deccanherald.com/world/us/strobe-talbott-architect-of-india-us-relations-post-pokhrann-ii-passes-away-4233193",
+   "genuineness": "verified",
+   "outlets": [
+    "Associated Press",
+    "Deccan Herald",
+    "The Week"
+   ],
+   "image": null,
+   "image_credit": null
+  },
+  {
+   "id": "world-20261127-1822-04",
+   "published_ist": "2026-11-25T12:00:00+05:30",
+   "headline": "Pakistan ke Zeeshan Ali Tiangong par pahunche",
+   "detail": "China ke Shenzhou-24 mission me Pakistan ke Muhammad Zeeshan Ali Tiangong station par pahunche — pehle videshi astronaut.",
+   "category": "World",
+   "exam_angle": "Shenzhou-24, Tiangong, China-Pakistan — UPSC science-tech",
+   "source": "The Hindu",
+   "source_url": "https://www.thehindu.com/sci-tech/science/chinas-shenzhou-24-space-flight-takes-off-with-pakistani-national-as-first-foreign-astronaut/article71740891.ece",
+   "genuineness": "verified",
+   "outlets": [
+    "Channel News Asia",
+    "Dawn",
+    "The Hindu",
+    "Xinhua"
+   ],
+   "image": "../images/world/world-20261127-1822-04.jpg",
+   "image_credit": "China News Service, CC BY 4.0, via Wikimedia Commons"
+  },
+  {
+   "id": "world-20261127-1822-05",
+   "published_ist": "2026-11-24T12:00:00+05:30",
+   "headline": "Riyadh tower par Houthi hamla, 11 ghayal",
+   "detail": "Drone hamle me 2 Bharatiya samet 11 log ghayal hue; Bharat ne hamle ki ninda ki aur hamle turant rokne ko kaha.",
+   "category": "World",
+   "exam_angle": "Houthi, Saudi Arabia, Riyadh — UPSC IR",
+   "source": "Al Jazeera",
+   "source_url": "https://www.aljazeera.com/news/2026/11/24/saudi-led-coalition-condemns-terrorist-attack-on-tower-in-riyadh",
+   "genuineness": "verified",
+   "outlets": [
+    "Al Jazeera",
+    "Haaretz",
+    "Arab News",
+    "The Wall Street Journal"
+   ],
+   "image": null,
+   "image_credit": null
+  }
+ ]
 }
