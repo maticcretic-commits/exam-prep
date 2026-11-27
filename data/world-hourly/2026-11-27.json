@@ -1027,6 +1027,59 @@
    ],
    "image": null,
    "image_credit": null
+  },
+  {
+   "id": "world-20261127-1922-01",
+   "published_ist": "2026-11-27T12:00:00+05:30",
+   "headline": "Karachi me imarat giri, 7 mare",
+   "detail": "Karachi ke Baloch Colony me chhah-manzila nirmanadheen imarat girne se 7 log mare aur 14 ghayal hue; malbe me fase logon ko nikaalne ka kaam jaari hai.",
+   "category": "World",
+   "exam_angle": null,
+   "source": "Dawn",
+   "source_url": "https://www.dawn.com/news/2047440",
+   "genuineness": "verified",
+   "outlets": [
+    "Dawn",
+    "Dunya News",
+    "The Express Tribune"
+   ],
+   "image": null,
+   "image_credit": null
+  },
+  {
+   "id": "world-20261127-1922-02",
+   "published_ist": "2026-11-27T12:00:00+05:30",
+   "headline": "Trump-Rutte baatchit: Ukraine, Iran, Greenland",
+   "detail": "Mar-a-Lago me Trump aur NATO pramukh Mark Rutte ki baatchit me Russia-Ukraine yuddh, Iran ke parmanu karyakram aur Greenland samjhote par charcha hui.",
+   "category": "World",
+   "exam_angle": "NATO, Trump-Rutte, Ukraine yuddh — UPSC IR",
+   "source": "The Economic Times",
+   "source_url": "https://economictimes.indiatimes.com/news/international/world-news/ukraine-war-melanias-short-term-ceasefire-iran-nukes-greenland-trump-details-mar-a-lago-talks-with-nato-chief/articleshow/136208549.cms",
+   "genuineness": "corroborated",
+   "outlets": [
+    "ANI",
+    "Gulf News"
+   ],
+   "image": null,
+   "image_credit": null
+  },
+  {
+   "id": "world-20261127-1922-03",
+   "published_ist": "2026-11-26T12:00:00+05:30",
+   "headline": "EU budget par samjhota nahi",
+   "detail": "Brussels me 12 ghante se zyada baatchit ke baad EU neta 2028–2034 budget par sahmat nahi hue; Macron ne saal ke ant tak samjhote ki samay-seema rakhi, agla faisla 17–18 December ko hoga.",
+   "category": "World",
+   "exam_angle": "EU budget, MFF 2028–2034, Ukraine karz — UPSC IR",
+   "source": "The New Indian Express",
+   "source_url": "https://www.newindianexpress.com/amp/story/world/2026/Nov/26/eu-leaders-divided-over-budget-spending-as-they-weigh-a-49-billion-loan-to-ukraine",
+   "genuineness": "verified",
+   "outlets": [
+    "Associated Press",
+    "Kyiv Post",
+    "Komersant"
+   ],
+   "image": null,
+   "image_credit": null
   }
  ]
 }
