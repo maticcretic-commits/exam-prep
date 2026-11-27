@@ -1,6 +1,61 @@
 {
- "updated_ist": "2026-11-27T19:22:00+05:30",
+ "updated_ist": "2026-11-27T20:22:00+05:30",
  "items": [
+  {
+   "id": "world-20261127-2022-01",
+   "published_ist": "2026-11-27T18:14:00+05:30",
+   "headline": "Hormuz me tanker mine se phata",
+   "detail": "Iran ke Revolutionary Guards ne kaha, shukravar subah Hormuz jaladmarumadhya me ek tel tanker mine se takrakar phat gaya, doosra tanker laut gaya.",
+   "category": "World",
+   "exam_angle": "Hormuz sankat, tel vyapar — UPSC IR",
+   "source": "IRNA",
+   "source_url": "https://en.irna.ir/news/86333992/Oil-tanker-hits-mine-in-south-of-Strait-of-Hormuz",
+   "genuineness": "verified",
+   "outlets": [
+    "IRNA",
+    "The Jerusalem Post",
+    "Anadolu",
+    "Times of Israel"
+   ],
+   "image": null,
+   "image_credit": null
+  },
+  {
+   "id": "world-20261127-2022-02",
+   "published_ist": "2026-11-26T13:26:00+05:30",
+   "headline": "Myanmar ICJ faisla nahi manega",
+   "detail": "Myanmar ke neta Min Aung Hlaing ne kaha, sarkar ICJ ke nar-sanhar faisle ke un hisson ko nahi manegi jinhe woh anuchit manti hai.",
+   "category": "World",
+   "exam_angle": "ICJ nar-sanhar faisla — UPSC IR",
+   "source": "Channel News Asia",
+   "source_url": "https://www.channelnewsasia.com/asia/myanmar-will-not-comply-icj-rohingya-genocide-ruling-6584511",
+   "genuineness": "corroborated",
+   "outlets": [
+    "Channel News Asia",
+    "The Daily Star",
+    "The Straits Times"
+   ],
+   "image": null,
+   "image_credit": null
+  },
+  {
+   "id": "world-20261127-2022-03",
+   "published_ist": "2026-11-27T12:00:00+05:30",
+   "headline": "China ke share bazaar me badi tezi",
+   "detail": "Beijing ke bazaar ko sahara dene ke sanket ke baad China ke share bazaar me do saal ki sabse badi ek-din ki tezi aayi, Shanghai aur CSI300 lagbhag 4% chadhe.",
+   "category": "World",
+   "exam_angle": "China bazaar hastakshep — UPSC Economy",
+   "source": "Channel News Asia",
+   "source_url": "https://www.channelnewsasia.com/business/china-stocks-rally-beijing-stronger-market-support-6586971",
+   "genuineness": "verified",
+   "outlets": [
+    "Channel News Asia",
+    "NDTV Profit",
+    "Reuters"
+   ],
+   "image": null,
+   "image_credit": null
+  },
   {
    "id": "world-20261127-1922-01",
    "published_ist": "2026-11-27T12:00:00+05:30",
@@ -384,59 +439,6 @@
     "Kyiv Post",
     "Moneycontrol",
     "Khaleej Times"
-   ],
-   "image": null,
-   "image_credit": null
-  },
-  {
-   "id": "world-20261127-1422-02",
-   "published_ist": "2026-11-26T12:00:00+05:30",
-   "headline": "Kuwait me drone hamle me 2 Italian mare",
-   "detail": "Kuwait ke ek hawai raksha kendra par drone hamle me Rheinmetall Italia ke 2 technician mare gaye; Italy aur Kuwait ne Iran par aarop lagaya, Iran ne inkar kiya.",
-   "category": "World",
-   "exam_angle": "Kuwait, Iran, drone hamla — UPSC IR",
-   "source": "Reuters",
-   "source_url": "https://www.reuters.com/world/asia-pacific/two-italians-killed-iranian-drone-attack-kuwait-italy-says-2026-11-26/",
-   "genuineness": "verified",
-   "outlets": [
-    "Reuters",
-    "CNN",
-    "Al Jazeera"
-   ],
-   "image": null,
-   "image_credit": null
-  },
-  {
-   "id": "world-20261127-1422-03",
-   "published_ist": "2026-11-26T12:00:00+05:30",
-   "headline": "Cuba ke paas jahaz dooba, 1 ki maut",
-   "detail": "Panama jhande wala cargo jahaz Halima Cuba ke Artemisa tat ke paas doob gaya; 16 me se 13 mile, jinme ek ki maut hui, 3 abhi laapata hain.",
-   "category": "World",
-   "exam_angle": null,
-   "source": "The Hindu",
-   "source_url": "https://www.thehindu.com/news/international/one-dead-three-missing-after-cargo-ship-sinks-off-cuba/article71749410.ece",
-   "genuineness": "verified",
-   "outlets": [
-    "The Hindu",
-    "Splash247",
-    "Deccan Chronicle"
-   ],
-   "image": null,
-   "image_credit": null
-  },
-  {
-   "id": "world-20261127-1322-01",
-   "published_ist": "2026-11-27T12:00:00+05:30",
-   "headline": "China ne Taiwan ke saamne landing abhyaas kiya",
-   "detail": "China ne Fujian ke Dacheng Bay me nagrik jahazon ko jodkar lagbhag 800 meter lamba tairta pul banakar Taiwan par utarne ka abhyaas kiya; Taiwan ke raksha mantralaya ne kaha woh is gatividhi par nazar rakhe hue hai.",
-   "category": "World",
-   "exam_angle": "China-Taiwan, amphibious abhyaas — UPSC IR",
-   "source": "Reuters",
-   "source_url": "https://www.reuters.com/world/china/chinese-military-tests-new-taiwan-landing-tactics-coastal-drills-2026-11-27/",
-   "genuineness": "corroborated",
-   "outlets": [
-    "Reuters",
-    "Taiwan Defence Ministry"
    ],
    "image": null,
    "image_credit": null
