@@ -711,6 +711,78 @@
       ],
       "image": null,
       "image_credit": null
+    },
+    {
+      "id": "world-20261127-1527-01",
+      "published_ist": "2026-11-26T12:00:00+05:30",
+      "headline": "Houthi hamla: Saudi refinery me Nepali mara",
+      "detail": "Saudi Arabia ki Jazan refinery par Houthi hamle me ek Nepali mazdoor mara gaya aur kai ghayal hue; aag lagi aur kuchh hissa band hua.",
+      "category": "World",
+      "exam_angle": "Houthi, Saudi Arabia, Yemen yuddh — UPSC IR",
+      "source": "Al Jazeera",
+      "source_url": "https://www.aljazeera.com/news/2026/11/26/attack-on-saudi-aramcos-jazan-refinery-kills-worker-disrupts-operations",
+      "genuineness": "verified",
+      "outlets": [
+        "Al Jazeera",
+        "Arab News",
+        "CNN"
+      ],
+      "image": null,
+      "image_credit": null
+    },
+    {
+      "id": "world-20261127-1527-02",
+      "published_ist": "2026-11-26T12:00:00+05:30",
+      "headline": "Indonesia khadan baadh: 13 mare, 13 laapata",
+      "detail": "Indonesia ke Bogor me gair-kanuni sone ki khadan me baadh se 13 mazdoor mare gaye aur 13 abhi 100 meter gehri khadan me fanse hain.",
+      "category": "World",
+      "exam_angle": "Indonesia, khanan durghatna — UPSC",
+      "source": "Channel News Asia",
+      "source_url": "https://www.channelnewsasia.com/asia/indonesia-mine-flooding-death-toll-missing-6583801",
+      "genuineness": "verified",
+      "outlets": [
+        "Channel News Asia",
+        "The Daily Star",
+        "The Korea Times"
+      ],
+      "image": null,
+      "image_credit": null
+    },
+    {
+      "id": "world-20261127-1527-03",
+      "published_ist": "2026-11-27T12:00:00+05:30",
+      "headline": "Russia ne Kyiv par missile hamla kiya",
+      "detail": "Russia ne raat me Kyiv par ballistic missile se hamla kiya; ek shopping centre aur 2 imaratein nishana bani, 7 log ghayal hue.",
+      "category": "World",
+      "exam_angle": "Russia-Ukraine yuddh — UPSC IR",
+      "source": "Al Jazeera",
+      "source_url": "https://www.aljazeera.com/amp/news/2026/11/27/zelenskyy-warns-of-major-russian-attack-as-trump-urges-putin-to-pull-back",
+      "genuineness": "verified",
+      "outlets": [
+        "Al Jazeera",
+        "NY Post",
+        "Reuters"
+      ],
+      "image": null,
+      "image_credit": null
+    },
+    {
+      "id": "world-20261127-1527-04",
+      "published_ist": "2026-11-26T12:00:00+05:30",
+      "headline": "FIFA par cyber hamla, data chori hua",
+      "detail": "FIFA ne kaha woh ek cyber hamle ka shikar hui, jisme vyaktigat aur vyavsayik jankari churai gayi; hamlaawaron ne staff bankar ghuspaith ki.",
+      "category": "World",
+      "exam_angle": "FIFA, cyber hamla — UPSC",
+      "source": "Reuters",
+      "source_url": "https://www.reuters.com/sports/soccer/fifa-victim-cyber-attack-files-related-world-cup-stake-selloff-unaffected-2026-11-26/",
+      "genuineness": "verified",
+      "outlets": [
+        "Reuters",
+        "Al Jazeera",
+        "Associated Press"
+      ],
+      "image": null,
+      "image_credit": null
     }
   ]
 }
