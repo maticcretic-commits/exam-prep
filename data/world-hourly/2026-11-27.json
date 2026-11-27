@@ -657,6 +657,60 @@
       ],
       "image": null,
       "image_credit": null
+    },
+    {
+      "id": "world-20261127-1422-01",
+      "published_ist": "2026-11-26T12:00:00+05:30",
+      "headline": "Trump: Putin G20 me aa sakte hain",
+      "detail": "Trump ne kaha, Putin chahein to 14-15 December ko Miami me hone wale G20 sammelan me aa sakte hain; nimantran pehle se hai, Kremlin ne abhi faisla nahi liya.",
+      "category": "World",
+      "exam_angle": "G20, America-Russia, Putin — UPSC IR",
+      "source": "Kyiv Post",
+      "source_url": "https://www.kyivpost.com/post/91344",
+      "genuineness": "verified",
+      "outlets": [
+        "Kyiv Post",
+        "Moneycontrol",
+        "Khaleej Times"
+      ],
+      "image": null,
+      "image_credit": null
+    },
+    {
+      "id": "world-20261127-1422-02",
+      "published_ist": "2026-11-26T12:00:00+05:30",
+      "headline": "Kuwait me drone hamle me 2 Italian mare",
+      "detail": "Kuwait ke ek hawai raksha kendra par drone hamle me Rheinmetall Italia ke 2 technician mare gaye; Italy aur Kuwait ne Iran par aarop lagaya, Iran ne inkar kiya.",
+      "category": "World",
+      "exam_angle": "Kuwait, Iran, drone hamla — UPSC IR",
+      "source": "Reuters",
+      "source_url": "https://www.reuters.com/world/asia-pacific/two-italians-killed-iranian-drone-attack-kuwait-italy-says-2026-11-26/",
+      "genuineness": "verified",
+      "outlets": [
+        "Reuters",
+        "CNN",
+        "Al Jazeera"
+      ],
+      "image": null,
+      "image_credit": null
+    },
+    {
+      "id": "world-20261127-1422-03",
+      "published_ist": "2026-11-26T12:00:00+05:30",
+      "headline": "Cuba ke paas jahaz dooba, 1 ki maut",
+      "detail": "Panama jhande wala cargo jahaz Halima Cuba ke Artemisa tat ke paas doob gaya; 16 me se 13 mile, jinme ek ki maut hui, 3 abhi laapata hain.",
+      "category": "World",
+      "exam_angle": null,
+      "source": "The Hindu",
+      "source_url": "https://www.thehindu.com/news/international/one-dead-three-missing-after-cargo-ship-sinks-off-cuba/article71749410.ece",
+      "genuineness": "verified",
+      "outlets": [
+        "The Hindu",
+        "Splash247",
+        "Deccan Chronicle"
+      ],
+      "image": null,
+      "image_credit": null
     }
   ]
 }
