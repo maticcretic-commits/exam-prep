@@ -1,6 +1,101 @@
 {
-  "updated_ist": "2026-11-26T22:25:15+05:30",
+  "updated_ist": "2026-11-27T06:26:41+05:30",
   "items": [
+    {
+      "id": "world-20261127-0622-01",
+      "published_ist": "2026-11-26T12:00:00+05:30",
+      "headline": "Kuwait me drone hamla, 2 Italian mare",
+      "detail": "Kuwait ke hawai raksha kendra par drone hamle me do Italian technician mare gaye aur do log ghayal hue; Kuwait aur Italy ne Iran ko zimmedar bataya, Iran ne inkar kiya.",
+      "category": "World",
+      "exam_angle": "Iran-Kuwait tanav, Hormuz sankat — UPSC IR",
+      "source": "Al Jazeera",
+      "source_url": "https://www.aljazeera.com/news/2026/11/26/two-italians-killed-after-iranian-drones-strike-facility-says-kuwait",
+      "genuineness": "verified",
+      "outlets": [
+        "Al Jazeera",
+        "CNN",
+        "WSJ",
+        "Channel News Asia"
+      ],
+      "image": null,
+      "image_credit": null
+    },
+    {
+      "id": "world-20261127-0622-02",
+      "published_ist": "2026-11-26T12:00:00+05:30",
+      "headline": "Ibiza ke paas tanker palta, 1 ki maut",
+      "detail": "Spain ke Ibiza ke paas diesel bhara Malta-flag tanker Med Emre palat gaya; 17 crew me se 1 ki maut hui, 6 ghayal; abhi tel risaav nahi mila, Spain ne pradushan-roktham yojana shuru ki.",
+      "category": "World",
+      "exam_angle": null,
+      "source": "Reuters",
+      "source_url": "https://www.reuters.com/business/energy/crew-member-dies-after-diesel-tanker-sinks-off-ibiza-spain-launches-pollution-2026-11-26/",
+      "genuineness": "verified",
+      "outlets": [
+        "Reuters",
+        "Arab News",
+        "Al Jazeera",
+        "Channel News Asia"
+      ],
+      "image": null,
+      "image_credit": null
+    },
+    {
+      "id": "world-20261127-0622-03",
+      "published_ist": "2026-11-26T12:00:00+05:30",
+      "headline": "Colombia supermarket bandhak sankat khatm, sab surakshit",
+      "detail": "Cartagena ke supermarket me 16 ghante ke bandhak sankat ke baad suraksha balon ne sabhi bandhakon ko surakshit chhudaya; ek hamlaawar mara gaya aur baaki giraftar hue.",
+      "category": "World",
+      "exam_angle": null,
+      "source": "Qatar Tribune",
+      "source_url": "https://www.qatar-tribune.com/article/266432/world/all-hostages-freed-after-16-hour-supermarket-siege-in-colombia",
+      "genuineness": "verified",
+      "outlets": [
+        "Qatar Tribune",
+        "Arab News",
+        "The Daily Star",
+        "Manila Times"
+      ],
+      "image": null,
+      "image_credit": null
+    },
+    {
+      "id": "world-20261127-0622-04",
+      "published_ist": "2026-11-26T12:00:00+05:30",
+      "headline": "Zelensky ki chetavni: Russia bada hamla karega",
+      "detail": "Ukraine ke rashtrapati Zelensky ne kaha Russia aane wale dinon me bada hamla karne ki taiyari kar raha hai; unhone logo se missile chetavni par dhyan dene ko kaha.",
+      "category": "World",
+      "exam_angle": "Russia-Ukraine yuddh — UPSC IR",
+      "source": "Reuters",
+      "source_url": "https://www.reuters.com/world/zelenskiy-says-russia-preparing-new-mass-strike-coming-days-2026-11-26/",
+      "genuineness": "verified",
+      "outlets": [
+        "Reuters",
+        "TRT World",
+        "Ukrinform",
+        "NDTV"
+      ],
+      "image": null,
+      "image_credit": null
+    },
+    {
+      "id": "world-20261127-0622-05",
+      "published_ist": "2026-11-26T12:00:00+05:30",
+      "headline": "ECB ke naye pramukh bane De Cos",
+      "detail": "Eurozone deshon ne Spain ke Pablo Hernandez de Cos ko European Central Bank ka agla pramukh chuna; woh February me Christine Lagarde ki jagah lenge aur pehle Spanish ECB pramukh honge.",
+      "category": "World",
+      "exam_angle": "ECB, eurozone, kendriya bank — arthvyavastha",
+      "source": "Reuters",
+      "source_url": "https://www.reuters.com/world/europe/euro-countries-pick-spains-de-cos-ecb-chief-costa-says-2026-11-26/",
+      "genuineness": "verified",
+      "outlets": [
+        "Reuters",
+        "Al Jazeera",
+        "WSJ",
+        "CNN"
+      ],
+      "image": null,
+      "image_credit": null
+    },
     {
       "id": "world-20261126-2222-01",
       "published_ist": "2026-11-26T13:30:00+05:30",
@@ -355,101 +450,6 @@
         "Aaj English TV",
         "Dunya News",
         "Gulf News"
-      ],
-      "image": null,
-      "image_credit": null
-    },
-    {
-      "id": "world-20261126-1522-02",
-      "published_ist": "2026-11-25T12:00:00+05:30",
-      "headline": "Gaza me Hamas suraksha pramukh mare gaye",
-      "detail": "Israel ke hawai hamle me Hamas ke uttari Gaza suraksha pramukh Mohammed Abu al-Ouf, unki patni aur do betiyan mare gaye; do din me mare gaye doosre varishth adhikari hain.",
-      "category": "World",
-      "exam_angle": "Gaza, Hamas, Israel — UPSC IR",
-      "source": "The News",
-      "source_url": "https://www.thenews.pk/print/1450841-israeli-strike-kills-hamas-security-official-and-family",
-      "genuineness": "verified",
-      "outlets": [
-        "AFP",
-        "BBC",
-        "Al Jazeera",
-        "Dawn"
-      ],
-      "image": null,
-      "image_credit": null
-    },
-    {
-      "id": "world-20261126-1522-03",
-      "published_ist": "2026-11-25T12:00:00+05:30",
-      "headline": "Sudan me drone hamle, 19 nagrik mare",
-      "detail": "Sudan ke Blue Nile rajya me RSF ke drone hamlo me kam se kam 19 nagrik mare gaye aur 20 se zyada ghayal hue, adhikar samuh Emergency Lawyers ne bataya.",
-      "category": "World",
-      "exam_angle": "Sudan grih yuddh, RSF drone yuddh — UPSC IR",
-      "source": "Reuters",
-      "source_url": "https://www.reuters.com/world/africa/drone-strikes-kill-19-civilians-southeastern-sudan-says-rights-group-2026-11-25/",
-      "genuineness": "verified",
-      "outlets": [
-        "Reuters",
-        "Al Jazeera",
-        "Anadolu Agency"
-      ],
-      "image": null,
-      "image_credit": null
-    },
-    {
-      "id": "world-20261126-1522-04",
-      "published_ist": "2026-11-25T12:00:00+05:30",
-      "headline": "Hormuz me LNG tanker par mine hamla",
-      "detail": "Iran ke Revolutionary Guards ke mutabik, Hormuz Strait me ek LNG tanker samudri mine se takrakar aag me jal utha; usi din do tel tanker bhi mine ki chapat me aaye.",
-      "category": "World",
-      "exam_angle": "Hormuz Strait, tel vyapar, Iran — UPSC IR",
-      "source": "Arab News",
-      "source_url": "https://www.arabnews.com/middle-east/iran-claims-lng-tanker-ablaze-in-hormuz-after-hitting-mine-3013942",
-      "genuineness": "verified",
-      "outlets": [
-        "Arab News",
-        "Xinhua",
-        "Saudi Gazette",
-        "Tribune"
-      ],
-      "image": "../images/world/world-20261126-1522-04.jpg",
-      "image_credit": "NASA, Public domain (Wikimedia Commons)"
-    },
-    {
-      "id": "world-20261126-1522-05",
-      "published_ist": "2026-11-26T12:00:00+05:30",
-      "headline": "Har American bachche ko do SpaceX share",
-      "detail": "Elon Musk ne kaha, America ke har bachche ko SpaceX ke do share milenge — ek company se, ek unki taraf se; kul keemat lagbhag 18 arab dollar.",
-      "category": "World",
-      "exam_angle": "Trump Account, SpaceX, AI boom — UPSC Economy",
-      "source": "Reuters",
-      "source_url": "https://www.reuters.com/business/media-telecom/musk-says-every-child-us-will-get-two-spacex-shares-2026-11-26/",
-      "genuineness": "verified",
-      "outlets": [
-        "Reuters",
-        "Channel News Asia",
-        "Dawn",
-        "The Hindu"
-      ],
-      "image": null,
-      "image_credit": null
-    },
-    {
-      "id": "world-20261126-1422-01",
-      "published_ist": "2026-11-25T12:05:00+05:30",
-      "headline": "Pakistan ke pehle astronaut Tiangong pahunche",
-      "detail": "Pakistan ke Muhammad Zeeshan Ali Shenzhou-24 mission ke saath China ke Tiangong space station par pahunchne wale pehle videshi astronaut bane.",
-      "category": "World",
-      "exam_angle": "China-Pakistan space sahyog, Tiangong — UPSC IR",
-      "source": "Dawn",
-      "source_url": "https://www.dawn.com/news/2047153",
-      "genuineness": "verified",
-      "outlets": [
-        "Dawn",
-        "Nikkei Asia",
-        "Arab News",
-        "Channel News Asia",
-        "Al Jazeera"
       ],
       "image": null,
       "image_credit": null
