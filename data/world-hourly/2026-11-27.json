@@ -1135,6 +1135,106 @@
    ],
    "image": null,
    "image_credit": null
+  },
+  {
+   "id": "world-20261127-2122-01",
+   "published_ist": "2026-11-26T12:00:00+05:30",
+   "headline": "Jazan refinery par Houthi hamla, 1 mare",
+   "detail": "Saudi ke Jazan refinery par Houthi hamle me ek Nepali mazdoor mara gaya aur kai ghayal hue; aag lagi aur kuch operations rook gaye.",
+   "category": "World",
+   "exam_angle": "Houthi, Saudi Arabia, Jazan refinery — UPSC IR",
+   "source": "Al Jazeera",
+   "source_url": "https://www.aljazeera.com/news/2026/11/26/attack-on-saudi-aramcos-jazan-refinery-kills-worker-disrupts-operations?traffic_source=rss",
+   "genuineness": "verified",
+   "outlets": [
+    "Al Jazeera",
+    "The Jerusalem Post",
+    "Arab News",
+    "CNN",
+    "Khaleej Times"
+   ],
+   "image": null,
+   "image_credit": null
+  },
+  {
+   "id": "world-20261127-2122-02",
+   "published_ist": "2026-11-26T12:00:00+05:30",
+   "headline": "Congo me Ebola ke 12,000 se zyada case",
+   "detail": "Congo me Ebola ke pusht case 12,021 ho gaye aur 5,904 log mare; purvi hisse me ladai ke karan roktham mushkil ho rahi hai.",
+   "category": "World",
+   "exam_angle": "Congo Ebola, Bundibugyo strain — UPSC health",
+   "source": "Al Jazeera",
+   "source_url": "https://www.aljazeera.com/news/2026/11/26/dr-congo-ebola-cases-surpass-12000-as-fighting-disrupts-response-in-east?traffic_source=rss",
+   "genuineness": "verified",
+   "outlets": [
+    "Al Jazeera",
+    "Reuters",
+    "TRT World",
+    "Xinhua",
+    "The Straits Times"
+   ],
+   "image": null,
+   "image_credit": null
+  },
+  {
+   "id": "world-20261127-2122-03",
+   "published_ist": "2026-11-26T12:00:00+05:30",
+   "headline": "FIFA par cyber hamla, data chori hua",
+   "detail": "FIFA ne kaha cyber hamle me uski vyaktigat aur vyavsayik jankari chori hui; hamlaawar group ne 12 GB se zyada data leak ka dawa kiya hai.",
+   "category": "World",
+   "exam_angle": "FIFA, cybersecurity — UPSC",
+   "source": "Reuters",
+   "source_url": "https://www.reuters.com/sports/soccer/fifa-victim-cyber-attack-files-related-world-cup-stake-selloff-unaffected-2026-11-26/",
+   "genuineness": "verified",
+   "outlets": [
+    "Reuters",
+    "Al Jazeera",
+    "The Week",
+    "Swissinfo",
+    "Le Temps"
+   ],
+   "image": null,
+   "image_credit": null
+  },
+  {
+   "id": "world-20261127-2122-04",
+   "published_ist": "2026-11-27T12:00:00+05:30",
+   "headline": "AFP par cyber hamla, platform band",
+   "detail": "AFP ka content platform AFP Forum cyber hamle ke baad band kar diya gaya; jaanch jaari hai, hamlaawar ka pata abhi nahi chala.",
+   "category": "World",
+   "exam_angle": "AFP, cyber hamla — UPSC",
+   "source": "Al Jazeera",
+   "source_url": "https://www.aljazeera.com/amp/news/2026/11/27/global-news-agency-afp-reports-cyberattack-shuts-down-content-platform",
+   "genuineness": "verified",
+   "outlets": [
+    "Al Jazeera",
+    "Arab News",
+    "Mathrubhumi",
+    "Cybernews",
+    "Times Now"
+   ],
+   "image": null,
+   "image_credit": null
+  },
+  {
+   "id": "world-20261127-2122-05",
+   "published_ist": "2026-11-27T12:00:00+05:30",
+   "headline": "Erdogan ne Mecca raksha samjhota manzoor kiya",
+   "detail": "Turkey ke rashtrapati Erdogan ne Pakistan aur Saudi Arabia ke saath Mecca sanyukt raksha samjhote ko manzoori di; ek par hamla sab par hamla mana jayega.",
+   "category": "World",
+   "exam_angle": "Mecca raksha samjhota, Turkey-Pakistan-Saudi — UPSC IR",
+   "source": "Reuters",
+   "source_url": "https://www.reuters.com/world/asia-pacific/erdogan-completes-turkeys-ratification-mecca-defence-pact-2026-11-27/",
+   "genuineness": "verified",
+   "outlets": [
+    "Reuters",
+    "Arab News",
+    "Dawn",
+    "Hurriyet Daily News",
+    "The New Indian Express"
+   ],
+   "image": null,
+   "image_credit": null
   }
  ]
 }
