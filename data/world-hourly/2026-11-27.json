@@ -587,6 +587,76 @@
       ],
       "image": null,
       "image_credit": null
+    },
+    {
+      "id": "world-20261127-1322-01",
+      "published_ist": "2026-11-27T12:00:00+05:30",
+      "headline": "China ne Taiwan ke saamne landing abhyaas kiya",
+      "detail": "China ne Fujian ke Dacheng Bay me nagrik jahazon ko jodkar lagbhag 800 meter lamba tairta pul banakar Taiwan par utarne ka abhyaas kiya; Taiwan ke raksha mantralaya ne kaha woh is gatividhi par nazar rakhe hue hai.",
+      "category": "World",
+      "exam_angle": "China-Taiwan, amphibious abhyaas — UPSC IR",
+      "source": "Reuters",
+      "source_url": "https://www.reuters.com/world/china/chinese-military-tests-new-taiwan-landing-tactics-coastal-drills-2026-11-27/",
+      "genuineness": "corroborated",
+      "outlets": [
+        "Reuters",
+        "Taiwan Defence Ministry"
+      ],
+      "image": null,
+      "image_credit": null
+    },
+    {
+      "id": "world-20261127-1322-02",
+      "published_ist": "2026-11-27T12:00:00+05:30",
+      "headline": "Drone Latvia ki hawai seema me ghusa",
+      "detail": "Shukravaar subah ek ajnaat drone thodi der ke liye Latvia ki hawai seema me ghusa; NATO ke ladaku viman aur interceptor drone bheje gaye, koi nuksan nahi hua.",
+      "category": "World",
+      "exam_angle": "Latvia, NATO, drone ghuspaith — UPSC IR",
+      "source": "Reuters",
+      "source_url": "https://www.reuters.com/world/drone-briefly-violates-latvian-airspace-latvian-armed-forces-say-2026-11-27/",
+      "genuineness": "corroborated",
+      "outlets": [
+        "Reuters",
+        "Global Security Centre"
+      ],
+      "image": null,
+      "image_credit": null
+    },
+    {
+      "id": "world-20261127-1322-03",
+      "published_ist": "2026-11-27T12:00:00+05:30",
+      "headline": "Duterte ka ICC mukadma Somvaar se",
+      "detail": "Philippines ke poorv rashtrapati Rodrigo Duterte par ICC me manavta ke khilaf apraadh ka mukadma 30 November se shuru hoga; unpar 2011-2019 ke beech 85 hatyaon ke aarop hain.",
+      "category": "World",
+      "exam_angle": "ICC, Philippines, manavta ke khilaf apraadh — UPSC IR",
+      "source": "Reuters",
+      "source_url": "https://www.reuters.com/world/asia-pacific/families-slain-filipinos-seek-justice-dutertes-icc-trial-set-start-2026-11-27/",
+      "genuineness": "verified",
+      "outlets": [
+        "Reuters",
+        "Manila Times",
+        "Philstar"
+      ],
+      "image": null,
+      "image_credit": null
+    },
+    {
+      "id": "world-20261127-1322-04",
+      "published_ist": "2026-11-27T12:00:00+05:30",
+      "headline": "Erdogan ne Mecca raksha samjhota manzoor kiya",
+      "detail": "Turkey ke rashtrapati Erdogan ne Pakistan aur Saudi Arabia ke saath Mecca sanyukt raksha samjhote ko aupcharik manzoori di; sansad ne ise 5 November ko pass kiya tha.",
+      "category": "World",
+      "exam_angle": "Turkey, Pakistan, Saudi Arabia raksha samjhota — UPSC IR",
+      "source": "Reuters",
+      "source_url": "https://www.reuters.com/world/asia-pacific/erdogan-completes-turkeys-ratification-mecca-defence-pact-2026-11-27/",
+      "genuineness": "verified",
+      "outlets": [
+        "Reuters",
+        "Arab News",
+        "Türkiye Today"
+      ],
+      "image": null,
+      "image_credit": null
     }
   ]
 }
