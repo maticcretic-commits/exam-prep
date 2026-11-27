@@ -212,6 +212,76 @@
     ],
     "answer_index": 0
    }
+  },
+  {
+   "episode": 172,
+   "video_hi": "wSKTR9--GPs",
+   "video_hinglish": "wSKTR9--GPs",
+   "capsules": [
+    {
+     "id": "ca-ep172-s1",
+     "headline_hi": "Bharat-EU FTA, 16 December ko hastakshar",
+     "headline_hinglish": "Bharat-EU FTA, 16 December ko hastakshar",
+     "detail_hi": "Bharat-EU mukt vyapar samjhauta 16 December ko Brussels mein hoga; 99% vyapar par shulk zero hoga.",
+     "detail_hinglish": "Bharat-EU mukt vyapar samjhauta 16 December ko Brussels mein hoga; 99% vyapar par shulk zero hoga.",
+     "category_hi": "Economy",
+     "category_en": "Economy"
+    },
+    {
+     "id": "ca-ep172-s2",
+     "headline_hi": "IORA baithak, Delhi Communiqué par sehmati",
+     "headline_hinglish": "IORA baithak, Delhi Communiqué par sehmati",
+     "detail_hi": "Delhi mein IORA mantriyon ki baithak mein 23 sadasya deshon ne samudri suraksha par Delhi Communiqué apnaya.",
+     "detail_hinglish": "Delhi mein IORA mantriyon ki baithak mein 23 sadasya deshon ne samudri suraksha par Delhi Communiqué apnaya.",
+     "category_hi": "International",
+     "category_en": "National"
+    },
+    {
+     "id": "ca-ep172-s3",
+     "headline_hi": "Thirupparankundram par Deepam jalega, SC ka aadesh",
+     "headline_hinglish": "Thirupparankundram par Deepam jalega, SC ka aadesh",
+     "detail_hi": "Supreme Court ne 28 November ko deepathoon par Karthigai Deepam jalane ka aadesh diya, trust board nilambit kiya.",
+     "detail_hinglish": "Supreme Court ne 28 November ko deepathoon par Karthigai Deepam jalane ka aadesh diya, trust board nilambit kiya.",
+     "category_hi": "Polity",
+     "category_en": "Polity"
+    },
+    {
+     "id": "ca-ep172-s4",
+     "headline_hi": "Poorv CJI Gavai ka nyaypalika par sawal",
+     "headline_hinglish": "Poorv CJI Gavai ka nyaypalika par sawal",
+     "detail_hi": "Gavai ne Rashtrapati ko patra likhkar nyaypalika mein SC, ST, OBC ke kam pratinidhitva par chinta jatai.",
+     "detail_hinglish": "Gavai ne Rashtrapati ko patra likhkar nyaypalika mein SC, ST, OBC ke kam pratinidhitva par chinta jatai.",
+     "category_hi": "Polity",
+     "category_en": "Polity"
+    },
+    {
+     "id": "ca-ep172-s5",
+     "headline_hi": "Rohit Sharma phir Mumbai Indians ke kaptan",
+     "headline_hinglish": "Rohit Sharma phir Mumbai Indians ke kaptan",
+     "detail_hi": "Rohit Sharma teen saal baad Mumbai Indians ke kaptan bane.",
+     "detail_hinglish": "Rohit Sharma teen saal baad Mumbai Indians ke kaptan bane.",
+     "category_hi": "Sports",
+     "category_en": "Sports"
+    }
+   ],
+   "mcq": {
+    "id": "ca-ep172-mcq",
+    "q_hi": "Rohit Sharma ne kitne saal baad Mumbai Indians ki kaptani phir se sambhali?",
+    "q_hinglish": "Rohit Sharma ne kitne saal baad Mumbai Indians ki kaptani phir se sambhali?",
+    "options_hi": [
+     "Do saal",
+     "Teen saal",
+     "Chaar saal",
+     "Paanch saal"
+    ],
+    "options_hinglish": [
+     "Do saal",
+     "Teen saal",
+     "Chaar saal",
+     "Paanch saal"
+    ],
+    "answer_index": 1
+   }
   }
  ]
 }
