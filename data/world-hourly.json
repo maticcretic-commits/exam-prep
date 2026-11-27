@@ -1,6 +1,78 @@
 {
-  "updated_ist": "2026-11-27T14:24:00+05:30",
+  "updated_ist": "2026-11-27T15:27:00+05:30",
   "items": [
+    {
+      "id": "world-20261127-1527-01",
+      "published_ist": "2026-11-26T12:00:00+05:30",
+      "headline": "Houthi hamla: Saudi refinery me Nepali mara",
+      "detail": "Saudi Arabia ki Jazan refinery par Houthi hamle me ek Nepali mazdoor mara gaya aur kai ghayal hue; aag lagi aur kuchh hissa band hua.",
+      "category": "World",
+      "exam_angle": "Houthi, Saudi Arabia, Yemen yuddh — UPSC IR",
+      "source": "Al Jazeera",
+      "source_url": "https://www.aljazeera.com/news/2026/11/26/attack-on-saudi-aramcos-jazan-refinery-kills-worker-disrupts-operations",
+      "genuineness": "verified",
+      "outlets": [
+        "Al Jazeera",
+        "Arab News",
+        "CNN"
+      ],
+      "image": null,
+      "image_credit": null
+    },
+    {
+      "id": "world-20261127-1527-02",
+      "published_ist": "2026-11-26T12:00:00+05:30",
+      "headline": "Indonesia khadan baadh: 13 mare, 13 laapata",
+      "detail": "Indonesia ke Bogor me gair-kanuni sone ki khadan me baadh se 13 mazdoor mare gaye aur 13 abhi 100 meter gehri khadan me fanse hain.",
+      "category": "World",
+      "exam_angle": "Indonesia, khanan durghatna — UPSC",
+      "source": "Channel News Asia",
+      "source_url": "https://www.channelnewsasia.com/asia/indonesia-mine-flooding-death-toll-missing-6583801",
+      "genuineness": "verified",
+      "outlets": [
+        "Channel News Asia",
+        "The Daily Star",
+        "The Korea Times"
+      ],
+      "image": null,
+      "image_credit": null
+    },
+    {
+      "id": "world-20261127-1527-03",
+      "published_ist": "2026-11-27T12:00:00+05:30",
+      "headline": "Russia ne Kyiv par missile hamla kiya",
+      "detail": "Russia ne raat me Kyiv par ballistic missile se hamla kiya; ek shopping centre aur 2 imaratein nishana bani, 7 log ghayal hue.",
+      "category": "World",
+      "exam_angle": "Russia-Ukraine yuddh — UPSC IR",
+      "source": "Al Jazeera",
+      "source_url": "https://www.aljazeera.com/amp/news/2026/11/27/zelenskyy-warns-of-major-russian-attack-as-trump-urges-putin-to-pull-back",
+      "genuineness": "verified",
+      "outlets": [
+        "Al Jazeera",
+        "NY Post",
+        "Reuters"
+      ],
+      "image": null,
+      "image_credit": null
+    },
+    {
+      "id": "world-20261127-1527-04",
+      "published_ist": "2026-11-26T12:00:00+05:30",
+      "headline": "FIFA par cyber hamla, data chori hua",
+      "detail": "FIFA ne kaha woh ek cyber hamle ka shikar hui, jisme vyaktigat aur vyavsayik jankari churai gayi; hamlaawaron ne staff bankar ghuspaith ki.",
+      "category": "World",
+      "exam_angle": "FIFA, cyber hamla — UPSC",
+      "source": "Reuters",
+      "source_url": "https://www.reuters.com/sports/soccer/fifa-victim-cyber-attack-files-related-world-cup-stake-selloff-unaffected-2026-11-26/",
+      "genuineness": "verified",
+      "outlets": [
+        "Reuters",
+        "Al Jazeera",
+        "Associated Press"
+      ],
+      "image": null,
+      "image_credit": null
+    },
     {
       "id": "world-20261127-1422-01",
       "published_ist": "2026-11-26T12:00:00+05:30",
@@ -373,90 +445,6 @@
         "Firstpost",
         "Haaretz",
         "Associated Press"
-      ],
-      "image": null,
-      "image_credit": null
-    },
-    {
-      "id": "world-20261127-0922-03",
-      "published_ist": "2026-11-26T12:00:00+05:30",
-      "headline": "Argentina ne note chhapna band kiya",
-      "detail": "Argentina ki Congress ne 141-0 se kanoon pass kar kendriya bank ko sarkar ke kharch ke liye note chhapne se rok diya; bank ka kaam ab sirf peso ki keemat bachana hoga.",
-      "category": "World",
-      "exam_angle": "Argentina ki arthvyavastha aur kendriya bank ki swatantrata",
-      "source": "Al Jazeera",
-      "source_url": "https://www.aljazeera.com/news/2026/11/27/argentina-bars-central-bank-from-printing-money-to-fund-government-spending",
-      "genuineness": "verified",
-      "outlets": [
-        "Associated Press",
-        "Al Jazeera",
-        "The Economic Times"
-      ],
-      "image": null,
-      "image_credit": null
-    },
-    {
-      "id": "world-20261127-0822-01",
-      "published_ist": "2026-11-26T12:00:00+05:30",
-      "headline": "North Korea ne Russia ko hathiyar dena roka",
-      "detail": "Ukraine ki khufia agency GUR ke mutabik Kim Jong Un ne Russia ko KN-23 missile aur golabarud dena roka, aur Russian sainya vimanon ke liye apna hawai kshetra band kar diya.",
-      "category": "World",
-      "exam_angle": "North Korea-Russia sainya sahyog, Ukraine yuddh",
-      "source": "Reuters",
-      "source_url": "https://www.reuters.com/business/aerospace-defense/ukraine-says-north-korea-temporarily-halted-missile-shipments-ally-russia-2026-11-26/",
-      "genuineness": "verified",
-      "outlets": [
-        "Reuters",
-        "The New Voice of Ukraine",
-        "Chosun Biz",
-        "Ukrainska Pravda",
-        "Interfax-Ukraine",
-        "Firstpost",
-        "Ukrinform"
-      ],
-      "image": null,
-      "image_credit": null
-    },
-    {
-      "id": "world-20261127-0822-02",
-      "published_ist": "2026-11-26T12:00:00+05:30",
-      "headline": "Nvidia ne 4 deshon ko server bhejna roka",
-      "detail": "America ke naye export control ke baad Nvidia ne Dell aur Supermicro se kaha Malaysia, Singapore, Thailand aur Indonesia ko AI server na bhejein, taaki China ko chip na mile.",
-      "category": "World",
-      "exam_angle": "America ke AI chip export control aur China ko chip se rokna",
-      "source": "Channel News Asia",
-      "source_url": "https://www.channelnewsasia.com/asia/nvidia-halts-chip-shipments-southeast-asia-6584351",
-      "genuineness": "verified",
-      "outlets": [
-        "Financial Times",
-        "Channel News Asia",
-        "The Straits Times",
-        "The Hindu",
-        "Barron's",
-        "The Times of India",
-        "Business Standard",
-        "Engadget"
-      ],
-      "image": null,
-      "image_credit": null
-    },
-    {
-      "id": "world-20261127-0822-03",
-      "published_ist": "2026-11-25T17:57:36+05:30",
-      "headline": "3.5 arab password aur record khule me mile",
-      "detail": "Do asurakshit database se 3.5 arab se zyada username, password aur vyaktigat record mile — ek me lagbhag 2 arab login credential, dusre me 84 crore se zyada Chinese ID number.",
-      "category": "World",
-      "exam_angle": "Cybersecurity: data leak, infostealer malware",
-      "source": "Malwarebytes",
-      "source_url": "https://www.malwarebytes.com/blog/data-breaches/2026/11/two-exposed-databases-held-over-3-5-billion-records",
-      "genuineness": "verified",
-      "outlets": [
-        "Malwarebytes",
-        "NDTV",
-        "Gadgets 360",
-        "IT Magazine",
-        "TechInformed",
-        "Engadget"
       ],
       "image": null,
       "image_credit": null
