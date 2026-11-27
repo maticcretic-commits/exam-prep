@@ -142,6 +142,76 @@
     ],
     "answer_index": 2
    }
+  },
+  {
+   "episode": 171,
+   "video_hi": "2Xnnz2XGV94",
+   "video_hinglish": "2Xnnz2XGV94",
+   "capsules": [
+    {
+     "id": "ca-ep171-s1",
+     "headline_hi": "Bharat-America trade deal antim charan mein",
+     "headline_hinglish": "Bharat-America trade deal antim charan mein",
+     "detail_hi": "Mantri Piyush Goyal ne kaha Bharat aur America dwipakshiya vyapar samjhote ko antim roop dene ke kareeb hain.",
+     "detail_hinglish": "Mantri Piyush Goyal ne kaha Bharat aur America dwipakshiya vyapar samjhote ko antim roop dene ke kareeb hain.",
+     "category_hi": "Economy",
+     "category_en": "Economy"
+    },
+    {
+     "id": "ca-ep171-s2",
+     "headline_hi": "Chunav Aayog website khaami, voter data leak",
+     "headline_hinglish": "Chunav Aayog website khaami, voter data leak",
+     "detail_hi": "Reuters ki report ke baad Chunav Aayog ne website ki khaami theek ki, jisme voter ki samvedansheel jaankari dikh rahi thi.",
+     "detail_hinglish": "Reuters ki report ke baad Chunav Aayog ne website ki khaami theek ki, jisme voter ki samvedansheel jaankari dikh rahi thi.",
+     "category_hi": "Polity",
+     "category_en": "Polity"
+    },
+    {
+     "id": "ca-ep171-s3",
+     "headline_hi": "UK migration 1997 ke baad sabse kam",
+     "headline_hinglish": "UK migration 1997 ke baad sabse kam",
+     "detail_hi": "UK ki net migration ghata kar sattar saat hazaar reh gayi, jo 1997 ke baad sabse kam hai.",
+     "detail_hinglish": "UK ki net migration ghata kar sattar saat hazaar reh gayi, jo 1997 ke baad sabse kam hai.",
+     "category_hi": "International",
+     "category_en": "National"
+    },
+    {
+     "id": "ca-ep171-s4",
+     "headline_hi": "SP ne UP chunav ka ghoshna-patra jaari kiya",
+     "headline_hinglish": "SP ne UP chunav ka ghoshna-patra jaari kiya",
+     "detail_hi": "Samajwadi Party ne 2027 UP Vidhan Sabha chunav ke liye PDA Ka Pran Patra jaari kiya, yuva, naukri aur kisan par focus hai.",
+     "detail_hinglish": "Samajwadi Party ne 2027 UP Vidhan Sabha chunav ke liye PDA Ka Pran Patra jaari kiya, yuva, naukri aur kisan par focus hai.",
+     "category_hi": "Polity",
+     "category_en": "Polity"
+    },
+    {
+     "id": "ca-ep171-s5",
+     "headline_hi": "Budget se pehle 200 stakeholders se salah",
+     "headline_hinglish": "Budget se pehle 200 stakeholders se salah",
+     "detail_hi": "Vitt Mantri Nirmala Sitharaman se pre-Budget baithakon mein 13 sectors ke 200 se zyada stakeholders ne hissa liya.",
+     "detail_hinglish": "Vitt Mantri Nirmala Sitharaman se pre-Budget baithakon mein 13 sectors ke 200 se zyada stakeholders ne hissa liya.",
+     "category_hi": "Economy",
+     "category_en": "Economy"
+    }
+   ],
+   "mcq": {
+    "id": "ca-ep171-mcq",
+    "q_hi": "UK ki net migration ghata kar kitni reh gayi hai?",
+    "q_hinglish": "UK ki net migration ghata kar kitni reh gayi hai?",
+    "options_hi": [
+     "77,000",
+     "1,77,000",
+     "47,000",
+     "67,000"
+    ],
+    "options_hinglish": [
+     "77,000",
+     "1,77,000",
+     "47,000",
+     "67,000"
+    ],
+    "answer_index": 0
+   }
   }
  ]
 }
