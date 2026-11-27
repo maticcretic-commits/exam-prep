@@ -1,6 +1,60 @@
 {
-  "updated_ist": "2026-11-27T13:22:00+05:30",
+  "updated_ist": "2026-11-27T14:24:00+05:30",
   "items": [
+    {
+      "id": "world-20261127-1422-01",
+      "published_ist": "2026-11-26T12:00:00+05:30",
+      "headline": "Trump: Putin G20 me aa sakte hain",
+      "detail": "Trump ne kaha, Putin chahein to 14-15 December ko Miami me hone wale G20 sammelan me aa sakte hain; nimantran pehle se hai, Kremlin ne abhi faisla nahi liya.",
+      "category": "World",
+      "exam_angle": "G20, America-Russia, Putin — UPSC IR",
+      "source": "Kyiv Post",
+      "source_url": "https://www.kyivpost.com/post/91344",
+      "genuineness": "verified",
+      "outlets": [
+        "Kyiv Post",
+        "Moneycontrol",
+        "Khaleej Times"
+      ],
+      "image": null,
+      "image_credit": null
+    },
+    {
+      "id": "world-20261127-1422-02",
+      "published_ist": "2026-11-26T12:00:00+05:30",
+      "headline": "Kuwait me drone hamle me 2 Italian mare",
+      "detail": "Kuwait ke ek hawai raksha kendra par drone hamle me Rheinmetall Italia ke 2 technician mare gaye; Italy aur Kuwait ne Iran par aarop lagaya, Iran ne inkar kiya.",
+      "category": "World",
+      "exam_angle": "Kuwait, Iran, drone hamla — UPSC IR",
+      "source": "Reuters",
+      "source_url": "https://www.reuters.com/world/asia-pacific/two-italians-killed-iranian-drone-attack-kuwait-italy-says-2026-11-26/",
+      "genuineness": "verified",
+      "outlets": [
+        "Reuters",
+        "CNN",
+        "Al Jazeera"
+      ],
+      "image": null,
+      "image_credit": null
+    },
+    {
+      "id": "world-20261127-1422-03",
+      "published_ist": "2026-11-26T12:00:00+05:30",
+      "headline": "Cuba ke paas jahaz dooba, 1 ki maut",
+      "detail": "Panama jhande wala cargo jahaz Halima Cuba ke Artemisa tat ke paas doob gaya; 16 me se 13 mile, jinme ek ki maut hui, 3 abhi laapata hain.",
+      "category": "World",
+      "exam_angle": null,
+      "source": "The Hindu",
+      "source_url": "https://www.thehindu.com/news/international/one-dead-three-missing-after-cargo-ship-sinks-off-cuba/article71749410.ece",
+      "genuineness": "verified",
+      "outlets": [
+        "The Hindu",
+        "Splash247",
+        "Deccan Chronicle"
+      ],
+      "image": null,
+      "image_credit": null
+    },
     {
       "id": "world-20261127-1322-01",
       "published_ist": "2026-11-27T12:00:00+05:30",
@@ -403,65 +457,6 @@
         "IT Magazine",
         "TechInformed",
         "Engadget"
-      ],
-      "image": null,
-      "image_credit": null
-    },
-    {
-      "id": "world-20261127-0722-01",
-      "published_ist": "2026-11-26T12:00:00+05:30",
-      "headline": "Trump ne Putin se hamle rokne ko kaha",
-      "detail": "America ke rashtrapati Trump ne kaha unhone China me Putin se Europe bhar me sainya hamle rokne ko kaha, taaki Russia-Ukraine samjhota jald ho sake; unhone yuddh ko 'complete bloodbath' bataya.",
-      "category": "World",
-      "exam_angle": "Russia-Ukraine yuddh, Trump-Putin vartalap — UPSC IR",
-      "source": "Reuters",
-      "source_url": "https://www.reuters.com/world/europe/trump-says-hed-like-see-putin-pull-back-military-aggression-europe-2026-11-26/",
-      "genuineness": "verified",
-      "outlets": [
-        "Reuters",
-        "USA Today",
-        "NY Post",
-        "The Straits Times",
-        "Channel News Asia",
-        "The Japan Times"
-      ],
-      "image": null,
-      "image_credit": null
-    },
-    {
-      "id": "world-20261127-0722-03",
-      "published_ist": "2026-11-26T12:00:00+05:30",
-      "headline": "Kim ne tactical parmanu hathiyar badhane ko kaha",
-      "detail": "North Korea ke neta Kim Jong Un ne parmanu samagri utpadan badhane aur tactical parmanu hathiyaron ko kai kshetron me tainat karne ko kaha; unhone desh ki parmanu sthiti ko aparivartaniya bataya.",
-      "category": "World",
-      "exam_angle": "North Korea, parmanu hathiyar, KCNA — UPSC IR",
-      "source": "Al Jazeera",
-      "source_url": "https://www.aljazeera.com/news/2026/11/26/kim-jong-un-says-north-korea-should-widen-deployment-of-tactical-nukes",
-      "genuineness": "verified",
-      "outlets": [
-        "Al Jazeera",
-        "The Korea Times",
-        "CNN",
-        "The Jerusalem Post"
-      ],
-      "image": null,
-      "image_credit": null
-    },
-    {
-      "id": "world-20261126-1822-05",
-      "published_ist": "2026-11-25T17:30:00+05:30",
-      "headline": "America me toofan, 7 lakh ghar andhere me",
-      "detail": "Thanksgiving par America ke purvi hisse me toofan se 9 lakh se zyada gharon ki bijli chali gayi aur lagbhag 400 udanein radd hui; New York ki Macy's parade 100 saal me pehli baar sthagit hokar shanivaar tak tali. (Updated: bijli ka aankda 9 lakh se zyada hua)",
-      "category": "World",
-      "exam_angle": null,
-      "source": "NDTV",
-      "source_url": "https://www.ndtv.com/world-news/us-storm-disrupts-thanksgiving-cancels-400-flights-leaves-724-000-without-power-12382669",
-      "genuineness": "verified",
-      "outlets": [
-        "NDTV",
-        "WSJ",
-        "The Korea Times",
-        "CNN"
       ],
       "image": null,
       "image_credit": null
