@@ -72,6 +72,76 @@
     ],
     "answer_index": 1
    }
+  },
+  {
+   "episode": 170,
+   "video_hi": "sDwUho4Bzk4",
+   "video_hinglish": "sDwUho4Bzk4",
+   "capsules": [
+    {
+     "id": "ca-ep170-s1",
+     "headline_hi": "Sansad ki khaas baithak, delimitation bill",
+     "headline_hinglish": "Sansad ki khaas baithak, delimitation bill",
+     "detail_hi": "Sarkar ne 30 November se Sansad ki khaas baithak bulayi hai, jisme sanshodhit Delimitation Bill pesh ho sakta hai.",
+     "detail_hinglish": "Sarkar ne 30 November se Sansad ki khaas baithak bulayi hai, jisme sanshodhit Delimitation Bill pesh ho sakta hai.",
+     "category_hi": "Polity",
+     "category_en": "Polity"
+    },
+    {
+     "id": "ca-ep170-s2",
+     "headline_hi": "50,000 crore ki shahari pariyojanayein saaf",
+     "headline_hinglish": "50,000 crore ki shahari pariyojanayein saaf",
+     "detail_hi": "Kendra ne solah rajyon mein pachaas hazaar crore rupaye se zyada ki shahari pariyojanayein saaf ki hain.",
+     "detail_hinglish": "Kendra ne solah rajyon mein pachaas hazaar crore rupaye se zyada ki shahari pariyojanayein saaf ki hain.",
+     "category_hi": "Economy",
+     "category_en": "Economy"
+    },
+    {
+     "id": "ca-ep170-s3",
+     "headline_hi": "Khane par labelling, SC ne di deadline",
+     "headline_hinglish": "Khane par labelling, SC ne di deadline",
+     "detail_hi": "Supreme Court ne FSSAI ko chaar mahine mein front-of-pack nutrition labelling ke sakht niyam banane ka aadesh diya hai.",
+     "detail_hinglish": "Supreme Court ne FSSAI ko chaar mahine mein front-of-pack nutrition labelling ke sakht niyam banane ka aadesh diya hai.",
+     "category_hi": "Health",
+     "category_en": "Health"
+    },
+    {
+     "id": "ca-ep170-s4",
+     "headline_hi": "Do-tihai kishoron mein Vitamin B12 kami",
+     "headline_hinglish": "Do-tihai kishoron mein Vitamin B12 kami",
+     "detail_hi": "ICMR ke rashtriya survey mein pata chala hai ki Bharat ke lagbhag do-tihai kishoron mein Vitamin B12 ki kami hai.",
+     "detail_hinglish": "ICMR ke rashtriya survey mein pata chala hai ki Bharat ke lagbhag do-tihai kishoron mein Vitamin B12 ki kami hai.",
+     "category_hi": "Science",
+     "category_en": "National"
+    },
+    {
+     "id": "ca-ep170-s5",
+     "headline_hi": "IITs mein 6,000 nayi seatein 2027 se",
+     "headline_hinglish": "IITs mein 6,000 nayi seatein 2027 se",
+     "detail_hi": "Bharat 2027 se IITs mein robotics, AI aur space technology ke vishesh courses mein lagbhag chhe hazaar nayi seatein jodega.",
+     "detail_hinglish": "Bharat 2027 se IITs mein robotics, AI aur space technology ke vishesh courses mein lagbhag chhe hazaar nayi seatein jodega.",
+     "category_hi": "Education",
+     "category_en": "Education"
+    }
+   ],
+   "mcq": {
+    "id": "ca-ep170-mcq",
+    "q_hi": "Lok Sabha ki khaas baithak kab se shuru ho rahi hai?",
+    "q_hinglish": "Lok Sabha ki khaas baithak kab se shuru ho rahi hai?",
+    "options_hi": [
+     "2 December",
+     "1 December",
+     "30 November",
+     "3 December"
+    ],
+    "options_hinglish": [
+     "2 December",
+     "1 December",
+     "30 November",
+     "3 December"
+    ],
+    "answer_index": 2
+   }
   }
  ]
 }
