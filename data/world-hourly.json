@@ -1,6 +1,106 @@
 {
- "updated_ist": "2026-11-27T20:22:00+05:30",
+ "updated_ist": "2026-11-27T21:22:00+05:30",
  "items": [
+  {
+   "id": "world-20261127-2122-01",
+   "published_ist": "2026-11-26T12:00:00+05:30",
+   "headline": "Jazan refinery par Houthi hamla, 1 mare",
+   "detail": "Saudi ke Jazan refinery par Houthi hamle me ek Nepali mazdoor mara gaya aur kai ghayal hue; aag lagi aur kuch operations rook gaye.",
+   "category": "World",
+   "exam_angle": "Houthi, Saudi Arabia, Jazan refinery — UPSC IR",
+   "source": "Al Jazeera",
+   "source_url": "https://www.aljazeera.com/news/2026/11/26/attack-on-saudi-aramcos-jazan-refinery-kills-worker-disrupts-operations?traffic_source=rss",
+   "genuineness": "verified",
+   "outlets": [
+    "Al Jazeera",
+    "The Jerusalem Post",
+    "Arab News",
+    "CNN",
+    "Khaleej Times"
+   ],
+   "image": null,
+   "image_credit": null
+  },
+  {
+   "id": "world-20261127-2122-02",
+   "published_ist": "2026-11-26T12:00:00+05:30",
+   "headline": "Congo me Ebola ke 12,000 se zyada case",
+   "detail": "Congo me Ebola ke pusht case 12,021 ho gaye aur 5,904 log mare; purvi hisse me ladai ke karan roktham mushkil ho rahi hai.",
+   "category": "World",
+   "exam_angle": "Congo Ebola, Bundibugyo strain — UPSC health",
+   "source": "Al Jazeera",
+   "source_url": "https://www.aljazeera.com/news/2026/11/26/dr-congo-ebola-cases-surpass-12000-as-fighting-disrupts-response-in-east?traffic_source=rss",
+   "genuineness": "verified",
+   "outlets": [
+    "Al Jazeera",
+    "Reuters",
+    "TRT World",
+    "Xinhua",
+    "The Straits Times"
+   ],
+   "image": null,
+   "image_credit": null
+  },
+  {
+   "id": "world-20261127-2122-03",
+   "published_ist": "2026-11-26T12:00:00+05:30",
+   "headline": "FIFA par cyber hamla, data chori hua",
+   "detail": "FIFA ne kaha cyber hamle me uski vyaktigat aur vyavsayik jankari chori hui; hamlaawar group ne 12 GB se zyada data leak ka dawa kiya hai.",
+   "category": "World",
+   "exam_angle": "FIFA, cybersecurity — UPSC",
+   "source": "Reuters",
+   "source_url": "https://www.reuters.com/sports/soccer/fifa-victim-cyber-attack-files-related-world-cup-stake-selloff-unaffected-2026-11-26/",
+   "genuineness": "verified",
+   "outlets": [
+    "Reuters",
+    "Al Jazeera",
+    "The Week",
+    "Swissinfo",
+    "Le Temps"
+   ],
+   "image": null,
+   "image_credit": null
+  },
+  {
+   "id": "world-20261127-2122-04",
+   "published_ist": "2026-11-27T12:00:00+05:30",
+   "headline": "AFP par cyber hamla, platform band",
+   "detail": "AFP ka content platform AFP Forum cyber hamle ke baad band kar diya gaya; jaanch jaari hai, hamlaawar ka pata abhi nahi chala.",
+   "category": "World",
+   "exam_angle": "AFP, cyber hamla — UPSC",
+   "source": "Al Jazeera",
+   "source_url": "https://www.aljazeera.com/amp/news/2026/11/27/global-news-agency-afp-reports-cyberattack-shuts-down-content-platform",
+   "genuineness": "verified",
+   "outlets": [
+    "Al Jazeera",
+    "Arab News",
+    "Mathrubhumi",
+    "Cybernews",
+    "Times Now"
+   ],
+   "image": null,
+   "image_credit": null
+  },
+  {
+   "id": "world-20261127-2122-05",
+   "published_ist": "2026-11-27T12:00:00+05:30",
+   "headline": "Erdogan ne Mecca raksha samjhota manzoor kiya",
+   "detail": "Turkey ke rashtrapati Erdogan ne Pakistan aur Saudi Arabia ke saath Mecca sanyukt raksha samjhote ko manzoori di; ek par hamla sab par hamla mana jayega.",
+   "category": "World",
+   "exam_angle": "Mecca raksha samjhota, Turkey-Pakistan-Saudi — UPSC IR",
+   "source": "Reuters",
+   "source_url": "https://www.reuters.com/world/asia-pacific/erdogan-completes-turkeys-ratification-mecca-defence-pact-2026-11-27/",
+   "genuineness": "verified",
+   "outlets": [
+    "Reuters",
+    "Arab News",
+    "Dawn",
+    "Hurriyet Daily News",
+    "The New Indian Express"
+   ],
+   "image": null,
+   "image_credit": null
+  },
   {
    "id": "world-20261127-2022-01",
    "published_ist": "2026-11-27T18:14:00+05:30",
@@ -349,96 +449,6 @@
     "Reuters",
     "Associated Press",
     "UN News"
-   ],
-   "image": null,
-   "image_credit": null
-  },
-  {
-   "id": "world-20261127-1527-01",
-   "published_ist": "2026-11-26T12:00:00+05:30",
-   "headline": "Houthi hamla: Saudi refinery me Nepali mara",
-   "detail": "Saudi Arabia ki Jazan refinery par Houthi hamle me ek Nepali mazdoor mara gaya aur kai ghayal hue; aag lagi aur kuchh hissa band hua.",
-   "category": "World",
-   "exam_angle": "Houthi, Saudi Arabia, Yemen yuddh — UPSC IR",
-   "source": "Al Jazeera",
-   "source_url": "https://www.aljazeera.com/news/2026/11/26/attack-on-saudi-aramcos-jazan-refinery-kills-worker-disrupts-operations",
-   "genuineness": "verified",
-   "outlets": [
-    "Al Jazeera",
-    "Arab News",
-    "CNN"
-   ],
-   "image": null,
-   "image_credit": null
-  },
-  {
-   "id": "world-20261127-1527-02",
-   "published_ist": "2026-11-26T12:00:00+05:30",
-   "headline": "Indonesia khadan baadh: 13 mare, 13 laapata",
-   "detail": "Indonesia ke Bogor me gair-kanuni sone ki khadan me baadh se 13 mazdoor mare gaye aur 13 abhi 100 meter gehri khadan me fanse hain.",
-   "category": "World",
-   "exam_angle": "Indonesia, khanan durghatna — UPSC",
-   "source": "Channel News Asia",
-   "source_url": "https://www.channelnewsasia.com/asia/indonesia-mine-flooding-death-toll-missing-6583801",
-   "genuineness": "verified",
-   "outlets": [
-    "Channel News Asia",
-    "The Daily Star",
-    "The Korea Times"
-   ],
-   "image": null,
-   "image_credit": null
-  },
-  {
-   "id": "world-20261127-1527-03",
-   "published_ist": "2026-11-27T12:00:00+05:30",
-   "headline": "Russia ne Kyiv par missile hamla kiya",
-   "detail": "Russia ne raat me Kyiv par ballistic missile se hamla kiya; ek shopping centre aur 2 imaratein nishana bani, 7 log ghayal hue.",
-   "category": "World",
-   "exam_angle": "Russia-Ukraine yuddh — UPSC IR",
-   "source": "Al Jazeera",
-   "source_url": "https://www.aljazeera.com/amp/news/2026/11/27/zelenskyy-warns-of-major-russian-attack-as-trump-urges-putin-to-pull-back",
-   "genuineness": "verified",
-   "outlets": [
-    "Al Jazeera",
-    "NY Post",
-    "Reuters"
-   ],
-   "image": null,
-   "image_credit": null
-  },
-  {
-   "id": "world-20261127-1527-04",
-   "published_ist": "2026-11-26T12:00:00+05:30",
-   "headline": "FIFA par cyber hamla, data chori hua",
-   "detail": "FIFA ne kaha woh ek cyber hamle ka shikar hui, jisme vyaktigat aur vyavsayik jankari churai gayi; hamlaawaron ne staff bankar ghuspaith ki.",
-   "category": "World",
-   "exam_angle": "FIFA, cyber hamla — UPSC",
-   "source": "Reuters",
-   "source_url": "https://www.reuters.com/sports/soccer/fifa-victim-cyber-attack-files-related-world-cup-stake-selloff-unaffected-2026-11-26/",
-   "genuineness": "verified",
-   "outlets": [
-    "Reuters",
-    "Al Jazeera",
-    "Associated Press"
-   ],
-   "image": null,
-   "image_credit": null
-  },
-  {
-   "id": "world-20261127-1422-01",
-   "published_ist": "2026-11-26T12:00:00+05:30",
-   "headline": "Trump: Putin G20 me aa sakte hain",
-   "detail": "Trump ne kaha, Putin chahein to 14-15 December ko Miami me hone wale G20 sammelan me aa sakte hain; nimantran pehle se hai, Kremlin ne abhi faisla nahi liya.",
-   "category": "World",
-   "exam_angle": "G20, America-Russia, Putin — UPSC IR",
-   "source": "Kyiv Post",
-   "source_url": "https://www.kyivpost.com/post/91344",
-   "genuineness": "verified",
-   "outlets": [
-    "Kyiv Post",
-    "Moneycontrol",
-    "Khaleej Times"
    ],
    "image": null,
    "image_credit": null
