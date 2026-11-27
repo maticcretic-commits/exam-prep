@@ -1,6 +1,83 @@
 {
-  "updated_ist": "2026-11-27T11:27:08+05:30",
+  "updated_ist": "2026-11-27T12:22:00+05:30",
   "items": [
+    {
+      "id": "world-20261127-1222-01",
+      "published_ist": "2026-11-26T12:00:00+05:30",
+      "headline": "Britain me net migration 29 saal me kam",
+      "detail": "Britain ki net migration June 2026 tak ke saal me girkar 77,000 reh gayi, 1997 ke baad sabse kam; Bharatiya aane aur jaane dono me sabse bada samuh rahe.",
+      "category": "World",
+      "exam_angle": "Britain, migration, Bharatiya pravasi — UPSC IR",
+      "source": "The Hindu",
+      "source_url": "https://www.thehindu.com/news/international/uk-net-migration-falls-to-lowest-since-1997-indians-largest-foreign-group-entering-and-leaving-the-country/article71746576.ece",
+      "genuineness": "verified",
+      "outlets": [
+        "The Hindu",
+        "Times of India",
+        "Le Temps",
+        "UNI"
+      ],
+      "image": null,
+      "image_credit": null
+    },
+    {
+      "id": "world-20261127-1222-02",
+      "published_ist": "2026-11-26T12:00:00+05:30",
+      "headline": "Costa Rica ne UN rapporteur ko roka",
+      "detail": "Costa Rica ne UN rapporteur Francesca Albanese ko desh me pravesh se roka; sarkar ne aatankwadi gatividhiyon se sambandh wali antarrashtriya alert ka hawala diya, jabki ve maanad degree lene aayi thi.",
+      "category": "World",
+      "exam_angle": "UN, Costa Rica, manavadhikar — UPSC IR",
+      "source": "Arab News",
+      "source_url": "https://www.arabnews.com/world/costa-rica-bars-entry-to-un-rapporteur-over-links-to-terrorist-acts-3014214",
+      "genuineness": "verified",
+      "outlets": [
+        "AFP",
+        "Arab News",
+        "The Hindu",
+        "The Jerusalem Post"
+      ],
+      "image": null,
+      "image_credit": null
+    },
+    {
+      "id": "world-20261127-1222-03",
+      "published_ist": "2026-11-26T12:00:00+05:30",
+      "headline": "Altria, Japan Tobacco Imperial kharidne ki taiyari me",
+      "detail": "America ki Altria ne Britain ki Imperial Brands ke liye nagad khareed prastav par vichaar ki pushti ki; Japan Tobacco bhi sajhedari me hissa lene par vichaar kar raha hai, sauda lagbhag 34 arab dollar ka ho sakta hai.",
+      "category": "World",
+      "exam_angle": "Videshi nivesh, vilay — arthvyavastha",
+      "source": "Reuters",
+      "source_url": "https://www.reuters.com/markets/europe/japan-tobacco-up-2-imperial-brands-takeover-talk-2026-11-27/",
+      "genuineness": "verified",
+      "outlets": [
+        "Reuters",
+        "Nikkei Asia",
+        "Channel News Asia",
+        "Japan Times",
+        "The Times"
+      ],
+      "image": null,
+      "image_credit": null
+    },
+    {
+      "id": "world-20261127-1222-04",
+      "published_ist": "2026-11-27T12:00:00+05:30",
+      "headline": "Australia ne Iran se jude 2 par pratibandh",
+      "detail": "Australia ne Sydney aur Melbourne me 2024 ke yahudi-virodhi aagjani hamlo ke liye Iran ke IRGC ki or se kaam karne ke aarop me do vyaktiyon par aatankwadi vittaposhan pratibandh lagaye.",
+      "category": "World",
+      "exam_angle": "Australia, Iran, pratibandh — UPSC IR",
+      "source": "Arab News",
+      "source_url": "https://www.arabnews.com/world/australia-sanctions-two-alleged-iranian-agents-over-antisemitic-attacks-3014215",
+      "genuineness": "verified",
+      "outlets": [
+        "Arab News",
+        "i24news",
+        "The Straits Times",
+        "The Jerusalem Post"
+      ],
+      "image": null,
+      "image_credit": null
+    },
     {
       "id": "world-20261127-1122-01",
       "published_ist": "2026-11-26T12:00:00+05:30",
@@ -195,25 +272,6 @@
       "image_credit": null
     },
     {
-      "id": "world-20261127-0922-04",
-      "published_ist": "2026-11-25T12:00:00+05:30",
-      "headline": "Trump ka janm-nagrikta aadesh phir ruka",
-      "detail": "America ke dusre judge ne bhi Trump ke janm ke aadhar par nagrikta simit karne wale aadesh par rok laga di; ab dono faislon ko palte bina ye aadesh lagu nahi ho sakta.",
-      "category": "World",
-      "exam_angle": "America me janm-nagrikta aur nyaypalika ki bhoomika",
-      "source": "Arab News",
-      "source_url": "https://www.arabnews.com/world/trumps-newest-order-curtailing-birthright-citizenship-is-blocked-by-second-judge-3014069",
-      "genuineness": "verified",
-      "outlets": [
-        "Associated Press",
-        "Arab News",
-        "TRT World",
-        "Korea Herald"
-      ],
-      "image": null,
-      "image_credit": null
-    },
-    {
       "id": "world-20261127-0822-01",
       "published_ist": "2026-11-26T12:00:00+05:30",
       "headline": "North Korea ne Russia ko hathiyar dena roka",
@@ -280,26 +338,6 @@
       "image_credit": null
     },
     {
-      "id": "world-20261127-0822-04",
-      "published_ist": "2026-11-25T12:00:00+05:30",
-      "headline": "Netanyahu Case 4000: judge ne hatane ko kaha",
-      "detail": "Israel ki adalat ne Netanyahu ke bhrashtachar mukadme ke sabse gambhir Case 4000 ko hatane ka sujhav diya, kaha dosh siddh hone ki sambhavna kam hai; Attorney General vichar karengi.",
-      "category": "World",
-      "exam_angle": null,
-      "source": "CNN",
-      "source_url": "https://www.cnn.com/2026/11/25/middleeast/netanyahu-corruption-charges-legal-boost-intl?cid=external-feeds_iluminar_meta",
-      "genuineness": "verified",
-      "outlets": [
-        "The Jerusalem Post",
-        "Globes",
-        "CNN",
-        "The Times of Israel",
-        "Al Jazeera"
-      ],
-      "image": null,
-      "image_credit": null
-    },
-    {
       "id": "world-20261127-0722-01",
       "published_ist": "2026-11-26T12:00:00+05:30",
       "headline": "Trump ne Putin se hamle rokne ko kaha",
@@ -321,26 +359,6 @@
       "image_credit": null
     },
     {
-      "id": "world-20261127-0722-02",
-      "published_ist": "2026-11-25T12:00:00+05:30",
-      "headline": "Ramaphosa ko court se badi rahat mili",
-      "detail": "South Africa ki Western Cape High Court ne 2022 ki Phala Phala panel report ko gair-kanuni batakar radd kar diya; isse Ramaphosa ke khilaf mahabhiyog jaanch khatm ho gayi.",
-      "category": "World",
-      "exam_angle": "South Africa, Phala Phala, mahabhiyog — UPSC IR",
-      "source": "Al Jazeera",
-      "source_url": "https://www.aljazeera.com/news/2026/11/25/south-africa-court-repeals-farmgate-impeachment-threat-against-ramaphosa",
-      "genuineness": "verified",
-      "outlets": [
-        "Al Jazeera",
-        "The Hindu",
-        "BusinessDay",
-        "Daily Maverick",
-        "CGTN Africa"
-      ],
-      "image": null,
-      "image_credit": null
-    },
-    {
       "id": "world-20261127-0722-03",
       "published_ist": "2026-11-26T12:00:00+05:30",
       "headline": "Kim ne tactical parmanu hathiyar badhane ko kaha",
@@ -355,25 +373,6 @@
         "The Korea Times",
         "CNN",
         "The Jerusalem Post"
-      ],
-      "image": null,
-      "image_credit": null
-    },
-    {
-      "id": "world-20261127-0722-04",
-      "published_ist": "2026-11-24T12:00:00+05:30",
-      "headline": "Har ghante 5 mahilayein apno se mari",
-      "detail": "UN ki 2026 Femicide Brief ke mutabik 2025 me duniya bhar me lagbhag 47,000 mahilayein aur ladkiyan saathi ya parivar ke haathon mari gayin — har ghante lagbhag paanch; kul 78,000 me se 60% maamle ghar ke andar hue.",
-      "category": "World",
-      "exam_angle": "UN Women, UNODC, femicide — UPSC samaj",
-      "source": "UN News",
-      "source_url": "https://news.un.org/en/story/2026/11/1168863",
-      "genuineness": "verified",
-      "outlets": [
-        "UN News",
-        "Al Jazeera",
-        "Arab News",
-        "Dawn"
       ],
       "image": null,
       "image_credit": null
