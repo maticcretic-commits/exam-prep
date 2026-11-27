@@ -1,6 +1,104 @@
 {
-  "updated_ist": "2026-11-27T06:26:41+05:30",
+  "updated_ist": "2026-11-27T07:24:44+05:30",
   "items": [
+    {
+      "id": "world-20261127-0722-01",
+      "published_ist": "2026-11-26T12:00:00+05:30",
+      "headline": "Trump ne Putin se hamle rokne ko kaha",
+      "detail": "America ke rashtrapati Trump ne kaha unhone China me Putin se Europe bhar me sainya hamle rokne ko kaha, taaki Russia-Ukraine samjhota jald ho sake; unhone yuddh ko 'complete bloodbath' bataya.",
+      "category": "World",
+      "exam_angle": "Russia-Ukraine yuddh, Trump-Putin vartalap — UPSC IR",
+      "source": "Reuters",
+      "source_url": "https://www.reuters.com/world/europe/trump-says-hed-like-see-putin-pull-back-military-aggression-europe-2026-11-26/",
+      "genuineness": "verified",
+      "outlets": [
+        "Reuters",
+        "USA Today",
+        "NY Post",
+        "The Straits Times",
+        "Channel News Asia",
+        "The Japan Times"
+      ],
+      "image": null,
+      "image_credit": null
+    },
+    {
+      "id": "world-20261127-0722-02",
+      "published_ist": "2026-11-25T12:00:00+05:30",
+      "headline": "Ramaphosa ko court se badi rahat mili",
+      "detail": "South Africa ki Western Cape High Court ne 2022 ki Phala Phala panel report ko gair-kanuni batakar radd kar diya; isse Ramaphosa ke khilaf mahabhiyog jaanch khatm ho gayi.",
+      "category": "World",
+      "exam_angle": "South Africa, Phala Phala, mahabhiyog — UPSC IR",
+      "source": "Al Jazeera",
+      "source_url": "https://www.aljazeera.com/news/2026/11/25/south-africa-court-repeals-farmgate-impeachment-threat-against-ramaphosa",
+      "genuineness": "verified",
+      "outlets": [
+        "Al Jazeera",
+        "The Hindu",
+        "BusinessDay",
+        "Daily Maverick",
+        "CGTN Africa"
+      ],
+      "image": null,
+      "image_credit": null
+    },
+    {
+      "id": "world-20261127-0722-03",
+      "published_ist": "2026-11-26T12:00:00+05:30",
+      "headline": "Kim ne tactical parmanu hathiyar badhane ko kaha",
+      "detail": "North Korea ke neta Kim Jong Un ne parmanu samagri utpadan badhane aur tactical parmanu hathiyaron ko kai kshetron me tainat karne ko kaha; unhone desh ki parmanu sthiti ko aparivartaniya bataya.",
+      "category": "World",
+      "exam_angle": "North Korea, parmanu hathiyar, KCNA — UPSC IR",
+      "source": "Al Jazeera",
+      "source_url": "https://www.aljazeera.com/news/2026/11/26/kim-jong-un-says-north-korea-should-widen-deployment-of-tactical-nukes",
+      "genuineness": "verified",
+      "outlets": [
+        "Al Jazeera",
+        "The Korea Times",
+        "CNN",
+        "The Jerusalem Post"
+      ],
+      "image": null,
+      "image_credit": null
+    },
+    {
+      "id": "world-20261127-0722-04",
+      "published_ist": "2026-11-24T12:00:00+05:30",
+      "headline": "Har ghante 5 mahilayein apno se mari",
+      "detail": "UN ki 2026 Femicide Brief ke mutabik 2025 me duniya bhar me lagbhag 47,000 mahilayein aur ladkiyan saathi ya parivar ke haathon mari gayin — har ghante lagbhag paanch; kul 78,000 me se 60% maamle ghar ke andar hue.",
+      "category": "World",
+      "exam_angle": "UN Women, UNODC, femicide — UPSC samaj",
+      "source": "UN News",
+      "source_url": "https://news.un.org/en/story/2026/11/1168863",
+      "genuineness": "verified",
+      "outlets": [
+        "UN News",
+        "Al Jazeera",
+        "Arab News",
+        "Dawn"
+      ],
+      "image": null,
+      "image_credit": null
+    },
+    {
+      "id": "world-20261126-1822-05",
+      "published_ist": "2026-11-25T17:30:00+05:30",
+      "headline": "America me toofan, 7 lakh ghar andhere me",
+      "detail": "Thanksgiving par America ke purvi hisse me toofan se 7.24 lakh se zyada gharon ki bijli chali gayi aur lagbhag 400 udanein radd hui; New York ki Macy's parade 100 saal me pehli baar sthagit hui. (Updated: bijli aur udaan ke aankde badhe)",
+      "category": "World",
+      "exam_angle": null,
+      "source": "NDTV",
+      "source_url": "https://www.ndtv.com/world-news/us-storm-disrupts-thanksgiving-cancels-400-flights-leaves-724-000-without-power-12382669",
+      "genuineness": "verified",
+      "outlets": [
+        "NDTV",
+        "WSJ",
+        "The Korea Times",
+        "CNN"
+      ],
+      "image": null,
+      "image_credit": null
+    },
     {
       "id": "world-20261127-0622-01",
       "published_ist": "2026-11-26T12:00:00+05:30",
@@ -111,24 +209,6 @@
         "CNN",
         "Channel News Asia",
         "Bangkok Post"
-      ],
-      "image": null,
-      "image_credit": null
-    },
-    {
-      "id": "world-20261126-2222-02",
-      "published_ist": "2026-11-25T12:00:00+05:30",
-      "headline": "America ne 14 deshon par naya tariff lagaya",
-      "detail": "America ne Section 301 jaanch ke baad China, EU, Bharat samet 14 trading partners par naya tariff prastav rakha; China par 20% sabse zyada, January se lagu ho sakta hai.",
-      "category": "World",
-      "exam_angle": "Section 301, USTR, vyapar yuddh — arthvyavastha",
-      "source": "Reuters",
-      "source_url": "https://www.reuters.com/world/china/us-proposes-new-tariffs-14-trading-partners-fight-excess-factory-capacity-2026-11-25/",
-      "genuineness": "verified",
-      "outlets": [
-        "Reuters",
-        "Al Jazeera",
-        "Le Monde"
       ],
       "image": null,
       "image_credit": null
@@ -373,83 +453,6 @@
         "The Japan Times",
         "The Economic Times",
         "The Climate Watch"
-      ],
-      "image": null,
-      "image_credit": null
-    },
-    {
-      "id": "world-20261126-1822-05",
-      "published_ist": "2026-11-26T17:30:00+05:30",
-      "headline": "America me toofan se 3.5 lakh ghar bijli-vihin",
-      "detail": "Thanksgiving par America bhar me toofan aur barfbari se 3.5 lakh se zyada gharon ki bijli chali gayi; sabse zyada asar Missouri aur Virginia me raha, PowerOutage.us ke anusar.",
-      "category": "World",
-      "exam_angle": null,
-      "source": "Men's Journal",
-      "source_url": "https://www.mensjournal.com/news/thanksgiving-storms-power-outages-325000-missouri-virginia",
-      "genuineness": "verified",
-      "outlets": [
-        "Men's Journal",
-        "Daily Fox News",
-        "The Economic Times"
-      ],
-      "image": null,
-      "image_credit": null
-    },
-    {
-      "id": "world-20261126-1622-01",
-      "published_ist": "2026-11-26T12:00:00+05:30",
-      "headline": "Houthi ka Saudi bandargahon par hamla",
-      "detail": "Houthi ne Saudi Arabia ke Jizan bandargah par hamla kiya aur Jeddah ki taraf drone bheja; Saudi suraksha balon ne Riyadh ki taraf aati do ballistic missile aur Jeddah ke paas drone ko roka.",
-      "category": "World",
-      "exam_angle": "Lal Sagar, Houthi-Saudi sangharsh, samudri suraksha — UPSC IR",
-      "source": "The National",
-      "source_url": "https://www.thenationalnews.com/news/gulf/2026/11/26/saudi-arabia-intercepts-wave-of-retaliatory-houthi-attacks/",
-      "genuineness": "verified",
-      "outlets": [
-        "The National",
-        "Gulf News",
-        "Rigzone",
-        "Times of India",
-        "Vocemundi"
-      ],
-      "image": null,
-      "image_credit": null
-    },
-    {
-      "id": "world-20261126-1622-02",
-      "published_ist": "2026-11-25T12:00:00+05:30",
-      "headline": "Russia ke hamle se Ukraine me 5 ki maut",
-      "detail": "Russia ke raat bhar ke hamlo me Ukraine me kam se kam 5 log mare gaye aur paanch kshetron me bijli gul ho gayi; Odesa me 2 mare aur Kyiv me ek apartment building me aag lag gayi.",
-      "category": "World",
-      "exam_angle": "Russia-Ukraine yuddh, urja buniyadi dhancha — UPSC IR",
-      "source": "Reuters",
-      "source_url": "https://www.reuters.com/world/europe/russian-attack-damages-ukraines-energy-gas-sites-cuts-power-five-regions-2026-11-25/",
-      "genuineness": "verified",
-      "outlets": [
-        "Reuters",
-        "Al Jazeera",
-        "Qatar Tribune",
-        "The Times of India",
-        "The Straits Times"
-      ],
-      "image": null,
-      "image_credit": null
-    },
-    {
-      "id": "world-20261126-1522-01",
-      "published_ist": "2026-11-26T12:00:00+05:30",
-      "headline": "Islamabad me Makkah raksha samjhota baithak",
-      "detail": "Pakistan, Saudi Arabia aur Türkiye ke mantri Islamabad me Makkah raksha samjhote ko vyavharik roop dene par do din ki baithak karenge.",
-      "category": "World",
-      "exam_angle": "Makkah raksha samjhota, samuhik suraksha — UPSC IR",
-      "source": "Reuters",
-      "source_url": "https://www.reuters.com/world/asia-pacific/pakistan-saudi-turkey-hold-mecca-alliance-meeting-islamabad-nov-27-28-sources-2026-11-26/",
-      "genuineness": "verified",
-      "outlets": [
-        "Reuters",
-        "Aaj English TV",
-        "Dunya News",
-        "Gulf News"
       ],
       "image": null,
       "image_credit": null
