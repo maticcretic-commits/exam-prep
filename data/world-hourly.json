@@ -1,6 +1,45 @@
 {
-  "updated_ist": "2026-11-28T16:28:31+05:30",
+  "updated_ist": "2026-11-28T17:24:14+05:30",
   "items": [
+    {
+      "id": "world-20261128-1722-01",
+      "published_ist": "2026-11-26T12:00:00+05:30",
+      "headline": "Jazan refinery par hamla, Nepali mazdoor mara",
+      "detail": "Saudi ke Jazan refinery par Houthi hamle me ek Nepali mazdoor mara aur kai ghayal hue; aag lagi aur kuch operations asthayi roop se roke gaye.",
+      "category": "World",
+      "exam_angle": "Yemen sangharsh, Houthi hamle, tel suraksha — UPSC IR",
+      "source": "Al Jazeera",
+      "source_url": "https://www.aljazeera.com/news/2026/11/26/attack-on-saudi-aramcos-jazan-refinery-kills-worker-disrupts-operations?traffic_source=rss",
+      "genuineness": "verified",
+      "outlets": [
+        "Al Jazeera",
+        "Arab News",
+        "CNN",
+        "Dawn",
+        "Straits Times"
+      ],
+      "image": null,
+      "image_credit": null
+    },
+    {
+      "id": "world-20261128-1722-02",
+      "published_ist": "2026-11-27T12:00:00+05:30",
+      "headline": "Gaza me manav dhaal, WSJ ki report",
+      "detail": "WSJ ki report ke mutabik Israeli sainikon ne Gaza me Palestinian nagrikon ko manav dhaal ke roop me istemal kiya; Israeli sena 16 mamalon ki jaanch kar rahi hai aur kehti hai ye gair-kanuni hai.",
+      "category": "World",
+      "exam_angle": "Manav dhaal par antarrashtriya kanoon, Gaza yuddh — UPSC IR",
+      "source": "Wall Street Journal",
+      "source_url": "https://www.wsj.com/world/middle-east/israeli-report-on-soldiers-using-palestinians-as-human-shields-ignites-national-backlash-6a89f6ca",
+      "genuineness": "verified",
+      "outlets": [
+        "Wall Street Journal",
+        "Kan 11",
+        "Yonhap",
+        "Yeni Safak"
+      ],
+      "image": null,
+      "image_credit": null
+    },
     {
       "id": "world-20261128-1628-01",
       "published_ist": "2026-11-28T12:00:00+05:30",
@@ -415,46 +454,6 @@
         "Moneycontrol",
         "Haaretz",
         "AnewZ"
-      ],
-      "image": null,
-      "image_credit": null
-    },
-    {
-      "id": "world-20261128-0923-02",
-      "published_ist": "2026-11-26T12:00:00+05:30",
-      "headline": "Britain me pravas 1997 ke baad sabse kam",
-      "detail": "ONS ke mutabik June 2026 tak ke saal me net migration 77,000 raha — 2023 ke 9.44 lakh ke record se 90% se zyada ki giravat.",
-      "category": "World",
-      "exam_angle": "UK net migration, ONS — UPSC IR",
-      "source": "The Straits Times",
-      "source_url": "https://www.straitstimes.com/world/europe/uk-net-migration-falls-to-almost-three-decade-low-excluding-pandemic-period",
-      "genuineness": "verified",
-      "outlets": [
-        "Reuters",
-        "The Straits Times",
-        "The Times",
-        "Dawn",
-        "The New York Times"
-      ],
-      "image": "../images/world/world-20261128-0923-02.jpg",
-      "image_credit": "The Straits Times"
-    },
-    {
-      "id": "world-20261128-0923-03",
-      "published_ist": "2026-11-27T12:00:00+05:30",
-      "headline": "Gaza hamle me Hamas pramukh ka beta bacha",
-      "detail": "Hamas ke mutabik Izzeldeen al-Hayya aur unka parivar subah ke hamle me bach gaye; unke chaar bhai pehle Israeli hamlo me mare ja chuke hain.",
-      "category": "World",
-      "exam_angle": "Gaza, Hamas, Khalil al-Hayya — UPSC IR",
-      "source": "Reuters",
-      "source_url": "https://www.reuters.com/world/middle-east/son-hamas-chief-survives-israeli-strike-hamas-says-2026-11-27/",
-      "genuineness": "verified",
-      "outlets": [
-        "Reuters",
-        "Al Jazeera",
-        "Arab News",
-        "Haaretz",
-        "TRT World"
       ],
       "image": null,
       "image_credit": null
