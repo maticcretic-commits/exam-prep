@@ -2,6 +2,81 @@
  "date": "2026-11-28",
  "items": [
   {
+   "id": "world-20261128-0822-01",
+   "published_ist": "2026-11-27T12:00:00+05:30",
+   "headline": "Putin ne nayi parmanu pandubbi Perm dikhayi",
+   "detail": "Severodvinsk me jhanda samaroh me Perm nausena ko saunpi gayi; ye Zircon hypersonic missile wali pehli pandubbi hai, 2030 tak 5 aur aayengi.",
+   "category": "World",
+   "exam_angle": "Perm, Yasen-M, Zircon missile — UPSC IR/Defence",
+   "source": "Al Jazeera",
+   "source_url": "https://www.aljazeera.com/news/2026/11/27/putin-unveils-new-russian-nuclear-powered-submarine-with-hypersonic-weapons?traffic_source=rss",
+   "genuineness": "verified",
+   "outlets": [
+    "Al Jazeera",
+    "Arab News",
+    "Kremlin",
+    "TRT World"
+   ],
+   "image": "../images/world/world-20261128-0822-01.jpg",
+   "image_credit": "Al Jazeera"
+  },
+  {
+   "id": "world-20261128-0822-02",
+   "published_ist": "2026-11-26T12:00:00+05:30",
+   "headline": "Cairo tanker aag me 31 mare, driver giraftar",
+   "detail": "Giza ki Ring Road par tel tanker palatne se aag lagi, 31 mare aur 26 ghayal; police ne 21 saal ke driver ko giraftar kiya.",
+   "category": "World",
+   "exam_angle": "Egypt, Giza, road safety — UPSC",
+   "source": "Al Jazeera",
+   "source_url": "https://www.aljazeera.com/news/2026/11/26/egypt-detains-driver-over-cairo-fuel-tanker-fire-that-killed-31",
+   "genuineness": "verified",
+   "outlets": [
+    "Al Jazeera",
+    "CNN",
+    "The Times",
+    "Associated Press"
+   ],
+   "image": "../images/world/world-20261128-0822-02.jpg",
+   "image_credit": "Al Jazeera"
+  },
+  {
+   "id": "world-20261128-0822-03",
+   "published_ist": "2026-11-27T12:00:00+05:30",
+   "headline": "Netanyahu Eisenkot ko pehle PM banne ka offer",
+   "detail": "Khabron ke mutabik Netanyahu, Eisenkot ke saath rotation sarkar me pehle unhe PM banane ko taiyar; Eisenkot ko abhi shak hai, 6 December tak sarkar banana hai.",
+   "category": "World",
+   "exam_angle": "Israel, coalition politics — UPSC IR",
+   "source": "The Times of Israel",
+   "source_url": "https://www.timesofisrael.com/with-options-limited-pm-said-readying-to-offer-eisenkot-top-spot-in-rotational-govt/",
+   "genuineness": "corroborated",
+   "outlets": [
+    "The Times of Israel",
+    "ABP Live",
+    "NDTV"
+   ],
+   "image": null,
+   "image_credit": null
+  },
+  {
+   "id": "world-20261128-0822-04",
+   "published_ist": "2026-11-27T12:00:00+05:30",
+   "headline": "OpenAI ne Apple par chori ka mukadma kiya",
+   "detail": "OpenAI ne California court me Apple par trade secret chori aur suppliers ko dhamkane ka counter-mukadma kiya; July me Apple ne pehle mukadma kiya tha.",
+   "category": "World",
+   "exam_angle": "OpenAI, Apple, trade secrets — UPSC S&T",
+   "source": "Reuters",
+   "source_url": "https://www.reuters.com/technology/openai-countersues-apple-stealing-trade-secrets-ft-reports-2026-11-27/",
+   "genuineness": "verified",
+   "outlets": [
+    "Reuters",
+    "Al Jazeera",
+    "CNN",
+    "Arab News"
+   ],
+   "image": null,
+   "image_credit": null
+  },
+  {
    "id": "world-20261128-0624-01",
    "published_ist": "2026-11-26T12:00:00+05:30",
    "headline": "America ne Pacific Archer jahaz ko roka",
