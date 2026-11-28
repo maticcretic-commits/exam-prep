@@ -534,6 +534,86 @@
    ],
    "image": null,
    "image_credit": null
+  },
+  {
+   "id": "world-20261128-1425-01",
+   "published_ist": "2026-11-27T12:00:00+05:30",
+   "headline": "America ne Iran ja raha jahaz roka",
+   "detail": "America ne Gulf of Oman me Palau-flagged M/V Pacific Archer ke pichle hisse par hamla kar uska propulsion band kar diya; jahaz Iran ke Bandar Abbas se chala tha, crew ko koi nuksan nahi.",
+   "category": "World",
+   "exam_angle": "America-Iran tanaav, Strait of Hormuz, naval blockade — UPSC IR",
+   "source": "Reuters",
+   "source_url": "https://www.reuters.com/world/middle-east/us-disables-ship-trying-leave-iran-tehran-vows-confront-blockade-2026-11-27/",
+   "genuineness": "verified",
+   "outlets": [
+    "Reuters",
+    "NDTV",
+    "Economic Times",
+    "Aaj TV",
+    "Times Now"
+   ],
+   "image": null,
+   "image_credit": null
+  },
+  {
+   "id": "world-20261128-1425-02",
+   "published_ist": "2026-11-28T09:00:00+05:30",
+   "headline": "Italy ne school me burqa par pratibandh lagaya",
+   "detail": "Italy ki sansad ne schoolon me burqa aur niqab par pratibandh aur pehli kaksha me videshi chhatron par 30% ki seema ko manzoori di; paksh me 142 aur virodh me 112 vote pade.",
+   "category": "World",
+   "exam_angle": "Italy, Decreto Scuola, pravasi neeti — UPSC IR",
+   "source": "News18",
+   "source_url": "https://www.news18.com/world/italy-bans-burqas-niqabs-in-schools-brings-30-cap-on-foreign-students-ws-lrt-10444248.html",
+   "genuineness": "verified",
+   "outlets": [
+    "News18",
+    "Free Press Journal",
+    "The Week",
+    "Times of India",
+    "Times Now",
+    "bluewin"
+   ],
+   "image": null,
+   "image_credit": null
+  },
+  {
+   "id": "world-20261128-1425-03",
+   "published_ist": "2026-11-27T12:00:00+05:30",
+   "headline": "Trump ne Iraq ke PM ka samarthan kiya",
+   "detail": "Trump ne Iraq ke PM Ali al-Zaidi ke tel taskari rokne aur hathiyaron par rajya ka niyantran laane ke prayas ka samarthan kiya; Iraq ne 2008 se 2025 tak taskari me lagbhag $100 billion khone ka anuman lagaya.",
+   "category": "World",
+   "exam_angle": "Iraq, tel taskari, America-Iraq sambandh — UPSC IR",
+   "source": "Reuters",
+   "source_url": "https://www.reuters.com/world/middle-east/trump-backs-iraqi-leaders-efforts-assert-more-state-authority-2026-11-27/",
+   "genuineness": "corroborated",
+   "outlets": [
+    "Reuters",
+    "NDTV"
+   ],
+   "image": null,
+   "image_credit": null
+  },
+  {
+   "id": "world-20261128-1425-04",
+   "published_ist": "2026-11-27T12:00:00+05:30",
+   "headline": "Zelensky ne Trump-Putin dosti par sawal uthaye",
+   "detail": "Zelensky ne BBC ko diye interview me Trump ke Putin ko 'dost' kehne ko ajeeb bataya aur kaha Putin 'hamlawar aur hatyara' hai; unhone America se Moscow par zyada dabav dalne ki mang ki.",
+   "category": "World",
+   "exam_angle": "Russia-Ukraine yuddh, America-Ukraine sambandh — UPSC IR",
+   "source": "Arab News",
+   "source_url": "https://www.arabnews.com/world/zelensky-urges-the-us-to-pressure-putin-calling-trumps-my-friend-remark-strange-3014271",
+   "genuineness": "verified",
+   "outlets": [
+    "BBC",
+    "Arab News",
+    "Moneycontrol",
+    "New York Post",
+    "Times of India",
+    "CNBC-TV18",
+    "The Times"
+   ],
+   "image": null,
+   "image_credit": null
   }
  ]
 }
