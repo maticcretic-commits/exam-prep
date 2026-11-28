@@ -784,6 +784,82 @@
       ],
       "image": null,
       "image_credit": null
+    },
+    {
+      "id": "world-20261128-1824-01",
+      "published_ist": "2026-11-28T06:29:00+05:30",
+      "headline": "Iran: nakabandi todne ka kaam chal raha hai",
+      "detail": "Iran ke nausena pramukh Shahram Irani ne kaha nakabandi todne ki koshish jaari hai aur bandargah chal rahe hain; Trump ne kaha ek bhi Irani jahaz nahi nikla.",
+      "category": "World",
+      "exam_angle": "America-Iran yuddh, Hormuz nakabandi — UPSC IR",
+      "source": "The Economic Times",
+      "source_url": "https://economictimes.indiatimes.com/news/international/world-news/us-iran-war-iranian-navy-chief-says-breaking-through-enemy-blockade-in-strait-of-hormuz-is-underway/articleshow/136236146.cms",
+      "genuineness": "verified",
+      "outlets": [
+        "The Economic Times",
+        "Republic World",
+        "Outlook India",
+        "The Jerusalem Post"
+      ],
+      "image": null,
+      "image_credit": null
+    },
+    {
+      "id": "world-20261128-1824-02",
+      "published_ist": "2026-11-27T12:00:00+05:30",
+      "headline": "Ukraine ka 'Bear Trap': 200 km² wapas liya",
+      "detail": "Ukraine ne Kharkiv me Operation Bear Trap me 14 basti aur 200 varg km ilaka wapas liya; Russia ki 500 varg km kabza karne ki yojana nakaam hui.",
+      "category": "World",
+      "exam_angle": "Ukraine-Russia yuddh, Kharkiv — UPSC IR",
+      "source": "Al Jazeera",
+      "source_url": "https://www.aljazeera.com/news/2026/11/27/ukraine-rejects-unfavourable-compromises-as-it-frees-more-territory",
+      "genuineness": "verified",
+      "outlets": [
+        "Al Jazeera",
+        "UATV",
+        "The Gaze"
+      ],
+      "image": null,
+      "image_credit": null
+    },
+    {
+      "id": "world-20261128-1824-03",
+      "published_ist": "2026-11-28T12:00:00+05:30",
+      "headline": "Taiwan me sthaniya chunav, parmanu par janmat",
+      "detail": "Taiwan me 1.96 crore matdataon ne 22 shahron me sthaniya chunav me vote dala; parmanu urja wapas lane par janmat sangrah bhi hua, natije shaam tak.",
+      "category": "World",
+      "exam_angle": "Taiwan, DPP-KMT, parmanu janmat — UPSC IR",
+      "source": "Business Standard",
+      "source_url": "https://www.business-standard.com/amp/world-news/taiwan-heads-to-polls-in-tight-local-elections-as-china-watches-closely-126112800101_1.html",
+      "genuineness": "verified",
+      "outlets": [
+        "Taiwan News",
+        "Business Times",
+        "Business Standard",
+        "Focus Taiwan",
+        "TRT World"
+      ],
+      "image": null,
+      "image_credit": null
+    },
+    {
+      "id": "world-20261128-1824-04",
+      "published_ist": "2026-11-28T12:00:00+05:30",
+      "headline": "Thanksgiving toofan: America me 9 lakh bina bijli",
+      "detail": "Thanksgiving par America ke purvi tat par toofan se lagbhag 9 lakh gharon ki bijli gayi; Macy's parade pehli baar tal gayi aur Florida ke liye $100 million sahayata manzoor hui.",
+      "category": "World",
+      "exam_angle": "America, nor'easter, aapda prabandhan — UPSC Geography",
+      "source": "Dawn",
+      "source_url": "https://www.dawn.com/news/2047614/storm-disrupts-thanksgiving-holiday-along-us-east-coast",
+      "genuineness": "verified",
+      "outlets": [
+        "Dawn",
+        "People",
+        "WION",
+        "Tezzbuzz"
+      ],
+      "image": null,
+      "image_credit": null
     }
   ]
 }
