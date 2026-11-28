@@ -291,6 +291,79 @@
    ],
    "image": null,
    "image_credit": null
+  },
+  {
+   "id": "world-20261128-1022-01",
+   "published_ist": "2026-11-27T12:00:00+05:30",
+   "headline": "Libya ja raha Russian beda wapas muda",
+   "detail": "Ukraine ne 22 November ko Benghazi bandargah me Russian jangi jahaz Merkury ko duboya tha, uske baad Libya ja raha hathiyaron se bhara Russian beda Mediterranean se wapas mud gaya.",
+   "category": "World",
+   "exam_angle": "Ukraine-Russia yuddh Libya tak pahuncha; Africa Corps ke liye hathiyar le ja raha beda wapas muda.",
+   "source": "Reuters",
+   "source_url": "https://www.reuters.com/world/europe/russian-military-flotilla-bound-libya-turns-around-after-warship-sunk-nov-22-2026-11-27/",
+   "genuineness": "verified",
+   "outlets": [
+    "Reuters",
+    "Kyiv Post",
+    "Ukrainska Pravda"
+   ],
+   "image": null,
+   "image_credit": null
+  },
+  {
+   "id": "world-20261128-1022-02",
+   "published_ist": "2026-11-27T12:00:00+05:30",
+   "headline": "Serbia chunav: chhatron ne professor ko chuna",
+   "detail": "Serbia ke chhatra andolan ne 27 December ke rashtrapati chunav ke liye Belgrade University ke chemistry professor Radomir Saicic ko ummidwar banaya.",
+   "category": "World",
+   "exam_angle": "Serbia me chhatra andolan ne October chunav jeeta; 27 December ko rashtrapati chunav.",
+   "source": "Al Jazeera",
+   "source_url": "https://www.aljazeera.com/news/2026/11/27/serbias-student-led-movement-nominates-chemistry-professor-for-presidency",
+   "genuineness": "verified",
+   "outlets": [
+    "Al Jazeera",
+    "Associated Press",
+    "Telegraf"
+   ],
+   "image": "../images/world/world-20261128-1022-02.jpg",
+   "image_credit": "Al Jazeera"
+  },
+  {
+   "id": "world-20261128-1022-03",
+   "published_ist": "2026-11-27T12:00:00+05:30",
+   "headline": "Karachi me imarat giri, 8 mare",
+   "detail": "Karachi me 25 November ko giri chhah manzila imarat ke malbe se 8 shav mile, 10 log abhi lapata hain; 54 ghante baad ek mazdoor zinda nikala gaya.",
+   "category": "World",
+   "exam_angle": "Pakistan me building niyam aur shahari suraksha par sawal; 12 se zyada adhikari nilambit.",
+   "source": "The Express Tribune",
+   "source_url": "https://tribune.com.pk/story/2642755/four-more-bodies-recovered-toll-rises-to-eight",
+   "genuineness": "verified",
+   "outlets": [
+    "The Express Tribune",
+    "Associated Press",
+    "AFP",
+    "Dawn"
+   ],
+   "image": null,
+   "image_credit": null
+  },
+  {
+   "id": "world-20261128-1022-04",
+   "published_ist": "2026-11-27T12:00:00+05:30",
+   "headline": "UK student visa mana, 10 saal ka record",
+   "detail": "Britain me student visa nakarne ki dar 6.4% hui, 2015 ke baad sabse zyada; Bharatiya chhatron ko mile visa 29% gire.",
+   "category": "World",
+   "exam_angle": "UK pravas niti sakht; Bharatiya chhatron par asar.",
+   "source": "The Times of India",
+   "source_url": "https://timesofindia.indiatimes.com/education/study-abroad/uk-student-visa-refusals-hit-10-year-high-withdrawals-surge-370-as-indian-visa-grants-plunge-29-what-new-home-office-data-reveals/articleshow/136208682.cms",
+   "genuineness": "verified",
+   "outlets": [
+    "The Times of India",
+    "Business Standard",
+    "The PIE News"
+   ],
+   "image": null,
+   "image_credit": null
   }
  ]
 }
