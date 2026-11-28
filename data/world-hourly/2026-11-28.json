@@ -421,6 +421,61 @@
    ],
    "image": null,
    "image_credit": null
+  },
+  {
+   "id": "world-20261128-1222-01",
+   "published_ist": "2026-11-28T12:00:00+05:30",
+   "headline": "Gaza clinic hamle me 2 MSF karmchari mare",
+   "detail": "Gaza City me MSF clinic par Israeli hamle me 2 chaukidar mare gaye; MSF ne ise seedha hamla bataya, IDF ne dono ko Hamas sadasya batakar hamle ki baat mani.",
+   "category": "World",
+   "exam_angle": "Gaza, MSF, Israel-Hamas yuddhviram — UPSC IR",
+   "source": "Al Jazeera",
+   "source_url": "https://www.aljazeera.com/news/2026/11/28/israeli-strike-on-doctors-without-borders-clinic-in-gaza-kills-two-staff",
+   "genuineness": "verified",
+   "outlets": [
+    "Al Jazeera",
+    "Arab News",
+    "Haaretz",
+    "Times of Israel",
+    "Ynet"
+   ],
+   "image": null,
+   "image_credit": null
+  },
+  {
+   "id": "world-20261128-1222-02",
+   "published_ist": "2026-11-28T12:00:00+05:30",
+   "headline": "El Nino baadh: Peru-Ecuador me 34 mare",
+   "detail": "El Nino se judi bhari baarish se Peru ke Piura me sadkein doob gayin aur Ecuador me 34 log mare gaye, 47,000 prabhavit hue; dono deshon me apatkal ghoshit hai.",
+   "category": "World",
+   "exam_angle": "El Nino, Peru, Ecuador, baadh — UPSC Geography/Environment",
+   "source": "Al Jazeera",
+   "source_url": "https://www.aljazeera.com/news/2026/11/28/el-nino-linked-deluges-flood-cities-in-peru-ecuador",
+   "genuineness": "corroborated",
+   "outlets": [
+    "AFP",
+    "Times Now World"
+   ],
+   "image": "../images/world/world-20261128-1222-02.jpg",
+   "image_credit": "Al Jazeera"
+  },
+  {
+   "id": "world-20261128-1222-03",
+   "published_ist": "2026-11-27T12:00:00+05:30",
+   "headline": "Canary Islands naav haadse me 8 mare",
+   "detail": "Spain ke Canary Islands ke paas El Hierro se 72 km door lagbhag 100 logon wali naav se kam se kam 8 shav mile, 6 log gambhir haalat me aspatal le jaye gaye.",
+   "category": "World",
+   "exam_angle": "Spain, Canary Islands, pravasi sankat — UPSC IR",
+   "source": "Reuters",
+   "source_url": "https://www.reuters.com/world/least-eight-found-dead-migrant-boat-off-spains-canary-islands-2026-11-27/",
+   "genuineness": "verified",
+   "outlets": [
+    "Reuters",
+    "Arab News",
+    "Times Now"
+   ],
+   "image": null,
+   "image_credit": null
   }
  ]
 }
