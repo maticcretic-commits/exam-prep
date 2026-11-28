@@ -232,6 +232,65 @@
    ],
    "image": null,
    "image_credit": null
+  },
+  {
+   "id": "world-20261128-0923-01",
+   "published_ist": "2026-11-27T12:00:00+05:30",
+   "headline": "Spain me kal aam chunav, Vox par nazar",
+   "detail": "29 November ko snap chunav hoga; Sanchez sarkar bachane ki koshish me hain, PP aage hai aur Vox pehli baar rashtriya sarkar me aa sakta hai.",
+   "category": "World",
+   "exam_angle": "Spain, PSOE, PP, Vox — UPSC IR",
+   "source": "Al Jazeera",
+   "source_url": "https://www.aljazeera.com/news/2026/11/27/spains-2026-election-explained-in-maps-and-charts",
+   "genuineness": "verified",
+   "outlets": [
+    "Al Jazeera",
+    "Moneycontrol",
+    "Haaretz",
+    "AnewZ"
+   ],
+   "image": null,
+   "image_credit": null
+  },
+  {
+   "id": "world-20261128-0923-02",
+   "published_ist": "2026-11-26T12:00:00+05:30",
+   "headline": "Britain me pravas 1997 ke baad sabse kam",
+   "detail": "ONS ke mutabik June 2026 tak ke saal me net migration 77,000 raha — 2023 ke 9.44 lakh ke record se 90% se zyada ki giravat.",
+   "category": "World",
+   "exam_angle": "UK net migration, ONS — UPSC IR",
+   "source": "The Straits Times",
+   "source_url": "https://www.straitstimes.com/world/europe/uk-net-migration-falls-to-almost-three-decade-low-excluding-pandemic-period",
+   "genuineness": "verified",
+   "outlets": [
+    "Reuters",
+    "The Straits Times",
+    "The Times",
+    "Dawn",
+    "The New York Times"
+   ],
+   "image": "../images/world/world-20261128-0923-02.jpg",
+   "image_credit": "The Straits Times"
+  },
+  {
+   "id": "world-20261128-0923-03",
+   "published_ist": "2026-11-27T12:00:00+05:30",
+   "headline": "Gaza hamle me Hamas pramukh ka beta bacha",
+   "detail": "Hamas ke mutabik Izzeldeen al-Hayya aur unka parivar subah ke hamle me bach gaye; unke chaar bhai pehle Israeli hamlo me mare ja chuke hain.",
+   "category": "World",
+   "exam_angle": "Gaza, Hamas, Khalil al-Hayya — UPSC IR",
+   "source": "Reuters",
+   "source_url": "https://www.reuters.com/world/middle-east/son-hamas-chief-survives-israeli-strike-hamas-says-2026-11-27/",
+   "genuineness": "verified",
+   "outlets": [
+    "Reuters",
+    "Al Jazeera",
+    "Arab News",
+    "Haaretz",
+    "TRT World"
+   ],
+   "image": null,
+   "image_credit": null
   }
  ]
 }
