@@ -1,6 +1,61 @@
 {
- "updated_ist": "2026-11-28T11:27:29+05:30",
+ "updated_ist": "2026-11-28T12:25:34+05:30",
  "items": [
+  {
+   "id": "world-20261128-1222-01",
+   "published_ist": "2026-11-28T12:00:00+05:30",
+   "headline": "Gaza clinic hamle me 2 MSF karmchari mare",
+   "detail": "Gaza City me MSF clinic par Israeli hamle me 2 chaukidar mare gaye; MSF ne ise seedha hamla bataya, IDF ne dono ko Hamas sadasya batakar hamle ki baat mani.",
+   "category": "World",
+   "exam_angle": "Gaza, MSF, Israel-Hamas yuddhviram — UPSC IR",
+   "source": "Al Jazeera",
+   "source_url": "https://www.aljazeera.com/news/2026/11/28/israeli-strike-on-doctors-without-borders-clinic-in-gaza-kills-two-staff",
+   "genuineness": "verified",
+   "outlets": [
+    "Al Jazeera",
+    "Arab News",
+    "Haaretz",
+    "Times of Israel",
+    "Ynet"
+   ],
+   "image": null,
+   "image_credit": null
+  },
+  {
+   "id": "world-20261128-1222-02",
+   "published_ist": "2026-11-28T12:00:00+05:30",
+   "headline": "El Nino baadh: Peru-Ecuador me 34 mare",
+   "detail": "El Nino se judi bhari baarish se Peru ke Piura me sadkein doob gayin aur Ecuador me 34 log mare gaye, 47,000 prabhavit hue; dono deshon me apatkal ghoshit hai.",
+   "category": "World",
+   "exam_angle": "El Nino, Peru, Ecuador, baadh — UPSC Geography/Environment",
+   "source": "Al Jazeera",
+   "source_url": "https://www.aljazeera.com/news/2026/11/28/el-nino-linked-deluges-flood-cities-in-peru-ecuador",
+   "genuineness": "corroborated",
+   "outlets": [
+    "AFP",
+    "Times Now World"
+   ],
+   "image": "../images/world/world-20261128-1222-02.jpg",
+   "image_credit": "Al Jazeera"
+  },
+  {
+   "id": "world-20261128-1222-03",
+   "published_ist": "2026-11-27T12:00:00+05:30",
+   "headline": "Canary Islands naav haadse me 8 mare",
+   "detail": "Spain ke Canary Islands ke paas El Hierro se 72 km door lagbhag 100 logon wali naav se kam se kam 8 shav mile, 6 log gambhir haalat me aspatal le jaye gaye.",
+   "category": "World",
+   "exam_angle": "Spain, Canary Islands, pravasi sankat — UPSC IR",
+   "source": "Reuters",
+   "source_url": "https://www.reuters.com/world/least-eight-found-dead-migrant-boat-off-spains-canary-islands-2026-11-27/",
+   "genuineness": "verified",
+   "outlets": [
+    "Reuters",
+    "Arab News",
+    "Times Now"
+   ],
+   "image": null,
+   "image_credit": null
+  },
   {
    "id": "world-20261128-1122-01",
    "published_ist": "2026-11-28T03:00:00+05:30",
@@ -397,66 +452,6 @@
     "AFP",
     "The Hindu",
     "The Straits Times"
-   ],
-   "image": null,
-   "image_credit": null
-  },
-  {
-   "id": "world-20261128-0624-04",
-   "published_ist": "2026-11-27T12:00:00+05:30",
-   "headline": "Zelensky: Putin ko dost kehna ajeeb",
-   "detail": "BBC interview me Zelensky ne kaha Trump ka Putin ko 'dost' kehna ajeeb hai, kyunki woh hamlaawar aur hatyara hai; America se Putin par zyada dabav ki maang ki.",
-   "category": "World",
-   "exam_angle": "Ukraine yuddh, Trump-Putin, Zelensky — UPSC IR",
-   "source": "Arab News",
-   "source_url": "https://www.arabnews.com/world/zelensky-urges-the-us-to-pressure-putin-calling-trumps-my-friend-remark-strange-3014271",
-   "genuineness": "verified",
-   "outlets": [
-    "BBC",
-    "Arab News",
-    "The Times of India",
-    "Moneycontrol",
-    "CNBC-TV18",
-    "Kyiv Post"
-   ],
-   "image": null,
-   "image_credit": null
-  },
-  {
-   "id": "world-20261127-2222-01",
-   "published_ist": "2026-11-27T12:00:00+05:30",
-   "headline": "Shanghai data centre me Nvidia Blackwell chips",
-   "detail": "Bloomberg ki report ke mutabik Shanghai ke Yangtze River Delta data centre me Nvidia ke Blackwell chips mile, jinhe bina US licence ke China bhejna mana hai; America ne Megaspeed ko pehle hi blacklist kiya tha.",
-   "category": "World",
-   "exam_angle": "Nvidia Blackwell, US chip export controls, China — UPSC IR/Economy",
-   "source": "The Economic Times",
-   "source_url": "https://economictimes.indiatimes.com/news/international/business/nvidia-blackwell-chips-turn-up-at-china-site-tied-to-alice-huang/articleshow/136221540.cms",
-   "genuineness": "verified",
-   "outlets": [
-    "Bloomberg",
-    "The Economic Times",
-    "Gizmodo",
-    "TechSpot",
-    "Business Today",
-    "WION"
-   ],
-   "image": null,
-   "image_credit": null
-  },
-  {
-   "id": "world-20261127-2222-02",
-   "published_ist": "2026-11-27T12:00:00+05:30",
-   "headline": "Black Friday par Lloyds Bank app band",
-   "detail": "Black Friday ki subah Lloyds Bank aur Bank of Scotland ki app aur online banking band rahi; hazaaron customers login nahi kar paye, bank ne takniki kharabi ki baat mani.",
-   "category": "World",
-   "exam_angle": null,
-   "source": "Clacton and Frinton Gazette",
-   "source_url": "https://www.clactonandfrintongazette.co.uk/news/26768758.lloyds-customers-unable-access-app-due-technical-issue/?ref=rss",
-   "genuineness": "corroborated",
-   "outlets": [
-    "Daily Mail",
-    "Clacton and Frinton Gazette",
-    "Downdetector"
    ],
    "image": null,
    "image_credit": null
