@@ -669,6 +669,82 @@
       ],
       "image": null,
       "image_credit": null
+    },
+    {
+      "id": "world-20261128-1628-01",
+      "published_ist": "2026-11-28T12:00:00+05:30",
+      "headline": "Yemen ke paas cargo jahaz par kabza",
+      "detail": "Balhaf se 120 km door samundar me hathiyarbadd log cargo jahaz par chadh gaye aur jahaz par kabza kar liya; UKMTO ne aas-paas ke jahazon ko savdhani bartne ko kaha.",
+      "category": "World",
+      "exam_angle": "Yemen, Gulf of Aden, samudri suraksha — UPSC IR",
+      "source": "Reuters",
+      "source_url": "https://www.reuters.com/world/middle-east/armed-group-boards-cargo-ship-off-yemen-takes-control-ukmto-says-2026-11-28/",
+      "genuineness": "verified",
+      "outlets": [
+        "Reuters",
+        "Yeni Safak",
+        "Kuwait Times",
+        "Dawn"
+      ],
+      "image": null,
+      "image_credit": null
+    },
+    {
+      "id": "world-20261128-1524-01",
+      "published_ist": "2026-11-28T11:00:00+05:30",
+      "headline": "Kunar school ke paas dhamaka, 7 chhatra mare",
+      "detail": "Kunar me school ke bagal khanan company ke visfotak bhandar me dhamaka; 7 chhatra mare, 97-99 ghayal. Corrected: pehle 6 maut batayi gayi thi, ab 7 ki pushti hui hai.",
+      "category": "World",
+      "exam_angle": "Afghanistan me suraksha, khanan visfotak — UPSC IR",
+      "source": "CNN",
+      "source_url": "https://www.cnn.com/2026/11/28/asia/afghan-school-explosion-intl?cid=external-feeds_iluminar_meta",
+      "genuineness": "verified",
+      "outlets": [
+        "CNN",
+        "Pajhwok",
+        "Xinhua",
+        "Khaleej Times"
+      ],
+      "image": null,
+      "image_credit": null
+    },
+    {
+      "id": "world-20261128-1222-03",
+      "published_ist": "2026-11-27T12:00:00+05:30",
+      "headline": "Canary Islands naav haadse me 14 mare",
+      "detail": "Spain ke Canary Islands ke paas El Hierro se 72 km door lagbhag 100 logon wali naav se 14 shav mile, 6 log gambhir haalat me aspatal le jaye gaye. Corrected: pehle 8 maut batayi gayi thi, ab 14 ki pushti hui hai.",
+      "category": "World",
+      "exam_angle": "Spain, Canary Islands, pravasi sankat — UPSC IR",
+      "source": "Arab News",
+      "source_url": "https://www.arabnews.com/world/14-found-dead-on-migrant-boat-off-spains-canary-islands-3014335",
+      "genuineness": "verified",
+      "outlets": [
+        "Xinhua",
+        "The Times",
+        "Arab News",
+        "Straits Times"
+      ],
+      "image": null,
+      "image_credit": null
+    },
+    {
+      "id": "world-20261128-1322-02",
+      "published_ist": "2026-11-28T12:00:00+05:30",
+      "headline": "Russia ne 1,246 drone giraye, Moscow nishana",
+      "detail": "Russia ne raat bhar me 1,246 Ukrainian drone giraye; 460 se zyada drone Moscow ki taraf aaye, jinme se 123 rajdhani ke paas nasht kiye gaye aur Moscow hawai addon par udanein ruki. Dono taraf ke hamlo me kam se kam 16 log ghayal hue, Zaporizhzhia me 1 ki maut hui.",
+      "category": "World",
+      "exam_angle": "Russia-Ukraine yuddh, drone warfare — UPSC IR",
+      "source": "Reuters",
+      "source_url": "https://www.reuters.com/business/aerospace-defense/russia-says-it-downed-1246-ukrainian-drones-overnight-2026-11-28/",
+      "genuineness": "verified",
+      "outlets": [
+        "Reuters",
+        "Channel News Asia",
+        "AFP",
+        "Ukrainska Pravda"
+      ],
+      "image": null,
+      "image_credit": null
     }
   ]
 }
