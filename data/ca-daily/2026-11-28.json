@@ -72,6 +72,76 @@
     ],
     "answer_index": 2
    }
+  },
+  {
+   "episode": 174,
+   "video_hi": "YX0PBwfMHqc",
+   "video_hinglish": "YX0PBwfMHqc",
+   "capsules": [
+    {
+     "id": "ca-ep174-s1",
+     "headline_hi": "Kashi Tamil Sangamam 5.0, Varanasi mein shuru",
+     "headline_hinglish": "Kashi Tamil Sangamam 5.0, Varanasi mein shuru",
+     "detail_hi": "Varanasi mein paanchva Kashi Tamil Sangamam aaj se shuru, baarah December tak chalega.",
+     "detail_hinglish": "Varanasi mein paanchva Kashi Tamil Sangamam aaj se shuru, baarah December tak chalega.",
+     "category_hi": "Culture",
+     "category_en": "National"
+    },
+    {
+     "id": "ca-ep174-s2",
+     "headline_hi": "Rishikesh-Karnaprayag Tunnel-14 ka breakthrough",
+     "headline_hinglish": "Rishikesh-Karnaprayag Tunnel-14 ka breakthrough",
+     "detail_hi": "Rudraprayag mein 6.59 kilometre lambi Tunnel-14 ka mukhya breakthrough poora hua.",
+     "detail_hinglish": "Rudraprayag mein 6.59 kilometre lambi Tunnel-14 ka mukhya breakthrough poora hua.",
+     "category_hi": "Infrastructure",
+     "category_en": "National"
+    },
+    {
+     "id": "ca-ep174-s3",
+     "headline_hi": "Construction equipment sector ko 11,000 crore ka push",
+     "headline_hinglish": "Construction equipment sector ko 11,000 crore ka push",
+     "detail_hi": "Kendra ne construction equipment sector ke liye gyaarah hazaar crore rupaye ki yojana ki ghoshna ki.",
+     "detail_hinglish": "Kendra ne construction equipment sector ke liye gyaarah hazaar crore rupaye ki yojana ki ghoshna ki.",
+     "category_hi": "Economy",
+     "category_en": "Economy"
+    },
+    {
+     "id": "ca-ep174-s4",
+     "headline_hi": "Assam mein baal vivah par 6,705 giraftariyan",
+     "headline_hinglish": "Assam mein baal vivah par 6,705 giraftariyan",
+     "detail_hi": "Do hazaar ikkees se ab tak baal vivah ke khilaf abhiyan mein chhah hazaar saat sau paanch giraftariyan hui hain.",
+     "detail_hinglish": "Do hazaar ikkees se ab tak baal vivah ke khilaf abhiyan mein chhah hazaar saat sau paanch giraftariyan hui hain.",
+     "category_hi": "Society",
+     "category_en": "National"
+    },
+    {
+     "id": "ca-ep174-s5",
+     "headline_hi": "Tripura nagar chunav mein lagbhag 80% matdan",
+     "headline_hinglish": "Tripura nagar chunav mein lagbhag 80% matdan",
+     "detail_hi": "Tripura ke solah nagar nikayon ke chunavon mein lagbhag assi pratishat matdan hua.",
+     "detail_hinglish": "Tripura ke solah nagar nikayon ke chunavon mein lagbhag assi pratishat matdan hua.",
+     "category_hi": "Polity",
+     "category_en": "Polity"
+    }
+   ],
+   "mcq": {
+    "id": "ca-ep174-mcq",
+    "q_hi": "Rishikesh-Karnaprayag rail pariyojana ki Tunnel-14 ki lambai kitni hai?",
+    "q_hinglish": "Rishikesh-Karnaprayag rail pariyojana ki Tunnel-14 ki lambai kitni hai?",
+    "options_hi": [
+     "5.59 km",
+     "6.59 km",
+     "7.59 km",
+     "8.59 km"
+    ],
+    "options_hinglish": [
+     "5.59 km",
+     "6.59 km",
+     "7.59 km",
+     "8.59 km"
+    ],
+    "answer_index": 1
+   }
   }
  ]
 }
