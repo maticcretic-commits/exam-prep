@@ -1,6 +1,81 @@
 {
- "updated_ist": "2026-11-28T07:23:39+05:30",
+ "updated_ist": "2026-11-28T08:25:02+05:30",
  "items": [
+  {
+   "id": "world-20261128-0822-01",
+   "published_ist": "2026-11-27T12:00:00+05:30",
+   "headline": "Putin ne nayi parmanu pandubbi Perm dikhayi",
+   "detail": "Severodvinsk me jhanda samaroh me Perm nausena ko saunpi gayi; ye Zircon hypersonic missile wali pehli pandubbi hai, 2030 tak 5 aur aayengi.",
+   "category": "World",
+   "exam_angle": "Perm, Yasen-M, Zircon missile — UPSC IR/Defence",
+   "source": "Al Jazeera",
+   "source_url": "https://www.aljazeera.com/news/2026/11/27/putin-unveils-new-russian-nuclear-powered-submarine-with-hypersonic-weapons?traffic_source=rss",
+   "genuineness": "verified",
+   "outlets": [
+    "Al Jazeera",
+    "Arab News",
+    "Kremlin",
+    "TRT World"
+   ],
+   "image": "../images/world/world-20261128-0822-01.jpg",
+   "image_credit": "Al Jazeera"
+  },
+  {
+   "id": "world-20261128-0822-02",
+   "published_ist": "2026-11-26T12:00:00+05:30",
+   "headline": "Cairo tanker aag me 31 mare, driver giraftar",
+   "detail": "Giza ki Ring Road par tel tanker palatne se aag lagi, 31 mare aur 26 ghayal; police ne 21 saal ke driver ko giraftar kiya.",
+   "category": "World",
+   "exam_angle": "Egypt, Giza, road safety — UPSC",
+   "source": "Al Jazeera",
+   "source_url": "https://www.aljazeera.com/news/2026/11/26/egypt-detains-driver-over-cairo-fuel-tanker-fire-that-killed-31",
+   "genuineness": "verified",
+   "outlets": [
+    "Al Jazeera",
+    "CNN",
+    "The Times",
+    "Associated Press"
+   ],
+   "image": "../images/world/world-20261128-0822-02.jpg",
+   "image_credit": "Al Jazeera"
+  },
+  {
+   "id": "world-20261128-0822-03",
+   "published_ist": "2026-11-27T12:00:00+05:30",
+   "headline": "Netanyahu Eisenkot ko pehle PM banne ka offer",
+   "detail": "Khabron ke mutabik Netanyahu, Eisenkot ke saath rotation sarkar me pehle unhe PM banane ko taiyar; Eisenkot ko abhi shak hai, 6 December tak sarkar banana hai.",
+   "category": "World",
+   "exam_angle": "Israel, coalition politics — UPSC IR",
+   "source": "The Times of Israel",
+   "source_url": "https://www.timesofisrael.com/with-options-limited-pm-said-readying-to-offer-eisenkot-top-spot-in-rotational-govt/",
+   "genuineness": "corroborated",
+   "outlets": [
+    "The Times of Israel",
+    "ABP Live",
+    "NDTV"
+   ],
+   "image": null,
+   "image_credit": null
+  },
+  {
+   "id": "world-20261128-0822-04",
+   "published_ist": "2026-11-27T12:00:00+05:30",
+   "headline": "OpenAI ne Apple par chori ka mukadma kiya",
+   "detail": "OpenAI ne California court me Apple par trade secret chori aur suppliers ko dhamkane ka counter-mukadma kiya; July me Apple ne pehle mukadma kiya tha.",
+   "category": "World",
+   "exam_angle": "OpenAI, Apple, trade secrets — UPSC S&T",
+   "source": "Reuters",
+   "source_url": "https://www.reuters.com/technology/openai-countersues-apple-stealing-trade-secrets-ft-reports-2026-11-27/",
+   "genuineness": "verified",
+   "outlets": [
+    "Reuters",
+    "Al Jazeera",
+    "CNN",
+    "Arab News"
+   ],
+   "image": null,
+   "image_credit": null
+  },
   {
    "id": "world-20261128-0722-01",
    "published_ist": "2026-11-26T12:00:00+05:30",
@@ -383,78 +458,6 @@
    "outlets": [
     "ANI",
     "Gulf News"
-   ],
-   "image": null,
-   "image_credit": null
-  },
-  {
-   "id": "world-20261127-1922-03",
-   "published_ist": "2026-11-26T12:00:00+05:30",
-   "headline": "EU budget par samjhota nahi",
-   "detail": "Brussels me 12 ghante se zyada baatchit ke baad EU neta 2028–2034 budget par sahmat nahi hue; Macron ne saal ke ant tak samjhote ki samay-seema rakhi, agla faisla 17–18 December ko hoga.",
-   "category": "World",
-   "exam_angle": "EU budget, MFF 2028–2034, Ukraine karz — UPSC IR",
-   "source": "The New Indian Express",
-   "source_url": "https://www.newindianexpress.com/amp/story/world/2026/Nov/26/eu-leaders-divided-over-budget-spending-as-they-weigh-a-49-billion-loan-to-ukraine",
-   "genuineness": "verified",
-   "outlets": [
-    "Associated Press",
-    "Kyiv Post",
-    "Komersant"
-   ],
-   "image": null,
-   "image_credit": null
-  },
-  {
-   "id": "world-20261127-1822-01",
-   "published_ist": "2026-11-26T12:00:00+05:30",
-   "headline": "Guinea-Bissau me chunav 2028 tak tale",
-   "detail": "Sainya sarkar ne December me hone wale rashtrapati aur sansadiya chunav November 2028 tak taal diye; nagrik shasan ki vapasi me 2 saal ki deri hogi.",
-   "category": "World",
-   "exam_angle": "Guinea-Bissau, sainya takhtapalat, ECOWAS — UPSC IR",
-   "source": "Reuters",
-   "source_url": "https://www.reuters.com/world/africa/guinea-bissau-delays-elections-extending-military-led-transition-year-after-coup-2026-11-26/",
-   "genuineness": "verified",
-   "outlets": [
-    "Reuters",
-    "Al Jazeera",
-    "Associated Press"
-   ],
-   "image": null,
-   "image_credit": null
-  },
-  {
-   "id": "world-20261127-1822-02",
-   "published_ist": "2026-11-26T12:00:00+05:30",
-   "headline": "Venezuela vipaksh par pratibandh wala kanoon hataega",
-   "detail": "National Assembly 2024 ke Simon Bolivar kanoon ko radd karegi, jo pratibandhon ke samarthan par vipaksh ko saarvajanik pad se rokta tha.",
-   "category": "World",
-   "exam_angle": "Venezuela, antarim sarkar — UPSC IR",
-   "source": "News Central TV",
-   "source_url": "https://newscentraltv.com/venezuela-to-repeal-law-barring-opposition-figures-from-office/",
-   "genuineness": "verified",
-   "outlets": [
-    "BBC",
-    "News Central TV",
-    "Nuevo Día"
-   ],
-   "image": null,
-   "image_credit": null
-  },
-  {
-   "id": "world-20261127-1822-03",
-   "published_ist": "2026-11-26T12:00:00+05:30",
-   "headline": "Bharat-America sambandh ke sutradhar Talbott ka nidhan",
-   "detail": "America ke poorv up-videsh mantri Strobe Talbott, 80, ka nidhan ho gaya; Pokhran-II ke baad Bharat-America baatchit me unki badi bhoomika thi.",
-   "category": "World",
-   "exam_angle": "Strobe Talbott, Bharat-America sambandh, Pokhran-II — UPSC IR",
-   "source": "Deccan Herald",
-   "source_url": "https://www.deccanherald.com/world/us/strobe-talbott-architect-of-india-us-relations-post-pokhrann-ii-passes-away-4233193",
-   "genuineness": "verified",
-   "outlets": [
-    "Associated Press",
-    "Deccan Herald",
-    "The Week"
    ],
    "image": null,
    "image_credit": null
