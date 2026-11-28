@@ -1,6 +1,82 @@
 {
-  "updated_ist": "2026-11-28T17:24:14+05:30",
+  "updated_ist": "2026-11-28T18:24:47+05:30",
   "items": [
+    {
+      "id": "world-20261128-1824-01",
+      "published_ist": "2026-11-28T06:29:00+05:30",
+      "headline": "Iran: nakabandi todne ka kaam chal raha hai",
+      "detail": "Iran ke nausena pramukh Shahram Irani ne kaha nakabandi todne ki koshish jaari hai aur bandargah chal rahe hain; Trump ne kaha ek bhi Irani jahaz nahi nikla.",
+      "category": "World",
+      "exam_angle": "America-Iran yuddh, Hormuz nakabandi — UPSC IR",
+      "source": "The Economic Times",
+      "source_url": "https://economictimes.indiatimes.com/news/international/world-news/us-iran-war-iranian-navy-chief-says-breaking-through-enemy-blockade-in-strait-of-hormuz-is-underway/articleshow/136236146.cms",
+      "genuineness": "verified",
+      "outlets": [
+        "The Economic Times",
+        "Republic World",
+        "Outlook India",
+        "The Jerusalem Post"
+      ],
+      "image": null,
+      "image_credit": null
+    },
+    {
+      "id": "world-20261128-1824-02",
+      "published_ist": "2026-11-27T12:00:00+05:30",
+      "headline": "Ukraine ka 'Bear Trap': 200 km² wapas liya",
+      "detail": "Ukraine ne Kharkiv me Operation Bear Trap me 14 basti aur 200 varg km ilaka wapas liya; Russia ki 500 varg km kabza karne ki yojana nakaam hui.",
+      "category": "World",
+      "exam_angle": "Ukraine-Russia yuddh, Kharkiv — UPSC IR",
+      "source": "Al Jazeera",
+      "source_url": "https://www.aljazeera.com/news/2026/11/27/ukraine-rejects-unfavourable-compromises-as-it-frees-more-territory",
+      "genuineness": "verified",
+      "outlets": [
+        "Al Jazeera",
+        "UATV",
+        "The Gaze"
+      ],
+      "image": null,
+      "image_credit": null
+    },
+    {
+      "id": "world-20261128-1824-03",
+      "published_ist": "2026-11-28T12:00:00+05:30",
+      "headline": "Taiwan me sthaniya chunav, parmanu par janmat",
+      "detail": "Taiwan me 1.96 crore matdataon ne 22 shahron me sthaniya chunav me vote dala; parmanu urja wapas lane par janmat sangrah bhi hua, natije shaam tak.",
+      "category": "World",
+      "exam_angle": "Taiwan, DPP-KMT, parmanu janmat — UPSC IR",
+      "source": "Business Standard",
+      "source_url": "https://www.business-standard.com/amp/world-news/taiwan-heads-to-polls-in-tight-local-elections-as-china-watches-closely-126112800101_1.html",
+      "genuineness": "verified",
+      "outlets": [
+        "Taiwan News",
+        "Business Times",
+        "Business Standard",
+        "Focus Taiwan",
+        "TRT World"
+      ],
+      "image": null,
+      "image_credit": null
+    },
+    {
+      "id": "world-20261128-1824-04",
+      "published_ist": "2026-11-28T12:00:00+05:30",
+      "headline": "Thanksgiving toofan: America me 9 lakh bina bijli",
+      "detail": "Thanksgiving par America ke purvi tat par toofan se lagbhag 9 lakh gharon ki bijli gayi; Macy's parade pehli baar tal gayi aur Florida ke liye $100 million sahayata manzoor hui.",
+      "category": "World",
+      "exam_angle": "America, nor'easter, aapda prabandhan — UPSC Geography",
+      "source": "Dawn",
+      "source_url": "https://www.dawn.com/news/2047614/storm-disrupts-thanksgiving-holiday-along-us-east-coast",
+      "genuineness": "verified",
+      "outlets": [
+        "Dawn",
+        "People",
+        "WION",
+        "Tezzbuzz"
+      ],
+      "image": null,
+      "image_credit": null
+    },
     {
       "id": "world-20261128-1722-01",
       "published_ist": "2026-11-26T12:00:00+05:30",
@@ -380,80 +456,6 @@
         "Reuters",
         "Kyiv Post",
         "Ukrainska Pravda"
-      ],
-      "image": null,
-      "image_credit": null
-    },
-    {
-      "id": "world-20261128-1022-02",
-      "published_ist": "2026-11-27T12:00:00+05:30",
-      "headline": "Serbia chunav: chhatron ne professor ko chuna",
-      "detail": "Serbia ke chhatra andolan ne 27 December ke rashtrapati chunav ke liye Belgrade University ke chemistry professor Radomir Saicic ko ummidwar banaya.",
-      "category": "World",
-      "exam_angle": "Serbia me chhatra andolan ne October chunav jeeta; 27 December ko rashtrapati chunav.",
-      "source": "Al Jazeera",
-      "source_url": "https://www.aljazeera.com/news/2026/11/27/serbias-student-led-movement-nominates-chemistry-professor-for-presidency",
-      "genuineness": "verified",
-      "outlets": [
-        "Al Jazeera",
-        "Associated Press",
-        "Telegraf"
-      ],
-      "image": "../images/world/world-20261128-1022-02.jpg",
-      "image_credit": "Al Jazeera"
-    },
-    {
-      "id": "world-20261128-1022-03",
-      "published_ist": "2026-11-27T12:00:00+05:30",
-      "headline": "Karachi me imarat giri, 8 mare",
-      "detail": "Karachi me 25 November ko giri chhah manzila imarat ke malbe se 8 shav mile, 10 log abhi lapata hain; 54 ghante baad ek mazdoor zinda nikala gaya.",
-      "category": "World",
-      "exam_angle": "Pakistan me building niyam aur shahari suraksha par sawal; 12 se zyada adhikari nilambit.",
-      "source": "The Express Tribune",
-      "source_url": "https://tribune.com.pk/story/2642755/four-more-bodies-recovered-toll-rises-to-eight",
-      "genuineness": "verified",
-      "outlets": [
-        "The Express Tribune",
-        "Associated Press",
-        "AFP",
-        "Dawn"
-      ],
-      "image": null,
-      "image_credit": null
-    },
-    {
-      "id": "world-20261128-1022-04",
-      "published_ist": "2026-11-27T12:00:00+05:30",
-      "headline": "UK student visa mana, 10 saal ka record",
-      "detail": "Britain me student visa nakarne ki dar 6.4% hui, 2015 ke baad sabse zyada; Bharatiya chhatron ko mile visa 29% gire.",
-      "category": "World",
-      "exam_angle": "UK pravas niti sakht; Bharatiya chhatron par asar.",
-      "source": "The Times of India",
-      "source_url": "https://timesofindia.indiatimes.com/education/study-abroad/uk-student-visa-refusals-hit-10-year-high-withdrawals-surge-370-as-indian-visa-grants-plunge-29-what-new-home-office-data-reveals/articleshow/136208682.cms",
-      "genuineness": "verified",
-      "outlets": [
-        "The Times of India",
-        "Business Standard",
-        "The PIE News"
-      ],
-      "image": null,
-      "image_credit": null
-    },
-    {
-      "id": "world-20261128-0923-01",
-      "published_ist": "2026-11-27T12:00:00+05:30",
-      "headline": "Spain me kal aam chunav, Vox par nazar",
-      "detail": "29 November ko snap chunav hoga; Sanchez sarkar bachane ki koshish me hain, PP aage hai aur Vox pehli baar rashtriya sarkar me aa sakta hai.",
-      "category": "World",
-      "exam_angle": "Spain, PSOE, PP, Vox — UPSC IR",
-      "source": "Al Jazeera",
-      "source_url": "https://www.aljazeera.com/news/2026/11/27/spains-2026-election-explained-in-maps-and-charts",
-      "genuineness": "verified",
-      "outlets": [
-        "Al Jazeera",
-        "Moneycontrol",
-        "Haaretz",
-        "AnewZ"
       ],
       "image": null,
       "image_credit": null
