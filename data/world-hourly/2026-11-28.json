@@ -476,6 +476,64 @@
    ],
    "image": null,
    "image_credit": null
+  },
+  {
+   "id": "world-20261128-1322-01",
+   "published_ist": "2026-11-27T12:00:00+05:30",
+   "headline": "Canada court ne Bill 21 barkarar rakha",
+   "detail": "Canada ki Supreme Court ne Quebec ke Bill 21 ko lagbhag poori tarah barkarar rakha; sarkari naukriyon me hijab, pagdi jaise dharmik chinh pehenna ab bhi mana hai, sirf vidhayakon ke chehre wale niyam ko hataya gaya.",
+   "category": "World",
+   "exam_angle": "Canada, Bill 21, notwithstanding clause — UPSC IR/Polity",
+   "source": "Al Jazeera",
+   "source_url": "https://www.aljazeera.com/amp/news/2026/11/27/canadas-top-court-largely-upholds-quebecs-religious-symbols-ban",
+   "genuineness": "verified",
+   "outlets": [
+    "Al Jazeera",
+    "Wall Street Journal",
+    "Dawn",
+    "Daily Star",
+    "Canadian HR Reporter"
+   ],
+   "image": null,
+   "image_credit": null
+  },
+  {
+   "id": "world-20261128-1322-02",
+   "published_ist": "2026-11-28T12:00:00+05:30",
+   "headline": "Russia ne 1,246 drone giraye, Moscow nishana",
+   "detail": "Russia ne raat bhar me 1,246 Ukrainian drone giraye; 460 se zyada drone Moscow ki taraf aaye, jinme se 123 rajdhani ke paas nasht kiye gaye aur Moscow hawai addon par udanein ruki.",
+   "category": "World",
+   "exam_angle": "Russia-Ukraine yuddh, drone warfare — UPSC IR",
+   "source": "Reuters",
+   "source_url": "https://www.reuters.com/business/aerospace-defense/russia-says-it-downed-1246-ukrainian-drones-overnight-2026-11-28/",
+   "genuineness": "verified",
+   "outlets": [
+    "Reuters",
+    "Channel News Asia",
+    "AFP",
+    "Ukrainska Pravda"
+   ],
+   "image": null,
+   "image_credit": null
+  },
+  {
+   "id": "world-20261128-1322-03",
+   "published_ist": "2026-11-28T03:40:00+05:30",
+   "headline": "Reagan airport par 2 American jets takraye",
+   "detail": "Washington ke Reagan airport par taxi karte hue American Airlines ki 2 Boeing 737 ke pankh takra gaye; koi ghayal nahi, dono viman jaanch ke liye sewa se hataye gaye aur FAA jaanch kar raha hai.",
+   "category": "World",
+   "exam_angle": "America, aviation safety, FAA — UPSC",
+   "source": "CNN",
+   "source_url": "https://www.cnn.com/2026/11/27/us/american-airlines-jet-clips-wing-reagan-national?cid=external-feeds_iluminar_meta",
+   "genuineness": "verified",
+   "outlets": [
+    "CNN",
+    "USA Today",
+    "Straits Times",
+    "WION"
+   ],
+   "image": null,
+   "image_credit": null
   }
  ]
 }
