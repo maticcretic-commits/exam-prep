@@ -1,6 +1,64 @@
 {
- "updated_ist": "2026-11-28T12:25:34+05:30",
+ "updated_ist": "2026-11-28T13:24:00+05:30",
  "items": [
+  {
+   "id": "world-20261128-1322-01",
+   "published_ist": "2026-11-27T12:00:00+05:30",
+   "headline": "Canada court ne Bill 21 barkarar rakha",
+   "detail": "Canada ki Supreme Court ne Quebec ke Bill 21 ko lagbhag poori tarah barkarar rakha; sarkari naukriyon me hijab, pagdi jaise dharmik chinh pehenna ab bhi mana hai, sirf vidhayakon ke chehre wale niyam ko hataya gaya.",
+   "category": "World",
+   "exam_angle": "Canada, Bill 21, notwithstanding clause — UPSC IR/Polity",
+   "source": "Al Jazeera",
+   "source_url": "https://www.aljazeera.com/amp/news/2026/11/27/canadas-top-court-largely-upholds-quebecs-religious-symbols-ban",
+   "genuineness": "verified",
+   "outlets": [
+    "Al Jazeera",
+    "Wall Street Journal",
+    "Dawn",
+    "Daily Star",
+    "Canadian HR Reporter"
+   ],
+   "image": null,
+   "image_credit": null
+  },
+  {
+   "id": "world-20261128-1322-02",
+   "published_ist": "2026-11-28T12:00:00+05:30",
+   "headline": "Russia ne 1,246 drone giraye, Moscow nishana",
+   "detail": "Russia ne raat bhar me 1,246 Ukrainian drone giraye; 460 se zyada drone Moscow ki taraf aaye, jinme se 123 rajdhani ke paas nasht kiye gaye aur Moscow hawai addon par udanein ruki.",
+   "category": "World",
+   "exam_angle": "Russia-Ukraine yuddh, drone warfare — UPSC IR",
+   "source": "Reuters",
+   "source_url": "https://www.reuters.com/business/aerospace-defense/russia-says-it-downed-1246-ukrainian-drones-overnight-2026-11-28/",
+   "genuineness": "verified",
+   "outlets": [
+    "Reuters",
+    "Channel News Asia",
+    "AFP",
+    "Ukrainska Pravda"
+   ],
+   "image": null,
+   "image_credit": null
+  },
+  {
+   "id": "world-20261128-1322-03",
+   "published_ist": "2026-11-28T03:40:00+05:30",
+   "headline": "Reagan airport par 2 American jets takraye",
+   "detail": "Washington ke Reagan airport par taxi karte hue American Airlines ki 2 Boeing 737 ke pankh takra gaye; koi ghayal nahi, dono viman jaanch ke liye sewa se hataye gaye aur FAA jaanch kar raha hai.",
+   "category": "World",
+   "exam_angle": "America, aviation safety, FAA — UPSC",
+   "source": "CNN",
+   "source_url": "https://www.cnn.com/2026/11/27/us/american-airlines-jet-clips-wing-reagan-national?cid=external-feeds_iluminar_meta",
+   "genuineness": "verified",
+   "outlets": [
+    "CNN",
+    "USA Today",
+    "Straits Times",
+    "WION"
+   ],
+   "image": null,
+   "image_credit": null
+  },
   {
    "id": "world-20261128-1222-01",
    "published_ist": "2026-11-28T12:00:00+05:30",
@@ -392,66 +450,6 @@
     "Nikkei Asia",
     "Al Jazeera",
     "The Jerusalem Post"
-   ],
-   "image": null,
-   "image_credit": null
-  },
-  {
-   "id": "world-20261128-0624-01",
-   "published_ist": "2026-11-26T12:00:00+05:30",
-   "headline": "America ne Pacific Archer jahaz ko roka",
-   "detail": "America ne Gulf of Oman me Palau jhande wale Pacific Archer jahaz ko nakabandi todne par roka; jahaz ki propulsion band ki gayi, crew ko koi chot nahi aayi.",
-   "category": "World",
-   "exam_angle": "Iran nakabandi, Hormuz, CENTCOM — UPSC IR",
-   "source": "Reuters",
-   "source_url": "https://www.reuters.com/world/middle-east/us-disables-ship-trying-leave-iran-tehran-vows-confront-blockade-2026-11-27/",
-   "genuineness": "verified",
-   "outlets": [
-    "Reuters",
-    "The Wall Street Journal",
-    "Al Jazeera",
-    "Associated Press",
-    "The Hindu",
-    "Arab News"
-   ],
-   "image": null,
-   "image_credit": null
-  },
-  {
-   "id": "world-20261128-0624-02",
-   "published_ist": "2026-11-27T12:00:00+05:30",
-   "headline": "Kenya cult neta 123 maut ka doshi",
-   "detail": "Kenya ki adalat ne Shakahola cult ke neta Paul Mackenzie ko 123 anuyayiyon ki maut ka doshi thahraya; woh pehle hi 200 saal ki saza kaat raha hai.",
-   "category": "World",
-   "exam_angle": "Kenya Shakahola cult, Paul Mackenzie — UPSC",
-   "source": "Reuters",
-   "source_url": "https://www.reuters.com/world/africa/kenyan-starvation-cult-leader-guilty-manslaughter-123-deaths-latest-conviction-2026-11-27/",
-   "genuineness": "verified",
-   "outlets": [
-    "Reuters",
-    "Al Jazeera",
-    "BBC",
-    "Associated Press",
-    "Channel News Asia"
-   ],
-   "image": null,
-   "image_credit": null
-  },
-  {
-   "id": "world-20261128-0624-03",
-   "published_ist": "2026-11-26T12:00:00+05:30",
-   "headline": "Brazil ke vitt mantri bane Trabuco",
-   "detail": "Brazil ke rashtrapati Lula ne Bradesco ke adhyaksh Luiz Carlos Trabuco ko agla vitt mantri banaya; ghoshna ke baad real aur share bazaar chadhe.",
-   "category": "World",
-   "exam_angle": "Brazil, Lula, Trabuco — UPSC IR/Economy",
-   "source": "Reuters",
-   "source_url": "https://www.reuters.com/world/americas/brazilian-markets-rally-after-lula-taps-bradesco-chairman-finance-chief-2026-11-27/",
-   "genuineness": "verified",
-   "outlets": [
-    "Reuters",
-    "AFP",
-    "The Hindu",
-    "The Straits Times"
    ],
    "image": null,
    "image_credit": null
