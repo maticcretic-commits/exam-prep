@@ -364,6 +364,63 @@
    ],
    "image": null,
    "image_credit": null
+  },
+  {
+   "id": "world-20261128-1122-01",
+   "published_ist": "2026-11-28T03:00:00+05:30",
+   "headline": "Sara Duterte ne istife se mana kiya",
+   "detail": "Philippines ki up-rashtrapati Sara Duterte ne istife se mana kar diya aur kaha woh mahabhiyog mukadme ke faisle ke liye taiyar hain; aarop 81.7 crore peso ki bina-hisab sampatti ka hai.",
+   "category": "World",
+   "exam_angle": "Philippines, Sara Duterte, mahabhiyog — UPSC IR",
+   "source": "Inquirer",
+   "source_url": "https://newsinfo.inquirer.net/2348309/sara-prepared-for-worst-as-trial-nears-decision/amp",
+   "genuineness": "verified",
+   "outlets": [
+    "Inquirer",
+    "BusinessMirror",
+    "Tutubi",
+    "Times Now"
+   ],
+   "image": null,
+   "image_credit": null
+  },
+  {
+   "id": "world-20261128-1122-02",
+   "published_ist": "2026-11-27T20:40:00+05:30",
+   "headline": "Kuwait ne Iran ke rajdoot ko bulaya",
+   "detail": "Kuwait ne drone hamle ke baad Iran ke rajdoot ko bulakar virodh-patra saunpa; hamle me 2 Italian mare gaye the, Iran ne zimmedari se inkar kiya.",
+   "category": "World",
+   "exam_angle": "Kuwait-Iran tanav, Hormuz sankat — UPSC IR",
+   "source": "Arab News",
+   "source_url": "https://www.arabnews.com/middle-east/kuwait-summons-iran-ambassador-over-continued-iranian-attacks-3014269",
+   "genuineness": "verified",
+   "outlets": [
+    "Arab News",
+    "Dawn",
+    "Khaleej Times",
+    "Xinhua"
+   ],
+   "image": null,
+   "image_credit": null
+  },
+  {
+   "id": "world-20261128-1122-03",
+   "published_ist": "2026-11-27T14:55:39+05:30",
+   "headline": "Russia ka sabse bada raksha budget",
+   "detail": "Russia ki sansad ne 2027-29 ke liye 50 lakh crore rouble (lagbhag $609 arab) ka raksha budget manzoor kiya, Soviet sangh ke patan ke baad sabse bada; 2027 me raksha par kul kharch ka 35.2% jayega.",
+   "category": "World",
+   "exam_angle": "Russia raksha budget, Soviet ke baad sabse bada — UPSC IR/Economy",
+   "source": "Moneycontrol",
+   "source_url": "https://www.moneycontrol.com/world/russia-passes-record-defence-budget-since-soviet-era-military-spending-may-top-1-3-trillion-article-14090340.html",
+   "genuineness": "verified",
+   "outlets": [
+    "Moneycontrol",
+    "The New Voice of Ukraine",
+    "Times Now World",
+    "Outlook India"
+   ],
+   "image": null,
+   "image_credit": null
   }
  ]
 }
