@@ -1,6 +1,99 @@
 {
-  "updated_ist": "2026-11-28T18:24:47+05:30",
+  "updated_ist": "2026-11-28T19:24:43+05:30",
   "items": [
+    {
+      "id": "world-20261128-1924-01",
+      "published_ist": "2026-11-28T12:00:00+05:30",
+      "headline": "Victoria me Labor hara, Wilson pehli mahila premier",
+      "detail": "Australia ke Victoria rajya me Liberal-National gathbandhan ne 12 saal baad Labor ko hara diya; Jess Wilson rajya ki pehli mahila premier banengi.",
+      "category": "World",
+      "exam_angle": "Australia ke dusre sabse bade rajya me satta badli; Jess Wilson rajya ki sabse yuva aur pehli mahila premier.",
+      "source": "Reuters",
+      "source_url": "https://www.reuters.com/world/asia-pacific/conservatives-set-win-government-australias-second-most-populous-state-2026-11-28/",
+      "genuineness": "verified",
+      "outlets": [
+        "Reuters",
+        "Nikkei Asia",
+        "Arab News",
+        "The Straits Times"
+      ],
+      "image": null,
+      "image_credit": null
+    },
+    {
+      "id": "world-20261128-1924-02",
+      "published_ist": "2026-11-28T12:00:00+05:30",
+      "headline": "Falklands tel par Argentina ki yachika kharij",
+      "detail": "Antarrashtriya samudra nyayalaya (ITLOS) ne 18-3 se Argentina ki yachika kharij ki; Sea Lion tel pariyojana par rok nahi lagegi.",
+      "category": "World",
+      "exam_angle": "ITLOS aur UNCLOS; Falklands (Malvinas) par Britain-Argentina vivad; Sea Lion tel kshetra.",
+      "source": "Reuters",
+      "source_url": "https://www.reuters.com/business/energy/international-court-rejects-argentinas-request-stop-uk-oil-activity-near-2026-11-28/",
+      "genuineness": "verified",
+      "outlets": [
+        "Reuters",
+        "The Straits Times",
+        "The Times",
+        "Times of Israel"
+      ],
+      "image": null,
+      "image_credit": null
+    },
+    {
+      "id": "world-20261128-1924-03",
+      "published_ist": "2026-11-27T12:00:00+05:30",
+      "headline": "Uganda me Ebola mRNA vaccine ka pehla trial",
+      "detail": "Uganda ne Africa ka pehla mRNA Ebola vaccine trial shuru kiya; Moderna ke saath 224 logon par Bundibugyo strain ke khilaf parikshan hoga.",
+      "category": "World",
+      "exam_angle": "mRNA vaccine takneek; Ebola ka Bundibugyo strain; DRC me prakop aur Bharat ka Serum Institute bhi vaccine par kaam kar raha hai.",
+      "source": "Reuters",
+      "source_url": "https://www.reuters.com/business/healthcare-pharmaceuticals/uganda-launches-africas-first-trial-an-mrna-bundibugyo-ebola-vaccine-2026-11-27/",
+      "genuineness": "verified",
+      "outlets": [
+        "Reuters",
+        "Al Jazeera",
+        "TRT World",
+        "Xinhua"
+      ],
+      "image": null,
+      "image_credit": null
+    },
+    {
+      "id": "world-20261128-1924-04",
+      "published_ist": "2026-11-27T12:00:00+05:30",
+      "headline": "Trump ne Putin se Europe me hamle rokne ko kaha",
+      "detail": "Trump ne kaha unhone China me Putin se Europe bhar me sainya aakramakta wapas lene ko kaha, taaki Ukraine par samjhauta jaldi ho sake.",
+      "category": "World",
+      "exam_angle": "America-Russia sambandh; Ukraine yuddh par samjhaute ki koshish; G20 shikhar sammelan se pehle ka sandesh.",
+      "source": "Dawn",
+      "source_url": "https://www.dawn.com/news/2047621",
+      "genuineness": "verified",
+      "outlets": [
+        "Dawn",
+        "The Daily Star",
+        "The Manila Times"
+      ],
+      "image": null,
+      "image_credit": null
+    },
+    {
+      "id": "world-20261128-1924-05",
+      "published_ist": "2026-11-27T12:00:00+05:30",
+      "headline": "Ukraine ne Black Sea me yuddh-viram ka prastav diya",
+      "detail": "Ukraine ne khadya niryaat ke liye Black Sea me yuddh-viram ka prastav diya; Bharat, Turkiye aur Misr madhyasthata me madad kar rahe hain.",
+      "category": "World",
+      "exam_angle": "Black Sea anaaj niryaat; Bharat madhyasth ki bhoomika me; Russia ke jawab ka intezar.",
+      "source": "The Geneva Times",
+      "source_url": "https://thegenevatimes.ch/ukraine-offers-black-sea-cease-fire-awaits-kremlin-response/",
+      "genuineness": "corroborated",
+      "outlets": [
+        "The Geneva Times",
+        "Bytes Europe",
+        "Suspilne"
+      ],
+      "image": null,
+      "image_credit": null
+    },
     {
       "id": "world-20261128-1824-01",
       "published_ist": "2026-11-28T06:29:00+05:30",
@@ -365,100 +458,6 @@
       ],
       "image": "../images/world/world-20261128-1222-02.jpg",
       "image_credit": "Al Jazeera"
-    },
-    {
-      "id": "world-20261128-1222-03",
-      "published_ist": "2026-11-27T12:00:00+05:30",
-      "headline": "Canary Islands naav haadse me 14 mare",
-      "detail": "Spain ke Canary Islands ke paas El Hierro se 72 km door lagbhag 100 logon wali naav se 14 shav mile, 6 log gambhir haalat me aspatal le jaye gaye. Corrected: pehle 8 maut batayi gayi thi, ab 14 ki pushti hui hai.",
-      "category": "World",
-      "exam_angle": "Spain, Canary Islands, pravasi sankat — UPSC IR",
-      "source": "Arab News",
-      "source_url": "https://www.arabnews.com/world/14-found-dead-on-migrant-boat-off-spains-canary-islands-3014335",
-      "genuineness": "verified",
-      "outlets": [
-        "Xinhua",
-        "The Times",
-        "Arab News",
-        "Straits Times"
-      ],
-      "image": null,
-      "image_credit": null
-    },
-    {
-      "id": "world-20261128-1122-01",
-      "published_ist": "2026-11-28T03:00:00+05:30",
-      "headline": "Sara Duterte ne istife se mana kiya",
-      "detail": "Philippines ki up-rashtrapati Sara Duterte ne istife se mana kar diya aur kaha woh mahabhiyog mukadme ke faisle ke liye taiyar hain; aarop 81.7 crore peso ki bina-hisab sampatti ka hai.",
-      "category": "World",
-      "exam_angle": "Philippines, Sara Duterte, mahabhiyog — UPSC IR",
-      "source": "Inquirer",
-      "source_url": "https://newsinfo.inquirer.net/2348309/sara-prepared-for-worst-as-trial-nears-decision/amp",
-      "genuineness": "verified",
-      "outlets": [
-        "Inquirer",
-        "BusinessMirror",
-        "Tutubi",
-        "Times Now"
-      ],
-      "image": null,
-      "image_credit": null
-    },
-    {
-      "id": "world-20261128-1122-02",
-      "published_ist": "2026-11-27T20:40:00+05:30",
-      "headline": "Kuwait ne Iran ke rajdoot ko bulaya",
-      "detail": "Kuwait ne drone hamle ke baad Iran ke rajdoot ko bulakar virodh-patra saunpa; hamle me 2 Italian mare gaye the, Iran ne zimmedari se inkar kiya.",
-      "category": "World",
-      "exam_angle": "Kuwait-Iran tanav, Hormuz sankat — UPSC IR",
-      "source": "Arab News",
-      "source_url": "https://www.arabnews.com/middle-east/kuwait-summons-iran-ambassador-over-continued-iranian-attacks-3014269",
-      "genuineness": "verified",
-      "outlets": [
-        "Arab News",
-        "Dawn",
-        "Khaleej Times",
-        "Xinhua"
-      ],
-      "image": null,
-      "image_credit": null
-    },
-    {
-      "id": "world-20261128-1122-03",
-      "published_ist": "2026-11-27T14:55:39+05:30",
-      "headline": "Russia ka sabse bada raksha budget",
-      "detail": "Russia ki sansad ne 2027-29 ke liye 50 lakh crore rouble (lagbhag $609 arab) ka raksha budget manzoor kiya, Soviet sangh ke patan ke baad sabse bada; 2027 me raksha par kul kharch ka 35.2% jayega.",
-      "category": "World",
-      "exam_angle": "Russia raksha budget, Soviet ke baad sabse bada — UPSC IR/Economy",
-      "source": "Moneycontrol",
-      "source_url": "https://www.moneycontrol.com/world/russia-passes-record-defence-budget-since-soviet-era-military-spending-may-top-1-3-trillion-article-14090340.html",
-      "genuineness": "verified",
-      "outlets": [
-        "Moneycontrol",
-        "The New Voice of Ukraine",
-        "Times Now World",
-        "Outlook India"
-      ],
-      "image": null,
-      "image_credit": null
-    },
-    {
-      "id": "world-20261128-1022-01",
-      "published_ist": "2026-11-27T12:00:00+05:30",
-      "headline": "Libya ja raha Russian beda wapas muda",
-      "detail": "Ukraine ne 22 November ko Benghazi bandargah me Russian jangi jahaz Merkury ko duboya tha, uske baad Libya ja raha hathiyaron se bhara Russian beda Mediterranean se wapas mud gaya.",
-      "category": "World",
-      "exam_angle": "Ukraine-Russia yuddh Libya tak pahuncha; Africa Corps ke liye hathiyar le ja raha beda wapas muda.",
-      "source": "Reuters",
-      "source_url": "https://www.reuters.com/world/europe/russian-military-flotilla-bound-libya-turns-around-after-warship-sunk-nov-22-2026-11-27/",
-      "genuineness": "verified",
-      "outlets": [
-        "Reuters",
-        "Kyiv Post",
-        "Ukrainska Pravda"
-      ],
-      "image": null,
-      "image_credit": null
     }
   ]
 }
