@@ -81,6 +81,82 @@
    ],
    "image": null,
    "image_credit": null
+  },
+  {
+   "id": "world-20261128-0722-01",
+   "published_ist": "2026-11-26T12:00:00+05:30",
+   "headline": "Cuba ke paas cargo jahaz dooba, 1 mara",
+   "detail": "Panama jhande wala Halima jahaz Cuba ke Cabanas Bay ke paas dooba; 16 me se 13 crew bacha liye gaye, 1 mara aur 3 lapata hain.",
+   "category": "World",
+   "exam_angle": "Cuba, maritime safety, Halima — UPSC",
+   "source": "Reuters",
+   "source_url": "https://www.reuters.com/world/americas/cargo-ship-sinks-off-cuba-leaving-one-dead-three-missing-2026-11-27/",
+   "genuineness": "verified",
+   "outlets": [
+    "Reuters",
+    "The Hindu",
+    "Maritime Executive",
+    "Safety4Sea"
+   ],
+   "image": null,
+   "image_credit": null
+  },
+  {
+   "id": "world-20261128-0722-02",
+   "published_ist": "2026-11-27T12:00:00+05:30",
+   "headline": "America Air Force cloud par cyber hamla",
+   "detail": "Hackers ne America Air Force ke Cloud One platform me ghuspaith ki; hamla upgrade ke dauraan pata chala, data chori hui ya nahi abhi pata nahi.",
+   "category": "World",
+   "exam_angle": "Cloud One, cyber hamla, US Air Force — UPSC",
+   "source": "Reuters",
+   "source_url": "https://www.reuters.com/world/hackers-breach-us-air-force-flagship-cloud-one-computing-platform-2026-11-27/",
+   "genuineness": "corroborated",
+   "outlets": [
+    "Reuters",
+    "Haaretz",
+    "Engadget"
+   ],
+   "image": null,
+   "image_credit": null
+  },
+  {
+   "id": "world-20261128-0722-03",
+   "published_ist": "2026-11-26T12:00:00+05:30",
+   "headline": "Kuwait drone hamle me 2 Italian mare",
+   "detail": "Kuwait me drone hamle ke baad gire malbe se 2 Italian technician mare; Kuwait aur Italy ne Iran par ilzam lagaya, Iran ne inkar kiya.",
+   "category": "World",
+   "exam_angle": "Kuwait, Iran, drone hamla — UPSC IR",
+   "source": "CNN",
+   "source_url": "https://www.cnn.com/2026/11/26/middleeast/italians-killed-iranian-attack-kuwait-intl?cid=external-feeds_iluminar_meta",
+   "genuineness": "verified",
+   "outlets": [
+    "CNN",
+    "Al Jazeera",
+    "The Wall Street Journal",
+    "Arab News"
+   ],
+   "image": null,
+   "image_credit": null
+  },
+  {
+   "id": "world-20261128-0722-04",
+   "published_ist": "2026-11-27T12:00:00+05:30",
+   "headline": "New Zealand chunav: kisi ko bahumat nahi",
+   "detail": "New Zealand ke antim natijon me satta-dhari gathbandhan ko 130 me se 65 seatein mili, bahumat se 1 kam; Opportunity Party ab nirnayak hai.",
+   "category": "World",
+   "exam_angle": "New Zealand chunav, hung parliament — UPSC IR",
+   "source": "RNZ",
+   "source_url": "https://www.rnz.co.nz/news/politics_election-2026/2820329/election-2026-final-results-coalition-loses-majority-another-election-possible",
+   "genuineness": "verified",
+   "outlets": [
+    "RNZ",
+    "Associated Press",
+    "Nikkei Asia",
+    "Al Jazeera",
+    "The Jerusalem Post"
+   ],
+   "image": null,
+   "image_credit": null
   }
  ]
 }
