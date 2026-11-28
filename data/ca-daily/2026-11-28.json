@@ -142,6 +142,76 @@
     ],
     "answer_index": 1
    }
+  },
+  {
+   "episode": 175,
+   "video_hi": "sCvkdBovRec",
+   "video_hinglish": "sCvkdBovRec",
+   "capsules": [
+    {
+     "id": "ca-ep175-s1",
+     "headline_hi": "Kuno mein nau cheetah shavak, kul sankhya 62",
+     "headline_hinglish": "Kuno mein nau cheetah shavak, kul sankhya 62",
+     "detail_hi": "Kuno National Park mein do litters mein nau shavak paida hue, Bharat mein cheeton ki sankhya baasath ho gayi.",
+     "detail_hinglish": "Kuno National Park mein do litters mein nau shavak paida hue, Bharat mein cheeton ki sankhya baasath ho gayi.",
+     "category_hi": "Environment",
+     "category_en": "Environment"
+    },
+    {
+     "id": "ca-ep175-s2",
+     "headline_hi": "Anaj utpadan record, 3,785 lakh tonne paar",
+     "headline_hinglish": "Anaj utpadan record, 3,785 lakh tonne paar",
+     "detail_hi": "Do hazaar pachchis-chhabbees mein anaj utpadan teen hazaar saat sau pachasi lakh tonne ke record star par.",
+     "detail_hinglish": "Do hazaar pachchis-chhabbees mein anaj utpadan teen hazaar saat sau pachasi lakh tonne ke record star par.",
+     "category_hi": "Agriculture",
+     "category_en": "Agriculture"
+    },
+    {
+     "id": "ca-ep175-s3",
+     "headline_hi": "Samvidhan ab 22 bhashaon mein uplabdh",
+     "headline_hinglish": "Samvidhan ab 22 bhashaon mein uplabdh",
+     "detail_hi": "Samvidhan Diwas par Up-Rashtrapati ne Samvidhan ke sanshodhit sanskaran baais Anusuchit bhashaon mein jaari kiye.",
+     "detail_hinglish": "Samvidhan Diwas par Up-Rashtrapati ne Samvidhan ke sanshodhit sanskaran baais Anusuchit bhashaon mein jaari kiye.",
+     "category_hi": "Polity",
+     "category_en": "Polity"
+    },
+    {
+     "id": "ca-ep175-s4",
+     "headline_hi": "Bharat-UAE raksha sahyog, Abu Dhabi mein baithak",
+     "headline_hinglish": "Bharat-UAE raksha sahyog, Abu Dhabi mein baithak",
+     "detail_hi": "Chaudahvi Bharat-UAE Sanyukt Raksha Sahyog Samiti ki baithak Abu Dhabi mein hui, sanyukt utpadan tez karne par sahmati.",
+     "detail_hinglish": "Chaudahvi Bharat-UAE Sanyukt Raksha Sahyog Samiti ki baithak Abu Dhabi mein hui, sanyukt utpadan tez karne par sahmati.",
+     "category_hi": "Defence",
+     "category_en": "Defence"
+    },
+    {
+     "id": "ca-ep175-s5",
+     "headline_hi": "Chariot-1 AI model, Bharat ka swadeshi LLM",
+     "headline_hinglish": "Chariot-1 AI model, Bharat ka swadeshi LLM",
+     "detail_hi": "IndiaAI Mission ke tahat Chariot-1 launch hua, gyaarah arab parameters wala swadeshi bhasha model aur TTS bhi.",
+     "detail_hinglish": "IndiaAI Mission ke tahat Chariot-1 launch hua, gyaarah arab parameters wala swadeshi bhasha model aur TTS bhi.",
+     "category_hi": "Technology",
+     "category_en": "Technology"
+    }
+   ],
+   "mcq": {
+    "id": "ca-ep175-mcq",
+    "q_hi": "Bharat mein cheeton ki kul sankhya ab kitni ho gayi hai?",
+    "q_hinglish": "Bharat mein cheeton ki kul sankhya ab kitni ho gayi hai?",
+    "options_hi": [
+     "52",
+     "72",
+     "62",
+     "82"
+    ],
+    "options_hinglish": [
+     "52",
+     "72",
+     "62",
+     "82"
+    ],
+    "answer_index": 2
+   }
   }
  ]
 }
